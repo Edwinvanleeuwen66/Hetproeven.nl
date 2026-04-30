@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recept – Het Proeven</title>
+  <meta name="description" content="Recept van Het Proeven — eerlijk en onvergetelijk eten.">
+
+  <!-- Open Graph (WhatsApp, Facebook, etc.) -->
+  <meta property="og:site_name" content="Het Proeven">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Recept – Het Proeven">
+  <meta property="og:description" content="Recept van Het Proeven — eerlijk en onvergetelijk eten.">
+  <meta property="og:image" content="/assets/images/og-default.jpg">
+
+  <!-- Recipe Schema voor Google -->
+  <script type="application/ld+json" id="recipe-schema"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+  <nav class="nav">
+    <a href="/" class="logo">Het Proeven</a>
+    <div class="nav-links">
+      <a href="/">Recepten</a>
+      <a href="/over.html">Over</a>
+    </div>
+  </nav>
+
+  <div id="content">
+    <div class="loading">Recept laden…</div>
+  </div>
+
+  <footer>
+    <p>© Het Proeven</p>
+    <a href="/admin/">Recepten beheren</a>
+  </footer>
+
+  <script>
+    // Werkt met zowel /recepten/slug als /recept.html?slug=slug
+    function getSlug() {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('slug')) return params.get('slug');
+      const parts = window.location.pathname.split('/').filter(Boolean);
+      return parts[parts.length - 1] || null;
+    }
+
+    // Zet bereidingstijd om naar ISO 8601 (PT20M) voor Google
+    function toIsoDuration(str) {
+      if (!str) return null;
+      const mins = parseInt(str);
+      return isNaN(mins) ? null : 'PT' + mins + 'M';
+    }
+
+    const slug = getSlug();
+    if (!slug) { window.location.href = '/'; }
+
+    fetch('/data/recipes.json')
+      .then(r => r.json())
+      .then(data => {
+        const recipe = (data.recipes || []).find(r => r.slug === slug);
+
+        if (!recipe) {
+          document.getElementById('content').innerHTML =
+            '<div class="error-page">Recept niet gevonden. <a href="/">Terug naar overzicht</a></div>';
+          return;
+        }
+
+        // Paginatitel en Open Graph bijwerken
+        document.title = recipe.title + ' – Het Proeven';
+        document.querySelector('meta[name="description"]').content = recipe.description || '';
+        document.querySelector('meta[property="og:title"]').content = recipe.title + ' – Het Proeven';
+        document.querySelector('meta[property="og:description"]').content = recipe.description || '';
+        if (recipe.image) {
+          document.querySelector('meta[property="og:image"]').content = recipe.image;
+        }
+
+        // Recipe Schema voor Google rich results
+        const allIngredients = (recipe.ingredient_groups || [])
+          .flatMap(g => (g.ingredients || []).map(i => i.amount + ' ' + i.name));
+
+        const schema = {
+          "@context": "https://schema.org/",
+          "@type": "Recipe",
+          "name": recipe.title,
+          "description": recipe.description || '',
+          "author": { "@type": "Person", "name": "Edwin van Leeuwen" },
+          "recipeYield": recipe.servings || '',
+          "recipeCategory": recipe.location || '',
+          "recipeIngredient": allIngredients,
+          "recipeInstructions": (recipe.steps || []).map((step, i) => ({
+            "@type": "HowToStep",
+            "position": i + 1,
+            "name": step.action,
+            "text": step.action + ': ' + step.description
+          }))
+        };
+
+        const duration = toIsoDuration(recipe.time);
+        if (duration) schema.totalTime = duration;
+        if (recipe.image) schema.image = [recipe.image];
+
+        document.getElementById('recipe-schema').textContent = JSON.stringify(schema);
+
+        // HTML opbouwen
+        const ingHtml = (recipe.ingredient_groups || []).map(group => `
+          <div class="ing-cat">${group.group_name}</div>
+          ${(group.ingredients || []).map(ing => `
+            <div class="ing-row">
+              <span>${ing.name}</span>
+              <span class="ing-amount">${ing.amount}</span>
+            </div>
+          `).join('')}
+        `).join('');
+
+        const stepsHtml = (recipe.steps || []).map((step, i) => `
+          <div class="step">
+            <div class="step-num">${i + 1}</div>
+            <div class="step-text"><strong>${step.action}:</strong> ${step.description}</div>
+          </div>
+        `).join('');
+
+        const tipHtml = recipe.chef_tip ? `
+          <div class="chef-tip">
+            <span class="chef-tip-label">Chef tip</span>
+            ${recipe.chef_tip}
+          </div>
+        ` : '';
+
+        document.getElementById('content').innerHTML = `
+          <a href="/" class="back-btn">← Terug naar recepten</a>
+          <div class="recipe-hero" style="${recipe.image ? `background-image:url(${recipe.image})` : ''}">
+            <span class="recipe-loc-tag">${recipe.location || ''}</span>
+          </div>
+          <h1 class="recipe-title">${recipe.title}</h1>
+          <p class="recipe-desc">${recipe.description || ''}</p>
+          <div class="recipe-meta">
+            ${recipe.time ? `<span class="tag">${recipe.time}</span>` : ''}
+            ${recipe.servings ? `<span class="tag">${recipe.servings}</span>` : ''}
+            ${recipe.difficulty ? `<span class="tag tag-acc">${recipe.difficulty}</span>` : ''}
+            ${recipe.wine ? `<span class="tag tag-wine">${recipe.wine}</span>` : ''}
+          </div>
+          <div class="recipe-body">
+            <div>
+              <div class="col-h">Ingrediënten</div>
+              ${ingHtml}
+            </div>
+            <div>
+              <div class="col-h">Bereiding</div>
+              ${stepsHtml}
+              ${tipHtml}
+            </div>
+          </div>
+        `;
+      })
+      .catch(() => {
+        document.getElementById('content').innerHTML =
+          '<div class="error-page">Er ging iets mis. <a href="/">Terug naar overzicht</a></div>';
+      });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+[build]
+  publish = "."
+
+# Schone URL's voor recepten: /recepten/chistorra-pintxo
+# Netlify stuurt dit door naar recept.html, URL blijft mooi
+[[redirects]]
+  from = "/recepten/:slug"
+  to = "/recept.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin"
+  to = "/admin/"
+  status = 301

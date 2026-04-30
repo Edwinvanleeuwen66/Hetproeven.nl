@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Het Proeven — Recepten die blijven hangen</title>
+  <meta name="description" content="Een persoonlijk kookboek van plekken die indruk maken. Eerlijk, onvergetelijk eten.">
+
+  <!-- Open Graph (WhatsApp, Facebook, etc.) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Het Proeven">
+  <meta property="og:title" content="Het Proeven — Recepten die blijven hangen">
+  <meta property="og:description" content="Een persoonlijk kookboek van plekken die indruk maken. Eerlijk, onvergetelijk eten.">
+  <meta property="og:url" content="https://www.hetproeven.nl/">
+  <meta property="og:image" content="https://www.hetproeven.nl/assets/images/og-default.jpg">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://www.hetproeven.nl/">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+
+  <nav class="nav">
+    <a href="/" class="logo">Het Proeven</a>
+    <div class="nav-links">
+      <a href="/">Recepten</a>
+      <a href="/over.html">Over</a>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <h1>Recepten die<br>blijven hangen</h1>
+    <p>Een persoonlijk kookboek van plekken die indruk maken. Geen algoritmes — alleen eerlijk, onvergetelijk eten.</p>
+  </header>
+
+  <div class="section-label">Meest recent</div>
+
+  <div class="recipe-grid" id="recipe-grid">
+    <div class="loading">Recepten laden…</div>
+  </div>
+
+  <footer>
+    <p>© Het Proeven</p>
+    <a href="/admin/">Recepten beheren</a>
+  </footer>
+
+  <script>
+    fetch('/data/recipes.json')
+      .then(r => r.json())
+      .then(data => {
+        const grid = document.getElementById('recipe-grid');
+        const recipes = (data.recipes || []).slice().reverse();
+        if (recipes.length === 0) {
+          grid.innerHTML = '<p class="empty">Nog geen recepten. <a href="/admin/" style="color:var(--accent)">Voeg je eerste recept toe →</a></p>';
+          return;
+        }
+        grid.innerHTML = recipes.map(r => `
+          <a href="/recepten/${encodeURIComponent(r.slug)}" class="card">
+            <div class="card-img" style="${r.image ? `background-image:url(${r.image})` : ''}">
+              ${!r.image ? '<span>Foto laden…</span>' : ''}
+            </div>
+            <div class="card-body">
+              <div class="card-loc">${r.location || ''}</div>
+              <div class="card-title">${r.title}</div>
+              <p>${r.short_description || ''}</p>
+              <div class="tags">
+                ${r.time ? `<span class="tag">${r.time}</span>` : ''}
+                ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
+                ${r.wine ? `<span class="tag tag-wine">${r.wine}</span>` : ''}
+              </div>
+            </div>
+          </a>
+        `).join('');
+      })
+      .catch(() => {
+        document.getElementById('recipe-grid').innerHTML =
+          '<p class="empty">Recepten konden niet worden geladen.</p>';
+      });
+
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+
+</body>
+</html>
