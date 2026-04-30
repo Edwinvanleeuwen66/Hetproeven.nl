@@ -1,16 +1,6 @@
 {
   "recipes": [
     {
-      "title": "Pintxo de chistorra met paprika, aioli en kappertjes",
-      "slug": "chistorra-pintxo-origineel",
-      "location": "Bilbao",
-      "time": "20 min",
-      "servings": "6 pintxos",
-      "difficulty": "Makkelijk",
-      "wine": "Rioja Crianza",
-      "image": "",
-      "short_description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en zilte kappertjes.",
-      "description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en kappertjes. De kappertjes zijn hier geen garnering — ze zijn de zilte tegenhanger van het vet.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -63,6 +53,8 @@
           ]
         }
       ],
+      "chef_tip": "Chistorra is online of bij Spaanse delicatessenwinkels te vinden. Kappertjes zijn essentieel — hun zilte zuurheid snijdt door het vet van de worst.",
+      "servings": "6 pintxos",
       "steps": [
         {
           "action": "Aioli maken",
@@ -77,19 +69,17 @@
           "description": "rooster het brood. Smeer aioli erop. Leg chistorra en paprika erop. Bestrooi met kappertjes en bieslook."
         }
       ],
-      "chef_tip": "Chistorra is online of bij Spaanse delicatessenwinkels te vinden. Kappertjes zijn essentieel — hun zilte zuurheid snijdt door het vet van de worst."
+      "wine": "Rioja Crianza",
+      "slug": "chistorra-pintxo-origineel",
+      "time": "20 min",
+      "location": "Bilbao",
+      "title": "Pintxo de chistorra met paprika, aioli en kappertjes",
+      "short_description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en zilte kappertjes.",
+      "image": "/assets/images/chistorro-paprika.jpeg",
+      "difficulty": "Makkelijk",
+      "description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en kappertjes. De kappertjes zijn hier geen garnering — ze zijn de zilte tegenhanger van het vet."
     },
     {
-      "title": "Watermeloen-feta-shot",
-      "slug": "watermeloen-feta-shot",
-      "location": "Andalusië",
-      "time": "10 min + 1 uur koelen",
-      "servings": "8 shots",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "IJskoude watermeloengazpacho met gepofte feta en basilicumolie — de perfecte zomerse openingspintxo.",
-      "description": "Een verfrissende ijskoude shot van watermeloengazpacho met een blokje gepofte feta en geurige basilicumolie.",
       "ingredient_groups": [
         {
           "group_name": "Gazpacho",
@@ -147,6 +137,8 @@
           ]
         }
       ],
+      "chef_tip": "Maak de basilicumolie een dag van tevoren — hij wordt nog mooier van kleur. De gazpacho kan 2 dagen in de koelkast bewaard worden.",
+      "servings": "8 shots",
       "steps": [
         {
           "action": "Basilicumolie",
@@ -165,19 +157,17 @@
           "description": "giet de ijskoude gazpacho in shotglaasjes. Leg een blokje gepofte feta op de rand. Druppel basilicumolie erover. Serveer direct."
         }
       ],
-      "chef_tip": "Maak de basilicumolie een dag van tevoren — hij wordt nog mooier van kleur. De gazpacho kan 2 dagen in de koelkast bewaard worden."
+      "wine": "",
+      "slug": "watermeloen-feta-shot",
+      "time": "10 min + 1 uur koelen",
+      "location": "Andalusië",
+      "title": "Watermeloen-feta-shot",
+      "short_description": "IJskoude watermeloengazpacho met gepofte feta en basilicumolie — de perfecte zomerse openingspintxo.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een verfrissende ijskoude shot van watermeloengazpacho met een blokje gepofte feta en geurige basilicumolie."
     },
     {
-      "title": "Boquerones op aardappelchip met citroen-peterseliemayo",
-      "slug": "boquerones-aardappelchip",
-      "location": "Spanje",
-      "time": "30 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "Txakoli",
-      "image": "",
-      "short_description": "Knapperige zelfgemaakte aardappelchip, citroen-peterseliemayo en een ingelegde boquerón — een elegante Spaanse pintxo.",
-      "description": "Knapperige zelfgemaakte aardappelchip als basis, een dot citroen-peterseliemayo en een ingelegde boquerón erop — een elegante Spaanse pintxo in drie happen.",
       "ingredient_groups": [
         {
           "group_name": "Chips",
@@ -235,6 +225,8 @@
           ]
         }
       ],
+      "chef_tip": "Boquerones zijn wit van kleur — niet te verwarren met bruine ansjovis uit een blikje. Frituren op 160°C geeft een nog krokanter resultaat.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Mayo maken",
@@ -249,19 +241,17 @@
           "description": "leg op elke chip een dot mayo. Leg een boquerón erop. Werk af met citroenrasp en serveer direct."
         }
       ],
-      "chef_tip": "Boquerones zijn wit van kleur — niet te verwarren met bruine ansjovis uit een blikje. Frituren op 160°C geeft een nog krokanter resultaat."
+      "wine": "Txakoli",
+      "slug": "boquerones-aardappelchip",
+      "time": "30 min",
+      "location": "Spanje",
+      "title": "Boquerones op aardappelchip met citroen-peterseliemayo",
+      "short_description": "Knapperige zelfgemaakte aardappelchip, citroen-peterseliemayo en een ingelegde boquerón — een elegante Spaanse pintxo.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Knapperige zelfgemaakte aardappelchip als basis, een dot citroen-peterseliemayo en een ingelegde boquerón erop — een elegante Spaanse pintxo in drie happen."
     },
     {
-      "title": "Bilbainito — garnaal en ei op tandenstoker",
-      "slug": "bilbainito-garnaal-ei",
-      "location": "Bilbao",
-      "time": "25 min",
-      "servings": "6 pintxos",
-      "difficulty": "Makkelijk",
-      "wine": "Rode vermout",
-      "image": "",
-      "short_description": "De iconische Bilbao-pintxo uit de jaren '60 — garnaal en hardgekookt ei op een tandenstoker met mayo en geraspt ei.",
-      "description": "De iconische pintxo uit Bilbao — gekookte garnaal en hardgekookt ei op een tandenstoker, afgetopt met huisgemaakte mayonaise en geraspt ei. Simpel, retro en verrassend lekker.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -298,6 +288,8 @@
           ]
         }
       ],
+      "chef_tip": "Voor een retro effect: gebruik een spuitzak met gekarteld mondstuk voor de mayo. Dit recept stamt uit de jaren '60 en was in Bilbao in élke bar te vinden.",
+      "servings": "6 pintxos",
       "steps": [
         {
           "action": "Eieren koken",
@@ -316,19 +308,17 @@
           "description": "prik met een tandenstoker eerst een garnaal, dan een halve eidooier. Spuit mayo erop. Rasp het hele ei fijn over alle pintxos. Serveer op kamertemperatuur."
         }
       ],
-      "chef_tip": "Voor een retro effect: gebruik een spuitzak met gekarteld mondstuk voor de mayo. Dit recept stamt uit de jaren '60 en was in Bilbao in élke bar te vinden."
+      "wine": "Rode vermout",
+      "slug": "bilbainito-garnaal-ei",
+      "time": "25 min",
+      "location": "Bilbao",
+      "title": "Bilbainito — garnaal en ei op tandenstoker",
+      "short_description": "De iconische Bilbao-pintxo uit de jaren '60 — garnaal en hardgekookt ei op een tandenstoker met mayo en geraspt ei.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "De iconische pintxo uit Bilbao — gekookte garnaal en hardgekookt ei op een tandenstoker, afgetopt met huisgemaakte mayonaise en geraspt ei. Simpel, retro en verrassend lekker."
     },
     {
-      "title": "Patatas bravas — de echte Madrileense versie",
-      "slug": "patatas-bravas-madrid",
-      "location": "Madrid",
-      "time": "35 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Krokante aardappels met de originele bravasaus zonder tomaat — pikant, rokerig en echt Madrileens.",
-      "description": "De enige echte Madrileense patatas bravas — krokante aardappels met een pittige olie-knoflook-pimentónsaus zonder tomaat, en een snelle aioli ernaast. Zo worden ze al decennialang geserveerd in de oude bodegas van Madrid.",
       "ingredient_groups": [
         {
           "group_name": "Aardappelen",
@@ -398,6 +388,8 @@
           ]
         }
       ],
+      "chef_tip": "Pimentón de la Vera is essentieel — geen gewone paprikapoeder. Dubbel frituren is het geheim: eerst gaar op lage temperatuur, dan krokant op hoge.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Aioli",
@@ -420,19 +412,17 @@
           "description": "giet de warme bravasaus over de aardappels. Zet de koude aioli apart ernaast."
         }
       ],
-      "chef_tip": "Pimentón de la Vera is essentieel — geen gewone paprikapoeder. Dubbel frituren is het geheim: eerst gaar op lage temperatuur, dan krokant op hoge."
+      "wine": "",
+      "slug": "patatas-bravas-madrid",
+      "time": "35 min",
+      "location": "Madrid",
+      "title": "Patatas bravas — de echte Madrileense versie",
+      "short_description": "Krokante aardappels met de originele bravasaus zonder tomaat — pikant, rokerig en echt Madrileens.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De enige echte Madrileense patatas bravas — krokante aardappels met een pittige olie-knoflook-pimentónsaus zonder tomaat, en een snelle aioli ernaast. Zo worden ze al decennialang geserveerd in de oude bodegas van Madrid."
     },
     {
-      "title": "Empanadas de pollo — gestoofd kip met piquillo",
-      "slug": "empanadas-de-pollo",
-      "location": "Spanje",
-      "time": "45 min",
-      "servings": "12 stuks",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Sappige kipvulling met piquillo en paprika in kant-en-klare deegvelletjes — perfect om van tevoren te maken.",
-      "description": "Sappige kipvulling van gestoofd en getrokken kipfilet met piquillo en paprika in kant-en-klare empanada deegvelletjes — de perfecte tapa die je van tevoren kunt maken en warm of op kamertemperatuur serveert.",
       "ingredient_groups": [
         {
           "group_name": "Deeg",
@@ -493,6 +483,8 @@
           ]
         }
       ],
+      "chef_tip": "Kant-en-klare empanada deegvelletjes vind je bij Spaanse delicatessenwinkels of online. Maak de vulling een dag van tevoren — dan is hij nog smaakvoller.",
+      "servings": "12 stuks",
       "steps": [
         {
           "action": "Stoof de kip",
@@ -507,19 +499,17 @@
           "description": "verwarm oven op 200°C. Schep 1 eetlepel vulling per deegvelletje. Vouw dubbel en druk dicht met een vork. Bestrijk met ei. Bak 18-20 minuten tot goudbruin."
         }
       ],
-      "chef_tip": "Kant-en-klare empanada deegvelletjes vind je bij Spaanse delicatessenwinkels of online. Maak de vulling een dag van tevoren — dan is hij nog smaakvoller."
+      "wine": "",
+      "slug": "empanadas-de-pollo",
+      "time": "45 min",
+      "location": "Spanje",
+      "title": "Empanadas de pollo — gestoofd kip met piquillo",
+      "short_description": "Sappige kipvulling met piquillo en paprika in kant-en-klare deegvelletjes — perfect om van tevoren te maken.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Sappige kipvulling van gestoofd en getrokken kipfilet met piquillo en paprika in kant-en-klare empanada deegvelletjes — de perfecte tapa die je van tevoren kunt maken en warm of op kamertemperatuur serveert."
     },
     {
-      "title": "Venusschelpen in salsa verde",
-      "slug": "venusschelpen-salsa-verde",
-      "location": "Baskenland",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "Txakoli / Albariño",
-      "image": "",
-      "short_description": "Venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus.",
-      "description": "Een klassiek Baskisch gerecht — venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus van peterselie, knoflook en witte wijn.",
       "ingredient_groups": [
         {
           "group_name": "Schelpen",
@@ -560,6 +550,8 @@
           ]
         }
       ],
+      "chef_tip": "Leg de schelpen 30 minuten in koud zout water voor gebruik — dan spugen ze het zand eruit. Gooi schelpen weg die na het koken nog gesloten zijn.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Stoom de schelpen",
@@ -574,19 +566,17 @@
           "description": "leg schelpen in de saus en warm 1 minuut mee op. Strooi rest van de peterselie erover. Serveer direct met knapperig brood."
         }
       ],
-      "chef_tip": "Leg de schelpen 30 minuten in koud zout water voor gebruik — dan spugen ze het zand eruit. Gooi schelpen weg die na het koken nog gesloten zijn."
+      "wine": "Txakoli / Albariño",
+      "slug": "venusschelpen-salsa-verde",
+      "time": "25 min",
+      "location": "Baskenland",
+      "title": "Venusschelpen in salsa verde",
+      "short_description": "Venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Een klassiek Baskisch gerecht — venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus van peterselie, knoflook en witte wijn."
     },
     {
-      "title": "Soldaditos de Pavía — witvis in krokant harina de arroz beslag",
-      "slug": "soldaditos-de-pavia",
-      "location": "Sevilla",
-      "time": "30 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "Fino sherry",
-      "image": "",
-      "short_description": "Kabeljauw in luchtig rijstbloembeslag, gestapeld op brood met aioli en geroosterde paprika.",
-      "description": "De klassieker uit Sevilla — reepjes kabeljauw in een luchtig krokant beslag van bloem en harina de arroz met ijskoud bruiswater. Knisperend krokant, gestapeld op brood met aioli en geroosterde paprika.",
       "ingredient_groups": [
         {
           "group_name": "Vis marinade",
@@ -672,6 +662,8 @@
           ]
         }
       ],
+      "chef_tip": "Harina de arroz (rijstbloem) is in elke Spaanse supermarkt te vinden. Rijstbloem bevat minder gluten — het beslag wordt daardoor knisperend krokant. Alles moet ijskoud zijn. Serveer DIRECT — krokant wacht op niemand.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Marineer",
@@ -694,19 +686,17 @@
           "description": "smeer aioli op geroosterd brood. Leg een paprikareepje erop. Leg de gloeiend hete vis erop. Bestrooi met peterselie en fleur de sel. Serveer direct."
         }
       ],
-      "chef_tip": "Harina de arroz (rijstbloem) is in elke Spaanse supermarkt te vinden. Rijstbloem bevat minder gluten — het beslag wordt daardoor knisperend krokant. Alles moet ijskoud zijn. Serveer DIRECT — krokant wacht op niemand."
+      "wine": "Fino sherry",
+      "slug": "soldaditos-de-pavia",
+      "time": "30 min",
+      "location": "Sevilla",
+      "title": "Soldaditos de Pavía — witvis in krokant harina de arroz beslag",
+      "short_description": "Kabeljauw in luchtig rijstbloembeslag, gestapeld op brood met aioli en geroosterde paprika.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De klassieker uit Sevilla — reepjes kabeljauw in een luchtig krokant beslag van bloem en harina de arroz met ijskoud bruiswater. Knisperend krokant, gestapeld op brood met aioli en geroosterde paprika."
     },
     {
-      "title": "Manchego frito met membrillo",
-      "slug": "manchego-frito-membrillo",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "Amontillado sherry",
-      "image": "",
-      "short_description": "Plakjes manchego gepaneerd en gebakken tot goudbruin — geserveerd met zoete kweepeergelei.",
-      "description": "Plakjes manchego gepaneerd in panko en snel gebakken tot goudbruin en smeltend van binnen — geserveerd met zoete membrillo. Warm en koud, zoet en zout, romig en krokant in één hap.",
       "ingredient_groups": [
         {
           "group_name": "Manchego",
@@ -747,6 +737,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik jonge manchego — die smelt mooier. Bak op hoog vuur en kort — 1 minuut per kant is genoeg. Serveer direct. Membrillo is bij de kaaswinkel of Spaanse deli te vinden.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Koel de manchego",
@@ -761,19 +753,17 @@
           "description": "verhit olie op hoog vuur. Bak de plakjes 1 minuut per kant tot goudbruin. Leg op keukenpapier. Serveer direct met membrillo."
         }
       ],
-      "chef_tip": "Gebruik jonge manchego — die smelt mooier. Bak op hoog vuur en kort — 1 minuut per kant is genoeg. Serveer direct. Membrillo is bij de kaaswinkel of Spaanse deli te vinden."
+      "wine": "Amontillado sherry",
+      "slug": "manchego-frito-membrillo",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Manchego frito met membrillo",
+      "short_description": "Plakjes manchego gepaneerd en gebakken tot goudbruin — geserveerd met zoete kweepeergelei.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Plakjes manchego gepaneerd in panko en snel gebakken tot goudbruin en smeltend van binnen — geserveerd met zoete membrillo. Warm en koud, zoet en zout, romig en krokant in één hap."
     },
     {
-      "title": "Tosta met manchego, vijgencompote en walnoot",
-      "slug": "tosta-manchego-vijgencompote",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Geroosterd brood met gesmolten manchego, zelfgemaakte vijgencompote en knapperige walnoten.",
-      "description": "Geroosterd brood met gesmolten manchego, zelfgemaakte warme vijgencompote en knapperige walnoten — zoet, zout en nootachtig in één hap.",
       "ingredient_groups": [
         {
           "group_name": "Vijgencompote",
@@ -822,6 +812,8 @@
           ]
         }
       ],
+      "chef_tip": "De vijgencompote is een week houdbaar in de koelkast. Gebruik verse vijgen in het seizoen voor een lichtere compote.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Vijgencompote",
@@ -840,19 +832,17 @@
           "description": "lepel warme vijgencompote op de gesmolten manchego. Strooi walnoten erop en maal peper erover. Serveer direct."
         }
       ],
-      "chef_tip": "De vijgencompote is een week houdbaar in de koelkast. Gebruik verse vijgen in het seizoen voor een lichtere compote."
+      "wine": "",
+      "slug": "tosta-manchego-vijgencompote",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Tosta met manchego, vijgencompote en walnoot",
+      "short_description": "Geroosterd brood met gesmolten manchego, zelfgemaakte vijgencompote en knapperige walnoten.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Geroosterd brood met gesmolten manchego, zelfgemaakte warme vijgencompote en knapperige walnoten — zoet, zout en nootachtig in één hap."
     },
     {
-      "title": "Tosta met ansjovis, gezouten boter en geraspt ei",
-      "slug": "tosta-ansjovis-boter-ei",
-      "location": "San Sebastián",
-      "time": "15 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "Txakoli / Manzanilla",
-      "image": "",
-      "short_description": "Geroosterd brood met gezouten boter, de beste ansjovis en een luchtige sneeuwlaag geraspt hardgekookt ei.",
-      "description": "Een van de meest elegante pintxos uit San Sebastián — geroosterd brood, gezouten boter, de beste ansjovis die je kunt vinden en fijn geraspt hardgekookt ei eroverheen. Vier ingrediënten, perfecte harmonie.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -884,6 +874,8 @@
           ]
         }
       ],
+      "chef_tip": "De kwaliteit van de ansjovis maakt dit gerecht — koop de beste die je kunt vinden. Gebruik écht gezouten boter — dat is essentieel. Rasp het ei op een fijne rasp voor een mooi luchtig resultaat.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Eieren koken",
@@ -902,19 +894,17 @@
           "description": "rasp de hardgekookte eieren met een fijne rasp direct over de tosta's als een luchtige sneeuwlaag. Maal peper erover en serveer met partjes citroen."
         }
       ],
-      "chef_tip": "De kwaliteit van de ansjovis maakt dit gerecht — koop de beste die je kunt vinden. Gebruik écht gezouten boter — dat is essentieel. Rasp het ei op een fijne rasp voor een mooi luchtig resultaat."
+      "wine": "Txakoli / Manzanilla",
+      "slug": "tosta-ansjovis-boter-ei",
+      "time": "15 min",
+      "location": "San Sebastián",
+      "title": "Tosta met ansjovis, gezouten boter en geraspt ei",
+      "short_description": "Geroosterd brood met gezouten boter, de beste ansjovis en een luchtige sneeuwlaag geraspt hardgekookt ei.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een van de meest elegante pintxos uit San Sebastián — geroosterd brood, gezouten boter, de beste ansjovis die je kunt vinden en fijn geraspt hardgekookt ei eroverheen. Vier ingrediënten, perfecte harmonie."
     },
     {
-      "title": "Tosta met gebakken mosselen, knoflook en pimentón",
-      "slug": "tosta-mosselen-knoflook",
-      "location": "Spanje",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Mosselen gebakken in knoflookolie met pimentón — op geroosterd brood met aioli.",
-      "description": "Mosselen kort gestoomd, uit de schelp gehaald en gebakken in knoflookolie met pimentón en witte wijn — op geroosterd brood met aioli. Snel, krachtig en vol zeesmaak.",
       "ingredient_groups": [
         {
           "group_name": "Mosselen",
@@ -971,6 +961,8 @@
           ]
         }
       ],
+      "chef_tip": "Gooi mosselen weg die na het stomen nog gesloten zijn. Bak de mosselen op zeer hoog vuur en heel kort — te lang en ze worden rubber.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Aioli",
@@ -989,19 +981,17 @@
           "description": "smeer aioli op geroosterd brood. Schep mosselen erop. Strooi peterselie erover en serveer direct met citroen."
         }
       ],
-      "chef_tip": "Gooi mosselen weg die na het stomen nog gesloten zijn. Bak de mosselen op zeer hoog vuur en heel kort — te lang en ze worden rubber."
+      "wine": "",
+      "slug": "tosta-mosselen-knoflook",
+      "time": "25 min",
+      "location": "Spanje",
+      "title": "Tosta met gebakken mosselen, knoflook en pimentón",
+      "short_description": "Mosselen gebakken in knoflookolie met pimentón — op geroosterd brood met aioli.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Mosselen kort gestoomd, uit de schelp gehaald en gebakken in knoflookolie met pimentón en witte wijn — op geroosterd brood met aioli. Snel, krachtig en vol zeesmaak."
     },
     {
-      "title": "Tosta met mosselen, chorizo en paprika",
-      "slug": "tosta-mosselen-chorizo-paprika",
-      "location": "Spanje",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Diepvriesmosselen gebakken met chorizo, paprika en ui — op geroosterd brood met aioli.",
-      "description": "Diepvriesmosselen gebakken met chorizo, paprika en ui in knoflookolie met een scheutje witte wijn — op geroosterd brood met aioli. Snel, pittig en boordevol smaak.",
       "ingredient_groups": [
         {
           "group_name": "Mosselen en chorizo",
@@ -1066,6 +1056,8 @@
           ]
         }
       ],
+      "chef_tip": "Ontdooi de mosselen in de koelkast en dep goed droog voor het bakken. Bak de chorizo eerst droog zodat het vet vrijkomt — in dat vet bak je daarna de groenten.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Aioli",
@@ -1088,19 +1080,17 @@
           "description": "rooster brood. Smeer aioli erop. Schep de mosselenmix erop en bestrooi met peterselie. Serveer direct."
         }
       ],
-      "chef_tip": "Ontdooi de mosselen in de koelkast en dep goed droog voor het bakken. Bak de chorizo eerst droog zodat het vet vrijkomt — in dat vet bak je daarna de groenten."
+      "wine": "",
+      "slug": "tosta-mosselen-chorizo-paprika",
+      "time": "25 min",
+      "location": "Spanje",
+      "title": "Tosta met mosselen, chorizo en paprika",
+      "short_description": "Diepvriesmosselen gebakken met chorizo, paprika en ui — op geroosterd brood met aioli.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Diepvriesmosselen gebakken met chorizo, paprika en ui in knoflookolie met een scheutje witte wijn — op geroosterd brood met aioli. Snel, pittig en boordevol smaak."
     },
     {
-      "title": "Crema de puerros — fluweelzachte preisoep met krokante chorizo",
-      "slug": "crema-puerros-chorizo",
-      "location": "Spanje",
-      "time": "45 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Fluweelzachte preisoep afgewerkt met knapperig uitgebakken chorizo.",
-      "description": "Een fluweelzachte preisoep van prei, aardappel en bouillon — afgewerkt met knapperig uitgebakken chorizo en een druppel olijfolie. Warm en elegant tegelijk.",
       "ingredient_groups": [
         {
           "group_name": "Soep",
@@ -1153,6 +1143,8 @@
           ]
         }
       ],
+      "chef_tip": "Bak de prei langzaam op laag vuur — niet laten kleuren. Mix minimaal 2 minuten voor een écht fluweelzachte textuur. De chorizo pas op het allerlaatste moment erop zodat hij krokant blijft.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Prei en ui bakken",
@@ -1171,19 +1163,17 @@
           "description": "bak chorizo in een droge pan 3 minuten tot krokant. Schep soep in kommen, leg krokante chorizo in het midden en druppel olijfolie eromheen."
         }
       ],
-      "chef_tip": "Bak de prei langzaam op laag vuur — niet laten kleuren. Mix minimaal 2 minuten voor een écht fluweelzachte textuur. De chorizo pas op het allerlaatste moment erop zodat hij krokant blijft."
+      "wine": "",
+      "slug": "crema-puerros-chorizo",
+      "time": "45 min",
+      "location": "Spanje",
+      "title": "Crema de puerros — fluweelzachte preisoep met krokante chorizo",
+      "short_description": "Fluweelzachte preisoep afgewerkt met knapperig uitgebakken chorizo.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een fluweelzachte preisoep van prei, aardappel en bouillon — afgewerkt met knapperig uitgebakken chorizo en een druppel olijfolie. Warm en elegant tegelijk."
     },
     {
-      "title": "Ensalada murciana — tomaat, ui, tonijn en ei",
-      "slug": "ensalada-murciana",
-      "location": "Murcia",
-      "time": "20 min + 15 min rusten",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Frisse Spaanse salade van rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven.",
-      "description": "Een frisse en volle Spaanse salade uit Murcia — rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven met een eenvoudige sherry-vinaigrette.",
       "ingredient_groups": [
         {
           "group_name": "Salade",
@@ -1236,6 +1226,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik de rijpste tomaten die je kunt vinden — dit gerecht staat of valt met de tomatenkwaliteit. Gebruik tonijn op goede olijfolie — het verschil is enorm.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Eieren koken",
@@ -1254,19 +1246,17 @@
           "description": "meng olijfolie met azijn, zout en peper. Druppel over de salade. Bestrooi met peterselie. Laat 15 minuten rusten."
         }
       ],
-      "chef_tip": "Gebruik de rijpste tomaten die je kunt vinden — dit gerecht staat of valt met de tomatenkwaliteit. Gebruik tonijn op goede olijfolie — het verschil is enorm."
+      "wine": "",
+      "slug": "ensalada-murciana",
+      "time": "20 min + 15 min rusten",
+      "location": "Murcia",
+      "title": "Ensalada murciana — tomaat, ui, tonijn en ei",
+      "short_description": "Frisse Spaanse salade van rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een frisse en volle Spaanse salade uit Murcia — rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven met een eenvoudige sherry-vinaigrette."
     },
     {
-      "title": "Tortillitas de calabacín — krokante courgette-fritters met manchego",
-      "slug": "tortillitas-calabacin",
-      "location": "Spanje",
-      "time": "30 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Flinterdunne krokante courgette-fritters met geraspte manchego en munt, met een frisse yoghurt-knoflooksaus.",
-      "description": "Flinterdunne krokante courgette-fritters met geraspte manchego en verse munt — gebakken in olijfolie en geserveerd met een frisse yoghurt-knoflooksaus.",
       "ingredient_groups": [
         {
           "group_name": "Fritters",
@@ -1327,6 +1317,8 @@
           ]
         }
       ],
+      "chef_tip": "Het uitknijpen van de courgette is de allerbelangrijkste stap — sla dit nooit over anders worden de fritters slap. Serveer direct.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Courgette drogen",
@@ -1345,19 +1337,17 @@
           "description": "leg fritters op keukenpapier. Serveer direct met de koude yoghurtsaus."
         }
       ],
-      "chef_tip": "Het uitknijpen van de courgette is de allerbelangrijkste stap — sla dit nooit over anders worden de fritters slap. Serveer direct."
+      "wine": "",
+      "slug": "tortillitas-calabacin",
+      "time": "30 min",
+      "location": "Spanje",
+      "title": "Tortillitas de calabacín — krokante courgette-fritters met manchego",
+      "short_description": "Flinterdunne krokante courgette-fritters met geraspte manchego en munt, met een frisse yoghurt-knoflooksaus.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Flinterdunne krokante courgette-fritters met geraspte manchego en verse munt — gebakken in olijfolie en geserveerd met een frisse yoghurt-knoflooksaus."
     },
     {
-      "title": "Judías verdes con tomate, jamón y huevo",
-      "slug": "judias-verdes-tomate-jamon",
-      "location": "Andalusië",
-      "time": "35 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Knapperige sperziebonen in rijke tomatensaus met jamón serrano en een gebroken ei erop.",
-      "description": "Knapperige sperziebonen gestoofd in een rijke tomatensaus met jamón serrano — afgewerkt met een gebakken ei erop. Een eerlijk en vol Andalusisch gerecht.",
       "ingredient_groups": [
         {
           "group_name": "Groenten en vlees",
@@ -1414,6 +1404,8 @@
           ]
         }
       ],
+      "chef_tip": "Blancheer de bonen altijd eerst en koel direct af in ijswater — zo blijven ze felgroen en knapperig. Serveer in kleine aardewerken schaaltjes voor een authentieke tapa-beleving.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Blancheer bonen",
@@ -1432,19 +1424,17 @@
           "description": "voeg geblancheerde bonen toe, stoof 3 minuten. Maak holletjes en breek een ei in elk. Deksel erop, 3-4 minuten op laag vuur. Bestrooi met peterselie en serveer direct."
         }
       ],
-      "chef_tip": "Blancheer de bonen altijd eerst en koel direct af in ijswater — zo blijven ze felgroen en knapperig. Serveer in kleine aardewerken schaaltjes voor een authentieke tapa-beleving."
+      "wine": "",
+      "slug": "judias-verdes-tomate-jamon",
+      "time": "35 min",
+      "location": "Andalusië",
+      "title": "Judías verdes con tomate, jamón y huevo",
+      "short_description": "Knapperige sperziebonen in rijke tomatensaus met jamón serrano en een gebroken ei erop.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Knapperige sperziebonen gestoofd in een rijke tomatensaus met jamón serrano — afgewerkt met een gebakken ei erop. Een eerlijk en vol Andalusisch gerecht."
     },
     {
-      "title": "Tosta met gekarameliseerde appel, chorizo en manchego",
-      "slug": "tosta-appel-chorizo-manchego",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego.",
-      "description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego — zoet, zout en pittig in één hap.",
       "ingredient_groups": [
         {
           "group_name": "Tosta",
@@ -1484,6 +1474,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik een zure appel zoals Granny Smith — houdt beter stand bij het bakken.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Chorizo bakken",
@@ -1502,19 +1494,17 @@
           "description": "leg gekarameliseerde appel op de gesmolten manchego. Leg chorizo erop. Druppel wat extra honing erop en serveer direct."
         }
       ],
-      "chef_tip": "Gebruik een zure appel zoals Granny Smith — houdt beter stand bij het bakken."
+      "wine": "",
+      "slug": "tosta-appel-chorizo-manchego",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Tosta met gekarameliseerde appel, chorizo en manchego",
+      "short_description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego — zoet, zout en pittig in één hap."
     },
     {
-      "title": "Pintxo de chistorra met geroosterde paprika, aioli en kappertjes",
-      "slug": "chistorra-paprika-aioli-kappertjes",
-      "location": "Bilbao",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "Rioja",
-      "image": "",
-      "short_description": "Knapperig brood met aioli, geroosterde paprika, krokante chistorra en kappertjes.",
-      "description": "Knapperig geroosterd brood met aioli, geroosterde rode paprika, gebakken chistorra en kappertjes — een kleurrijke pintxo die er prachtig uitziet op tafel.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -1554,6 +1544,8 @@
           ]
         }
       ],
+      "chef_tip": "Rooster de paprika's van tevoren — bewaar in olijfolie in de koelkast.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Paprika roosteren",
@@ -1568,19 +1560,17 @@
           "description": "rooster brood. Smeer aioli erop. Leg paprika en chistorra erop. Strooi kappertjes en peterselie erover. Serveer direct."
         }
       ],
-      "chef_tip": "Rooster de paprika's van tevoren — bewaar in olijfolie in de koelkast."
+      "wine": "Rioja",
+      "slug": "chistorra-paprika-aioli-kappertjes",
+      "time": "20 min",
+      "location": "Bilbao",
+      "title": "Pintxo de chistorra met geroosterde paprika, aioli en kappertjes",
+      "short_description": "Knapperig brood met aioli, geroosterde paprika, krokante chistorra en kappertjes.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Knapperig geroosterd brood met aioli, geroosterde rode paprika, gebakken chistorra en kappertjes — een kleurrijke pintxo die er prachtig uitziet op tafel."
     },
     {
-      "title": "Pintxo de chistorra met appelcompote, honingmosterd en tijm",
-      "slug": "chistorra-appelcompote-mosterd",
-      "location": "Bilbao",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Geroosterd brood met honingmosterd, warme appelcompote, krokante chistorra en verse tijm.",
-      "description": "Geroosterd brood met honingmosterd, gekarameliseerde appelcompote, knapperige chistorra en verse tijm.",
       "ingredient_groups": [
         {
           "group_name": "Appelcompote",
@@ -1629,6 +1619,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik een zure appel — houdt beter stand en snijdt door de vettigheid. De appelcompote kan van tevoren gemaakt worden.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Appelcompote",
@@ -1647,19 +1639,17 @@
           "description": "rooster brood. Smeer honingmosterd erop. Lepel warme appelcompote erop. Leg chistorra erop. Garneer met verse tijm en serveer direct."
         }
       ],
-      "chef_tip": "Gebruik een zure appel — houdt beter stand en snijdt door de vettigheid. De appelcompote kan van tevoren gemaakt worden."
+      "wine": "",
+      "slug": "chistorra-appelcompote-mosterd",
+      "time": "25 min",
+      "location": "Bilbao",
+      "title": "Pintxo de chistorra met appelcompote, honingmosterd en tijm",
+      "short_description": "Geroosterd brood met honingmosterd, warme appelcompote, krokante chistorra en verse tijm.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Geroosterd brood met honingmosterd, gekarameliseerde appelcompote, knapperige chistorra en verse tijm."
     },
     {
-      "title": "Avocado-mango tartaartje met rode ui, chili en limoen",
-      "slug": "avocado-mango-tartaartje",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Fris tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.",
-      "description": "Een fris en kleurrijk tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.",
       "ingredient_groups": [
         {
           "group_name": "Tartaar",
@@ -1713,6 +1703,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik een rijpe maar stevige avocado. Voeg het limoensap pas op het laatste moment toe.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Rode ui weken",
@@ -1731,19 +1723,17 @@
           "description": "rooster het brood kort. Schep het tartaartje erop en serveer direct."
         }
       ],
-      "chef_tip": "Gebruik een rijpe maar stevige avocado. Voeg het limoensap pas op het laatste moment toe."
+      "wine": "",
+      "slug": "avocado-mango-tartaartje",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Avocado-mango tartaartje met rode ui, chili en limoen",
+      "short_description": "Fris tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een fris en kleurrijk tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing."
     },
     {
-      "title": "Tosta met avocadocrème en krabsalade met sinaasappel",
-      "slug": "tosta-avocado-krabsalade",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Geroosterd brood met romige avocadocrème en frisse krabsalade met sinaasappel en kappertjes.",
-      "description": "Geroosterd brood met avocadocrème en frisse krabsalade met sinaasappel, mayo en kappertjes.",
       "ingredient_groups": [
         {
           "group_name": "Avocadocrème",
@@ -1801,6 +1791,8 @@
           ]
         }
       ],
+      "chef_tip": "Maak de avocadocrème op het laatste moment zodat hij niet bruin wordt.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Rode ui weken",
@@ -1819,19 +1811,17 @@
           "description": "rooster brood. Smeer avocadocrème erop. Schep de krabsalade erop. Serveer direct."
         }
       ],
-      "chef_tip": "Maak de avocadocrème op het laatste moment zodat hij niet bruin wordt."
+      "wine": "",
+      "slug": "tosta-avocado-krabsalade",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Tosta met avocadocrème en krabsalade met sinaasappel",
+      "short_description": "Geroosterd brood met romige avocadocrème en frisse krabsalade met sinaasappel en kappertjes.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Geroosterd brood met avocadocrème en frisse krabsalade met sinaasappel, mayo en kappertjes."
     },
     {
-      "title": "Tomatenwater — kristalhelder en puur",
-      "slug": "tomatenwater",
-      "location": "Barcelona",
-      "time": "10 min + 8 uur druppelen",
-      "servings": "6 shots",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Het puurste wat je van een tomaat kunt maken — kristalhelder tomatenwater met één druppel olijfolie en fleur de sel.",
-      "description": "Kristalhelder tomatenwater gewonnen door geduld en zwaartekracht, geserveerd met één druppel olijfolie en fleur de sel.",
       "ingredient_groups": [
         {
           "group_name": "Tomatenwater",
@@ -1860,6 +1850,8 @@
           ]
         }
       ],
+      "chef_tip": "Dit recept staat of valt met de kwaliteit van de tomaten — gebruik de rijpste zomertomaten. Nooit uitknijpen — alleen zwaartekracht.",
+      "servings": "6 shots",
       "steps": [
         {
           "action": "Mix kort",
@@ -1874,19 +1866,17 @@
           "description": "giet ijskoud in gekoelde shotglaasjes. Druppel één kleine druppel olijfolie op het oppervlak. Leg één kristal fleur de sel op de druppel. Serveer onmiddellijk."
         }
       ],
-      "chef_tip": "Dit recept staat of valt met de kwaliteit van de tomaten — gebruik de rijpste zomertomaten. Nooit uitknijpen — alleen zwaartekracht."
+      "wine": "",
+      "slug": "tomatenwater",
+      "time": "10 min + 8 uur druppelen",
+      "location": "Barcelona",
+      "title": "Tomatenwater — kristalhelder en puur",
+      "short_description": "Het puurste wat je van een tomaat kunt maken — kristalhelder tomatenwater met één druppel olijfolie en fleur de sel.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Kristalhelder tomatenwater gewonnen door geduld en zwaartekracht, geserveerd met één druppel olijfolie en fleur de sel."
     },
     {
-      "title": "Pintxo met Ibérico ham, peer, manchego en rucola",
-      "slug": "pintxo-iberico-ham-peer",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Knapperig brood met vijgencrème, dunne peerschijfjes, een roos van Ibérico ham en manchegoschaafsel.",
-      "description": "Knapperig brood met vijgencrème, dunne peerschijfjes, flinterdunne Ibérico ham in een roos, manchegoschaafsel en peppery rucola bovenop.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -1930,6 +1920,8 @@
           ]
         }
       ],
+      "chef_tip": "Vraag de slager om de ham flinterdun te snijden. Werk van onderen naar boven: brood, vijgencrème, peer, hamroos, manchego, rucola.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Walnoten roosteren",
@@ -1944,19 +1936,17 @@
           "description": "schaaf manchegokrullen over de ham. Leg rucola bovenop. Strooi walnoten eromheen. Druppel honing en olijfolie erover. Serveer direct."
         }
       ],
-      "chef_tip": "Vraag de slager om de ham flinterdun te snijden. Werk van onderen naar boven: brood, vijgencrème, peer, hamroos, manchego, rucola."
+      "wine": "",
+      "slug": "pintxo-iberico-ham-peer",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Pintxo met Ibérico ham, peer, manchego en rucola",
+      "short_description": "Knapperig brood met vijgencrème, dunne peerschijfjes, een roos van Ibérico ham en manchegoschaafsel.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Knapperig brood met vijgencrème, dunne peerschijfjes, flinterdunne Ibérico ham in een roos, manchegoschaafsel en peppery rucola bovenop."
     },
     {
-      "title": "Pintxo met Ibérico ham, meloen, limoenyoghurt en munt",
-      "slug": "pintxo-iberico-ham-meloen",
-      "location": "Spanje",
-      "time": "15 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Knapperig brood met limoenyoghurt, meloenschijfjes en een roos van Ibérico ham met verse munt.",
-      "description": "Een klassieke Spaanse combinatie — knapperig brood, limoenyoghurt, meloenschijfjes, Ibérico ham in een roos en verse munt erop.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -2001,6 +1991,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik een rijpe maar stevige meloen. Serveer direct — meloen en munt worden snel slap.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Limoenyoghurt",
@@ -2011,19 +2003,17 @@
           "description": "rooster brood. Smeer limoenyoghurt erop. Leg meloenschijfjes dakpansgewijs erop. Draai ham tot een roos en leg erop. Leg muntblaadjes erop en druppel honing erover. Serveer direct."
         }
       ],
-      "chef_tip": "Gebruik een rijpe maar stevige meloen. Serveer direct — meloen en munt worden snel slap."
+      "wine": "",
+      "slug": "pintxo-iberico-ham-meloen",
+      "time": "15 min",
+      "location": "Spanje",
+      "title": "Pintxo met Ibérico ham, meloen, limoenyoghurt en munt",
+      "short_description": "Knapperig brood met limoenyoghurt, meloenschijfjes en een roos van Ibérico ham met verse munt.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een klassieke Spaanse combinatie — knapperig brood, limoenyoghurt, meloenschijfjes, Ibérico ham in een roos en verse munt erop."
     },
     {
-      "title": "Pintxo met gekruide gehaktrol, aioli en piquillo",
-      "slug": "pintxo-gehaktrol-piquillo",
-      "location": "Spanje",
-      "time": "40 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Mini-gehaktrol gekruid met pimentón en peterselie, in plakjes op geroosterd brood met aioli en piquillo.",
-      "description": "Een mini-gehaktrol gekruid op Spaanse wijze met pimentón, knoflook en peterselie — in plakjes gesneden op geroosterd brood met aioli en piquillo.",
       "ingredient_groups": [
         {
           "group_name": "Gehaktrol",
@@ -2096,6 +2086,8 @@
           ]
         }
       ],
+      "chef_tip": "De folie gebruik je alleen om de rol in vorm te brengen — daarna gaat de folie eraf voor het bakken.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Gehaktmengsel",
@@ -2114,19 +2106,17 @@
           "description": "snij in plakjes van 1 cm. Rooster brood, smeer aioli erop, leg een plakje gehaktrol en een reepje piquillo erop."
         }
       ],
-      "chef_tip": "De folie gebruik je alleen om de rol in vorm te brengen — daarna gaat de folie eraf voor het bakken."
+      "wine": "",
+      "slug": "pintxo-gehaktrol-piquillo",
+      "time": "40 min",
+      "location": "Spanje",
+      "title": "Pintxo met gekruide gehaktrol, aioli en piquillo",
+      "short_description": "Mini-gehaktrol gekruid met pimentón en peterselie, in plakjes op geroosterd brood met aioli en piquillo.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Een mini-gehaktrol gekruid op Spaanse wijze met pimentón, knoflook en peterselie — in plakjes gesneden op geroosterd brood met aioli en piquillo."
     },
     {
-      "title": "Tosta met biefstuk, champignons, gekarameliseerde ui en rode wijnjus",
-      "slug": "tosta-biefstuk-champignons-wijnjus",
-      "location": "Spanje",
-      "time": "35 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "Rioja",
-      "image": "",
-      "short_description": "Geroosterd brood met gekarameliseerde ui, champignons en sappige biefstreepjes in rode wijnjus.",
-      "description": "Geroosterd brood met gekarameliseerde ui, sappige champignons en reepjes perfect gebakken biefstuk in een rijke rode wijnjus.",
       "ingredient_groups": [
         {
           "group_name": "Biefstuk en groenten",
@@ -2192,6 +2182,8 @@
           ]
         }
       ],
+      "chef_tip": "Laat de biefstuk altijd 5 minuten rusten voor snijden. De ui heeft tijd nodig — 15 minuten op laag vuur voor echte karamelisatie.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Ui karameliseren",
@@ -2214,19 +2206,17 @@
           "description": "snij biefstuk in dunne reepjes. Voeg ui en champignons terug in de jus. Schep alles op geroosterd brood. Druppel jus eroverheen en bestrooi met peterselie."
         }
       ],
-      "chef_tip": "Laat de biefstuk altijd 5 minuten rusten voor snijden. De ui heeft tijd nodig — 15 minuten op laag vuur voor echte karamelisatie."
+      "wine": "Rioja",
+      "slug": "tosta-biefstuk-champignons-wijnjus",
+      "time": "35 min",
+      "location": "Spanje",
+      "title": "Tosta met biefstuk, champignons, gekarameliseerde ui en rode wijnjus",
+      "short_description": "Geroosterd brood met gekarameliseerde ui, champignons en sappige biefstreepjes in rode wijnjus.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Geroosterd brood met gekarameliseerde ui, sappige champignons en reepjes perfect gebakken biefstuk in een rijke rode wijnjus."
     },
     {
-      "title": "Tosta met gegrilde kip, mango-chutney en koriander",
-      "slug": "tosta-kip-mango-koriander",
-      "location": "Logroño",
-      "time": "30 min + 30 min marineren",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Gemarineerde kippendijreepjes gegrild op hoog vuur, op brood met mango-chutney en verse koriander.",
-      "description": "Gemarineerde kippendijreepjes gegrild op hoog vuur met een mooie korst — op geroosterd brood met zelfgemaakte mango-chutney en verse koriander.",
       "ingredient_groups": [
         {
           "group_name": "Kip marinade",
@@ -2300,6 +2290,8 @@
           ]
         }
       ],
+      "chef_tip": "Marineer de kip minstens 30 minuten — een nacht in de koelkast is nog beter. Gebruik kippendij — die blijft sappiger op de grill.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Marineer",
@@ -2318,19 +2310,17 @@
           "description": "rooster brood. Schep mango-chutney erop. Leg gegrilde kippreepjes erop. Strooi rest van de koriander erover."
         }
       ],
-      "chef_tip": "Marineer de kip minstens 30 minuten — een nacht in de koelkast is nog beter. Gebruik kippendij — die blijft sappiger op de grill."
+      "wine": "",
+      "slug": "tosta-kip-mango-koriander",
+      "time": "30 min + 30 min marineren",
+      "location": "Logroño",
+      "title": "Tosta met gegrilde kip, mango-chutney en koriander",
+      "short_description": "Gemarineerde kippendijreepjes gegrild op hoog vuur, op brood met mango-chutney en verse koriander.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Gemarineerde kippendijreepjes gegrild op hoog vuur met een mooie korst — op geroosterd brood met zelfgemaakte mango-chutney en verse koriander."
     },
     {
-      "title": "Bacon-garnaalspies op brood met knoflook-citrusmayo",
-      "slug": "bacon-garnaalspies-brood",
-      "location": "San Sebastián",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "Txakoli",
-      "image": "",
-      "short_description": "Dikke garnalen strak gewikkeld in krokante bacon, gegrild en op brood met knoflook-citrusmayo.",
-      "description": "Dikke sappige garnalen strak gewikkeld in krokante bacon, gegrild op hoog vuur op geroosterd brood met knoflook-citrusmayo — geïnspireerd op Bar Desy in Gros, San Sebastián.",
       "ingredient_groups": [
         {
           "group_name": "Garnaalspies",
@@ -2396,6 +2386,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik dikke garnalen — kleine garnalen worden te snel droog in de bacon. Grill op heel hoog vuur en kort.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Marineer",
@@ -2414,19 +2406,17 @@
           "description": "rooster brood. Smeer mayo erop. Leg 2 spiesjes erop. Bestrooi met peterselie en serveer direct."
         }
       ],
-      "chef_tip": "Gebruik dikke garnalen — kleine garnalen worden te snel droog in de bacon. Grill op heel hoog vuur en kort."
+      "wine": "Txakoli",
+      "slug": "bacon-garnaalspies-brood",
+      "time": "25 min",
+      "location": "San Sebastián",
+      "title": "Bacon-garnaalspies op brood met knoflook-citrusmayo",
+      "short_description": "Dikke garnalen strak gewikkeld in krokante bacon, gegrild en op brood met knoflook-citrusmayo.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Dikke sappige garnalen strak gewikkeld in krokante bacon, gegrild op hoog vuur op geroosterd brood met knoflook-citrusmayo — geïnspireerd op Bar Desy in Gros, San Sebastián."
     },
     {
-      "title": "La Bomba de la Barceloneta",
-      "slug": "la-bomba-barceloneta",
-      "location": "Barcelona",
-      "time": "50 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "De iconische tapa van Barceloneta — knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd en geserveerd met bravasaus en aioli.",
-      "description": "De iconische tapa van Barceloneta uit 1944 — een grote knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd tot goudbruin en geserveerd met bravasaus én aioli.",
       "ingredient_groups": [
         {
           "group_name": "Ballen",
@@ -2532,6 +2522,8 @@
           ]
         }
       ],
+      "chef_tip": "De aardappelpuree moet zo droog mogelijk zijn. Serveer altijd met BEIDE sauzen naast elkaar — dat is de traditie van La Cova Fumada.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Aardappelpuree",
@@ -2554,19 +2546,17 @@
           "description": "wentel elke bal door ei en dan door paneermeel. Frituur op 180°C 3-4 minuten tot goudbruin. Serveer direct met BEIDE sauzen."
         }
       ],
-      "chef_tip": "De aardappelpuree moet zo droog mogelijk zijn. Serveer altijd met BEIDE sauzen naast elkaar — dat is de traditie van La Cova Fumada."
+      "wine": "",
+      "slug": "la-bomba-barceloneta",
+      "time": "50 min",
+      "location": "Barcelona",
+      "title": "La Bomba de la Barceloneta",
+      "short_description": "De iconische tapa van Barceloneta — knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd en geserveerd met bravasaus en aioli.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De iconische tapa van Barceloneta uit 1944 — een grote knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd tot goudbruin en geserveerd met bravasaus én aioli."
     },
     {
-      "title": "Gegrilde watermeloen met geroosterde tomaat en basilicumolie",
-      "slug": "gegrilde-watermeloen-tomaat",
-      "location": "Barcelona",
-      "time": "1 uur",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Dikke plakken watermeloen gegrild tot ze karameliseren, met langzaam geroosterde cherrytomaatjes en basilicumolie.",
-      "description": "Geïnspireerd op Tickets Bar van Albert Adrià — dikke plakken watermeloen kort gegrild, geserveerd met langzaam geroosterde cherrytomaatjes en basilicumolie. Simpel, verrassend en verbluffend lekker.",
       "ingredient_groups": [
         {
           "group_name": "Watermeloen",
@@ -2620,6 +2610,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik een gloeiend hete droge grillpan — geen olie. Grill maximaal 1-2 minuten per kant.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Basilicumolie",
@@ -2638,19 +2630,17 @@
           "description": "leg gegrilde watermeloen op een schaal. Schik geroosterde tomaatjes erop. Druppel basilicumolie en balsamicoazijn erover. Bestrooi met fleur de sel. Serveer onmiddellijk."
         }
       ],
-      "chef_tip": "Gebruik een gloeiend hete droge grillpan — geen olie. Grill maximaal 1-2 minuten per kant."
+      "wine": "",
+      "slug": "gegrilde-watermeloen-tomaat",
+      "time": "1 uur",
+      "location": "Barcelona",
+      "title": "Gegrilde watermeloen met geroosterde tomaat en basilicumolie",
+      "short_description": "Dikke plakken watermeloen gegrild tot ze karameliseren, met langzaam geroosterde cherrytomaatjes en basilicumolie.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Geïnspireerd op Tickets Bar van Albert Adrià — dikke plakken watermeloen kort gegrild, geserveerd met langzaam geroosterde cherrytomaatjes en basilicumolie. Simpel, verrassend en verbluffend lekker."
     },
     {
-      "title": "Huevos rotos con jamón — gebroken eieren met ham",
-      "slug": "huevos-rotos-jamon",
-      "location": "Madrid",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Krokante aardappelschijfjes met gebakken eieren die je breekt zodat de dooier over alles stroomt, met Ibérico ham.",
-      "description": "Een van de meest geliefde Madrid tapas — krokante gefrituurde aardappelschijfjes met gebakken eieren die je net voor het serveren breekt zodat de dooier over alles stroomt, met flinterdunne Ibérico ham.",
       "ingredient_groups": [
         {
           "group_name": "Aardappelen",
@@ -2687,6 +2677,8 @@
           ]
         }
       ],
+      "chef_tip": "Leg de ham koud op het hete gerecht — die warmt vanzelf op en wordt licht krokant aan de randen.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Aardappelen frituren",
@@ -2701,19 +2693,17 @@
           "description": "verdeel warme aardappelschijfjes over diepe borden. Leg gebakken eieren erop. Leg ham erover. Breek de eieren direct aan tafel met een vork. Serveer direct."
         }
       ],
-      "chef_tip": "Leg de ham koud op het hete gerecht — die warmt vanzelf op en wordt licht krokant aan de randen."
+      "wine": "",
+      "slug": "huevos-rotos-jamon",
+      "time": "25 min",
+      "location": "Madrid",
+      "title": "Huevos rotos con jamón — gebroken eieren met ham",
+      "short_description": "Krokante aardappelschijfjes met gebakken eieren die je breekt zodat de dooier over alles stroomt, met Ibérico ham.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een van de meest geliefde Madrid tapas — krokante gefrituurde aardappelschijfjes met gebakken eieren die je net voor het serveren breekt zodat de dooier over alles stroomt, met flinterdunne Ibérico ham."
     },
     {
-      "title": "Banderilla — Madrid's iconische tapaprikker",
-      "slug": "banderilla-madrid",
-      "location": "Madrid",
-      "time": "10 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "Vermout / koud bier",
-      "image": "",
-      "short_description": "De iconische Madrid banderilla — olijf, zilverui, ansjovis en guindilla-pepertje op een prikker.",
-      "description": "De iconische Madrid banderilla — een mini-prikker van groene olijf, zilverui, ansjovis en guindilla-pepertje. Zout, zuur en pittig in één hap. Typisch bij een koud tapbier in de oude tabernas van Madrid.",
       "ingredient_groups": [
         {
           "group_name": "Banderilla",
@@ -2750,6 +2740,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik de beste ansjovis die je kunt vinden — Cantabrische zijn zouter en vleziger. De volgorde op de prikker: olijf, ui, ansjovis opgerold, pepertje.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Ingrediënten voorbereiden",
@@ -2764,19 +2756,17 @@
           "description": "leg de banderillas op een schaal. Druppel olijfolie en sherry-azijn erover. Serveer direct bij een koud glas bier of vermout."
         }
       ],
-      "chef_tip": "Gebruik de beste ansjovis die je kunt vinden — Cantabrische zijn zouter en vleziger. De volgorde op de prikker: olijf, ui, ansjovis opgerold, pepertje."
+      "wine": "Vermout / koud bier",
+      "slug": "banderilla-madrid",
+      "time": "10 min",
+      "location": "Madrid",
+      "title": "Banderilla — Madrid's iconische tapaprikker",
+      "short_description": "De iconische Madrid banderilla — olijf, zilverui, ansjovis en guindilla-pepertje op een prikker.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "De iconische Madrid banderilla — een mini-prikker van groene olijf, zilverui, ansjovis en guindilla-pepertje. Zout, zuur en pittig in één hap. Typisch bij een koud tapbier in de oude tabernas van Madrid."
     },
     {
-      "title": "Bladerdeegbakje met foie gras, vijgenconfiture en Pedro Ximénez",
-      "slug": "bladerdeeg-foie-gras-vijgen",
-      "location": "Madrid",
-      "time": "30 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "Pedro Ximénez",
-      "image": "",
-      "short_description": "Knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel zoete sherry.",
-      "description": "Geïnspireerd op Lhardy, het oudste restaurant van Madrid (1839) — knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel Pedro Ximénez sherry.",
       "ingredient_groups": [
         {
           "group_name": "Bakjes",
@@ -2817,6 +2807,8 @@
           ]
         }
       ],
+      "chef_tip": "De bakjes kun je een dag van tevoren maken. Vul pas vlak voor serveren zodat het bladerdeeg krokant blijft. Andere toppings: karameliseerde ui, druppel truffelolie, gekarameliseerde appel.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Rondjes uitsteken",
@@ -2835,19 +2827,17 @@
           "description": "schep een kleine quenelle foie gras in elk bakje. Leg een dot vijgenconfiture erop. Druppel Pedro Ximénez erover. Bestrooi met fleur de sel en tijmblaadjes. Serveer direct."
         }
       ],
-      "chef_tip": "De bakjes kun je een dag van tevoren maken. Vul pas vlak voor serveren zodat het bladerdeeg krokant blijft. Andere toppings: karameliseerde ui, druppel truffelolie, gekarameliseerde appel."
+      "wine": "Pedro Ximénez",
+      "slug": "bladerdeeg-foie-gras-vijgen",
+      "time": "30 min",
+      "location": "Madrid",
+      "title": "Bladerdeegbakje met foie gras, vijgenconfiture en Pedro Ximénez",
+      "short_description": "Knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel zoete sherry.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Geïnspireerd op Lhardy, het oudste restaurant van Madrid (1839) — knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel Pedro Ximénez sherry."
     },
     {
-      "title": "Tosta met gegrilde aubergine, courgette en paprika met koriandersaus",
-      "slug": "tosta-gegrilde-groenten-koriander",
-      "location": "Spanje",
-      "time": "35 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Gegrilde aubergine en courgette met paprika uit blik op knapperig brood met frisse koriandersaus.",
-      "description": "Gegrilde aubergine en courgette met geroosterde paprika uit blik op knapperig stokbrood — afgewerkt met een frisse koriandersaus met knoflook, komijn en sherry-azijn.",
       "ingredient_groups": [
         {
           "group_name": "Groenten",
@@ -2917,6 +2907,8 @@
           ]
         }
       ],
+      "chef_tip": "Dep de paprika's goed droog voor gebruik. De koriandersaus kan een dag van tevoren gemaakt worden. Geen koriander? Gebruik platte peterselie.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Aubergine zouten",
@@ -2935,19 +2927,17 @@
           "description": "rooster brood. Leg afwisselend aubergine, courgette en paprika dakpansgewijs erop. Druppel royaal koriandersaus erover en serveer direct."
         }
       ],
-      "chef_tip": "Dep de paprika's goed droog voor gebruik. De koriandersaus kan een dag van tevoren gemaakt worden. Geen koriander? Gebruik platte peterselie."
+      "wine": "",
+      "slug": "tosta-gegrilde-groenten-koriander",
+      "time": "35 min",
+      "location": "Spanje",
+      "title": "Tosta met gegrilde aubergine, courgette en paprika met koriandersaus",
+      "short_description": "Gegrilde aubergine en courgette met paprika uit blik op knapperig brood met frisse koriandersaus.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Gegrilde aubergine en courgette met geroosterde paprika uit blik op knapperig stokbrood — afgewerkt met een frisse koriandersaus met knoflook, komijn en sherry-azijn."
     },
     {
-      "title": "Tortilla española met gekarameliseerde ui",
-      "slug": "tortilla-espanola",
-      "location": "Madrid — Juana La Loca",
-      "time": "1 uur",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "Rueda Verdejo",
-      "image": "",
-      "short_description": "De smeuïgste tortilla van Madrid met geconfijte aardappelen en langzaam gekarameliseerde ui.",
-      "description": "Geïnspireerd op de legendarische tortilla van Juana La Loca in La Latina — smeuïg van binnen, licht goudbruin van buiten, met langzaam gekarameliseerde ui die de tortilla een diepe zoete smaak geeft.",
       "ingredient_groups": [
         {
           "group_name": "Tortilla",
@@ -2975,6 +2965,8 @@
           ]
         }
       ],
+      "chef_tip": "Het geheim van een smeuïge tortilla: de binnenkant mag nog een beetje vloeibaar zijn. Karameliseer de ui écht langzaam — 20 minuten minimum.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Ui karameliseren",
@@ -2997,19 +2989,17 @@
           "description": "laat 5 minuten rusten. Snij in punten of blokjes en serveer lauwwarm."
         }
       ],
-      "chef_tip": "Het geheim van een smeuïge tortilla: de binnenkant mag nog een beetje vloeibaar zijn. Karameliseer de ui écht langzaam — 20 minuten minimum."
+      "wine": "Rueda Verdejo",
+      "slug": "tortilla-espanola",
+      "time": "1 uur",
+      "location": "Madrid — Juana La Loca",
+      "title": "Tortilla española met gekarameliseerde ui",
+      "short_description": "De smeuïgste tortilla van Madrid met geconfijte aardappelen en langzaam gekarameliseerde ui.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Geïnspireerd op de legendarische tortilla van Juana La Loca in La Latina — smeuïg van binnen, licht goudbruin van buiten, met langzaam gekarameliseerde ui die de tortilla een diepe zoete smaak geeft."
     },
     {
-      "title": "Solomillo al whisky — haasbiefstuk met whisky-knoflooksaus",
-      "slug": "solomillo-al-whisky",
-      "location": "Madrid",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "Rioja",
-      "image": "",
-      "short_description": "Kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook — op geroosterd brood.",
-      "description": "Een legendarische Madrid taberna klassieker — kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook en een rijke saus.",
       "ingredient_groups": [
         {
           "group_name": "Biefstuk",
@@ -3058,6 +3048,8 @@
           ]
         }
       ],
+      "chef_tip": "Bak op zeer hoog vuur en kort — medaillons moeten rosé van binnen blijven. Laat 2 minuten rusten voor het op brood leggen. Whisky vervangen: Brandy de Jerez is de meest authentieke Spaanse keuze.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Biefstuk bakken",
@@ -3072,19 +3064,17 @@
           "description": "rooster brood. Leg een medaillon erop. Schep de saus met plakjes knoflook erover. Bestrooi met peterselie en serveer direct."
         }
       ],
-      "chef_tip": "Bak op zeer hoog vuur en kort — medaillons moeten rosé van binnen blijven. Laat 2 minuten rusten voor het op brood leggen. Whisky vervangen: Brandy de Jerez is de meest authentieke Spaanse keuze."
+      "wine": "Rioja",
+      "slug": "solomillo-al-whisky",
+      "time": "20 min",
+      "location": "Madrid",
+      "title": "Solomillo al whisky — haasbiefstuk met whisky-knoflooksaus",
+      "short_description": "Kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook — op geroosterd brood.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Een legendarische Madrid taberna klassieker — kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook en een rijke saus."
     },
     {
-      "title": "Pisto manchego con huevo — Spaanse ratatouille met gebroken ei",
-      "slug": "pisto-manchego-huevo",
-      "location": "Madrid",
-      "time": "45 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Langzaam gestoofde Spaanse ratatouille met courgette, paprika en tomaat, afgewerkt met een gebroken ei.",
-      "description": "De Spaanse ratatouille — courgette, paprika, tomaat en ui langzaam gestoofd tot een rijke zachte saus, met een gebroken gebakken ei erop. Troostend en typisch Madrid.",
       "ingredient_groups": [
         {
           "group_name": "Pisto",
@@ -3145,6 +3135,8 @@
           ]
         }
       ],
+      "chef_tip": "De pisto heeft tijd nodig — minstens 25 minuten sudderen. Maak de pisto van tevoren — hij wordt de volgende dag nog lekkerder.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Ui en paprika bakken",
@@ -3163,19 +3155,17 @@
           "description": "schep de warme pisto in kleine schaaltjes. Leg een gebakken ei erop. Breek de dooier aan tafel. Bestrooi met peterselie en serveer direct."
         }
       ],
-      "chef_tip": "De pisto heeft tijd nodig — minstens 25 minuten sudderen. Maak de pisto van tevoren — hij wordt de volgende dag nog lekkerder."
+      "wine": "",
+      "slug": "pisto-manchego-huevo",
+      "time": "45 min",
+      "location": "Madrid",
+      "title": "Pisto manchego con huevo — Spaanse ratatouille met gebroken ei",
+      "short_description": "Langzaam gestoofde Spaanse ratatouille met courgette, paprika en tomaat, afgewerkt met een gebroken ei.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "De Spaanse ratatouille — courgette, paprika, tomaat en ui langzaam gestoofd tot een rijke zachte saus, met een gebroken gebakken ei erop. Troostend en typisch Madrid."
     },
     {
-      "title": "Mini-kip kebab met pimientos de padrón op brood",
-      "slug": "mini-kip-kebab-padron",
-      "location": "Logroño",
-      "time": "30 min + 30 min marineren",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón op brood.",
-      "description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón — op geroosterd brood met knoflook-citrusmayo. Geïnspireerd op Taberna Tío Blas op Calle Laurel in Logroño.",
       "ingredient_groups": [
         {
           "group_name": "Kip",
@@ -3245,6 +3235,8 @@
           ]
         }
       ],
+      "chef_tip": "Bak de pimientos de padrón op heel hoog vuur in een droge pan zonder olie. Let op: 1 op 10 pimientos is pittig — dat hoort erbij!",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Marineer kip",
@@ -3263,19 +3255,17 @@
           "description": "rooster brood. Smeer mayo erop. Leg een kipskewer erop en schik 2-3 pimientos ernaast."
         }
       ],
-      "chef_tip": "Bak de pimientos de padrón op heel hoog vuur in een droge pan zonder olie. Let op: 1 op 10 pimientos is pittig — dat hoort erbij!"
+      "wine": "",
+      "slug": "mini-kip-kebab-padron",
+      "time": "30 min + 30 min marineren",
+      "location": "Logroño",
+      "title": "Mini-kip kebab met pimientos de padrón op brood",
+      "short_description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón op brood.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón — op geroosterd brood met knoflook-citrusmayo. Geïnspireerd op Taberna Tío Blas op Calle Laurel in Logroño."
     },
     {
-      "title": "Gegrilde sardine op pisto manchego",
-      "slug": "gegrilde-sardine-pisto",
-      "location": "Logroño",
-      "time": "40 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Verse gegrilde sardine op een laagje warme pisto manchego op knapperig geroosterd brood.",
-      "description": "Geïnspireerd op La Tavina in Logroño — verse gegrilde sardine op een laagje warme pisto manchego, op knapperig geroosterd brood. Rokerig, zomers en vol mediterrane smaak.",
       "ingredient_groups": [
         {
           "group_name": "Sardines",
@@ -3349,6 +3339,8 @@
           ]
         }
       ],
+      "chef_tip": "Maak de pisto van tevoren — hij wordt de volgende dag nog lekkerder. Dep de sardines goed droog voor het grillen.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Pisto maken",
@@ -3363,19 +3355,17 @@
           "description": "rooster brood. Schep een royale dot warme pisto erop. Leg een gegrilde sardine erop. Bestrooi met peterselie en serveer met citroen."
         }
       ],
-      "chef_tip": "Maak de pisto van tevoren — hij wordt de volgende dag nog lekkerder. Dep de sardines goed droog voor het grillen."
+      "wine": "",
+      "slug": "gegrilde-sardine-pisto",
+      "time": "40 min",
+      "location": "Logroño",
+      "title": "Gegrilde sardine op pisto manchego",
+      "short_description": "Verse gegrilde sardine op een laagje warme pisto manchego op knapperig geroosterd brood.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Geïnspireerd op La Tavina in Logroño — verse gegrilde sardine op een laagje warme pisto manchego, op knapperig geroosterd brood. Rokerig, zomers en vol mediterrane smaak."
     },
     {
-      "title": "De krokodiltapa — varkenslende op huisgemaakte chips",
-      "slug": "krokodiltapa-varkenslende-chips",
-      "location": "Santiago de Compostela",
-      "time": "40 min + 30 min marineren",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Mals gebakken varkenslende op knapperige huisgemaakte chips — de legendarische tapa van Bar Abellá in Santiago.",
-      "description": "De legendarische krokodiltapa van Bar Abellá in Santiago de Compostela — mals gebakken varkenslende op knapperige huisgemaakte chips.",
       "ingredient_groups": [
         {
           "group_name": "Varkenslende",
@@ -3441,6 +3431,8 @@
           ]
         }
       ],
+      "chef_tip": "Marineer de lende minstens 30 minuten. Bak de lende op hoog vuur en kort — 1-2 minuten per kant. Serveer direct.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Marineer",
@@ -3459,19 +3451,17 @@
           "description": "leg krokante chips op een bordje. Leg de gebakken lende erop. Bestrooi met peterselie en serveer direct."
         }
       ],
-      "chef_tip": "Marineer de lende minstens 30 minuten. Bak de lende op hoog vuur en kort — 1-2 minuten per kant. Serveer direct."
+      "wine": "",
+      "slug": "krokodiltapa-varkenslende-chips",
+      "time": "40 min + 30 min marineren",
+      "location": "Santiago de Compostela",
+      "title": "De krokodiltapa — varkenslende op huisgemaakte chips",
+      "short_description": "Mals gebakken varkenslende op knapperige huisgemaakte chips — de legendarische tapa van Bar Abellá in Santiago.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De legendarische krokodiltapa van Bar Abellá in Santiago de Compostela — mals gebakken varkenslende op knapperige huisgemaakte chips."
     },
     {
-      "title": "Langoustineskewer met passievruchtmayo",
-      "slug": "langoustineskewer-passievrucht",
-      "location": "Costa Brava — Begur",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Gegrilde langoustines op een skewer met verrassende passievruchtmayonaise — zoet, zout en fris tegelijk.",
-      "description": "Geïnspireerd op Can Climent in Begur — gegrilde langoustines op een skewer met verrassende passievruchtmayonaise. Zoet, zout en fris tegelijk.",
       "ingredient_groups": [
         {
           "group_name": "Langoustines",
@@ -3533,6 +3523,8 @@
           ]
         }
       ],
+      "chef_tip": "Grill op heel hoog vuur en heel kort. In Andalusië: vervang langoustines door carabinero de Huelva. Aan de Costa Brava: gebruik gamba roja de Palamós.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Marineren",
@@ -3547,19 +3539,17 @@
           "description": "verhit grillpan op heel hoog vuur. Prik 2 langoustines per skewer. Grill 1-2 minuten per kant. Rooster brood. Smeer mayo erop. Leg skewer erop. Bestrooi met koriander."
         }
       ],
-      "chef_tip": "Grill op heel hoog vuur en heel kort. In Andalusië: vervang langoustines door carabinero de Huelva. Aan de Costa Brava: gebruik gamba roja de Palamós."
+      "wine": "",
+      "slug": "langoustineskewer-passievrucht",
+      "time": "25 min",
+      "location": "Costa Brava — Begur",
+      "title": "Langoustineskewer met passievruchtmayo",
+      "short_description": "Gegrilde langoustines op een skewer met verrassende passievruchtmayonaise — zoet, zout en fris tegelijk.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Geïnspireerd op Can Climent in Begur — gegrilde langoustines op een skewer met verrassende passievruchtmayonaise. Zoet, zout en fris tegelijk."
     },
     {
-      "title": "Albóndigas — de allerbeste gehaktballetjes in tomatensaus",
-      "slug": "albondigas-tomatensaus",
-      "location": "Spanje",
-      "time": "1 uur",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "Rioja Tempranillo",
-      "image": "",
-      "short_description": "Sappige gehaktballetjes van gemengd rund en varken langzaam gestoofd in een rijke tomatensaus met rode wijn.",
-      "description": "De allerbeste albóndigas — sappige gehaktballetjes van gemengd rund en varken met gekarameliseerde ui, langzaam gestoofd in een rijke tomatensaus met rode wijn en kruiden.",
       "ingredient_groups": [
         {
           "group_name": "Gehaktballetjes",
@@ -3656,6 +3646,8 @@
           ]
         }
       ],
+      "chef_tip": "Het geheim van sappige balletjes: paneermeel weken in melk. Karameliseer de ui goed. Maak ze een dag van tevoren — de volgende dag zijn ze nog lekkerder.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Ui karameliseren",
@@ -3678,19 +3670,17 @@
           "description": "verwijder laurier en tijm. Bestrooi met peterselie. Serveer in een aardewerken schaaltje met knapperig brood."
         }
       ],
-      "chef_tip": "Het geheim van sappige balletjes: paneermeel weken in melk. Karameliseer de ui goed. Maak ze een dag van tevoren — de volgende dag zijn ze nog lekkerder."
+      "wine": "Rioja Tempranillo",
+      "slug": "albondigas-tomatensaus",
+      "time": "1 uur",
+      "location": "Spanje",
+      "title": "Albóndigas — de allerbeste gehaktballetjes in tomatensaus",
+      "short_description": "Sappige gehaktballetjes van gemengd rund en varken langzaam gestoofd in een rijke tomatensaus met rode wijn.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De allerbeste albóndigas — sappige gehaktballetjes van gemengd rund en varken met gekarameliseerde ui, langzaam gestoofd in een rijke tomatensaus met rode wijn en kruiden."
     },
     {
-      "title": "Paprika's met knoflook, honing en amandelen",
-      "slug": "paprika-knoflook-honing-amandelen",
-      "location": "Andalusië",
-      "time": "15 min",
-      "servings": "6 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Gegrilde paprika's uit blik met knoflook-honingdressing en geschaafde amandelen.",
-      "description": "Gegrilde paprika's uit blik met knoflook, honing, geschaafde amandelen en peterselie — een eenvoudige maar verrassend smaakvolle Spaanse tapa.",
       "ingredient_groups": [
         {
           "group_name": "Paprika",
@@ -3731,6 +3721,8 @@
           ]
         }
       ],
+      "chef_tip": "Dep de paprika's goed droog voor gebruik. Kan een dag van tevoren gemaakt worden. Variatie: voeg een klein beetje fijngehakte verse dragon toe aan de dressing voor een verrassend anijsachtig accent.",
+      "servings": "6 personen",
       "steps": [
         {
           "action": "Paprika bereiden",
@@ -3745,19 +3737,17 @@
           "description": "giet de dressing over de paprika's en schep om. Strooi amandelen erover. Bestrooi met peterselie. Serveer op kamertemperatuur."
         }
       ],
-      "chef_tip": "Dep de paprika's goed droog voor gebruik. Kan een dag van tevoren gemaakt worden. Variatie: voeg een klein beetje fijngehakte verse dragon toe aan de dressing voor een verrassend anijsachtig accent."
+      "wine": "",
+      "slug": "paprika-knoflook-honing-amandelen",
+      "time": "15 min",
+      "location": "Andalusië",
+      "title": "Paprika's met knoflook, honing en amandelen",
+      "short_description": "Gegrilde paprika's uit blik met knoflook-honingdressing en geschaafde amandelen.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Gegrilde paprika's uit blik met knoflook, honing, geschaafde amandelen en peterselie — een eenvoudige maar verrassend smaakvolle Spaanse tapa."
     },
     {
-      "title": "Mozaïeksalade van meloen, chorizo, avocado en feta",
-      "slug": "mozaiek-meloen-chorizo-avocado-feta",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta met dragon-honingdressing.",
-      "description": "Een kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta — afgewerkt met een frisse dragon-honingdressing van rosé wijnazijn en mosterd.",
       "ingredient_groups": [
         {
           "group_name": "Mozaïek",
@@ -3810,6 +3800,8 @@
           ]
         }
       ],
+      "chef_tip": "Snij alle ingrediënten in gelijke blokjes van 2 cm — dat is het geheim van het mozaïek effect. Voeg de avocado en feta pas op het laatste moment toe.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Dressing",
@@ -3828,19 +3820,17 @@
           "description": "druppel de dressing vlak voor serveren royaal over het mozaïek. Serveer direct."
         }
       ],
-      "chef_tip": "Snij alle ingrediënten in gelijke blokjes van 2 cm — dat is het geheim van het mozaïek effect. Voeg de avocado en feta pas op het laatste moment toe."
+      "wine": "",
+      "slug": "mozaiek-meloen-chorizo-avocado-feta",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Mozaïeksalade van meloen, chorizo, avocado en feta",
+      "short_description": "Kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta met dragon-honingdressing.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "Een kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta — afgewerkt met een frisse dragon-honingdressing van rosé wijnazijn en mosterd."
     },
     {
-      "title": "Huevos rellenos endiablados — duivelse eieren met piquillo en olijf",
-      "slug": "huevos-rellenos-endiablados",
-      "location": "Spanje",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "De allerbeste duivelse eieren — romige vulling met tabasco, mosterd, piquillo en zwarte olijven.",
-      "description": "De allerbeste duivelse eieren — romige vulling van eidooier, mayo, mosterd en tabasco met fijngehakte piquillo en zwarte olijven, afgewerkt met een ringetje olijf en een streepje piquillo.",
       "ingredient_groups": [
         {
           "group_name": "Eieren en vulling",
@@ -3893,6 +3883,8 @@
           ]
         }
       ],
+      "chef_tip": "Kook de eieren exact 10 minuten — zo zijn de dooiers perfect geel van kleur. Gebruik een spuitzak met gekarteld mondstuk voor een professioneel resultaat. Meer pit? Meer tabasco!",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Eieren koken",
@@ -3915,19 +3907,17 @@
           "description": "spuit of schep de vulling royaal in elk eiwit. Leg een ringetje olijf en een reepje piquillo op elk ei. Bestrooi met pimentón picante en druppel olijfolie erover. Serveer koud."
         }
       ],
-      "chef_tip": "Kook de eieren exact 10 minuten — zo zijn de dooiers perfect geel van kleur. Gebruik een spuitzak met gekarteld mondstuk voor een professioneel resultaat. Meer pit? Meer tabasco!"
+      "wine": "",
+      "slug": "huevos-rellenos-endiablados",
+      "time": "25 min",
+      "location": "Spanje",
+      "title": "Huevos rellenos endiablados — duivelse eieren met piquillo en olijf",
+      "short_description": "De allerbeste duivelse eieren — romige vulling met tabasco, mosterd, piquillo en zwarte olijven.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "De allerbeste duivelse eieren — romige vulling van eidooier, mayo, mosterd en tabasco met fijngehakte piquillo en zwarte olijven, afgewerkt met een ringetje olijf en een streepje piquillo."
     },
     {
-      "title": "Tijm-knoflooksoep met gepocheerd ei",
-      "slug": "tijm-knoflooksoep-gepocheerd-ei",
-      "location": "Spanje",
-      "time": "35 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Heldere tijm-knoflooksoep in een klein kopje met een gepocheerd eitje dat openbreekt.",
-      "description": "Een fluweelzachte tijm-knoflooksoep geserveerd in een klein kopje met een gepocheerd eitje erin dat openbreekt — elegant, warm en verrassend eenvoudig.",
       "ingredient_groups": [
         {
           "group_name": "Soep",
@@ -3976,6 +3966,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik de versste eieren — hoe verser het ei hoe mooier het pocheert. Serveer in espressokopjes of kleine aardewerken schaaltjes. De dooier moet nog vloeibaar zijn.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Knoflook en tijm",
@@ -3994,19 +3986,17 @@
           "description": "schenk warme soep in kleine kopjes. Leg voorzichtig een gepocheerd ei in elk kopje. Bestrooi met pimentón en manchego. Serveer direct."
         }
       ],
-      "chef_tip": "Gebruik de versste eieren — hoe verser het ei hoe mooier het pocheert. Serveer in espressokopjes of kleine aardewerken schaaltjes. De dooier moet nog vloeibaar zijn."
+      "wine": "",
+      "slug": "tijm-knoflooksoep-gepocheerd-ei",
+      "time": "35 min",
+      "location": "Spanje",
+      "title": "Tijm-knoflooksoep met gepocheerd ei",
+      "short_description": "Heldere tijm-knoflooksoep in een klein kopje met een gepocheerd eitje dat openbreekt.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Een fluweelzachte tijm-knoflooksoep geserveerd in een klein kopje met een gepocheerd eitje erin dat openbreekt — elegant, warm en verrassend eenvoudig."
     },
     {
-      "title": "Saffraangamba's met citroenmayonaise",
-      "slug": "saffraangambas-citroenmayo",
-      "location": "Spanje",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd, met zelfgemaakte citroenmayonaise.",
-      "description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd — knapperig van buiten en sappig van binnen. Geserveerd met een frisse zelfgemaakte citroenmayonaise.",
       "ingredient_groups": [
         {
           "group_name": "Saffraanbeslag",
@@ -4064,6 +4054,8 @@
           ]
         }
       ],
+      "chef_tip": "Het beslag moet ijskoud zijn. Serveer direct — krokante garnalen wachten op niemand.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Saffraan en mayo",
@@ -4078,19 +4070,17 @@
           "description": "verhit olie op 180°C. Houd garnalen bij de staart vast, doop in beslag, laat in de olie glijden. Frituur 2-3 minuten tot goudbruin. Schep op keukenpapier. Serveer direct met citroenmayonaise."
         }
       ],
-      "chef_tip": "Het beslag moet ijskoud zijn. Serveer direct — krokante garnalen wachten op niemand."
+      "wine": "",
+      "slug": "saffraangambas-citroenmayo",
+      "time": "25 min",
+      "location": "Spanje",
+      "title": "Saffraangamba's met citroenmayonaise",
+      "short_description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd, met zelfgemaakte citroenmayonaise.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd — knapperig van buiten en sappig van binnen. Geserveerd met een frisse zelfgemaakte citroenmayonaise."
     },
     {
-      "title": "Pepito Valenciano — gefrituurd broodje met tonijn en tomaat",
-      "slug": "pepito-valenciano-tonijn",
-      "location": "Valencia",
-      "time": "25 min",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant.",
-      "description": "Een typisch Valenciaans tapasgerecht — klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant van buiten, zacht en vol van smaak van binnen.",
       "ingredient_groups": [
         {
           "group_name": "Broodjes",
@@ -4148,6 +4138,8 @@
           ]
         }
       ],
+      "chef_tip": "Gebruik tonijn op olijfolie — dat geeft een rijkere smaak. Druk de broodjes goed dicht voor het frituren.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Vulling maken",
@@ -4166,19 +4158,17 @@
           "description": "serveer direct met partjes citroen."
         }
       ],
-      "chef_tip": "Gebruik tonijn op olijfolie — dat geeft een rijkere smaak. Druk de broodjes goed dicht voor het frituren."
+      "wine": "",
+      "slug": "pepito-valenciano-tonijn",
+      "time": "25 min",
+      "location": "Valencia",
+      "title": "Pepito Valenciano — gefrituurd broodje met tonijn en tomaat",
+      "short_description": "Klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "Een typisch Valenciaans tapasgerecht — klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant van buiten, zacht en vol van smaak van binnen."
     },
     {
-      "title": "Alitas y muslitos al ajillo — sticky knoflook-brandy-honing kip",
-      "slug": "alitas-muslitos-ajillo-sticky",
-      "location": "Sevilla",
-      "time": "45 min + 2 uur marineren",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Kippenvleugeltjes en -pootjes krokant uit de airfryer, gedompeld in een sticky knoflook-brandy-honing saus.",
-      "description": "De allerbeste Spaanse kippenvleugeltjes en -pootjes — gemarineerd, krokant uit de airfryer en daarna gedompeld in een sticky glanzende saus van knoflook, Brandy de Jerez en honing.",
       "ingredient_groups": [
         {
           "group_name": "Kip marinade",
@@ -4256,6 +4246,8 @@
           ]
         }
       ],
+      "chef_tip": "Marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor de airfryer. De saus pas op het laatste moment — serveer direct.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Marineren",
@@ -4274,19 +4266,17 @@
           "description": "gooi de krokante kip door de warme saus en schud goed. Bestrooi met peterselie en serveer direct."
         }
       ],
-      "chef_tip": "Marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor de airfryer. De saus pas op het laatste moment — serveer direct."
+      "wine": "",
+      "slug": "alitas-muslitos-ajillo-sticky",
+      "time": "45 min + 2 uur marineren",
+      "location": "Sevilla",
+      "title": "Alitas y muslitos al ajillo — sticky knoflook-brandy-honing kip",
+      "short_description": "Kippenvleugeltjes en -pootjes krokant uit de airfryer, gedompeld in een sticky knoflook-brandy-honing saus.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "De allerbeste Spaanse kippenvleugeltjes en -pootjes — gemarineerd, krokant uit de airfryer en daarna gedompeld in een sticky glanzende saus van knoflook, Brandy de Jerez en honing."
     },
     {
-      "title": "Ensaladilla rusa pintxo — wedstrijdwinnend met smash-techniek",
-      "slug": "ensaladilla-rusa-pintxo",
-      "location": "Madrid",
-      "time": "30 min + 2 uur koelen",
-      "servings": "4 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "De wedstrijdwinnende ensaladilla rusa — luchtig, zijdezacht en verslavend lekker dankzij de smash-techniek met kookwater.",
-      "description": "De wedstrijdwinnende ensaladilla rusa pintxo uit Madrid — een luchtige zijdezachte emulsie met de smash-techniek, Michelin-mayo en augurkenvocht. Op knapperig brood met geraspt ei en spektaculaire toppings.",
       "ingredient_groups": [
         {
           "group_name": "Aardappelbase",
@@ -4373,6 +4363,8 @@
           ]
         }
       ],
+      "chef_tip": "Het kookwater is het geheime ingrediënt — bindt aardappel en mayo tot perfecte emulsie. Tonijn in grote vlokken. Augurkenvocht geeft de verslavende frisse kick. Toppings: geraspt ei, ansjovis, olijven, cornichons, kappertjes, witte asperges, cherrytomaatjes, piquilloreepje, bieslook, mayonaise gespoten, surimi.",
+      "servings": "4 personen",
       "steps": [
         {
           "action": "Aardappelen koken",
@@ -4395,19 +4387,17 @@
           "description": "rooster het brood. Schep royaal ensaladilla erop. Rasp de eidooiers als een sneeuwlaag eroverheen. Druppel olijfolie eromheen. Serveer 5 minuten na het uit de koelkast halen."
         }
       ],
-      "chef_tip": "Het kookwater is het geheime ingrediënt — bindt aardappel en mayo tot perfecte emulsie. Tonijn in grote vlokken. Augurkenvocht geeft de verslavende frisse kick. Toppings: geraspt ei, ansjovis, olijven, cornichons, kappertjes, witte asperges, cherrytomaatjes, piquilloreepje, bieslook, mayonaise gespoten, surimi."
+      "wine": "",
+      "slug": "ensaladilla-rusa-pintxo",
+      "time": "30 min + 2 uur koelen",
+      "location": "Madrid",
+      "title": "Ensaladilla rusa pintxo — wedstrijdwinnend met smash-techniek",
+      "short_description": "De wedstrijdwinnende ensaladilla rusa — luchtig, zijdezacht en verslavend lekker dankzij de smash-techniek met kookwater.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De wedstrijdwinnende ensaladilla rusa pintxo uit Madrid — een luchtige zijdezachte emulsie met de smash-techniek, Michelin-mayo en augurkenvocht. Op knapperig brood met geraspt ei en spektaculaire toppings."
     },
     {
-      "title": "Pintxo de puerro — Baskische preisalade met ham op brood",
-      "slug": "pintxo-puerro-ham",
-      "location": "Bilbao",
-      "time": "35 min + 1 uur koelen",
-      "servings": "6 pintxos",
-      "difficulty": "Makkelijk",
-      "wine": "",
-      "image": "",
-      "short_description": "Romige preisalade met ham en ei op licht geroosterd stokbrood — zoals in de beste bars van Bilbao.",
-      "description": "De iconische Baskische pintxo de puerro — romige preisalade met ham en ei op licht geroosterd stokbrood, afgewerkt met bieslook en een druppel olijfolie.",
       "ingredient_groups": [
         {
           "group_name": "Preisalade",
@@ -4473,6 +4463,8 @@
           ]
         }
       ],
+      "chef_tip": "Het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. De verhouding 4 delen mayo op 1 deel crème fraîche is de sleutel.",
+      "servings": "6 pintxos",
       "steps": [
         {
           "action": "Prei koken en drogen",
@@ -4491,19 +4483,17 @@
           "description": "rooster brood licht. Schep een royale dot preisalade op elk sneetje. Bestrooi met bieslook en druppel olijfolie erover. Serveer koud."
         }
       ],
-      "chef_tip": "Het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. De verhouding 4 delen mayo op 1 deel crème fraîche is de sleutel."
+      "wine": "",
+      "slug": "pintxo-puerro-ham",
+      "time": "35 min + 1 uur koelen",
+      "location": "Bilbao",
+      "title": "Pintxo de puerro — Baskische preisalade met ham op brood",
+      "short_description": "Romige preisalade met ham en ei op licht geroosterd stokbrood — zoals in de beste bars van Bilbao.",
+      "image": "",
+      "difficulty": "Makkelijk",
+      "description": "De iconische Baskische pintxo de puerro — romige preisalade met ham en ei op licht geroosterd stokbrood, afgewerkt met bieslook en een druppel olijfolie."
     },
     {
-      "title": "Ensalada de pulpo in glaasje — Michelin niveau octopuspintxo",
-      "slug": "ensalada-pulpo-glaasje",
-      "location": "Spanje",
-      "time": "20 min",
-      "servings": "6 personen",
-      "difficulty": "Gemiddeld",
-      "wine": "",
-      "image": "",
-      "short_description": "Malse octopusstukjes met kleurrijke paprika, rode ui en avocado in een elegant glaasje met citroen-sherryvinaigrette.",
-      "description": "De allerbeste Spaanse octopussalade geserveerd in een klein elegant glaasje — malse octopusstukjes met kleurrijke paprika, rode ui, avocado en een frisse citroen-sherryazijn dressing.",
       "ingredient_groups": [
         {
           "group_name": "Salade",
@@ -4577,6 +4567,8 @@
           ]
         }
       ],
+      "chef_tip": "Alle groenten in exact dezelfde kleine maat snijden — dat is het verschil tussen thuiskok en restaurant. Avocado pas op het allerlaatste moment toevoegen.",
+      "servings": "6 personen",
       "steps": [
         {
           "action": "Rode ui weken",
@@ -4591,19 +4583,17 @@
           "description": "voeg vlak voor het serveren de avocadoblokjes voorzichtig toe. Schep in kleine elegante glaasjes. Leg een mooi stukje octopus bovenop. Bestrooi met peterselie en fleur de sel. Prik een tandenstoker erdoor."
         }
       ],
-      "chef_tip": "Alle groenten in exact dezelfde kleine maat snijden — dat is het verschil tussen thuiskok en restaurant. Avocado pas op het allerlaatste moment toevoegen."
+      "wine": "",
+      "slug": "ensalada-pulpo-glaasje",
+      "time": "20 min",
+      "location": "Spanje",
+      "title": "Ensalada de pulpo in glaasje — Michelin niveau octopuspintxo",
+      "short_description": "Malse octopusstukjes met kleurrijke paprika, rode ui en avocado in een elegant glaasje met citroen-sherryvinaigrette.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De allerbeste Spaanse octopussalade geserveerd in een klein elegant glaasje — malse octopusstukjes met kleurrijke paprika, rode ui, avocado en een frisse citroen-sherryazijn dressing."
     },
     {
-      "title": "Pulpo in glaasje — gelaagde Michelin pintxo met aardappelcrème en paprika-olie",
-      "slug": "pulpo-glaasje-aardappelcreme",
-      "location": "Galicië",
-      "time": "45 min",
-      "servings": "6 personen",
-      "difficulty": "Moeilijk",
-      "wine": "Albariño",
-      "image": "",
-      "short_description": "Drie lagen in een glaasje: zijdezachte aardappelcrème, krokant gebakken octopus en zwevende pimentónolie.",
-      "description": "Een Michelin-waardig gelaagd pintxo in een glaasje — zijdezachte aardappelcrème als basis, krokant gebakken octopus met honing-paprika glaze en zwevende pimentón-olie. Elke hap is romig, zacht, krokant en rokerig tegelijk.",
       "ingredient_groups": [
         {
           "group_name": "Aardappelcrème",
@@ -4682,6 +4672,8 @@
           ]
         }
       ],
+      "chef_tip": "Octopus 100% mals: dip octopus 3x kort in kokend water, dan volledig onderdompelen op laag vuur 45-60 minuten. Niet hard koken. Laat afkoelen IN het kookvocht. Dep altijd goed droog voor het bakken.",
+      "servings": "6 personen",
       "steps": [
         {
           "action": "Aardappelcrème",
@@ -4700,19 +4692,17 @@
           "description": "schep in elk glaasje: 1. Warme aardappelcrème 2. Stukjes warme krokante octopus 3. Druppels pimentónolie — laat zweven bovenop 4. Rookzout 5. Citroenrasp en verse kruiden. Serveer direct."
         }
       ],
-      "chef_tip": "Octopus 100% mals: dip octopus 3x kort in kokend water, dan volledig onderdompelen op laag vuur 45-60 minuten. Niet hard koken. Laat afkoelen IN het kookvocht. Dep altijd goed droog voor het bakken."
+      "wine": "Albariño",
+      "slug": "pulpo-glaasje-aardappelcreme",
+      "time": "45 min",
+      "location": "Galicië",
+      "title": "Pulpo in glaasje — gelaagde Michelin pintxo met aardappelcrème en paprika-olie",
+      "short_description": "Drie lagen in een glaasje: zijdezachte aardappelcrème, krokant gebakken octopus en zwevende pimentónolie.",
+      "image": "",
+      "difficulty": "Moeilijk",
+      "description": "Een Michelin-waardig gelaagd pintxo in een glaasje — zijdezachte aardappelcrème als basis, krokant gebakken octopus met honing-paprika glaze en zwevende pimentón-olie. Elke hap is romig, zacht, krokant en rokerig tegelijk."
     },
     {
-      "title": "Pintxo de huevo relleno met zalm en garnaal",
-      "slug": "pintxo-huevo-relleno-zalm-garnaal",
-      "location": "Bilbao",
-      "time": "30 min",
-      "servings": "6 pintxos",
-      "difficulty": "Gemiddeld",
-      "wine": "Txakoli / Cava",
-      "image": "",
-      "short_description": "Knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon.",
-      "description": "De iconische Bilbao pintxo — knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon erop. Zacht, zout, romig en luxe in één perfecte hap.",
       "ingredient_groups": [
         {
           "group_name": "Brood en zalm",
@@ -4794,6 +4784,8 @@
           ]
         }
       ],
+      "chef_tip": "Kewpie mayo is Japanse mayo — romiger dan gewone mayo. Koop bij Aziatische supermarkten. Ei precies 9 minuten koken. Gebruik een spuitzak met gekarteld mondstuk voor een professioneel resultaat.",
+      "servings": "6 pintxos",
       "steps": [
         {
           "action": "Zalm marineren",
@@ -4816,7 +4808,15 @@
           "description": "rooster brood. Leg gemarineerde zalm op elk sneetje. Zet een gehalveerd eiwit schuin op de zalm. Spuit de vulling royaal in het eiwit. Zet een gebakken garnaal als kroon bovenop. Bestrooi met bieslook en citroenrasp. Prik een tandenstoker erdoor."
         }
       ],
-      "chef_tip": "Kewpie mayo is Japanse mayo — romiger dan gewone mayo. Koop bij Aziatische supermarkten. Ei precies 9 minuten koken. Gebruik een spuitzak met gekarteld mondstuk voor een professioneel resultaat."
+      "wine": "Txakoli / Cava",
+      "slug": "pintxo-huevo-relleno-zalm-garnaal",
+      "time": "30 min",
+      "location": "Bilbao",
+      "title": "Pintxo de huevo relleno met zalm en garnaal",
+      "short_description": "Knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon.",
+      "image": "",
+      "difficulty": "Gemiddeld",
+      "description": "De iconische Bilbao pintxo — knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon erop. Zacht, zout, romig en luxe in één perfecte hap."
     }
   ]
 }
