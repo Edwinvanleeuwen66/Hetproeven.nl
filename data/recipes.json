@@ -2546,13 +2546,13 @@
           "description": "wentel elke bal door ei en dan door paneermeel. Frituur op 180°C 3-4 minuten tot goudbruin. Serveer direct met BEIDE sauzen."
         }
       ],
-      "wine": "",
+      "wine": "cava",
       "slug": "la-bomba-barceloneta",
       "time": "50 min",
       "location": "Barcelona",
       "title": "La Bomba de la Barceloneta",
       "short_description": "De iconische tapa van Barceloneta — knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd en geserveerd met bravasaus en aioli.",
-      "image": "",
+      "image": "assets/images/la-bomba-barceloneta.png",
       "difficulty": "Gemiddeld",
       "description": "De iconische tapa van Barceloneta uit 1944 — een grote knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd tot goudbruin en geserveerd met bravasaus én aioli."
     },
@@ -2833,7 +2833,7 @@
       "location": "Madrid",
       "title": "Bladerdeegbakje met foie gras, vijgenconfiture en Pedro Ximénez",
       "short_description": "Knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel zoete sherry.",
-      "image": "",
+      "image": "assets/images/bladerdeeg-foie-gras-vijgen.png",
       "difficulty": "Gemiddeld",
       "description": "Geïnspireerd op Lhardy, het oudste restaurant van Madrid (1839) — knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel Pedro Ximénez sherry."
     },
@@ -2927,13 +2927,13 @@
           "description": "rooster brood. Leg afwisselend aubergine, courgette en paprika dakpansgewijs erop. Druppel royaal koriandersaus erover en serveer direct."
         }
       ],
-      "wine": "",
+      "wine": "Rose",
       "slug": "tosta-gegrilde-groenten-koriander",
       "time": "35 min",
       "location": "Spanje",
       "title": "Tosta met gegrilde aubergine, courgette en paprika met koriandersaus",
       "short_description": "Gegrilde aubergine en courgette met paprika uit blik op knapperig brood met frisse koriandersaus.",
-      "image": "",
+      "image": "assets/images/tosta-gegrilde-groenten-koriander.png",
       "difficulty": "Makkelijk",
       "description": "Gegrilde aubergine en courgette met geroosterde paprika uit blik op knapperig stokbrood — afgewerkt met een frisse koriandersaus met knoflook, komijn en sherry-azijn."
     },
@@ -3070,7 +3070,7 @@
       "location": "Madrid",
       "title": "Solomillo al whisky — haasbiefstuk met whisky-knoflooksaus",
       "short_description": "Kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook — op geroosterd brood.",
-      "image": "",
+      "image": "assets/images/solomillo-al-whisky.png",
       "difficulty": "Gemiddeld",
       "description": "Een legendarische Madrid taberna klassieker — kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook en een rijke saus."
     },
@@ -3161,7 +3161,7 @@
       "location": "Madrid",
       "title": "Pisto manchego con huevo — Spaanse ratatouille met gebroken ei",
       "short_description": "Langzaam gestoofde Spaanse ratatouille met courgette, paprika en tomaat, afgewerkt met een gebroken ei.",
-      "image": "",
+      "image": "assets/images/pisto-manchego-huevo.png",
       "difficulty": "Makkelijk",
       "description": "De Spaanse ratatouille — courgette, paprika, tomaat en ui langzaam gestoofd tot een rijke zachte saus, met een gebroken gebakken ei erop. Troostend en typisch Madrid."
     },
@@ -3261,7 +3261,7 @@
       "location": "Logroño",
       "title": "Mini-kip kebab met pimientos de padrón op brood",
       "short_description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón op brood.",
-      "image": "",
+      "image": "assets/images/mini-kip-kebab-padron.png",
       "difficulty": "Makkelijk",
       "description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón — op geroosterd brood met knoflook-citrusmayo. Geïnspireerd op Taberna Tío Blas op Calle Laurel in Logroño."
     },
@@ -3361,7 +3361,7 @@
       "location": "Logroño",
       "title": "Gegrilde sardine op pisto manchego",
       "short_description": "Verse gegrilde sardine op een laagje warme pisto manchego op knapperig geroosterd brood.",
-      "image": "",
+      "image": "assets/images/gegrilde-sardine-pisto.png",
       "difficulty": "Gemiddeld",
       "description": "Geïnspireerd op La Tavina in Logroño — verse gegrilde sardine op een laagje warme pisto manchego, op knapperig geroosterd brood. Rokerig, zomers en vol mediterrane smaak."
     },
@@ -3451,13 +3451,13 @@
           "description": "leg krokante chips op een bordje. Leg de gebakken lende erop. Bestrooi met peterselie en serveer direct."
         }
       ],
-      "wine": "",
+      "wine": "Mencia",
       "slug": "krokodiltapa-varkenslende-chips",
       "time": "40 min + 30 min marineren",
       "location": "Santiago de Compostela",
       "title": "De krokodiltapa — varkenslende op huisgemaakte chips",
       "short_description": "Mals gebakken varkenslende op knapperige huisgemaakte chips — de legendarische tapa van Bar Abellá in Santiago.",
-      "image": "",
+      "image": "assets/images/krokodiltapa-varkenslende-chips.png",
       "difficulty": "Gemiddeld",
       "description": "De legendarische krokodiltapa van Bar Abellá in Santiago de Compostela — mals gebakken varkenslende op knapperige huisgemaakte chips."
     },
@@ -3545,7 +3545,7 @@
       "location": "Costa Brava — Begur",
       "title": "Langoustineskewer met passievruchtmayo",
       "short_description": "Gegrilde langoustines op een skewer met verrassende passievruchtmayonaise — zoet, zout en fris tegelijk.",
-      "image": "",
+      "image": "assets/images/langoustineskewer-passievrucht.png",
       "difficulty": "Makkelijk",
       "description": "Geïnspireerd op Can Climent in Begur — gegrilde langoustines op een skewer met verrassende passievruchtmayonaise. Zoet, zout en fris tegelijk."
     },
@@ -3676,7 +3676,7 @@
       "location": "Spanje",
       "title": "Albóndigas — de allerbeste gehaktballetjes in tomatensaus",
       "short_description": "Sappige gehaktballetjes van gemengd rund en varken langzaam gestoofd in een rijke tomatensaus met rode wijn.",
-      "image": "",
+      "image": "assets/images/albondigas-tomatensauspng",
       "difficulty": "Gemiddeld",
       "description": "De allerbeste albóndigas — sappige gehaktballetjes van gemengd rund en varken met gekarameliseerde ui, langzaam gestoofd in een rijke tomatensaus met rode wijn en kruiden."
     },
@@ -3743,7 +3743,7 @@
       "location": "Andalusië",
       "title": "Paprika's met knoflook, honing en amandelen",
       "short_description": "Gegrilde paprika's uit blik met knoflook-honingdressing en geschaafde amandelen.",
-      "image": "",
+      "image": "assets/images/paprika-knoflook-honing-amandelen.png",
       "difficulty": "Makkelijk",
       "description": "Gegrilde paprika's uit blik met knoflook, honing, geschaafde amandelen en peterselie — een eenvoudige maar verrassend smaakvolle Spaanse tapa."
     },
@@ -3826,7 +3826,7 @@
       "location": "Spanje",
       "title": "Mozaïeksalade van meloen, chorizo, avocado en feta",
       "short_description": "Kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta met dragon-honingdressing.",
-      "image": "",
+      "image": "assets/images/mozaiek-meloen-chorizo-avocado-feta.png",
       "difficulty": "Makkelijk",
       "description": "Een kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta — afgewerkt met een frisse dragon-honingdressing van rosé wijnazijn en mosterd."
     },
@@ -3913,7 +3913,7 @@
       "location": "Spanje",
       "title": "Huevos rellenos endiablados — duivelse eieren met piquillo en olijf",
       "short_description": "De allerbeste duivelse eieren — romige vulling met tabasco, mosterd, piquillo en zwarte olijven.",
-      "image": "",
+      "image": "assets/images/huevos-rellenos-endiablados.png",
       "difficulty": "Makkelijk",
       "description": "De allerbeste duivelse eieren — romige vulling van eidooier, mayo, mosterd en tabasco met fijngehakte piquillo en zwarte olijven, afgewerkt met een ringetje olijf en een streepje piquillo."
     },
