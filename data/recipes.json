@@ -3992,7 +3992,7 @@
       "location": "Spanje",
       "title": "Tijm-knoflooksoep met gepocheerd ei",
       "short_description": "Heldere tijm-knoflooksoep in een klein kopje met een gepocheerd eitje dat openbreekt.",
-      "image": "",
+      "image": "assets/images/tijm-knoflooksoep-gepocheerd-ei.png",
       "difficulty": "Gemiddeld",
       "description": "Een fluweelzachte tijm-knoflooksoep geserveerd in een klein kopje met een gepocheerd eitje erin dat openbreekt — elegant, warm en verrassend eenvoudig."
     },
@@ -4076,7 +4076,7 @@
       "location": "Spanje",
       "title": "Saffraangamba's met citroenmayonaise",
       "short_description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd, met zelfgemaakte citroenmayonaise.",
-      "image": "",
+      "image": "assets/images/saffraangambas-citroenmayo.png",
       "difficulty": "Gemiddeld",
       "description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd — knapperig van buiten en sappig van binnen. Geserveerd met een frisse zelfgemaakte citroenmayonaise."
     },
@@ -4164,7 +4164,7 @@
       "location": "Valencia",
       "title": "Pepito Valenciano — gefrituurd broodje met tonijn en tomaat",
       "short_description": "Klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant.",
-      "image": "",
+      "image": "assets/images/pepito-valenciano-tonijn.png",
       "difficulty": "Gemiddeld",
       "description": "Een typisch Valenciaans tapasgerecht — klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant van buiten, zacht en vol van smaak van binnen."
     },
@@ -4272,7 +4272,7 @@
       "location": "Sevilla",
       "title": "Alitas y muslitos al ajillo — sticky knoflook-brandy-honing kip",
       "short_description": "Kippenvleugeltjes en -pootjes krokant uit de airfryer, gedompeld in een sticky knoflook-brandy-honing saus.",
-      "image": "",
+      "image": "assets/images/alitas-muslitos-ajillo-sticky.png",
       "difficulty": "Makkelijk",
       "description": "De allerbeste Spaanse kippenvleugeltjes en -pootjes — gemarineerd, krokant uit de airfryer en daarna gedompeld in een sticky glanzende saus van knoflook, Brandy de Jerez en honing."
     },
@@ -4393,7 +4393,7 @@
       "location": "Madrid",
       "title": "Ensaladilla rusa pintxo — wedstrijdwinnend met smash-techniek",
       "short_description": "De wedstrijdwinnende ensaladilla rusa — luchtig, zijdezacht en verslavend lekker dankzij de smash-techniek met kookwater.",
-      "image": "",
+      "image": "assets/images/ensaladilla-rusa-pintxo.png",
       "difficulty": "Gemiddeld",
       "description": "De wedstrijdwinnende ensaladilla rusa pintxo uit Madrid — een luchtige zijdezachte emulsie met de smash-techniek, Michelin-mayo en augurkenvocht. Op knapperig brood met geraspt ei en spektaculaire toppings."
     },
@@ -4489,7 +4489,7 @@
       "location": "Bilbao",
       "title": "Pintxo de puerro — Baskische preisalade met ham op brood",
       "short_description": "Romige preisalade met ham en ei op licht geroosterd stokbrood — zoals in de beste bars van Bilbao.",
-      "image": "",
+      "image": "assets/images/pintxo-puerro-ham.png",
       "difficulty": "Makkelijk",
       "description": "De iconische Baskische pintxo de puerro — romige preisalade met ham en ei op licht geroosterd stokbrood, afgewerkt met bieslook en een druppel olijfolie."
     },
@@ -4589,7 +4589,7 @@
       "location": "Spanje",
       "title": "Ensalada de pulpo in glaasje — Michelin niveau octopuspintxo",
       "short_description": "Malse octopusstukjes met kleurrijke paprika, rode ui en avocado in een elegant glaasje met citroen-sherryvinaigrette.",
-      "image": "",
+      "image": "assets/images/ensalada-pulpo-glaasje.png",
       "difficulty": "Gemiddeld",
       "description": "De allerbeste Spaanse octopussalade geserveerd in een klein elegant glaasje — malse octopusstukjes met kleurrijke paprika, rode ui, avocado en een frisse citroen-sherryazijn dressing."
     },
