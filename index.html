@@ -33,15 +33,28 @@
     <p>Een persoonlijk kookboek van plekken die indruk maken. Geen algoritmes — alleen eerlijk, onvergetelijk eten.</p>
   </header>
 
-  <div class="filter-bar">
-    <button class="filter-btn active" data-filter="all">Alles</button>
-    <button class="filter-btn" data-filter="tapas-pintxos">🥖 Tapas & Pintxos</button>
-    <button class="filter-btn" data-filter="vis">🐟 Vis & Zeevruchten</button>
-    <button class="filter-btn" data-filter="vlees">🥩 Vlees</button>
-    <button class="filter-btn" data-filter="groente">🌿 Groente</button>
-    <button class="filter-btn" data-filter="salade">🥗 Salade</button>
-    <button class="filter-btn" data-filter="soep">🥣 Soep</button>
-    <button class="filter-btn" data-filter="kaas">🧀 Kaas</button>
+  <div class="filter-wrap">
+    <div class="filter-label">Land</div>
+    <div class="filter-bar" id="filter-keuken">
+      <button class="filter-btn active" data-filter="all">Alles</button>
+      <button class="filter-btn" data-filter="Spaans">🇪🇸 Spaans</button>
+      <button class="filter-btn" data-filter="Italiaans">🇮🇹 Italiaans</button>
+      <button class="filter-btn" data-filter="Nederlands">🇳🇱 Nederlands</button>
+      <button class="filter-btn" data-filter="Grieks">🇬🇷 Grieks</button>
+      <button class="filter-btn" data-filter="Frans">🇫🇷 Frans</button>
+    </div>
+
+    <div class="filter-label">Soort</div>
+    <div class="filter-bar" id="filter-categorie">
+      <button class="filter-btn active" data-filter="all">Alles</button>
+      <button class="filter-btn" data-filter="hapjes-tapas">🍢 Hapjes & Tapas</button>
+      <button class="filter-btn" data-filter="vis-zeevruchten">🐟 Vis & Zeevruchten</button>
+      <button class="filter-btn" data-filter="vlees">🥩 Vlees</button>
+      <button class="filter-btn" data-filter="groente-salade">🌿 Groente & Salade</button>
+      <button class="filter-btn" data-filter="soep">🥣 Soep</button>
+      <button class="filter-btn" data-filter="pasta-rijst">🍝 Pasta & Rijst</button>
+      <button class="filter-btn" data-filter="dessert">🍮 Dessert</button>
+    </div>
   </div>
 
   <div class="section-label" id="section-label">Alle recepten</div>
@@ -57,14 +70,26 @@
 
   <script>
     let allRecipes = [];
+    let activeKeuken = 'all';
+    let activeCategorie = 'all';
 
-    function renderRecipes(recipes) {
+    function renderRecipes() {
       const grid = document.getElementById('recipe-grid');
-      if (recipes.length === 0) {
+      let filtered = allRecipes;
+
+      if (activeKeuken !== 'all') {
+        filtered = filtered.filter(r => r.keuken === activeKeuken);
+      }
+      if (activeCategorie !== 'all') {
+        filtered = filtered.filter(r => r.categorie === activeCategorie);
+      }
+
+      if (filtered.length === 0) {
         grid.innerHTML = '<p class="empty">Geen recepten gevonden in deze categorie.</p>';
         return;
       }
-      grid.innerHTML = recipes.map(r => {
+
+      grid.innerHTML = filtered.map(r => {
         const wineNaam = r.wine && typeof r.wine === 'object' ? r.wine.naam : r.wine;
         return `
           <a href="/recepten/${encodeURIComponent(r.slug)}" class="card">
@@ -86,28 +111,23 @@
       }).join('');
     }
 
-    const filterLabels = {
-      'all': 'Alle recepten',
-      'tapas-pintxos': 'Tapas & Pintxos',
-      'vis': 'Vis & Zeevruchten',
-      'vlees': 'Vlees',
-      'groente': 'Groente',
-      'salade': 'Salade',
-      'soep': 'Soep',
-      'kaas': 'Kaas'
-    };
-
-    document.querySelectorAll('.filter-btn').forEach(btn => {
+    // Keuken filter
+    document.querySelectorAll('#filter-keuken .filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
-        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('#filter-keuken .filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        const filter = btn.dataset.filter;
-        document.getElementById('section-label').textContent = filterLabels[filter] || filter;
-        if (filter === 'all') {
-          renderRecipes(allRecipes);
-        } else {
-          renderRecipes(allRecipes.filter(r => r.categorie === filter));
-        }
+        activeKeuken = btn.dataset.filter;
+        renderRecipes();
+      });
+    });
+
+    // Categorie filter
+    document.querySelectorAll('#filter-categorie .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#filter-categorie .filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCategorie = btn.dataset.filter;
+        renderRecipes();
       });
     });
 
@@ -115,7 +135,7 @@
       .then(r => r.json())
       .then(data => {
         allRecipes = (data.recipes || []).slice().reverse();
-        renderRecipes(allRecipes);
+        renderRecipes();
       })
       .catch(() => {
         document.getElementById('recipe-grid').innerHTML =
