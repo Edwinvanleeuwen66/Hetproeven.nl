@@ -1872,7 +1872,7 @@
       "location": "Barcelona",
       "title": "Tomatenwater — kristalhelder en puur",
       "short_description": "Het puurste wat je van een tomaat kunt maken — kristalhelder tomatenwater met één druppel olijfolie en fleur de sel.",
-      "image": "",
+      "image": "assets/images/tomatenwater.png",
       "difficulty": "Gemiddeld",
       "description": "Kristalhelder tomatenwater gewonnen door geduld en zwaartekracht, geserveerd met één druppel olijfolie en fleur de sel."
     },
@@ -1942,7 +1942,7 @@
       "location": "Spanje",
       "title": "Pintxo met Ibérico ham, peer, manchego en rucola",
       "short_description": "Knapperig brood met vijgencrème, dunne peerschijfjes, een roos van Ibérico ham en manchegoschaafsel.",
-      "image": "",
+      "image": "assets/images/pintxo-iberico-ham-peer.png",
       "difficulty": "Makkelijk",
       "description": "Knapperig brood met vijgencrème, dunne peerschijfjes, flinterdunne Ibérico ham in een roos, manchegoschaafsel en peppery rucola bovenop."
     },
@@ -2009,7 +2009,7 @@
       "location": "Spanje",
       "title": "Pintxo met Ibérico ham, meloen, limoenyoghurt en munt",
       "short_description": "Knapperig brood met limoenyoghurt, meloenschijfjes en een roos van Ibérico ham met verse munt.",
-      "image": "",
+      "image": "assets/images/pintxo-iberico-ham-meloen.png",
       "difficulty": "Makkelijk",
       "description": "Een klassieke Spaanse combinatie — knapperig brood, limoenyoghurt, meloenschijfjes, Ibérico ham in een roos en verse munt erop."
     },
@@ -2112,7 +2112,7 @@
       "location": "Spanje",
       "title": "Pintxo met gekruide gehaktrol, aioli en piquillo",
       "short_description": "Mini-gehaktrol gekruid met pimentón en peterselie, in plakjes op geroosterd brood met aioli en piquillo.",
-      "image": "",
+      "image": "assets/images/pintxo-gehaktrol-piquillo.png",
       "difficulty": "Gemiddeld",
       "description": "Een mini-gehaktrol gekruid op Spaanse wijze met pimentón, knoflook en peterselie — in plakjes gesneden op geroosterd brood met aioli en piquillo."
     },
@@ -2212,7 +2212,7 @@
       "location": "Spanje",
       "title": "Tosta met biefstuk, champignons, gekarameliseerde ui en rode wijnjus",
       "short_description": "Geroosterd brood met gekarameliseerde ui, champignons en sappige biefstreepjes in rode wijnjus.",
-      "image": "",
+      "image": "assets/images/tosta-biefstuk-champignons-wijnjus.png",
       "difficulty": "Gemiddeld",
       "description": "Geroosterd brood met gekarameliseerde ui, sappige champignons en reepjes perfect gebakken biefstuk in een rijke rode wijnjus."
     },
@@ -2316,7 +2316,7 @@
       "location": "Logroño",
       "title": "Tosta met gegrilde kip, mango-chutney en koriander",
       "short_description": "Gemarineerde kippendijreepjes gegrild op hoog vuur, op brood met mango-chutney en verse koriander.",
-      "image": "",
+      "image": "assets/images/tosta-kip-mango-koriander.png",
       "difficulty": "Makkelijk",
       "description": "Gemarineerde kippendijreepjes gegrild op hoog vuur met een mooie korst — op geroosterd brood met zelfgemaakte mango-chutney en verse koriander."
     },
@@ -2412,7 +2412,7 @@
       "location": "San Sebastián",
       "title": "Bacon-garnaalspies op brood met knoflook-citrusmayo",
       "short_description": "Dikke garnalen strak gewikkeld in krokante bacon, gegrild en op brood met knoflook-citrusmayo.",
-      "image": "",
+      "image": "assets/images/bacon-garnaalspies-brood.png",
       "difficulty": "Makkelijk",
       "description": "Dikke sappige garnalen strak gewikkeld in krokante bacon, gegrild op hoog vuur op geroosterd brood met knoflook-citrusmayo — geïnspireerd op Bar Desy in Gros, San Sebastián."
     },
@@ -2636,7 +2636,7 @@
       "location": "Barcelona",
       "title": "Gegrilde watermeloen met geroosterde tomaat en basilicumolie",
       "short_description": "Dikke plakken watermeloen gegrild tot ze karameliseren, met langzaam geroosterde cherrytomaatjes en basilicumolie.",
-      "image": "",
+      "image": "assets/images/gegrilde-watermeloen-tomaat.png",
       "difficulty": "Gemiddeld",
       "description": "Geïnspireerd op Tickets Bar van Albert Adrià — dikke plakken watermeloen kort gegrild, geserveerd met langzaam geroosterde cherrytomaatjes en basilicumolie. Simpel, verrassend en verbluffend lekker."
     },
@@ -2699,7 +2699,7 @@
       "location": "Madrid",
       "title": "Huevos rotos con jamón — gebroken eieren met ham",
       "short_description": "Krokante aardappelschijfjes met gebakken eieren die je breekt zodat de dooier over alles stroomt, met Ibérico ham.",
-      "image": "",
+      "image": "assets/images/huevos-rotos-jamon.png",
       "difficulty": "Makkelijk",
       "description": "Een van de meest geliefde Madrid tapas — krokante gefrituurde aardappelschijfjes met gebakken eieren die je net voor het serveren breekt zodat de dooier over alles stroomt, met flinterdunne Ibérico ham."
     },
@@ -2762,7 +2762,7 @@
       "location": "Madrid",
       "title": "Banderilla — Madrid's iconische tapaprikker",
       "short_description": "De iconische Madrid banderilla — olijf, zilverui, ansjovis en guindilla-pepertje op een prikker.",
-      "image": "",
+      "image": "assets/images/anderilla-madrid.png",
       "difficulty": "Makkelijk",
       "description": "De iconische Madrid banderilla — een mini-prikker van groene olijf, zilverui, ansjovis en guindilla-pepertje. Zout, zuur en pittig in één hap. Typisch bij een koud tapbier in de oude tabernas van Madrid."
     },
