@@ -396,3 +396,50 @@ footer a:hover { color: #8A3A10; }
   .over-body { padding: 40px 20px; }
   footer { padding: 24px 20px; }
 }
+
+/* ── Wine sectie onderaan recept ── */
+.wine-section {
+  max-width: 860px;
+  margin: 3rem auto 2rem;
+  padding: 2rem;
+  background: #f9f3eb;
+  border-left: 4px solid #B85C30;
+  border-radius: 4px;
+}
+.wine-section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  color: #B85C30;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.85rem;
+}
+.wine-naam {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.4rem;
+  color: #2B1A0D;
+  margin-bottom: 0.75rem;
+}
+.wine-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.wine-tag {
+  background: #fff;
+  border: 1px solid #d4c4b0;
+  color: #5a3e2b;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-family: 'Lato', sans-serif;
+}
+.wine-toelichting {
+  font-family: 'Lato', sans-serif;
+  color: #5a3e2b;
+  line-height: 1.7;
+  font-size: 0.95rem;
+  margin: 0;
+}
