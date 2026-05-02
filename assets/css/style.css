@@ -457,12 +457,13 @@ footer a:hover { color: #8A3A10; }
   background: #fff;
   border: 1px solid #d4c4b0;
   color: #5a3e2b;
-  padding: 0.4rem 1rem;
+  padding: 0.25rem 0.65rem;
   border-radius: 20px;
   font-family: 'Lato', sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   cursor: pointer;
   transition: all 0.2s;
+  white-space: nowrap;
 }
 .filter-btn:hover {
   background: #f3ede1;
