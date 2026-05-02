@@ -5202,6 +5202,116 @@
       "description": "De iconische Bilbao pintxo — knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon erop. Zacht, zout, romig en luxe in één perfecte hap.",
       "categorie": "hapjes-tapas",
       "keuken": "Spaans"
+    },
+    {
+      "title": "Saucijzenbroodjes — het definitieve recept",
+      "slug": "saucijzenbroodjes-definitief",
+      "location": "Nederland",
+      "time": "45 min",
+      "servings": "10 stuks",
+      "difficulty": "Makkelijk",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "wine": {
+        "naam": "Lager bier of Radler",
+        "druif": "— (bier)",
+        "toelichting": "Een koud glas lager bier is de klassieke Nederlandse begeleider bij saucijzenbroodjes. De lichte bitterheid snijdt door het vet van het bladerdeeg en de kruidige vulling. Een Radler werkt ook uitstekend — de frisheid maakt het dooreetbaar.",
+        "alternatief": "Droge appelsap of een glas Cava"
+      },
+      "image": "",
+      "short_description": "Het perfecte saucijzenbroodje — subtiel gekruid met nootmuskaat, foelie en een geheim druppeltje Maggi. Droog, stevig en dooreetbaar.",
+      "description": "Na vele testronden is dit het definitieve recept. Subtiele kruiding, droge stevige bite, geen glibberig gevoel en warmte die je niet kunt aanwijzen. Eet er één direct uit de oven en één na 10 minuten — als ze allebei goed zijn, heb je het perfecte recept.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vulling",
+          "ingredients": [
+            {
+              "name": "half-om-half gehakt",
+              "amount": "300 g"
+            },
+            {
+              "name": "ei, losgeklopt (gebruik de helft)",
+              "amount": "1"
+            },
+            {
+              "name": "paneermeel",
+              "amount": "20 g"
+            },
+            {
+              "name": "zout",
+              "amount": "2,2 g"
+            },
+            {
+              "name": "Maggi (± 8-9 druppels)",
+              "amount": "0,9 g"
+            },
+            {
+              "name": "nootmuskaat",
+              "amount": "0,32 g"
+            },
+            {
+              "name": "foelie",
+              "amount": "0,09 g"
+            },
+            {
+              "name": "witte peper",
+              "amount": "0,42 g"
+            },
+            {
+              "name": "gedroogde selderij",
+              "amount": "0,35 g"
+            },
+            {
+              "name": "gladde mosterd",
+              "amount": "4 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Opbouw en afwerking",
+          "ingredients": [
+            {
+              "name": "kant-en-klare plakjes bladerdeeg",
+              "amount": "10"
+            },
+            {
+              "name": "ei voor het bestrijken",
+              "amount": "1"
+            },
+            {
+              "name": "scheutje melk",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Meng het gehakt",
+          "description": "meng het gehakt eerst met zout en Maggi. Voeg dan het halve ei en het paneermeel toe. Voeg alle kruiden toe en meng kort tot net samenhangend. Niet doorkneden — anders krijg je worststructuur."
+        },
+        {
+          "action": "Portioneer de vulling",
+          "description": "verdeel de vulling in 10 porties van ±30 g. Rol elk portie licht langwerpig met je handen."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "leg een portie vulling op een plakje bladerdeeg. Vouw het deeg dicht en druk de rand goed aan zodat hij niet openbarst."
+        },
+        {
+          "action": "Eerste eilaag en vriezer",
+          "description": "klop het ei los met een klein scheutje melk. Kwast de broodjes licht in. Leg ze 10-15 minuten in de vriezer — dit voorkomt openbarsten en lekken."
+        },
+        {
+          "action": "Tweede eilaag",
+          "description": "haal de broodjes uit de vriezer en smeer nogmaals licht in met het eiermengsel voor een mooie glanzende goudbruine korst."
+        },
+        {
+          "action": "Bakken",
+          "description": "verwarm de oven op 220°C (boven/onderwarmte). Bak de broodjes 25 minuten tot ze diep goudbruin en krokant zijn."
+        }
+      ],
+      "chef_tip": "Dit is het belangrijkste: eet er één direct uit de oven en één na 10 minuten rusten. Als ze allebei goed zijn — krokant van buiten, sappig van binnen, subtiel gekruid — heb je het perfecte recept te pakken. Niks meer toevoegen. Niks meer weglaten."
     }
   ]
 }
