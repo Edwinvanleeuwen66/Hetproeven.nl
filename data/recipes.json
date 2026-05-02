@@ -5218,7 +5218,7 @@
         "toelichting": "Een koud glas lager bier is de klassieke Nederlandse begeleider bij saucijzenbroodjes. De lichte bitterheid snijdt door het vet van het bladerdeeg en de kruidige vulling. Een Radler werkt ook uitstekend — de frisheid maakt het dooreetbaar.",
         "alternatief": "Droge appelsap of een glas Cava"
       },
-      "image": "/assets/images/SB.png",
+      "image": "",
       "short_description": "Het perfecte saucijzenbroodje — subtiel gekruid met nootmuskaat, foelie en een geheim druppeltje Maggi. Droog, stevig en dooreetbaar.",
       "description": "Na vele testronden is dit het definitieve recept. Subtiele kruiding, droge stevige bite, geen glibberig gevoel en warmte die je niet kunt aanwijzen. Eet er één direct uit de oven en één na 10 minuten — als ze allebei goed zijn, heb je het perfecte recept.",
       "ingredient_groups": [
@@ -5312,6 +5312,170 @@
         }
       ],
       "chef_tip": "Dit is het belangrijkste: eet er één direct uit de oven en één na 10 minuten rusten. Als ze allebei goed zijn — krokant van buiten, sappig van binnen, subtiel gekruid — heb je het perfecte recept te pakken. Niks meer toevoegen. Niks meer weglaten."
+    },
+    {
+      "title": "Indische malse ossenhaas saté met lichte paprikasaus",
+      "slug": "indische-ossenhaas-sate-paprikasaus",
+      "location": "Indonesië",
+      "time": "50 min + 1 uur marineren",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "wine": {
+        "naam": "Pinot Noir",
+        "druif": "Pinot Noir",
+        "toelichting": "De zachte tannines en rode vruchten van een lichte Pinot Noir passen mooi bij de malse ossenhaas en de kruidige marinade. De wijn overheerst de subtiele saus niet en accentueert de gember en koriander. Serveer licht gekoeld op 14°C.",
+        "alternatief": "Bintang bier of een glas Riesling"
+      },
+      "image": "",
+      "short_description": "Malse ossenhaas gemarineerd in gember, knoflook en kecap manis — gegrild op satéstokjes met een lichte zelfgemaakte paprikasaus.",
+      "description": "Ossenhaas in blokjes gemarineerd met gember, knoflook, ketumbar en kecap manis — minimaal een uur, liefst een nacht. Gegrild op de barbecue tot rosé van binnen, geserveerd met een lichte zelfgemaakte paprikasaus van lombok, sambal en bawang goreng.",
+      "ingredient_groups": [
+        {
+          "group_name": "Marinade",
+          "ingredients": [
+            {
+              "name": "gember",
+              "amount": "5 cm"
+            },
+            {
+              "name": "knoflookteentjes",
+              "amount": "2"
+            },
+            {
+              "name": "zout",
+              "amount": "0,5 tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "0,5 tl"
+            },
+            {
+              "name": "ketumbar (gemalen koriander)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "plantaardige olie",
+              "amount": "100 ml"
+            },
+            {
+              "name": "kecap manis",
+              "amount": "50 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Vlees",
+          "ingredients": [
+            {
+              "name": "ossenhaas, in blokjes van 1,5 à 2 cm",
+              "amount": "400 g"
+            },
+            {
+              "name": "satéstokjes",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "group_name": "Paprikasaus",
+          "ingredients": [
+            {
+              "name": "ui",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteentjes",
+              "amount": "3"
+            },
+            {
+              "name": "rode lombok (Spaanse peper)",
+              "amount": "3"
+            },
+            {
+              "name": "puntpaprika",
+              "amount": "0,5"
+            },
+            {
+              "name": "plantaardige olie",
+              "amount": "1 scheutje"
+            },
+            {
+              "name": "sambal ulek",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "0,5 tl"
+            },
+            {
+              "name": "bawang goreng (gebakken uitjes)",
+              "amount": "50 g"
+            },
+            {
+              "name": "citroen, sap",
+              "amount": "1"
+            },
+            {
+              "name": "gewone kecap",
+              "amount": "2 el"
+            },
+            {
+              "name": "dikke kecap",
+              "amount": "1 el"
+            },
+            {
+              "name": "bruine suiker",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            {
+              "name": "rode ui, fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "limoen, in partjes",
+              "amount": "1"
+            },
+            {
+              "name": "lombok, in dunne schuine ringetjes",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marinade maken",
+          "description": "schil de gember en hak samen met de knoflook fijn. Wrijf in een vijzel met het zout, de peper en ketumbar tot een pasta. Doe de pasta in een kom en meng de olie en kecap manis erdoor."
+        },
+        {
+          "action": "Vlees marineren",
+          "description": "snijd de ossenhaas in blokjes van 1,5 à 2 cm en schep door de marinade. Dek af en laat minimaal 1 uur marineren in de koelkast — een nacht is nog beter."
+        },
+        {
+          "action": "Satéstokjes weken",
+          "description": "laat de satéstokjes weken in een bakje water zodat ze helemaal onderstaan. Zo verbranden ze niet tijdens het grillen."
+        },
+        {
+          "action": "Paprikasaus maken",
+          "description": "snipper de ui, snijd de knoflook en 2 lombok in plakjes en de puntpaprika in stukjes. Bak alles in een scheutje olie op middelhoog vuur tot zacht en licht bruin. Doe in een blender met de sambal, zwarte peper en bawang goreng en maal fijn. Voeg de gewone kecap, dikke kecap, bruine suiker en citroensap toe en roer goed door. Je hebt ongeveer de helft van de saus nodig — de rest is weken houdbaar in de koelkast."
+        },
+        {
+          "action": "Rijgen en grillen",
+          "description": "rijg het vlees aan de satéstokjes — 3 stukjes per stokje — en knijp het vlees goed om het stokje. Verwarm de saus op laag vuur maar laat hem niet koken. Gril de saté op de barbecue op medium hitte tot het vlees vanbinnen nog rosé is."
+        },
+        {
+          "action": "Serveren",
+          "description": "leg de stokjes op een schaal, schep een beetje saus op en knijp er limoensap overheen. Garneer met rode ui, lombokringetjes en partjes limoen."
+        }
+      ],
+      "chef_tip": "Marineer het vlees een hele nacht — dat maakt het verschil. Gril op medium hitte zodat het vlees vanbinnen rosé blijft. Maak de saus van tevoren — hij wordt de volgende dag nog lekkerder. Je hebt maar de helft nodig, de rest bewaar je in de koelkast."
     }
   ]
 }
