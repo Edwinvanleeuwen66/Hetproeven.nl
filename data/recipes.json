@@ -1430,7 +1430,7 @@
       "location": "Andalusië",
       "title": "Judías verdes con tomate, jamón y huevo",
       "short_description": "Knapperige sperziebonen in rijke tomatensaus met jamón serrano en een gebroken ei erop.",
-      "image": "",
+      "image": "assets/images/judias-verdes-tomate-jamon.png",
       "difficulty": "Makkelijk",
       "description": "Knapperige sperziebonen gestoofd in een rijke tomatensaus met jamón serrano — afgewerkt met een gebakken ei erop. Een eerlijk en vol Andalusisch gerecht."
     },
@@ -1500,7 +1500,7 @@
       "location": "Spanje",
       "title": "Tosta met gekarameliseerde appel, chorizo en manchego",
       "short_description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego.",
-      "image": "",
+      "image": "assets/images/tosta-appel-chorizo-manchego.png",
       "difficulty": "Makkelijk",
       "description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego — zoet, zout en pittig in één hap."
     },
@@ -1645,7 +1645,7 @@
       "location": "Bilbao",
       "title": "Pintxo de chistorra met appelcompote, honingmosterd en tijm",
       "short_description": "Geroosterd brood met honingmosterd, warme appelcompote, krokante chistorra en verse tijm.",
-      "image": "",
+      "image": "assets/images/chistorra-appelcompote-mosterd.png",
       "difficulty": "Makkelijk",
       "description": "Geroosterd brood met honingmosterd, gekarameliseerde appelcompote, knapperige chistorra en verse tijm."
     },
@@ -1729,7 +1729,7 @@
       "location": "Spanje",
       "title": "Avocado-mango tartaartje met rode ui, chili en limoen",
       "short_description": "Fris tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.",
-      "image": "",
+      "image": "assets/images/avocado-mango-tartaartje.png",
       "difficulty": "Makkelijk",
       "description": "Een fris en kleurrijk tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing."
     },
@@ -1817,7 +1817,7 @@
       "location": "Spanje",
       "title": "Tosta met avocadocrème en krabsalade met sinaasappel",
       "short_description": "Geroosterd brood met romige avocadocrème en frisse krabsalade met sinaasappel en kappertjes.",
-      "image": "",
+      "image": "assets/images/tosta-avocado-krabsalade.png",
       "difficulty": "Makkelijk",
       "description": "Geroosterd brood met avocadocrème en frisse krabsalade met sinaasappel, mayo en kappertjes."
     },
