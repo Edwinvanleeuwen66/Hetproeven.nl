@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Het Proeven — Recepten die blijven hangen</title>
-  <meta name="description" content="Een persoonlijk kookboek van plekken die indruk maken. Eerlijk, onvergetelijk eten.">
+  <title>Het Proeven — Kleine gerechtjes. Grote obsessie.</title>
+  <meta name="description" content="Kleine gerechtjes met grote aandacht — voor smaak, presentatie en de perfecte begeleider in het glas.">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Het Proeven">
-  <meta property="og:title" content="Het Proeven — Recepten die blijven hangen">
-  <meta property="og:description" content="Een persoonlijk kookboek van plekken die indruk maken. Eerlijk, onvergetelijk eten.">
+  <meta property="og:title" content="Het Proeven — Kleine gerechtjes. Grote obsessie.">
+  <meta property="og:description" content="Kleine gerechtjes met grote aandacht — voor smaak, presentatie en de perfecte begeleider in het glas.">
   <meta property="og:url" content="https://www.hetproeven.nl/">
   <meta property="og:image" content="https://www.hetproeven.nl/assets/images/og-default.jpg">
   <link rel="canonical" href="https://www.hetproeven.nl/">
@@ -29,8 +29,8 @@
   </nav>
 
   <header class="hero">
-    <h1>Recepten die<br>blijven hangen</h1>
-    <p>Een persoonlijk kookboek van plekken die indruk maken. Geen algoritmes — alleen eerlijk, onvergetelijk eten.</p>
+    <h1>Kleine gerechtjes.<br>Grote obsessie.</h1>
+    <p>Koken is een obsessie. Wijn kiezen ook. Kleine gerechtjes met grote aandacht — voor smaak, presentatie en de perfecte begeleider in het glas. Edwin maakt het. Yoshi kijkt toe. Er blijft nooit iets over.</p>
   </header>
 
   <div class="filter-wrap">
@@ -111,7 +111,6 @@
       }).join('');
     }
 
-    // Keuken filter
     document.querySelectorAll('#filter-keuken .filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('#filter-keuken .filter-btn').forEach(b => b.classList.remove('active'));
@@ -121,7 +120,6 @@
       });
     });
 
-    // Categorie filter
     document.querySelectorAll('#filter-categorie .filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('#filter-categorie .filter-btn').forEach(b => b.classList.remove('active'));
