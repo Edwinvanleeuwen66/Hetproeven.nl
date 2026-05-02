@@ -82,7 +82,9 @@
       "short_description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en zilte kappertjes.",
       "image": "/assets/images/chistorro-paprika.jpeg",
       "difficulty": "Makkelijk",
-      "description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en kappertjes. De kappertjes zijn hier geen garnering — ze zijn de zilte tegenhanger van het vet."
+      "description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en kappertjes. De kappertjes zijn hier geen garnering — ze zijn de zilte tegenhanger van het vet.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -175,7 +177,9 @@
       "short_description": "IJskoude watermeloengazpacho met gepofte feta en basilicumolie — de perfecte zomerse openingspintxo.",
       "image": "/assets/images/watermeloen-shot.png",
       "difficulty": "Makkelijk",
-      "description": "Een verfrissende ijskoude shot van watermeloengazpacho met een blokje gepofte feta en geurige basilicumolie."
+      "description": "Een verfrissende ijskoude shot van watermeloengazpacho met een blokje gepofte feta en geurige basilicumolie.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -264,7 +268,9 @@
       "short_description": "Knapperige zelfgemaakte aardappelchip, citroen-peterseliemayo en een ingelegde boquerón — een elegante Spaanse pintxo.",
       "image": "/assets/images/boqurones.png",
       "difficulty": "Makkelijk",
-      "description": "Knapperige zelfgemaakte aardappelchip als basis, een dot citroen-peterseliemayo en een ingelegde boquerón erop — een elegante Spaanse pintxo in drie happen."
+      "description": "Knapperige zelfgemaakte aardappelchip als basis, een dot citroen-peterseliemayo en een ingelegde boquerón erop — een elegante Spaanse pintxo in drie happen.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -336,7 +342,9 @@
       "short_description": "De iconische Bilbao-pintxo uit de jaren '60 — garnaal en hardgekookt ei op een tandenstoker met mayo en geraspt ei.",
       "image": "/assets/images/garnaal-op-ei.png",
       "difficulty": "Makkelijk",
-      "description": "De iconische pintxo uit Bilbao — gekookte garnaal en hardgekookt ei op een tandenstoker, afgetopt met huisgemaakte mayonaise en geraspt ei. Simpel, retro en verrassend lekker."
+      "description": "De iconische pintxo uit Bilbao — gekookte garnaal en hardgekookt ei op een tandenstoker, afgetopt met huisgemaakte mayonaise en geraspt ei. Simpel, retro en verrassend lekker.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -445,7 +453,9 @@
       "short_description": "Krokante aardappels met de originele bravasaus zonder tomaat — pikant, rokerig en echt Madrileens.",
       "image": "/assets/images/patatas-bravas.png",
       "difficulty": "Gemiddeld",
-      "description": "De enige echte Madrileense patatas bravas — krokante aardappels met een pittige olie-knoflook-pimentónsaus zonder tomaat, en een snelle aioli ernaast. Zo worden ze al decennialang geserveerd in de oude bodegas van Madrid."
+      "description": "De enige echte Madrileense patatas bravas — krokante aardappels met een pittige olie-knoflook-pimentónsaus zonder tomaat, en een snelle aioli ernaast. Zo worden ze al decennialang geserveerd in de oude bodegas van Madrid.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -537,7 +547,9 @@
       "short_description": "Sappige kipvulling met piquillo en paprika in kant-en-klare deegvelletjes — perfect om van tevoren te maken.",
       "image": "/assets/images/empanadas-poll.png",
       "difficulty": "Gemiddeld",
-      "description": "Sappige kipvulling van gestoofd en getrokken kipfilet met piquillo en paprika in kant-en-klare empanada deegvelletjes — de perfecte tapa die je van tevoren kunt maken en warm of op kamertemperatuur serveert."
+      "description": "Sappige kipvulling van gestoofd en getrokken kipfilet met piquillo en paprika in kant-en-klare empanada deegvelletjes — de perfecte tapa die je van tevoren kunt maken en warm of op kamertemperatuur serveert.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -609,7 +621,9 @@
       "short_description": "Venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus.",
       "image": "assets/images/venusschelpen-salsa-verde.png",
       "difficulty": "Gemiddeld",
-      "description": "Een klassiek Baskisch gerecht — venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus van peterselie, knoflook en witte wijn."
+      "description": "Een klassiek Baskisch gerecht — venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus van peterselie, knoflook en witte wijn.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -734,7 +748,9 @@
       "short_description": "Kabeljauw in luchtig rijstbloembeslag, gestapeld op brood met aioli en geroosterde paprika.",
       "image": "/assets/images/witvis.png",
       "difficulty": "Gemiddeld",
-      "description": "De klassieker uit Sevilla — reepjes kabeljauw in een luchtig krokant beslag van bloem en harina de arroz met ijskoud bruiswater. Knisperend krokant, gestapeld op brood met aioli en geroosterde paprika."
+      "description": "De klassieker uit Sevilla — reepjes kabeljauw in een luchtig krokant beslag van bloem en harina de arroz met ijskoud bruiswater. Knisperend krokant, gestapeld op brood met aioli en geroosterde paprika.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -806,7 +822,9 @@
       "short_description": "Plakjes manchego gepaneerd en gebakken tot goudbruin — geserveerd met zoete kweepeergelei.",
       "image": "assets/images/manchego-frito-membrillo.png",
       "difficulty": "Makkelijk",
-      "description": "Plakjes manchego gepaneerd in panko en snel gebakken tot goudbruin en smeltend van binnen — geserveerd met zoete membrillo. Warm en koud, zoet en zout, romig en krokant in één hap."
+      "description": "Plakjes manchego gepaneerd in panko en snel gebakken tot goudbruin en smeltend van binnen — geserveerd met zoete membrillo. Warm en koud, zoet en zout, romig en krokant in één hap.",
+      "categorie": "kaas",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -890,7 +908,9 @@
       "short_description": "Geroosterd brood met gesmolten manchego, zelfgemaakte vijgencompote en knapperige walnoten.",
       "image": "assets/images/tosta-manchego-vijgencompote.png",
       "difficulty": "Makkelijk",
-      "description": "Geroosterd brood met gesmolten manchego, zelfgemaakte warme vijgencompote en knapperige walnoten — zoet, zout en nootachtig in één hap."
+      "description": "Geroosterd brood met gesmolten manchego, zelfgemaakte warme vijgencompote en knapperige walnoten — zoet, zout en nootachtig in één hap.",
+      "categorie": "kaas",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -957,7 +977,9 @@
       "short_description": "Geroosterd brood met gezouten boter, de beste ansjovis en een luchtige sneeuwlaag geraspt hardgekookt ei.",
       "image": "assets/images/tosta-ansjovis-boter-ei.png",
       "difficulty": "Makkelijk",
-      "description": "Een van de meest elegante pintxos uit San Sebastián — geroosterd brood, gezouten boter, de beste ansjovis die je kunt vinden en fijn geraspt hardgekookt ei eroverheen. Vier ingrediënten, perfecte harmonie."
+      "description": "Een van de meest elegante pintxos uit San Sebastián — geroosterd brood, gezouten boter, de beste ansjovis die je kunt vinden en fijn geraspt hardgekookt ei eroverheen. Vier ingrediënten, perfecte harmonie.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1049,7 +1071,9 @@
       "short_description": "Mosselen gebakken in knoflookolie met pimentón — op geroosterd brood met aioli.",
       "image": "assets/images/tosta-mosselen-knoflook.png",
       "difficulty": "Makkelijk",
-      "description": "Mosselen kort gestoomd, uit de schelp gehaald en gebakken in knoflookolie met pimentón en witte wijn — op geroosterd brood met aioli. Snel, krachtig en vol zeesmaak."
+      "description": "Mosselen kort gestoomd, uit de schelp gehaald en gebakken in knoflookolie met pimentón en witte wijn — op geroosterd brood met aioli. Snel, krachtig en vol zeesmaak.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1153,7 +1177,9 @@
       "short_description": "Diepvriesmosselen gebakken met chorizo, paprika en ui — op geroosterd brood met aioli.",
       "image": "assets/images/tosta-mosselen-chorizo-paprika.png",
       "difficulty": "Makkelijk",
-      "description": "Diepvriesmosselen gebakken met chorizo, paprika en ui in knoflookolie met een scheutje witte wijn — op geroosterd brood met aioli. Snel, pittig en boordevol smaak."
+      "description": "Diepvriesmosselen gebakken met chorizo, paprika en ui in knoflookolie met een scheutje witte wijn — op geroosterd brood met aioli. Snel, pittig en boordevol smaak.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1241,7 +1267,9 @@
       "short_description": "Fluweelzachte preisoep afgewerkt met knapperig uitgebakken chorizo.",
       "image": "assets/images/crema-puerros-chorizo.png",
       "difficulty": "Makkelijk",
-      "description": "Een fluweelzachte preisoep van prei, aardappel en bouillon — afgewerkt met knapperig uitgebakken chorizo en een druppel olijfolie. Warm en elegant tegelijk."
+      "description": "Een fluweelzachte preisoep van prei, aardappel en bouillon — afgewerkt met knapperig uitgebakken chorizo en een druppel olijfolie. Warm en elegant tegelijk.",
+      "categorie": "soep",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1329,7 +1357,9 @@
       "short_description": "Frisse Spaanse salade van rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven.",
       "image": "assets/images/ensalada-murciana.png",
       "difficulty": "Makkelijk",
-      "description": "Een frisse en volle Spaanse salade uit Murcia — rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven met een eenvoudige sherry-vinaigrette."
+      "description": "Een frisse en volle Spaanse salade uit Murcia — rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven met een eenvoudige sherry-vinaigrette.",
+      "categorie": "salade",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1425,7 +1455,9 @@
       "short_description": "Flinterdunne krokante courgette-fritters met geraspte manchego en munt, met een frisse yoghurt-knoflooksaus.",
       "image": "assets/images/tortillitas-calabaci.png",
       "difficulty": "Makkelijk",
-      "description": "Flinterdunne krokante courgette-fritters met geraspte manchego en verse munt — gebakken in olijfolie en geserveerd met een frisse yoghurt-knoflooksaus."
+      "description": "Flinterdunne krokante courgette-fritters met geraspte manchego en verse munt — gebakken in olijfolie en geserveerd met een frisse yoghurt-knoflooksaus.",
+      "categorie": "groente",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1517,7 +1549,9 @@
       "short_description": "Knapperige sperziebonen in rijke tomatensaus met jamón serrano en een gebroken ei erop.",
       "image": "assets/images/judias-verdes-tomate-jamon.png",
       "difficulty": "Makkelijk",
-      "description": "Knapperige sperziebonen gestoofd in een rijke tomatensaus met jamón serrano — afgewerkt met een gebakken ei erop. Een eerlijk en vol Andalusisch gerecht."
+      "description": "Knapperige sperziebonen gestoofd in een rijke tomatensaus met jamón serrano — afgewerkt met een gebakken ei erop. Een eerlijk en vol Andalusisch gerecht.",
+      "categorie": "groente",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1592,7 +1626,9 @@
       "short_description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego.",
       "image": "assets/images/tosta-appel-chorizo-manchego.png",
       "difficulty": "Makkelijk",
-      "description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego — zoet, zout en pittig in één hap."
+      "description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego — zoet, zout en pittig in één hap.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1663,7 +1699,9 @@
       "short_description": "Knapperig brood met aioli, geroosterde paprika, krokante chistorra en kappertjes.",
       "image": "assets/images/chistorra-paprika-aioli-kappertjes.png",
       "difficulty": "Makkelijk",
-      "description": "Knapperig geroosterd brood met aioli, geroosterde rode paprika, gebakken chistorra en kappertjes — een kleurrijke pintxo die er prachtig uitziet op tafel."
+      "description": "Knapperig geroosterd brood met aioli, geroosterde rode paprika, gebakken chistorra en kappertjes — een kleurrijke pintxo die er prachtig uitziet op tafel.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1747,7 +1785,9 @@
       "short_description": "Geroosterd brood met honingmosterd, warme appelcompote, krokante chistorra en verse tijm.",
       "image": "assets/images/chistorra-appelcompote-mosterd.png",
       "difficulty": "Makkelijk",
-      "description": "Geroosterd brood met honingmosterd, gekarameliseerde appelcompote, knapperige chistorra en verse tijm."
+      "description": "Geroosterd brood met honingmosterd, gekarameliseerde appelcompote, knapperige chistorra en verse tijm.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1836,7 +1876,9 @@
       "short_description": "Fris tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.",
       "image": "assets/images/avocado-mango-tartaartje.png",
       "difficulty": "Makkelijk",
-      "description": "Een fris en kleurrijk tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing."
+      "description": "Een fris en kleurrijk tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.",
+      "categorie": "groente",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1929,7 +1971,9 @@
       "short_description": "Geroosterd brood met romige avocadocrème en frisse krabsalade met sinaasappel en kappertjes.",
       "image": "assets/images/tosta-avocado-krabsalade.png",
       "difficulty": "Makkelijk",
-      "description": "Geroosterd brood met avocadocrème en frisse krabsalade met sinaasappel, mayo en kappertjes."
+      "description": "Geroosterd brood met avocadocrème en frisse krabsalade met sinaasappel, mayo en kappertjes.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -1989,7 +2033,9 @@
       "short_description": "Het puurste wat je van een tomaat kunt maken — kristalhelder tomatenwater met één druppel olijfolie en fleur de sel.",
       "image": "assets/images/tomatenwater.png",
       "difficulty": "Gemiddeld",
-      "description": "Kristalhelder tomatenwater gewonnen door geduld en zwaartekracht, geserveerd met één druppel olijfolie en fleur de sel."
+      "description": "Kristalhelder tomatenwater gewonnen door geduld en zwaartekracht, geserveerd met één druppel olijfolie en fleur de sel.",
+      "categorie": "soep",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2064,7 +2110,9 @@
       "short_description": "Knapperig brood met vijgencrème, dunne peerschijfjes, een roos van Ibérico ham en manchegoschaafsel.",
       "image": "assets/images/pintxo-iberico-ham-peer.png",
       "difficulty": "Makkelijk",
-      "description": "Knapperig brood met vijgencrème, dunne peerschijfjes, flinterdunne Ibérico ham in een roos, manchegoschaafsel en peppery rucola bovenop."
+      "description": "Knapperig brood met vijgencrème, dunne peerschijfjes, flinterdunne Ibérico ham in een roos, manchegoschaafsel en peppery rucola bovenop.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2136,7 +2184,9 @@
       "short_description": "Knapperig brood met limoenyoghurt, meloenschijfjes en een roos van Ibérico ham met verse munt.",
       "image": "assets/images/pintxo-iberico-ham-meloen.png",
       "difficulty": "Makkelijk",
-      "description": "Een klassieke Spaanse combinatie — knapperig brood, limoenyoghurt, meloenschijfjes, Ibérico ham in een roos en verse munt erop."
+      "description": "Een klassieke Spaanse combinatie — knapperig brood, limoenyoghurt, meloenschijfjes, Ibérico ham in een roos en verse munt erop.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2244,7 +2294,9 @@
       "short_description": "Mini-gehaktrol gekruid met pimentón en peterselie, in plakjes op geroosterd brood met aioli en piquillo.",
       "image": "assets/images/pintxo-gehaktrol-piquillo.png",
       "difficulty": "Gemiddeld",
-      "description": "Een mini-gehaktrol gekruid op Spaanse wijze met pimentón, knoflook en peterselie — in plakjes gesneden op geroosterd brood met aioli en piquillo."
+      "description": "Een mini-gehaktrol gekruid op Spaanse wijze met pimentón, knoflook en peterselie — in plakjes gesneden op geroosterd brood met aioli en piquillo.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2349,7 +2401,9 @@
       "short_description": "Geroosterd brood met gekarameliseerde ui, champignons en sappige biefstreepjes in rode wijnjus.",
       "image": "assets/images/tosta-biefstuk-champignons-wijnjus.png",
       "difficulty": "Gemiddeld",
-      "description": "Geroosterd brood met gekarameliseerde ui, sappige champignons en reepjes perfect gebakken biefstuk in een rijke rode wijnjus."
+      "description": "Geroosterd brood met gekarameliseerde ui, sappige champignons en reepjes perfect gebakken biefstuk in een rijke rode wijnjus.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2458,7 +2512,9 @@
       "short_description": "Gemarineerde kippendijreepjes gegrild op hoog vuur, op brood met mango-chutney en verse koriander.",
       "image": "assets/images/tosta-kip-mango-koriander.png",
       "difficulty": "Makkelijk",
-      "description": "Gemarineerde kippendijreepjes gegrild op hoog vuur met een mooie korst — op geroosterd brood met zelfgemaakte mango-chutney en verse koriander."
+      "description": "Gemarineerde kippendijreepjes gegrild op hoog vuur met een mooie korst — op geroosterd brood met zelfgemaakte mango-chutney en verse koriander.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2559,7 +2615,9 @@
       "short_description": "Dikke garnalen strak gewikkeld in krokante bacon, gegrild en op brood met knoflook-citrusmayo.",
       "image": "assets/images/bacon-garnaalspies-brood.png",
       "difficulty": "Makkelijk",
-      "description": "Dikke sappige garnalen strak gewikkeld in krokante bacon, gegrild op hoog vuur op geroosterd brood met knoflook-citrusmayo — geïnspireerd op Bar Desy in Gros, San Sebastián."
+      "description": "Dikke sappige garnalen strak gewikkeld in krokante bacon, gegrild op hoog vuur op geroosterd brood met knoflook-citrusmayo — geïnspireerd op Bar Desy in Gros, San Sebastián.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2704,7 +2762,9 @@
       "short_description": "De iconische tapa van Barceloneta — knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd en geserveerd met bravasaus en aioli.",
       "image": "assets/images/la-bomba-barceloneta.png",
       "difficulty": "Gemiddeld",
-      "description": "De iconische tapa van Barceloneta uit 1944 — een grote knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd tot goudbruin en geserveerd met bravasaus én aioli."
+      "description": "De iconische tapa van Barceloneta uit 1944 — een grote knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd tot goudbruin en geserveerd met bravasaus én aioli.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2793,7 +2853,9 @@
       "short_description": "Dikke plakken watermeloen gegrild tot ze karameliseren, met langzaam geroosterde cherrytomaatjes en basilicumolie.",
       "image": "assets/images/gegrilde-watermeloen-tomaat.png",
       "difficulty": "Gemiddeld",
-      "description": "Geïnspireerd op Tickets Bar van Albert Adrià — dikke plakken watermeloen kort gegrild, geserveerd met langzaam geroosterde cherrytomaatjes en basilicumolie. Simpel, verrassend en verbluffend lekker."
+      "description": "Geïnspireerd op Tickets Bar van Albert Adrià — dikke plakken watermeloen kort gegrild, geserveerd met langzaam geroosterde cherrytomaatjes en basilicumolie. Simpel, verrassend en verbluffend lekker.",
+      "categorie": "groente",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2861,7 +2923,9 @@
       "short_description": "Krokante aardappelschijfjes met gebakken eieren die je breekt zodat de dooier over alles stroomt, met Ibérico ham.",
       "image": "assets/images/huevos-rotos-jamon.png",
       "difficulty": "Makkelijk",
-      "description": "Een van de meest geliefde Madrid tapas — krokante gefrituurde aardappelschijfjes met gebakken eieren die je net voor het serveren breekt zodat de dooier over alles stroomt, met flinterdunne Ibérico ham."
+      "description": "Een van de meest geliefde Madrid tapas — krokante gefrituurde aardappelschijfjes met gebakken eieren die je net voor het serveren breekt zodat de dooier over alles stroomt, met flinterdunne Ibérico ham.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -2929,7 +2993,9 @@
       "short_description": "De iconische Madrid banderilla — olijf, zilverui, ansjovis en guindilla-pepertje op een prikker.",
       "image": "assets/images/banderilla-madrid.png",
       "difficulty": "Makkelijk",
-      "description": "De iconische Madrid banderilla — een mini-prikker van groene olijf, zilverui, ansjovis en guindilla-pepertje. Zout, zuur en pittig in één hap. Typisch bij een koud tapbier in de oude tabernas van Madrid."
+      "description": "De iconische Madrid banderilla — een mini-prikker van groene olijf, zilverui, ansjovis en guindilla-pepertje. Zout, zuur en pittig in één hap. Typisch bij een koud tapbier in de oude tabernas van Madrid.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3005,7 +3071,9 @@
       "short_description": "Knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel zoete sherry.",
       "image": "assets/images/bladerdeeg-foie-gras-vijgen.png",
       "difficulty": "Gemiddeld",
-      "description": "Geïnspireerd op Lhardy, het oudste restaurant van Madrid (1839) — knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel Pedro Ximénez sherry."
+      "description": "Geïnspireerd op Lhardy, het oudste restaurant van Madrid (1839) — knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel Pedro Ximénez sherry.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3110,7 +3178,9 @@
       "short_description": "Gegrilde aubergine en courgette met paprika uit blik op knapperig brood met frisse koriandersaus.",
       "image": "assets/images/tosta-gegrilde-groenten-koriander.png",
       "difficulty": "Makkelijk",
-      "description": "Gegrilde aubergine en courgette met geroosterde paprika uit blik op knapperig stokbrood — afgewerkt met een frisse koriandersaus met knoflook, komijn en sherry-azijn."
+      "description": "Gegrilde aubergine en courgette met geroosterde paprika uit blik op knapperig stokbrood — afgewerkt met een frisse koriandersaus met knoflook, komijn en sherry-azijn.",
+      "categorie": "groente",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3177,7 +3247,9 @@
       "short_description": "De smeuïgste tortilla van Madrid met geconfijte aardappelen en langzaam gekarameliseerde ui.",
       "image": "assets/images/tortilla-espanola.png",
       "difficulty": "Gemiddeld",
-      "description": "Geïnspireerd op de legendarische tortilla van Juana La Loca in La Latina — smeuïg van binnen, licht goudbruin van buiten, met langzaam gekarameliseerde ui die de tortilla een diepe zoete smaak geeft."
+      "description": "Geïnspireerd op de legendarische tortilla van Juana La Loca in La Latina — smeuïg van binnen, licht goudbruin van buiten, met langzaam gekarameliseerde ui die de tortilla een diepe zoete smaak geeft.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3257,7 +3329,9 @@
       "short_description": "Kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook — op geroosterd brood.",
       "image": "assets/images/solomillo-al-whisky.png",
       "difficulty": "Gemiddeld",
-      "description": "Een legendarische Madrid taberna klassieker — kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook en een rijke saus."
+      "description": "Een legendarische Madrid taberna klassieker — kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook en een rijke saus.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3353,7 +3427,9 @@
       "short_description": "Langzaam gestoofde Spaanse ratatouille met courgette, paprika en tomaat, afgewerkt met een gebroken ei.",
       "image": "assets/images/pisto-manchego-huevo.png",
       "difficulty": "Makkelijk",
-      "description": "De Spaanse ratatouille — courgette, paprika, tomaat en ui langzaam gestoofd tot een rijke zachte saus, met een gebroken gebakken ei erop. Troostend en typisch Madrid."
+      "description": "De Spaanse ratatouille — courgette, paprika, tomaat en ui langzaam gestoofd tot een rijke zachte saus, met een gebroken gebakken ei erop. Troostend en typisch Madrid.",
+      "categorie": "groente",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3458,7 +3534,9 @@
       "short_description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón op brood.",
       "image": "assets/images/mini-kip-kebab-padron.png",
       "difficulty": "Makkelijk",
-      "description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón — op geroosterd brood met knoflook-citrusmayo. Geïnspireerd op Taberna Tío Blas op Calle Laurel in Logroño."
+      "description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón — op geroosterd brood met knoflook-citrusmayo. Geïnspireerd op Taberna Tío Blas op Calle Laurel in Logroño.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3563,7 +3641,9 @@
       "short_description": "Verse gegrilde sardine op een laagje warme pisto manchego op knapperig geroosterd brood.",
       "image": "assets/images/gegrilde-sardine-pisto.png",
       "difficulty": "Gemiddeld",
-      "description": "Geïnspireerd op La Tavina in Logroño — verse gegrilde sardine op een laagje warme pisto manchego, op knapperig geroosterd brood. Rokerig, zomers en vol mediterrane smaak."
+      "description": "Geïnspireerd op La Tavina in Logroño — verse gegrilde sardine op een laagje warme pisto manchego, op knapperig geroosterd brood. Rokerig, zomers en vol mediterrane smaak.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3664,7 +3744,9 @@
       "short_description": "Mals gebakken varkenslende op knapperige huisgemaakte chips — de legendarische tapa van Bar Abellá in Santiago.",
       "image": "assets/images/krokodiltapa-varkenslende-chips.png",
       "difficulty": "Gemiddeld",
-      "description": "De legendarische krokodiltapa van Bar Abellá in Santiago de Compostela — mals gebakken varkenslende op knapperige huisgemaakte chips."
+      "description": "De legendarische krokodiltapa van Bar Abellá in Santiago de Compostela — mals gebakken varkenslende op knapperige huisgemaakte chips.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3757,7 +3839,9 @@
       "short_description": "Gegrilde langoustines op een skewer met verrassende passievruchtmayonaise — zoet, zout en fris tegelijk.",
       "image": "assets/images/langoustineskewer-passievrucht.png",
       "difficulty": "Makkelijk",
-      "description": "Geïnspireerd op Can Climent in Begur — gegrilde langoustines op een skewer met verrassende passievruchtmayonaise. Zoet, zout en fris tegelijk."
+      "description": "Geïnspireerd op Can Climent in Begur — gegrilde langoustines op een skewer met verrassende passievruchtmayonaise. Zoet, zout en fris tegelijk.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3893,7 +3977,9 @@
       "short_description": "Sappige gehaktballetjes van gemengd rund en varken langzaam gestoofd in een rijke tomatensaus met rode wijn.",
       "image": "assets/images/albondigas-tomatensaus.png",
       "difficulty": "Gemiddeld",
-      "description": "De allerbeste albóndigas — sappige gehaktballetjes van gemengd rund en varken met gekarameliseerde ui, langzaam gestoofd in een rijke tomatensaus met rode wijn en kruiden."
+      "description": "De allerbeste albóndigas — sappige gehaktballetjes van gemengd rund en varken met gekarameliseerde ui, langzaam gestoofd in een rijke tomatensaus met rode wijn en kruiden.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -3965,7 +4051,9 @@
       "short_description": "Gegrilde paprika's uit blik met knoflook-honingdressing en geschaafde amandelen.",
       "image": "assets/images/paprika-knoflook-honing-amandelen.png",
       "difficulty": "Makkelijk",
-      "description": "Gegrilde paprika's uit blik met knoflook, honing, geschaafde amandelen en peterselie — een eenvoudige maar verrassend smaakvolle Spaanse tapa."
+      "description": "Gegrilde paprika's uit blik met knoflook, honing, geschaafde amandelen en peterselie — een eenvoudige maar verrassend smaakvolle Spaanse tapa.",
+      "categorie": "groente",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4053,7 +4141,9 @@
       "short_description": "Kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta met dragon-honingdressing.",
       "image": "assets/images/mozaiek-meloen-chorizo-avocado-feta.png",
       "difficulty": "Makkelijk",
-      "description": "Een kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta — afgewerkt met een frisse dragon-honingdressing van rosé wijnazijn en mosterd."
+      "description": "Een kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta — afgewerkt met een frisse dragon-honingdressing van rosé wijnazijn en mosterd.",
+      "categorie": "salade",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4145,7 +4235,9 @@
       "short_description": "De allerbeste duivelse eieren — romige vulling met tabasco, mosterd, piquillo en zwarte olijven.",
       "image": "assets/images/huevos-rellenos-endiablados.png",
       "difficulty": "Makkelijk",
-      "description": "De allerbeste duivelse eieren — romige vulling van eidooier, mayo, mosterd en tabasco met fijngehakte piquillo en zwarte olijven, afgewerkt met een ringetje olijf en een streepje piquillo."
+      "description": "De allerbeste duivelse eieren — romige vulling van eidooier, mayo, mosterd en tabasco met fijngehakte piquillo en zwarte olijven, afgewerkt met een ringetje olijf en een streepje piquillo.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4229,7 +4321,9 @@
       "short_description": "Heldere tijm-knoflooksoep in een klein kopje met een gepocheerd eitje dat openbreekt.",
       "image": "assets/images/tijm-knoflooksoep-gepocheerd-ei.png",
       "difficulty": "Gemiddeld",
-      "description": "Een fluweelzachte tijm-knoflooksoep geserveerd in een klein kopje met een gepocheerd eitje erin dat openbreekt — elegant, warm en verrassend eenvoudig."
+      "description": "Een fluweelzachte tijm-knoflooksoep geserveerd in een klein kopje met een gepocheerd eitje erin dat openbreekt — elegant, warm en verrassend eenvoudig.",
+      "categorie": "soep",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4318,7 +4412,9 @@
       "short_description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd, met zelfgemaakte citroenmayonaise.",
       "image": "assets/images/saffraangambas-citroenmayo.png",
       "difficulty": "Gemiddeld",
-      "description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd — knapperig van buiten en sappig van binnen. Geserveerd met een frisse zelfgemaakte citroenmayonaise."
+      "description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd — knapperig van buiten en sappig van binnen. Geserveerd met een frisse zelfgemaakte citroenmayonaise.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4411,7 +4507,9 @@
       "short_description": "Klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant.",
       "image": "assets/images/pepito-valenciano-tonijn.png",
       "difficulty": "Gemiddeld",
-      "description": "Een typisch Valenciaans tapasgerecht — klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant van buiten, zacht en vol van smaak van binnen."
+      "description": "Een typisch Valenciaans tapasgerecht — klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant van buiten, zacht en vol van smaak van binnen.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4524,7 +4622,9 @@
       "short_description": "Kippenvleugeltjes en -pootjes krokant uit de airfryer, gedompeld in een sticky knoflook-brandy-honing saus.",
       "image": "assets/images/alitas-muslitos-ajillo-sticky.png",
       "difficulty": "Makkelijk",
-      "description": "De allerbeste Spaanse kippenvleugeltjes en -pootjes — gemarineerd, krokant uit de airfryer en daarna gedompeld in een sticky glanzende saus van knoflook, Brandy de Jerez en honing."
+      "description": "De allerbeste Spaanse kippenvleugeltjes en -pootjes — gemarineerd, krokant uit de airfryer en daarna gedompeld in een sticky glanzende saus van knoflook, Brandy de Jerez en honing.",
+      "categorie": "vlees",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4650,7 +4750,9 @@
       "short_description": "De wedstrijdwinnende ensaladilla rusa — luchtig, zijdezacht en verslavend lekker dankzij de smash-techniek met kookwater.",
       "image": "assets/images/ensaladilla-rusa-pintxo.png",
       "difficulty": "Gemiddeld",
-      "description": "De wedstrijdwinnende ensaladilla rusa pintxo uit Madrid — een luchtige zijdezachte emulsie met de smash-techniek, Michelin-mayo en augurkenvocht. Op knapperig brood met geraspt ei en spektaculaire toppings."
+      "description": "De wedstrijdwinnende ensaladilla rusa pintxo uit Madrid — een luchtige zijdezachte emulsie met de smash-techniek, Michelin-mayo en augurkenvocht. Op knapperig brood met geraspt ei en spektaculaire toppings.",
+      "categorie": "salade",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4751,7 +4853,9 @@
       "short_description": "Romige preisalade met ham en ei op licht geroosterd stokbrood — zoals in de beste bars van Bilbao.",
       "image": "assets/images/pintxo-puerro-ham.png",
       "difficulty": "Makkelijk",
-      "description": "De iconische Baskische pintxo de puerro — romige preisalade met ham en ei op licht geroosterd stokbrood, afgewerkt met bieslook en een druppel olijfolie."
+      "description": "De iconische Baskische pintxo de puerro — romige preisalade met ham en ei op licht geroosterd stokbrood, afgewerkt met bieslook en een druppel olijfolie.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4856,7 +4960,9 @@
       "short_description": "Malse octopusstukjes met kleurrijke paprika, rode ui en avocado in een elegant glaasje met citroen-sherryvinaigrette.",
       "image": "assets/images/ensalada-pulpo-glaasje.png",
       "difficulty": "Gemiddeld",
-      "description": "De allerbeste Spaanse octopussalade geserveerd in een klein elegant glaasje — malse octopusstukjes met kleurrijke paprika, rode ui, avocado en een frisse citroen-sherryazijn dressing."
+      "description": "De allerbeste Spaanse octopussalade geserveerd in een klein elegant glaasje — malse octopusstukjes met kleurrijke paprika, rode ui, avocado en een frisse citroen-sherryazijn dressing.",
+      "categorie": "salade",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -4970,7 +5076,9 @@
       "short_description": "Drie lagen in een glaasje: zijdezachte aardappelcrème, krokant gebakken octopus en zwevende pimentónolie.",
       "image": "/assets/images/pulpo-in-glaasje.png",
       "difficulty": "Moeilijk",
-      "description": "Een Michelin-waardig gelaagd pintxo in een glaasje — zijdezachte aardappelcrème als basis, krokant gebakken octopus met honing-paprika glaze en zwevende pimentón-olie. Elke hap is romig, zacht, krokant en rokerig tegelijk."
+      "description": "Een Michelin-waardig gelaagd pintxo in een glaasje — zijdezachte aardappelcrème als basis, krokant gebakken octopus met honing-paprika glaze en zwevende pimentón-olie. Elke hap is romig, zacht, krokant en rokerig tegelijk.",
+      "categorie": "vis",
+      "keuken": "Spaans"
     },
     {
       "ingredient_groups": [
@@ -5091,7 +5199,9 @@
       "short_description": "Knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon.",
       "image": "/assets/images/garnaal-met-ei.png",
       "difficulty": "Gemiddeld",
-      "description": "De iconische Bilbao pintxo — knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon erop. Zacht, zout, romig en luxe in één perfecte hap."
+      "description": "De iconische Bilbao pintxo — knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon erop. Zacht, zout, romig en luxe in één perfecte hap.",
+      "categorie": "tapas-pintxos",
+      "keuken": "Spaans"
     }
   ]
 }

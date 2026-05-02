@@ -5,18 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Het Proeven — Recepten die blijven hangen</title>
   <meta name="description" content="Een persoonlijk kookboek van plekken die indruk maken. Eerlijk, onvergetelijk eten.">
-
-  <!-- Open Graph (WhatsApp, Facebook, etc.) -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Het Proeven">
   <meta property="og:title" content="Het Proeven — Recepten die blijven hangen">
   <meta property="og:description" content="Een persoonlijk kookboek van plekken die indruk maken. Eerlijk, onvergetelijk eten.">
   <meta property="og:url" content="https://www.hetproeven.nl/">
   <meta property="og:image" content="https://www.hetproeven.nl/assets/images/og-default.jpg">
-
-  <!-- Canonical URL -->
   <link rel="canonical" href="https://www.hetproeven.nl/">
-
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
@@ -38,7 +33,18 @@
     <p>Een persoonlijk kookboek van plekken die indruk maken. Geen algoritmes — alleen eerlijk, onvergetelijk eten.</p>
   </header>
 
-  <div class="section-label">Meest recent</div>
+  <div class="filter-bar">
+    <button class="filter-btn active" data-filter="all">Alles</button>
+    <button class="filter-btn" data-filter="tapas-pintxos">🥖 Tapas & Pintxos</button>
+    <button class="filter-btn" data-filter="vis">🐟 Vis & Zeevruchten</button>
+    <button class="filter-btn" data-filter="vlees">🥩 Vlees</button>
+    <button class="filter-btn" data-filter="groente">🌿 Groente</button>
+    <button class="filter-btn" data-filter="salade">🥗 Salade</button>
+    <button class="filter-btn" data-filter="soep">🥣 Soep</button>
+    <button class="filter-btn" data-filter="kaas">🧀 Kaas</button>
+  </div>
+
+  <div class="section-label" id="section-label">Alle recepten</div>
 
   <div class="recipe-grid" id="recipe-grid">
     <div class="loading">Recepten laden…</div>
@@ -50,16 +56,17 @@
   </footer>
 
   <script>
-    fetch('/data/recipes.json')
-      .then(r => r.json())
-      .then(data => {
-        const grid = document.getElementById('recipe-grid');
-        const recipes = (data.recipes || []).slice().reverse();
-        if (recipes.length === 0) {
-          grid.innerHTML = '<p class="empty">Nog geen recepten. <a href="/admin/" style="color:var(--accent)">Voeg je eerste recept toe →</a></p>';
-          return;
-        }
-        grid.innerHTML = recipes.map(r => `
+    let allRecipes = [];
+
+    function renderRecipes(recipes) {
+      const grid = document.getElementById('recipe-grid');
+      if (recipes.length === 0) {
+        grid.innerHTML = '<p class="empty">Geen recepten gevonden in deze categorie.</p>';
+        return;
+      }
+      grid.innerHTML = recipes.map(r => {
+        const wineNaam = r.wine && typeof r.wine === 'object' ? r.wine.naam : r.wine;
+        return `
           <a href="/recepten/${encodeURIComponent(r.slug)}" class="card">
             <div class="card-img" style="${r.image ? `background-image:url(${r.image})` : ''}">
               ${!r.image ? '<span>Foto laden…</span>' : ''}
@@ -71,11 +78,44 @@
               <div class="tags">
                 ${r.time ? `<span class="tag">${r.time}</span>` : ''}
                 ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
-                ${r.wine ? `<span class="tag tag-wine">${r.wine}</span>` : ''}
+                ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
               </div>
             </div>
           </a>
-        `).join('');
+        `;
+      }).join('');
+    }
+
+    const filterLabels = {
+      'all': 'Alle recepten',
+      'tapas-pintxos': 'Tapas & Pintxos',
+      'vis': 'Vis & Zeevruchten',
+      'vlees': 'Vlees',
+      'groente': 'Groente',
+      'salade': 'Salade',
+      'soep': 'Soep',
+      'kaas': 'Kaas'
+    };
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const filter = btn.dataset.filter;
+        document.getElementById('section-label').textContent = filterLabels[filter] || filter;
+        if (filter === 'all') {
+          renderRecipes(allRecipes);
+        } else {
+          renderRecipes(allRecipes.filter(r => r.categorie === filter));
+        }
+      });
+    });
+
+    fetch('/data/recipes.json')
+      .then(r => r.json())
+      .then(data => {
+        allRecipes = (data.recipes || []).slice().reverse();
+        renderRecipes(allRecipes);
       })
       .catch(() => {
         document.getElementById('recipe-grid').innerHTML =
