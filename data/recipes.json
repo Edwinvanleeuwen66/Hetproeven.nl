@@ -5476,6 +5476,162 @@
         }
       ],
       "chef_tip": "Marineer het vlees een hele nacht — dat maakt het verschil. Gril op medium hitte zodat het vlees vanbinnen rosé blijft. Maak de saus van tevoren — hij wordt de volgende dag nog lekkerder. Je hebt maar de helft nodig, de rest bewaar je in de koelkast."
+    },
+    {
+      "title": "Gemarineerde kip fajita met geblakerde paprika en knoflookyoghurt",
+      "slug": "kip-fajita-gemarineerd",
+      "location": "Oaxaca",
+      "time": "30 min + 30 min marineren",
+      "servings": "2 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Mexicaans",
+      "categorie": "vlees",
+      "image": "/assets/images/kip-fajita.png",
+      "short_description": "Kip gemarineerd op chipotle, gerookte paprika en limoensap — gebakken met geblakerde paprika en ui, afgemaakt met frisse knoflookyoghurt.",
+      "description": "De marinade is het verschil tussen een fajita en een goede fajita. Chipotle en gerookte paprika geven de kip een rokerige diepte die je niet uit een pakje haalt. De paprika en ui bakken tot ze écht geblakerd zijn — dat is geen ongeluk, dat is smaak.",
+      "ingredient_groups": [
+        {
+          "group_name": "Marinade en kip",
+          "ingredients": [
+            {
+              "name": "kipfilet of kippendij, in repen van 1,5 cm",
+              "amount": "500 g"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "1,5 tl"
+            },
+            {
+              "name": "komijnpoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "chipotle- of cayennepeper",
+              "amount": "0,5 tl"
+            },
+            {
+              "name": "knoflookteentjes, geperst",
+              "amount": "2"
+            },
+            {
+              "name": "honing",
+              "amount": "1 tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "2 el"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "zout",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Groenten",
+          "ingredients": [
+            {
+              "name": "rode paprika, in repen",
+              "amount": "1"
+            },
+            {
+              "name": "gele paprika, in repen",
+              "amount": "1"
+            },
+            {
+              "name": "rode ui, in halve ringen",
+              "amount": "1"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Knoflookyoghurt",
+          "ingredients": [
+            {
+              "name": "Griekse yoghurt",
+              "amount": "150 g"
+            },
+            {
+              "name": "knoflookteen, zeer fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Serveren",
+          "ingredients": [
+            {
+              "name": "kleine tarwebloem tortillas, gewarmd",
+              "amount": "4–6"
+            },
+            {
+              "name": "avocado, in plakken",
+              "amount": "1"
+            },
+            {
+              "name": "verse koriander",
+              "amount": "1 handvol"
+            },
+            {
+              "name": "limoen, in partjes",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kip marineren",
+          "description": "meng alle marinade-ingrediënten tot een gladde pasta. Schep de kipstukken erdoor zodat alles goed bedekt is. Dek af en laat minstens 30 minuten marineren in de koelkast — een uur geeft merkbaar meer smaak."
+        },
+        {
+          "action": "Knoflookyoghurt",
+          "description": "meng de yoghurt met de knoflook, het limoensap en een snuf zout. Proef en pas aan. Zet koud weg."
+        },
+        {
+          "action": "Paprika en ui bakken",
+          "description": "verhit een koekenpan op hoog vuur tot goed heet. Voeg de olie toe en bak de paprika en ui 7–9 minuten, niet te veel roeren — je wilt zwarte randjes. Dat zijn geen aangebrande groenten, dat is smaak. Breng op smaak met zout en zet apart."
+        },
+        {
+          "action": "Kip bakken",
+          "description": "bak de gemarineerde kip in dezelfde pan op hoog vuur — in twee porties als nodig, want een volle pan stoomt en bakt niet. Laat de kip 2 minuten liggen voor je roert: karamelisatie geeft diepte. Bak totaal 5–6 minuten tot gaar en licht gekorst."
+        },
+        {
+          "action": "Samenstellen",
+          "description": "doe de paprika en ui terug bij de kip en schep kort door op hoog vuur — 30 seconden. Dat is het fajita-moment: alles sist samen en de geuren komen vrij."
+        },
+        {
+          "action": "Serveren",
+          "description": "leg de kip en groenten op warme tortillas. Schep een flinke lepel knoflookyoghurt erop, leg avocado erbij en knijp een partje limoen erover. Bestrooi met verse koriander."
+        }
+      ],
+      "chef_tip": "Bak de kip in repen, niet als heel stuk — zo trekt de marinade er volledig doorheen én karameliseert elk stukje aan alle kanten. En gebruik kippendij als je kunt: meer smaak, minder droog.",
+      "wine": {
+        "naam": "Albariño",
+        "druif": "Albariño",
+        "toelichting": "De minerale frisheid en uitgesproken zuurgraad van een Galicische Albariño snijden feilloos door de rokerige marinade en het vet van de kip. De citrusachtige afdronk sluit naadloos aan bij het limoensap in het gerecht — fris genoeg om de kruiden te laten leven. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Droge Riesling of een glas Cava Brut"
+      }
     }
   ]
 }
