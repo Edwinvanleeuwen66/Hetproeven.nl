@@ -6535,6 +6535,542 @@
         "toelichting": "De droge mineraliteit en citruszuurgraad van een Chablis Premier Cru sluiten naadloos aan bij de delicate tongfilet en de citroentonen van sereh en limoen in de bumbu. Kalksteenkarakter versus frisse kurkumapasta — een klassieke tegenstelling die werkt. Serveer goed gekoeld op 10°C.",
         "alternatief": "Grüner Veltliner of droge Elzasser Pinot Blanc"
       }
+    },
+    {
+      "title": "Ayam Rica Rica — kip in pittige Manadonese paprikasaus",
+      "slug": "ayam-rica-rica",
+      "location": "Manado",
+      "time": "45 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/ayam-rica-rica.png",
+      "short_description": "Kippendijen gestoofd in een vurige bumbu van lomboks, gember en tomaat — met verse kemangi op het laatste moment.",
+      "description": "Rica rica is de pittige keuken van Noord-Sulawesi: geen kokosmelk, geen zoetigheid — alleen de hitte van lomboks, de frisheid van tomaat en de geur van verse kemangi. Gebruik kippendijen, niet filet. Het bot geeft smaak.",
+      "ingredient_groups": [
+        {
+          "group_name": "Bumbu",
+          "ingredients": [
+            {
+              "name": "gember, geschild",
+              "amount": "5 cm"
+            },
+            {
+              "name": "laos (galangawortel), geschild",
+              "amount": "5 cm"
+            },
+            {
+              "name": "knoflookteentjes",
+              "amount": "3"
+            },
+            {
+              "name": "rode puntpaprika",
+              "amount": "½"
+            },
+            {
+              "name": "rode lomboks, grof",
+              "amount": "4–5"
+            },
+            {
+              "name": "zout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Kip en saus",
+          "ingredients": [
+            {
+              "name": "kippendijen (met bot en vel), in grove stukken",
+              "amount": "800 g"
+            },
+            {
+              "name": "plantaardige olie",
+              "amount": "4 el"
+            },
+            {
+              "name": "grote ui, gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "stengels sereh (citroengras), gekneusd en in stukken",
+              "amount": "3"
+            },
+            {
+              "name": "limoenblaadjes (daun jeruk purut)",
+              "amount": "4"
+            },
+            {
+              "name": "salamblad of laurierblad",
+              "amount": "2"
+            },
+            {
+              "name": "rode lomboks, in schuine ringen",
+              "amount": "2"
+            },
+            {
+              "name": "rijpe tomaten, in blokjes",
+              "amount": "3"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse kemangi (citroenblasilicum) of Thaise basilicum",
+              "amount": "1 handvol"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bumbu maken",
+          "description": "blend of vijzel gember, laos, knoflook, puntpaprika, lomboks en zout tot een grove pasta."
+        },
+        {
+          "action": "Ui en bumbu fruiten",
+          "description": "verhit de olie in een wok op middelhoog vuur. Fruit de ui glazig. Voeg de bumbu, sereh, limoenblaadjes en salamblad toe en bak 8–10 minuten tot de olie eruit trekt en de pasta donkerder kleurt."
+        },
+        {
+          "action": "Kip toevoegen",
+          "description": "schep de kippendijen door de bumbu. Bak rondom aan op hoog vuur zodat het vel licht kleurt."
+        },
+        {
+          "action": "Tomaat en lombokringen",
+          "description": "voeg de tomaten en lombokringen toe. Roer goed om. Voeg een klein scheutje water toe als de saus te droog wordt. Laat 20–25 minuten zachtjes stoven met de deksel half op de pan tot de kip gaar is."
+        },
+        {
+          "action": "Afwerken en serveren",
+          "description": "verwijder sereh en salamblad. Druppel een tl limoensap erdoor. Scheur de kemangi-blaadjes er op het allerlaatste moment over — niet meer meekoken."
+        }
+      ],
+      "chef_tip": "Gebruik kippendijen met bot en vel — geen filet. Het vel geeft de saus zijn vettigheid, het bot geeft diepte. En de kemangi gaat er nooit in mee: pas toevoegen als het gerecht al op het bord ligt. Dan blijft de geur intact.",
+      "wine": {
+        "naam": "Grüner Veltliner",
+        "druif": "Grüner Veltliner",
+        "toelichting": "De peppery frisheid en hoge zuurgraad van een Oostenrijkse Grüner Veltliner tempert de hitte van de lomboks en wast de vettigheid van de kippendijen weg. Mineraal, scherp en nooit zoet — precies wat deze vurige saus vraagt. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Droge Riesling Kabinett of Vermentino"
+      }
+    },
+    {
+      "title": "Babi Kecap — gestoofd varkensnekstuk met steranijs en dikke kecap",
+      "slug": "babi-kecap",
+      "location": "Jakarta",
+      "time": "30 min + 2 uur stoven",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/babi-kecap.png",
+      "short_description": "Varkensnekstuk langzaam gestoofd in dikke kecap ABC, steranijs en palmsuiker — donker, diep en stroperig.",
+      "description": "Babi kecap is geen gerecht dat haast verdraagt. Varkensnekstuk — vet, dooraderd, perfect voor stoven — zakt in twee uur weg in een glanzende saus van dikke kecap, steranijs en gula djawa. Geen kokosmelk. Geen water. Alleen diepte.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vlees en basis",
+          "ingredients": [
+            {
+              "name": "varkensnekstuk (procureur), in blokken van 3 cm",
+              "amount": "800 g"
+            },
+            {
+              "name": "sjalotjes, gesnipperd",
+              "amount": "4"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "5"
+            },
+            {
+              "name": "verse gember, fijngehakt",
+              "amount": "8 cm"
+            },
+            {
+              "name": "plantaardige olie",
+              "amount": "3 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "50 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Saus en specerijen",
+          "ingredients": [
+            {
+              "name": "dikke kecap ABC (ketjap manis extra dik)",
+              "amount": "300 ml"
+            },
+            {
+              "name": "gula djawa (palmsuiker)",
+              "amount": "30 g"
+            },
+            {
+              "name": "stuks steranijs",
+              "amount": "6"
+            },
+            {
+              "name": "ketumbar (gemalen koriander)",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "zwarte peper, grof gemalen",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "kaneelstokje",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "gebakken uitjes",
+              "amount": "2 el"
+            },
+            {
+              "name": "verse rode chili, in dunne ringen",
+              "amount": "1"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Gember-knoflookpasta",
+          "description": "maal gember en knoflook samen tot een pasta in een blender of vijzel."
+        },
+        {
+          "action": "Basis fruiten",
+          "description": "verhit olie en boter in een zware stoofpan. Fruit sjalotjes op laag vuur tot goudbruin (±8 minuten). Voeg de gember-knoflookpasta toe en bak 2 minuten mee."
+        },
+        {
+          "action": "Vlees aanbraden",
+          "description": "zet het vuur hoog. Voeg het vlees toe en bak rondom bruin — neem de tijd, dit is de basis van de smaak."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "voeg kecap, gula djawa, steranijs, ketumbar, peper, zout en kaneel toe. Roer goed. Breng aan de kook."
+        },
+        {
+          "action": "Stoven",
+          "description": "zet het vuur heel laag. Laat het vlees in 2 uur gaarsmoren met de deksel half op de pan. Roer af en toe — de saus moet inkoken tot hij stroperig en glanzend is."
+        },
+        {
+          "action": "Afwerken en serveren",
+          "description": "druppel op het eind een tl limoensap erdoor om het zoet te breken. Garneer met gebakken uitjes en chiliringen. Serveer met witte rijst."
+        }
+      ],
+      "chef_tip": "Procureur is geen toeval: het dooradering vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Gebruik geen mager varkensvlees — dat droogt uit. En voeg het limoensap op het eind toe: één tl breekt de zoetheid van de kecap precies genoeg.",
+      "wine": {
+        "naam": "Zinfandel",
+        "druif": "Zinfandel",
+        "toelichting": "De rijpe zwarte vruchten, hoge alcoholgraad en lichte zoetheid van een Californische Zinfandel sluiten naadloos aan bij de donkere kecap en steranijs. Genoeg kracht om het vette vlees bij te houden, genoeg fruitigheid om de palmsuiker te spiegelen. Serveer op 17°C.",
+        "alternatief": "Primitivo di Manduria of een rijpe Malbec"
+      }
+    },
+    {
+      "title": "Ikan Asam Padeh — zeebaars gestoofd in zure, pikante Padangsaus",
+      "slug": "ikan-asam-padeh",
+      "location": "Padang",
+      "time": "40 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/ikan-asam-padeh.png",
+      "short_description": "Zeebaars gestoofd in een friszure Padangsaus van lombok, kurkuma, laos en tamarinde — helder, pittig, geen kokosmelk.",
+      "description": "Asam padeh is de friszure tegenhanger van de romige Padangkeuken. Geen kokosmelk — alleen de hitte van lomboks, de aardse geur van kurkuma en de strakke zuurgraad van tamarinde. Zeebaars werkt beter dan kabeljauw: steviger, meer smaak, houdt zijn structuur in de saus.",
+      "ingredient_groups": [
+        {
+          "group_name": "Bumbu",
+          "ingredients": [
+            {
+              "name": "rode lomboks, grof",
+              "amount": "4"
+            },
+            {
+              "name": "rode puntpaprika",
+              "amount": "½"
+            },
+            {
+              "name": "verse gember, geschild",
+              "amount": "5 cm"
+            },
+            {
+              "name": "verse kurkumawortel (geelwortel), geschild",
+              "amount": "4 cm"
+            },
+            {
+              "name": "laos (galangawortel), geschild",
+              "amount": "5 cm"
+            },
+            {
+              "name": "kemirínoten, geroosterd",
+              "amount": "3"
+            },
+            {
+              "name": "zout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Vis en saus",
+          "ingredients": [
+            {
+              "name": "zeebaarsstukken of -filets (of kabeljauw), in 4 stukken",
+              "amount": "600 g"
+            },
+            {
+              "name": "ui, gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "plantaardige olie",
+              "amount": "2 el"
+            },
+            {
+              "name": "sereh (citroengras), gekneusd en in 4 stukken",
+              "amount": "1 stengel"
+            },
+            {
+              "name": "kurkumablad (daun kunyit) of extra limoenblad",
+              "amount": "1"
+            },
+            {
+              "name": "tamarindepasta",
+              "amount": "2 el"
+            },
+            {
+              "name": "water",
+              "amount": "300 ml"
+            },
+            {
+              "name": "zout en peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse rode lombok, in dunne ringen",
+              "amount": "1"
+            },
+            {
+              "name": "limoensap (optioneel, ter correctie)",
+              "amount": "paar druppels"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bumbu maken",
+          "description": "hak lombok, puntpaprika, gember, kurkumawortel, laos en kemiri grof. Doe alles met het zout in een keukenmachine en maal fijn tot een bumbu."
+        },
+        {
+          "action": "Ui en bumbu fruiten",
+          "description": "verhit olie in een wok. Fruit ui en knoflook glazig. Voeg de bumbu toe en bak 5–6 minuten op middelhoog vuur tot het geurig is en de olie eruit trekt."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "voeg sereh en kurkumablad toe. Giet het water erbij. Laat 10 minuten zachtjes koken zodat de saus zijn diepte ontwikkelt."
+        },
+        {
+          "action": "Tamarinde en vis",
+          "description": "roer de tamarindepasta erdoor. Leg de visstukken voorzichtig in de saus. Laat 6–8 minuten zacht stoven — niet koken, niet roeren. De vis is gaar als hij makkelijk schilfert."
+        },
+        {
+          "action": "Afwerken en serveren",
+          "description": "breng op smaak met zout en peper. Verwijder de sereh. Leg de vis in diepe borden, schep saus erover en garneer met verse lombokringen."
+        }
+      ],
+      "chef_tip": "Kies zeebaars boven kabeljauw: de stevigere structuur houdt het stoven beter vol en de smaak is voller. En roer de vis nooit om — leg hem erin en laat hem met rust. Asam padeh is op zijn best als de vis net gaar is en de saus nog helder en fris smaakt.",
+      "wine": {
+        "naam": "Vermentino di Sardegna",
+        "druif": "Vermentino",
+        "toelichting": "De bittere afdronk, citrusfrisheid en lichte mineraliteit van een Sardijnse Vermentino sluiten naadloos aan bij de tamarindezuurheid en de hitte van de lombok. Licht genoeg voor de vis, krachtig genoeg voor de pikante saus. Serveer ijskoud op 9°C.",
+        "alternatief": "Droge Picpoul de Pinet of Assyrtiko uit Santorini"
+      }
+    },
+    {
+      "title": "Rendang Sapi — award-winning slowoven rendang (110°C, 4 uur)",
+      "slug": "rendang-sapi-slowoven",
+      "location": "Padang",
+      "time": "30 min + 4 uur oven",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/rendang-sapi.png",
+      "short_description": "Sucadelappen langzaam gegaard op 110°C met bumbu, kokosmelk en kerisik — droog, donker en draadjesmals.",
+      "description": "Echte rendang is droog, niet nat. Het vlees moet donkerbruin zijn, de saus volledig ingekookt en de kerisik — geroosterd kokosrasp — gehecht aan elk stukje vlees. De oven op 110°C doet in vier uur wat een pitje in drie uur nooit haalt: gelijkmatige, zachte hitte die het vlees draadjesmals maakt zonder te drogen.",
+      "ingredient_groups": [
+        {
+          "group_name": "Bumbu",
+          "ingredients": [
+            {
+              "name": "sjalotten, grof",
+              "amount": "6"
+            },
+            {
+              "name": "knoflookteentjes",
+              "amount": "4"
+            },
+            {
+              "name": "rode lomboks, ontzaad",
+              "amount": "5"
+            },
+            {
+              "name": "rode rawits (naar smaak)",
+              "amount": "2–3"
+            },
+            {
+              "name": "verse gember, geschild",
+              "amount": "4 cm"
+            },
+            {
+              "name": "laos (galanga), geschild",
+              "amount": "4 cm"
+            },
+            {
+              "name": "kemirínoten, droog geroosterd",
+              "amount": "4"
+            },
+            {
+              "name": "ketumbar (gemalen koriander)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "kurkuma",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Vlees en saus",
+          "ingredients": [
+            {
+              "name": "sucadelappen of runderlappen, in blokken van 4 cm",
+              "amount": "800 g"
+            },
+            {
+              "name": "volle kokosmelk",
+              "amount": "400 ml"
+            },
+            {
+              "name": "water",
+              "amount": "150 ml"
+            },
+            {
+              "name": "kerisik (geroosterd kokosrasp, fijngemalen)",
+              "amount": "4 el"
+            },
+            {
+              "name": "palmsuiker of bruine suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "plantaardige olie",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Aromaten",
+          "ingredients": [
+            {
+              "name": "stengels sereh (citroengras), gekneusd en in stukken",
+              "amount": "2"
+            },
+            {
+              "name": "limoenblaadjes (daun jeruk purut)",
+              "amount": "6"
+            },
+            {
+              "name": "daun salam of laurierblad",
+              "amount": "3"
+            },
+            {
+              "name": "kaneelstokje",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kerisik maken",
+          "description": "rooster het kokosrasp droog in een koekenpan op middelhoog vuur, constant roerend, tot diep goudbruin. Vijzel of maal fijn tot een olieachtige pasta. Zet apart — dit is het geheime wapen."
+        },
+        {
+          "action": "Bumbu blenden",
+          "description": "blend sjalotten, knoflook, lomboks, rawits, gember, laos, kemiri, ketumbar, komijn en kurkuma tot een gladde pasta."
+        },
+        {
+          "action": "Bumbu aanfruiten",
+          "description": "verwarm de oven voor op 110°C. Verhit de olie in een zware gietijzeren pan of braadpan op het vuur. Bak de bumbu 8–10 minuten op middelhoog vuur tot de olie eruit trekt en de pasta donkerder kleurt."
+        },
+        {
+          "action": "Vlees aanbraden",
+          "description": "voeg het vlees toe en bak rondom bruin op hoog vuur. Niet te veel tegelijk — werk in porties als nodig."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "voeg kokosmelk, water, kerisik, sereh, limoenblaadjes, salam, kaneel, palmsuiker en zout toe. Roer goed. Breng aan de kook."
+        },
+        {
+          "action": "Oven in — 4 uur op 110°C",
+          "description": "zet de deksel half op de pan. Schuif in de oven op 110°C. Na 3 uur de deksel eraf — de laatste uur verdampt de resterende vloeistof en hecht de kerisik zich aan het vlees. De rendang is klaar als de saus volledig is ingekookt en het vlees donkerbruin en droog glanst."
+        },
+        {
+          "action": "Serveren",
+          "description": "laat 10 minuten rusten. Verwijder sereh, salam en kaneel. Serveer met witte rijst en eventueel atjar."
+        }
+      ],
+      "chef_tip": "Kerisik is niet optioneel — het is het onderscheid tussen gewone en award-winning rendang. Zonder kerisik krijg je een gestoofde kipsaus. Mét kerisik krijg je die typische droge, korrelige coating die aan elk stukje vlees hecht. En gebruik sucadelap, niet riblap: het dooraderde vet smelt weg in vier uur en geeft het vlees zijn draadjesstructuur.",
+      "wine": {
+        "naam": "Barossa Valley Shiraz",
+        "druif": "Shiraz",
+        "toelichting": "De volle body, donkere vruchten en peperige ondertonen van een Barossa Valley Shiraz zijn het enige dat de complexe diepte van een rendang bijhoudt. Hoge alcohol draagt het vet, rijpe tannines werken met de geconcentreerde kokossaus. Serveer op 17°C.",
+        "alternatief": "Amarone della Valpolicella of een rijpe Malbec uit Mendoza"
+      }
     }
   ]
 }
