@@ -7071,6 +7071,1497 @@
         "toelichting": "De volle body, donkere vruchten en peperige ondertonen van een Barossa Valley Shiraz zijn het enige dat de complexe diepte van een rendang bijhoudt. Hoge alcohol draagt het vet, rijpe tannines werken met de geconcentreerde kokossaus. Serveer op 17°C.",
         "alternatief": "Amarone della Valpolicella of een rijpe Malbec uit Mendoza"
       }
+    },
+    {
+      "title": "Babi Pangang van krokante speklapjes met gelakte pangangsaus",
+      "slug": "babi-pangang-speklapjes",
+      "location": "Kanton",
+      "time": "45 min + 30 min marineren",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/babi-pangang-speklapjes.png",
+      "short_description": "Krokant geroosterde speklapjes, schuin gesneden en geserveerd op een spiegel van glanzende zoetzure pangangsaus.",
+      "description": "Babi pangang zoals het in een goed Chinees restaurant hoort: speklapjes met een krokante rand, schuin gesneden zodat het marmer zichtbaar is, op een spiegel van zoetzure saus. De saus komt deels onder het vlees, niet erover — zo blijven de randjes krokant.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vlees",
+          "ingredients": [
+            {
+              "name": "speklapjes, niet te dun",
+              "amount": "8"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "Shaoxing rijstwijn of droge sherry",
+              "amount": "1 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vijfkruidenpoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Pangangsaus",
+          "ingredients": [
+            {
+              "name": "lichte kippenbouillon",
+              "amount": "200 ml"
+            },
+            {
+              "name": "ketchup",
+              "amount": "4 el"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "2 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "2½ el"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "2 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "sambal of chilisaus (optioneel)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "maizena, gemengd met 2 el koud water",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "lente-ui, fijngesneden",
+              "amount": "2"
+            },
+            {
+              "name": "geroosterde sesam",
+              "amount": "1 el"
+            },
+            {
+              "name": "komkommerlinten",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineren",
+          "description": "meng sojasaus, rijstwijn, suiker, vijfkruidenpoeder, knoflook, gember, zout en peper. Marineer de speklapjes minimaal 30 minuten."
+        },
+        {
+          "action": "Speklapjes garen",
+          "description": "bak de speklapjes rustig op middelhoog vuur zodat het vet kan smelten en het vlees gaar wordt. Verhoog daarna het vuur of rooster kort in een airfryer of oven tot de randjes krokant zijn. Laat 5 minuten rusten en snijd schuin in mooie stukken."
+        },
+        {
+          "action": "Pangangsaus maken",
+          "description": "verwarm bouillon, ketchup, tomatenpuree, suiker, azijn, sojasaus, sambal, gember en knoflook. Laat enkele minuten zacht koken. Bind met het maizenapapje tot een glanzende saus. Roer de sesamolie erdoor."
+        },
+        {
+          "action": "Serveren",
+          "description": "maak een spiegel van saus op het bord. Leg de speklapjes dakpansgewijs op de saus. Lak de bovenkant licht met extra saus en werk af met lente-ui, sesam en komkommerlinten."
+        }
+      ],
+      "chef_tip": "Giet de saus nooit over de hele lap heen — een spiegel eronder en een lichte laklaag erboven houdt de krokante randjes zichtbaar én intact.",
+      "wine": {
+        "naam": "Gewürztraminer",
+        "druif": "Gewürztraminer",
+        "toelichting": "De lichte zoetheid en rozenwaterbloemigheid van een Elzasser Gewürztraminer spiegelen de zoetzure pangangsaus en tempert de zoutheid van het gemarineerde vlees. Serveer ijskoud op 8°C.",
+        "alternatief": "Off-dry Riesling Kabinett of Pinot Gris"
+      }
+    },
+    {
+      "title": "Koe Loe Joek van varkenshaas met zoetzure ananassaus",
+      "slug": "koe-loe-joek-varkenshaas",
+      "location": "Kanton",
+      "time": "40 min + 30 min marineren",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/koe-loe-joek-varkenshaas.png",
+      "short_description": "Krokante blokjes varkenshaas gelakt in een glanzende zoetzure ananassaus met paprika en ui.",
+      "description": "Koe loe joek zoals het hoort: varkenshaas met een luchtig krokant laagje, op het laatste moment door een glanzende zoetzure saus geschept zodat elk stukje lakt maar het korstje niet week wordt. Tweemaal frituren is geen overdrijving — het is het verschil.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vlees",
+          "ingredients": [
+            {
+              "name": "varkenshaas, in blokjes van 3 cm",
+              "amount": "600 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "Shaoxing rijstwijn of droge sherry",
+              "amount": "1 el"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Krokant laagje",
+          "ingredients": [
+            {
+              "name": "eiwit",
+              "amount": "1"
+            },
+            {
+              "name": "maizena",
+              "amount": "5 el"
+            },
+            {
+              "name": "bloem",
+              "amount": "2 el"
+            },
+            {
+              "name": "bakpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "ijskoud water",
+              "amount": "2–3 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Zoetzure ananassaus",
+          "ingredients": [
+            {
+              "name": "ananassap",
+              "amount": "200 ml"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "75 ml"
+            },
+            {
+              "name": "ketchup",
+              "amount": "4 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "2 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "½"
+            },
+            {
+              "name": "maizena, gemengd met 2 el koud water",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Groenten en afwerking",
+          "ingredients": [
+            {
+              "name": "rode paprika, in grove ruiten",
+              "amount": "1"
+            },
+            {
+              "name": "groene paprika, in grove ruiten",
+              "amount": "1"
+            },
+            {
+              "name": "ui, in partjes",
+              "amount": "1"
+            },
+            {
+              "name": "ananasstukjes",
+              "amount": "150 g"
+            },
+            {
+              "name": "lente-ui, in ringetjes",
+              "amount": "2"
+            },
+            {
+              "name": "geroosterde sesam",
+              "amount": "1 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineren",
+          "description": "meng sojasaus, rijstwijn, sesamolie, knoflook, gember, zout en peper. Marineer de varkenshaas 20–30 minuten."
+        },
+        {
+          "action": "Beslag en frituren",
+          "description": "meng eiwit, maizena, bloem, bakpoeder, zout en ijskoud water tot een beslag. Haal het vlees erdoor. Frituur de blokjes goudbruin. Laat uitlekken en frituur vlak voor het serveren een tweede keer kort — zo wordt het korstje echt krokant."
+        },
+        {
+          "action": "Saus maken",
+          "description": "kook ananassap, azijn, ketchup, suiker, sojasaus, tomatenpuree, gember en knoflook. Bind licht met maizena en roer sesamolie erdoor."
+        },
+        {
+          "action": "Samenstellen en serveren",
+          "description": "wok paprika, ui en ananas kort op hoog vuur. Voeg de saus toe. Schep het krokante vlees er pas vlak voor het serveren door. Leg op het bord met lente-ui en sesam."
+        }
+      ],
+      "chef_tip": "De tweede frituurbeurt lijkt overdreven maar is het niet — de eerste gaart, de tweede maakt krokant. Sla hem niet over.",
+      "wine": {
+        "naam": "Riesling Kabinett",
+        "druif": "Riesling",
+        "toelichting": "De fruitige frisheid en lichte residuele zoetheid van een Moezel Riesling Kabinett sluiten aan bij de ananassmaak en snijden door het gefrituurde. Serveer gekoeld op 9°C.",
+        "alternatief": "Droge Prosecco of Cava Brut"
+      }
+    },
+    {
+      "title": "Mini kipsaté van platgeslagen kipdij met diepe zoete pindasaus",
+      "slug": "mini-kipsate-pindasaus",
+      "location": "Singapore",
+      "time": "25 min + 30 min marineren",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mini-kipsate-pindasaus.png",
+      "short_description": "Kleine éénhaps-satéetjes van platgeslagen kipdij, gegrild en geserveerd met een romige, diepe pindasaus.",
+      "description": "Kleine satéetjes van kipdij, licht platgeslagen voor meer grilloppervlak en betere karamelisatie. De pindasaus is donker, romig en zoet-hartig — pindakaas, kokosmelk, ketjap, ketchup, gember. Herkenbaar, maar met diepte.",
+      "ingredient_groups": [
+        {
+          "group_name": "Kip",
+          "ingredients": [
+            {
+              "name": "kipdijfilet, in kleine stukken",
+              "amount": "400 g"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "2 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "zonnebloemolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "honing of bruine basterdsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "korianderpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "komijnpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper en zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "kleine houten prikkers",
+              "amount": "16"
+            }
+          ]
+        },
+        {
+          "group_name": "Diepe pindasaus",
+          "ingredients": [
+            {
+              "name": "pindakaas naturel",
+              "amount": "3 el"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "180 ml"
+            },
+            {
+              "name": "kippenbouillon",
+              "amount": "75 ml"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1½ el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "ketchup",
+              "amount": "1 el"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "½–1 tl"
+            },
+            {
+              "name": "sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rijstazijn of limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "gebakken uitjes",
+              "amount": "1 el"
+            },
+            {
+              "name": "geroosterde pinda's, grof gehakt",
+              "amount": "1 el"
+            },
+            {
+              "name": "lente-ui, in ringetjes",
+              "amount": "2"
+            },
+            {
+              "name": "partjes limoen",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineren en platslaan",
+          "description": "leg de stukken kipdij tussen bakpapier en sla licht plat. Meng alle marinade-ingrediënten en marineer de kip minstens 30 minuten."
+        },
+        {
+          "action": "Pindasaus maken",
+          "description": "fruit sjalot, knoflook en gember zacht aan. Voeg pindakaas, kokosmelk, bouillon, ketjap, sojasaus, ketchup en sambal toe. Laat rustig warm worden op laag vuur en roer glad. Breng op smaak met rijstazijn en sesamolie."
+        },
+        {
+          "action": "Grillen",
+          "description": "rijg één of twee stukjes kip per prikker. Grill kort en heet in een grillpan tot ze karamelliseren en sappig blijven."
+        },
+        {
+          "action": "Serveren",
+          "description": "maak een kleine spiegel pindasaus op elk bord. Stapel de satéetjes kruislings op elkaar. Werk af met gebakken uitjes, pinda's, lente-ui en een partje limoen."
+        }
+      ],
+      "chef_tip": "Verwarm de pindasaus altijd op laag vuur — te hard koken laat hem schiften. Roer rustig en regelmatig.",
+      "wine": {
+        "naam": "Viognier",
+        "druif": "Viognier",
+        "toelichting": "De volle bloemenachtige body van een Rhône Viognier gaat mee met de romige pindasaus en de zoete marinade van de kip zonder te overstemmen. Serveer op 12°C.",
+        "alternatief": "Droge Torrontés of Gewürztraminer"
+      }
+    },
+    {
+      "title": "Tjap Tjoy Deluxe met kip en fluweelzachte restaurantsaus",
+      "slug": "tjap-tjoy-deluxe",
+      "location": "Fujian",
+      "time": "30 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "groente-salade",
+      "image": "/assets/images/tjap-tjoy-deluxe.png",
+      "short_description": "Knapperige groenten met kip in een lichte, glanzende restaurantsaus — de maizena laat de saus glanzen, niet verdikken.",
+      "description": "Tjap tjoy is een groentegerecht. De kip is ondergeschikt — 200 g, niet meer. De saus is licht, glanzend en gebonden met net genoeg maizena voor die typische fluweelzachte restaurantmondervaring. MSG is optioneel maar hier passend.",
+      "ingredient_groups": [
+        {
+          "group_name": "Kip",
+          "ingredients": [
+            {
+              "name": "kipdijfilet, in dunne plakjes",
+              "amount": "200 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn of droge sherry",
+              "amount": "1 tl"
+            },
+            {
+              "name": "maizena",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zonnebloemolie",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Groenten",
+          "ingredients": [
+            {
+              "name": "champignons, gehalveerd",
+              "amount": "150 g"
+            },
+            {
+              "name": "broccoli, in kleine roosjes",
+              "amount": "150 g"
+            },
+            {
+              "name": "wortel, dun schuin gesneden",
+              "amount": "100 g"
+            },
+            {
+              "name": "peultjes of sugarsnaps",
+              "amount": "100 g"
+            },
+            {
+              "name": "paksoi, in grove stukken",
+              "amount": "100 g"
+            },
+            {
+              "name": "taugé",
+              "amount": "100 g"
+            },
+            {
+              "name": "rode en gele paprika, in dunne ruiten",
+              "amount": "1 van elk (½ elk)"
+            },
+            {
+              "name": "kleine ui, in partjes",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteen, fijngehakt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Restaurantsaus",
+          "ingredients": [
+            {
+              "name": "kippenbouillon",
+              "amount": "300 ml"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "MSG of kippenpoeder (optioneel)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "maizena, gemengd met 2 el koud water",
+              "amount": "2 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kip marineren",
+          "description": "meng alle marinade-ingrediënten met de kip en laat 15–20 minuten staan."
+        },
+        {
+          "action": "Groenten blancheren",
+          "description": "blancheer broccoli en wortel kort in gezouten water — beetgaar, mooi van kleur. Laat goed uitlekken."
+        },
+        {
+          "action": "Wokken",
+          "description": "wok knoflook, gember, ui, champignons en paprika kort op hoog vuur. Voeg de kip toe en bak kort mee. Voeg broccoli, wortel, peultjes, paksoi en de saus toe. Bind met maizena tot de saus glanst. Voeg taugé pas op het allerlaatste moment toe en roer sesamolie erdoor."
+        },
+        {
+          "action": "Serveren",
+          "description": "serveer in een diepe schaal met de groenten hoog opgestapeld en de glanzende saus rondom. Werk af met lente-ui."
+        }
+      ],
+      "chef_tip": "Gebruik bewust weinig kip — te veel vlees maakt dit een vleesgerecht. De knapperige groenten zijn het gerecht.",
+      "wine": {
+        "naam": "Pinot Gris",
+        "druif": "Pinot Gris",
+        "toelichting": "De zachte body en subtiele zoetheid van een Elzasser Pinot Gris gaat mee met de oestersaus zonder de delicate groenten te overstemmen. Serveer op 12°C.",
+        "alternatief": "Droge Chenin Blanc of Verdejo"
+      }
+    },
+    {
+      "title": "Foe Yong Hai Royale met beenham, prei en fluwelen tomatensaus",
+      "slug": "foe-yong-hai-royale",
+      "location": "Shanghai",
+      "time": "30 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/foe-yong-hai-royale.png",
+      "short_description": "Luchtige goudbruine Chinese omelet met beenham, prei en taugé — op een spiegel van zoetzure tomatensaus.",
+      "description": "Foe yong hai op zijn best: goudbruin van buiten, zacht van binnen, met goede beenham en verse prei. De tomatensaus is zoet, licht zuur en glanzend — herkenbaar, maar gemaakt met bouillon en sesamolie, niet uit een pak.",
+      "ingredient_groups": [
+        {
+          "group_name": "Omelet",
+          "ingredients": [
+            {
+              "name": "eieren",
+              "amount": "6"
+            },
+            {
+              "name": "beenham of achterham, in fijne reepjes",
+              "amount": "150 g"
+            },
+            {
+              "name": "taugé",
+              "amount": "100 g"
+            },
+            {
+              "name": "kleine prei, alleen het lichte deel, zeer dun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "lente-uitjes, fijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "rode paprika, zeer fijn gesneden",
+              "amount": "½"
+            },
+            {
+              "name": "sjalot, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "maizena, losgeroerd met 1 el water",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zonnebloemolie om te bakken",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Fluwelen tomatensaus",
+          "ingredients": [
+            {
+              "name": "kippenbouillon",
+              "amount": "250 ml"
+            },
+            {
+              "name": "ketchup",
+              "amount": "4 el"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "2 el"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1½ el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "½"
+            },
+            {
+              "name": "maizena, gemengd met 2 el koud water",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "flinterdunne hamreepjes, kort krokant gebakken",
+              "amount": "50 g"
+            },
+            {
+              "name": "lente-ui, in ringetjes",
+              "amount": "2"
+            },
+            {
+              "name": "geroosterde sesam",
+              "amount": "1 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Groenten kort aanbakken",
+          "description": "bak sjalot, prei en paprika kort aan tot ze net zachter worden. Laat iets afkoelen."
+        },
+        {
+          "action": "Omeletmengsel maken",
+          "description": "klop de eieren los met sojasaus, sesamolie, witte peper en het maizenapapje. Meng ham, taugé, lente-ui en de gebakken groenten erdoor."
+        },
+        {
+          "action": "Bakken",
+          "description": "bak twee kleinere omeletten in een royale laag olie op middelhoog vuur — goudbruin van buiten, zacht van binnen. Snijd in mooie punten."
+        },
+        {
+          "action": "Saus maken",
+          "description": "verwarm bouillon, ketchup, tomatenpuree, suiker, azijn, sojasaus, gember en knoflook. Bind licht met maizena. Roer sesamolie erdoor."
+        },
+        {
+          "action": "Serveren",
+          "description": "maak een spiegel van tomatensaus op het bord. Leg een punt foe yong hai erop en lepel een beetje saus over het midden — laat de goudbruine rand zichtbaar. Werk af met krokante hamreepjes, lente-ui en sesam."
+        }
+      ],
+      "chef_tip": "Bak twee kleinere omeletten in plaats van één grote — ze zijn makkelijker te draaien en koken gelijkmatiger. Gebruik goede ham: waterige blokjesham zinkt het gerecht.",
+      "wine": {
+        "naam": "Pinot Blanc",
+        "druif": "Pinot Blanc",
+        "toelichting": "De zachte neutraliteit en lichte frisheid van een Elzasser Pinot Blanc laat de zoetzure tomatensaus en de romige omelet schitteren zonder er tegenin te gaan. Serveer op 11°C.",
+        "alternatief": "Droge Chablis of Soave Classico"
+      }
+    },
+    {
+      "title": "Tja Lak Kai — krokante kip in zoet-pittige laksaus",
+      "slug": "tja-lak-kai",
+      "location": "Kanton",
+      "time": "35 min + 20 min marineren",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/tja-lak-kai.png",
+      "short_description": "Krokante kipdij gelakt in een rode zoet-pittige saus met ketchup, ketjap, sambal en sesamolie.",
+      "description": "Tja lak kai is de Chinees-Indische zoet-pittige kip: krokant gebakken kipdij, op het laatste moment door een glanzende rode saus geschept. De ketjap geeft rondheid, de sambal geeft pit, de ketchup geeft die herkenbare restaurantzoetheid.",
+      "ingredient_groups": [
+        {
+          "group_name": "Kip",
+          "ingredients": [
+            {
+              "name": "kipdijfilet, in hapklare stukken",
+              "amount": "450 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "Shaoxing rijstwijn of droge sherry",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "eiwit",
+              "amount": "1"
+            },
+            {
+              "name": "maizena",
+              "amount": "4 el"
+            },
+            {
+              "name": "bloem",
+              "amount": "1 el"
+            },
+            {
+              "name": "zonnebloemolie om te bakken",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Groenten",
+          "ingredients": [
+            {
+              "name": "rode paprika, in ruiten",
+              "amount": "1"
+            },
+            {
+              "name": "groene paprika, in ruiten",
+              "amount": "1"
+            },
+            {
+              "name": "ui, in partjes",
+              "amount": "1"
+            },
+            {
+              "name": "lente-uitjes, in schuine stukken",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Zoet-pittige laksaus",
+          "ingredients": [
+            {
+              "name": "kippenbouillon",
+              "amount": "200 ml"
+            },
+            {
+              "name": "ketchup",
+              "amount": "3 el"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "1½ el"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1–2 tl"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "maizena, gemengd met 2 el koud water",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "lente-ui, in ringetjes",
+              "amount": "2"
+            },
+            {
+              "name": "geroosterde sesam",
+              "amount": "1 el"
+            },
+            {
+              "name": "komkommerlinten",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineren",
+          "description": "marineer de kip met sojasaus, rijstwijn, witte peper, knoflook en gember. Meng daarna met eiwit, maizena en bloem tot elk stuk een dun laagje heeft."
+        },
+        {
+          "action": "Kip bakken",
+          "description": "bak of frituur de kip goudbruin en krokant. Laat uitlekken op keukenpapier."
+        },
+        {
+          "action": "Saus en groenten",
+          "description": "wok paprika en ui kort op hoog vuur. Voeg alle sausingrediënten toe behalve maizena en sesamolie. Laat kort koken en bind met maizena tot een glanzende laksaus. Roer sesamolie erdoor."
+        },
+        {
+          "action": "Samenstellen en serveren",
+          "description": "schep de krokante kip pas vlak voor het serveren door de saus. Leg paprika, ui en saus als basis op het bord en stapel de gelakte kip erop. Werk af met lente-ui, sesam en komkommerlinten."
+        }
+      ],
+      "chef_tip": "Schep de kip pas op het allerlaatste moment door de saus — elk minuut eerder kost krokant.",
+      "wine": {
+        "naam": "Gewürztraminer",
+        "druif": "Gewürztraminer",
+        "toelichting": "De lichte zoetheid en aromatische kracht van een Gewürztraminer tempert de sambal en spiegelt de zoetzure laksaus. Serveer ijskoud op 8°C.",
+        "alternatief": "Off-dry Riesling of Pinot Gris"
+      }
+    },
+    {
+      "title": "Fluweelzachte Beef met Broccoli en diepe oestersaus",
+      "slug": "beef-broccoli-oestersaus",
+      "location": "Kanton",
+      "time": "30 min + 25 min marineren",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/beef-broccoli-oestersaus.png",
+      "short_description": "Dunne plakjes rundvlees met die typische zachte restaurantstructuur, gewokt met knalgroene broccoli en een donkere oestersaus.",
+      "description": "De maizena in de marinade geeft het rundvlees die karakteristieke zachte, fluweelachtige textuur die je in een Chinees restaurant herkent. De broccoli blijft knalgroen door kort blancheren. De saus is donker, glanzend en niet te zwaar.",
+      "ingredient_groups": [
+        {
+          "group_name": "Rundvlees",
+          "ingredients": [
+            {
+              "name": "biefstuk, bavette of kogelbiefstuk, dwars op de draad dun gesneden",
+              "amount": "350 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn of droge sherry",
+              "amount": "1 el"
+            },
+            {
+              "name": "maizena",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zonnebloemolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Groenten",
+          "ingredients": [
+            {
+              "name": "broccoli, in mooie roosjes",
+              "amount": "500 g"
+            },
+            {
+              "name": "kleine ui, in dunne partjes",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteen, fijngehakt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Oestersaus",
+          "ingredients": [
+            {
+              "name": "runderbouillon of kippenbouillon",
+              "amount": "180 ml"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "2½ el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "maizena, gemengd met 2 el koud water",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterde sesam",
+              "amount": "1 el"
+            },
+            {
+              "name": "lente-ui, dun gesneden",
+              "amount": "2"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees marineren",
+          "description": "snijd het rundvlees dwars op de draad in dunne plakjes. Marineer met alle marinade-ingrediënten en laat 20–25 minuten staan — de maizena geeft de fluweelachtige textuur."
+        },
+        {
+          "action": "Broccoli blancheren",
+          "description": "blancheer de broccoli kort in gezouten water tot hij felgroen is en nog beet heeft. Laat goed uitlekken."
+        },
+        {
+          "action": "Wokken",
+          "description": "wok knoflook, gember en ui kort aan. Bak het rundvlees snel op hoog vuur. Voeg broccoli en saus toe. Bind met maizena tot de saus glanst en mooi aan vlees en broccoli blijft hangen. Roer sesamolie erdoor."
+        },
+        {
+          "action": "Serveren",
+          "description": "leg de broccoli als groene basis op een warm bord. Leg de rundvleesplakjes dakpansgewijs erop en lepel de donkere oestersaus eroverheen. Werk af met sesam en lente-ui."
+        }
+      ],
+      "chef_tip": "Snijd rundvlees altijd dwars op de draad en marineer met maizena — dát geeft de zachte textuur. Zonder maizena in de marinade krijg je taai vlees.",
+      "wine": {
+        "naam": "Merlot",
+        "druif": "Merlot",
+        "toelichting": "De zachte tannines en pruimige vruchten van een Saint-Émilion Merlot sluiten aan bij de diepe oestersaus zonder het rundvlees te overstemmen. Serveer op 17°C.",
+        "alternatief": "Lichte Pinot Noir of Barbera d'Asti"
+      }
+    },
+    {
+      "title": "Sichuan Hot & Sour Soup met zwarte azijn, paddenstoelen en eierlinten",
+      "slug": "sichuan-hot-sour-soup",
+      "location": "Sichuan",
+      "time": "25 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "soep",
+      "image": "/assets/images/sichuan-hot-sour-soup.png",
+      "short_description": "Diepe, peperige Sichuan soep met zwarte azijn, shiitake, bamboescheuten en zijdeachtige eierlinten.",
+      "description": "Hot & sour soup: de hitte komt van witte peper, niet van chili. De zuurheid van Chinkiang zwarte azijn is donker en aromatisch, niet scherp en licht. Geen tofu, geen wortel — alleen paddenstoelen, bamboe en fijne eierlinten in een diepe bouillon.",
+      "ingredient_groups": [
+        {
+          "group_name": "Soepvulling",
+          "ingredients": [
+            {
+              "name": "shiitake of kastanjechampignons, in dunne reepjes",
+              "amount": "125 g"
+            },
+            {
+              "name": "bamboescheuten, in dunne reepjes",
+              "amount": "75 g"
+            },
+            {
+              "name": "varkenshaas, in ragfijne reepjes (optioneel)",
+              "amount": "100 g"
+            },
+            {
+              "name": "eieren, losgeklopt",
+              "amount": "2"
+            },
+            {
+              "name": "lente-uitjes, fijngesneden",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Soepbasis",
+          "ingredients": [
+            {
+              "name": "kippenbouillon of lichte varkensbouillon",
+              "amount": "900 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Chinkiang zwarte azijn",
+              "amount": "2½–3 el"
+            },
+            {
+              "name": "witte peper",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "maizena, gemengd met 3 el koud water",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "chili-olie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "lente-ui",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "extra Chinkiang zwarte azijn aan tafel",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Soep opbouwen",
+          "description": "breng de bouillon aan de kook met gember, knoflook, lichte soja, donkere soja, suiker, paddenstoelen en bamboescheuten. Voeg eventueel de varkenshaasreepjes toe en laat kort garen."
+        },
+        {
+          "action": "Op smaak brengen",
+          "description": "breng op smaak met witte peper en zwarte azijn. Voeg de azijn pas laat toe — zo blijft hij fris en aromatisch."
+        },
+        {
+          "action": "Binden en eierlinten",
+          "description": "bind de soep met het maizenapapje tot hij licht glanst. Zet het vuur lager. Roer rustig in één richting en giet de losgeklopte eieren in een dun straaltje in de soep — zo ontstaan fijne zijdeachtige linten. Roer sesamolie erdoor."
+        },
+        {
+          "action": "Serveren",
+          "description": "serveer in kleine diepe kommen. Werk af met lente-ui, chili-olie en zet extra zwarte azijn op tafel."
+        }
+      ],
+      "chef_tip": "Chinkiang zwarte azijn is niet vervangbaar door gewone witte azijn — de donkere, aromatische diepte is precies wat deze soep zijn karakter geeft.",
+      "wine": {
+        "naam": "Riesling Kabinett",
+        "druif": "Riesling",
+        "toelichting": "De strakke zuurgraad en citrusfrisheid van een droge Riesling Kabinett werkt verfrissend naast de peperige, zure soep. Serveer ijskoud op 8°C.",
+        "alternatief": "Droge Grüner Veltliner of Muscadet"
+      }
+    },
+    {
+      "title": "Lichte Chinese Bami met linguine, ham, ei, prei en sojasaus",
+      "slug": "chinese-bami-licht",
+      "location": "Hokkien",
+      "time": "25 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/chinese-bami-licht.png",
+      "short_description": "Lichte, droge bami zonder ketjap — linguine met beenham, ei, prei, knoflook en lichte sojasaus.",
+      "description": "Chinese bami zoals in het oude Chinees-Indische kookboek: licht van kleur, droog van structuur, geurend naar sesamolie. Geen ketjap, geen oestersaus. De noedels moeten droog en los zijn voor ze de wok ingaan — anders wordt het een papperige massa.",
+      "ingredient_groups": [
+        {
+          "group_name": "Bami",
+          "ingredients": [
+            {
+              "name": "linguine of Chinese tarwemie",
+              "amount": "300 g"
+            },
+            {
+              "name": "eieren",
+              "amount": "3"
+            },
+            {
+              "name": "beenham of achterham, in fijne reepjes",
+              "amount": "100 g"
+            },
+            {
+              "name": "kleine prei, in dunne halve ringen",
+              "amount": "1"
+            },
+            {
+              "name": "ui, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2½ el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "MSG of kippenpoeder (optioneel)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "lente-uitjes, in ringetjes",
+              "amount": "2"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Noedels koken en drogen",
+          "description": "kook de linguine iets zachter dan al dente. Spoel kort koud af, laat zeer goed uitlekken en meng met een beetje olie. De noedels moeten droog en los zijn voordat ze de wok ingaan."
+        },
+        {
+          "action": "Ei bakken",
+          "description": "bak van de eieren zachte roerei-stukjes of een dunne omelet die je in reepjes snijdt. Haal uit de pan en zet apart."
+        },
+        {
+          "action": "Wokken",
+          "description": "wok ui, knoflook, prei en ham kort aan tot het geurt. Voeg de linguine toe en bak stevig op hoog vuur zodat de bami droog en licht geroosterd wordt."
+        },
+        {
+          "action": "Afmaken en serveren",
+          "description": "breng pas op het einde op smaak met lichte sojasaus, witte peper, zout en eventueel MSG. Voeg ei en lente-ui toe en schep kort om. Serveer als losse, hoge nestjes op een warme schaal."
+        }
+      ],
+      "chef_tip": "Sesamolie pas op het allerlaatste moment toevoegen — zodra hij meewarmt verdampt de geur. Het is een afwerking, geen kookolie.",
+      "wine": {
+        "naam": "Chablis",
+        "druif": "Chardonnay",
+        "toelichting": "De droge mineraliteit en citroenachtige frisheid van een Chablis snijdt door de sesamolie en lichte sojasaus zonder de delicate bami te overstemmen. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Droge Picpoul de Pinet of Muscadet Sèvre et Maine"
+      }
+    },
+    {
+      "title": "Krokante Sesam-toast met varkensgehakt en zoete chilidip",
+      "slug": "sesam-toast-varkensgehakt",
+      "location": "Kanton",
+      "time": "25 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/sesam-toast-varkensgehakt.png",
+      "short_description": "Krokante driehoekjes witbrood met gekruid varkensgehakt en geroosterd sesamzaad — met een lichte zoete chilidip.",
+      "description": "Sesam-toast is dim sum in zijn eenvoudigste vorm: een dun laagje gekruid gehakt op stevig witbrood, ondersteboven gebakken in olie zodat de sesam roostert en het gehakt gaart. Serveer direct — na twee minuten is de magie voorbij.",
+      "ingredient_groups": [
+        {
+          "group_name": "Sesam-toast",
+          "ingredients": [
+            {
+              "name": "stevig wit casinobrood, zonder korst",
+              "amount": "4 sneetjes"
+            },
+            {
+              "name": "varkensgehakt",
+              "amount": "150 g"
+            },
+            {
+              "name": "lente-ui, zeer fijn gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "½"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn of droge sherry",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "witte peper",
+              "amount": "snuf"
+            },
+            {
+              "name": "maizena",
+              "amount": "½ tl"
+            },
+            {
+              "name": "eiwit",
+              "amount": "½"
+            },
+            {
+              "name": "wit sesamzaad",
+              "amount": "35–40 g"
+            },
+            {
+              "name": "neutrale olie om ondiep in te bakken",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Zoete chilidip",
+          "ingredients": [
+            {
+              "name": "rijstazijn",
+              "amount": "50 ml"
+            },
+            {
+              "name": "water",
+              "amount": "40 ml"
+            },
+            {
+              "name": "suiker",
+              "amount": "1½ el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "knoflookteen, zeer fijn gehakt",
+              "amount": "½"
+            },
+            {
+              "name": "rode chilivlokken of fijn gesneden rode peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "maizena, gemengd met 1 tl koud water",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "komkommerlinten",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "lente-ui, fijn gesneden",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Gehaktmengsel maken",
+          "description": "meng varkensgehakt met lente-ui, gember, knoflook, sojasaus, rijstwijn, sesamolie, witte peper, maizena en eiwit tot een smeuïg, licht plakkerig mengsel."
+        },
+        {
+          "action": "Toast samenstellen",
+          "description": "druk de sneetjes brood licht platter. Besmeer de gehaktkant met een dunne, gelijkmatige laag. Druk de gehaktkant in het sesamzaad. Snijd elk sneetje diagonaal door, zodat je 8 driehoekjes krijgt."
+        },
+        {
+          "action": "Bakken",
+          "description": "bak de toast in een laagje olie, eerst met de gehaktkant naar beneden, tot het sesamzaad goudbruin is en het gehakt gaar. Draai kort om en bak de broodkant krokant. Laat uitlekken op keukenpapier."
+        },
+        {
+          "action": "Chilidip maken",
+          "description": "verwarm rijstazijn, water, suiker, sojasaus, knoflook en chili. Bind heel licht met maizena tot een glanzende dunne saus."
+        },
+        {
+          "action": "Serveren",
+          "description": "serveer per persoon 2 driehoekjes, half overlappend of rechtop tegen elkaar. Geef de chilidip apart en werk af met komkommerlint en lente-ui."
+        }
+      ],
+      "chef_tip": "Bak eerst op de gehaktkant — zo zet het vlees zich en roostert de sesam. Serveer direct: sesam-toast wacht niet.",
+      "wine": {
+        "naam": "Crémant d'Alsace",
+        "druif": "Pinot Blanc",
+        "toelichting": "De fijne belletjes en droge frisheid van een Crémant d'Alsace reinigen het gehemelte na elk krokant hapje en sluiten aan bij de zoete chilidip. Serveer ijskoud op 7°C.",
+        "alternatief": "Droge Cava Brut of Champagne Brut"
+      }
     }
   ]
 }
