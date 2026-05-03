@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Het Proeven — Kleine gerechtjes. Grote obsessie.</title>
-  <meta name="description" content="Kleine gerechtjes met grote aandacht — voor smaak, presentatie en de perfecte begeleider in het glas.">
+  <meta name="description" content="Van pintxo tot saté. Van cava tot rioja. Alles draait om smaak.">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Het Proeven">
   <meta property="og:title" content="Het Proeven — Kleine gerechtjes. Grote obsessie.">
-  <meta property="og:description" content="Kleine gerechtjes met grote aandacht — voor smaak, presentatie en de perfecte begeleider in het glas.">
+  <meta property="og:description" content="Van pintxo tot saté. Van cava tot rioja. Alles draait om smaak.">
   <meta property="og:url" content="https://www.hetproeven.nl/">
   <meta property="og:image" content="https://www.hetproeven.nl/assets/images/og-default.jpg">
   <link rel="canonical" href="https://www.hetproeven.nl/">
@@ -29,39 +29,43 @@
   </nav>
 
   <header class="hero">
-    <span class="hero-icon">🍽️</span>
-    <h1>Kleine gerechtjes.<br>Grote obsessie.</h1>
-    <p>Koken is een obsessie. Wijn kiezen ook. Kleine gerechtjes met grote aandacht — voor smaak, presentatie en de perfecte begeleider in het glas. Edwin maakt het. Yoshi kijkt toe. Er blijft nooit iets over.</p>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1>Kleine gerechtjes.<br>Grote obsessie.</h1>
+      <p>Van pintxo tot saté. Van cava tot rioja. Alles draait om smaak.</p>
+    </div>
   </header>
 
   <div class="filter-wrap">
-    <div class="filter-label">Land</div>
-    <div class="filter-bar" id="filter-keuken">
-      <button class="filter-btn active" data-filter="all">Alles</button>
-      <button class="filter-btn" data-filter="Spaans">🇪🇸 Spaans</button>
-      <button class="filter-btn" data-filter="Italiaans">🇮🇹 Italiaans</button>
-      <button class="filter-btn" data-filter="Nederlands">🇳🇱 Nederlands</button>
-      <button class="filter-btn" data-filter="Grieks">🇬🇷 Grieks</button>
-      <button class="filter-btn" data-filter="Frans">🇫🇷 Frans</button>
-      <button class="filter-btn" data-filter="Indonesisch">🇮🇩 Indonesisch</button>
-      <button class="filter-btn" data-filter="Thais">🇹🇭 Thais</button>
-      <button class="filter-btn" data-filter="Chinees">🇨🇳 Chinees</button>
+    <div class="filter-row">
+      <span class="filter-label">Soort</span>
+      <div class="filter-bar" id="filter-categorie">
+        <button class="filter-btn active" data-filter="all">Alles</button>
+        <button class="filter-btn" data-filter="hapjes-tapas">Hapjes & Tapas</button>
+        <button class="filter-btn" data-filter="vis-zeevruchten">Vis & Zeevruchten</button>
+        <button class="filter-btn" data-filter="vlees">Vlees</button>
+        <button class="filter-btn" data-filter="groente-salade">Groente & Salade</button>
+        <button class="filter-btn" data-filter="soep">Soep</button>
+        <button class="filter-btn" data-filter="pasta-rijst">Pasta & Rijst</button>
+        <button class="filter-btn" data-filter="dessert">Dessert</button>
+      </div>
     </div>
 
-    <div class="filter-label">Soort</div>
-    <div class="filter-bar" id="filter-categorie">
-      <button class="filter-btn active" data-filter="all">Alles</button>
-      <button class="filter-btn" data-filter="hapjes-tapas">🍢 Hapjes & Tapas</button>
-      <button class="filter-btn" data-filter="vis-zeevruchten">🐟 Vis & Zeevruchten</button>
-      <button class="filter-btn" data-filter="vlees">🥩 Vlees</button>
-      <button class="filter-btn" data-filter="groente-salade">🌿 Groente & Salade</button>
-      <button class="filter-btn" data-filter="soep">🥣 Soep</button>
-      <button class="filter-btn" data-filter="pasta-rijst">🍝 Pasta & Rijst</button>
-      <button class="filter-btn" data-filter="dessert">🍮 Dessert</button>
+    <div class="filter-row filter-row-keuken">
+      <span class="filter-label">Keuken</span>
+      <div class="filter-bar" id="filter-keuken">
+        <button class="filter-btn-sm active" data-filter="all">Alles</button>
+        <button class="filter-btn-sm" data-filter="Spaans">🇪🇸 Spaans</button>
+        <button class="filter-btn-sm" data-filter="Italiaans">🇮🇹 Italiaans</button>
+        <button class="filter-btn-sm" data-filter="Nederlands">🇳🇱 Nederlands</button>
+        <button class="filter-btn-sm" data-filter="Indonesisch">🇮🇩 Indonesisch</button>
+        <button class="filter-btn-sm" data-filter="Grieks">🇬🇷 Grieks</button>
+        <button class="filter-btn-sm" data-filter="Frans">🇫🇷 Frans</button>
+        <button class="filter-btn-sm" data-filter="Thais">🇹🇭 Thais</button>
+        <button class="filter-btn-sm" data-filter="Chinees">🇨🇳 Chinees</button>
+      </div>
     </div>
   </div>
-
-  <div class="section-label" id="section-label">Alle recepten</div>
 
   <div class="recipe-grid" id="recipe-grid">
     <div class="loading">Recepten laden…</div>
@@ -80,26 +84,17 @@
     function renderRecipes() {
       const grid = document.getElementById('recipe-grid');
       let filtered = allRecipes;
-
-      if (activeKeuken !== 'all') {
-        filtered = filtered.filter(r => r.keuken === activeKeuken);
-      }
-      if (activeCategorie !== 'all') {
-        filtered = filtered.filter(r => r.categorie === activeCategorie);
-      }
-
+      if (activeKeuken !== 'all') filtered = filtered.filter(r => r.keuken === activeKeuken);
+      if (activeCategorie !== 'all') filtered = filtered.filter(r => r.categorie === activeCategorie);
       if (filtered.length === 0) {
-        grid.innerHTML = '<p class="empty">Geen recepten gevonden in deze categorie.</p>';
+        grid.innerHTML = '<p class="empty">Geen recepten gevonden.</p>';
         return;
       }
-
       grid.innerHTML = filtered.map(r => {
         const wineNaam = r.wine && typeof r.wine === 'object' ? r.wine.naam : r.wine;
         return `
           <a href="/recepten/${encodeURIComponent(r.slug)}" class="card">
-            <div class="card-img" style="${r.image ? `background-image:url(${r.image})` : ''}">
-              ${!r.image ? '<span>Foto laden…</span>' : ''}
-            </div>
+            <div class="card-img" style="${r.image ? `background-image:url(${r.image})` : ''}"></div>
             <div class="card-body">
               <div class="card-loc">${r.location || ''}</div>
               <div class="card-title">${r.title}</div>
@@ -110,25 +105,24 @@
                 ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
               </div>
             </div>
-          </a>
-        `;
+          </a>`;
       }).join('');
     }
-
-    document.querySelectorAll('#filter-keuken .filter-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('#filter-keuken .filter-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeKeuken = btn.dataset.filter;
-        renderRecipes();
-      });
-    });
 
     document.querySelectorAll('#filter-categorie .filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('#filter-categorie .filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         activeCategorie = btn.dataset.filter;
+        renderRecipes();
+      });
+    });
+
+    document.querySelectorAll('#filter-keuken .filter-btn-sm').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#filter-keuken .filter-btn-sm').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeKeuken = btn.dataset.filter;
         renderRecipes();
       });
     });
@@ -140,20 +134,14 @@
         renderRecipes();
       })
       .catch(() => {
-        document.getElementById('recipe-grid').innerHTML =
-          '<p class="empty">Recepten konden niet worden geladen.</p>';
+        document.getElementById('recipe-grid').innerHTML = '<p class="empty">Recepten konden niet worden geladen.</p>';
       });
 
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
+        if (!user) window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; });
       });
     }
   </script>
-
 </body>
 </html>
