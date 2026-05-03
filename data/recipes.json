@@ -8562,6 +8562,410 @@
         "toelichting": "De fijne belletjes en droge frisheid van een Crémant d'Alsace reinigen het gehemelte na elk krokant hapje en sluiten aan bij de zoete chilidip. Serveer ijskoud op 7°C.",
         "alternatief": "Droge Cava Brut of Champagne Brut"
       }
+    },
+    {
+      "title": "Lichte Chinese tomatensoep met ei en sesamolie",
+      "slug": "lichte-chinese-tomatensoep",
+      "location": "Shanghai",
+      "time": "25 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Chinees",
+      "categorie": "soep",
+      "image": "/assets/images/lichte-chinese-tomatensoep.png",
+      "short_description": "Helderode tomatensoep op Chinese bouillon — gezeefd, licht zuur van balsamico, afgewerkt met ei-linten en sesamolie.",
+      "description": "De Chinese variant van tomatensoep: geen room, geen boter, geen dik gepureerde massa. Tomaten langzaam ontwikkeld in lichte kippenbouillon, gezeefd tot fluweelzacht, uitgebalanceerd met een druppel balsamico en een dun straaltje losgeklopt ei. De sesamolie op het eind is geen garnituur — het is de afsluiting.",
+      "ingredient_groups": [
+        {
+          "group_name": "Soepbasis",
+          "ingredients": [
+            {
+              "name": "rijpe tomaten of kwaliteits-biktomaten",
+              "amount": "600 g"
+            },
+            {
+              "name": "lichte kippenbouillon",
+              "amount": "700 ml"
+            },
+            {
+              "name": "kleine ui, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "olijfolie of neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "eieren, losgeklopt",
+              "amount": "2"
+            },
+            {
+              "name": "balsamico azijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lente-ui, fijngesneden",
+              "amount": "2"
+            },
+            {
+              "name": "paar druppels goede olijfolie om op te serveren",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Ui en knoflook fruiten",
+          "description": "verhit de olie in een pan op laag vuur. Fruit ui, knoflook en gember rustig glazig — niet bruin. Dit geeft zoetheid zonder bitterheid, en dat is de basis."
+        },
+        {
+          "action": "Tomaten ontwikkelen",
+          "description": "voeg de tomaten toe en laat 8–10 minuten zacht koken op middelhoog vuur. Niet haasten — hier ontstaat de diepe smaak."
+        },
+        {
+          "action": "Bouillon toevoegen en trekken",
+          "description": "giet de kippenbouillon erbij. Voeg suiker toe. Laat nog 8–10 minuten zacht pruttelen."
+        },
+        {
+          "action": "Blenden en zeven",
+          "description": "blend de soep glad. Zeef hem daarna door een fijnmazige zeef — dit verwijdert velletjes en pitjes en geeft het restaurant-gevoel. Zet de pan terug op laag vuur."
+        },
+        {
+          "action": "Eierlinten maken",
+          "description": "breng de soep weer aan een zachte sudder. Roer rustig in één richting en giet de losgeklopte eieren in een dun straaltje in de soep — zo ontstaan fijne, zijdeachtige linten."
+        },
+        {
+          "action": "Afmaken en serveren",
+          "description": "breng op smaak met balsamico, citroensap, zout en witte peper. Roer de sesamolie erdoor — pas op het allerlaatste moment. Schep in kommen en werk af met lente-ui en een paar druppels olijfolie."
+        }
+      ],
+      "chef_tip": "Laat de soep na het koken 10 minuten rusten voor je hem serveert — de smaken trekken samen en hij smaakt merkbaar ronder. De balsamico en het citroensap zijn geen keuze: het ene geeft diepte, het andere frisheid. Zonder beiden mist de soep zijn punt.",
+      "wine": {
+        "naam": "Soave Classico",
+        "druif": "Garganega",
+        "toelichting": "De lichte mineraliteit en citrusfrisheid van een Soave Classico gaat mee met de zuurheid van de tomaat en het sesamkarakter zonder de delicate soep te overstemmen. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Droge Vermentino of Muscadet"
+      }
+    },
+    {
+      "title": "Surinaams broodje kip kerrie met zelfgemaakte komkommer atjar",
+      "slug": "surinaams-broodje-kip-kerrie",
+      "location": "Paramaribo",
+      "time": "50 min + 1 uur atjar",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/surinaams-broodje-kip-kerrie.png",
+      "short_description": "Kip kerrie in diepe Surinaamse stijl — met geactiveerde curry, Madame Jeanette en glanzende ketjapsaus op een luchtig puntje met komkommer atjar.",
+      "description": "Een Surinaams broodje kip kerrie is geen toevallig samenstel — het is een evenwicht. Zoet van ketjap, kruidig van kerrie, pittig van Madame Jeanette, fris van atjar. De kip moet glanzen en plakken, niet zwemmen. Het broodje mag licht vochtig worden, niet zompig.",
+      "ingredient_groups": [
+        {
+          "group_name": "Kip kerrie",
+          "ingredients": [
+            {
+              "name": "kipdijfilet of kipfilet, in hapklare stukken",
+              "amount": "500 g"
+            },
+            {
+              "name": "grote ui, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "3"
+            },
+            {
+              "name": "kerriepoeder of masala",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "4 el"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1 tl"
+            },
+            {
+              "name": "tomaten uit blik",
+              "amount": "2 el"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "kippenbouillon",
+              "amount": "150 ml"
+            },
+            {
+              "name": "paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "bruine suiker",
+              "amount": "snuf"
+            },
+            {
+              "name": "Madame Jeanette peper, heel gelaten",
+              "amount": "1"
+            },
+            {
+              "name": "klontje boter",
+              "amount": "1"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Komkommer atjar",
+          "ingredients": [
+            {
+              "name": "komkommer, in de lengte gehalveerd, kern uitgelepeld, dun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "kleine ui, in dunne halve ringen",
+              "amount": "½"
+            },
+            {
+              "name": "natuurazijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "suiker",
+              "amount": "1½ el"
+            },
+            {
+              "name": "zout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "kurkuma",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sambal of chilivlokken (optioneel)",
+              "amount": "kleine tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Serveren",
+          "ingredients": [
+            {
+              "name": "Surinaamse puntjes of kleine stokbroodjes",
+              "amount": "4"
+            },
+            {
+              "name": "mayonaise",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Atjar voorbereiden",
+          "description": "lepel de zachte kern uit de komkommer. Snijd in dunne plakjes. Bestrooi met zout en laat 10 minuten staan, knijp daarna licht uit. Meng met de ui. Verwarm azijn, suiker, kurkuma en zout — niet koken, alleen oplossen. Giet warm over de komkommer. Laat minimaal een uur trekken in de koelkast — langer is beter."
+        },
+        {
+          "action": "Kerrie activeren",
+          "description": "verhit olie in een pan op laag vuur. Fruit ui en knoflook rustig glazig. Voeg het kerriepoeder toe en laat 1–2 minuten bakken in de olie. Dit is essentieel — rauwe kerrie is poederig, gebakken kerrie is diep."
+        },
+        {
+          "action": "Tomaat bakken",
+          "description": "voeg tomatenpuree en tomaat uit blik toe. Bak 2–3 minuten mee tot de zuurheid eraf is en de saus rond ruikt."
+        },
+        {
+          "action": "Kip bakken",
+          "description": "voeg de kip toe en bak tot lichtgoudbruin aan alle kanten."
+        },
+        {
+          "action": "Saus bouwen en sudderen",
+          "description": "voeg ketjap, sambal, paprikapoeder, suiker en bouillon toe. Leg de hele Madame Jeanette erin — heel, niet doorgesneden. Laat 10–15 minuten zacht pruttelen tot de saus dik en plakkerig is."
+        },
+        {
+          "action": "Finish",
+          "description": "haal de Madame Jeanette eruit. Voeg het klontje boter en een laatste scheutje ketjap toe. Roer door — de saus gaat glanzen en plakken. Dat is het moment."
+        },
+        {
+          "action": "Broodje bouwen",
+          "description": "rooster het puntje licht. Smeer een dun laagje mayo. Leg de kip royaal op het brood. Laat de atjar even uitlekken en leg er flink wat op. Serveer direct."
+        }
+      ],
+      "chef_tip": "Laat de kip na het sudderen 10 minuten rusten — de saus trekt er nog verder in. En laat de atjar goed uitlekken voor je hem op het brood legt: een natte atjar maakt de korst zompig, een droge atjar geeft fris en knapperig contrast.",
+      "wine": {
+        "naam": "Riesling Kabinett",
+        "druif": "Riesling",
+        "toelichting": "De fruitige frisheid en lichte residuele zoetheid van een Riesling Kabinett tempert de hitte van de Madame Jeanette en sluit aan bij de ketjap. Serveer gekoeld op 9°C.",
+        "alternatief": "Off-dry Gewürztraminer of een koud Parbo bier"
+      }
+    },
+    {
+      "title": "Surinaams broodje stoofvlees met ketjap, piment en peperzuur",
+      "slug": "surinaams-broodje-stoofvlees",
+      "location": "Paramaribo",
+      "time": "30 min + 2,5 uur stoven",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/surinaams-broodje-stoofvlees.png",
+      "short_description": "Riblappen gemarineerd in ketjap, piment en komijn, donker aangebraden en gestoofd tot draadjesmals — met glanzende saus op een knapperig Surinaams puntje.",
+      "description": "Straateten uit Paramaribo: stoofvlees dat de nacht daarvoor is gemaakt, opgewarmd en op een knapperig puntje gelegd met zuurgoed. De saus moet donker zijn, plakkerig en aan de lepel blijven hangen. Niet soepig. Niet droog. Precies daartussen.",
+      "ingredient_groups": [
+        {
+          "group_name": "Stoofvlees en marinade",
+          "ingredients": [
+            {
+              "name": "riblappen of sucadelappen, in stukken van 4 cm",
+              "amount": "800 g"
+            },
+            {
+              "name": "knoflookteentjes, fijn geraspt",
+              "amount": "3"
+            },
+            {
+              "name": "zwarte peper, grof gemalen",
+              "amount": "1 tl"
+            },
+            {
+              "name": "komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "piment, gemalen",
+              "amount": "½ tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "3 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Stoofbasis",
+          "ingredients": [
+            {
+              "name": "grote ui, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "bruine suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "laurierblad",
+              "amount": "1"
+            },
+            {
+              "name": "runderbouillonblokje",
+              "amount": "1"
+            },
+            {
+              "name": "heet water",
+              "amount": "350 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Serveren",
+          "ingredients": [
+            {
+              "name": "Surinaamse puntjes of kleine stokbroodjes",
+              "amount": "4"
+            },
+            {
+              "name": "komkommer atjar of peperzuur",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineren",
+          "description": "meng het vlees met knoflook, peper, komijn, piment, 1 el ketjap en zout. Dek af en laat minimaal 2 uur marineren in de koelkast — langer geeft merkbaar meer diepte. Dit is de Surinaamse basis."
+        },
+        {
+          "action": "Vlees aanbraden",
+          "description": "verhit olie in een zware pan op hoog vuur. Bak het vlees in porties donkerbruin — niet te veel tegelijk. Neem de tijd: dit is de smaak. Haal het vlees eruit en zet apart."
+        },
+        {
+          "action": "Ui en tomatenpuree",
+          "description": "fruit de ui in dezelfde pan tot goudbruin. Voeg tomatenpuree toe en bak 2 minuten mee — dit haalt de rauwe scherpte eraf. Voeg de resterende ketjap en suiker toe en laat licht karamelliseren."
+        },
+        {
+          "action": "Stoven",
+          "description": "doe het vlees terug in de pan. Voeg laurierblad, bouillonblokje en het hete water toe tot het vlees nét niet helemaal onderstaat. Breng aan de kook, draai het vuur laag en laat 2–2,5 uur zacht sudderen."
+        },
+        {
+          "action": "Saus inkoken",
+          "description": "verwijder de deksel in de laatste 20–30 minuten. Laat de saus inkoken tot hij donker, stroperig en glanzend is. Test: leg een stukje vlees op keukenpapier — een lichte vlek is perfect, een natte kring is te nat."
+        },
+        {
+          "action": "Serveren",
+          "description": "warm het puntje op. Leg het stoofvlees royaal op het brood. Schep een lepel saus erover. Leg zuurgoed of peperzuur erbij. Geen mayo, geen kaas, geen sla — dit is straateten."
+        }
+      ],
+      "chef_tip": "Maak het stoofvlees een dag eerder. Na een nacht in de koelkast smelt de saus en het vlees samen tot iets wat vers nooit wordt. Opwarmen op laag vuur met een klein scheutje water als het te droog is geworden.",
+      "wine": {
+        "naam": "Malbec",
+        "druif": "Malbec",
+        "toelichting": "De rijpe pruimige vruchten en ronde tannines van een Mendoza Malbec sluiten aan bij de ketjap en het gestoofde vlees. Krachtig genoeg om de piment bij te houden. Serveer op 17°C.",
+        "alternatief": "Jonge Zinfandel of Primitivo"
+      }
     }
   ]
 }
