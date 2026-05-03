@@ -20,6 +20,44 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
+
+  <style>
+    .portion-control {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--bg-subtle, #f7f4f0);
+      border: 1px solid var(--border, #e0d8cf);
+      border-radius: 999px;
+      padding: 4px 12px 4px 6px;
+      font-family: 'Lato', sans-serif;
+      font-size: 0.85rem;
+    }
+    .portion-btn {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      border: 1px solid var(--border, #e0d8cf);
+      background: #fff;
+      cursor: pointer;
+      font-size: 1rem;
+      line-height: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s;
+    }
+    .portion-btn:hover:not(:disabled) { background: #f0ebe4; }
+    .portion-btn:disabled { opacity: 0.35; cursor: default; }
+    .portion-count {
+      font-weight: 700;
+      min-width: 18px;
+      text-align: center;
+    }
+    .portion-label { color: #888; }
+    .ing-amount { transition: color 0.2s; }
+    .ing-amount.changed { color: var(--accent, #b5541a); }
+  </style>
 </head>
 <body>
 
@@ -55,6 +93,121 @@
       const mins = parseInt(str);
       return isNaN(mins) ? null : 'PT' + mins + 'M';
     }
+
+    // ── Portie-rekenmachine ───────────────────────────────────────
+
+    // Teksten die nooit worden herrekend
+    const FIXED_RE = /^(naar smaak|snuf|snufje|royaal|paar druppels|naar wens|optioneel)/i;
+
+    // Unicode-breuken → decimaal
+    const VULGAR = {'½':0.5,'¼':0.25,'¾':0.75,'⅓':1/3,'⅔':2/3,'⅛':0.125,'⅜':0.375,'⅝':0.625,'⅞':0.875};
+
+    // Decimaal → nette weergave
+    function toNice(n) {
+      if (n <= 0) return '0';
+      const fracs = [
+        [1/8,'⅛'],[1/4,'¼'],[1/3,'⅓'],[3/8,'⅜'],[1/2,'½'],
+        [5/8,'⅝'],[2/3,'⅔'],[3/4,'¾'],[7/8,'⅞']
+      ];
+      const whole = Math.floor(n);
+      const rem   = n - whole;
+      for (const [frac, sym] of fracs) {
+        if (Math.abs(rem - frac) < 0.04) {
+          return (whole > 0 ? whole + ' ' : '') + sym;
+        }
+      }
+      if (Math.abs(n - Math.round(n)) < 0.05) return String(Math.round(n));
+      return n.toFixed(1).replace('.', ',');
+    }
+
+    // Parseer "1½ el" of "2–3" of "naar smaak" → { value, suffix, fixed }
+    function parseAmount(raw) {
+      if (!raw) return { fixed: true, suffix: raw };
+      const s = raw.trim();
+      if (FIXED_RE.test(s)) return { fixed: true, suffix: s };
+
+      // Vervang unicode-breuken door decimalen
+      let work = s.replace(/[½¼¾⅓⅔⅛⅜⅝⅞]/g, m => VULGAR[m] || m);
+
+      // "1 0.5" (geheel + breuk naast elkaar) → sommeer
+      work = work.replace(/^(\d+)\s+(0\.\d+)/, (_, a, b) => String(+a + +b));
+
+      // Bereik "2–3" of "2-3" → neem het gemiddelde voor rekenen, onthoud patroon
+      const rangeM = work.match(/^(\d*\.?\d+)\s*[–-]\s*(\d*\.?\d+)(.*)/);
+      if (rangeM) {
+        const lo = parseFloat(rangeM[1]);
+        const hi = parseFloat(rangeM[2]);
+        return { fixed: false, value: (lo + hi) / 2, lo, hi, suffix: rangeM[3].trim(), isRange: true };
+      }
+
+      // Gewone breuk "1/2"
+      const fracM = work.match(/^(\d+)\/(\d+)(.*)/);
+      if (fracM) {
+        return { fixed: false, value: +fracM[1] / +fracM[2], suffix: fracM[3].trim() };
+      }
+
+      // Gewoon getal
+      const numM = work.match(/^(\d*\.?\d+)(.*)/);
+      if (numM) {
+        return { fixed: false, value: parseFloat(numM[1]), suffix: numM[2].trim() };
+      }
+
+      return { fixed: true, suffix: s };
+    }
+
+    function rescale(raw, factor) {
+      const p = parseAmount(raw);
+      if (p.fixed) return raw;
+
+      if (p.isRange) {
+        const newLo = toNice(p.lo * factor);
+        const newHi = toNice(p.hi * factor);
+        return (newLo === newHi ? newLo : newLo + '–' + newHi) + (p.suffix ? ' ' + p.suffix : '');
+      }
+
+      const newVal = p.value * factor;
+      const nice   = toNice(newVal);
+      return p.suffix ? nice + ' ' + p.suffix : nice;
+    }
+
+    function applyFactor(factor) {
+      document.querySelectorAll('.ing-amount[data-base]').forEach(el => {
+        const newText = rescale(el.dataset.base, factor);
+        const changed = newText !== el.dataset.base;
+        el.textContent = newText;
+        el.classList.toggle('changed', changed);
+      });
+    }
+
+    function initPortions(baseServings) {
+      let current = baseServings;
+      const wrap    = document.getElementById('portion-control');
+      if (!wrap) return;
+      const display = wrap.querySelector('.portion-count');
+      const label   = wrap.querySelector('.portion-label');
+      const btnMin  = wrap.querySelector('.portion-btn.min');
+      const btnPlus = wrap.querySelector('.portion-btn.plus');
+
+      function update() {
+        display.textContent = current;
+        label.textContent   = current === 1 ? 'persoon' : 'personen';
+        btnMin.disabled     = current <= 1;
+        applyFactor(current / baseServings);
+      }
+
+      btnMin.addEventListener('click',  () => { if (current > 1) { current--; update(); } });
+      btnPlus.addEventListener('click', () => { current++; update(); });
+      update();
+    }
+
+    // Extraheer het getal uit "4 personen" of "2 personen (6 spiesjes)"
+    function parseServings(str) {
+      if (!str) return null;
+      const m = str.match(/(\d+)/);
+      return m ? parseInt(m[1]) : null;
+    }
+
+    // ─────────────────────────────────────────────────────────────
 
     const slug = getSlug();
     if (!slug) { window.location.href = '/'; }
@@ -106,13 +259,16 @@
 
         document.getElementById('recipe-schema').textContent = JSON.stringify(schema);
 
-        // HTML opbouwen
+        // Portie-basisaantal uit JSON
+        const baseServings = parseServings(recipe.servings) || 4;
+
+        // Ingrediënten met data-base attribuut voor herrekening
         const ingHtml = (recipe.ingredient_groups || []).map(group => `
           <div class="ing-cat">${group.group_name}</div>
           ${(group.ingredients || []).map(ing => `
             <div class="ing-row">
               <span>${ing.name}</span>
-              <span class="ing-amount">${ing.amount}</span>
+              <span class="ing-amount" data-base="${ing.amount}">${ing.amount}</span>
             </div>
           `).join('')}
         `).join('');
@@ -146,6 +302,16 @@
           </div>
         ` : '';
 
+        // Portie-control HTML
+        const portionHtml = `
+          <div id="portion-control" class="portion-control">
+            <button class="portion-btn min" aria-label="Minder personen">−</button>
+            <span class="portion-count">${baseServings}</span>
+            <span class="portion-label">${baseServings === 1 ? 'persoon' : 'personen'}</span>
+            <button class="portion-btn plus" aria-label="Meer personen">+</button>
+          </div>
+        `;
+
         document.getElementById('content').innerHTML = `
           <a href="/" class="back-btn">← Terug naar recepten</a>
           <div class="recipe-hero" style="${recipe.image ? `background-image:url(${recipe.image})` : ''}">
@@ -155,13 +321,15 @@
           <p class="recipe-desc">${recipe.description || ''}</p>
           <div class="recipe-meta">
             ${recipe.time ? `<span class="tag">${recipe.time}</span>` : ''}
-            ${recipe.servings ? `<span class="tag">${recipe.servings}</span>` : ''}
             ${recipe.difficulty ? `<span class="tag tag-acc">${recipe.difficulty}</span>` : ''}
             ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
           </div>
           <div class="recipe-body">
             <div>
-              <div class="col-h">Ingrediënten</div>
+              <div class="col-h" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;">
+                Ingrediënten
+                ${portionHtml}
+              </div>
               ${ingHtml}
             </div>
             <div>
@@ -172,6 +340,9 @@
           </div>
           ${wineHtml}
         `;
+
+        // Portie-logica activeren na DOM-insert
+        initPortions(baseServings);
       })
       .catch(() => {
         document.getElementById('content').innerHTML =
