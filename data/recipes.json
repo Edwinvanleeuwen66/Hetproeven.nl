@@ -5632,6 +5632,909 @@
         "toelichting": "De minerale frisheid en uitgesproken zuurgraad van een Galicische Albariño snijden feilloos door de rokerige marinade en het vet van de kip. De citrusachtige afdronk sluit naadloos aan bij het limoensap in het gerecht — fris genoeg om de kruiden te laten leven. Serveer goed gekoeld op 10°C.",
         "alternatief": "Droge Riesling of een glas Cava Brut"
       }
+    },
+    {
+      "title": "Sambal Goreng Udang Peteh — amuseversie in passievrucht",
+      "slug": "sambal-goreng-udang-peteh-amuse",
+      "location": "Jakarta",
+      "time": "25 min",
+      "servings": "4 amuses",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/sambal-goreng-udang-peteh.jpg",
+      "short_description": "Pittige garnalen-peteh sambal geserveerd in een halve passievrucht — de zuurheid van het sap maakt het gerecht.",
+      "description": "Fijngehakte garnalen en peteh in een droge sambal goreng, geserveerd in een halve passievrucht. Het passievruchtsap blust de sambal op het laatste moment — fris, zuur, precies wat het pittige gerecht nodig heeft.",
+      "ingredient_groups": [
+        {
+          "group_name": "Garnalen",
+          "ingredients": [
+            {
+              "name": "rauwe garnalen, gepeld en fijngehakt (± 3–5 mm)",
+              "amount": "250 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Sambal goreng",
+          "ingredients": [
+            {
+              "name": "peteh, in dunne halve maantjes",
+              "amount": "150 g"
+            },
+            {
+              "name": "sjalotten, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "rode lomboks, ontzaad en fijngehakt",
+              "amount": "2–3"
+            },
+            {
+              "name": "laos, fijngehakt of gemalen",
+              "amount": "1 tl"
+            },
+            {
+              "name": "trassi, geroosterd",
+              "amount": "½ tl"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1–1½ el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2–3 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Zuur en serveren",
+          "ingredients": [
+            {
+              "name": "passievruchten (schillen als kommetje, sap voor de saus)",
+              "amount": "2"
+            },
+            {
+              "name": "limoensap, ter correctie",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "gebakken sjalotjes of ringetjes lente-ui",
+              "amount": "1 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Garnalen bakken",
+          "description": "verhit de pan heet. Voeg olie toe en bak de garnalen met een snuf zout 30–45 seconden, losroerend. Meteen uit de pan zodra ze net gaar zijn — ze garen straks nog even door. Zet apart."
+        },
+        {
+          "action": "Sambal goreng maken",
+          "description": "verhit olie op middelhoog vuur. Fruit sjalot en knoflook rustig glazig. Voeg lomboks, laos en trassi toe en bak tot het geurig is maar niet bruin."
+        },
+        {
+          "action": "Peteh toevoegen",
+          "description": "schep de peteh door de sambal. Bak 2–3 minuten op middelhoog vuur — beetgaar, niet papperig."
+        },
+        {
+          "action": "Op smaak brengen",
+          "description": "voeg palmsuiker en ketjap manis toe. Laat 30 seconden karamelliseren. Blus dan met het passievruchtsap — fris, licht zuur, het breekpunt van het gerecht."
+        },
+        {
+          "action": "Samenbrengen",
+          "description": "haal de pan van het vuur. Schep de garnalen er voorzichtig door. Proef en corrigeer op zout, zoet, zuur en pit. Meng zacht — niet roeren alsof het een saus is."
+        },
+        {
+          "action": "Serveren",
+          "description": "vul elke halve passievruchtschil met ± 1 eetlepel mengsel. Werk af met gebakken sjalotjes of een ringetje lente-ui. Serveer lauwwarm, niet heet."
+        }
+      ],
+      "chef_tip": "Bak de garnalen apart en voeg ze pas op het allerlaatste moment toe — anders worden ze rubberachtig. En blus met passievruchtsap pas als de pan van het vuur is: de frisheid is bedoeld als verrassing, niet als achtergrondsmaak.",
+      "wine": {
+        "naam": "Gewürztraminer",
+        "druif": "Gewürztraminer",
+        "toelichting": "De uitbundige kruidigheid en lichte zoetheid van een Gewürztraminer uit de Elzas tempert de hitte van de sambal zonder hem te doven. Lychee en rozenwater in de neus sluiten aan bij het tropische karakter van de passievrucht. Serveer ijskoud op 8°C.",
+        "alternatief": "Off-dry Riesling Kabinett of droge Muscat"
+      }
+    },
+    {
+      "title": "Tumis Buncis Kecap — hartige roerbakboontjes",
+      "slug": "tumis-buncis-kecap",
+      "location": "Java",
+      "time": "15 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Indonesisch",
+      "categorie": "groente-salade",
+      "image": "/assets/images/tumis-buncis-kecap.jpg",
+      "short_description": "Knapperige sperziebonen met knoflook en een zuinige scheut ketjap — hartig, licht, klaar in een kwartier.",
+      "description": "Knapperige sperziebonen roergebakken met knoflook, sjalot en een voorzichtige hand ketjap manis. Een rijsttafelbijgerecht dat draagt zonder op te vallen — precies zijn bedoeling.",
+      "ingredient_groups": [
+        {
+          "group_name": "Groenten",
+          "ingredients": [
+            {
+              "name": "sperziebonen, schoongemaakt",
+              "amount": "500 g"
+            },
+            {
+              "name": "knoflookteentjes, flinterdun gesneden",
+              "amount": "3"
+            },
+            {
+              "name": "kleine sjalot, in ringen",
+              "amount": "1"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "3 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Smaakmakers",
+          "ingredients": [
+            {
+              "name": "ketjap manis",
+              "amount": "1½–2 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bonen blancheren",
+          "description": "breng een pan gezouten water aan de kook. Blancheer de sperziebonen 2–3 minuten — knapperig, niet gaar. Afgieten en direct koud spoelen om de kleur te bewaren."
+        },
+        {
+          "action": "Knoflook en sjalot bakken",
+          "description": "verhit de olie in een hete wok of koekenpan. Bak knoflook en sjalot tot lichtgoud — niet donker, anders wordt het bitter."
+        },
+        {
+          "action": "Bonen roerbakken",
+          "description": "voeg de sperziebonen toe en schud goed om op hoog vuur."
+        },
+        {
+          "action": "Afmaken",
+          "description": "voeg sojasaus en ketjap manis toe. Laat direct verdampen op hoog vuur — de pan moet droog eindigen, niet nat. Breng op smaak met witte peper. Proef en serveer meteen."
+        }
+      ],
+      "chef_tip": "Gebruik maximaal 2 el ketjap op 4 personen — meer en je overstemt de knapperige bonen. De pan moet droog eindigen: dit is roerbakken, geen smoren.",
+      "wine": {
+        "naam": "Pinot Gris",
+        "druif": "Pinot Gris",
+        "toelichting": "De zachte textuur en lichte zoetheid van een Elzasser Pinot Gris gaat mee met de ketjap zonder de knapperige bonen te overstemmen. Genoeg body om te dragen, genoeg frisheid om licht te blijven bij een rijsttafel. Serveer op 12°C.",
+        "alternatief": "Droge Grüner Veltliner of Verdejo"
+      }
+    },
+    {
+      "title": "Sambal Goreng Telor — droge Javaanse variant",
+      "slug": "sambal-goreng-telor",
+      "location": "Yogyakarta",
+      "time": "35 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/sambal-goreng-telor.jpg",
+      "short_description": "Krokant gebakken eieren in een droge sambal goreng met ui, laos en trassi — beter de dag erna dan de dag zelf.",
+      "description": "Hardgekookte eieren gebakken tot een licht krokant velletje, dan gesmoord in een droge sambal goreng met ui, laos en trassi. Geen kokosmelk, geen water: de saus hecht aan het ei, niet ernaast.",
+      "ingredient_groups": [
+        {
+          "group_name": "Eieren",
+          "ingredients": [
+            {
+              "name": "hardgekookte eieren, gepeld",
+              "amount": "8"
+            },
+            {
+              "name": "zonnebloemolie",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Sambal goreng basis",
+          "ingredients": [
+            {
+              "name": "grote ui of sjalotten, gesnipperd",
+              "amount": "1 grote ui"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "laos, gemalen of fijngeraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1–1½ tl"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "palmsuiker of bruine suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "trassi",
+              "amount": "1 tl"
+            },
+            {
+              "name": "salamblad of laurierblad",
+              "amount": "1"
+            },
+            {
+              "name": "warm water",
+              "amount": "100 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            },
+            {
+              "name": "zonnebloemolie",
+              "amount": "1–2 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Eieren koken en bakken",
+          "description": "kook de eieren 8–9 minuten, laat schrikken en pel. Verhit olie en bak de eieren rondom goudbruin tot een licht krokant velletje ontstaat. Zet apart."
+        },
+        {
+          "action": "Sausbasis maken",
+          "description": "verhit olie op laag vuur. Fruit de ui glazig (±5 minuten). Voeg knoflook, laos en trassi toe. Voeg sambal en tomatenpuree toe en bak 1 minuut mee."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "voeg palmsuiker, zout, salamblad en 100 ml warm water toe. Laat inkoken tot een dikke saus — niet te nat."
+        },
+        {
+          "action": "Eieren toevoegen",
+          "description": "schep de gebakken eieren door de saus. Laat 3–5 minuten zachtjes pruttelen zodat de saus goed hecht. Verwijder het salamblad."
+        },
+        {
+          "action": "Serveren",
+          "description": "serveer warm of op kamertemperatuur met rijst, atjar of sajoer buncis."
+        }
+      ],
+      "chef_tip": "Maak de saus een dag van tevoren — hij wordt dieper en zachter van smaak. Voeg de eieren pas toe bij het opwarmen. En bak de eieren echt bruin vóór het stoven: dat krokante velletje is het verschil.",
+      "wine": {
+        "naam": "Riesling Spätlese",
+        "druif": "Riesling",
+        "toelichting": "De residuele zoetheid van een Moezel Riesling Spätlese cushiont de sambal en maakt de umami van de trassi ronder. De strakke zuurgraad houdt het gerecht levendig. Serveer gekoeld op 9°C.",
+        "alternatief": "Off-dry Vouvray of een glas koel Bintang bier"
+      }
+    },
+    {
+      "title": "Gado Gado Culinair — warme salade met zijdezachte pindasaus",
+      "slug": "gado-gado-culinair",
+      "location": "Jakarta",
+      "time": "30 min",
+      "servings": "2 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "groente-salade",
+      "image": "/assets/images/gado-gado-culinair.jpg",
+      "short_description": "Geblancheerde groenten met zachtgekookt ei en een zijdezachte pindasaus op kokosmelkbasis.",
+      "description": "Een culinaire gado gado zonder wortel — sperziebonen, kool, komkommer, taugé en een zachtgekookt ei op een bedje van romige pindasaus op kokosmelkbasis. De kracht zit in de temperatuurcontrasten: lauwwarme groenten, rauwe komkommer, warme saus.",
+      "ingredient_groups": [
+        {
+          "group_name": "Groenten en basis",
+          "ingredients": [
+            {
+              "name": "sperziebonen, beetgaar geblancheerd",
+              "amount": "200 g"
+            },
+            {
+              "name": "fijn gesneden witte of spitskool, 1–2 min geblancheerd",
+              "amount": "150 g"
+            },
+            {
+              "name": "komkommer, in dunne halve maantjes of linten",
+              "amount": "½"
+            },
+            {
+              "name": "eieren, zachtgekookt (6 min)",
+              "amount": "2"
+            },
+            {
+              "name": "taugé, kort overgoten met kokend water",
+              "amount": "1 handvol"
+            },
+            {
+              "name": "gebakken sjalotjes",
+              "amount": "1 el"
+            },
+            {
+              "name": "koriander of peterselie (optioneel)",
+              "amount": "paar takjes"
+            }
+          ]
+        },
+        {
+          "group_name": "Pindasaus",
+          "ingredients": [
+            {
+              "name": "ongezouten pinda's of 100% pindakaas",
+              "amount": "75 g"
+            },
+            {
+              "name": "knoflookteen, klein",
+              "amount": "1"
+            },
+            {
+              "name": "rode chili of sambal badjak",
+              "amount": "½"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "100 ml"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1 el"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "palmsuiker of bruine suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pindasaus maken",
+          "description": "rooster de pinda's kort in een droge pan. Maal met knoflook en chili tot pasta. Verwarm met kokosmelk, ketjap, limoensap en suiker op laag vuur. Laat rustig indikken tot een zijdeachtige saus. Proef: pittig, zoet, zout en zuur in balans."
+        },
+        {
+          "action": "Groenten blancheren",
+          "description": "blancheer sperziebonen en kool apart in gezouten water — knapperig, mooi kleurbehoud. Laat uitlekken en houd lauwwarm. De komkommer blijft rauw."
+        },
+        {
+          "action": "Eieren koken",
+          "description": "kook 6 minuten, laat schrikken, pel en halveer. Het geel moet nog zacht zijn."
+        },
+        {
+          "action": "Taugé voorbereiden",
+          "description": "giet kokend water over de taugé en laat direct uitlekken. Niet koken — alleen de rauwe rand eraf."
+        },
+        {
+          "action": "Opmaken en serveren",
+          "description": "lepel warme pindasaus subtiel over het midden van een ondiep bord. Maak een ring van kool en sperziebonen eromheen. Leg komkommerlinten speels ertussen. Halveer de eieren en leg erop. Bestrooi met taugé, krokante sjalotjes en verse kruiden."
+        }
+      ],
+      "chef_tip": "Serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft rauw: dat frisse contrast maakt het gerecht. En lepel de saus subtiel over het midden, niet over alles — de groenten moeten zichtbaar blijven.",
+      "wine": {
+        "naam": "Riesling Kabinett",
+        "druif": "Riesling",
+        "toelichting": "De lichte frisheid en fruitige tonen van een Riesling Kabinett snijden door de romigheid van de pindasaus zonder de delicate groenten te overstemmen. Een fractie suiker in de wijn slaat een brug naar de kokosmelk en palmsuiker. Serveer gekoeld op 9°C.",
+        "alternatief": "Droge Vouvray of Chenin Blanc"
+      }
+    },
+    {
+      "title": "Saté Ossenhaas op z'n Kambing — met ketumbar, laos en tamarinde",
+      "slug": "sate-ossenhaas-kambing",
+      "location": "Yogyakarta",
+      "time": "20 min + 1–3 uur marineren",
+      "servings": "2 personen (6 spiesjes)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/sate-ossenhaas-kambing.jpg",
+      "short_description": "Ossenhaas gemarineerd in Javaanse kambing-kruiden en gegrild tot rosé — met gebakken uitjes en koriander.",
+      "description": "Ossenhaas in de marinade van saté kambing — ketjap, ketumbar, laos, tamarinde en gember. De geit is weg, de diepte is gebleven. Kort gegrild, rosé van binnen.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vlees en marinade",
+          "ingredients": [
+            {
+              "name": "ossenhaas, in blokjes van ±2,5 cm",
+              "amount": "300 g"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "2 el"
+            },
+            {
+              "name": "zonnebloem- of arachideolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "palmsuiker of bruine suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteentjes, fijngeraspt",
+              "amount": "2"
+            },
+            {
+              "name": "verse gember, geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gemalen korianderzaad (ketumbar)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "gemalen laos (galanga)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "sambal badjak of verse rode chili, fijngehakt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "tamarindepasta of limoensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout en zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "bamboespiesen, geweekt in water",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "gebakken uitjes",
+              "amount": "1 el"
+            },
+            {
+              "name": "verse koriander of peterselie, fijngehakt",
+              "amount": "1 el"
+            },
+            {
+              "name": "pindasaus of ingekookte ketjap met limoensap",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marinade maken",
+          "description": "meng alle marinade-ingrediënten in een kom. Voeg de blokjes ossenhaas toe en schep goed door. Dek af en marineer minstens 1 uur in de koelkast — 3 uur geeft merkbaar meer diepte."
+        },
+        {
+          "action": "Spiesen rijgen",
+          "description": "rijg 3–4 blokjes vlees per spies. Laat 15 minuten op kamertemperatuur komen vóór het grillen."
+        },
+        {
+          "action": "Grillen",
+          "description": "verwarm grillpan of barbecue goed heet. Gril de spiesjes 1½–2 minuten per kant tot mooi gebruind maar nog rosé van binnen. Bestrijk tijdens het grillen eventueel met een ketjap-olie-mix voor extra glans."
+        },
+        {
+          "action": "Afwerken en serveren",
+          "description": "leg op een bord met een druppel pindasaus of ingekookte ketjap. Bestrooi met gebakken uitjes en verse koriander."
+        }
+      ],
+      "chef_tip": "Marineer minstens 1 uur, liefst 3. De tamarinde doet het echte werk: het breekt de zoetheid van de ketjap en geeft de marinade zijn karakter. Gril op hoog vuur en draai de spiesjes slechts één keer — zo krijg je een gelijkmatige, mooie korst.",
+      "wine": {
+        "naam": "Pinot Noir",
+        "druif": "Pinot Noir",
+        "toelichting": "De zachte tannines en rode vruchten van een lichte Pinot Noir gaan mee met het malse vlees en laten de ketumbar en laos volledig tot hun recht komen. Niet te veel structuur — de kruiden moeten de hoofdrol houden. Serveer licht gekoeld op 14°C.",
+        "alternatief": "Jonge Barbera d'Asti of een glas koud Bintang bier"
+      }
+    },
+    {
+      "title": "Sajoer Lodeh Culinair — tropische kokosmelkgroenten",
+      "slug": "sajoer-lodeh-culinair",
+      "location": "Betawi",
+      "time": "20 min",
+      "servings": "2 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Indonesisch",
+      "categorie": "soep",
+      "image": "/assets/images/sajoer-lodeh.jpg",
+      "short_description": "Romige kokosmelksoep met seizoensgroenten, citroengras en kurkuma — het aromatische rustpunt van de rijsttafel.",
+      "description": "Een zachte, aromatische kokosmelksoep met groenten, citroengras, kurkuma en laos. Snel klaar met kant-en-klare soepgroente, maar met een zorgvuldig opgebouwde kruidenbasis die de indruk wekt van uren sudderen.",
+      "ingredient_groups": [
+        {
+          "group_name": "Groenten",
+          "ingredients": [
+            {
+              "name": "soepgroente of Chinese roerbakmix",
+              "amount": "250 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Bumbu (kruidenbasis)",
+          "ingredients": [
+            {
+              "name": "sjalotjes of ½ ui, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "kurkuma (kunyit)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "laos of gemberpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "korianderpoeder (ketumbar)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sereh (citroengras), gekneusd",
+              "amount": "1 stengel"
+            },
+            {
+              "name": "daun salam of laurierblad",
+              "amount": "1"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "½–1 tl"
+            },
+            {
+              "name": "trassi (optioneel)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "palmsuiker of bruine suiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Vocht en afwerking",
+          "ingredients": [
+            {
+              "name": "kokosmelk, volvet",
+              "amount": "200 ml"
+            },
+            {
+              "name": "water",
+              "amount": "100 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "limoensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "gebakken uitjes",
+              "amount": "1 handvol"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bumbu maken",
+          "description": "verhit olie in een pan. Fruit sjalot en knoflook tot geurig en licht goudbruin. Voeg sambal, trassi, kurkuma, laos, koriander en suiker toe en roer 30 seconden."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "voeg sereh, daun salam, kokosmelk en water toe. Laat 2 minuten zacht pruttelen zodat de smaken samenkomen — deze stap maakt het verschil."
+        },
+        {
+          "action": "Groenten garen",
+          "description": "voeg de soepgroente toe en roer goed om. Laat 5–6 minuten zachtjes koken tot de groenten net gaar zijn — nog met een beetje bite."
+        },
+        {
+          "action": "Afmaken en serveren",
+          "description": "breng op smaak met zout en een kneepje limoensap. Verwijder sereh en laurier. Schep in een kommetje en garneer met gebakken uitjes."
+        }
+      ],
+      "chef_tip": "Gebruik volle kokosmelk — geen light. En laat de sereh en daun salam twee minuten meepruttelen in de kokosmelk vóór de groenten erin gaan. Die twee minuten maken het verschil tussen een platte en een aromatisch diepe saus.",
+      "wine": {
+        "naam": "Viognier",
+        "druif": "Viognier",
+        "toelichting": "De volle, aromatische body van een Rhône Viognier spiegelt de romige kokosmelk en versterkt de bloemenachtige tonen van citroengras en kurkuma. Perzik en abrikoos in de neus sluiten aan bij het tropische karakter van het gerecht. Serveer op 12°C.",
+        "alternatief": "Droge Muscat of een aromatische Torrontés"
+      }
+    },
+    {
+      "title": "Daging Smoor — Javaanse ketjapstoof met kruidnagel en nootmuskaat",
+      "slug": "daging-smoor-javaans",
+      "location": "Semarang",
+      "time": "2 uur",
+      "servings": "2 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/daging-smoor.jpg",
+      "short_description": "Boterzacht rundvlees gestoofd in ketjap, kruidnagel en nootmuskaat — een stroperige, diepe Javaanse klassieker.",
+      "description": "Rundvlees langzaam gestoofd in ketjap manis, ui, kruidnagel en nootmuskaat. De saus wordt stroperig en diep — zoet, hartig, vol. Het limoensap op het eind is geen garnering, het is het breekpunt dat het gerecht opentrekt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vlees en basis",
+          "ingredients": [
+            {
+              "name": "runderlappen (sucadelap of riblappen), in blokken van 3 cm",
+              "amount": "300 g"
+            },
+            {
+              "name": "olie of boter",
+              "amount": "1 el"
+            },
+            {
+              "name": "ui, dun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "knoflookteentjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "tomaat in blokjes of tomatenpuree",
+              "amount": "1 tomaat"
+            },
+            {
+              "name": "kruidnagels",
+              "amount": "2"
+            },
+            {
+              "name": "nootmuskaat",
+              "amount": "½ tl"
+            },
+            {
+              "name": "kaneelpoeder (optioneel)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "2 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "palmsuiker of bruine suiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "runderbouillon of water",
+              "amount": "200 ml"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout en zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "gebakken uitjes",
+              "amount": "1 el"
+            },
+            {
+              "name": "dunne reepjes rode chili of selderijblad",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees aanbraden",
+          "description": "verhit olie of boter in een stoofpan op hoog vuur. Bak het vlees rondom bruin — neem de tijd, dit is de basis van de smaak. Haal even uit de pan."
+        },
+        {
+          "action": "Bumbu opbouwen",
+          "description": "fruit in dezelfde pan ui en knoflook zachtjes tot goudbruin. Voeg tomaat of tomatenpuree toe en bak kort mee. Voeg kruidnagel, nootmuskaat en eventueel kaneel toe."
+        },
+        {
+          "action": "Stoven",
+          "description": "doe het vlees terug in de pan. Voeg ketjap, sojasaus, suiker en bouillon toe. Breng aan de kook, draai het vuur laag. Laat 1½–2 uur zachtjes stoven met de deksel half op de pan, tot het vlees boterzacht is."
+        },
+        {
+          "action": "Saus inkoken",
+          "description": "verwijder de deksel en laat de saus inkoken tot hij stroperig en glanzend is."
+        },
+        {
+          "action": "Afmaken en serveren",
+          "description": "breng op smaak met zout, peper en een drup limoensap — dat breekt het zoet en trekt het gerecht open. Serveer met saus erover, gebakken uitjes en een dun reepje chili."
+        }
+      ],
+      "chef_tip": "Bak de ui echt goed bruin — die karamelisatie is de basis van de diepte in smoor. Gebruik minder vocht dan je denkt nodig te hebben: je wilt een geconcentreerde, glanzende saus, geen soep. Het limoensap op het eind is geen optie — het is wat het gerecht wakker maakt.",
+      "wine": {
+        "naam": "Crozes-Hermitage",
+        "druif": "Syrah",
+        "toelichting": "De donkere vruchten en rokerige ondertonen van een Crozes-Hermitage Syrah sluiten aan bij de geconcentreerde ketjap en kruidnagel. Genoeg structuur om het zoet te dragen, genoeg diepte om het niet te overstemmen. Serveer op 17°C.",
+        "alternatief": "Jonge Malbec of een rijpe Garnacha"
+      }
+    },
+    {
+      "title": "Pepesan Ikan Tong — Sundanese visfilet in bakpapier met kunyit en kemiri",
+      "slug": "pepesan-ikan-tong",
+      "location": "Sunda",
+      "time": "30 min + 15 min marineren",
+      "servings": "2 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/pepesan-ikan-tong.jpg",
+      "short_description": "Tongfilet ingesmeerd met Sundanese bumbu van kurkuma, kemiri en sereh — strak ingerold in bakpapier en gestoomd in de oven.",
+      "description": "Pepesan is klassiek met makreel en bananenblad. Hier tong — fijner, delicater — in bakpapier als alternatief. De bumbu van kurkuma, kemiri, lomboks en trassi omhult de vis als een kruidenmantel. Gaar en geurig tegelijk.",
+      "ingredient_groups": [
+        {
+          "group_name": "Bumbu (kruidenpasta)",
+          "ingredients": [
+            {
+              "name": "sjalotten",
+              "amount": "3"
+            },
+            {
+              "name": "knoflookteentjes",
+              "amount": "2"
+            },
+            {
+              "name": "rode lomboks, ontzaad",
+              "amount": "2"
+            },
+            {
+              "name": "kemiri (kemirinoten), geroosterd",
+              "amount": "2"
+            },
+            {
+              "name": "kurkuma (kunyit)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "laos, gemalen",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sereh, alleen het zachte binnenste deel, fijngehakt",
+              "amount": "1 stengel"
+            },
+            {
+              "name": "trassi, geroosterd",
+              "amount": "½ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Vis",
+          "ingredients": [
+            {
+              "name": "tongfilets (±150 g per stuk)",
+              "amount": "2"
+            },
+            {
+              "name": "limoenblaadjes (daun jeruk), in fijne reepjes",
+              "amount": "4"
+            },
+            {
+              "name": "Thaise basilicum of kemangi (optioneel)",
+              "amount": "paar blaadjes"
+            }
+          ]
+        },
+        {
+          "group_name": "Serveren",
+          "ingredients": [
+            {
+              "name": "limoen, in partjes",
+              "amount": "1"
+            },
+            {
+              "name": "bakpapier",
+              "amount": "2 vellen"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bumbu maken",
+          "description": "vijzel of blend sjalotten, knoflook, lomboks, kemiri, kurkuma, laos, sereh en trassi tot een gladde pasta. Voeg olie en limoensap toe. Breng op smaak met zout."
+        },
+        {
+          "action": "Vis inwrijven",
+          "description": "wrijf de tongfilets aan beide kanten goed in met de bumbu. Laat 15 minuten rusten zodat de smaken intrekken."
+        },
+        {
+          "action": "Inpakken",
+          "description": "leg elke filet op een vel bakpapier. Voeg limoenblaadjes en basilicum toe. Vouw het bakpapier strak dicht — niet luchtig, maar niet knellend. De stoom moet kunnen circuleren."
+        },
+        {
+          "action": "Garen",
+          "description": "verwarm de oven op 180°C. Leg de pakketjes op een bakplaat en bak 12–15 minuten. Het papier kleurt licht en balt iets samen — dat is goed. Tong is gaar als hij makkelijk schilfert."
+        },
+        {
+          "action": "Serveren",
+          "description": "open het pakje aan tafel — de geur van bumbu en stoom komt er direct uit. Knijp een partje limoen erover."
+        }
+      ],
+      "chef_tip": "Tong is minder vet dan makreel — gebruik iets minder trassi zodat de delicate vissmaak niet ondersneeuwd wordt. Het bakpapier werkt hier eigenlijk beter dan bananenblad: het houdt de vochtige stoom beter vast en de bumbu hecht directer aan de vis.",
+      "wine": {
+        "naam": "Chablis Premier Cru",
+        "druif": "Chardonnay",
+        "toelichting": "De droge mineraliteit en citruszuurgraad van een Chablis Premier Cru sluiten naadloos aan bij de delicate tongfilet en de citroentonen van sereh en limoen in de bumbu. Kalksteenkarakter versus frisse kurkumapasta — een klassieke tegenstelling die werkt. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Grüner Veltliner of droge Elzasser Pinot Blanc"
+      }
     }
   ]
 }
