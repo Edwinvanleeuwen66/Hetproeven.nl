@@ -8681,7 +8681,7 @@
       "title": "Surinaams broodje kip kerrie met zelfgemaakte komkommer atjar",
       "slug": "surinaams-broodje-kip-kerrie",
       "location": "Paramaribo",
-      "time": "50 min + 1 uur atjar",
+      "time": "50 min + 2 uur rijzen (puntje) + 1 uur atjar",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
@@ -8690,6 +8690,39 @@
       "short_description": "Kip kerrie in diepe Surinaamse stijl — met geactiveerde curry, Madame Jeanette en glanzende ketjapsaus op een luchtig puntje met komkommer atjar.",
       "description": "Een Surinaams broodje kip kerrie is geen toevallig samenstel — het is een evenwicht. Zoet van ketjap, kruidig van kerrie, pittig van Madame Jeanette, fris van atjar. De kip moet glanzen en plakken, niet zwemmen. Het broodje mag licht vochtig worden, niet zompig.",
       "ingredient_groups": [
+        {
+          "group_name": "Surinaamse puntjes (zelfgebakken)",
+          "ingredients": [
+            {
+              "name": "tarwebloem (11–12% eiwit)",
+              "amount": "500 g"
+            },
+            {
+              "name": "water, kamertemperatuur",
+              "amount": "300 ml"
+            },
+            {
+              "name": "droge gist",
+              "amount": "8 g"
+            },
+            {
+              "name": "suiker",
+              "amount": "18 g"
+            },
+            {
+              "name": "zout",
+              "amount": "8 g"
+            },
+            {
+              "name": "neutrale olie of zachte boter",
+              "amount": "15 g"
+            },
+            {
+              "name": "fijn griesmeel of semola om in te rollen",
+              "amount": "1 handvol"
+            }
+          ]
+        },
         {
           "group_name": "Kip kerrie",
           "ingredients": [
@@ -8804,6 +8837,10 @@
       ],
       "steps": [
         {
+          "action": "Puntjes bakken",
+          "description": "meng bloem en water, dek af en laat 20 minuten rusten (autolyse). Kneed dan met gist, suiker, zout en olie tot soepel elastisch deeg — ±10 minuten. Laat 60–75 minuten rijzen. Verdeel in 8 bolletjes van ±100 g, rol ovaal en draai strak op tot een puntje, naad goed dichtknippen. Maak een lengtegleuf. Tweede rijs: 30–40 minuten. Bak op 230°C met stoom (kommetje heet water onderin de oven) — 8 minuten, dan terugdraaien naar 205°C nog 8–10 minuten tot lichtgoud. Direct op rooster afkoelen, nooit afdekken."
+        },
+        {
           "action": "Atjar voorbereiden",
           "description": "lepel de zachte kern uit de komkommer. Snijd in dunne plakjes. Bestrooi met zout en laat 10 minuten staan, knijp daarna licht uit. Meng met de ui. Verwarm azijn, suiker, kurkuma en zout — niet koken, alleen oplossen. Giet warm over de komkommer. Laat minimaal een uur trekken in de koelkast — langer is beter."
         },
@@ -8844,7 +8881,7 @@
       "title": "Surinaams broodje stoofvlees met ketjap, piment en peperzuur",
       "slug": "surinaams-broodje-stoofvlees",
       "location": "Paramaribo",
-      "time": "30 min + 2,5 uur stoven",
+      "time": "30 min + 2½ uur stoven + 2 uur rijzen (puntje)",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
@@ -8853,6 +8890,39 @@
       "short_description": "Riblappen gemarineerd in ketjap, piment en komijn, donker aangebraden en gestoofd tot draadjesmals — met glanzende saus op een knapperig Surinaams puntje.",
       "description": "Straateten uit Paramaribo: stoofvlees dat de nacht daarvoor is gemaakt, opgewarmd en op een knapperig puntje gelegd met zuurgoed. De saus moet donker zijn, plakkerig en aan de lepel blijven hangen. Niet soepig. Niet droog. Precies daartussen.",
       "ingredient_groups": [
+        {
+          "group_name": "Surinaamse puntjes (zelfgebakken)",
+          "ingredients": [
+            {
+              "name": "tarwebloem (11–12% eiwit)",
+              "amount": "500 g"
+            },
+            {
+              "name": "water, kamertemperatuur",
+              "amount": "300 ml"
+            },
+            {
+              "name": "droge gist",
+              "amount": "8 g"
+            },
+            {
+              "name": "suiker",
+              "amount": "18 g"
+            },
+            {
+              "name": "zout",
+              "amount": "8 g"
+            },
+            {
+              "name": "neutrale olie of zachte boter",
+              "amount": "15 g"
+            },
+            {
+              "name": "fijn griesmeel of semola om in te rollen",
+              "amount": "1 handvol"
+            }
+          ]
+        },
         {
           "group_name": "Stoofvlees en marinade",
           "ingredients": [
@@ -8934,6 +9004,10 @@
         }
       ],
       "steps": [
+        {
+          "action": "Puntjes bakken",
+          "description": "meng bloem en water, dek af en laat 20 minuten rusten (autolyse). Kneed dan met gist, suiker, zout en olie tot soepel elastisch deeg — ±10 minuten. Laat 60–75 minuten rijzen. Verdeel in 8 bolletjes van ±100 g, rol ovaal en draai strak op tot een puntje, naad goed dichtknippen. Maak een lengtegleuf. Tweede rijs: 30–40 minuten. Bak op 230°C met stoom (kommetje heet water onderin de oven) — 8 minuten, dan terugdraaien naar 205°C nog 8–10 minuten tot lichtgoud. Direct op rooster afkoelen, nooit afdekken."
+        },
         {
           "action": "Marineren",
           "description": "meng het vlees met knoflook, peper, komijn, piment, 1 el ketjap en zout. Dek af en laat minimaal 2 uur marineren in de koelkast — langer geeft merkbaar meer diepte. Dit is de Surinaamse basis."
