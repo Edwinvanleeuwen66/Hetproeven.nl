@@ -9040,6 +9040,550 @@
         "toelichting": "De rijpe pruimige vruchten en ronde tannines van een Mendoza Malbec sluiten aan bij de ketjap en het gestoofde vlees. Krachtig genoeg om de piment bij te houden. Serveer op 17°C.",
         "alternatief": "Jonge Zinfandel of Primitivo"
       }
+    },
+    {
+      "title": "Nori Cannoli met tonijncrème, citroen en zwarte sesam",
+      "slug": "nori-cannoli-tonijncreme",
+      "location": "Tokyo",
+      "time": "25 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/nori-cannoli-tonijncreme.jpg",
+      "short_description": "Krokante nori opgerold als cannoli, gevuld met een luchtige tonijncrème op basis van crème fraîche en citroen — afgewerkt met zwarte sesam.",
+      "description": "Een hapje dat twee werelden samenvoegt: de umami-diepte van geroosterde nori en de frisheid van een klassieke tonijnsalade, maar dan lichter en eleganter. Het geheim zit in de textuur — de nori moet krokant blijven tot de laatste hap, dus je vult vlak voor serveren.",
+      "ingredient_groups": [
+        {
+          "group_name": "Nori cannoli",
+          "ingredients": [
+            {
+              "name": "nori vellen, elk in 4 rechthoeken gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "neutrale olie om te bakken",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Tonijncrème",
+          "ingredients": [
+            {
+              "name": "tonijn op water, zeer goed uitgelekt",
+              "amount": "150 g"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "2½ el"
+            },
+            {
+              "name": "mayonaise",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroen, rasp en een paar druppels sap",
+              "amount": "½"
+            },
+            {
+              "name": "witte peper",
+              "amount": "snuf"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "bieslook of lente-ui, zeer fijn gesneden",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "zwarte sesam",
+              "amount": "1 tl"
+            },
+            {
+              "name": "extra bieslook of lente-ui",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "citroenolie of een druppel goede olijfolie",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Tonijncrème maken",
+          "description": "plet de tonijn fijn met een vork — geen blender, je wilt textuur houden. Meng met crème fraîche, mayonaise, citroenrasp, een paar druppels sap, witte peper en zout. Voeg bieslook toe. Proef: de crème moet fris, licht en romig zijn. Zet koud weg."
+        },
+        {
+          "action": "Nori rollen en bakken",
+          "description": "snijd de nori in rechthoeken van ±8 × 10 cm. Rol elke rechthoek strak op rond een houten lepelsteel of metalen buisje. Zet vast met een paar druppels water. Frituur of bak in een laagje hete olie tot de nori krokant en glanzerig is — 30–45 seconden. Laat uitlekken op keukenpapier en haal voorzichtig van de steel."
+        },
+        {
+          "action": "Vullen en serveren",
+          "description": "doe de tonijncrème in een spuitzak of stevig plastic zakje met een kleine opening. Vul elke cannoli vlak voor serveren — niet eerder, want vocht maakt de nori snel slap. Bestrooi met zwarte sesam en een druppel citroenolie."
+        }
+      ],
+      "chef_tip": "Laat de tonijn minstens 10 minuten in een zeef uitdruipen en druk hem daarna nog even goed uit met je handen. Te veel vocht maakt de crème dun en de nori zacht. En vul nooit eerder dan 5 minuten voor serveren.",
+      "wine": {
+        "naam": "Albariño",
+        "druif": "Albariño",
+        "toelichting": "De zilte mineraliteit en strakke citrusfrisheid van een Galicische Albariño sluiten naadloos aan bij de umami van de nori en de citroentoets in de tonijncrème. Een wijn die smaakt alsof hij op zee is gemaakt. Serveer ijskoud op 8°C.",
+        "alternatief": "Droge Muscadet Sèvre et Maine of Cava Brut"
+      }
+    },
+    {
+      "title": "Vichyssoise met bieslookolie en gezouten roomijs",
+      "slug": "vichyssoise-bieslookolie-roomijs",
+      "location": "Parijs",
+      "time": "45 min + 3 uur koelen",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "soep",
+      "image": "/assets/images/vichyssoise-bieslookolie-roomijs.jpg",
+      "short_description": "IJskoude prei-aardappelsoep, fluweelzacht gezeefd, met een quenelle gezouten roomijs en felgroene bieslookolie.",
+      "description": "Vichyssoise is de elegantste koude soep die er bestaat — prei, aardappel, room, weinig meer. De kracht zit in de techniek: lang genoeg zeven voor het fluweelzachte gevoel, lang genoeg koelen voor de perfecte temperatuur. Het gezouten roomijs is geen grap — het versterkt de romigheid en geeft een verrassing bij elke lepel.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vichyssoise",
+          "ingredients": [
+            {
+              "name": "preien, alleen het witte en lichtgroene deel, in ringen",
+              "amount": "3"
+            },
+            {
+              "name": "sjalot, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "kruimige aardappels, geschild en in blokken",
+              "amount": "300 g"
+            },
+            {
+              "name": "ongezouten boter",
+              "amount": "40 g"
+            },
+            {
+              "name": "lichte kippenbouillon of groentebouillon",
+              "amount": "700 ml"
+            },
+            {
+              "name": "slagroom",
+              "amount": "150 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Gezouten roomijs",
+          "ingredients": [
+            {
+              "name": "slagroom",
+              "amount": "200 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Bieslookolie",
+          "ingredients": [
+            {
+              "name": "verse bieslook",
+              "amount": "1 handvol"
+            },
+            {
+              "name": "neutrale olie (druivenpit of zonnebloem)",
+              "amount": "75 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Roomijs maken",
+          "description": "klop de slagroom met zout en suiker stijf. Doe in een bakje en vries minstens 3 uur in. Haal 10 minuten voor serveren uit de vriezer en schep met twee lepels tot een quenelle."
+        },
+        {
+          "action": "Bieslookolie maken",
+          "description": "blancheer de bieslook 15 seconden in kokend gezouten water en spoel meteen koud onder ijswater — zo behoudt hij zijn felgroene kleur. Knijp droog, blend met de olie en een snuf zout tot een gladde, heldere groene olie. Zeef door een fijne zeef of koffiefilter. Bewaar koel."
+        },
+        {
+          "action": "Soep maken",
+          "description": "smelt de boter op laag vuur. Fruit prei en sjalot 10–12 minuten langzaam — ze mogen niet kleuren, alleen verzachten en zoeter worden. Voeg aardappel en bouillon toe. Kook 20 minuten tot de aardappel volledig gaar is."
+        },
+        {
+          "action": "Blenden en zeven",
+          "description": "blend de soep glad. Zeef daarna door een fijne zeef — dit is niet optioneel. Het verschil tussen gezeefd en onzeefd is het verschil tussen fluweelzacht en gewone prei-aardappelsoep. Roer de room erdoor. Breng op smaak met zout en witte peper."
+        },
+        {
+          "action": "Koelen en serveren",
+          "description": "koel de soep minstens 2 uur in de koelkast. Serveer in gekoelde kommen, druppel bieslookolie in een spiraal over de soep en leg een quenelle gezouten roomijs in het midden. Het ijs smelt langzaam in de soep — dat is de bedoeling."
+        }
+      ],
+      "chef_tip": "Serveer in gekoelde kommen — warm aardewerk trekt de temperatuur van de soep in 30 seconden omhoog. Zet de kommen een half uur voor serveren in de vriezer. En zeef de soep altijd tweemaal: één keer grof, één keer fijn.",
+      "wine": {
+        "naam": "Pouilly-Fumé",
+        "druif": "Sauvignon Blanc",
+        "toelichting": "De kiezelsteenachtige mineraliteit en kruidige frisheid van een Pouilly-Fumé sluiten aan bij de delicate preismaak en de romigheid van de soep. Een wijn die koelt en verfrist — perfect bij een gerecht dat van kou houdt. Serveer op 9°C.",
+        "alternatief": "Sancerre of droge Elzasser Pinot Blanc"
+      }
+    },
+    {
+      "title": "Krabsalade met mango, kaffir-limoenolie en rijstpapiercrisp",
+      "slug": "krabsalade-mango-kaffir-crisp",
+      "location": "Bangkok",
+      "time": "20 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Thais",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/krabsalade-mango-kaffir-crisp.jpg",
+      "short_description": "Verse krabsalade met rijpe mango, geparfumeerd met kaffir-limoenolie en geserveerd op een luchtige rijstpapiercrisp.",
+      "description": "Krab en mango zijn elkaars natuurlijke partners: de zoetheid van de mango versterkt de delicate zoute smaak van het krabvlees, terwijl de kaffir-limoenolie het geheel omhult met een aromatische frisheid. De rijstpapiercrisp geeft de knapperige textuur die dit hapje compleet maakt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Krabsalade",
+          "ingredients": [
+            {
+              "name": "verse krabsalade van de visboer",
+              "amount": "200 g"
+            },
+            {
+              "name": "rijpe mango, in kleine blokjes van ±5 mm",
+              "amount": "½"
+            },
+            {
+              "name": "lente-ui, zeer fijn gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Kaffir-limoenolie",
+          "ingredients": [
+            {
+              "name": "kaffir-limoenblaadjes, nerven verwijderd, zeer fijn gesneden",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie (druivenpit)",
+              "amount": "4 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Rijstpapiercrisps",
+          "ingredients": [
+            {
+              "name": "rijstpapier vellen",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "rode peper, zeer fijn gesneden",
+              "amount": "¼"
+            },
+            {
+              "name": "verse koriander",
+              "amount": "paar blaadjes"
+            },
+            {
+              "name": "limoenwedge",
+              "amount": "4"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kaffir-limoenolie maken",
+          "description": "verhit de olie op laag vuur tot lauwwarm — niet heet. Voeg de fijngesneden kaffir-limoenblaadjes toe en laat 10 minuten infuseren van het vuur af. Zeef en breng op smaak met zout. De olie moet lichtgroen en geurig zijn."
+        },
+        {
+          "action": "Rijstpapiercrisps maken",
+          "description": "verwarm de oven op 200°C. Bestrijk de rijstpapier vellen dun met olie en leg op bakpapier. Bak 5–7 minuten tot ze opgepoft, krokant en wit-doorschijnend zijn. Ze gaan snel — houd ze in de gaten. Laat afkoelen en breek in mooie onregelmatige stukken."
+        },
+        {
+          "action": "Krabsalade opmaken",
+          "description": "meng de krab voorzichtig met de mangoblokjes en lente-ui. Breng op smaak met limoensap, zout en witte peper. Niet te veel roeren — de krab mag niet uit elkaar vallen."
+        },
+        {
+          "action": "Serveren",
+          "description": "leg een rijstpapiercrisp op elk bord. Schep een lepel krabsalade erop. Druppel kaffir-limoenolie rondom. Werk af met een paar blaadjes koriander, een snufje rode peper en een limoenwedge."
+        }
+      ],
+      "chef_tip": "Koop de krabsalade de ochtend zelf en houd hem koud tot serveren. En maak de rijstpapiercrisps pas als je ze nodig hebt — ze worden snel zacht door luchtvochtigheid. Bewaar ze maximaal 2 uur in een afgesloten bak.",
+      "wine": {
+        "naam": "Grüner Veltliner",
+        "druif": "Grüner Veltliner",
+        "toelichting": "De pepery frisheid en citrusnoten van een Oostenrijkse Grüner Veltliner sluiten aan bij de kaffir-limoenolie en de delicate krabsmaak zonder de mango te overstemmen. Licht genoeg voor het hapje, complex genoeg om interessant te blijven. Serveer op 10°C.",
+        "alternatief": "Droge Riesling of Vermentino di Sardegna"
+      }
+    },
+    {
+      "title": "Langoustine in filodeeg met appel, gember en dragon",
+      "slug": "langoustine-filodeeg-appel-dragon",
+      "location": "Bretagne",
+      "time": "35 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/langoustine-filodeeg-appel-dragon.jpg",
+      "short_description": "Langoustine strak ingepakt in krokant filodeeg met een vulling van appel, gember en verse dragon.",
+      "description": "Langoustine is te goed voor een zware saus. Hier wordt hij beschermd door een krokante filomantel die tegelijkertijd de smaak insluit en de textuur bewaakt. De combinatie appel-gember-dragon is geen Aziatisch gebaar — het is puur Frans: friszuur, kruidig en aromatisch.",
+      "ingredient_groups": [
+        {
+          "group_name": "Langoustine",
+          "ingredients": [
+            {
+              "name": "langoustines, gepeld en darmkanaal verwijderd",
+              "amount": "8"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "druppel olijfolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Vulling",
+          "ingredients": [
+            {
+              "name": "Granny Smith appel, geschild en in zeer kleine brunoise",
+              "amount": "½"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse dragon, fijngehakt",
+              "amount": "1 el"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "1 el"
+            },
+            {
+              "name": "limoensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Filodeeg",
+          "ingredients": [
+            {
+              "name": "filodeeg vellen, ontdooid",
+              "amount": "4"
+            },
+            {
+              "name": "ongezouten boter, gesmolten",
+              "amount": "40 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Serveren",
+          "ingredients": [
+            {
+              "name": "dragonboter of druppel bruine boter met dragon",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snuf"
+            },
+            {
+              "name": "citroenpartje",
+              "amount": "4"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vulling maken",
+          "description": "meng appelbrunoise, gember, dragon en crème fraîche. Breng op smaak met limoensap en zout. De vulling moet fris en licht smaken — niet zwaar."
+        },
+        {
+          "action": "Filodeeg snijden en boteren",
+          "description": "snijd elk filodeegvel in twee rechthoeken. Bestrijk met gesmolten boter. Leg een tweede laag erop en bestrijk opnieuw. Twee lagen geven knapperigheid zonder dat het deeg te dik wordt."
+        },
+        {
+          "action": "Langoustines inpakken",
+          "description": "leg een langoustine op het filodeeg, kruid met zout en witte peper, en leg een theelepel vulling erop. Rol strak op — niet losjes — en druk de zijkanten dicht. Het pakketje moet compact zijn."
+        },
+        {
+          "action": "Bakken",
+          "description": "verhit een koekenpan op middelhoog vuur met een klontje boter. Bak de pakketjes rondom goudbruin en krokant — ±2 minuten per kant. Niet te lang: de langoustine mag nog just rosé van binnen zijn."
+        },
+        {
+          "action": "Serveren",
+          "description": "leg twee pakketjes per persoon op een warm bord. Druppel bruine boter met dragon eromheen. Bestrooi met fleur de sel en geef een citroenpartje erbij."
+        }
+      ],
+      "chef_tip": "Bak de pakketjes vlak voor serveren — filodeeg wordt snel slap. En houd de langoustine rosé van binnen: doorgebakken langoustine is rubberachtig. Twee minuten per kant in een hete pan is genoeg.",
+      "wine": {
+        "naam": "Chablis Premier Cru",
+        "druif": "Chardonnay",
+        "toelichting": "De droge kalksteenachtige mineraliteit en appel-citrus tonen van een Chablis Premier Cru sluiten precies aan bij de appel en dragon in de vulling en de delicate smaak van de langoustine. Geen eik, geen boter — alleen frisheid en diepte. Serveer op 10°C.",
+        "alternatief": "Droge Elzasser Riesling of Muscadet Sèvre et Maine sur Lie"
+      }
+    },
+    {
+      "title": "Tonda Romana — dunne Romeinse pizza met zesdaags deeg",
+      "slug": "tonda-romana-pizza",
+      "location": "Roma",
+      "time": "30 min + 6–7 uur fermentatie",
+      "servings": "2 pizza's",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/tonda-romana-pizza.jpg",
+      "short_description": "Flinterdunne Romeinse pizza op 60% hydratatie — krokant, elegant en gebakken op maximale vuur in 90 seconden.",
+      "description": "De Tonda Romana is het tegenovergestelde van Napolitaans: geen luchtbellen, geen zachte rand, geen chewiness. Dun, krokant, elegant. Het deeg wordt uitgerold — niet getost — en gebakken op een vloeropperevlak van 430–450°C. Zes uur fermentatie bij kamertemperatuur maakt het deeg super rekbaar en smaakvol.",
+      "ingredient_groups": [
+        {
+          "group_name": "Deeg (voor 2 pizza's van 320 g)",
+          "ingredients": [
+            {
+              "name": "Caputo Pizzeria of sterke pizzabloem (W300+)",
+              "amount": "430 g"
+            },
+            {
+              "name": "water, kamertemperatuur (60%)",
+              "amount": "258 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "8½ g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "8½ g"
+            },
+            {
+              "name": "droge gist (of 2,5 g verse gist)",
+              "amount": "0,9 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Saus per pizza",
+          "ingredients": [
+            {
+              "name": "San Marzano tomaten uit blik, geplet met de hand",
+              "amount": "65 g"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            },
+            {
+              "name": "oregano",
+              "amount": "snuf"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Gist oplossen",
+          "description": "los de gist op in het water — 10 seconden roeren of in de Thermomix op stand 3. Laat 5 minuten staan."
+        },
+        {
+          "action": "Deeg kneden",
+          "description": "voeg bloem, zout en olijfolie toe. Kneed 5 minuten in de Thermomix op deegstand, of 10 minuten met de hand. Het deeg moet stevig maar soepel zijn — niet plakkerig. Vensterproef: je moet het dun kunnen uitrekken zonder dat het scheurt."
+        },
+        {
+          "action": "Bulkrijs 1 uur",
+          "description": "dek het deeg af en laat 1 uur rijzen als één stuk bij kamertemperatuur."
+        },
+        {
+          "action": "Opbollen en bolrijs",
+          "description": "verdeel in 2 bollen van 320 g. Bol strak op. Leg in een licht beolied bakje of op een met semola bestoven bord. Dek af. Laat 5–5,5 uur rijzen bij kamertemperatuur. Niet aanraken."
+        },
+        {
+          "action": "Oven voorverwarmen",
+          "description": "zet de oven aan op maximale temperatuur (430–450°C vloer, 480–520°C koepel) minstens 45 minuten voor het bakken. Gebruik een pizzasteen of staal."
+        },
+        {
+          "action": "Vormen en beleggen",
+          "description": "rol het deeg uit met een deegroller op een met semola bestoven werkblad — dunner dan je denkt nodig te hebben. Tonda Romana heeft geen rand. Verdeel 65 g saus per pizza in een dunne laag. Beleg naar keuze."
+        },
+        {
+          "action": "Bakken",
+          "description": "schuif de pizza op de steen. Bak 90–120 seconden. De bodem moet krokant en gevlekt zijn, de bovenkant gaar. Snijd in kleine vierkantjes — dat is de Romeinse manier."
+        }
+      ],
+      "chef_tip": "Gebruik zo weinig gist dat je hem bijna niet kunt afwegen — 0,9 g is minder dan een kwart theelepel. Hoe minder gist, hoe langer de fermentatie, hoe meer smaak. En rol het deeg dunner dan je durft: bij het bakken krimpt het licht samen.",
+      "wine": {
+        "naam": "Frascati Superiore",
+        "druif": "Malvasia / Trebbiano",
+        "toelichting": "Een glas Frascati Superiore uit de Castelli Romani — de heuvels net buiten Rome — is de enige logische begeleider van een Tonda Romana. Droog, friszuur, licht nootachtig en goedkoop genoeg om er niet zuinig mee te zijn. Serveer op 10°C.",
+        "alternatief": "Droge Vermentino of een koud Peroni bier"
+      }
     }
   ]
 }
