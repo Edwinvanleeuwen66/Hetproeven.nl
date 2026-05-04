@@ -61,7 +61,7 @@ a { color: inherit; text-decoration: none; }
   position: relative;
   width: 100%;
   height: 300px;
-  background-image: url('/assets/images/MJ_food_1.png');
+  background-image: url('/assets/images/MJ_food_1.jpg');
   background-size: cover;
   background-position: center;
   /* content-visibility helpt browser dit buiten viewport niet te renderen */
