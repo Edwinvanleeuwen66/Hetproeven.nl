@@ -421,12 +421,12 @@
             ${recipe.difficulty ? `<span class="tag tag-acc">${recipe.difficulty}</span>` : ''}
             ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
             <span style="margin-left:auto;display:flex;gap:8px;">
-              <button class="detail-actie-btn${' detail-btn-active' if False else ''}" id="btn-fav-detail"
-                aria-pressed="false" title="Favoriet"
-                onclick="toggleDetailActie('favorieten','${slug}',this)">♥ Favoriet</button>
+              <button class="detail-actie-btn" id="btn-fav-detail"
+                title="Favoriet"
+                onclick="toggleDetailActie('favorieten','${slug}',this)">&#9829; Favoriet</button>
               <button class="detail-actie-btn" id="btn-vandaag-detail"
-                aria-pressed="false" title="Vandaag koken"
-                onclick="toggleDetailActie('vandaag','${slug}',this)">🍳 Vandaag koken</button>
+                title="Vandaag koken"
+                onclick="toggleDetailActie('vandaag','${slug}',this)">&#127859; Vandaag koken</button>
             </span>
           </div>
           <div class="recipe-body">
