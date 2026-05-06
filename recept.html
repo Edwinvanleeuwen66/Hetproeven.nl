@@ -366,10 +366,22 @@
             <div class="step-text"><strong>${step.action}:</strong> ${step.description}</div>
           </div>`).join('');
 
-        const tipHtml = recipe.chef_tip ? `
+        // Tips: gebruik tips-array als die beschikbaar is, anders chef_tip splitsen
+        const tipsData = recipe.tips && recipe.tips.length
+          ? recipe.tips
+          : (recipe.chef_tip ? recipe.chef_tip.split('\n\n').filter(Boolean) : []);
+
+        const tipHtml = tipsData.length ? `
           <div class="chef-tip">
-            <span class="chef-tip-label">Chef tip</span>
-            ${recipe.chef_tip}
+            <span class="chef-tip-label">Tips</span>
+            ${tipsData.map(tip => {
+              // Vet het label (alles voor de eerste dubbele punt)
+              const match = tip.match(/^([^:]+):\s*(.*)/s);
+              if (match) {
+                return \`<p style="margin:0 0 10px 0"><strong>\${match[1]}:</strong> \${match[2]}</p>\`;
+              }
+              return \`<p style="margin:0 0 10px 0">\${tip}</p>\`;
+            }).join('')}
           </div>` : '';
 
         const wine = recipe.wine;
