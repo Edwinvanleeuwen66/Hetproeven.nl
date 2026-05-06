@@ -63,7 +63,17 @@
         <button class="filter-btn-sm" data-filter="Frans">🇫🇷 Frans</button>
         <button class="filter-btn-sm" data-filter="Thais">🇹🇭 Thais</button>
         <button class="filter-btn-sm" data-filter="Chinees">🇨🇳 Chinees</button>
-        <button class="filter-btn-sm" data-filter="Japans">🇯🇵 Japans</button>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="filter-wrap" style="border-bottom:none;padding-bottom:0.5rem;">
+    <div class="filter-row" style="border-bottom:none;padding:0.5rem 0;">
+      <span class="filter-label">Mijn lijst</span>
+      <div class="filter-bar">
+        <button class="filter-btn" id="btn-favorieten" onclick="toggleMijnFilter('favorieten')">♥ Favorieten</button>
+        <button class="filter-btn" id="btn-vandaag" onclick="toggleMijnFilter('vandaag')">🍳 Vandaag koken</button>
       </div>
     </div>
   </div>
@@ -81,6 +91,42 @@
     let allRecipes = [];
     let activeKeuken = 'all';
     let activeCategorie = 'all';
+    let activeMijnFilter = null; // 'favorieten' of 'vandaag'
+
+    // localStorage helpers
+    function loadSet(key) {
+      try { return new Set(JSON.parse(localStorage.getItem(key) || '[]')); } catch { return new Set(); }
+    }
+    function saveSet(key, set) {
+      try { localStorage.setItem(key, JSON.stringify([...set])); } catch {}
+    }
+    let favorieten = loadSet('hp_favorieten');
+    let vandaag    = loadSet('hp_vandaag');
+
+    function toggleSlug(type, slug, btn) {
+      event.preventDefault();
+      event.stopPropagation();
+      const set = type === 'favorieten' ? favorieten : vandaag;
+      const cls = type === 'favorieten' ? 'active' : 'active-vandaag';
+      if (set.has(slug)) { set.delete(slug); btn.classList.remove(cls); }
+      else                { set.add(slug);    btn.classList.add(cls); }
+      saveSet('hp_' + type, set);
+      if (activeMijnFilter === type) renderRecipes();
+    }
+
+    function toggleMijnFilter(type) {
+      if (activeMijnFilter === type) {
+        activeMijnFilter = null;
+        document.getElementById('btn-' + type).classList.remove('active');
+      } else {
+        activeMijnFilter = type;
+        ['favorieten','vandaag'].forEach(t => {
+          document.getElementById('btn-' + t).classList.toggle('active', t === type);
+        });
+      }
+      renderRecipes();
+      initLazyBg();
+    }
 
 
     // ── Lazy loading kaartfoto's ─────────────────────────────────
@@ -111,31 +157,40 @@
       let filtered = allRecipes;
       if (activeKeuken !== 'all') filtered = filtered.filter(r => r.keuken === activeKeuken);
       if (activeCategorie !== 'all') filtered = filtered.filter(r => r.categorie === activeCategorie);
+      if (activeMijnFilter === 'favorieten') filtered = filtered.filter(r => favorieten.has(r.slug));
+      if (activeMijnFilter === 'vandaag')    filtered = filtered.filter(r => vandaag.has(r.slug));
       if (filtered.length === 0) {
         grid.innerHTML = '<p class="empty">Geen recepten gevonden.</p>';
         return;
       }
       grid.innerHTML = filtered.map((r, i) => {
         const wineNaam = r.wine && typeof r.wine === 'object' ? r.wine.naam : r.wine;
-        // Eerste 6 kaartjes laden direct, de rest lazy via IntersectionObserver
         const eager = i < 6;
         const imgAttr = r.image
           ? (eager ? `style="background-image:url(${r.image})"` : `data-bg="${r.image}"`)
           : '';
+        const isFav     = favorieten.has(r.slug);
+        const isVandaag = vandaag.has(r.slug);
         return `
-          <a href="/recepten/${encodeURIComponent(r.slug)}" class="card">
-            <div class="card-img${eager ? '' : ' lazy-bg'}" ${imgAttr}></div>
-            <div class="card-body">
-              <div class="card-loc">${r.location || ''}</div>
-              <div class="card-title">${r.title}</div>
-              <p>${r.short_description || ''}</p>
-              <div class="tags">
-                ${r.time ? `<span class="tag">${r.time}</span>` : ''}
-                ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
-                ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
+          <div class="card-wrap">
+            <a href="/recepten/${encodeURIComponent(r.slug)}" class="card">
+              <div class="card-img${eager ? '' : ' lazy-bg'}" ${imgAttr}></div>
+              <div class="card-body">
+                <div class="card-loc">${r.location || ''}</div>
+                <div class="card-title">${r.title}</div>
+                <p>${r.short_description || ''}</p>
+                <div class="tags">
+                  ${r.time ? `<span class="tag">${r.time}</span>` : ''}
+                  ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
+                  ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
+                </div>
               </div>
+            </a>
+            <div class="card-actions">
+              <button class="card-action-btn${isFav ? ' active' : ''}" title="Favoriet" onclick="toggleSlug('favorieten','${r.slug}',this)">♥</button>
+              <button class="card-action-btn${isVandaag ? ' active-vandaag' : ''}" title="Vandaag koken" onclick="toggleSlug('vandaag','${r.slug}',this)">🍳</button>
             </div>
-          </a>`;
+          </div>`;
       }).join('');
     }
 
