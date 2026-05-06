@@ -374,6 +374,12 @@
 
         const wine = recipe.wine;
         const wineNaam = wine && typeof wine === 'object' ? wine.naam : wine;
+        const variatiesHtml = recipe.variaties ? `
+          <div class="chef-tip" style="margin-top:12px;border-left-color:#7A6A5A;">
+            <span class="chef-tip-label" style="color:#7A6A5A;">Variaties & Alternatieven</span>
+            ${recipe.variaties}
+          </div>` : '';
+
         const wineHtml = wine && typeof wine === 'object' ? `
           <div class="wine-section">
             <div class="wine-section-title">🍷 Wijnadvies</div>
@@ -415,6 +421,7 @@
               <div class="col-h">Bereiding</div>
               ${stepsHtml}
               ${tipHtml}
+              ${variatiesHtml}
             </div>
           </div>
           ${wineHtml}`;

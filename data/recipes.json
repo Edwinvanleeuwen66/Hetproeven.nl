@@ -9584,6 +9584,3011 @@
         "toelichting": "Een glas Frascati Superiore uit de Castelli Romani — de heuvels net buiten Rome — is de enige logische begeleider van een Tonda Romana. Droog, friszuur, licht nootachtig en goedkoop genoeg om er niet zuinig mee te zijn. Serveer op 10°C.",
         "alternatief": "Droge Vermentino of een koud Peroni bier"
       }
+    },
+    {
+      "title": "Lauwwarme oester met ingelegde schorseneer, aardappelchip en Baerii-kaviaar",
+      "slug": "lauwwarme-oester-schorseneer-kaviaar",
+      "location": "Zeeland",
+      "time": "45 min",
+      "servings": "4 amuses",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/lauwwarme-oester-schorseneer-kaviaar.jpg",
+      "short_description": "Warme oester op ingezuurde schorseneer, met een krokante aardappelchip als dakje en een dot crème fraîche met Baerii-kaviaar.",
+      "description": "Eén hap, vier texturen. De lauwwarme oester is het hart — amper aangeraakt door hitte, nog volledig van het water. De ingezuurde schorseneer geeft aards tegenwicht, de chip knapperige structuur, de kaviaar zilte diepte. Serveer op lei of schelp.",
+      "ingredient_groups": [
+        {
+          "group_name": "Ingelegde schorseneer",
+          "ingredients": [
+            {
+              "name": "schorseneer, geschild en in citroenwater gelegd",
+              "amount": "1"
+            },
+            {
+              "name": "witte wijnazijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "water",
+              "amount": "100 ml"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Aardappelchip",
+          "ingredients": [
+            {
+              "name": "Bintje of Agria-aardappel, flinterdun gesneden op mandoline",
+              "amount": "1"
+            },
+            {
+              "name": "zonnebloemolie om te frituren",
+              "amount": "royaal"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Oester en afwerking",
+          "ingredients": [
+            {
+              "name": "verse Zeeuwse creuse oesters, nr. 3",
+              "amount": "4"
+            },
+            {
+              "name": "crème fraîche, vol en ongeslagen",
+              "amount": "4 tl"
+            },
+            {
+              "name": "Baerii-kaviaar",
+              "amount": "8–12 g"
+            },
+            {
+              "name": "verse bieslook, kort",
+              "amount": "4 takjes"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "dun laagje"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Schorseneer inleggen",
+          "description": "schil de schorseneer en leg direct in citroenwater. Snijd met mandoline in 4 flinterdunne plakken (1–2 mm). Breng azijn, water, suiker en zout kort aan de kook tot opgelost. Laat iets afkoelen. Leg de schorseneerschijven minimaal 30 minuten in het pekelvocht."
+        },
+        {
+          "action": "Aardappelchips frituren",
+          "description": "snijd de aardappel op de mandoline in plakken van ±1 mm. Spoel in koud water en dep volledig droog. Frituur op 165–170°C tot goudgeel en krokant. Laat uitlekken op keukenpapier en bestrooi direct met fleur de sel. Selecteer 4 mooie chips."
+        },
+        {
+          "action": "Oester garen",
+          "description": "open de oesters en haal het vlees eruit, dep droog. Verhit een gietijzeren pan op het hoogste vuur. Voeg een dun laagje olie toe. Leg de oester plat en gaar 8–10 seconden aan één kant. Direct van het vuur — de oester moet nog lauwwarm en levend van smaak zijn."
+        },
+        {
+          "action": "Opmaken en serveren",
+          "description": "leg op elk bordje of lepel één schorseneerschijf als basis. Leg de oester erop. Drape de aardappelchip als dakje over de oester. Schep een dot crème fraîche in de holte van de chip. Lepel de kaviaar op de crème fraîche en steek een bieslooktakje schuin erin. Serveer onmiddellijk."
+        }
+      ],
+      "chef_tip": "Dep de oester altijd volledig droog voor hij de pan in gaat — vocht geeft stoom en verhindert de juiste warmteoverdracht. En gebruik de schelp als serveervorm: dat geeft het gerecht direct karakter.",
+      "wine": {
+        "naam": "Champagne Brut Nature",
+        "druif": "Chardonnay, Pinot Noir en/of Pinot Meunier",
+        "toelichting": "Een zeer droge champagne met fijne mousse snijdt door de crème fraîche en de chip, terwijl de mineraliteit naadloos aansluit bij de zilte oester en kaviaar. Brut Nature of Extra Brut — geen suiker, geen concessies. Serveer op 8°C.",
+        "alternatief": "Chablis Premier Cru of droge Crémant de Bourgogne"
+      },
+      "variaties": "Variatie: vervang de schorseneer door een flinterdunne venkelplak of witte asperge — beide geven frisheid en een elegante witte basis. Alternatief: vervang Baerii-kaviaar door forelkuit voor een toegankelijkere versie, of upgrade naar Oscietra voor een intenser, nootachtiger profiel."
+    },
+    {
+      "title": "Ravioli van tarbot en spinazie met champagne-beurre blanc en Baerii-kaviaar",
+      "slug": "ravioli-tarbot-spinazie-champagne-beurre-blanc",
+      "location": "Parijs",
+      "time": "55 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/ravioli-tarbot-spinazie-champagne-beurre-blanc.jpg",
+      "short_description": "Delicate ravioli van wontonvel gevuld met tarbot en spinazie, gedrenkt in een glanzende champagne-beurre blanc met zeekraal en kaviaar.",
+      "description": "Ravioli die smaken naar zee. De vulling van tarbot en geperste spinazie is neutraal en delicaat — de champagne-beurre blanc is het gerecht. Zeekraal geeft een zilte, krokante tegenhanger. Kaviaar op het allerlaatste moment.",
+      "ingredient_groups": [
+        {
+          "group_name": "Ravioli",
+          "ingredients": [
+            {
+              "name": "ronde dim sum-blaadjes of wontonvellen",
+              "amount": "24"
+            },
+            {
+              "name": "eiwit, losgeklopt",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Vulling",
+          "ingredients": [
+            {
+              "name": "tarbotfilet, zonder vel en graten, in kleine blokjes",
+              "amount": "220 g"
+            },
+            {
+              "name": "verse spinazie, geblancheerd, uitgeknepen en fijngehakt",
+              "amount": "80 g"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "boter",
+              "amount": "15 g"
+            },
+            {
+              "name": "volle crème fraîche",
+              "amount": "2 el"
+            },
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "citroenschil, fijn geraspt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zeezout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Champagne-beurre blanc",
+          "ingredients": [
+            {
+              "name": "sjalot, fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "Brut Champagne of droge Crémant",
+              "amount": "175 ml"
+            },
+            {
+              "name": "lichte visfumet",
+              "amount": "100 ml"
+            },
+            {
+              "name": "volle room",
+              "amount": "40 ml"
+            },
+            {
+              "name": "koude boter, in blokjes",
+              "amount": "80 g"
+            },
+            {
+              "name": "reepje citroenschil + paar druppels sap",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "zeekraal, schoongemaakt",
+              "amount": "80 g"
+            },
+            {
+              "name": "Baerii-kaviaar",
+              "amount": "16–20 g"
+            },
+            {
+              "name": "bieslook, in fijne ringetjes",
+              "amount": "1 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vulling maken",
+          "description": "fruit de sjalot zacht in boter. Spinazie droogknijpen — nooit overslaan, vochtige spinazie maakt de vulling waterig. Meng tarbot, spinazie, sjalot, crème fraîche, eidooier, citroenschil en sap. Koel 20 minuten."
+        },
+        {
+          "action": "Ravioli vormen",
+          "description": "leg 12 blaadjes op het werkblad. Schep een kleine theelepel vulling in het midden. Bestrijk de randen met eiwit. Leg een tweede blaadje erop en druk de randen stevig aan. Steek bij met een ronde steker."
+        },
+        {
+          "action": "Beurre blanc maken",
+          "description": "kook champagne, visfumet, sjalot en citroenschil in tot een derde. Voeg room toe, 2 minuten koken. Zeef. Monteer van het vuur met koude boterblokjes — voeg één voor één toe terwijl je klopt. Breng op smaak."
+        },
+        {
+          "action": "Zeekraal en ravioli garen",
+          "description": "blancheer zeekraal 20 seconden in ongezouten water — zeekraal is van nature al zout. Kook de ravioli 2–3 minuten in ruim gezouten water."
+        },
+        {
+          "action": "Serveren",
+          "description": "schep een spiegel beurre blanc op elk warm diep bord. Leg 3 ravioli per bord. Verdeel de zeekraal losjes ertussen. Lepel de kaviaar op de ravioli als finishing. Bestrooi met bieslook. Serveer direct."
+        }
+      ],
+      "chef_tip": "De vulling en sausbasis kunnen een dag van tevoren worden gemaakt. Monteer de beurre blanc en kook de ravioli pas vlak voor serveren. En gebruik een champagne of crémant die je ook zou drinken — de saus proeft precies zoals de fles.",
+      "wine": {
+        "naam": "Chablis Premier Cru",
+        "druif": "Chardonnay",
+        "toelichting": "De krijtige mineraliteit en het heldere zuur van een Chablis Premier Cru sluiten nauw aan op de champagnebouillon en de zilte tonen van zeekraal en kaviaar. Geen hout, geen boter — alleen frisheid en diepte. Serveer op 10°C.",
+        "alternatief": "Pouilly-Fumé of jonge witte Bourgogne"
+      },
+      "variaties": "Variatie: vervang tarbot door kabeljauw of zeebaars voor een toegankelijkere vulling. Alternatief: zeekraal door lamsoor of groene aspergetips — dezelfde zilte frisheid, soms makkelijker verkrijgbaar."
+    },
+    {
+      "title": "Steak tartaar op toast met eidooieremulsie en krokante kappertjes",
+      "slug": "steak-tartaar-toast-eidooieremulsie",
+      "location": "Parijs",
+      "time": "25 min",
+      "servings": "4 amuses",
+      "difficulty": "Makkelijk",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/steak-tartaar-toast-eidooieremulsie.jpg",
+      "short_description": "Verse tartaar op krokant toastdriehoekje met een zijdezachte eidooieremulsie en de zoute crunch van gefrituurde kappertjes.",
+      "description": "Tartaar in zijn puurste amuse-vorm. Het vlees is de hoofdrol — koop het die ochtend bij de keurslager. De eidooieremulsie is rijker dan mayo en zachter dan hollandaise. De gefrituurde kappertjes zijn het verrassingsmoment: zout, krokant, en net iets anders dan verwacht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Tartaar",
+          "ingredients": [
+            {
+              "name": "verse steak tartaar van de keurslager",
+              "amount": "120 g"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "cornichons, fijn gesneden",
+              "amount": "1 tl"
+            },
+            {
+              "name": "kappertjes, fijn gesneden",
+              "amount": "1 tl"
+            },
+            {
+              "name": "goede olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Worcestershire sauce",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "Tabasco",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "platte peterselie, fijn gesneden",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zeezout en zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Eidooieremulsie",
+          "ingredients": [
+            {
+              "name": "verse eidooiers",
+              "amount": "2"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte wijnazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zonnebloemolie",
+              "amount": "100 ml"
+            },
+            {
+              "name": "volle crème fraîche",
+              "amount": "1 el"
+            },
+            {
+              "name": "Worcestershire sauce",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "zeezout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "kleine kappertjes, goed drooggedept",
+              "amount": "2 el"
+            },
+            {
+              "name": "witbrood, geroosterd en in driehoekjes",
+              "amount": "4 sneden"
+            },
+            {
+              "name": "zachte boter",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Eidooieremulsie maken",
+          "description": "klop de eidooiers met mosterd, azijn en citroensap los. Voeg de olie druppelsgewijs toe terwijl je constant klopt tot een gladde emulsie. Roer de crème fraîche en Worcestershire erdoor. Breng op smaak. Bewaar koel."
+        },
+        {
+          "action": "Kappertjes frituren",
+          "description": "dep de kappertjes volledig droog — nat deppen geeft spattende olie. Frituur in hete olie 1–2 minuten tot ze opengesprongen en krokant zijn. Laat uitlekken op keukenpapier."
+        },
+        {
+          "action": "Tartaar mengen en serveren",
+          "description": "meng de tartaar met sjalot, mosterd, cornichons, kappertjes, olijfolie, Worcestershire en Tabasco. Peterselie erdoor. Breng op smaak. Rooster het brood, besmeer met boter en snijd in driehoekjes. Leg tartaar op elk driehoekje, schep een dot emulsie ernaast en bestrooi met krokante kappertjes."
+        }
+      ],
+      "chef_tip": "Meng de tartaar nooit meer dan 5 minuten voor serveren — het vlees oxideert snel en verliest zijn kleur. En gebruik een kleine ijslepel voor een strakke, gelijke hoeveelheid tartaar per toast. Een druppel truffelolie op de emulsie geeft direct meer diepte.",
+      "wine": {
+        "naam": "Champagne Brut",
+        "druif": "Pinot Noir, Chardonnay en/of Pinot Meunier",
+        "toelichting": "De mousse en het zuur van een klassieke Brut Champagne snijden door het vet van de emulsie, terwijl de licht geroosterde gisttonen naadloos aansluiten op de toast. Alles in één glas. Serveer op 8°C.",
+        "alternatief": "Droge Crémant d'Alsace of koele Chablis"
+      },
+      "variaties": "Variatie: voeg fijngesneden appel of extra cornichon door de tartaar voor een frissere, iets zoetere versie. Alternatief: dun geroosterd melkbrood of aardappelbrood werkt uitstekend als vervanging voor pain de mie."
+    },
+    {
+      "title": "Gestoomde eiercustard met coquille in sinaasappelschil",
+      "slug": "gestoomde-eiercustard-coquille-sinaasappel",
+      "location": "Kyoto",
+      "time": "50 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/gestoomde-eiercustard-coquille-sinaasappel.jpg",
+      "short_description": "Zijdezachte eiercustard in de stijl van chawan mushi, gestoomd in een uitgeholde sinaasappelschil met een halve coquille en citrusaroma.",
+      "description": "Chawan mushi — de Japanse gezeefde eiercustard — hier gestoomd in een sinaasappelschil als kom. Het citrusaroma trekt langzaam door de custard terwijl hij gaart. De coquille ligt erin als een parel. Elegant, onverwacht en technisch precies.",
+      "ingredient_groups": [
+        {
+          "group_name": "Sinaasappelschillen",
+          "ingredients": [
+            {
+              "name": "grote sinaasappels (navel of bloedsinaasappel)",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Eiercustard",
+          "ingredients": [
+            {
+              "name": "grote eieren, kamertemperatuur",
+              "amount": "3"
+            },
+            {
+              "name": "lichte visfumet of kippenbouillon",
+              "amount": "250 ml"
+            },
+            {
+              "name": "volle room",
+              "amount": "50 ml"
+            },
+            {
+              "name": "sinaasappelschil, fijn geraspt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zeezout, witte peper en nootmuskaat",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Coquilles en afwerking",
+          "ingredients": [
+            {
+              "name": "grote coquilles, zonder koraal, horizontaal gehalveerd",
+              "amount": "4"
+            },
+            {
+              "name": "bieslook, fijn gesneden",
+              "amount": "1 el"
+            },
+            {
+              "name": "dragon of kervel",
+              "amount": "paar blaadjes"
+            },
+            {
+              "name": "citrusolie of olijfolie",
+              "amount": "paar druppels"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Sinaasappelschillen uithollen",
+          "description": "snijd van elke sinaasappel een deksel af. Hol voorzichtig uit met een lepel en laat een dunne laag vruchtvlees zitten als bescherming. Zet rechtop in een muffinvorm."
+        },
+        {
+          "action": "Custard maken",
+          "description": "verwarm bouillon met room tot net onder het kookpunt. Laat iets afkoelen. Klop de eieren los, voeg de lauwwarme bouillon toe en rasp sinaasappelschil erboven. Zeef door een fijne zeef — dit geeft de zijdezachte textuur."
+        },
+        {
+          "action": "Vullen en stomen",
+          "description": "leg een halve coquille in elke schil. Giet de custard rustig over de coquille tot 1 cm onder de rand. Oven 150°C: sinaasappels in een ovenschaal met kokend water tot halverwege, afdekken met folie, 25–30 minuten stomen. Of stoom 25 minuten op laag vuur. Laat 2 minuten rusten."
+        },
+        {
+          "action": "Serveren",
+          "description": "voeg bieslook, dragon en een druppel citrusolie toe direct voor het serveren. Zet elke sinaasappel rechtop op een klein diep bord of houten onderlegger."
+        }
+      ],
+      "chef_tip": "Voeg de bouillon altijd lauwwarm toe aan de eieren — te heet stolt ze direct en de custard wordt korrelig. En zet de sinaasappels rechtop tijdens het stomen in een muffinvorm, anders kantelen ze.",
+      "wine": {
+        "naam": "Viognier of Condrieu",
+        "druif": "Viognier",
+        "toelichting": "De aromatische rijkdom van een Rhône Viognier met abrikoos, witte bloesem en een vleugje sinaasappel sluit naadloos aan op de citroenschil in de custard. De zachte zuren ondersteunen de coquille zonder haar te overheersen. Serveer op 12°C.",
+        "alternatief": "Rijpe witte Bourgogne of droge Elzasser Pinot Gris"
+      },
+      "variaties": "Variatie: vervang de coquille door 2 grote garnalen per sinaasappel — rauw in de schil leggen en meestomen; garen in exact dezelfde tijd. Alternatief: visfumet vervangen door lichte kippenbouillon geeft een mildere custard. Als serveervorm: kleine pompoen of kokosnoot voor een exotischere presentatie."
+    },
+    {
+      "title": "Sukiyaki — flinterdun ossenhaas in warishita met shiitake, tofu en rauw eigeel",
+      "slug": "sukiyaki-ossenhaas-warishita",
+      "location": "Osaka",
+      "time": "35 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "vlees",
+      "image": "/assets/images/sukiyaki-ossenhaas-warishita.jpg",
+      "short_description": "Flinterdun gesneden ossenhaas even aangeraakt in simmerende warishita met shiitake, zachte tofu en jonge spinazie — gedoopt in rauw eigeel.",
+      "description": "Sukiyaki in zijn meest verfijnde vorm. De warishita-saus — sake, mirin, soja, dashi en suiker — is de ziel van het gerecht. Het vlees wordt er amper in aangeraakt: 10–15 seconden volstaan. Het rauwe eigeel is geen optie maar het handtekening van eeuwenoude Japanse tafeltraditie.",
+      "ingredient_groups": [
+        {
+          "group_name": "Warishita-saus",
+          "ingredients": [
+            {
+              "name": "sake",
+              "amount": "100 ml"
+            },
+            {
+              "name": "mirin",
+              "amount": "100 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "80 ml"
+            },
+            {
+              "name": "dashi (instant)",
+              "amount": "100 ml"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "15 g"
+            },
+            {
+              "name": "plakjes verse gember",
+              "amount": "2"
+            },
+            {
+              "name": "kombu (optioneel)",
+              "amount": "1 stukje"
+            }
+          ]
+        },
+        {
+          "group_name": "Sukiyaki",
+          "ingredients": [
+            {
+              "name": "ossenhaas of entrecôte, flinterdun gesneden (±2 mm)",
+              "amount": "320 g"
+            },
+            {
+              "name": "shiitakes, steeltjes verwijderd",
+              "amount": "8"
+            },
+            {
+              "name": "zachte tofu (silken), in blokjes van 2 cm",
+              "amount": "100 g"
+            },
+            {
+              "name": "jonge spinazie",
+              "amount": "80 g"
+            },
+            {
+              "name": "shirataki-noodles",
+              "amount": "60 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse eidooiers, rauw, elk in apart schaaltje",
+              "amount": "4"
+            },
+            {
+              "name": "lente-uitjes, in dunne schuine ringen",
+              "amount": "2"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "shichimi togarashi (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Warishita maken",
+          "description": "breng sake en mirin aan de kook, 1 minuut laten koken. Voeg sojasaus, dashi, suiker, gember en kombu toe. 8 minuten zacht laten trekken. Zeef en houd warm."
+        },
+        {
+          "action": "Garnituur bereiden",
+          "description": "spoel shirataki, kook 1 minuut in schoon water en giet af — dat verwijdert de typische geur. Bak shiitakes in olie 2 minuten per kant. Blancheer spinazie 20 seconden."
+        },
+        {
+          "action": "Vlees bereiden",
+          "description": "dep de ossenhaas-plakjes droog. Verhit pan op hoog vuur. Bak 10–15 seconden per kant — het vlees mag net van kleur veranderen, meer niet."
+        },
+        {
+          "action": "Opmaken en serveren",
+          "description": "schik per kom shirataki als basis, vlees gevouwen, shiitake, tofu en spinazie. Schenk de warishita aan tafel over het gerecht. Druppel sesamolie, bestrooi met lente-ui. Geef elk bord een apart schaaltje met rauwe eidooier."
+        }
+      ],
+      "chef_tip": "Warishita wordt beter van een dag rusten — maak hem van tevoren. En leg de ossenhaas 30 minuten in de vriezer voor je snijdt: het vlees is dan veel makkelijker op 2 mm te snijden.",
+      "wine": {
+        "naam": "Pinot Noir — Chambolle-Musigny",
+        "druif": "Pinot Noir",
+        "toelichting": "De zachte tannines en aardse tonen van een lichte Bourgogne passen bij het malse vlees en sluiten aan op shiitake en gember in de warishita. Niet te veel structuur — de saus moet de hoofdrol houden. Serveer licht gekoeld op 15°C.",
+        "alternatief": "Junmai Daiginjo sake — droog, zacht en umamirijk"
+      },
+      "variaties": "Variatie: vervang ossenhaas door wagyu voor een intensere smaakbeleving — de vetmarmering absorbeert de warishita prachtig. Alternatief: entrecôte of bavette — meer smaak, iets steviger van textuur. Shirataki vervangen door glasnoedels of weglaten voor een elegantere, lichtere versie."
+    },
+    {
+      "title": "Mini-onigiri in twee smaken: tonijn-Kewpie en garnaal-paprika",
+      "slug": "mini-onigiri-tonijn-garnaal",
+      "location": "Tokyo",
+      "time": "45 min",
+      "servings": "4 amuses",
+      "difficulty": "Makkelijk",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mini-onigiri-tonijn-garnaal.jpg",
+      "short_description": "Twee Japanse rijstballetjes per gast — één met romige tonijn-Kewpie, één met frisse garnaal en geroosterde paprika.",
+      "description": "Onigiri als amuse: twee balletjes, twee smaken, twee karakters. De tonijn-Kewpie is romig en zacht, de garnaal-paprika fris en licht pittig. Nori op het allerlaatste moment — een kwartier eerder en hij is al slap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Sushirijst",
+          "ingredients": [
+            {
+              "name": "sushirijst",
+              "amount": "250 g"
+            },
+            {
+              "name": "water",
+              "amount": "330 ml"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "2 el"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Tonijn-Kewpie vulling",
+          "ingredients": [
+            {
+              "name": "tonijn uit blik op water, goed uitgelekt",
+              "amount": "100 g"
+            },
+            {
+              "name": "Kewpie-mayonaise",
+              "amount": "1½ el"
+            },
+            {
+              "name": "lente-ui, zeer fijn gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "geroosterd sesamzaad",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "½ tl"
+            },
+            {
+              "name": "citroensap en zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Garnaal-paprika vulling",
+          "ingredients": [
+            {
+              "name": "kleine gare garnalen, fijngehakt",
+              "amount": "100 g"
+            },
+            {
+              "name": "geroosterde paprika uit blik, fijn gesneden en drooggedept",
+              "amount": "50 g"
+            },
+            {
+              "name": "Kewpie-mayonaise",
+              "amount": "1 tl"
+            },
+            {
+              "name": "bieslook, fijn gesneden",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lichte sojasaus en citroensap",
+              "amount": "½ tl elk"
+            },
+            {
+              "name": "wasabipasta",
+              "amount": "1 mespuntje"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "nori, in kleine rechthoekjes",
+              "amount": "1–2 vellen"
+            },
+            {
+              "name": "geroosterd sesamzaad en bieslookringen",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rijst koken en op smaak brengen",
+          "description": "spoel sushirijst meerdere keren tot het water helder is. Kook: breng aan de kook, vuur laag, 12 minuten dek op de pan, dan 10 minuten rusten. Meng rijstazijn, suiker en zout tot opgelost. Schep door de rijst en laat op kamertemperatuur afkoelen."
+        },
+        {
+          "action": "Vullingen maken",
+          "description": "meng alle ingrediënten voor de tonijnvulling. Meng alle ingrediënten voor de garnalenulling. Houd koel."
+        },
+        {
+          "action": "Onigiri vormen",
+          "description": "maak handen vochtig met water. Neem ±55 g rijst in de handpalm, maak een kuiltje, leg een theelepel vulling erin en sluit met rijst. Druk compact tot een rond balletje. Herhaal."
+        },
+        {
+          "action": "Serveren",
+          "description": "leg de nori pas vlak voor serveren op elk balletje. Per persoon 2 onigiri naast elkaar: links tonijn, rechts garnaal. Bestrooi met sesam en bieslook als visueel onderscheid."
+        }
+      ],
+      "chef_tip": "Houd handen regelmatig vochtig tijdens het vormen — droge handen plakken de rijst. En maak de vullingen gerust een dag eerder: de rijst vormt pas vlak voor serveren.",
+      "wine": {
+        "naam": "Champagne Brut",
+        "druif": "Chardonnay, Pinot Noir en/of Pinot Meunier",
+        "toelichting": "Een klassieke Brut is veelzijdig genoeg voor beide smaken tegelijk. De mousse snijdt door de Kewpie, de gisttonen sluiten aan op de sushirijst. Serveer op 8°C.",
+        "alternatief": "Droge sake — Junmai of Junmai Ginjo, koel geserveerd"
+      },
+      "variaties": "Variatie: vervang tonijn uit blik door fijngesneden zalm-tartaar of avocado-wasabicrème voor een luxere of vegetarische variant. Alternatief voor wasabi: een mespuntje mierikswortel geeft vergelijkbare scherpte."
+    },
+    {
+      "title": "Chirashi-sushi met coquille, garnaal en tonijn",
+      "slug": "chirashi-sushi-coquille-garnaal-tonijn",
+      "location": "Tokyo",
+      "time": "50 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/chirashi-sushi-coquille-garnaal-tonijn.jpg",
+      "short_description": "Gezuurde sushirijst als warme basis met goudbruin aangebakken coquille, garnalen, aangemaakte tonijn, omeletlinten en avocado.",
+      "description": "Chirashi is Japan in een kom: rijst als canvas, toppings als kleurenwiel. De coquille is het middelpunt — goudbruin aan de buitenkant, rosé van binnen. De omeletlinten geven warmte, de avocado romigheid, de ingelegde gember het frisse accent.",
+      "ingredient_groups": [
+        {
+          "group_name": "Sushirijst",
+          "ingredients": [
+            {
+              "name": "sushirijst",
+              "amount": "200 g"
+            },
+            {
+              "name": "water",
+              "amount": "260 ml"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "3 el"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "¾ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Omeletlinten",
+          "ingredients": [
+            {
+              "name": "eieren",
+              "amount": "2"
+            },
+            {
+              "name": "mirin",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "½ tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Toppings",
+          "ingredients": [
+            {
+              "name": "grote coquilles, zonder koraal",
+              "amount": "4"
+            },
+            {
+              "name": "grote garnalen, gepeld en gekookt",
+              "amount": "8"
+            },
+            {
+              "name": "lichte sojasaus + sesamolie + rijstazijn (voor garnalen)",
+              "amount": "½ tl elk"
+            },
+            {
+              "name": "tonijn uit blik, uitgelekt",
+              "amount": "100 g"
+            },
+            {
+              "name": "lichte sojasaus + sesamolie + citroensap + bieslook (voor tonijn)",
+              "amount": "1 tl elk"
+            },
+            {
+              "name": "rijpe avocado, in dunne plakken",
+              "amount": "½"
+            },
+            {
+              "name": "komkommer, flinterdun gesneden",
+              "amount": "½"
+            },
+            {
+              "name": "ingelegde gember",
+              "amount": "4 plakjes"
+            },
+            {
+              "name": "nori, in dunne reepjes",
+              "amount": "1 vel"
+            },
+            {
+              "name": "zwart en wit sesamzaad, bieslook of lente-ui",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rijst koken",
+          "description": "spoel rijst, kook 12 minuten op laag vuur met deksel, 10 minuten rusten. Meng azijn, suiker en zout. Schep door de rijst op handwarme temperatuur — nooit koud serveren."
+        },
+        {
+          "action": "Omeletlinten maken",
+          "description": "klop eieren met mirin en soja. Bak dunne omeletjes in een beetje olie. Volledig laten afkoelen, oprollen en in dunne linten snijden."
+        },
+        {
+          "action": "Garnalen en tonijn aanmaken",
+          "description": "marineer garnalen in soja, sesamolie en rijstazijn. Meng tonijn met soja, sesamolie, citroensap en bieslook."
+        },
+        {
+          "action": "Coquilles bakken",
+          "description": "dep de coquilles droog. Verhit pan op hoog vuur met olie. Bak 1 minuut per kant zonder te bewegen. Klontje boter toevoegen en kort lepelen. Coquilles moeten goudbruin zijn van buiten, rosé van binnen."
+        },
+        {
+          "action": "Serveren",
+          "description": "verdeel rijst over kommen. Rangschik toppings in kleurvlakken: geel omelet, groen avocado en komkommer, roze garnaal, goudbruin coquille als kroon in het midden. Nori, sesam en bieslook als finishing."
+        }
+      ],
+      "chef_tip": "Rijst is op zijn best op handwarme temperatuur — niet koud, niet heet. Laat hem na het aanmaken rusten onder een vochtige doek. En bak de coquilles op het allerlaatste moment: een minuut per kant, niet meer.",
+      "wine": {
+        "naam": "Riesling Kabinett",
+        "druif": "Riesling",
+        "toelichting": "De frisse zuren en citrusmineraliteit van een Moezel Riesling Kabinett snijden door de rijkdom van avocado en de boterige coquille, terwijl de aromatiek aansluit op sojasaus en sesam. Serveer gekoeld op 9°C.",
+        "alternatief": "Droge sake of strakke Grüner Veltliner"
+      },
+      "variaties": "Variatie: voeg forelkuit of Baerii-kaviaar naast de coquille toe voor een luxere uitstraling. Alternatief voor coquille: kort aangebakken reuzengarnaal of langoustine. Alternatief voor tonijn: dunne plakken avocado aangemaakt met wasabi en soja voor een vegetarische versie."
+    },
+    {
+      "title": "Japanse rundvleessalade met rosbief, daikon en wasabi-dashi vinaigrette",
+      "slug": "japanse-rundvleessalade-rosbief-daikon-wasabi",
+      "location": "Tokyo",
+      "time": "25 min",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Japans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/japanse-rundvleessalade-rosbief-daikon-wasabi.jpg",
+      "short_description": "Flinterdun gesneden rosbief met knapperige daikon, ingelegde rode ui en een scherpe wasabi-dashi vinaigrette.",
+      "description": "Een Japans geïnspireerd voorgerecht dat sneller klaar is dan het eruitziet. De wasabi-dashi vinaigrette is het geheim: precies de scherpte die het vlees wakker maakt, de zoetheid die het tempert. Daikon geeft de knapperige tegenhanger.",
+      "ingredient_groups": [
+        {
+          "group_name": "Rosbief",
+          "ingredients": [
+            {
+              "name": "rosbief, flinterdun gesneden",
+              "amount": "200 g"
+            },
+            {
+              "name": "lichte sojasaus en sesamolie (vlak voor serveren)",
+              "amount": "½ tl elk"
+            }
+          ]
+        },
+        {
+          "group_name": "Salade",
+          "ingredients": [
+            {
+              "name": "witte rammenas (daikon), geschild en in julienne",
+              "amount": "200 g"
+            },
+            {
+              "name": "Chinese kool, in dunne repen",
+              "amount": "4 blaadjes"
+            },
+            {
+              "name": "rode ui, in flinterdunne ringen",
+              "amount": "½"
+            },
+            {
+              "name": "witte wijnazijn",
+              "amount": "3 el"
+            },
+            {
+              "name": "fijne kristalsuiker en fijn zout",
+              "amount": "1 tl elk"
+            }
+          ]
+        },
+        {
+          "group_name": "Wasabi-dashi vinaigrette",
+          "ingredients": [
+            {
+              "name": "witte wijnazijn",
+              "amount": "2 el"
+            },
+            {
+              "name": "dashi (instant)",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "mirin",
+              "amount": "1 el"
+            },
+            {
+              "name": "neutrale olie en sesamolie",
+              "amount": "1 tl elk"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "honing",
+              "amount": "1 tl"
+            },
+            {
+              "name": "wasabipasta",
+              "amount": "1½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterd wit en zwart sesamzaad",
+              "amount": "1 tl elk"
+            },
+            {
+              "name": "shiso, waterkers of microgreens",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rode ui inleggen",
+          "description": "breng azijn, suiker en zout aan de kook. Laat iets afkoelen en leg de uiringen minimaal 15 minuten in het pekelvocht."
+        },
+        {
+          "action": "Daikon voorbereiden",
+          "description": "snijd daikon in julienne. Leg 5 minuten in ijskoud water voor extra knapperigheid. Droogdeppen."
+        },
+        {
+          "action": "Vinaigrette maken",
+          "description": "klop azijn, dashi, soja, mirin, oliën, gember, honing en wasabipasta tot een gladde vinaigrette. Proef: wasabi geeft warmte, honing balanceert de scherpte. Begin voorzichtig."
+        },
+        {
+          "action": "Serveren",
+          "description": "bestrijk de rosbief-plakjes vlak voor serveren licht met soja en sesamolie. Meng daikon en kool lichtjes met een deel vinaigrette. Leg op koud bord. Drapeer de rosbief er elegant over als bloemblaadjes. Drizzle resterende vinaigrette. Sesam, ingelegde ui en microgreens als finishing."
+        }
+      ],
+      "chef_tip": "Bestrijk de rosbief niet vooraf — alleen vlak voor het opmaken. Eerder marineren trekt het vocht eruit en geeft een grijze kleur. Vinaigrette en ingelegde ui kunnen de dag ervoor gemaakt worden.",
+      "wine": {
+        "naam": "Pinot Noir — Bourgogne of Elzas",
+        "druif": "Pinot Noir",
+        "toelichting": "Een elegante, licht gekoelde Pinot Noir met zachte tannines sluit aan op het vlees terwijl de frisheid snijdt door de sesamolie en wasabi. Aardse tonen bij de daikon en de sojasaus. Serveer op 14°C.",
+        "alternatief": "Droge Riesling Kabinett — mineraliteit en frisheid werken verrassend goed naast wasabi"
+      },
+      "variaties": "Variatie: vervang rosbief door tataki-stijl entrecôte of bavette — kort aangebakken, rosé van binnen. Alternatief voor daikon: rettich, koolrabi of witte venkel geven dezelfde frisse crunch. Kant-en-klare rosbief van de slager werkt uitstekend — vraag om extra dun gesneden plakken."
+    },
+    {
+      "title": "Japanse aardappelsalade met wasabi-Kewpie dressing en komkommer",
+      "slug": "japanse-aardappelsalade-wasabi-kewpie",
+      "location": "Osaka",
+      "time": "25 min",
+      "servings": "4 amuses",
+      "difficulty": "Makkelijk",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/japanse-aardappelsalade-wasabi-kewpie.jpg",
+      "short_description": "Romige Japanse aardappelsalade met Kewpie, crème fraîche, wasabi en limoenrasp — knapperige komkommer als tegenhanger.",
+      "description": "De Japanse tegenhanger van onze aardappelsalade — romiger, frisser en met karakter. Kewpie en crème fraîche vormen de basis, wasabi geeft warmte, limoenrasp helderheid. De aardappelen worden de dag ervoor gekookt: betere textuur, altijd.",
+      "ingredient_groups": [
+        {
+          "group_name": "Aardappelsalade",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappelen, in de schil gekookt (dag ervoor)",
+              "amount": "350 g"
+            },
+            {
+              "name": "komkommer, zaadlijst verwijderd, in kleine blokjes",
+              "amount": "½"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Wasabi-Kewpie dressing",
+          "ingredients": [
+            {
+              "name": "Kewpie-mayonaise",
+              "amount": "50 g"
+            },
+            {
+              "name": "volle crème fraîche",
+              "amount": "30 g"
+            },
+            {
+              "name": "wasabipasta",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "koude dashi (instant)",
+              "amount": "2 el"
+            },
+            {
+              "name": "limoenrasp",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zeezout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterd zwart sesamzaad",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lente-ui, in flinterdunne ringen",
+              "amount": "1"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "flinterdunne komkommerplakjes",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Aardappelen koken en rusten",
+          "description": "kook de aardappelen in de schil gaar. Laat een nacht afkoelen in de koelkast. Pellen en in blokjes van 2 cm snijden — koude aardappelen snijden schoner en nemen dressing beter op."
+        },
+        {
+          "action": "Komkommer zouten",
+          "description": "bestrooi de komkommerblokjes met zout en laat 10 minuten staan. Goed uitknijpen — natte komkommer maakt de salade waterig."
+        },
+        {
+          "action": "Dressing en mengen",
+          "description": "roer Kewpie, crème fraîche, wasabipasta, soja, azijn, dashi en limoenrasp tot een gladde dressing. Proef: voeg pas zout toe na het proeven. Schep aardappel en komkommer voorzichtig door de dressing. 10 minuten laten rusten."
+        },
+        {
+          "action": "Serveren",
+          "description": "schep met een ijslepel in kleine koele schaaltjes. Bestrooi met zwart sesam, lente-ui en een druppel sesamolie. Leg een flinterdun komkommerplakje naast het schaaltje."
+        }
+      ],
+      "chef_tip": "Kook de aardappelen altijd de dag ervoor — de textuur is steviger en de salade blijft beter in vorm. Als de dressing na een poosje indikt: een scheutje koude dashi erdoor voor serveren.",
+      "wine": {
+        "naam": "Grüner Veltliner",
+        "druif": "Grüner Veltliner",
+        "toelichting": "De levendige citrusfrisheid en de subtiele witpepertoon van een Oostenrijkse Grüner Veltliner snijden door de Kewpie en crème fraîche, terwijl de kruidige afdronk aansluit bij wasabi en lente-ui. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Droge sake of Blanc de Blancs Crémant"
+      },
+      "variaties": "Variatie: voeg fijngesneden garnaal, krab of gerookte forel toe voor een luxere amuseversie. Alternatief voor Kewpie: gewone volle mayo + theelepel sesamolie + druppel rijstazijn. Alternatief voor wasabi: mierikswortel geeft vergelijkbare scherpte."
+    },
+    {
+      "title": "Butadon — varkenshaas in huisgemaakte teriyakisaus met frisse spitskool en rijst",
+      "slug": "butadon-varkenshaas-teriyaki",
+      "location": "Obihiro",
+      "time": "35 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/butadon-varkenshaas-teriyaki.jpg",
+      "short_description": "Varkenshaas-medallions geglazuurd in zelfgemaakte teriyakisaus met bruine suiker, gember en geroosterde ui — op rijst met frisse spitskool.",
+      "description": "Butadon, de Japanse varkens-donburi. De teriyakisaus wordt hier van nul gemaakt: sake, mirin, soja, palmsuiker, gember en kippenfond. De spitskool geeft het lichte, frisse tegenwicht dat de rijke saus nodig heeft.",
+      "ingredient_groups": [
+        {
+          "group_name": "Japanse rijst",
+          "ingredients": [
+            {
+              "name": "Japanse kortkorrelige rijst",
+              "amount": "200 g"
+            },
+            {
+              "name": "water",
+              "amount": "260 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Teriyakisaus",
+          "ingredients": [
+            {
+              "name": "lichte sojasaus",
+              "amount": "60 ml"
+            },
+            {
+              "name": "mirin",
+              "amount": "60 ml"
+            },
+            {
+              "name": "sake",
+              "amount": "40 ml"
+            },
+            {
+              "name": "bruine suiker",
+              "amount": "1½ el"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookteen, licht gekneusd",
+              "amount": "½"
+            },
+            {
+              "name": "lichte groentebouillon",
+              "amount": "100 ml"
+            },
+            {
+              "name": "rijstazijn (aan het einde)",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Varkenshaas",
+          "ingredients": [
+            {
+              "name": "varkenshaas, in medallions van 3 cm",
+              "amount": "400 g"
+            },
+            {
+              "name": "uien, in dunne halve ringen, gekaramelliseerd",
+              "amount": "2"
+            },
+            {
+              "name": "neutrale olie en klontje boter",
+              "amount": "1 el elk"
+            },
+            {
+              "name": "zeezout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Frisse spitskool",
+          "ingredients": [
+            {
+              "name": "spitskool, flinterdun gesneden",
+              "amount": "200 g"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout en suiker",
+              "amount": "snuf"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Spitskool aanmaken",
+          "description": "meng spitskool met azijn, zout en suiker. 15 minuten laten staan, licht uitknijpen. Koud bewaren."
+        },
+        {
+          "action": "Teriyakisaus maken",
+          "description": "breng sojasaus, mirin, sake, bruine suiker, gember, knoflook en bouillon aan de kook. 6–8 minuten inkoken tot licht stroperig. Verwijder knoflook. Rijstazijn altijd als allerlaatste toevoegen — geeft frisheid."
+        },
+        {
+          "action": "Uien karamelliseren",
+          "description": "bak de uien 8–10 minuten langzaam goudbruin — neem de tijd. Te snel gebakken mist de diepe zoetheid. Voeg warme teriyakisaus toe en laat glazuren."
+        },
+        {
+          "action": "Varkenshaas bakken en glazuren",
+          "description": "dep medallions droog. Bak 2 minuten per kant op hoog vuur. Klontje boter toevoegen en lepelen. Uit de pan, 3 minuten rusten. Terug in de saus met ui — 1–2 minuten glazuren op laag vuur. Van binnen mag hij licht roze blijven."
+        },
+        {
+          "action": "Serveren",
+          "description": "rijst als compacte basis in de donburi-kom. Medallions licht overlappend erop. Saus en ui erover. Spitskoolnestje als fris groen accent ernaast. Sesam en lente-ui als finishing."
+        }
+      ],
+      "chef_tip": "Varkenshaas nooit te lang bakken — van binnen roze is perfect, doorbakken is droog. En voeg de rijstazijn altijd als allerlaatste toe aan de saus: die frisheid verdampt bij verhitting.",
+      "wine": {
+        "naam": "Spätburgunder",
+        "druif": "Pinot Noir",
+        "toelichting": "Een lichte, sappige Spätburgunder licht gekoeld geserveerd — de zachte tannines gaan mee met het malse vlees, de fruitigheid complementeert de zoet-hartige teriyakisaus. Serveer op 14°C.",
+        "alternatief": "Junmai sake, koel geserveerd"
+      },
+      "variaties": "Variatie: vervang varkenshaas door kippendij voor een sappiger, sneller te bereiden versie. Alternatief: kant-en-klare teriyakisaus (Kikkoman) als basis + verse gember + rijstazijn bespaart tijd. Alternatief voor spitskool: licht geblancheerde paksoi of Chinese kool."
+    },
+    {
+      "title": "Gyudon — entrecôte met gesmoorde ui, paddenstoelen en ingelegde rode rammenas",
+      "slug": "gyudon-entrecote-ui-paddenstoelen",
+      "location": "Tokyo",
+      "time": "35 min + rammenas dag ervoor",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/gyudon-entrecote-ui-paddenstoelen.jpg",
+      "short_description": "Flinterdun gesneden entrecôte 30 seconden in dashi-soja-mirinsaus met gekaramelliseerde ui en paddenstoelen — afgewerkt met felroze ingelegde rammenas.",
+      "description": "Gyudon lichter en gemberiger dan de butadon. De saus is bouillonachtiger en minder stroperig. Het vlees gaat er pas 30 seconden in — langer maakt het taai. De felroze ingelegde rammenas is het visuele handtekening en het frisse tegenwicht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Ingelegde rode rammenas (dag ervoor)",
+          "ingredients": [
+            {
+              "name": "rode rammenas of rode radijsjes, in flinterdunne plakjes",
+              "amount": "150 g"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Gyudon-saus",
+          "ingredients": [
+            {
+              "name": "dashi (instant)",
+              "amount": "250 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "60 ml"
+            },
+            {
+              "name": "mirin",
+              "amount": "50 ml"
+            },
+            {
+              "name": "sake",
+              "amount": "40 ml"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "20 g"
+            },
+            {
+              "name": "gedroogde shiitakes (30 min geweekt, weekvocht bewaard)",
+              "amount": "2"
+            },
+            {
+              "name": "rijstazijn (aan het einde)",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Vlees en garnituur",
+          "ingredients": [
+            {
+              "name": "entrecôte, flinterdun gesneden (±2–3 mm)",
+              "amount": "320 g"
+            },
+            {
+              "name": "uien, in dunne halve ringen",
+              "amount": "2"
+            },
+            {
+              "name": "gemengde verse paddenstoelen",
+              "amount": "100 g"
+            },
+            {
+              "name": "Japanse kortkorrelige rijst, gekookt",
+              "amount": "200 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "lente-ui en geroosterd sesam",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rammenas inleggen",
+          "description": "los azijn, suiker en zout op. Leg de rammenasplakjes erin en laat een nacht marineren in de koelkast — de felroze kleur ontwikkelt zich langzaam."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "knijp de shiitakes uit en snijd ze. Bewaar het weekvocht — pure umami. Breng dashi, soja, mirin, sake, suiker, gember, shiitakes en weekvocht 8 minuten zacht aan de kook. Rijstazijn als allerlaatste."
+        },
+        {
+          "action": "Uien en paddenstoelen bakken",
+          "description": "bak de uien 8–10 minuten langzaam goudbruin. Paddenstoelen 3 minuten meebakken. Saus erbij, 5 minuten sudderen."
+        },
+        {
+          "action": "Vlees kort garen en serveren",
+          "description": "leg de entrecôte-plakjes 30–45 seconden in de simmerende saus — zodra ze van kleur veranderen, van het vuur. Schik rijst in donkere kommen. Vlees met ui en paddenstoelen erop. Saus erover. Felroze rammenas als middelpunt. Lente-ui en sesam als finishing."
+        }
+      ],
+      "chef_tip": "Shiitake-weekvocht nooit weggooien — het geeft extra umami die je nergens anders vandaan krijgt. En houd de saus bouillonachtig en licht, niet dik of stroperig: gyudon is bewust lichter dan butadon.",
+      "wine": {
+        "naam": "Beaujolais Cru — Morgon of Fleurie",
+        "druif": "Gamay",
+        "toelichting": "Een levendige Gamay licht gekoeld — de frisse zuren werken bij de dashi-sojasaus, de aardse tonen sluiten aan op paddenstoelen en gember. Genoeg vrolijkheid voor het frisse karakter van de ingelegde rammenas. Serveer op 13°C.",
+        "alternatief": "Junmai sake, koel geserveerd"
+      },
+      "variaties": "Variatie: vervang entrecôte door varkenshaas voor een butadon-variant, of wagyu voor ultieme luxe. Alternatief: verse shiitake i.p.v. gedroogde — langer bakken voor karamelisatie, weekvocht vervangen door extra dashi."
+    },
+    {
+      "title": "Tamagoyaki — gelaagde Japanse rolomelet met wasabi-soja en gemarineerde radijs",
+      "slug": "tamagoyaki-rolomelet-wasabi-soja",
+      "location": "Kyoto",
+      "time": "30 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/tamagoyaki-rolomelet-wasabi-soja.jpg",
+      "short_description": "Japanse rolomelet opgebouwd in dunne lagen met dashi, mirin en soja — strakke spiraalsnijvlakken, wasabi-sojadiep en gemarineerde radijs.",
+      "description": "Tamagoyaki vereist geduld en een lage vlam. Dunne laag na dunne laag wordt opgerold tot een strakke rechthoekige rol. Het eidooieroppervlak glanst, het spiraalpatroon is zichtbaar in elke plak. De wasabi-sojadiep is het pittige contrast.",
+      "ingredient_groups": [
+        {
+          "group_name": "Tamagoyaki",
+          "ingredients": [
+            {
+              "name": "grote eieren",
+              "amount": "8"
+            },
+            {
+              "name": "dashi (instant)",
+              "amount": "80 ml"
+            },
+            {
+              "name": "mirin",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Gemarineerde radijs",
+          "ingredients": [
+            {
+              "name": "radijsjes, in flinterdunne reepjes",
+              "amount": "6"
+            },
+            {
+              "name": "lente-ui, in schuine ringen",
+              "amount": "1"
+            },
+            {
+              "name": "rijstazijn, zout en suiker",
+              "amount": "1 tl elk"
+            }
+          ]
+        },
+        {
+          "group_name": "Wasabi-soja dipsaus",
+          "ingredients": [
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 el"
+            },
+            {
+              "name": "mirin, kort verwarmd",
+              "amount": "1 el"
+            },
+            {
+              "name": "dashi",
+              "amount": "1 el"
+            },
+            {
+              "name": "wasabipasta",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "paar druppels"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Dipsaus en radijs voorbereiden",
+          "description": "meng alle ingrediënten voor de dipsaus en bewaar koel. Marineer de radijs met azijn, zout en suiker — 10 minuten, daarna uitlekken."
+        },
+        {
+          "action": "Eimengsel maken",
+          "description": "klop de eieren rustig — niet kloppen tot het schuimt, alleen tot het egaal is. Voeg dashi, mirin, soja en suiker toe. Zeef door een fijne zeef — dit geeft een volkomen gladde, zijdezachte structuur."
+        },
+        {
+          "action": "Rolomelet maken",
+          "description": "verhit een rechthoekige of ronde pan op matig vuur. Licht invetten met olie. Giet een dunne laag eimengsel. Laat stollen tot de bovenkant licht glanst — niet droog. Rol op. Pan opnieuw invetten. Nieuwe laag gieten, til de rol op zodat het verse ei eronder loopt. Herhalen tot het eimengsel op is."
+        },
+        {
+          "action": "Vormen en snijden",
+          "description": "rol de tamagoyaki in een sushimat en druk strak. 5 minuten rusten. In gelijkmatige plakken snijden — veeg het mes na elke snede schoon voor strakke snijvlakken. Serveer met gemarineerde radijs en dipsaus apart."
+        }
+      ],
+      "chef_tip": "De 80 ml dashi in het eimengsel geeft die typische custard-achtige zijdezachte binnenkant — minder dashi geeft een drogere, gewonere omelet. En bak altijd op matig vuur: te hoog geeft bruine vlekken die het spiraalpatroon verpesten.",
+      "wine": {
+        "naam": "Riesling Kabinett",
+        "druif": "Riesling",
+        "toelichting": "De hoge zuurgraad en citrusnoten van een droge Moezel Riesling snijden door de zoetheid van de tamagoyaki. Citrustoetsen sluiten aan op de wasabi-sojadiep. Serveer ijskoud op 8°C.",
+        "alternatief": "Grüner Veltliner Federspiel of Junmai Ginjo sake"
+      },
+      "variaties": "Variatie: leg een vel nori tussen twee eilagen voor een mooie zwarte spiraal in de plak — visueel indrukwekkend. Alternatief: geen rechthoekige tamagoyaki-pan? Gebruik een kleine ronde pan en vorm de rol met een sushimat."
+    },
+    {
+      "title": "Krokant rijstblokje met spicy tonijncrème",
+      "slug": "krokant-rijstblokje-spicy-tonijncreme",
+      "location": "Tokyo",
+      "time": "45 min + 2 uur koelen",
+      "servings": "4 amuses",
+      "difficulty": "Makkelijk",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/krokant-rijstblokje-spicy-tonijncreme.jpg",
+      "short_description": "Goudbruin gebakken sushirijstblokje — krokant van buiten, zacht van binnen — gekroond met spicy tonijncrème van Kewpie en sriracha.",
+      "description": "Het rijstblokje moet direct uit de koelkast in de hete pan. Koude rijst bakt krokanter. De tonijncrème blijft koud tot het allerlaatste moment — het temperatuurcontrast is het punt. Twee blokjes per gast, één hap per blokje.",
+      "ingredient_groups": [
+        {
+          "group_name": "Krokante rijstblokjes",
+          "ingredients": [
+            {
+              "name": "sushirijst",
+              "amount": "200 g"
+            },
+            {
+              "name": "water",
+              "amount": "260 ml"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "2 el"
+            },
+            {
+              "name": "fijne kristalsuiker en fijn zout",
+              "amount": "1 tl en ½ tl"
+            },
+            {
+              "name": "neutrale olie, ruim",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Spicy tonijncrème",
+          "ingredients": [
+            {
+              "name": "tonijn uit blik op water, zeer goed uitgelekt",
+              "amount": "160 g"
+            },
+            {
+              "name": "Kewpie-mayonaise",
+              "amount": "2 el"
+            },
+            {
+              "name": "sriracha",
+              "amount": "1 tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "½ tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lente-uitjes, zeer fijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "geroosterd wit sesamzaad",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterd zwart sesamzaad en lente-ui",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "chili-olie (optioneel)",
+              "amount": "paar druppels"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rijst koken en persen",
+          "description": "kook sushirijst en breng op smaak met azijn-suiker-zout. Druk stevig aan in een met folie beklede bak van ±2 cm dik. Minimaal 2 uur koelen — de rijst moet compact en koud zijn."
+        },
+        {
+          "action": "Tonijncrème maken",
+          "description": "druk de tonijn extra droog voor mengen. Meng met Kewpie, sriracha, limoensap, sesamolie, soja, lente-ui en sesam. Koud bewaren tot het allerlaatste moment."
+        },
+        {
+          "action": "Rijstblokjes snijden en bakken",
+          "description": "snijd de rijst in 8 gelijke rechthoeken (±5×3 cm) met een nat mes. Verhit ruim olie. Leg de blokjes DIRECT uit de koelkast in de hete olie — 2–3 minuten per kant tot goudbruin en krokant."
+        },
+        {
+          "action": "Serveren",
+          "description": "schep tonijncrème op elk blokje. Zwart sesam en lente-ui erop. Druppel eventueel chili-olie. Serveer onmiddellijk — krokanteid is vergankelijk."
+        }
+      ],
+      "chef_tip": "Koud rijstblokje direct uit de koelkast in de pan — nooit op kamertemperatuur laten komen voor het bakken. Koude rijst bakt korsteriger en valt minder uit elkaar. Tonijncrème koud houden tot het laatste moment: het temperatuurcontrast is het punt.",
+      "wine": {
+        "naam": "Champagne Brut",
+        "druif": "Chardonnay, Pinot Noir en/of Pinot Meunier",
+        "toelichting": "De fijne mousse en heldere zuren snijden door Kewpie en sesamolie, terwijl de frisheid de sriracha tempert zonder hem te doven. Serveer ijskoud op 7°C.",
+        "alternatief": "Crémant d'Alsace Brut"
+      },
+      "variaties": "Variatie: voeg jalapeño of ingelegde gember bovenop voor extra spanning. Alternatief voor sriracha: sambal oelek geeft vergelijkbare hitte met meer diepte."
+    },
+    {
+      "title": "Japans gevuld ei met miso-Kewpie emulsie en forelkuit",
+      "slug": "japans-gevuld-ei-miso-kewpie-forelkuit",
+      "location": "Tokyo",
+      "time": "25 min",
+      "servings": "4 amuses",
+      "difficulty": "Makkelijk",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/japans-gevuld-ei-miso-kewpie-forelkuit.jpg",
+      "short_description": "Het Japanse deviled egg — zijdezachte miso-Kewpie emulsie met limoen en bieslook, gekroond met oranje forelkuit en één druppel sesamolie.",
+      "description": "Vertrouwd van vorm, verrassend van smaak. De witte miso geeft de eiemulsie een diepe umami-ondertoon die mayo alleen nooit bereikt. De forelkuit is het zilte accent dat het geheel samenbindt. Één druppel sesamolie per half ei — niet meer.",
+      "ingredient_groups": [
+        {
+          "group_name": "Gevulde eieren",
+          "ingredients": [
+            {
+              "name": "grote eieren",
+              "amount": "4"
+            },
+            {
+              "name": "ijswater om te koelen",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Miso-Kewpie emulsie",
+          "ingredients": [
+            {
+              "name": "eidooiers (van de gekookte eieren)",
+              "amount": "4"
+            },
+            {
+              "name": "Kewpie-mayonaise",
+              "amount": "40 g"
+            },
+            {
+              "name": "shiro miso (witte miso)",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "bieslook, fijn gesneden",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "forelkuit",
+              "amount": "20 g"
+            },
+            {
+              "name": "geroosterde sesamolie, één druppel per half ei",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "bieslook of lente-ui en zwart sesamzaad",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Eieren koken en pellen",
+          "description": "kook de eieren precies 9 minuten. Direct afschrikken in ijswater — dit stopt de garing en maakt pellen eenvoudiger. Halveren en de dooiers eruit halen."
+        },
+        {
+          "action": "Emulsie maken",
+          "description": "prak de dooiers fijn. Voeg Kewpie, shiro miso, rijstazijn, suiker, limoensap en bieslook toe. Meng tot een gladde, romige massa. Proef voor je zout toevoegt — miso en forelkuit geven al hartigheid. In een spuitzak doen en 10 minuten koelen."
+        },
+        {
+          "action": "Vullen en afwerken",
+          "description": "dep de eiwitholtes droog. Spuit de emulsie in een strakke toef in elke holte — lepel geeft slordiger resultaat. Forelkuit erop. Exact één kleine druppel sesamolie per half ei. Bieslook en zwart sesam als finishing."
+        }
+      ],
+      "chef_tip": "9 minuten kooktijd geeft een romig, net doorgebakken eigeel — afschrikken in ijswater is essentieel om die textuur vast te houden. En gebruik altijd een spuitzak: het is het verschil tussen een amuse en een gewoon gevuld ei.",
+      "wine": {
+        "naam": "Blanc de Blancs Champagne",
+        "druif": "Chardonnay",
+        "toelichting": "De mineraliteit en fijne mousse van een elegante Blanc de Blancs sluiten aan op de forelkuit en snijden door de Kewpie-emulsie. Citrustoetsen bij het limoensap. Serveer ijskoud op 7°C.",
+        "alternatief": "Droge sake — Junmai Ginjo of strakke Chablis"
+      },
+      "variaties": "Variatie: gebruik rode miso (aka) in plaats van witte voor een intensere, aardsere smaak. Alternatief voor forelkuit: Baerii-kaviaar voor meer luxe, of zwart sesamzaad voor een vegetarische versie."
+    },
+    {
+      "title": "Nori-chip met avocado-wasabicrème en limoen",
+      "slug": "nori-chip-avocado-wasabicreme",
+      "location": "Tokyo",
+      "time": "20 min",
+      "servings": "4 amuses",
+      "difficulty": "Makkelijk",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/nori-chip-avocado-wasabicreme.jpg",
+      "short_description": "Krokante nori-chip als elegante basis voor romige avocado-wasabicrème met Kewpie, limoen en zwart sesamzaad.",
+      "description": "Eén hap die alles samenbrengt: de zilte knapperigheid van de nori, de romige pit van de avocado-wasabicrème, de frisheid van limoen. Nori in droge doos bewaren — zelfs luchtvochtigheid maakt hem zacht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Nori-chips",
+          "ingredients": [
+            {
+              "name": "grote vellen nori, elk in 4 rechthoeken (16 chips totaal, 8 mooiste selecteren)",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie gemengd met sesamolie",
+              "amount": "1 tl en ½ tl"
+            },
+            {
+              "name": "wit en zwart sesamzaad",
+              "amount": "1 tl elk"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Avocado-wasabicrème",
+          "ingredients": [
+            {
+              "name": "rijpe avocados",
+              "amount": "2"
+            },
+            {
+              "name": "Kewpie-mayonaise",
+              "amount": "2 el"
+            },
+            {
+              "name": "wasabipasta",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "limoenrasp",
+              "amount": "½ tl"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "½ tl"
+            },
+            {
+              "name": "bieslook, fijn gesneden en witte peper",
+              "amount": "1 tl en naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "extra limoenrasp, sesam en bieslookpuntjes",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Nori-chips bakken",
+          "description": "verwarm de oven op 160°C. Bestrijk de nori-rechthoeken licht met het olie-sesamoliemengsel. Bestrooi met sesam en fleur de sel. Leg tussen twee vellen bakpapier met een tweede bakplaat als lichte druk. Bak 3–5 minuten. Laten afkoelen. Selecteer de 8 mooiste."
+        },
+        {
+          "action": "Avocadocrème maken",
+          "description": "pureer de avocados met Kewpie, wasabi, limoensap, limoenrasp, rijstazijn en soja. Bieslook erdoor. In een spuitzak doen. 10 minuten koelen."
+        },
+        {
+          "action": "Serveren",
+          "description": "spuit vlak voor serveren een quenelle of dot crème op elke chip. Limoenrasp, sesam en bieslook erop. Direct serveren — nori wacht niet."
+        }
+      ],
+      "chef_tip": "Maak altijd 16 chips en selecteer de 8 mooiste — kwaliteitscontrole gebakken in het recept. En bewaar ongebruikte nori in een droge afgesloten doos: zelfs luchtvochtigheid maakt hem zacht binnen een uur.",
+      "wine": {
+        "naam": "Albariño",
+        "druif": "Albariño",
+        "toelichting": "De zilte mineraliteit en citrusfrisheid van een Galicische Albariño resoneert met de umami van nori en spiegelt het limoensap in de crème. Licht genoeg voor de amuse, krachtig genoeg voor de wasabi. Serveer ijskoud op 8°C.",
+        "alternatief": "Droge Grüner Veltliner of Verdejo"
+      },
+      "variaties": "Variatie: vervang avocadocrème door garnalen-tartaar aangemaakt met Kewpie en limoensap. Alternatief voor wasabi: mierikswortel. Alternatief voor shiso-olie: bieslookolie — zelfde techniek, milder en altijd verkrijgbaar."
+    },
+    {
+      "title": "Sashimi van coquille met komkommer, shiso-olie en dashi-gelei",
+      "slug": "sashimi-coquille-shiso-olie-dashi-gelei",
+      "location": "Hokkaido",
+      "time": "30 min + 2 uur gelei",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/sashimi-coquille-shiso-olie-dashi-gelei.jpg",
+      "short_description": "Flinterdun gesneden rauwe coquille op een spiegel van shiso-olie met knapperige komkommer, transparante dashi-gelei en witte soja.",
+      "description": "Sashimi op zijn elegantst. De coquille is rauw — sashimi-kwaliteit, vraag de visboer expliciet. De shiso-olie is felgroen en geurig. De dashi-gelei glinstert als kleine bergkristallen. Serveer op gekoelde borden.",
+      "ingredient_groups": [
+        {
+          "group_name": "Dashi-gelei",
+          "ingredients": [
+            {
+              "name": "dashi (instant)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "gelatineblaadje",
+              "amount": "1½"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Shiso-olie",
+          "ingredients": [
+            {
+              "name": "verse shiso-blaadjes",
+              "amount": "10"
+            },
+            {
+              "name": "neutrale olie (druivenpit)",
+              "amount": "80 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Sashimi en afwerking",
+          "ingredients": [
+            {
+              "name": "grote verse coquilles, sashimi-kwaliteit",
+              "amount": "4"
+            },
+            {
+              "name": "komkommer, flinterdun gesneden op mandoline",
+              "amount": "½"
+            },
+            {
+              "name": "shiro shoyu (witte soja)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "yuzu-olie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "verse shiso-blaadjes",
+              "amount": "4"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snuf"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Dashi-gelei maken",
+          "description": "week de gelatine 5 minuten in koud water. Los op in warme dashi. Giet in een plat schaaltje (1 cm dik). 2 uur koelen. Vlak voor serveren in blokjes van 1×1 cm snijden."
+        },
+        {
+          "action": "Shiso-olie maken",
+          "description": "blancheer de shiso-blaadjes 10 seconden in kokend gezouten water. Direct afschrikken in ijswater — zo behoudt hij de felgroene kleur. Uitknijpen en blenden met olie en zout. Zeven door een koffiefilter tot heldere groene olie."
+        },
+        {
+          "action": "Sashimi voorbereiden",
+          "description": "dep de coquilles droog. Snijd met een koud, vlijmscherp mes in 3 gelijkmatige plakken van ±5 mm. Veeg het mes na elke snede schoon."
+        },
+        {
+          "action": "Serveren",
+          "description": "druppel shiso-olie op gekoelde borden. Leg komkommerplakjes erop. Schik de coquille-plakken er luchtig op. Verdeel de dashi-gelei als glinsterende blokjes ernaast. Druppel witte soja en yuzu-olie langs de vis. Shiso-blaadje als enig verticaal element."
+        }
+      ],
+      "chef_tip": "Gekoelde bordjes zijn niet optioneel — zet ze minimaal 15 minuten voor serveren in de koelkast. Warme borden trekken de temperatuur van de rauwe coquille in 30 seconden omhoog en veranderen de textuur.",
+      "wine": {
+        "naam": "Muscadet Sèvre et Maine sur Lie",
+        "druif": "Melon de Bourgogne",
+        "toelichting": "De austere zilte mineraliteit en lichte gisttonen van een Muscadet sur Lie resoneren direct met de rauwe coquille en de dashi-gelei. De frisse zuren houden alles clean en licht. Serveer op 9°C.",
+        "alternatief": "Chablis Premier Cru of droge sake"
+      },
+      "variaties": "Variatie: vervang coquille door flinterdun gesneden zeebaars of dorade — 2 uur tussen kombu voor extra umami. Alternatief: shiso-olie door bieslook-olie."
+    },
+    {
+      "title": "Daikonrol met rundertartaar, zwarte sesam en yuzu",
+      "slug": "daikonrol-rundertartaar-yuzu",
+      "location": "Fukuoka",
+      "time": "30 min + 10 min pekelen",
+      "servings": "4 amuses",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/daikonrol-rundertartaar-yuzu.jpg",
+      "short_description": "Flinterdunne ingelegde daikon strak opgerold rond verse rundertartaar met yuzu-sap, sesamolie en zwarte sesam.",
+      "description": "Transparant-witte daikonplakken ingelegd in rijstazijn, strak opgerold rond een cilindertje verse rundertartaar met yuzu, Kewpie en gember. De zachte zuurheid snijdt door de rijke tartaar. Yuzu-rasp als aromaat direct boven het bord geraspt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Ingelegde daikon",
+          "ingredients": [
+            {
+              "name": "kleine witte rammenas (daikon), op mandoline in flinterdunne plakken",
+              "amount": "1"
+            },
+            {
+              "name": "water",
+              "amount": "100 ml"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "50 ml"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "10 g"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "3 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Rundertartaar",
+          "ingredients": [
+            {
+              "name": "rundertartaar van de slager",
+              "amount": "200 g"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "yuzu-sap of limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "geroosterde sesamolie",
+              "amount": "½ tl"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Kewpie-mayonaise",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "bieslook, fijn gesneden",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zwart sesamzaad en zwarte peper",
+              "amount": "½ tl elk"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterd zwart sesamzaad",
+              "amount": "1 tl"
+            },
+            {
+              "name": "yuzu of limoen, rasp direct boven het bord",
+              "amount": "½"
+            },
+            {
+              "name": "lente-ui, in flinterdunne ringen",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Daikon inleggen",
+          "description": "los water, azijn, suiker en zout op. Snijd daikon op mandoline in flinterdunne plakken. 8–10 minuten pekelen. Zorgvuldig droogdeppen — nat daikon glijdt weg bij het rollen."
+        },
+        {
+          "action": "Tartaar mengen",
+          "description": "meng de tartaar met alle ingrediënten vlak voor het rollen — nooit meer dan 10 minuten van tevoren. Vorm met twee lepels 8 kleine cilindertjes."
+        },
+        {
+          "action": "Rollen",
+          "description": "leg een tartaarcilindertje op een daikonplak en rol strak op. Met naad naar beneden leggen. Uiteinden bijsnijden voor een nette afwerking."
+        },
+        {
+          "action": "Serveren",
+          "description": "leg 2 rollen per koud bord. Zwart sesam erop. Rasp yuzu of limoen direct boven de rollen — de etherische oliën blijven zo het puurste. Lente-uiringen als finishing."
+        }
+      ],
+      "chef_tip": "Droog deppen is de meest cruciale stap — nat daikon glijdt weg bij het rollen en de rol houdt zijn vorm niet. En vorm de tartaar eerst tot cilindertjes vóór je begint te rollen: dan gaat het rollen snel en gelijkmatig.",
+      "wine": {
+        "naam": "Blanc de Noirs Champagne",
+        "druif": "Pinot Noir en/of Pinot Meunier",
+        "toelichting": "De Pinot Noir-basis van een Blanc de Noirs sluit aan op het rundvlees, terwijl de fijne mousse snijdt door de Kewpie-sesamolie. Iets voller dan Blanc de Blancs — precies wat tartaar nodig heeft. Serveer op 8°C.",
+        "alternatief": "Junmai Daiginjo sake — bloemig en umamirijk"
+      },
+      "variaties": "Variatie: vervang rundertartaar door zalm-tartaar aangemaakt met dille, citroen en crème fraîche. Alternatief voor yuzu: limoensap + limoenrasp. Alternatief voor daikon: flinterdunne ingelegde komkommer of rettich."
+    },
+    {
+      "title": "Tomatendashi met perzik, burrata en nori-zout in glaasje",
+      "slug": "tomatendashi-perzik-burrata-nori-zout",
+      "location": "Tokyo",
+      "time": "35 min + nacht uitlekken",
+      "servings": "4 amuses",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "soep",
+      "image": "/assets/images/tomatendashi-perzik-burrata-nori-zout.jpg",
+      "short_description": "IJskoude heldere tomatendashi in een doorzichtig glaasje met sappige perzik, zachte burrata en zelfgemaakt nori-zout.",
+      "description": "Een ijskoude, heldere tomatendashi — licht, zuiver en vol naturelle umami. Het tomatenwater druppelt een nacht door kaasdoek, nooit geperst. De perzik en burrata drijven erin als eilanden. Nori-zout als finishing.",
+      "ingredient_groups": [
+        {
+          "group_name": "Nori-zout",
+          "ingredients": [
+            {
+              "name": "vel nori, geroosterd en fijn verkruimeld",
+              "amount": "1"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Tomatendashi",
+          "ingredients": [
+            {
+              "name": "rijpe tomaten, grofgesneden en geblend",
+              "amount": "500 g"
+            },
+            {
+              "name": "lichte dashi (instant)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "shiro shoyu (witte soja)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "mirin",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "rijpe maar stevige gele perzik, in kleine blokjes aangemaakt met yuzu-sap",
+              "amount": "½"
+            },
+            {
+              "name": "burrata",
+              "amount": "125 g"
+            },
+            {
+              "name": "shiso- of bieslookolie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "yuzu of limoen, rasp",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Nori-zout maken",
+          "description": "rooster het norivel boven een vlam of in een droge pan — 10–15 seconden per kant. Laat afkoelen en verkruimel fijn. Meng met zeezout. Maak meer dan je nodig hebt en bewaar droog."
+        },
+        {
+          "action": "Tomatendashi maken",
+          "description": "blend de tomaten en hang in kaasdoek in de koelkast een nacht uit — nooit persen, dat geeft troebele bouillon. Vang het heldere tomatenwater op. Meng met dashi, rijstazijn, shiro shoyu en mirin. IJskoud bewaren."
+        },
+        {
+          "action": "Perzik marineren",
+          "description": "snijd de perzik in kleine blokjes. Meng met yuzu-sap en een snuf zout. 5 minuten laten marineren."
+        },
+        {
+          "action": "Serveren",
+          "description": "koel de glaasjes 15 minuten voor serveren in de koelkast. Leg perzikstukkjes erin. Schep een kleine quenelle burrata erop. Schenk de ijskoude tomatendashi in. Druppel shiso-olie op het oppervlak. Rasp yuzu direct erboven. Nori-zout als finishing."
+        }
+      ],
+      "chef_tip": "Nooit persen op het doek — dat geeft troebele bouillon. De bouillon druppelt, niet stroomt. Heb geduld: een nacht geeft 200 ml helder, puur tomatenwater. En koel de glaasjes altijd voor: warm glas trekt de temperatuur van de dashi direct omhoog.",
+      "wine": {
+        "naam": "Grüner Veltliner",
+        "druif": "Grüner Veltliner",
+        "toelichting": "De mineraliteit en de subtiele witpepertoon van een Oostenrijkse Grüner Veltliner sluiten aan bij de tomatendashi en yuzu, terwijl de kruidige afdronk mooi werkt bij de shiso-olie. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Albariño of Vermentino"
+      },
+      "variaties": "Variatie: vervang burrata door mozzarella di bufala voor een lichtere versie, of ricotta voor romiger. Alternatief voor shiso: bieslook-olie — zelfde techniek, milder en altijd beschikbaar."
+    },
+    {
+      "title": "Kobujime van zeebaars met verse gember en witte soja",
+      "slug": "kobujime-zeebaars-gember-witte-soja",
+      "location": "Kanazawa",
+      "time": "15 min + 2–3 uur persen",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/kobujime-zeebaars-gember-witte-soja.jpg",
+      "short_description": "Rauwe zeebaars 2–3 uur geperst tussen kombu — de glutamaten trekken langzaam in de vis en geven diepere, ziltere umami. Gesneden als sashimi met gember en witte soja.",
+      "description": "Kobujime is geen marinade — het is een overdracht. De vis wordt tussen twee vellen kombu gelegd en licht gewogen. In 2–3 uur trekken de glutamaten van de kombu in het visvlees. Het resultaat is steviger, dieper en zilter dan gewone sashimi. Techniek boven ingrediënten.",
+      "ingredient_groups": [
+        {
+          "group_name": "Kobujime",
+          "ingredients": [
+            {
+              "name": "zeebaarsfilet, sashimi-kwaliteit, zonder vel en graten",
+              "amount": "250 g"
+            },
+            {
+              "name": "grote vellen gedroogde kombu",
+              "amount": "2"
+            },
+            {
+              "name": "sake of rijstazijn om kombu te bevochtigen",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse gember, in flinterdunne julienne (2–3 sliertjes per bord)",
+              "amount": "20 g"
+            },
+            {
+              "name": "shiro shoyu (witte soja)",
+              "amount": "3–4 druppels per bord"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snuf"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kombu voorbereiden",
+          "description": "veeg de kombu aan beide kanten af met een vochtige doek — nooit wassen. Het witte poeder is glutamaat. Bevochtig licht met sake of rijstazijn zodat hij soepel wordt."
+        },
+        {
+          "action": "Vis inleggen",
+          "description": "dep de zeebaars droog. Bestrooi licht met zeezout, laat 5 minuten staan en dep opnieuw droog. Leg de vis tussen twee kombu-vellen. Wikkel strak in plasticfolie. Leg een licht gewicht erop. 2–3 uur in de koelkast — niet langer."
+        },
+        {
+          "action": "Snijden en serveren",
+          "description": "haal de vis voorzichtig van de kombu en dep droog. Snijd met een vlijmscherp, koud mes in plakken van ±5 mm. Veeg het mes na elke snede schoon. Leg 3 plakken per koud bord. Gembersliertjes ernaast. 3–4 druppels witte soja langs de vis — niet erover."
+        }
+      ],
+      "chef_tip": "Kombu nooit wassen — het witte poeder is glutamaat en dat is precies wat je op de vis wilt overdragen. En houd de perstijd op 2–3 uur: te kort geeft weinig effect, te lang maakt de vis te stevig en zout.",
+      "wine": {
+        "naam": "Chablis Premier Cru",
+        "druif": "Chardonnay",
+        "toelichting": "De austere, kalkachtige mineraliteit van een Chablis Premier Cru zonder houtinvloed resoneert direct met de zilte umami van de kombu-behandelde vis. Strakke zuren houden alles clean. Serveer op 10°C.",
+        "alternatief": "Albariño, droge Riesling Kabinett of Blanc de Blancs Crémant"
+      },
+      "variaties": "Variatie: kobujime werkt prachtig met dorade, heilbot of tong — altijd witte, magere vis. Vette vis zoals zalm absorbeert de umami minder goed. Alternatief: als kombu niet beschikbaar is, extra verse gember + druppel dashi-gelei als umami-accent."
+    },
+    {
+      "title": "Mahor — ananas met gekaramelliseerd varkensgehakt, pinda en koriander",
+      "slug": "mahor-ananas-varkensgehakt-pinda",
+      "location": "Bangkok",
+      "time": "30 min",
+      "servings": "4 amuses",
+      "difficulty": "Makkelijk",
+      "keuken": "Thais",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mahor-ananas-varkensgehakt-pinda.jpg",
+      "short_description": "Klassieke Thaise amuse: knapperig stuk verse ananas als basis voor droge, gekaramelliseerde varkensgehaktvulling met palmsuiker, vissaus en koriander.",
+      "description": "Mahor is de Thaise amuse die iedereen omver blaast en niemand verwacht. De heilige Thaise driehoek — knoflook, korianderwortel en witte peper — vormt de basis. Palmsuiker en vissaus karamelliseren het gehakt tot een droge, kleverige vulling. De ananas is het frisse fundament.",
+      "ingredient_groups": [
+        {
+          "group_name": "Ananas",
+          "ingredients": [
+            {
+              "name": "rijpe maar stevige verse ananas, in 8 stukjes van 3x3 cm",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Gekaramelliseerde vulling",
+          "ingredients": [
+            {
+              "name": "varkensgehakt",
+              "amount": "160 g"
+            },
+            {
+              "name": "knoflookteentjes, zeer fijn gesnipperd",
+              "amount": "3"
+            },
+            {
+              "name": "sjalotje, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "korianderwortel of koriandersteeltjes, fijngehakt",
+              "amount": "1"
+            },
+            {
+              "name": "palmsuiker of bruine basterdsuiker",
+              "amount": "20 g"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "tamarindepasta",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "geroosterde pinda's, fijngehakt",
+              "amount": "25 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse korianderblaadjes",
+              "amount": "kleine hoeveelheid"
+            },
+            {
+              "name": "extra fijngehakte pinda's en rode prik in ringen (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vulling karamelliseren",
+          "description": "verhit de olie. Fruit knoflook, sjalot en korianderwortel 1–2 minuten op laag vuur — niet laten kleuren. Voeg varkensgehakt toe en bak rul. Palmsuiker, vissaus, tamarindepasta en witte peper toevoegen. 4–6 minuten karamelliseren op middelhoog vuur. Pinda's erdoor. De vulling moet droog en licht kleverig zijn."
+        },
+        {
+          "action": "Fijnhakken en afkoelen",
+          "description": "hak de vulling na het bakken iets fijner voor een elegantere textuur. Laat lauwwarm worden — niet heet op de ananas scheppen."
+        },
+        {
+          "action": "Serveren",
+          "description": "schep een dot vulling op elk ananasblokje. Korianderbladje, pinda en eventueel rode prik als finishing. Serveren op kamertemperatuur."
+        }
+      ],
+      "chef_tip": "De vulling kan een dag van tevoren worden gemaakt — hij wordt alleen maar beter. Schenk alleen pas vlak voor serveren op de ananas. En proef de vulling altijd voor het serveren: meer vissaus = zouter, meer tamarinde = frisser.",
+      "wine": {
+        "naam": "Gewurztraminer d'Alsace",
+        "druif": "Gewurztraminer",
+        "toelichting": "De rijke aromatiek van een Elzasser Gewurztraminer met lychee en roze sluit aan op de palmsuiker en de ananas. De lichte rondheid balanceert de vissaus en tamarinde. Serveer op 9°C.",
+        "alternatief": "Droge Riesling d'Alsace"
+      },
+      "variaties": "Variatie: vervang varkensgehakt door garnalen voor een lichter, frisser hapje. Alternatief voor ananas: stevige mandarijnsegmenten. Alternatief voor palmsuiker: bruine basterdsuiker of kokossuiker."
+    },
+    {
+      "title": "Panang Curry van varkenshaas met zelfgemaakte pananpasta en kaffir lime",
+      "slug": "panang-curry-varkenshaas",
+      "location": "Bangkok",
+      "time": "60 min",
+      "servings": "4 personen",
+      "difficulty": "Moeilijk",
+      "keuken": "Thais",
+      "categorie": "vlees",
+      "image": "/assets/images/panang-curry-varkenshaas.jpg",
+      "short_description": "De rijkste Thaise curry: zelfgemaakte pananpasta met geroosterde pinda's, galanga en citroengras — met rosé varkenshaas en kaffir lime-chiffonade.",
+      "description": "Panang is de diepste, rijkste curry in de Thaise keuken. De zelfgemaakte pasta maakt het verschil: geroosterde pinda's, galanga, citroengras, garnalenpasta. De kokosroom wordt verhit tot de olie eruit trekt — dan pas gaat de pasta erin. Dat is het geheim.",
+      "ingredient_groups": [
+        {
+          "group_name": "Zelfgemaakte panang-pasta",
+          "ingredients": [
+            {
+              "name": "gedroogde rode pepers, 30 min geweekt",
+              "amount": "5"
+            },
+            {
+              "name": "citroengras, wit deel",
+              "amount": "2 stengels"
+            },
+            {
+              "name": "verse galanga",
+              "amount": "3 cm"
+            },
+            {
+              "name": "schil van ½ kaffir limoen",
+              "amount": "1"
+            },
+            {
+              "name": "korianderwortelss",
+              "amount": "2"
+            },
+            {
+              "name": "knoflookteentjes",
+              "amount": "4"
+            },
+            {
+              "name": "sjalotten",
+              "amount": "3"
+            },
+            {
+              "name": "garnalenpasta (belacan)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "geroosterde pinda's",
+              "amount": "30 g"
+            },
+            {
+              "name": "komijn- en korianderzaad, geroosterd en fijngemalen",
+              "amount": "1 tl elk"
+            },
+            {
+              "name": "witte peper",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Panangsaus",
+          "ingredients": [
+            {
+              "name": "kokosroom, dik bovenste deel",
+              "amount": "250 ml"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "150 ml"
+            },
+            {
+              "name": "lichte kippenfond",
+              "amount": "100 ml"
+            },
+            {
+              "name": "zelfgemaakte panang-pasta",
+              "amount": "3 el"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "tamarindepasta",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn gemalen geroosterde pinda en kaffir limoenblaadjes, gekneusd",
+              "amount": "1 el elk"
+            }
+          ]
+        },
+        {
+          "group_name": "Varkenshaas en afwerking",
+          "ingredients": [
+            {
+              "name": "varkenshaas",
+              "amount": "500 g"
+            },
+            {
+              "name": "neutrale olie, knoflookteen en verse gember",
+              "amount": "1 el, 1 teen, 1 cm"
+            },
+            {
+              "name": "kaffir limoenblaadjes, ultrafijne chiffonade",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "rode prik in julienne, dikke kokosroom, Thaise basilicum en geroosterde pinda's",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pasta maken",
+          "description": "rooster komijn en koriander droog. Stamp of blend alle pasta-ingrediënten tot een gladde pasta. Dit duurt tijd — neem het."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "verhit de dikke kokosroom tot hij begint te borrelen en de olie licht scheidt van het vet. Voeg de pasta toe en bak 3–4 minuten op middelhoog vuur — de aromaten moeten geurig en droog bakken. Dit is de meest cruciale stap."
+        },
+        {
+          "action": "Saus voltooien",
+          "description": "voeg palmsuiker en vissaus toe. Dan kokosmelk, kippenfond, tamarinde, gemalen pinda en kaffir limoen erbij. 8–10 minuten inkoken tot een diepe, rijke saus."
+        },
+        {
+          "action": "Varkenshaas bereiden",
+          "description": "bak de varkenshaas rondom goudbruin met knoflook en gember. Kerntemperatuur 58°C. 10 minuten rusten. Flinterdun snijden. Rustvocht door de saus."
+        },
+        {
+          "action": "Serveren",
+          "description": "schep een spiegel saus op elk warm bord. Waaier 5 flinterdunne varkenshaas-slices erover. Druppel kokosroom. Kaffir lime-chiffonade, rode prik, pinda en basilicum als finishing. Jasmiinrijst apart."
+        }
+      ],
+      "chef_tip": "Het pastabakken in kokosroom is de meest cruciale stap — nooit overslaan, nooit haastig. De pasta moet echt geurig en droog bakken voordat de vloeistof erbij gaat. En gebruik een kernthermometer voor de varkenshaas: 58°C is perfect rosé, meer is droog.",
+      "wine": {
+        "naam": "Pinot Gris d'Alsace",
+        "druif": "Pinot Gris",
+        "toelichting": "De volle textuur en steenfruitaromatiek van een Elzasser Pinot Gris spiegelt de romigheid van de kokossaus en sluit aan op kaffir limoen en galanga. Genoeg body om de rijke curry te dragen. Serveer op 12°C.",
+        "alternatief": "Viognier of Chenin Blanc demi-sec"
+      },
+      "variaties": "Variatie: vervang varkenshaas door kippendij voor een sappiger, toegankelijkere versie. Alternatief: Mae Ploy of Maesri Panang Curry Paste + verse galanga + kaffir limoenschil + extra gemalen pinda — nog steeds goed bakken in kokosroom."
+    },
+    {
+      "title": "Yum Nuea — Thaise entrecôtesalade met mango, limoen en nam jim jaew",
+      "slug": "yum-nuea-entrecote-mango-nam-jim",
+      "location": "Chiang Mai",
+      "time": "35 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "groente-salade",
+      "image": "/assets/images/yum-nuea-entrecote-mango-nam-jim.jpg",
+      "short_description": "Rosé gegrilde entrecôte flinterdun gesneden met rijpe mango, komkommer en een krachtige nam jim jaew-dressing van limoen, vissaus en tamarinde.",
+      "description": "De koningin van de Thaise salade. De entrecôte wordt rosé gegrild en dwars op de draad in flinterdunne plakken gesneden. De nam jim jaew is de ziel: limoen, vissaus, tamarinde en bird's eye-pepers in perfecte balans. Gebruik altijd minder dressing dan je denkt nodig te hebben.",
+      "ingredient_groups": [
+        {
+          "group_name": "Entrecôte",
+          "ingredients": [
+            {
+              "name": "entrecôte",
+              "amount": "350 g"
+            },
+            {
+              "name": "neutrale olie, zeezout en zwarte peper",
+              "amount": "1 el, naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Nam jim jaew-dressing",
+          "ingredients": [
+            {
+              "name": "versgeperst limoensap",
+              "amount": "3 el"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "tamarindepasta",
+              "amount": "1 el"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "knoflookteen, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "bird's eye pepers, flinterdun gesneden",
+              "amount": "2–3"
+            },
+            {
+              "name": "sjalot en koriandersteeltjes, fijn gesneden",
+              "amount": "1 tl elk"
+            }
+          ]
+        },
+        {
+          "group_name": "Salade",
+          "ingredients": [
+            {
+              "name": "rijpe maar stevige mango, in dunne reepjes",
+              "amount": "1"
+            },
+            {
+              "name": "komkommer, in flinterdunne schuine plakken",
+              "amount": "½"
+            },
+            {
+              "name": "sjalot en citroengras (wit deel), ultrafijn gesneden",
+              "amount": "1 el elk"
+            },
+            {
+              "name": "verse munt en koriander",
+              "amount": "1 handvol elk"
+            },
+            {
+              "name": "lente-uitjes, in schuine ringen",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterde pinda's, grof gehakt",
+              "amount": "2 el"
+            },
+            {
+              "name": "dunne rode chiliplakjes en krokante sjalotten",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Nam jim jaew maken",
+          "description": "los de palmsuiker op in het limoensap. Voeg vissaus, tamarinde, knoflook, pepers, sjalot en koriandersteeltjes toe. Proef en balanceer — zuur, zoet, zout en pit moeten in evenwicht zijn."
+        },
+        {
+          "action": "Entrecôte grillen",
+          "description": "dep droog, kruiden. Gietijzeren pan op hoogste vuur. 2 minuten per kant. 6–8 minuten rusten. Rustvocht door een kleine hoeveelheid dressing. Dwars op de draad in flinterdunne plakken snijden."
+        },
+        {
+          "action": "Salade samenstellen",
+          "description": "meng mango, komkommer, sjalot, citroengras, munt, koriander en lente-ui losjes. Voeg de helft van de dressing toe — minder dan instinctief."
+        },
+        {
+          "action": "Serveren",
+          "description": "spreid de mangosalade luchtig uit op een groot koud bord. Drapeer de entrecôte-plakjes er elegant over en naast. Druppel resterende dressing over het vlees. Pinda's, munt, koriander en rode chili als finishing."
+        }
+      ],
+      "chef_tip": "Mango rijp maar stevig — te zacht geeft papperige textuur. En snijd de entrecôte altijd dwars op de draad: zo snijdt elk plakje korte spiervezels en is het vlees maximaal mals.",
+      "wine": {
+        "naam": "Bandol Rosé",
+        "druif": "Mourvèdre, Grenache, Cinsault",
+        "toelichting": "Een gastronomische Bandol Rosé met frisse zuren en genoeg body voor het vlees en de pittige dressing. De Mourvèdre-basis geeft structuur, de frisheid werkt bij limoen en tamarinde. Serveer op 10°C.",
+        "alternatief": "Saumur-Champigny of droge Grüner Veltliner"
+      },
+      "variaties": "Variatie: vervang entrecôte door bavette voor meer rundsmaak, of kippendij voor een lichtere salade. Alternatief voor mango: rijpe nectarine of stevige mango uit blik. Groene mango geeft een frisser, scherpere versie."
+    },
+    {
+      "title": "Thaise kipsaté met authentieke pindasaus en ajad",
+      "slug": "thaise-kipsate-pindasaus-ajad",
+      "location": "Bangkok",
+      "time": "40 min + 4–12 uur marineren",
+      "servings": "4 amuses",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/thaise-kipsate-pindasaus-ajad.jpg",
+      "short_description": "Platgeslagen kippendij gemarineerd in kokosroom, kurkuma en citroengras — gegrild met authentieke goudgele Bangkok-kleur. Met pindasaus en zoetzure komkommerajad.",
+      "description": "Saté zoals in de straten van Bangkok: goudgeel van de kurkuma, geurig van citroengras en korianderwortel. Drie spiesjes per gast, één perfecte hap per spiesje. De pindasaus is donker, romig en niet zoet — hij heeft diepte.",
+      "ingredient_groups": [
+        {
+          "group_name": "Aromatische marinade",
+          "ingredients": [
+            {
+              "name": "kippendij, platgeslagen tot 4–5 mm",
+              "amount": "300 g"
+            },
+            {
+              "name": "korianderwortel of koriandersteeltjes, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "knoflookteentjes",
+              "amount": "3"
+            },
+            {
+              "name": "sjalotje en citroengras (wit deel)",
+              "amount": "1 en 1 stengel"
+            },
+            {
+              "name": "dikke kokosroom",
+              "amount": "150 ml"
+            },
+            {
+              "name": "kurkuma (authentieke goudgele kleur!)",
+              "amount": "2 tl"
+            },
+            {
+              "name": "milde currypoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "koriander- en komijnzaad, geroosterd en fijngemalen",
+              "amount": "1 tl elk"
+            },
+            {
+              "name": "palmsuiker en vissaus",
+              "amount": "1 el en 1½ el"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Pindasaus",
+          "ingredients": [
+            {
+              "name": "rode currypasta",
+              "amount": "1 el"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "200 ml"
+            },
+            {
+              "name": "gladde pindakaas",
+              "amount": "2 el"
+            },
+            {
+              "name": "fijn gemalen geroosterde pinda's",
+              "amount": "1½ el"
+            },
+            {
+              "name": "palmsuiker, vissaus en tamarindepasta",
+              "amount": "1 el, 1 el, 1 tl"
+            },
+            {
+              "name": "knoflookteen, fijngehakt en neutrale olie",
+              "amount": "1 en 1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Ajad",
+          "ingredients": [
+            {
+              "name": "komkommer, in dunne plakken",
+              "amount": "½"
+            },
+            {
+              "name": "sjalot in ringen en rode prik in ringen",
+              "amount": "1 en 1"
+            },
+            {
+              "name": "rijstazijn, water, suiker en zout",
+              "amount": "50 ml, 25 ml, 1 el, ½ tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pasta en marinade maken",
+          "description": "blend korianderwortel, knoflook, sjalot en citroengras tot gladde pasta. Meng met alle marinade-ingrediënten. Bewaar 3 el apart voor bebotering. Kip met marinade mengen en minimaal 4 uur marineren — overnight geeft merkbaar meer smaak."
+        },
+        {
+          "action": "Ajad maken",
+          "description": "los azijn, water, suiker en zout op. Leg komkommer, sjalot en prik 30 minuten in het pekelvocht."
+        },
+        {
+          "action": "Pindasaus maken",
+          "description": "fruit knoflook in olie. Voeg currypasta toe en bak 1–2 minuten. Kokosmelk, pindakaas, gemalen pinda, palmsuiker, vissaus en tamarinde erbij. 5 minuten inkoken op laag vuur."
+        },
+        {
+          "action": "Grillen en serveren",
+          "description": "rijg kip op geweekte bamboespiesjes. Grillpan op hoogste vuur. 1,5–2 minuten per kant. Bestrijk tijdens het grillen met de APART GEHOUDEN marinade — nooit de gebruikte marinade die kip heeft geraakt. 1 minuut rusten. Serveer met pindasaus en ajad apart."
+        }
+      ],
+      "chef_tip": "Kippendij is hier verplicht — kipfilet droogt uit op hoog grillvuur. En gebruik 2 tl kurkuma: niet bezuinigen, die authentieke intens goudgele Bangkok-kleur is het visuele handtekening van de saté.",
+      "wine": {
+        "naam": "Verdejo",
+        "druif": "Verdejo",
+        "toelichting": "De levendige citrusfrisheid en subtiele bitterheid van een Rueda Verdejo snijden door de pindasaus en sluiten aan op citroengras en kurkuma in de marinade. Serveer goed gekoeld op 9°C.",
+        "alternatief": "Chenin Blanc demi-sec — lichte rondheid complementeert kokos en palmsuiker"
+      },
+      "variaties": "Variatie: vervang kip door varkenshaas in dunne reepjes — marineertijd verkorten tot 4 uur. Alternatief voor palmsuiker: bruine basterdsuiker of kokossuiker. Alternatief voor pindakaas: kant-en-klare pindasaus aanvullen met verse currypasta en tamarinde."
+    },
+    {
+      "title": "Kip Krapao — wokgerecht met heilige basilicum, chili en perfect gebakken ei",
+      "slug": "kip-krapao-heilige-basilicum",
+      "location": "Bangkok",
+      "time": "35 min + 20 min velveting",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "vlees",
+      "image": "/assets/images/kip-krapao-heilige-basilicum.jpg",
+      "short_description": "Flinterdun gesneden kippendij gewokt op extreme hitte met gestampte knoflook, vogelpepers en heilige basilicum — met een perfect gebakken ei als kroon.",
+      "description": "Het absolute hart van de Thaise streetfood-keuken. De velveting-techniek maakt de kip zijdezacht. Het wokken duurt 3 minuten totaal — mise-en-place is alles. Het gebakken ei heeft ultrakrokante randen en een vloeiende dooier. Heilige basilicum is niet vervangbaar.",
+      "ingredient_groups": [
+        {
+          "group_name": "Velveting van de kip",
+          "ingredients": [
+            {
+              "name": "kippendij, in flinterdunne plakken",
+              "amount": "400 g"
+            },
+            {
+              "name": "bicarbonate of soda (zuiveringszout)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "koud water",
+              "amount": "1 el"
+            },
+            {
+              "name": "maizena en lichte sojasaus",
+              "amount": "1 tl elk"
+            }
+          ]
+        },
+        {
+          "group_name": "Wok en saus",
+          "ingredients": [
+            {
+              "name": "knoflookteentjes, grof gestampt",
+              "amount": "6"
+            },
+            {
+              "name": "bird's eye pepers, grof gestampt",
+              "amount": "6–8"
+            },
+            {
+              "name": "grote rode prik, in schuine plakken",
+              "amount": "1"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "lichte en donkere sojasaus",
+              "amount": "1 tl elk"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "kippenfond of water",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse heilige basilicum (krapao)",
+              "amount": "2 flinke handen"
+            },
+            {
+              "name": "verse eieren",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie (±1 cm diepte) en paar druppels vissaus",
+              "amount": "royaal"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Mise-en-place",
+          "description": "zet alles klaar voor je begint: saus gemengd, kip gedroogd, knoflook en pepers grof gestampt in de vijzel — geen gladde pasta, maar grof mengsel. Basilicum geplukt. Krapao wokt in 3 minuten."
+        },
+        {
+          "action": "Velveting",
+          "description": "meng de kip met bicarbonate, water, maizena en soja. 15–20 minuten rusten. Grondig afspoelen en droogdeppen — de baksoda moet eraf."
+        },
+        {
+          "action": "Wokken",
+          "description": "wok op absolute hoogste vuur tot rookt. Knoflook-chilimengsel 10–15 seconden. Kip toevoegen, 15–20 seconden op het oppervlak drukken, dan krachtig omscheppen. 2–3 minuten totaal. Saus erbij, 30–60 seconden. Van vuur — heilige basilicum royaal erdoor."
+        },
+        {
+          "action": "Ei bakken en serveren",
+          "description": "verhit een kleine pan met 1 cm olie tot bijna rookpunt. Breek het ei van hoogte in — de hete olie geeft direct krokante randen. 45–60 seconden. Leg op de krapao. Rijst ernaast."
+        }
+      ],
+      "chef_tip": "Velveting nooit overslaan — het is het verschil tussen taai en zijdezacht vlees. En wok maximaal 1–2 porties tegelijk: te volle wok koelt af, geeft stoom in plaats van hitte en je verliest de wok hei.",
+      "wine": {
+        "naam": "Grüner Veltliner Smaragd",
+        "druif": "Grüner Veltliner",
+        "toelichting": "De witpepertoon en mineraliteit van een volle Wachauer Smaragd resoneren met de heilige basilicum en snijden door de oestersaus en het ei. Serveer op 11°C.",
+        "alternatief": "Chenin Blanc demi-sec — lichte restsuiker buffert de capsaïcine"
+      },
+      "variaties": "Variatie: vervang kippendij door rundergehakt voor een grovere, aardsere krapao. Alternatief voor heilige basilicum: Thaise basilicum + paar blaadjes Italiaanse basilicum + extra witte peper."
+    },
+    {
+      "title": "Pla Rad Prik — krokante zeebaars met chili-tamarindesaus",
+      "slug": "pla-rad-prik-krokante-zeebaars",
+      "location": "Bangkok",
+      "time": "40 min",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/pla-rad-prik-krokante-zeebaars.jpg",
+      "short_description": "Ultrakrokante zeebaars in rijstmeel-maizenacoating op een spiegel van zoet-pittige chilisaus — nooit saus over de vis, altijd eronder.",
+      "description": "Pla rad prik is technisch streng. De saus gaat op het bord, de vis erop — nooit andersom. De rijstmeel-maizenacoating geeft een ultradunne krokante korst. Tamarinde en limoen als finishing touch, elk met een andere rol.",
+      "ingredient_groups": [
+        {
+          "group_name": "Krokante zeebaars",
+          "ingredients": [
+            {
+              "name": "zeebaarsfilet, in stukken van 5×4 cm",
+              "amount": "450 g"
+            },
+            {
+              "name": "rijstmeel",
+              "amount": "2 el"
+            },
+            {
+              "name": "maizena",
+              "amount": "2 el"
+            },
+            {
+              "name": "zeezout en witte peper",
+              "amount": "½ tl elk"
+            },
+            {
+              "name": "neutrale olie voor frituren (180°C)",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Krokante knoflook en sjalot",
+          "ingredients": [
+            {
+              "name": "knoflookteentjes, in flinterdunne plakjes",
+              "amount": "4"
+            },
+            {
+              "name": "sjalotten, in dunne ringen",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Chilisaus",
+          "ingredients": [
+            {
+              "name": "sjalotten en knoflookteentjes, fijn gesnipperd",
+              "amount": "2 en 4"
+            },
+            {
+              "name": "bird's eye pepers en rode prik",
+              "amount": "3–4 en 1"
+            },
+            {
+              "name": "vissaus en oestersaus",
+              "amount": "1½ el en 1 el"
+            },
+            {
+              "name": "palmsuiker en lichte sojasaus",
+              "amount": "1 el en 1 tl"
+            },
+            {
+              "name": "lichte kippenfond",
+              "amount": "150 ml"
+            },
+            {
+              "name": "tamarindepasta (finishing)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "limoensap (allerlaatste toevoeging)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Fris accent",
+          "ingredients": [
+            {
+              "name": "komkommer, aangemaakt met rijstazijn, zout en suiker",
+              "amount": "½"
+            },
+            {
+              "name": "verse koriander en lente-ui",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Krokante knoflook en sjalot bakken",
+          "description": "frituur de knoflookplakjes en sjalotringen apart tot goudbruin en krokant. Laat uitlekken op keukenpapier."
+        },
+        {
+          "action": "Chilisaus maken",
+          "description": "fruit sjalot en knoflook 2–3 minuten zonder kleuring. Pepers en rode prik toevoegen. Vissaus, oestersaus, palmsuiker, soja en kippenfond erbij. 3–4 minuten inkoken. Tamarindepasta als finishing. Limoensap als allerlaatste. Warm houden."
+        },
+        {
+          "action": "Vis frituren",
+          "description": "dep de vis droog. Meng rijstmeel en maizena. Bestrooi de vis licht. Frituur in kleine porties op 180°C, 2–3 minuten per portie. Laat uitlekken."
+        },
+        {
+          "action": "Serveren",
+          "description": "schep saus als spiegel op het warme bord. Vis erop — nooit saus over de vis. Krokante knoflook en sjalot erop strooien. Aangemengde komkommer ernaast. Koriander, lente-ui en rode prik als finishing. Onmiddellijk serveren."
+        }
+      ],
+      "chef_tip": "Rijstmeel plus maizena geeft een ultradunne, extra knapperige coating — nooit alleen bloem. En nooit saus over de vis: saus altijd als spiegel op het bord, vis erop. Dat is de enige manier om de krokanteid te bewaren.",
+      "wine": {
+        "naam": "Albariño",
+        "druif": "Albariño",
+        "toelichting": "De zilte mineraliteit en citrusfrisheid van een Galicische Albariño resoneren met de krokante zeebaars en spiegelen de tamarinde en limoen in de saus. Serveer ijskoud op 8°C.",
+        "alternatief": "Viognier — aromatischer en voller als de chilisaus de hoofdrol mag spelen"
+      },
+      "variaties": "Variatie: vervang zeebaars door kabeljauw of grote garnalen voor een snellere versie. Alternatief: geen tamarindepasta? Limoensap + beetje bruine suiker geeft vergelijkbare zoet-zure spanning."
     }
   ]
 }
