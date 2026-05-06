@@ -371,17 +371,16 @@
           ? recipe.tips
           : (recipe.chef_tip ? recipe.chef_tip.split('\n\n').filter(Boolean) : []);
 
+        function renderTip(tip) {
+          const m = tip.match(/^([^:]+):\s*([\s\S]*)/);
+          if (m) return '<p style="margin:0 0 10px 0"><strong>' + m[1] + ':</strong> ' + m[2] + '</p>';
+          return '<p style="margin:0 0 10px 0">' + tip + '</p>';
+        }
+
         const tipHtml = tipsData.length ? `
           <div class="chef-tip">
             <span class="chef-tip-label">Tips</span>
-            ${tipsData.map(tip => {
-              // Vet het label (alles voor de eerste dubbele punt)
-              const match = tip.match(/^([^:]+):\s*(.*)/s);
-              if (match) {
-                return \`<p style="margin:0 0 10px 0"><strong>\${match[1]}:</strong> \${match[2]}</p>\`;
-              }
-              return \`<p style="margin:0 0 10px 0">\${tip}</p>\`;
-            }).join('')}
+            ${tipsData.map(renderTip).join('')}
           </div>` : '';
 
         const wine = recipe.wine;
