@@ -5661,8 +5661,8 @@
       "wine": {
         "naam": "Pinot Noir",
         "druif": "Pinot Noir",
-        "toelichting": "De zachte tannines en rode vruchttonen van een elegante Pinot Noir sluiten aan op het malse ossenhaas en laten de Indische kruiden volledig tot hun recht komen. Niet te veel structuur — de marinade moet de hoofdrol houden. Tonen van kers, aardbeien en een lichte aardse ondertoon complementeren de ketjap en de paprikasaus. Een Bourgogne Pinot Noir of een Nieuw-Zeelands exemplaar uit Marlborough geeft het beste resultaat. Serveer licht gekoeld op 15°C.",
-        "alternatief": "Jonge Barbera d'Asti — levendiger zuur, werkt uitstekend bij de zoet-hartige marinade"
+        "toelichting": "De zachte tannines en rode vruchttonen van een elegante Pinot Noir — uit Bourgogne, Elzas of Nieuw-Zeeland — sluiten aan op het malse ossenhaas en laten de Indische kruiden volledig tot hun recht komen. Niet te veel structuur: de marinade van ketjap, koriander en laos moet de hoofdrol houden, niet de wijn. Tonen van kers, aardbeien en een lichte aardse ondertoon complementeren de ketjap en de paprikasaus. Serveer licht gekoeld op 15°C.",
+        "alternatief": "Jonge Barbera d'Asti — levendige zuurgraad die uitstekend aansluit bij de zoet-hartige marinade"
       },
       "image": "/assets/images/sateos.jpg",
       "short_description": "Malse ossenhaas gemarineerd in gember, knoflook en kecap manis — gegrild op satéstokjes met een lichte zelfgemaakte paprikasaus.",
@@ -5812,10 +5812,10 @@
         }
       ],
       "tips": [
-        "Mise-en-place: marineer het vlees een hele nacht — dat maakt het verschil. De paprikasaus kan een dag van tevoren worden gemaakt.",
+        "Mise-en-place: marineer het vlees een hele nacht — dat maakt het verschil. De paprikasaus kan een dag van tevoren worden gemaakt en opgewarmd.",
         "Techniek: bak de spiesjes op een gloeiend hete grillpan en draai slechts één keer — zo krijg je mooie roostertekens aan beide kanten zonder het vlees uit te drogen.",
-        "Presentatie: serveer de sate op een warm langwerpig bord met de saus naast — nooit erover, zodat de roostertekens zichtbaar blijven.",
-        "Variatie: voeg geraspte kokos toe aan de marinade voor een rijker, tropischer karakter, of gebruik een mespuntje sambal badjak in de paprikasaus voor extra pit.",
+        "Presentatie: serveer de sate op een warm langwerpig bord met de saus ernaast als spiegel — nooit erover, zodat de roostertekens zichtbaar blijven.",
+        "Variatie: voeg geraspte kokos toe aan de marinade voor een rijker, tropischer karakter, of een mespuntje sambal badjak in de paprikasaus voor extra pit.",
         "Alternatief: geen ossenhaas? Gebruik kippendij — sappiger en meer smaak, vraagt iets meer marineertijd maar werkt uitstekend met dezelfde kruidenmix."
       ]
     },
@@ -6090,13 +6090,19 @@
           "description": "vul elke halve passievruchtschil met ± 1 eetlepel mengsel. Werk af met gebakken sjalotjes of een ringetje lente-ui. Serveer lauwwarm, niet heet."
         }
       ],
-      "chef_tip": "Bak de garnalen apart en voeg ze pas op het allerlaatste moment toe — anders worden ze rubberachtig. En blus met passievruchtsap pas als de pan van het vuur is: de frisheid is bedoeld als verrassing, niet als achtergrondsmaak.",
       "wine": {
         "naam": "Gewürztraminer",
         "druif": "Gewürztraminer",
-        "toelichting": "De uitbundige kruidigheid en lichte zoetheid van een Gewürztraminer uit de Elzas tempert de hitte van de sambal zonder hem te doven. Lychee en rozenwater in de neus sluiten aan bij het tropische karakter van de passievrucht. Serveer ijskoud op 8°C.",
-        "alternatief": "Off-dry Riesling Kabinett of droge Muscat"
-      }
+        "toelichting": "De uitbundige kruidigheid en lichte zoetheid van een Elzasser Gewürztraminer — met tonen van lychee, rozenwater en exotisch fruit — tempert de hitte van de sambal zonder hem te doven. De tropische neus sluit naadloos aan bij de passievrucht, terwijl de lichte rondheid van de wijn de bitterheid van de peteh verzacht. Lychee en rozenwater in de neus sluiten aan bij het tropische karakter van de passievrucht. Gewürztraminer is een van de weinige wijnen die bestand is tegen de complexe smaaklagen van Indonesische sambal. Serveer ijskoud op 8°C.",
+        "alternatief": "Off-dry Riesling Kabinett — frisser en strakker, werkt als de sambal intens pittig is"
+      },
+      "tips": [
+        "Mise-en-place: bak de garnalen apart en voeg ze pas op het allerlaatste moment toe — anders worden ze rubberachtig. Maak de sambal goreng van tevoren en voeg garnalen bij opwarmen.",
+        "Techniek: blus met passievruchtsap pas als de pan van het vuur is — de frisheid is bedoeld als verrassing, niet als achtergrondsmaak die wegkookt.",
+        "Presentatie: vul de passievruchtschillen pas vlak voor serveren — maximaal 5 minuten eerder. Natter dan dat en de schil begint te lekken en de krokante textuur verdwijnt.",
+        "Variatie: vervang passievrucht door kleine uitgeholde citroenschillen voor een zittiger, Europese presentatie — werkt even elegant maar met een heel andere smaakervaring.",
+        "Alternatief: geen verse peteh? Gebruik peteh uit blik van de Aziatische supermarkt — minder intens van geur maar geeft wel dezelfde textuur en bitterheid aan het gerecht."
+      ]
     },
     {
       "title": "Tumis Buncis Kecap — hartige roerbakboontjes",
@@ -6168,13 +6174,19 @@
           "description": "voeg sojasaus en ketjap manis toe. Laat direct verdampen op hoog vuur — de pan moet droog eindigen, niet nat. Breng op smaak met witte peper. Proef en serveer meteen."
         }
       ],
-      "chef_tip": "Gebruik maximaal 2 el ketjap op 4 personen — meer en je overstemt de knapperige bonen. De pan moet droog eindigen: dit is roerbakken, geen smoren.",
       "wine": {
         "naam": "Pinot Gris",
         "druif": "Pinot Gris",
-        "toelichting": "De zachte textuur en lichte zoetheid van een Elzasser Pinot Gris gaat mee met de ketjap zonder de knapperige bonen te overstemmen. Genoeg body om te dragen, genoeg frisheid om licht te blijven bij een rijsttafel. Serveer op 12°C.",
-        "alternatief": "Droge Grüner Veltliner of Verdejo"
-      }
+        "toelichting": "De zachte textuur en lichte zoetheid van een Elzasser Pinot Gris gaan mee met de ketjap zonder de knapperige bonen te overstemmen. De rijpe peer- en perziktonen van de wijn sluiten aan op de licht karamelachtige zoetheid van de ketjap manis, terwijl de zuurgraad de knoflook en de witte peper ondersteunt. Pinot Gris heeft genoeg body om een rijsttafel bij te houden maar is nooit zo zwaar dat hij de lichte groentesmaak verdrinkt. De ideale wijn voor een gerecht dat draagt zonder op te vallen. Serveer op 12°C.",
+        "alternatief": "Droge Grüner Veltliner — frisser en kruidiger, werkt uitstekend als de bonen centraal staan"
+      },
+      "tips": [
+        "Mise-en-place: blancheer de sperziebonen van tevoren en koel direct af in ijswater — zo blijven ze felgroen en knapperig en is de wok-stap snel en gecontroleerd.",
+        "Techniek: gebruik maximaal 2 el ketjap op 4 personen — meer en je overstemt de knapperige bonen. De pan moet droog eindigen: dit is roerbakken, geen smoren.",
+        "Presentatie: serveer in een kleine, warme schaal als rijsttafelbijgerecht naast het hoofdgerecht — de knapperige textuur en de goudbruine knoflookchips zijn het visuele contrast.",
+        "Variatie: voeg een mespuntje witte peper en een theelepel sesamolie toe als finishing voor extra diepte, of een handvol krokante gebakken sjalotjes bovenop.",
+        "Alternatief: geen sperziebonen? Gebruik haricots verts (fijne Franse sperziebonen) — dunner, knapperiger en garen nog sneller in de wok."
+      ]
     },
     {
       "title": "Sambal Goreng Telor — droge Javaanse variant",
@@ -6274,13 +6286,19 @@
           "description": "serveer warm of op kamertemperatuur met rijst, atjar of sajoer buncis."
         }
       ],
-      "chef_tip": "Maak de saus een dag van tevoren — hij wordt dieper en zachter van smaak. Voeg de eieren pas toe bij het opwarmen. En bak de eieren echt bruin vóór het stoven: dat krokante velletje is het verschil.",
       "wine": {
         "naam": "Riesling Spätlese",
         "druif": "Riesling",
-        "toelichting": "De residuele zoetheid van een Moezel Riesling Spätlese cushiont de sambal en maakt de umami van de trassi ronder. De strakke zuurgraad houdt het gerecht levendig. Serveer gekoeld op 9°C.",
-        "alternatief": "Off-dry Vouvray of een glas koel Bintang bier"
-      }
+        "toelichting": "De residuele zoetheid van een Moezel Riesling Spätlese buffert de hitte van de sambal en maakt de umami van de trassi ronder en toegankelijker. De hoge zuurgraad houdt het gerecht levendig en snijdt door de rijkdom van het ei en de coconutvette saus. Appelzuur en citrusnoten in de wijn geven een verfrissend contrast na de intense, pittige sambalsmaken. Spätlese heeft net genoeg suiker (rond 40-80 g/l) om de capsaïcine te neutraliseren zonder het gerecht te overstemmen. Serveer gekoeld op 9°C.",
+        "alternatief": "Off-dry Vouvray of een glas koel Bintang bier — het bier is in feite de meest authentieke begeleider"
+      },
+      "tips": [
+        "Mise-en-place: maak de saus een dag van tevoren — hij wordt dieper en zachter van smaak. Voeg de eieren pas toe bij het opwarmen.",
+        "Techniek: bak de eieren echt bruin voor het stoven — dat krokante velletje is het verschil. Dep de eieren altijd droog voor je ze bakt, anders spatten ze heftig.",
+        "Presentatie: halveer de eieren vlak voor serveren en leg ze met de dooier naar boven in de saus — de goudgele dooier en de roodbruine saus geven een dramatisch kleurenpalet.",
+        "Variatie: voeg een verse rawitpeper toe naast de sambal voor extra hitte, of een blaadje daun jeruk voor een citrusachtig aroma in de saus.",
+        "Alternatief: geen salamblad? Gebruik een laurierblad als vervanging — minder authentiek maar geeft dezelfde aromatische diepte aan de saus tijdens het stoven."
+      ]
     },
     {
       "title": "Gado Gado Culinair — warme salade met zijdezachte pindasaus",
@@ -6388,13 +6406,19 @@
           "description": "lepel warme pindasaus subtiel over het midden van een ondiep bord. Maak een ring van kool en sperziebonen eromheen. Leg komkommerlinten speels ertussen. Halveer de eieren en leg erop. Bestrooi met taugé, krokante sjalotjes en verse kruiden."
         }
       ],
-      "chef_tip": "Serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft rauw: dat frisse contrast maakt het gerecht. En lepel de saus subtiel over het midden, niet over alles — de groenten moeten zichtbaar blijven.",
       "wine": {
         "naam": "Riesling Kabinett",
         "druif": "Riesling",
-        "toelichting": "De lichte frisheid en fruitige tonen van een Riesling Kabinett snijden door de romigheid van de pindasaus zonder de delicate groenten te overstemmen. Een fractie suiker in de wijn slaat een brug naar de kokosmelk en palmsuiker. Serveer gekoeld op 9°C.",
-        "alternatief": "Droge Vouvray of Chenin Blanc"
-      }
+        "toelichting": "De fruitige frisheid en citrusmineraliteit van een droge Riesling Kabinett snijdt door de romigheid van de pindasaus op kokosmelkbasis en houdt het gerecht licht en verfrissend. De appel- en perziktonen van de Kabinett sluiten aan op de kokosmelk en de palmsuiker in de saus. Een fractie residuele suiker in de wijn bouwt een brug naar de zoetheid zonder het droge karakter te verliezen. De Riesling is licht genoeg om de delicate groenten niet te overstemmen maar heeft genoeg karakter voor de pindasaus. Serveer gekoeld op 9°C.",
+        "alternatief": "Droge Vouvray of Chenin Blanc — aromatischer en voller, werkt als de pindasaus centraal staat"
+      },
+      "tips": [
+        "Mise-en-place: serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.",
+        "Techniek: lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.",
+        "Presentatie: rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.",
+        "Variatie: voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.",
+        "Alternatief: geen kokosmelk voor de pindasaus? Gebruik volle slagroom — geeft een rijkere, minder tropische saus die in de winter uitstekend werkt."
+      ]
     },
     {
       "title": "Saté Ossenhaas op z'n Kambing — met ketumbar, laos en tamarinde",
@@ -6506,13 +6530,19 @@
           "description": "leg op een bord met een druppel pindasaus of ingekookte ketjap. Bestrooi met gebakken uitjes en verse koriander."
         }
       ],
-      "chef_tip": "Marineer minstens 1 uur, liefst 3. De tamarinde doet het echte werk: het breekt de zoetheid van de ketjap en geeft de marinade zijn karakter. Gril op hoog vuur en draai de spiesjes slechts één keer — zo krijg je een gelijkmatige, mooie korst.",
       "wine": {
         "naam": "Pinot Noir",
         "druif": "Pinot Noir",
-        "toelichting": "De zachte tannines en rode vruchten van een lichte Pinot Noir gaan mee met het malse vlees en laten de ketumbar en laos volledig tot hun recht komen. Niet te veel structuur — de kruiden moeten de hoofdrol houden. Serveer licht gekoeld op 14°C.",
-        "alternatief": "Jonge Barbera d'Asti of een glas koud Bintang bier"
-      }
+        "toelichting": "De zachte tannines en aardse rode vruchttonen van een Chambolle-Musigny of Elzasser Pinot Noir sluiten perfect aan op het malse ossenhaas en laten de ketumbar, laos en tamarinde volledig tot hun recht komen. Niet te veel structuur — de Javaanse kruiden moeten de hoofdrol houden. Tonen van kers, wilde framboos en een lichte aardse paddenstoelenondertoon complementeren de diepe marinade. Licht gekoeld serveren om de fruitigheid te benadrukken. Serveer op 14-15°C.",
+        "alternatief": "Jonge Barbera d'Asti — levendige zuurgraad die uitstekend aansluit bij de zoet-hartige tamarindemarinade"
+      },
+      "tips": [
+        "Mise-en-place: marineer minstens 1 uur, liefst 3. De tamarinde doet het echte werk: het breekt de zoetheid van de ketjap en geeft de marinade zijn karakter.",
+        "Techniek: gril op hoog vuur en draai de spiesjes slechts één keer — zo krijg je een gelijkmatige, mooie korst aan beide kanten.",
+        "Presentatie: bestrooi met gebakken uitjes en verse koriander direct voor serveren — nooit eerder, anders worden ze slap en verliest het gerecht zijn textuurcontrast.",
+        "Variatie: voeg kleine blokjes rode ui of paprika tussen het vlees voor kleur en extra smaak, of serveer met een ingekookte ketjap-limoensaus als alternatief voor pindasaus.",
+        "Alternatief: geen ossenhaas? Gebruik kippendij — sappiger, meer smaak en zelfs beter bestand tegen de aromatische kambing-marinade. Meer marineertijd nodig."
+      ]
     },
     {
       "title": "Sajoer Lodeh Culinair — tropische kokosmelkgroenten",
@@ -6629,13 +6659,19 @@
           "description": "breng op smaak met zout en een kneepje limoensap. Verwijder sereh en laurier. Schep in een kommetje en garneer met gebakken uitjes."
         }
       ],
-      "chef_tip": "Gebruik volle kokosmelk — geen light. En laat de sereh en daun salam twee minuten meepruttelen in de kokosmelk vóór de groenten erin gaan. Die twee minuten maken het verschil tussen een platte en een aromatisch diepe saus.",
       "wine": {
         "naam": "Viognier",
         "druif": "Viognier",
-        "toelichting": "De volle, aromatische body van een Rhône Viognier spiegelt de romige kokosmelk en versterkt de bloemenachtige tonen van citroengras en kurkuma. Perzik en abrikoos in de neus sluiten aan bij het tropische karakter van het gerecht. Serveer op 12°C.",
-        "alternatief": "Droge Muscat of een aromatische Torrontés"
-      }
+        "toelichting": "De volle, aromatische body van een Rhône Viognier — met tonen van witte perzik, abrikoos en witte bloesem — spiegelt de romige kokosmelk en versterkt de bloemige tonen van citroengras en kurkuma in de bumbu. De lichte rondheid van de Viognier gaat mee met de zachte, troostende textuur van de sajoer. Geen zure of scherpe wijn — de lodeh vraagt om warmte en aromatische overeenkomst. Vermijd houtgerijpte Viognier, die overspoelt de delicate bumbu. Serveer op 12°C.",
+        "alternatief": "Droge Muscat of aromatische Torrontés — even bloemig en tropisch, werkt uitstekend bij kokosgerechten"
+      },
+      "tips": [
+        "Mise-en-place: gebruik volle kokosmelk — geen light. Laat de sereh en daun salam twee minuten meepruttelen in de kokosmelk vóór de groenten erin gaan voor maximale aromaoverdracht.",
+        "Techniek: laat de kokosmelk nooit hard koken — altijd zacht sudderen. Hoge hitte scheidt de kokosmelk en geeft een korrelige, onaantrekkelijke textuur.",
+        "Presentatie: serveer in een warm diep kommetje als rustpunt tussen de pittige gerechten op de rijsttafel — de romige, zachte kleur is bewust rustgevend te midden van alle rode sambalgerechten.",
+        "Variatie: voeg een paar blokjes tempé of tofu toe in de laatste minuten voor extra eiwit en textuur, of een handvol jonge jackfruit voor een vlezige bite.",
+        "Alternatief: geen soepgroente mix? Gebruik elke combinatie van witte kool, wortel, courgette en paksoi — de bumbu draagt het gerecht, niet de specifieke groente."
+      ]
     },
     {
       "title": "Daging Smoor — Javaanse ketjapstoof met kruidnagel en nootmuskaat",
@@ -6747,13 +6783,19 @@
           "description": "breng op smaak met zout, peper en een drup limoensap — dat breekt het zoet en trekt het gerecht open. Serveer met saus erover, gebakken uitjes en een dun reepje chili."
         }
       ],
-      "chef_tip": "Bak de ui echt goed bruin — die karamelisatie is de basis van de diepte in smoor. Gebruik minder vocht dan je denkt nodig te hebben: je wilt een geconcentreerde, glanzende saus, geen soep. Het limoensap op het eind is geen optie — het is wat het gerecht wakker maakt.",
       "wine": {
         "naam": "Crozes-Hermitage",
         "druif": "Syrah",
-        "toelichting": "De donkere vruchten en rokerige ondertonen van een Crozes-Hermitage Syrah sluiten aan bij de geconcentreerde ketjap en kruidnagel. Genoeg structuur om het zoet te dragen, genoeg diepte om het niet te overstemmen. Serveer op 17°C.",
-        "alternatief": "Jonge Malbec of een rijpe Garnacha"
-      }
+        "toelichting": "De donkere vruchten, rokerige ondertonen en zwarte peper van een Crozes-Hermitage Syrah uit de Rhône sluiten naadloos aan bij de geconcentreerde ketjap, kruidnagel en nootmuskaat in de smoor. De Syrah heeft genoeg tanninenstructuur om het rijke stoofvlees bij te houden maar is niet zo zwaar dat het de zoete ketjapnoten overstemmt. Rokerige hints in de wijn resoneren met de langzaam gekarameliseerde ui. De peppery afdronk van de Syrah sluit aan op de zwarte peper in het gerecht. Serveer op 17°C.",
+        "alternatief": "Jonge Malbec uit Mendoza — rijk en donker van vrucht, werkt uitstekend bij de geconcentreerde ketjapsaus"
+      },
+      "tips": [
+        "Mise-en-place: bak de ui echt goed bruin — die karamelisatie is de basis van de diepte in smoor. Gebruik sucadelap, niet riblap: het dooraderde vet smelt weg in twee uur.",
+        "Techniek: gebruik minder vocht dan je denkt nodig te hebben — je wilt een geconcentreerde, glanzende saus, geen soep. Voeg limoensap op het eind toe: het maakt het gerecht wakker.",
+        "Presentatie: serveer met de glanzende, stroperige saus royaal erover gegoten — de donkere mahonie-kleur is het visuele handtekening van daging smoor.",
+        "Variatie: voeg een kaneelstokje en twee kruidnagels toe voor een warmere, complexere smaak, of een scheutje kokosmelk op het eind voor een rijkere, mildere saus.",
+        "Alternatief: geen sucadelap? Gebruik riblappe of korte rib — meer bot, meer smaak en even mals na twee uur stoven in de ketjap-kruidnagelsaus."
+      ]
     },
     {
       "title": "Pepesan Ikan Tong — Sundanese visfilet in bakpapier met kunyit en kemiri",
@@ -6870,13 +6912,19 @@
           "description": "open het pakje aan tafel — de geur van bumbu en stoom komt er direct uit. Knijp een partje limoen erover."
         }
       ],
-      "chef_tip": "Tong is minder vet dan makreel — gebruik iets minder trassi zodat de delicate vissmaak niet ondersneeuwd wordt. Het bakpapier werkt hier eigenlijk beter dan bananenblad: het houdt de vochtige stoom beter vast en de bumbu hecht directer aan de vis.",
       "wine": {
         "naam": "Chablis Premier Cru",
         "druif": "Chardonnay",
-        "toelichting": "De droge mineraliteit en citruszuurgraad van een Chablis Premier Cru sluiten naadloos aan bij de delicate tongfilet en de citroentonen van sereh en limoen in de bumbu. Kalksteenkarakter versus frisse kurkumapasta — een klassieke tegenstelling die werkt. Serveer goed gekoeld op 10°C.",
-        "alternatief": "Grüner Veltliner of droge Elzasser Pinot Blanc"
-      }
+        "toelichting": "De kurkdroge mineraliteit en citrusfrisheid van een Chablis Premier Cru — zonder houtinvloed, puur op kalksteenbodem — sluiten naadloos aan bij de delicate tongfilet en de citroentonen van sereh en limoen in de bumbu. Het kalksteenkarakter van de Chablis geeft een droge, strakke frisheid die de rijke bumbu doorsnijdt zonder de vis te overstemmen. Geen andere Chardonnay doet dit — alleen Chablis heeft de mineraliteit die vis en bumbu samen optilt. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Grüner Veltliner of droge Elzasser Pinot Blanc — friszurig en aromatisch, werkt uitstekend bij witvis in kruidenpakketje"
+      },
+      "tips": [
+        "Mise-en-place: tong is minder vet dan makreel — gebruik iets minder trassi zodat de delicate vissmaak niet ondersneeuwd wordt. Maak de bumbu van tevoren.",
+        "Techniek: het bakpapier werkt hier eigenlijk beter dan bananenblad — het houdt de vochtige stoom beter vast en de bumbu hecht directer aan de vis.",
+        "Presentatie: open het pakje aan tafel — de geur van bumbu en stoom die er direct uitkomt is de belofte van wat er volgt. Knijp een partje limoen erover bij het openen.",
+        "Variatie: voeg een paar blaadjes kemangi (citroenblasilicum) toe in het pakketje voor een bloemig, anijsachtig aroma dat perfect past bij de bumbu.",
+        "Alternatief: geen tongfilet? Gebruik zeebaarssfilet of heilbotfilet — dezelfde witte, magere structuur die de bumbu absorbeert zonder te vallen uit elkaar."
+      ]
     },
     {
       "title": "Ayam Rica Rica — kip in pittige Manadonese paprikasaus",
@@ -6997,13 +7045,19 @@
           "description": "verwijder sereh en salamblad. Druppel een tl limoensap erdoor. Scheur de kemangi-blaadjes er op het allerlaatste moment over — niet meer meekoken."
         }
       ],
-      "chef_tip": "Gebruik kippendijen met bot en vel — geen filet. Het vel geeft de saus zijn vettigheid, het bot geeft diepte. En de kemangi gaat er nooit in mee: pas toevoegen als het gerecht al op het bord ligt. Dan blijft de geur intact.",
       "wine": {
         "naam": "Grüner Veltliner",
         "druif": "Grüner Veltliner",
-        "toelichting": "De peppery frisheid en hoge zuurgraad van een Oostenrijkse Grüner Veltliner tempert de hitte van de lomboks en wast de vettigheid van de kippendijen weg. Mineraal, scherp en nooit zoet — precies wat deze vurige saus vraagt. Serveer goed gekoeld op 10°C.",
-        "alternatief": "Droge Riesling Kabinett of Vermentino"
-      }
+        "toelichting": "De pepery frisheid en hoge zuurgraad van een Oostenrijkse Grüner Veltliner tempert de hitte van de lomboks en wast de vettigheid van de kippendijen weg. De karakteristieke witpepertoon van de Grüner Veltliner resoneeert met de Manadonese chilihitte — geen conflict maar versterking. Mineraal, scherp en nooit zoet — precies wat deze vurige saus vraagt. Een Federspiel stijl is licht genoeg voor het hapje; een Smaragd geeft meer body voor de sterk gekruide saus. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Droge Riesling Kabinett of Vermentino — even fris en mineraal, werkt bij hitte en vettigheid"
+      },
+      "tips": [
+        "Mise-en-place: gebruik kippendijen met bot en vel — geen filet. Het vel geeft de saus zijn vettigheid, het bot geeft diepte. Maak de bumbu van tevoren.",
+        "Techniek: bak de bumbu 8-10 minuten op middelhoog vuur tot de olie eruit trekt en de pasta donkerder kleurt — dit is de meest cruciale stap die de smaakdiepte bepaalt.",
+        "Presentatie: voeg de kemangi-blaadjes op het allerlaatste moment toe — nooit meekoken. Pas toevoegen als het gerecht al op het bord ligt zodat de geur intact blijft.",
+        "Variatie: voeg verse groene lomboks toe naast de rode voor een frissere, minder zoete hitte, of een scheutje kokosmelk voor een zachtere, romigere saus.",
+        "Alternatief: geen verse lomboks? Gebruik sambal rawit uit een pot als basis — minder vers maar geeft dezelfde hitte. Voeg extra verse knoflook toe om de rauwe sambalrand te compenseren."
+      ]
     },
     {
       "title": "Babi Kecap — gestoofd varkensnekstuk met steranijs en dikke kecap",
@@ -7124,13 +7178,19 @@
           "description": "druppel op het eind een tl limoensap erdoor om het zoet te breken. Garneer met gebakken uitjes en chiliringen. Serveer met witte rijst."
         }
       ],
-      "chef_tip": "Procureur is geen toeval: het dooradering vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Gebruik geen mager varkensvlees — dat droogt uit. En voeg het limoensap op het eind toe: één tl breekt de zoetheid van de kecap precies genoeg.",
       "wine": {
         "naam": "Zinfandel",
         "druif": "Zinfandel",
-        "toelichting": "De rijpe zwarte vruchten, hoge alcoholgraad en lichte zoetheid van een Californische Zinfandel sluiten naadloos aan bij de donkere kecap en steranijs. Genoeg kracht om het vette vlees bij te houden, genoeg fruitigheid om de palmsuiker te spiegelen. Serveer op 17°C.",
-        "alternatief": "Primitivo di Manduria of een rijpe Malbec"
-      }
+        "toelichting": "De rijpe zwarte vruchten, hoge alcoholgraad en lichte zoetheid van een Californische Zinfandel sluiten naadloos aan bij de donkere kecap en steranijs in de babi kecap. De jamachtige bramen- en pruimentonen van de Zinfandel weerspiegelen de geconcentreerde zoetzure kecap. Genoeg kracht om het vette procureur bij te houden, genoeg fruitigheid om de palmsuiker te spiegelen. Zinfandel heeft ook een karakteristiek kruidige, peperachtige afdronk die de specerijen in het gerecht versterkt. Serveer op 17°C.",
+        "alternatief": "Primitivo di Manduria — de Italiaanse neef van Zinfandel, even donker en krachtig maar iets eleganter"
+      },
+      "tips": [
+        "Mise-en-place: procureur is geen toeval — het dooraderde vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Nooit mager varkensvlees gebruiken.",
+        "Techniek: bak de ui echt goed bruin — 8 tot 10 minuten op laag vuur. Die diepe karamelisatie is het fundament van de smaakdiepte van babi kecap.",
+        "Presentatie: serveer met witte rijst — de glanzende, mahoniekleurige saus naast de witte rijst is een klassiek Indonesisch kleurcontrast dat direct eetlust opwekt.",
+        "Variatie: voeg een kaneelstokje en een steranijs toe tijdens het stoven voor een warmere, complexere smaak die de kecap dieper maakt.",
+        "Alternatief: geen dikke kecap ABC? Gebruik ketjap manis en kook hem 5 minuten extra in om hem dikker en geconcentreerder te maken — bereikt 80% van het resultaat."
+      ]
     },
     {
       "title": "Ikan Asam Padeh — zeebaars gestoofd in zure, pikante Padangsaus",
@@ -7255,13 +7315,19 @@
           "description": "breng op smaak met zout en peper. Verwijder de sereh. Leg de vis in diepe borden, schep saus erover en garneer met verse lombokringen."
         }
       ],
-      "chef_tip": "Kies zeebaars boven kabeljauw: de stevigere structuur houdt het stoven beter vol en de smaak is voller. En roer de vis nooit om — leg hem erin en laat hem met rust. Asam padeh is op zijn best als de vis net gaar is en de saus nog helder en fris smaakt.",
       "wine": {
         "naam": "Vermentino di Sardegna",
         "druif": "Vermentino",
-        "toelichting": "De bittere afdronk, citrusfrisheid en lichte mineraliteit van een Sardijnse Vermentino sluiten naadloos aan bij de tamarindezuurheid en de hitte van de lombok. Licht genoeg voor de vis, krachtig genoeg voor de pikante saus. Serveer ijskoud op 9°C.",
-        "alternatief": "Droge Picpoul de Pinet of Assyrtiko uit Santorini"
-      }
+        "toelichting": "De lichte bitterheid, citrusfrisheid en mineraliteit van een Sardijnse Vermentino di Sardegna sluiten naadloos aan bij de tamarindezuurheid en de hitte van de lombok in de asam padeh-saus. De typische bittere amandeltoon in de afdronk van Vermentino geeft een interessant contrast met de zoetzure saus. Licht genoeg voor de vis, krachtig genoeg voor de pittige saus — Vermentino heeft precies de juiste balans. De mineraliteit van de wijn resoneeert met de vistige ziltachtige smaak van de zeebaars. Serveer ijskoud op 9°C.",
+        "alternatief": "Droge Picpoul de Pinet of Assyrtiko uit Santorini — even fris en mineraal, werkt uitstekend bij hete vissaus"
+      },
+      "tips": [
+        "Mise-en-place: kies zeebaars boven kabeljauw — de stevigere structuur houdt het stoven beter vol. Roer de vis nooit om — leg hem erin en laat hem met rust.",
+        "Techniek: bouw de saus eerst 10 minuten op vóór de vis erin gaat — de bumbu moet volledig gaar en aromatisch zijn voor het delicate visvlees in contact komt met de hitte.",
+        "Presentatie: serveer de vis in diepe borden, schep saus erover en garneer met verse lombokringen — de helderrode kleur van de saus is het visuele statement van dit Padanggerecht.",
+        "Variatie: voeg een stukje verse kurkumawortel toe aan de bumbu naast het poeder voor een intensere, aardsere geelgroene kleur en diepere smaak.",
+        "Alternatief: geen tamarindepasta? Gebruik de sap van een hele lime en een theelepel bruine suiker — geeft vergelijkbare zoetzure spanning maar lichter en frisser van karakter."
+      ]
     },
     {
       "title": "Rendang Sapi — award-winning slowoven rendang (110°C, 4 uur)",
@@ -7406,13 +7472,19 @@
           "description": "laat 10 minuten rusten. Verwijder sereh, salam en kaneel. Serveer met witte rijst en eventueel atjar."
         }
       ],
-      "chef_tip": "Kerisik is niet optioneel — het is het onderscheid tussen gewone en award-winning rendang. Zonder kerisik krijg je een gestoofde kipsaus. Mét kerisik krijg je die typische droge, korrelige coating die aan elk stukje vlees hecht. En gebruik sucadelap, niet riblap: het dooraderde vet smelt weg in vier uur en geeft het vlees zijn draadjesstructuur.",
       "wine": {
         "naam": "Barossa Valley Shiraz",
         "druif": "Shiraz",
-        "toelichting": "De volle body, donkere vruchten en peperige ondertonen van een Barossa Valley Shiraz zijn het enige dat de complexe diepte van een rendang bijhoudt. Hoge alcohol draagt het vet, rijpe tannines werken met de geconcentreerde kokossaus. Serveer op 17°C.",
-        "alternatief": "Amarone della Valpolicella of een rijpe Malbec uit Mendoza"
-      }
+        "toelichting": "De volle body, donkere vruchten en peperige ondertonen van een Barossa Valley Shiraz zijn het enige dat de complexe, gelaagde diepte van een award-winning rendang bijhoudt. Blackberry, pruim, donkere chocolade en een vleugje gerookt vlees in de wijn resoneeert met de geconcentreerde kokossaus en de geroosterde kerisik. Hoge alcohol (14-15%) draagt het vet; rijpe tannines werken samen met de geconcentreerde bumbu. Rendang is het rijkste, meest complexe gerecht in de Indonesische keuken — de wijn moet evenaardig zijn. Serveer op 17°C.",
+        "alternatief": "Amarone della Valpolicella — Italiaanse tegenpool met dezelfde concentratie en diepte als Barossa Shiraz"
+      },
+      "tips": [
+        "Mise-en-place: kerisik is niet optioneel — het is het onderscheid tussen gewone en award-winning rendang. Maak hem van tevoren en bewaar droog. Gebruik sucadelap, niet riblap.",
+        "Techniek: oven op 110°C met eerste 3 uur afgedekt, laatste uur zonder deksel — dat laatste uur droogt de saus in en hecht de kerisik aan het vlees. Dat is het moment van de rendang.",
+        "Presentatie: een goede rendang heeft geen zichtbare saus — alleen droog, donkerbruin, glanzend vlees bedekt met kerisik. Als er veel vocht zichtbaar is, is hij nog niet klaar.",
+        "Variatie: voeg een stuk gedroogde tamarinde toe aan de saus voor extra zure diepte, of een extra stuk galanga voor een scherpere, aardsere ondertoon.",
+        "Alternatief: geen sucadelap? Gebruik korte rib (short rib) — meer vet, meer collageen, smelt nog malser na vier uur en geeft een rijkere, zwaardere rendang."
+      ]
     },
     {
       "title": "Babi Pangang van krokante speklapjes met gelakte pangangsaus",
@@ -9277,13 +9349,19 @@
           "description": "rooster het puntje licht. Smeer een dun laagje mayo. Leg de kip royaal op het brood. Laat de atjar even uitlekken en leg er flink wat op. Serveer direct."
         }
       ],
-      "chef_tip": "Laat de kip na het sudderen 10 minuten rusten — de saus trekt er nog verder in. En laat de atjar goed uitlekken voor je hem op het brood legt: een natte atjar maakt de korst zompig, een droge atjar geeft fris en knapperig contrast.",
       "wine": {
         "naam": "Riesling Kabinett",
         "druif": "Riesling",
-        "toelichting": "De fruitige frisheid en lichte residuele zoetheid van een Riesling Kabinett tempert de hitte van de Madame Jeanette en sluit aan bij de ketjap. Serveer gekoeld op 9°C.",
-        "alternatief": "Off-dry Gewürztraminer of een koud Parbo bier"
-      }
+        "toelichting": "De fruitige frisheid en lichte residuele zoetheid van een Moezel Riesling Kabinett tempert de hitte van de Madame Jeanette en sluit aan op de ketjap in de kerriesaus. De appel- en citrusnoten van de Riesling geven verfrissend contrast na elke kruidige, zoetzure hap kip. De lage alcohol maakt het drinkbaar bij dit hartige broodje. Een Kabinett heeft precies genoeg zoetheid om de scherpe Madame Jeanette-hitte te neutraliseren zonder het droge, minerale karakter te verliezen. Serveer gekoeld op 9°C.",
+        "alternatief": "Off-dry Gewürztraminer — bloemiger en aromatischer, werkt uitstekend bij de complexe Surinaamse kruidenmix"
+      },
+      "tips": [
+        "Mise-en-place: laat de kip na het sudderen 10 minuten rusten — de saus trekt er nog verder in. Laat de atjar de avond ervoor maken voor meer smaak.",
+        "Techniek: activeer het kerriepoeder door het 1-2 minuten in de olie te bakken voor de kip erbij gaat — rauwe kerrie is poederig, gebakken kerrie is diep en aromatisch.",
+        "Presentatie: laat de atjar goed uitlekken voor je hem op het broodje legt — natte atjar maakt de korst zompig, droge atjar geeft fris contrast en behoud van knapperigheid.",
+        "Variatie: voeg een heel Madame Jeanette-pepertje toe aan de saus — heel, niet doorgesneden — voor sluimerende hitte die de kerrie verdiept zonder brandend heet te worden.",
+        "Alternatief: geen Surinaams puntje? Gebruik een stevig ciabatta of een Turks broodje — dezelfde knapperige korst en luchtige binnenkant die de saus opvangt zonder te verzuipen."
+      ]
     },
     {
       "title": "Surinaams broodje stoofvlees met ketjap, piment en peperzuur",
@@ -9441,13 +9519,19 @@
           "description": "warm het puntje op. Leg het stoofvlees royaal op het brood. Schep een lepel saus erover. Leg zuurgoed of peperzuur erbij. Geen mayo, geen kaas, geen sla — dit is straateten."
         }
       ],
-      "chef_tip": "Maak het stoofvlees een dag eerder. Na een nacht in de koelkast smelt de saus en het vlees samen tot iets wat vers nooit wordt. Opwarmen op laag vuur met een klein scheutje water als het te droog is geworden.",
       "wine": {
         "naam": "Malbec",
         "druif": "Malbec",
-        "toelichting": "De rijpe pruimige vruchten en ronde tannines van een Mendoza Malbec sluiten aan bij de ketjap en het gestoofde vlees. Krachtig genoeg om de piment bij te houden. Serveer op 17°C.",
-        "alternatief": "Jonge Zinfandel of Primitivo"
-      }
+        "toelichting": "De rijpe pruimige vruchten, ronde tannines en lichte kruidigheid van een Mendoza Malbec sluiten naadloos aan bij de ketjap en het langzaam gestoofde rundvlees. De donkere vruchtinkt van de Malbec — bramen, pruim, violette bloesem — resoneeert met de geconcentreerde ketjapsaus. Krachtig genoeg om de piment en komijn in de marinade bij te houden, maar nooit zo hard dat het de eerlijke, streetfood-sfeer van het gerecht breekt. Malbec is ook rijk genoeg voor de suddersaus die over het puntje loopt. Serveer op 17°C.",
+        "alternatief": "Jonge Zinfandel — fruitiger en speelser, werkt uitstekend bij de zoet-hartige stoofvleessaus"
+      },
+      "tips": [
+        "Mise-en-place: maak het stoofvlees een dag eerder — na een nacht in de koelkast smelt de saus en het vlees samen tot iets wat vers nooit wordt.",
+        "Techniek: bak het vlees in porties donkerbruin — een volle pan geeft stoom. Neem de tijd voor de aanbraadstap: die karamelisatie is de basis van de donkere smaakdiepte.",
+        "Presentatie: schep een lepel saus royaal over het vlees — de glanzende, donkere saus op het knapperige puntje is het straateten-statement van dit gerecht.",
+        "Variatie: voeg een mespuntje piment (allspice) toe aan de marinade voor een warm, Caribisch karakter dat typisch is voor de Surinaamse keuken.",
+        "Alternatief: geen riblappen? Gebruik sukadelap of schouderkarbonade — beide hebben voldoende vet en bindweefsel om na 2,5 uur stoven draadjesmals te worden."
+      ]
     },
     {
       "title": "Nori Cannoli met tonijncrème, citroen en zwarte sesam",
@@ -9771,13 +9855,19 @@
           "description": "leg een rijstpapiercrisp op elk bord. Schep een lepel krabsalade erop. Druppel kaffir-limoenolie rondom. Werk af met een paar blaadjes koriander, een snufje rode peper en een limoenwedge."
         }
       ],
-      "chef_tip": "Koop de krabsalade de ochtend zelf en houd hem koud tot serveren. En maak de rijstpapiercrisps pas als je ze nodig hebt — ze worden snel zacht door luchtvochtigheid. Bewaar ze maximaal 2 uur in een afgesloten bak.",
       "wine": {
         "naam": "Grüner Veltliner",
         "druif": "Grüner Veltliner",
-        "toelichting": "De pepery frisheid en citrusnoten van een Oostenrijkse Grüner Veltliner sluiten aan bij de kaffir-limoenolie en de delicate krabsmaak zonder de mango te overstemmen. Licht genoeg voor het hapje, complex genoeg om interessant te blijven. Serveer op 10°C.",
-        "alternatief": "Droge Riesling of Vermentino di Sardegna"
-      }
+        "toelichting": "De karakteristieke witpepertoon, citrusfrisheid en lichte mineraliteit van een Oostenrijkse Grüner Veltliner sluiten naadloos aan bij de kaffir-limoenolie en de delicate krabsmaak zonder de rijpe mango te overstemmen. De levendige zuurgraad snijdt door de lichte vettigheid van de krab en houdt het hapje fris na elke hap. Licht genoeg voor de delicate krabsmaak, krachtig genoeg voor de aromatische kaffir-limoenolie — Grüner Veltliner heeft precies de juiste balans. Serveer goed gekoeld op 10°C.",
+        "alternatief": "Droge Riesling Kabinett of Vermentino di Sardegna — even fris en mineraal bij tropisch fruit en schaaldieren"
+      },
+      "tips": [
+        "Mise-en-place: koop de krabsalade de ochtend zelf en houd hem koud tot serveren. Maak de rijstpapiercrisps pas als je ze nodig hebt — ze worden snel zacht door luchtvochtigheid.",
+        "Techniek: maak de kaffir-limoenolie door de blaadjes kort te infuseren in lauwwarme olie — nooit koken, anders verlies je de frisse citrusaroma's die de olie zijn karakter geven.",
+        "Presentatie: leg de rijstpapiercrisp als eerste op het bord, schep de krab-mangosalsa erop en druppel de olie rondom — zo ziet de crisp zijn frisheid en knapperigheid.",
+        "Variatie: voeg een mespuntje rood chilisap of fijngesneden bird's eye peper toe aan de krabsalade voor Thaise hitte die de mango en kaffir mooi aanvult.",
+        "Alternatief: geen verse krab van de visboer? Gebruik kwaliteitskrab uit een blikje (uitgelekt en drooggedept) of surimi van goede kwaliteit — aangemaakt met dezelfde dressing."
+      ]
     },
     {
       "title": "Langoustine in filodeeg met appel, gember en dragon",
@@ -12481,21 +12571,19 @@
           "description": "schep een dot vulling op elk ananasblokje. Korianderbladje, pinda en eventueel rode prik als finishing. Serveren op kamertemperatuur."
         }
       ],
-      "chef_tip": "Vulling kan een dag van tevoren worden gemaakt. Op kamertemperatuur laten komen voor serveren. Pas vlak voor serveren op de ananas scheppen.\n\nKorianderwortel: verkrijgbaar bij de toko — meest aromatisch deel van de plant. Steeltjes zijn een goed alternatief.\n\nBalans: proef altijd voor het van het vuur gaat. Meer vissaus = zouter, meer tamarinde = frisser, meer palmsuiker = dieper.\n\nPresentatie: hak het gehaktmengsel na het bakken iets fijner — compacte textuur oogt eleganter op een klein hapje.\n\nVariatie: vervang varkensgehakt door garnalen voor een lichter, frissers hapje — garnalen kort roerbakken, dan dezelfde saus.\n\nAlternatief voor ananas: stevige mandarijnsegmenten — bolle kant naar beneden voor stabiliteit. Dep goed droog voor gebruik. Alternatief voor palmsuiker: bruine basterdsuiker of kokossuiker.",
       "wine": {
         "naam": "Gewurztraminer d'Alsace",
         "druif": "Gewurztraminer",
-        "toelichting": "Droog tot licht rond, sterk aromatisch, lychee, roze, exotisch fruit. Rijke, uitgesproken aromatische wijn met tropische tonen. Aromatische rijkdom sluit aan op palmsuiker en ananas. Lichte zoetheid balanceert vissaus.",
-        "alternatief": "Droge Riesling d'Alsace."
+        "toelichting": "De rijke aromatiek van een Elzasser Gewurztraminer — lychee, rozenwater, gember en exotisch fruit — sluit naadloos aan op de palmsuiker en de rijpe ananas in dit klassieke Thaise hapje. De lichte zoetheid tempert de vissaus en tamarinde; de aromatische kracht gaat mee met de knoflook en korianderwortel in de vulling. Gewurztraminer heeft net genoeg body voor de gekarameliseerde varkensgehakt maar is nooit zo zwaar dat hij de delicate ananasfrisheid overstemmt. Serveer gekoeld op 9°C.",
+        "alternatief": "Droge Riesling d'Alsace — frisser en strakker, werkt als de vulling erg pittig is"
       },
       "variaties": "",
       "tips": [
-        "Vulling kan een dag van tevoren worden gemaakt. Op kamertemperatuur laten komen voor serveren. Pas vlak voor serveren op de ananas scheppen.",
-        "Korianderwortel: verkrijgbaar bij de toko — meest aromatisch deel van de plant. Steeltjes zijn een goed alternatief.",
-        "Balans: proef altijd voor het van het vuur gaat. Meer vissaus = zouter, meer tamarinde = frisser, meer palmsuiker = dieper.",
-        "Presentatie: hak het gehaktmengsel na het bakken iets fijner — compacte textuur oogt eleganter op een klein hapje.",
-        "Variatie: vervang varkensgehakt door garnalen voor een lichter, frissers hapje — garnalen kort roerbakken, dan dezelfde saus.",
-        "Alternatief voor ananas: stevige mandarijnsegmenten — bolle kant naar beneden voor stabiliteit. Dep goed droog voor gebruik. Alternatief voor palmsuiker: bruine basterdsuiker of kokossuiker."
+        "Mise-en-place: de vulling kan een dag van tevoren worden gemaakt — hij wordt alleen maar beter. Schep pas vlak voor serveren op de ananas.",
+        "Techniek: karamelliseer het gehakt goed op middelhoog vuur — de palmsuiker en vissaus moeten echt inkoken tot een droge, kleverige massa. Te nat en de vulling glijdt van de ananas.",
+        "Presentatie: gebruik een rijpe maar stevige ananas — te zachte ananas lekt vocht en maakt de vulling waterig. Snijd blokjes van exact 3×3 cm voor een strak mozaïek-effect.",
+        "Variatie: vervang varkensgehakt door garnalengehakt voor een lichter, frisser hapje, of gebruik tempé voor een vegetarische variant met extra textuur.",
+        "Alternatief: geen verse ananas? Gebruik stevige ananas uit blik (uitgelekt en drooggedept) — minder zoet en intenser van smaak, werkt zelfs iets beter bij de pittige vulling."
       ]
     },
     {
@@ -12641,21 +12729,19 @@
           "description": "schep een spiegel saus op elk warm bord. Waaier 5 flinterdunne varkenshaas-slices erover. Druppel kokosroom. Kaffir lime-chiffonade, rode prik, pinda en basilicum als finishing. Jasmiinrijst apart."
         }
       ],
-      "chef_tip": "Pastabakken in kokosroom: de meest cruciale stap — nooit overslaan. Droog en geurig bakken voor de rest erbij gaat.\n\nKerntemperatuur: gebruik een thermometer — 58°C geeft perfect rosé resultaat. Varkenshaas droogt snel uit bij hogere temperatuur.\n\nMakrut lime-chiffonade: altijd de nerf verwijderen. Ultrafijn snijden — dit is de aromatische finishing van elke panang.\n\nSaus van tevoren: panang-saus wordt beter als hij even staat. Maak een dag eerder en verwarm rustig voor serveren.\n\nVariatie: vervang varkenshaas door kippendij voor een sappiger, iets toegankelijker versie — kip neemt de kokossaus prachtig op.\n\nAlternatief: gebruik Mae Ploy of Maesri Panang Curry Paste + verse galanga + kaffir limoenschil + extra gemalen pinda. Nog steeds goed bakken in kokosroom — dat maakt het verschil.",
       "wine": {
         "naam": "Pinot Gris d'Alsace",
         "druif": "Pinot Gris",
-        "toelichting": "Vol, aromatisch, licht rond, abrikoos, lichte rooksmaak. Rijke, volle witte wijn met steenfruitaroma's. Volle textuur spiegelt romigheid van kokossaus. Aromatiek sluit aan op kaffir limoen.",
-        "alternatief": "Viognier of Chenin Blanc demi-sec."
+        "toelichting": "De volle textuur en steenfruitaromatiek van een Elzasser Pinot Gris — witte perzik, abrikoos, honing en een lichte rokerige ondertoon — spiegelt de romigheid van de dikke kokossaus en sluit aan op kaffir limoen en galanga in de bumbu. De lichte rondheid van de Pinot Gris geeft voldoende body om de rijke, complexe panangsaus bij te houden zonder er doorheen gedrukt te worden. Een vendange tardive of Sélection de Grains Nobles versie geeft extra diepte bij de specerijenrijke saus. Serveer op 12°C.",
+        "alternatief": "Viognier of Chenin Blanc demi-sec — aromatisch en licht rond, werkt uitstekend bij kokos en lemongrass"
       },
       "variaties": "",
       "tips": [
-        "Pastabakken in kokosroom: de meest cruciale stap — nooit overslaan. Droog en geurig bakken voor de rest erbij gaat.",
-        "Kerntemperatuur: gebruik een thermometer — 58°C geeft perfect rosé resultaat. Varkenshaas droogt snel uit bij hogere temperatuur.",
-        "Makrut lime-chiffonade: altijd de nerf verwijderen. Ultrafijn snijden — dit is de aromatische finishing van elke panang.",
-        "Saus van tevoren: panang-saus wordt beter als hij even staat. Maak een dag eerder en verwarm rustig voor serveren.",
-        "Variatie: vervang varkenshaas door kippendij voor een sappiger, iets toegankelijker versie — kip neemt de kokossaus prachtig op.",
-        "Alternatief: gebruik Mae Ploy of Maesri Panang Curry Paste + verse galanga + kaffir limoenschil + extra gemalen pinda. Nog steeds goed bakken in kokosroom — dat maakt het verschil."
+        "Mise-en-place: het pastabakken in kokosroom is de meest cruciale stap — nooit overslaan, nooit haastig. De pasta moet echt geurig en droog bakken voordat de vloeistof erbij gaat.",
+        "Techniek: gebruik een kernthermometer voor de varkenshaas — 58°C is perfect rosé, meer is droog. Laat 10 minuten rusten voor je snijdt.",
+        "Presentatie: schep een spiegel saus op elk warm bord, waaier 5 flinterdunne varkenshaasplakken eroverheen en druppel dikke kokosroom als witte stippen — minimalistisch en elegant.",
+        "Variatie: voeg een extra el geroosterde pinda's toe aan de saus voor meer textuur, of gebruik kaffir lime-chiffonade als finishing voor visuele elegantie én fris citrusaroma.",
+        "Alternatief: geen tijd voor zelfgemaakte panangpasta? Gebruik Mae Ploy of Maesri Panang Curry Paste en voeg verse galanga, kaffir limoenschil en extra gemalen pinda toe — nog steeds goed bakken in kokosroom, dat maakt het verschil."
       ]
     },
     {
@@ -12774,21 +12860,19 @@
           "description": "spreid de mangosalade luchtig uit op een groot koud bord. Drapeer de entrecôte-plakjes er elegant over en naast. Druppel resterende dressing over het vlees. Pinda's, munt, koriander en rode chili als finishing."
         }
       ],
-      "chef_tip": "Mango: rijp maar stevig — te zacht geeft papperige textuur. Druk met duim: moet meegeven maar niet inzakken.\n\nDwars op de draad snijden: essentieel voor malse plakjes. Met de draad mee geeft taai, draadjesvlees-textuur.\n\nDressing dosering: gebruik altijd minder dan instinctief. Het bord moet elegant en droog blijven.\n\nVariatie: vervang entrecôte door bavette voor meer uitgesproken rundsmaak, of gebruik kipsaté-stijl kippendij voor een lichtere, toegankelijkere salade.\n\nAlternatief voor mango: rijpe nectarine of stevige mango uit blik (goed uitgelekt) als rijpe mango niet beschikbaar is.\n\nAlternatief: groene mango geeft een frisser, scherpere en minder zoete versie van deze salade — perfect in de zomer.",
       "wine": {
         "naam": "Bandol Rosé",
         "druif": "Mourvèdre, Grenache, Cinsault",
-        "toelichting": "Droog, fris, licht kruidig, subtiel rood fruit, structuur. Gastronomische rosé met frisse zuren en genoeg body. Mourvèdre-basis geeft structuur voor vlees en pittige dressing. Zuren bij limoen en tamarinde.",
-        "alternatief": "Saumur-Champigny of droge Grüner Veltliner."
+        "toelichting": "Een gastronomische Bandol Rosé — de meest serieuze rosé van Frankrijk — heeft de frisse zuurgraad en genoeg body voor zowel het rosé rundvlees als de pittige nam jim jaew-dressing. De Mourvèdre-basis geeft een lichte kruidigheid en structuur die de entrecôte aanvult; de frisheid werkt verfrissend bij limoen en tamarinde in de dressing. Tonen van wilde aardbeien en provençaalse kruiden sluiten aan op de verse munt en koriander. Een Bandol rosé heeft de ernst die dit gerecht verdient. Serveer op 10°C.",
+        "alternatief": "Saumur-Champigny of droge Grüner Veltliner — frisser en mineralerder, werkt uitstekend bij de zure nam jim dressing"
       },
       "variaties": "",
       "tips": [
-        "Mango: rijp maar stevig — te zacht geeft papperige textuur. Druk met duim: moet meegeven maar niet inzakken.",
-        "Dwars op de draad snijden: essentieel voor malse plakjes. Met de draad mee geeft taai, draadjesvlees-textuur.",
-        "Dressing dosering: gebruik altijd minder dan instinctief. Het bord moet elegant en droog blijven.",
-        "Variatie: vervang entrecôte door bavette voor meer uitgesproken rundsmaak, of gebruik kipsaté-stijl kippendij voor een lichtere, toegankelijkere salade.",
-        "Alternatief voor mango: rijpe nectarine of stevige mango uit blik (goed uitgelekt) als rijpe mango niet beschikbaar is.",
-        "Alternatief: groene mango geeft een frisser, scherpere en minder zoete versie van deze salade — perfect in de zomer."
+        "Mise-en-place: snijd de entrecôte altijd dwars op de draad voor maximale malsheid. Mango: rijp maar stevig — te zacht geeft papperige textuur die de salade doet instorten.",
+        "Techniek: gril de entrecôte op een gloeiend hete pan en draai slechts één keer — zo krijg je een mooie korst aan beide kanten zonder het vlees uit te drogen. Laat 6-8 minuten rusten.",
+        "Presentatie: drapeer de entrecôte-plakjes losjes en eleganter over de mangosalade — nooit strak opgestapeld. Het bloed van het vlees mag lopen in de nam jim: dat is het moment.",
+        "Variatie: vervang entrecôte door bavette voor meer rundsmaak, of gebruik groene mango in plaats van rijpe voor een frissere, scherpere versie van de salade.",
+        "Alternatief: geen nam jim jaew-ingrediënten volledig bij de hand? Maak een snelle versie van limoensap, vissaus, suiker en een snuf chilipeper — eenvoudiger maar even fris."
       ]
     },
     {
@@ -12914,21 +12998,19 @@
           "description": "rijg kip op geweekte bamboespiesjes. Grillpan op hoogste vuur. 1,5–2 minuten per kant. Bestrijk tijdens het grillen met de APART GEHOUDEN marinade — nooit de gebruikte marinade die kip heeft geraakt. 1 minuut rusten. Serveer met pindasaus en ajad apart."
         }
       ],
-      "chef_tip": "Kippendij, NOOIT kipfilet: kippendij droogt niet uit op hoog vuur en geeft veel meer smaak.\n\n2 tl kurkuma: geeft de authentieke intens goudgele Bangkok-kleur. Niet bezuinigen — dit onderscheidt Thaise saté van Indonesische.\n\nVoedselveiligheid: bewaar altijd een deel marinade apart voor bebotering — gebruik nooit marinade die in contact is geweest met rauw vlees.\n\nBamboespiesjes: altijd 30 minuten weken in water voor gebruik, anders verbranden ze direct.\n\nVariatie: vervang kip door varkenshaas in dunne reepjes voor een rijkere, iets zoetere saté — marineertijd verkorten tot 4 uur.\n\nAlternatief voor palmsuiker: bruine basterdsuiker of kokossuiker. Alternatief voor pindakaas in de saus: kant-en-klare pindasaus (Conimex) aanvullen met verse currypasta en tamarinde.",
       "wine": {
-        "naam": "Verdejo — Rueda, Spanje",
+        "naam": "Verdejo",
         "druif": "Verdejo",
-        "toelichting": "Droog, fris, licht kruidig, citrus, subtiele bitterheid. Levendige Spaanse witte wijn met frisse zuren. Frisse zuren snijden door pindasaus. Kruidigheid bij citroengras en kurkuma.",
-        "alternatief": "Chenin Blanc demi-sec — lichte rondheid complementeert kokos en palmsuiker."
+        "toelichting": "De levendige citrusfrisheid en subtiele bitterheid van een Rueda Verdejo snijden door de romige pindasaus en sluiten aan op het citroengras en de kurkuma in de marinade. De kruidige ondertoon van de Verdejo — een beetje gras, een beetje fenkel — resoneert met de koriander en de korianderwortel in de bumbu. Verdejo heeft voldoende body voor de pindasaus maar is nooit te zwaar voor de delicate gegrilde kip. Een onderschatte combinatie die in de Spaans-Aziatische fusionskeuken steeds vaker opduikt. Serveer goed gekoeld op 9°C.",
+        "alternatief": "Chenin Blanc demi-sec — lichte residuele zoetheid die de kokosmelk en palmsuiker in de pindasaus complementeert"
       },
       "variaties": "",
       "tips": [
-        "Kippendij, NOOIT kipfilet: kippendij droogt niet uit op hoog vuur en geeft veel meer smaak.",
-        "2 tl kurkuma: geeft de authentieke intens goudgele Bangkok-kleur. Niet bezuinigen — dit onderscheidt Thaise saté van Indonesische.",
-        "Voedselveiligheid: bewaar altijd een deel marinade apart voor bebotering — gebruik nooit marinade die in contact is geweest met rauw vlees.",
-        "Bamboespiesjes: altijd 30 minuten weken in water voor gebruik, anders verbranden ze direct.",
-        "Variatie: vervang kip door varkenshaas in dunne reepjes voor een rijkere, iets zoetere saté — marineertijd verkorten tot 4 uur.",
-        "Alternatief voor palmsuiker: bruine basterdsuiker of kokossuiker. Alternatief voor pindakaas in de saus: kant-en-klare pindasaus (Conimex) aanvullen met verse currypasta en tamarinde."
+        "Mise-en-place: kippendij is hier verplicht — kipfilet droogt uit op hoog grillvuur. Bewaar altijd 3 el marinade apart voor bebotering tijdens het grillen — nooit de gebruikte marinade hergebruiken.",
+        "Techniek: gebruik 2 tl kurkuma — niet bezuinigen. Die authentieke intens goudgele Bangkok-kleur is het visuele handtekening van de saté, niet alleen decoratief maar onderdeel van de smaak.",
+        "Presentatie: serveer 3 spiesjes per persoon op een bananenblad of donkere leisteen — de goudgele kleur van de saté naast de witte ajad en de donkere pindasaus geeft een prachtig kleurenpalet.",
+        "Variatie: vervang kip door varkenshaas in dunne reepjes voor een rijkere smaak — marineertijd verkorten tot 4 uur en dezelfde techniek toepassen.",
+        "Alternatief: geen palmsuiker? Gebruik bruine basterdsuiker of kokossuiker — geeft vergelijkbare karamelachtige diepte in de marinade en dezelfde glans op het gegrilde vlees."
       ]
     },
     {
@@ -13042,21 +13124,19 @@
           "description": "verhit een kleine pan met 1 cm olie tot bijna rookpunt. Breek het ei van hoogte in — de hete olie geeft direct krokante randen. 45–60 seconden. Leg op de krapao. Rijst ernaast."
         }
       ],
-      "chef_tip": "Velveting nooit overslaan: het verschil tussen taai kip en Michelin-mals. Grondig afspoelen is essentieel — anders smaakt de kip naar zeep.\n\nMise-en-place is alles: krapao wokt in 3 minuten. Alles moet klaarstaan voor het vuur aangaat.\n\nKleine batch: maximaal 1 portie tegelijk voor echte wok hei. Te veel kip geeft stoom in plaats van karamelisatie.\n\nHeilige basilicum: niet één-op-één vervangen door gewone basilicum. Gebruik liever Thaise basilicum met extra witte peper als noodoplossing.\n\nVariatie: vervang kippendij door rundergehakt voor een grovere, aardsere versie van krapao — traditioneel en even geliefd in Thailand.\n\nAlternatief voor heilige basilicum: Thaise basilicum (horapha) + een paar blaadjes verse Italiaanse basilicum + extra witte peper geeft een acceptabele benadering van het peperachtige karakter.",
       "wine": {
         "naam": "Grüner Veltliner Smaragd",
         "druif": "Grüner Veltliner",
-        "toelichting": "Droog, fris, licht kruidig, witte peper, mineraal. Volle, elegante Grüner Veltliner met witte-pepertoon. Witte peper resoneert met heilige basilicum. Mineraliteit snijdt door oestersaus en ei.",
-        "alternatief": "Chenin Blanc demi-sec — lichte restsuiker buffert de capsaïcine."
+        "toelichting": "De witpepertoon en mineraliteit van een volle Wachauer Smaragd — de zwaarste stijl van Grüner Veltliner, met meer body en complexiteit dan Federspiel — resoneeert direct met de heilige basilicum en de bird's eye pepers in de krapao. De volle body van de Smaragd houdt de intensiteit van de oestersaus en vissaus bij, terwijl de levendige zuurgraad snijdt door het vet van het gebakken ei. Een Federspiel zou te licht zijn voor dit intense gerecht; een Smaragd heeft precies de kracht die de krapao verdient. Serveer op 11°C.",
+        "alternatief": "Chenin Blanc demi-sec — de lichte residuele zoetheid buffert de capsaïcine van de bird's eye pepers"
       },
       "variaties": "",
       "tips": [
-        "Velveting nooit overslaan: het verschil tussen taai kip en Michelin-mals. Grondig afspoelen is essentieel — anders smaakt de kip naar zeep.",
-        "Mise-en-place is alles: krapao wokt in 3 minuten. Alles moet klaarstaan voor het vuur aangaat.",
-        "Kleine batch: maximaal 1 portie tegelijk voor echte wok hei. Te veel kip geeft stoom in plaats van karamelisatie.",
-        "Heilige basilicum: niet één-op-één vervangen door gewone basilicum. Gebruik liever Thaise basilicum met extra witte peper als noodoplossing.",
-        "Variatie: vervang kippendij door rundergehakt voor een grovere, aardsere versie van krapao — traditioneel en even geliefd in Thailand.",
-        "Alternatief voor heilige basilicum: Thaise basilicum (horapha) + een paar blaadjes verse Italiaanse basilicum + extra witte peper geeft een acceptabele benadering van het peperachtige karakter."
+        "Mise-en-place: velveting nooit overslaan — het verschil tussen taai kip en zijdezacht vlees. Grondig afspoelen en droogdeppen na de baksoda-stap.",
+        "Techniek: wok op absolute hoogste vuur, maximaal 1-2 porties tegelijk — te volle wok koelt af, geeft stoom in plaats van hitte en je verliest de wok hei die het gerecht zijn karakter geeft.",
+        "Presentatie: het gebakken ei met ultrakrokante randen en vloeiende dooier is de kroon op het gerecht — bak in een centimeter hete olie en serveer direct op de krapao.",
+        "Variatie: vervang kippendij door rundergehakt voor een grovere, aardsere krapao — klassiek in Thailand en even authentiek als de kipversie.",
+        "Alternatief: geen heilige basilicum (krapao)? Thaise basilicum + een paar blaadjes gewone Italiaanse basilicum + extra witte peper geeft een acceptabele benadering — maar heilige basilicum is echt niet vervangbaar."
       ]
     },
     {
@@ -13179,21 +13259,19 @@
           "description": "schep saus als spiegel op het warme bord. Vis erop — nooit saus over de vis. Krokante knoflook en sjalot erop strooien. Aangemengde komkommer ernaast. Koriander, lente-ui en rode prik als finishing. Onmiddellijk serveren."
         }
       ],
-      "chef_tip": "Rijstmeel + maizena: de 50/50 combinatie geeft een ultradunne, extra knapperige coating. Nooit alleen bloem — dat geeft een dikke, zachte korst die snel slap wordt.\n\nNooit saus over de vis: saus altijd op het bord, vis erop. Dit is het verschil tussen een krokant Michelin-gerecht en een slap bord.\n\nTamarinde gedoceerd: begin met ½ tl, max 1 tl. Het limoensap voegt een aparte citrusfrisheid toe — samen geven ze diepte zonder te domineren.\n\nKleine porties frituren: nooit te veel vis tegelijk — de temperatuur daalt, coating absorbeert vet en wordt slap.\n\nVariatie: vervang zeebaars door kabeljauw of grote garnalen (gepeld, heel) voor een snellere en soms goedkopere versie met hetzelfde effect.\n\nAlternatief: geen tamarindepasta? Gebruik een combinatie van limoensap en een klein beetje bruine suiker — geeft een vergelijkbare zoet-zure spanning in de saus.",
       "wine": {
-        "naam": "Albariño — Rías Baixas, Spanje",
+        "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "Droog, fris, mineraal, licht ziltig, citrus. Levendige witte wijn met citroentonen en zilte mineraliteit. Zilte mineraliteit resoneert met krokante zeebaars. Frisse zuren spiegelen tamarinde en limoen.",
-        "alternatief": "Viognier — aromatischer en voller, goed als chilisaus de hoofdrol mag spelen."
+        "toelichting": "De zilte mineraliteit en citrusfrisheid van een Galicische Albariño resoneeert direct met de krokante zeebaars en spiegelt de tamarinde en limoen in de chilisaus. De hoge zuurgraad snijdt door de frituurcoating en reinigt de mond na elke krokante, smaakvolle hap. De lichte bitterheid in de afdronk sluit aan op de krokante gebakken knoflook en sjalot. Albariño heeft precies genoeg body voor de intensiteit van de chilisaus maar is nooit zo zwaar dat hij de delicate zeebaarssmaak overstemmt. Serveer ijskoud op 8°C.",
+        "alternatief": "Viognier — aromatischer en voller, werkt als de chilisaus de hoofdrol speelt boven de vis"
       },
       "variaties": "",
       "tips": [
-        "Rijstmeel + maizena: de 50/50 combinatie geeft een ultradunne, extra knapperige coating. Nooit alleen bloem — dat geeft een dikke, zachte korst die snel slap wordt.",
-        "Nooit saus over de vis: saus altijd op het bord, vis erop. Dit is het verschil tussen een krokant Michelin-gerecht en een slap bord.",
-        "Tamarinde gedoceerd: begin met ½ tl, max 1 tl. Het limoensap voegt een aparte citrusfrisheid toe — samen geven ze diepte zonder te domineren.",
-        "Kleine porties frituren: nooit te veel vis tegelijk — de temperatuur daalt, coating absorbeert vet en wordt slap.",
-        "Variatie: vervang zeebaars door kabeljauw of grote garnalen (gepeld, heel) voor een snellere en soms goedkopere versie met hetzelfde effect.",
-        "Alternatief: geen tamarindepasta? Gebruik een combinatie van limoensap en een klein beetje bruine suiker — geeft een vergelijkbare zoet-zure spanning in de saus."
+        "Mise-en-place: rijstmeel + maizena in 50/50 verhouding geeft een ultradunne, extra knapperige coating — nooit alleen bloem. Saus altijd als spiegel op het bord, vis erop — nooit saus over de vis.",
+        "Techniek: frituur in kleine porties op 180°C — te veel vis tegelijk koelt de olie af en geeft een zachte, niet-krokante coating die de saus absorbeert in plaats van weerstaat.",
+        "Presentatie: leg de krokante knoflook en sjalot pas op het allerlaatste moment op de vis — zelfs 2 minuten eerder maakt ze slap door het vocht van de saus.",
+        "Variatie: vervang zeebaars door grote hele garnalen voor een snellere, even krokante versie — 2 minuten frituren en dezelfde saus gebruiken.",
+        "Alternatief: geen tamarindepasta? Gebruik limoensap gecombineerd met een klein beetje bruine suiker — geeft vergelijkbare zoetzure spanning maar frisser en lichter van karakter."
       ]
     },
     {
