@@ -366,22 +366,23 @@
             <div class="step-text"><strong>${step.action}:</strong> ${step.description}</div>
           </div>`).join('');
 
-        // Tips: gebruik tips-array als die beschikbaar is, anders chef_tip splitsen
-        const tipsData = recipe.tips && recipe.tips.length
-          ? recipe.tips
-          : (recipe.chef_tip ? recipe.chef_tip.split('\n\n').filter(Boolean) : []);
-
         function renderTip(tip) {
-          const m = tip.match(/^([^:]+):\s*([\s\S]*)/);
-          if (m) return '<p style="margin:0 0 10px 0"><strong>' + m[1] + ':</strong> ' + m[2] + '</p>';
+          var colonIdx = tip.indexOf(': ');
+          if (colonIdx > 0 && colonIdx < 25) {
+            var label = tip.substring(0, colonIdx);
+            var body  = tip.substring(colonIdx + 2);
+            return '<p style="margin:0 0 10px 0"><strong>' + label + ':</strong> ' + body + '</p>';
+          }
           return '<p style="margin:0 0 10px 0">' + tip + '</p>';
         }
-
-        const tipHtml = tipsData.length ? `
-          <div class="chef-tip">
-            <span class="chef-tip-label">Tips</span>
-            ${tipsData.map(renderTip).join('')}
-          </div>` : '';
+        var tipsData = (recipe.tips && recipe.tips.length)
+          ? recipe.tips
+          : (recipe.chef_tip ? recipe.chef_tip.split('\n\n').filter(Boolean) : []);
+        const tipHtml = tipsData.length ? (
+          '<div class="chef-tip"><span class="chef-tip-label">Tips</span>' +
+          tipsData.map(renderTip).join('') +
+          '</div>'
+        ) : '';
 
         const wine = recipe.wine;
         const wineNaam = wine && typeof wine === 'object' ? wine.naam : wine;
