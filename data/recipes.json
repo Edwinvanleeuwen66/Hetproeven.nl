@@ -53,7 +53,6 @@
           ]
         }
       ],
-      "chef_tip": "Chistorra is online of bij Spaanse delicatessenwinkels te vinden. Kappertjes zijn essentieel — hun zilte zuurheid snijdt door het vet van de worst.",
       "servings": "6 pintxos",
       "steps": [
         {
@@ -72,8 +71,8 @@
       "wine": {
         "naam": "Rioja Crianza",
         "druif": "Tempranillo",
-        "toelichting": "De lichte tannines van een Rioja Crianza snijden door het vet van de chistorra zonder de kruidige smaak te overstemmen. De zachte houtrijping voegt een rokerig accent toe dat perfect aansluit bij de pimentón. Serveer op 16°C.",
-        "alternatief": "Garnacha of een jonge Navarra rosé"
+        "toelichting": "De Rioja Crianza op basis van Tempranillo heeft zachte, goed geïntegreerde tannines en aroma's van rijpe kers, gedroogde kruiden en een vleugje vanille van de Amerikaanse eik. Die lichte houtrijping snijdt feilloos door het vet van de chistorra zonder de smaak te overstemmen. De tomatige zuurgraad van de Tempranillo spiegelt de licht zure kappertjes. Een klassieker in de Rioجaanse tapascultuur die al eeuwen bewezen heeft te werken. Serveer op 16°C.",
+        "alternatief": "Garnacha Joven uit Navarra — fruitiger en lichter, werkt even goed bij gegrild vlees"
       },
       "slug": "chistorra-pintxo-origineel",
       "time": "20 min",
@@ -84,7 +83,14 @@
       "difficulty": "Makkelijk",
       "description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en kappertjes. De kappertjes zijn hier geen garnering — ze zijn de zilte tegenhanger van het vet.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: chistorra kan een dag van tevoren worden gesneden en koud bewaard. Kappertjes op keukenpapier deppen voor gebruik.",
+        "Techniek: bak de chistorra op hoog vuur en beweeg hem weinig — zo krijg je een mooie bruine krokante buitenkant zonder hem uit te drogen.",
+        "Presentatie: prik de kappertjes en chistorrastukjes op een tandenstoker in volgorde van grootte — dat geeft elk pintxo een strakke, uniforme look.",
+        "Variatie: vervang kappertjes door ingelegde cornichons voor een zachtere zuurheid, of voeg een dot mosterd toe voor extra pit.",
+        "Alternatief: geen chistorra? Gebruik chorizo fresco of morcilla — beide geven een andere maar even authentieke Spaanse smaak."
+      ]
     },
     {
       "ingredient_groups": [
@@ -144,7 +150,6 @@
           ]
         }
       ],
-      "chef_tip": "Maak de basilicumolie een dag van tevoren — hij wordt nog mooier van kleur. De gazpacho kan 2 dagen in de koelkast bewaard worden.",
       "servings": "8 shots",
       "steps": [
         {
@@ -166,9 +171,9 @@
       ],
       "wine": {
         "naam": "Txakoli",
-        "druif": "Hondarribi Zuri",
-        "toelichting": "De sprankelende frisheid en lichte zuurgraad van Txakoli wassen de zoetheid van de watermeloen weg en maken de zilte feta nog levendiger. Een typisch Baskische combinatie die frisheid en elegantie uitstraalt. Serveer ijskoud op 8°C.",
-        "alternatief": "Droge Prosecco of Cava Brut"
+        "druif": "Hondarrabi Zuri",
+        "toelichting": "Txakoli uit het Baskenland is licht sprankelend van nature, met hoge zuurgraad, citrusnoten en een zilte mineraliteit die rechtstreeks aan de Atlantische kust doet denken. Die sprankelende frisheid wast de zoutheid van de feta weg en versterkt de watermeloen. Het lage alcoholgehalte (rond 10-11%) maakt het perfect als aperitief bij dit lichte hapje. Traditioneel wordt Txakoli van hoogte ingeschonken om de mousse te activeren. Serveer ijskoud op 7°C.",
+        "alternatief": "Cava Brut Nature — zelfde sprankelende frisheid, iets voller van body"
       },
       "slug": "watermeloen-feta-shot",
       "time": "10 min + 1 uur koelen",
@@ -179,7 +184,14 @@
       "difficulty": "Makkelijk",
       "description": "Een verfrissende ijskoude shot van watermeloengazpacho met een blokje gepofte feta en geurige basilicumolie.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: basilicumolie een dag van tevoren maken — hij wordt nog mooier van kleur en de smaak verdiept zich. Bewaar koud en zeef vlak voor serveren.",
+        "Techniek: snijd de watermeloen in blokjes van exact gelijke grootte — dat is het verschil tussen een rommelig hapje en een strak gepresenteerd amuse.",
+        "Presentatie: serveer in doorzichtige schnapsglaasjes of kleine borrelglazen — zo zijn alle lagen zichtbaar en maakt het optisch een sterke indruk.",
+        "Variatie: vervang basilicum door munt voor een frisser, zomerser karakter. Of voeg een druppel balsamicoglazuur toe als zoetzure finishing touch.",
+        "Alternatief: geen feta? Gebruik Griekse koemelkyoghurt in een dot — geeft dezelfde romige zoutheid maar iets zachter van smaak."
+      ]
     },
     {
       "ingredient_groups": [
@@ -239,7 +251,6 @@
           ]
         }
       ],
-      "chef_tip": "Boquerones zijn wit van kleur — niet te verwarren met bruine ansjovis uit een blikje. Frituren op 160°C geeft een nog krokanter resultaat.",
       "servings": "4 personen",
       "steps": [
         {
@@ -257,9 +268,9 @@
       ],
       "wine": {
         "naam": "Manzanilla",
-        "druif": "Palomino",
-        "toelichting": "De zoute, nootachtige tonen van Manzanilla uit Sanlúcar de Barrameda spiegelen de zilte smaak van de boquerones en de romigheid van de mayo perfect. Dit is de klassieke sherry bij vis — droog, fris en eindeloos elegant. Serveer gekoeld op 9°C.",
-        "alternatief": "Txakoli of droge Albariño"
+        "druif": "Palomino Fino",
+        "toelichting": "Manzanilla uit Sanlúcar de Barrameda is de zoutste, meest minerale Sherry die er bestaat — gerijpt onder een dikke florlaaag vlak aan de Atlantische oceaan, waardoor de wijn die typische zilte, broodachtige toon krijgt. Dat zoute karakter resoneeert direct met de azijn-gemarineerde ansjovis en de fijne chipszout. De droge, scherpe zuurgraad snijdt door het vet van de aardappel. Een van de meest intieme wijn-spijscombinaties in de Spaanse keuken. Serveer ijskoud op 7°C uit een gekoeld glas.",
+        "alternatief": "Fino Sherry uit Jerez — iets minder zout dan Manzanilla maar even droog en mineraal"
       },
       "slug": "boquerones-aardappelchip",
       "time": "30 min",
@@ -270,7 +281,14 @@
       "difficulty": "Makkelijk",
       "description": "Knapperige zelfgemaakte aardappelchip als basis, een dot citroen-peterseliemayo en een ingelegde boquerón erop — een elegante Spaanse pintxo in drie happen.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: aardappelchips een dag van tevoren frituren en droog bewaren in een luchtdichte doos. Boquerones koud houden tot het allerlaatste moment.",
+        "Techniek: boquerones zijn wit van kleur — nooit te verwarren met bruine ansjovis uit een blikje. Wit betekent gemarineerd in azijn, bruin betekent gezouten en gerijpt — totaal andere smaken.",
+        "Presentatie: leg de boquerón altijd met de huidkant naar boven — die glanzende witte huid is het visuele handtekening van dit gerecht.",
+        "Variatie: leg een dunne plak ingelegde jalapeño onder de boquerón voor extra pit, of vervang de aardappelchip door een tostada van zwart inktvisbrood voor dramatisch kleurcontrast.",
+        "Alternatief: geen verse boquerones? Gebruik boquerones uit een goed Spaans conservenblikje — kwaliteitsmerk Ortiz of La Brújula zijn uitstekende alternatieven."
+      ]
     },
     {
       "ingredient_groups": [
@@ -309,7 +327,6 @@
           ]
         }
       ],
-      "chef_tip": "Voor een retro effect: gebruik een spuitzak met gekarteld mondstuk voor de mayo. Dit recept stamt uit de jaren '60 en was in Bilbao in élke bar te vinden.",
       "servings": "6 pintxos",
       "steps": [
         {
@@ -331,9 +348,9 @@
       ],
       "wine": {
         "naam": "Rode vermout (Marianito)",
-        "druif": "Garnacha / Tempranillo blend",
-        "toelichting": "In Bilbao drinken ze bij de bilbainito traditioneel een Marianito — een klein glaasje zoete rode vermout. De kruidige bitterheid contrasteert heerlijk met de romige mayo en de subtiele zeesmaak van de garnaal. Zo hebben ze het al gedaan in de jaren '60.",
-        "alternatief": "Txakoli of koude Estrella Damm"
+        "druif": "Blend",
+        "toelichting": "In Bilbao drinken ze bij de bilbainito traditioneel een Marianito — een glas rode vermout met ijs, een schijfje sinaasappel en een olijf. De licht zoete, kruidige bitterheid van rode vermout sluit aan bij de cocktailsaus en de rijke mayo, terwijl de citrusnoten de garnalen opfrissen. Het is geen wijnkeuze maar een culturele keuze — en dat maakt het authentiek. De bitterheid van de vermout reinigt de mond perfect na elk hapje. Serveer op ijs met een schijfje sinaasappel.",
+        "alternatief": "Cava Brut Rosé — de fijne bellen en lichte roodfruit spiegelen de cocktailsaus"
       },
       "slug": "bilbainito-garnaal-ei",
       "time": "25 min",
@@ -344,7 +361,14 @@
       "difficulty": "Makkelijk",
       "description": "De iconische pintxo uit Bilbao — gekookte garnaal en hardgekookt ei op een tandenstoker, afgetopt met huisgemaakte mayonaise en geraspt ei. Simpel, retro en verrassend lekker.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de garnalencocktailsaus een dag van tevoren maken — smaken trekken samen en de saus wordt ronder. Bewaar koud en roer voor gebruik.",
+        "Techniek: gebruik een spuitzak met gekarteld mondstuk voor de mayo — dat geeft elk bilbainito een retro maar strak gepresenteerd uiterlijk.",
+        "Presentatie: serveer op een licht bevroren leisteen of marmeren plaat — de kou houdt de garnalen en mayo koel en maakt de presentatie visueel indrukwekkend.",
+        "Variatie: vervang de cocktailsaus door sriracha-mayo voor een modern Japanse twist, of voeg kaviaar toe bovenop voor een luxe upgrade.",
+        "Alternatief: geen verse garnalen? Gebruik diepvriesgarnalen — volledig ontdooien in de koelkast, droogdeppen en koud houden tot serveren."
+      ]
     },
     {
       "ingredient_groups": [
@@ -416,7 +440,6 @@
           ]
         }
       ],
-      "chef_tip": "Pimentón de la Vera is essentieel — geen gewone paprikapoeder. Dubbel frituren is het geheim: eerst gaar op lage temperatuur, dan krokant op hoge.",
       "servings": "4 personen",
       "steps": [
         {
@@ -441,10 +464,10 @@
         }
       ],
       "wine": {
-        "naam": "Mahou bier of vermout",
-        "druif": "— (bier)",
-        "toelichting": "In de oude bodegas van Madrid worden patatas bravas altijd gecombineerd met een koud glas Mahou bier of een glas droge vermout. De bitterheid snijdt door de pittige bravasaus en maakt je klaar voor de volgende hap. Wijze Madrid traditie.",
-        "alternatief": "Rioja Joven of een glas Cava"
+        "naam": "Mahou Cinco Estrellas of koude rode vermout",
+        "druif": "N.v.t.",
+        "toelichting": "In de oude bodegas van Madrid worden patatas bravas altijd geserveerd met een koud glas Mahou Cinco Estrellas — het lokale bier dat al meer dan 130 jaar Madrileens straatvoedsel begeleidt. De lichte bitterheid en koolzuur snijden door de bravassaus en reinigen de mond na elke krokante hap. Een alternatief is koude rode vermout uit de tap — zoet-bitter en kruidig, perfect bij de gerookte paprika. Dit is geen wijnsituatie maar een taberna-situatie. Serveer ijskoud.",
+        "alternatief": "Garnacha Joven uit Campo de Borja — licht, fris en fruitig, werkt verrassend goed bij de pittige bravassaus"
       },
       "slug": "patatas-bravas-madrid",
       "time": "35 min",
@@ -455,7 +478,14 @@
       "difficulty": "Gemiddeld",
       "description": "De enige echte Madrileense patatas bravas — krokante aardappels met een pittige olie-knoflook-pimentónsaus zonder tomaat, en een snelle aioli ernaast. Zo worden ze al decennialang geserveerd in de oude bodegas van Madrid.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de bravassaus een dag of zelfs twee dagen van tevoren maken — die extra rijptijd geeft de saus een diepere, aardsere smaak.",
+        "Techniek: dubbel frituren is het geheim — eerst op 150°C gaar frituren, dan laten rusten, dan op 180°C krokant frituren. Eén keer frituren geeft zachte patatas, twee keer geeft Barcelona-waardige crunch.",
+        "Presentatie: nooit saus over alle patatas — altijd apart serveren of slechts gedeeltelijk begieten zodat de krokante stukken zichtbaar blijven.",
+        "Variatie: voor de Barcelonese versie: bravassaus combineren met aioli in een zigzagpatroon over de patatas. In Madrid is aioli een no-go bij bravas — in Barcelona niet.",
+        "Alternatief: geen Pimentón de la Vera? De gerookte paprikapoeder is echt essentieel — gewone paprikapoeder geeft een volledig ander en vlakker resultaat. Online bestellen is de moeite waard."
+      ]
     },
     {
       "ingredient_groups": [
@@ -518,7 +548,6 @@
           ]
         }
       ],
-      "chef_tip": "Kant-en-klare empanada deegvelletjes vind je bij Spaanse delicatessenwinkels of online. Maak de vulling een dag van tevoren — dan is hij nog smaakvoller.",
       "servings": "12 stuks",
       "steps": [
         {
@@ -537,8 +566,8 @@
       "wine": {
         "naam": "Rueda Verdejo",
         "druif": "Verdejo",
-        "toelichting": "De fris-kruidige Verdejo uit Rueda heeft genoeg body om de sappige kipvulling te begeleiden zonder te zwaar te zijn. De lichte grasachtige tonen sluiten mooi aan bij de piquillo en paprika in de vulling.",
-        "alternatief": "Albariño of droge Chardonnay"
+        "toelichting": "De Verdejo uit Rueda heeft een unieke combinatie van citrusfrisheid, kruidige bitterheid en een lichte nootachtige complexiteit die nergens anders in Spanje gevonden wordt. Die kruidige toon sluit aan op de paprika en koriander in de vulling, terwijl de frisheid de rijkdom van het deeg doorsnijdt. Verdejo heeft voldoende body om de kip en ui bij te houden zonder te overweldigen. Het is de Castiliaans-Leonese wijn bij uitstek voor gevuld hartig gebak. Serveer goed gekoeld op 9°C.",
+        "alternatief": "Albariño uit Galicië — frisser en meer mineraal, werkt uitstekend bij de hartige kippenvulling"
       },
       "slug": "empanadas-de-pollo",
       "time": "45 min",
@@ -549,7 +578,14 @@
       "difficulty": "Gemiddeld",
       "description": "Sappige kipvulling van gestoofd en getrokken kipfilet met piquillo en paprika in kant-en-klare empanada deegvelletjes — de perfecte tapa die je van tevoren kunt maken en warm of op kamertemperatuur serveert.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de vulling een dag van tevoren maken zodat alle smaken samensmelten. Empanadas het beste pas vlak voor serveren bakken voor maximale knapperigheid.",
+        "Techniek: druk de randen altijd goed vast met een vork en bestrijk royaal met ei — een slecht gesloten empanada lekt open in de oven en verliest al zijn sap.",
+        "Presentatie: snijd elke empanada na het bakken schuin doormidden zodat de kleurrijke vulling zichtbaar is — dat maakt het hapje direct aantrekkelijker.",
+        "Variatie: vervang kip door rundergehakt met olijven en hard gekookt ei voor een klassieke Argentijnse empanada, of gebruik tonijn met gepelde tomaat voor een authentiek Gallegos recept.",
+        "Alternatief: geen kant-en-klaar empanada-deeg? Gebruik bladerdeeg — geeft een minder authentiek maar even lekker resultaat met extra knapperigheid."
+      ]
     },
     {
       "ingredient_groups": [
@@ -592,7 +628,6 @@
           ]
         }
       ],
-      "chef_tip": "Leg de schelpen 30 minuten in koud zout water voor gebruik — dan spugen ze het zand eruit. Gooi schelpen weg die na het koken nog gesloten zijn.",
       "servings": "4 personen",
       "steps": [
         {
@@ -611,8 +646,8 @@
       "wine": {
         "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "Albariño uit Galicië is de ideale partner voor schelpdieren — de druif groeit aan de Atlantische kust en proeft naar zee, citrus en witte bloemen. De frisheid snijdt door de boter van de salsa verde en versterkt de zeesmaak van de venusschelpen.",
-        "alternatief": "Muscadet sur Lie of Txakoli"
+        "toelichting": "Albariño uit Rías Baixas in Galicië is de enige logische keuze bij venusschelpen — het is de wijn die in dezelfde regio wordt gemaakt waar de beste schelpdieren vandaan komen. De wijn heeft uitgesproken citrusaromas van limoen en grapefruit, een lichte bittere afdronk en een diepe minerale ziltheid die direct aan de Atlantische oceaan refereert. Die ziltheid resoneeert met het zeevocht van de schelpen, de citruszuren snijden door de olijfolie in de salsa verde. Een terroir-perfecte combinatie. Serveer ijskoud op 8°C.",
+        "alternatief": "Manzanilla uit Sanlúcar — de zoutheid van deze Sherry maakt het een even authentieke begeleider"
       },
       "slug": "venusschelpen-salsa-verde",
       "time": "25 min",
@@ -623,7 +658,14 @@
       "difficulty": "Gemiddeld",
       "description": "Een klassiek Baskisch gerecht — venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus van peterselie, knoflook en witte wijn.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: schelpen 30 minuten in koud zout water leggen voor gebruik — dan spugen ze het zand uit. Salsa verde een uur van tevoren maken zodat de smaken samensmelten.",
+        "Techniek: bak de schelpen op héél hoog vuur — ze moeten openen in 2-3 minuten. Langer op het vuur maakt ze rubberachtig. Gooi gesloten schelpen altijd weg.",
+        "Presentatie: serveer direct uit de pan in een warm diep bord — de saus van de schelpen mengt met de salsa verde en dat vocht is te kostbaar om te verspillen.",
+        "Variatie: voeg een scheutje droge Manzanilla toe aan de saus als de schelpen opengaan — die alcoholdamp geeft extra diepte en een Andalusisch tintje.",
+        "Alternatief: geen venusschelpen? Gebruik kokkels, mossel of kleine surf clams — dezelfde techniek, iets anders van smaak maar even authentiek."
+      ]
     },
     {
       "ingredient_groups": [
@@ -711,7 +753,6 @@
           ]
         }
       ],
-      "chef_tip": "Harina de arroz (rijstbloem) is in elke Spaanse supermarkt te vinden. Rijstbloem bevat minder gluten — het beslag wordt daardoor knisperend krokant. Alles moet ijskoud zijn. Serveer DIRECT — krokant wacht op niemand.",
       "servings": "4 personen",
       "steps": [
         {
@@ -737,9 +778,9 @@
       ],
       "wine": {
         "naam": "Fino Sherry",
-        "druif": "Palomino",
-        "toelichting": "In Sevilla is fino sherry de enige juiste begeleider bij soldaditos de Pavía. De droge, nootachtige tonen contrasteren met het krokante beslag en de vette kabeljauw, terwijl de zuurgraad de mond reinigt voor de volgende hap. Serveer ijskoud.",
-        "alternatief": "Manzanilla of frisse Cava Brut"
+        "druif": "Palomino Fino",
+        "toelichting": "In Sevilla is Fino Sherry de enige juiste begeleider bij soldaditos de Pavia — dit is geen keuze maar traditie. De Fino is kurkdroog, licht nootachtig door de florvaten en heeft een frisse zuurgraad die de vettigheid van het gefrituurde beslag direct doorsnijdt. De subtiele briochetonen van de flor sluiten aan op de luchtige korst. Zoals Manzanilla ziltheid geeft, geeft Fino warme nootachtigheid — beide zijn onmisbaar in de Sevillaanse tapascultuur. Serveer ijskoud op 7°C uit een gekoeld copitasglas.",
+        "alternatief": "Manzanilla — iets zoutiger dan Fino maar even droog en even Andalusisch"
       },
       "slug": "soldaditos-de-pavia",
       "time": "30 min",
@@ -750,7 +791,14 @@
       "difficulty": "Gemiddeld",
       "description": "De klassieker uit Sevilla — reepjes kabeljauw in een luchtig krokant beslag van bloem en harina de arroz met ijskoud bruiswater. Knisperend krokant, gestapeld op brood met aioli en geroosterde paprika.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: het beslag minimaal 30 minuten van tevoren maken en koud laten rusten — dit geeft een luchtigere, hechtere korst. Aioli een dag van tevoren maken.",
+        "Techniek: rijstbloem (harina de arroz) geeft een lichter, knapperiger beslag dan tarwebloem. Het beslag moet ijskoud zijn als de vis er doorheen gaat — gebruik eventueel een ijsbad.",
+        "Presentatie: serveer rechtop in een smal glaasje of staand in een klein schaaltje — de soldadito dankt zijn naam aan de staande houding van een soldaat.",
+        "Variatie: vervang kabeljauw door heek (merluza) of scampi voor een andere maar even authentieke versie. In Sevilla gebruikt men ook wel kipfilet in hetzelfde beslag.",
+        "Alternatief: geen verse kabeljauw? Gebruik gezouten bacalao — 24 uur desalten in koud water, droogdeppen en hetzelfde recept volgen. Geeft een intenser, traditioneler resultaat."
+      ]
     },
     {
       "ingredient_groups": [
@@ -793,7 +841,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik jonge manchego — die smelt mooier. Bak op hoog vuur en kort — 1 minuut per kant is genoeg. Serveer direct. Membrillo is bij de kaaswinkel of Spaanse deli te vinden.",
       "servings": "4 personen",
       "steps": [
         {
@@ -811,9 +858,9 @@
       ],
       "wine": {
         "naam": "Amontillado Sherry",
-        "druif": "Palomino",
-        "toelichting": "De nootachtige, licht geoxideerde tonen van een Amontillado spiegelen de rijke smaak van de gebakken manchego en sluiten aan bij de zoete vijgen in de membrillo. Een complexe maar toegankelijke combinatie die laat zien hoe goed sherry bij kaas past. Serveer op 14°C.",
-        "alternatief": "Droge Gewürztraminer of Viura"
+        "druif": "Palomino Fino",
+        "toelichting": "Amontillado is de meest veelzijdige Sherry: begonnen als Fino onder flor, dan geoxideerd tot een nootachtige, amberkleurige complexiteit met tonen van walnoot, gedroogd fruit en een vleugje karamel. Die nootachtigheid is precies wat de gesmolten manchego nodig heeft — het versterkt de rijpe schaapmelkaroma's en sluit aan op de zoete membrillo. De droge afdronk zorgt dat het niet cloyant wordt. In de bodega's van Jerez is dit de klassieke combi bij kaasgerechten. Serveer op kamertemperatuur of licht gekoeld op 12°C.",
+        "alternatief": "Pedro Ximénez — zoeter en dikker, werkt perfect als de membrillo centraal staat"
       },
       "slug": "manchego-frito-membrillo",
       "time": "20 min",
@@ -824,7 +871,14 @@
       "difficulty": "Makkelijk",
       "description": "Plakjes manchego gepaneerd in panko en snel gebakken tot goudbruin en smeltend van binnen — geserveerd met zoete membrillo. Warm en koud, zoet en zout, romig en krokant in één hap.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de manchego voor het frituren 15 minuten in de vriezer leggen — zo smelt hij minder snel en krijg je een mooiere krokante korst.",
+        "Techniek: gebruik jonge manchego (curado) — die smelt mooier en is zachter van smaak. Oude manchego (viejo) wordt te droog bij hitte. Bak op hoog vuur, maximaal 1 minuut per kant.",
+        "Presentatie: serveer direct — gefrituurde manchego wacht op niemand. Na 2 minuten wordt de korst slap en verliest het gerecht zijn karakter.",
+        "Variatie: vervang membrillo door vijgencompote of een druppel truffelolie voor een luxere variant. Of bestrooi met grof zeezout en een druppel goede olijfolie voor de meest Spaanse versie.",
+        "Alternatief: geen manchego? Gebruik Halloumi — heeft hetzelfde hoge smeltpunt en geeft een vergelijkbaar krokant resultaat, al is de smaak minder Spaans."
+      ]
     },
     {
       "ingredient_groups": [
@@ -875,7 +929,6 @@
           ]
         }
       ],
-      "chef_tip": "De vijgencompote is een week houdbaar in de koelkast. Gebruik verse vijgen in het seizoen voor een lichtere compote.",
       "servings": "4 personen",
       "steps": [
         {
@@ -898,8 +951,8 @@
       "wine": {
         "naam": "Pedro Ximénez",
         "druif": "Pedro Ximénez",
-        "toelichting": "De intense rozijnen- en vijgensmaak van Pedro Ximénez is een perfecte spiegel van de vijgencompote. Samen met de zoute manchego ontstaat een dessertachtige maar toch hartige combinatie die de zoet-zout balans tot perfectie brengt.",
-        "alternatief": "Tawny Port of Banyuls"
+        "toelichting": "Pedro Ximénez is de zoetste, dikste en meest geconcentreerde Sherry die er bestaat — gemaakt van ingedroogde druiven die een intense rozijnen-, vijgen- en dadelsmaak geven. Die smaak is een directe spiegel van de vijgencompote op de tosta, waardoor wijn en gerecht elkaar versterken in plaats van bevechten. De karamelachtige diepte van de PX sluit aan op de rijpe manchego. Een klein glaasje is genoeg — PX is dessert in een glas. Serveer op kamertemperatuur of licht gekoeld op 12°C.",
+        "alternatief": "Amontillado — droger en nootachtiger, werkt als je de manchego meer centraal wilt stellen"
       },
       "slug": "tosta-manchego-vijgencompote",
       "time": "20 min",
@@ -910,7 +963,14 @@
       "difficulty": "Makkelijk",
       "description": "Geroosterd brood met gesmolten manchego, zelfgemaakte warme vijgencompote en knapperige walnoten — zoet, zout en nootachtig in één hap.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: vijgencompote is een week houdbaar in de koelkast. Maak een grote batch en gebruik de rest bij kaasplanken of als begeleider bij vleeswaren.",
+        "Techniek: rooster het brood tot het krokant maar niet droog is — een licht goudbruine tosta draagt de manchego en compote beter dan een te hard of te zacht exemplaar.",
+        "Presentatie: leg een dunne plak manchego schuin op de tosta zodat de compote deels zichtbaar blijft — dat geeft meer diepte aan de presentatie.",
+        "Variatie: gebruik verse vijgen in het seizoen in plaats van compote — snijd ze dun en besprenkel met honing. Sneller, frisser en even lekker.",
+        "Alternatief: geen manchego? Gebruik Idiazábal (gerookte schapenkaas uit het Baskenland) of Roncal — beide geven een andere maar even interessante combinatie met vijg."
+      ]
     },
     {
       "ingredient_groups": [
@@ -944,7 +1004,6 @@
           ]
         }
       ],
-      "chef_tip": "De kwaliteit van de ansjovis maakt dit gerecht — koop de beste die je kunt vinden. Gebruik écht gezouten boter — dat is essentieel. Rasp het ei op een fijne rasp voor een mooi luchtig resultaat.",
       "servings": "4 personen",
       "steps": [
         {
@@ -966,9 +1025,9 @@
       ],
       "wine": {
         "naam": "Manzanilla",
-        "druif": "Palomino",
-        "toelichting": "Dit is een van de meest elegante wijn-spijscombinaties uit de Spaanse keuken. De zilte, zeese tonen van Manzanilla sluiten perfect aan bij de Cantabrische ansjovis en de gezouten boter. Vier simpele ingrediënten, één perfecte wijn. Serveer gekoeld op 9°C.",
-        "alternatief": "Txakoli of een droge Muscadet"
+        "druif": "Palomino Fino",
+        "toelichting": "Dit is een van de meest elegante en eeuwenoude wijn-spijscombinaties uit de Spaanse keuken: Cantabrische ansjovis met Manzanilla. De wijn wordt gerijpt in de zeebries van Sanlúcar de Barrameda, wat hem een unieke zilte, jodiumachtige toon geeft die direct aansluit op de zilte vettigheid van de ansjovis. De kurkdroge, scherpe zuurgraad snijdt door de boter en het ei. De lichte broodtonen van de flor sluiten aan op de toast. Een combinatie die al eeuwen ongewijzigd is — omdat ze perfect is. Serveer ijskoud op 6-7°C.",
+        "alternatief": "Fino Sherry — iets minder zout dan Manzanilla maar even droog en even verfijnd"
       },
       "slug": "tosta-ansjovis-boter-ei",
       "time": "15 min",
@@ -979,7 +1038,14 @@
       "difficulty": "Makkelijk",
       "description": "Een van de meest elegante pintxos uit San Sebastián — geroosterd brood, gezouten boter, de beste ansjovis die je kunt vinden en fijn geraspt hardgekookt ei eroverheen. Vier ingrediënten, perfecte harmonie.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de ansjovis uit de koelkast halen 10 minuten voor serveren — op kamertemperatuur smaken ze rijker en zachter.",
+        "Techniek: de kwaliteit van de ansjovis maakt dit gerecht — koop Cantabrische ansjovis (Ortiz, Donostia Foods) die zijn vleziger, zachter en minder zout dan gewone blikansjovis.",
+        "Presentatie: leg de ansjovisfilets in oneven aantallen (3 of 5) diagonaal op de toast — dat oogt eleganter dan parallelle rijen.",
+        "Variatie: voeg een dunne plak trufficreme of een druppel truffelolie toe naast de boter — de umami van de ansjovis en truffel versterken elkaar spectaculair.",
+        "Alternatief: geen ansjovis? Gebruik haring op zijn Hollands of makreelfilet in olijfolie — dezelfde umamidiepte, andere herkomst."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1038,7 +1104,6 @@
           ]
         }
       ],
-      "chef_tip": "Gooi mosselen weg die na het stomen nog gesloten zijn. Bak de mosselen op zeer hoog vuur en heel kort — te lang en ze worden rubber.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1061,8 +1126,8 @@
       "wine": {
         "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "De citrusachtige frisheid van Albariño past als gegoten bij de zeese mosselen en de kruidige pimentón. De wijn heeft genoeg zuurgraad om de knoflookolie in balans te brengen zonder de smaak van de mosselen te overstemmen.",
-        "alternatief": "Vinho Verde of Txakoli"
+        "toelichting": "Albariño is de ideale wijn bij mosselen en schelpdieren — een combinatie die in Galicië al eeuwen bestaat. De citrusachtige frisheid van limoen en grapefruit past als gegoten bij de jodiumrijke mosselen; de mineraliteit versterkt het zeevocht. De hoge zuurgraad snijdt door de rijke knoflookboter en reinigt de mond na elke hap. Albariño heeft ook net voldoende body om de stevige mosselsmaak bij te houden zonder hem te overstemmen. Een terroir-perfecte combinatie. Serveer ijskoud op 8°C.",
+        "alternatief": "Txakoli — sprankelender en lichter, werkt uitstekend als aperitief bij dit hapje"
       },
       "slug": "tosta-mosselen-knoflook",
       "time": "25 min",
@@ -1073,7 +1138,14 @@
       "difficulty": "Makkelijk",
       "description": "Mosselen kort gestoomd, uit de schelp gehaald en gebakken in knoflookolie met pimentón en witte wijn — op geroosterd brood met aioli. Snel, krachtig en vol zeesmaak.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gooi mosselen weg die na het stomen nog gesloten zijn. Maak de knoflookboter een dag van tevoren — smaken trekken samen.",
+        "Techniek: bak de mosselen op zeer hoog vuur zodat ze een lichte karamelisatie krijgen — dat geeft extra smaakdiepte naast de knoflookboter.",
+        "Presentatie: leg de mosselen met de bolkant naar boven op de tosta — zo ziet men de glanzende schelpvorm en ziet het er eleganter uit dan een platte schelp.",
+        "Variatie: voeg een paar druppels Manzanilla toe aan de knoflookboter terwijl die smelt — geeft een authentiek Andalusisch tintje.",
+        "Alternatief: gebruik diepvriesmosselen op de helft van de schelp — afdooien, droogdeppen en direct bakken. 80% van het resultaat met veel minder voorbereiding."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1140,7 +1212,6 @@
           ]
         }
       ],
-      "chef_tip": "Ontdooi de mosselen in de koelkast en dep goed droog voor het bakken. Bak de chorizo eerst droog zodat het vet vrijkomt — in dat vet bak je daarna de groenten.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1166,9 +1237,9 @@
       ],
       "wine": {
         "naam": "Rioja Rosado",
-        "druif": "Tempranillo / Garnacha",
-        "toelichting": "Een droge Rioja rosé heeft genoeg body voor de chorizo en genoeg frisheid voor de mosselen — het beste van twee werelden. De lichte roodvruchtentonen accentueren de paprika zonder de zeesmaak te overstemmen. Serveer fris op 10°C.",
-        "alternatief": "Navarra Rosado of droge Provence rosé"
+        "druif": "Tempranillo, Garnacha",
+        "toelichting": "Een droge Rioja Rosado heeft genoeg body voor de pittige chorizo en genoeg frisheid voor de mosselen — het is de perfecte middenweg. De lichte roodvruchtentonen van kers en framboos sluiten aan op het gerookte paprikakarakter van de chorizo, terwijl de frisse zuurgraad de jodiumrijke mosselen opfrist. Rioja Rosado is droger en steviger dan de meeste Provençaalse roséwijnen — precies wat dit gerecht nodig heeft. Serveer gekoeld op 10°C.",
+        "alternatief": "Garnacha Rosado uit Navarra — fruitiger en iets voller, werkt uitstekend bij gerookte smaken"
       },
       "slug": "tosta-mosselen-chorizo-paprika",
       "time": "25 min",
@@ -1179,7 +1250,14 @@
       "difficulty": "Makkelijk",
       "description": "Diepvriesmosselen gebakken met chorizo, paprika en ui in knoflookolie met een scheutje witte wijn — op geroosterd brood met aioli. Snel, pittig en boordevol smaak.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: ontdooi de mosselen in de koelkast en dep goed droog voor het bakken — natte mosselen stomen in plaats van bakken.",
+        "Techniek: bak de chorizo eerst droog op hoog vuur zodat het vet vrijkomt — gebruik dat chorizo-vet direct om de paprika en ui in te bakken voor maximale smaakdiepte.",
+        "Presentatie: leg de chorizo en mosselen afwisselend op de tosta — het rood van de chorizo en het oranje van de paprika geven een visueel aantrekkelijk kleurenpalet.",
+        "Variatie: voeg een dot smoky aioli toe bovenop voor extra rijkdom, of vervang chorizo door morcilla (bloedworst) voor een aardsere, diepere smaak.",
+        "Alternatief: gebruik verse mosselen in het seizoen — stoom ze zelf open, verwijder de bovenste schelp en gebruik dezelfde vulling. Meer werk, beter resultaat."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1234,7 +1312,6 @@
           ]
         }
       ],
-      "chef_tip": "Bak de prei langzaam op laag vuur — niet laten kleuren. Mix minimaal 2 minuten voor een écht fluweelzachte textuur. De chorizo pas op het allerlaatste moment erop zodat hij krokant blijft.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1257,8 +1334,8 @@
       "wine": {
         "naam": "Viura",
         "druif": "Viura (Macabeo)",
-        "toelichting": "De lichte, frisse Viura uit Rioja heeft precies genoeg body om de fluweelzachte preisoep te begeleiden zonder te overheersen. De subtiele citrusnoten contrasteren mooi met de krokante chorizo.",
-        "alternatief": "Droge Chenin Blanc of Verdejo"
+        "toelichting": "De Viura uit de Rioja-appellation is een frisse, lichte witte wijn met citrus- en appelnoten en een prettige zachte zuurgraad die de romige preisoep ondersteunt zonder te overstemmen. De lichte kruidige tonen van de Viura sluiten aan op de milde prei en de gerookte chorizo. Een licht houtgerijpte Rioja Blanco geeft extra complexiteit — de vanilletonen van de eik mengen prachtig met de romigheid van de crème. Een onderschatte maar uitstekende witte Spaanse wijn. Serveer gekoeld op 10°C.",
+        "alternatief": "Rueda Verdejo — friszurig en kruidig, werkt uitstekend als de chorizo de hoofdrol speelt"
       },
       "slug": "crema-puerros-chorizo",
       "time": "45 min",
@@ -1269,7 +1346,14 @@
       "difficulty": "Makkelijk",
       "description": "Een fluweelzachte preisoep van prei, aardappel en bouillon — afgewerkt met knapperig uitgebakken chorizo en een druppel olijfolie. Warm en elegant tegelijk.",
       "categorie": "soep",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: soep een dag van tevoren maken — hij wordt de volgende dag dieper en ronder van smaak. Chorizo pas bij het opwarmen toevoegen.",
+        "Techniek: bak de prei langzaam op laag vuur minstens 15 minuten — niet laten kleuren. Gekaramelliseerde prei geeft zoetheid; bruine prei geeft bitterheid.",
+        "Presentatie: serveer in kleine warme espressokopjes voor een elegante amuse-presentatie, of in diepe borden met de chorizo-croutons als kleurrijke kroon.",
+        "Variatie: vervang chorizo door crisps van jamon serrano voor een lichtere, zouter accent. Of voeg een druppel truffelolie toe voor meer luxe diepte.",
+        "Alternatief: geen prei? Gebruik venkel voor een anijsachtige twist, of witte asperges voor een rijkere, meer delicate crème."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1324,7 +1408,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik de rijpste tomaten die je kunt vinden — dit gerecht staat of valt met de tomatenkwaliteit. Gebruik tonijn op goede olijfolie — het verschil is enorm.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1347,8 +1430,8 @@
       "wine": {
         "naam": "Jumilla Monastrell Rosado",
         "druif": "Monastrell",
-        "toelichting": "Een stevige rosé uit Jumilla heeft de body om de tonijn en olijven bij te houden en de frisheid om de rijpe tomaten te complementeren. Monastrell geeft een licht kruidig, aards accent dat perfect past bij deze Murcische salade. Serveer koel op 10°C.",
-        "alternatief": "Droge Rioja Rosado of Garnacha Rosado"
+        "toelichting": "Een stevige rosé uit Jumilla (Murcia) — de regio waar dit gerecht vandaan komt — gemaakt van de dikhuidige Monastrell-druif die gedijt in het hete, droge Levantijnse klimaat. De wijn heeft meer body en diepte dan de gemiddelde rosé, met tonen van rijp rood fruit, een lichte peper en een mooie droge afdronk. Die body is nodig voor de tonijn en olijven; de frisheid past bij de tomaat en de zilte Spaanse olijfolie. Een terroir-authentieke combinatie. Serveer gekoeld op 10°C.",
+        "alternatief": "Rioja Rosado — lichter en eleganter, werkt als de tomaat de hoofdrol heeft"
       },
       "slug": "ensalada-murciana",
       "time": "20 min + 15 min rusten",
@@ -1359,7 +1442,14 @@
       "difficulty": "Makkelijk",
       "description": "Een frisse en volle Spaanse salade uit Murcia — rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven met een eenvoudige sherry-vinaigrette.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de salade minstens 30 minuten voor serveren aanmaken — de tomaten en olijfolie trekken samen tot een natuurlijke saus.",
+        "Techniek: gebruik de rijpste tomaten die je kunt vinden — dit gerecht staat of valt met de tomatenkwaliteit. In het seizoen zijn trostomaten of vleestomaten het beste.",
+        "Presentatie: snijd alles in gelijke blokjes van 1,5 cm — dat is het verschil tussen een rommelige salade en een strak gepresenteerde ensalada.",
+        "Variatie: voeg een handvol kappertjes toe voor extra zilte pit, of een gepeld hardgekookt ei in blokjes voor meer textuur en vulling.",
+        "Alternatief: geen tonijn op olijfolie? Gebruik ingelegde tonijn op water en voeg zelf een goede scheut olijfolie toe — het resultaat is vergelijkbaar maar nooit helemaal hetzelfde."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1422,7 +1512,6 @@
           ]
         }
       ],
-      "chef_tip": "Het uitknijpen van de courgette is de allerbelangrijkste stap — sla dit nooit over anders worden de fritters slap. Serveer direct.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1444,9 +1533,9 @@
       ],
       "wine": {
         "naam": "Cava Brut Nature",
-        "druif": "Macabeo / Xarel·lo / Parellada",
-        "toelichting": "De droge bruisende Cava Brut Nature reinigt de mond na elke bite van de krokante courgette-fritter. De frisse bellen accentueren de manchego en maken de yoghurtsaus nog frisser.",
-        "alternatief": "Txakoli of droge Albariño"
+        "druif": "Macabeo, Xarel·lo, Parellada",
+        "toelichting": "De droge, sprankelende Cava Brut Nature is de ideale begeleider bij gefrituurde groentehapjes — de bellen reinigen de mond na elke hap en de droge zuurgraad snijdt door het frituurvet. Brut Nature betekent nul dosage — geen suiker toegevoegd — waardoor de wijn kurkdroog en fris is. De lichte gisttonen van de Cava sluiten aan op het heerst luchtige beslag. Een Cava Brut Nature is ook de meest veelzijdige flessewijnaperij voor een tapas-avond. Serveer ijskoud op 7°C.",
+        "alternatief": "Txakoli — licht sprankelend en friszurig, werkt even goed bij lichte groentehapjes"
       },
       "slug": "tortillitas-calabacin",
       "time": "30 min",
@@ -1457,7 +1546,14 @@
       "difficulty": "Makkelijk",
       "description": "Flinterdunne krokante courgette-fritters met geraspte manchego en verse munt — gebakken in olijfolie en geserveerd met een frisse yoghurt-knoflooksaus.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: het uitknijpen van de courgette is de allerbelangrijkste stap — sla dit nooit over. Natte courgette geeft een plakkerig, niet-krokant resultaat.",
+        "Techniek: gebruik rijstbloem in combinatie met tarwebloem voor een lichtere, knapperigere korst. Hou het beslag dun — een dikke tortillita is een pannenkoek.",
+        "Presentatie: serveer direct uit de pan — tortillitas worden snel slap. Nooit stapelen, altijd plat en direct op het bord.",
+        "Variatie: voeg fijngesneden munt of dille toe aan het beslag voor een Grieks-geïnspireerde variant, of geraspte Manchego voor extra hartigheid.",
+        "Alternatief: geen courgette? Gebruik geraspte wortel of bietje — geeft andere kleuren en smaken maar dezelfde techniek."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1516,7 +1612,6 @@
           ]
         }
       ],
-      "chef_tip": "Blancheer de bonen altijd eerst en koel direct af in ijswater — zo blijven ze felgroen en knapperig. Serveer in kleine aardewerken schaaltjes voor een authentieke tapa-beleving.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1539,8 +1634,8 @@
       "wine": {
         "naam": "Rioja Crianza",
         "druif": "Tempranillo",
-        "toelichting": "De lichte tannines en tomatige tonen van een Rioja Crianza sluiten naadloos aan bij de rijke tomatensaus en de jamón serrano. De Tempranillo versterkt de aardse groente en maakt het gebakken ei nog rijker.",
-        "alternatief": "Garnacha of een jonge Côtes du Rhône"
+        "toelichting": "De lichte tannines en rijpe kerstonen van een Rioja Crianza sluiten naadloos aan op de jamon serrano — beide zijn producten van het Spaanse binnenland, beide gedomineerd door zout, umami en een lichte gerijpte complexiteit. De tomatige zuurgraad van de Tempranillo past perfect bij de tomatensaus in het gerecht. Een lichte houtrijping geeft de wijn vanilletonen die de zoetheid van de sperziebonen complementeren. Dit is de klassieke Rioجaanse combinatie bij warme groentegerechten met vleeswaren. Serveer op 16°C.",
+        "alternatief": "Garnacha uit Navarra — fruitiger en lichter, werkt als de groenten de hoofdrol hebben"
       },
       "slug": "judias-verdes-tomate-jamon",
       "time": "35 min",
@@ -1551,7 +1646,14 @@
       "difficulty": "Makkelijk",
       "description": "Knapperige sperziebonen gestoofd in een rijke tomatensaus met jamón serrano — afgewerkt met een gebakken ei erop. Een eerlijk en vol Andalusisch gerecht.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: blancheer de bonen altijd eerst en koel direct af in ijswater — zo blijven ze felgroen en knapperig. Doe dit een dag van tevoren als het uitkomt.",
+        "Techniek: bak de ham op hoog vuur en kort — jamon serrano wordt bitter als hij te lang in de hitte ligt. Voeg hem toe als finishing op het allerlaatste moment.",
+        "Presentatie: leg de bonen parallel in dezelfde richting op het bord — dat geeft een net, restaurant-waardig beeld tegenover een chaotische stapel.",
+        "Variatie: voeg een gepocheerd ei toe bovenop voor een volledigere maaltijd, of vervang jamon door chorizo voor een rokerige, pittigere versie.",
+        "Alternatief: geen jamon serrano? Gebruik goede Italiaanse prosciutto crudo — iets zoeter en zachter maar even elegant bij sperziebonen."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1593,7 +1695,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik een zure appel zoals Granny Smith — houdt beter stand bij het bakken.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1615,9 +1716,9 @@
       ],
       "wine": {
         "naam": "Cava Brut",
-        "druif": "Macabeo / Xarel·lo",
-        "toelichting": "De bellen van Cava snijden door de rijkdom van de gesmolten manchego en maken de gekarameliseerde appel nog fruitiger. De droge stijl contrasteert perfect met de pittige chorizo.",
-        "alternatief": "Droge Riesling of Txakoli"
+        "druif": "Macabeo, Xarel·lo, Parellada",
+        "toelichting": "De bellen van Cava snijden door de rijkdom van de gesmolten manchego en het vet van de chorizo, terwijl de droge friszuurheid de zoetheid van de appel balanceert. Een Cava Brut heeft meer dosage dan Brut Nature en daardoor een licht ronder karakter — perfect bij dit combinatie van zoet, hartig en vettig. De lichte gisttonen van de Cava sluiten aan op de kaasrijping van de manchego. In Catalonië is Cava de vanzelfsprekende begeleider bij kaas- en charcuteriegerechten. Serveer ijskoud op 7°C.",
+        "alternatief": "Rioja Joven — licht en fruitig, werkt als warme begeleider bij de chorizo"
       },
       "slug": "tosta-appel-chorizo-manchego",
       "time": "20 min",
@@ -1628,7 +1729,14 @@
       "difficulty": "Makkelijk",
       "description": "Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego — zoet, zout en pittig in één hap.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik een zure appel zoals Granny Smith — houdt beter stand bij het bakken en snijdt door de vettigheid van chorizo en manchego.",
+        "Techniek: bak de chorizo in zijn eigen vet — voeg geen extra olie toe. Het rode chorizo-vet dat vrijkomt is de smaakdrager voor de appel.",
+        "Presentatie: leg de manchego schuin over de chorizo zodat hij gedeeltelijk smelt — dat geeft een rustieke maar elegante look die de smaken visueel aankondict.",
+        "Variatie: voeg een druppel honing toe na het bakken voor een zoet-pittige balans, of bestrooi met gerookt zout voor extra diepte.",
+        "Alternatief: geen chorizo? Gebruik morcilla (bloedworst) — de aardsere, zoetere smaak van morcilla met appel is een even klassieke Spaanse combinatie."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1670,7 +1778,6 @@
           ]
         }
       ],
-      "chef_tip": "Rooster de paprika's van tevoren — bewaar in olijfolie in de koelkast.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1689,8 +1796,8 @@
       "wine": {
         "naam": "Rioja Joven",
         "druif": "Tempranillo",
-        "toelichting": "Een jonge, ongerijpte Rioja Joven heeft de frisheid om de pittige chistorra bij te houden en de fruitigheid om de geroosterde paprika te complementeren. De zilte kappertjes accentueren de wijn op een verrassende manier. Serveer licht gekoeld op 14°C.",
-        "alternatief": "Garnacha of Navarra Rosado"
+        "toelichting": "Een jonge, ongerijpte Rioja Joven heeft de frisheid en het fruitige karakter om de pittigheid van de chistorra en de rijkdom van de aioli te balanceren zonder te overweldigen. De levendige tonen van rood fruit — kers, framboos — sluiten aan op de zoetigheid van de geroosterde paprika. Zonder houtrijping behoudt de wijn zijn directe, drinkbare frisheid die perfect is bij tapas. Een Joven wordt nooit moe tijdens een lange tapas-avond. Serveer licht gekoeld op 14°C.",
+        "alternatief": "Garnacha Rosado — de lichte roodvruchtentonen en frisse zuurgraad werken even goed bij geroosterde groenten"
       },
       "slug": "chistorra-paprika-aioli-kappertjes",
       "time": "20 min",
@@ -1701,7 +1808,14 @@
       "difficulty": "Makkelijk",
       "description": "Knapperig geroosterd brood met aioli, geroosterde rode paprika, gebakken chistorra en kappertjes — een kleurrijke pintxo die er prachtig uitziet op tafel.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: rooster de paprika's van tevoren en bewaar in olijfolie in de koelkast — ze worden lekkerder na een dag en zijn weken houdbaar.",
+        "Techniek: snijd de chistorra schuin — dat vergroot het bakoppervlak en geeft meer karamelisatie en smaak dan rechte sneden.",
+        "Presentatie: leg de geroosterde paprikarepen als basis, dan de chistorra en aioli als witte stippen — rood-wit-groen geeft een aantrekkelijk kleurenpalet.",
+        "Variatie: voeg een paar druppels balsamicoglazuur toe voor een zoetzure diepte die de geroosterde paprika mooi aanvult.",
+        "Alternatief: geen geroosterde paprika? Gebruik piquillo-pepers uit een potje — al geroosterd en gepeld, een uitstekend tijdbesparend alternatief."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1752,7 +1866,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik een zure appel — houdt beter stand en snijdt door de vettigheid. De appelcompote kan van tevoren gemaakt worden.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1775,8 +1888,8 @@
       "wine": {
         "naam": "Gewürztraminer",
         "druif": "Gewürztraminer",
-        "toelichting": "De licht bloemige Gewürztraminer is een verrassende maar perfecte combinatie bij de zoete appelcompote en de pittige chistorra. De roos- en lycheetonen accentueren de honing in de mosterd. Een onverwachte maar memorabele combinatie.",
-        "alternatief": "Droge Riesling of Viognier"
+        "toelichting": "De licht bloemige, exotische Gewürztraminer is een verrassende maar perfecte partner bij chistorra met appel — de lichte zoetheid van de wijn sluit aan op de appelcompote, de aromatische rozenwater- en lycheetonen geven een verfrissend contrast met het gekruide vlees. De lichte rondheid van de wijn tempert de scherpheid van de mosterd. Dit is geen klassieke Spaanse combinatie maar een gastronomische keuze die bewust breekt met de traditie. Serveer goed gekoeld op 9°C.",
+        "alternatief": "Cava Brut Nature — de droge bellen snijden door het vet en brengen de mosterd in balans"
       },
       "slug": "chistorra-appelcompote-mosterd",
       "time": "25 min",
@@ -1787,7 +1900,14 @@
       "difficulty": "Makkelijk",
       "description": "Geroosterd brood met honingmosterd, gekarameliseerde appelcompote, knapperige chistorra en verse tijm.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik een zure appel — die houdt beter stand en snijdt door de vettigheid. De appelcompote twee dagen van tevoren maken zodat de smaken samensmelten.",
+        "Techniek: bak de chistorra op hoog vuur en beweeg weinig — karamelisatie aan de buitenkant is het doel. Een gele, niet bruine chistorra is te zacht gebakken.",
+        "Presentatie: serveer in kleine Chinese lepels of op kleine ronde crackers — dat geeft het gerecht een amuse-waardig formaat.",
+        "Variatie: vervang appelcompote door perencompote met kaneel voor een warmer, winters karakter. Of voeg een mespuntje wasabi toe aan de mosterd voor een onverwachte twist.",
+        "Alternatief: geen chistorra? Gebruik verse chorizo fresco — zelfde techniek, iets pittiger van smaak en dikker van textuur."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1843,7 +1963,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik een rijpe maar stevige avocado. Voeg het limoensap pas op het laatste moment toe.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1866,8 +1985,8 @@
       "wine": {
         "naam": "Sauvignon Blanc",
         "druif": "Sauvignon Blanc",
-        "toelichting": "De frisse, groenachtige tonen van Sauvignon Blanc weerspiegelen de limoen en koriander in het tartaartje perfect. De levendige zuurgraad snijdt door de romige avocado en maakt de tropische mangosmaak frisser.",
-        "alternatief": "Verdejo of Albariño"
+        "toelichting": "De frisse, groenachtige tonen van citrusgras, kruisbes en limoen in Sauvignon Blanc weerspiegelen de limoendressing van het tartaartje en versterken de tropische mango. De hoge zuurgraad snijdt door de romige vettigheid van de avocado — zonder dat frisheid zou het gerecht zwaar aanvoelen. Een Rueda Sauvignon Blanc of een Loire-versie (Sancerre, Pouilly-Fumé) werkt uitstekend. Vermijd houtgerijpte Sauvignon — de vanilletonen overstemmen de frisse avocadosmaak. Serveer ijskoud op 8°C.",
+        "alternatief": "Albariño — vergelijkbare citrusfrisheid met extra mineraliteit die de mango mooi aanvult"
       },
       "slug": "avocado-mango-tartaartje",
       "time": "20 min",
@@ -1878,7 +1997,14 @@
       "difficulty": "Makkelijk",
       "description": "Een fris en kleurrijk tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik een rijpe maar stevige avocado. Voeg het limoensap pas op het laatste moment toe — het vertraagt bruining maar stopt hem niet.",
+        "Techniek: snijd avocado en mango in identieke blokjes van 1 cm — gelijke maat geeft een strakker tartaartje en zorgt dat elke hap alle smaken bevat.",
+        "Presentatie: gebruik een kleine ronde steker of een leeg blikje als mal — zo krijg je een strak cilindervormig tartaartje dat direct restaurant-waardig oogt.",
+        "Variatie: voeg een dot wasabi-mayonaise toe als finishing voor een Japanse twist, of bestrooi met geroosterd sesamzaad voor extra textuur.",
+        "Alternatief: geen mango? Gebruik rijpe papaja of nectarine — dezelfde tropische zoetheid die de rijkdom van de avocado in balans brengt."
+      ]
     },
     {
       "ingredient_groups": [
@@ -1938,7 +2064,6 @@
           ]
         }
       ],
-      "chef_tip": "Maak de avocadocrème op het laatste moment zodat hij niet bruin wordt.",
       "servings": "4 personen",
       "steps": [
         {
@@ -1961,8 +2086,8 @@
       "wine": {
         "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "Albariño is de ideale wijn bij krab en zeevruchten — de citrusachtige frisheid en het lichte zout accentueren de zeesmaak van het krabvlees en de sinaasappel in de salade. De avocadocrème geeft de wijn de romigheid die hij nodig heeft.",
-        "alternatief": "Chablis of droge Verdejo"
+        "toelichting": "Albariño is de ideale wijn bij krab en zeevruchten — de citrusachtige frisheid van limoen en grapefruit past perfect bij de krabsalade; de mineraliteit sluit aan op de zeeachtige, zilte smaak van het krabvlees. De lichte bitterheid van de afdronk balanceert de rijkdom van de avocadocrème. Een Albariño sur lías (op gist gerijpt) geeft extra romige textuur die de crème weerspiegelt. In Galicië is dit de vanzelfsprekende combinatie bij elke vorm van zeevruchten. Serveer ijskoud op 8°C.",
+        "alternatief": "Verdejo uit Rueda — kruidige frisheid die uitstekend aansluit op de koriander in de dressing"
       },
       "slug": "tosta-avocado-krabsalade",
       "time": "20 min",
@@ -1973,7 +2098,14 @@
       "difficulty": "Makkelijk",
       "description": "Geroosterd brood met avocadocrème en frisse krabsalade met sinaasappel, mayo en kappertjes.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: maak de avocadocrème op het laatste moment zodat hij niet bruin wordt. Krabsalade ochtends kopen en koud bewaren tot serveren.",
+        "Techniek: dep de krab goed droog voor gebruik — te veel vocht maakt de tosta zompig. Gebruik een zeef om overtollig vocht te verwijderen.",
+        "Presentatie: spuit de avocadocrème met een spuitzak in een elegant swirl op de tosta — dat geeft meer volume en een professionelere uitstraling dan smeren.",
+        "Variatie: voeg een dot Sriracha of tabasco toe aan de avocadocrème voor pit, of leg een dunne plak radijs bovenop voor knapperig contrast.",
+        "Alternatief: geen verse krab? Gebruik kwaliteitskrab uit een blikje (John West of Fisherman's Friend) — goed uitgelekt en aangemaakt met dezelfde dressing."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2004,7 +2136,6 @@
           ]
         }
       ],
-      "chef_tip": "Dit recept staat of valt met de kwaliteit van de tomaten — gebruik de rijpste zomertomaten. Nooit uitknijpen — alleen zwaartekracht.",
       "servings": "6 shots",
       "steps": [
         {
@@ -2022,9 +2153,9 @@
       ],
       "wine": {
         "naam": "Fino Sherry",
-        "druif": "Palomino",
-        "toelichting": "Bij dit pure, kristalheldere tomatenwater past alleen een wijn van even grote elegantie. Fino Sherry — droog, nootachtig en zeefris — is de ultieme begeleider die de essentie van de tomaat niet overstemmen maar versterkt. Slechts een klein glaasje.",
-        "alternatief": "Manzanilla of Txakoli"
+        "druif": "Palomino Fino",
+        "toelichting": "Bij dit pure, kristalheldere tomatenwater past alleen een wijn met dezelfde mineraliteit en helderheid — en dat is Fino Sherry. De kurkdroge, licht nootachtige Fino heeft een frisse zuurgraad die de subtiele tomatenzuurheid spiegelt zonder te overstemmen. De jodium- en zeezoutachtige tonen van de flor geven een mineraliteit die het tomatenwater verdiept. Een halve tot één theelepel goede Fino kan zelfs als finishing touch door het water worden geroerd. Serveer ijskoud op 7°C in een gekoeld glas.",
+        "alternatief": "Manzanilla — iets zoutiger en maritimer, werkt als het tomatenwater wordt gecombineerd met zeevruchten"
       },
       "slug": "tomatenwater",
       "time": "10 min + 8 uur druppelen",
@@ -2035,7 +2166,14 @@
       "difficulty": "Gemiddeld",
       "description": "Kristalhelder tomatenwater gewonnen door geduld en zwaartekracht, geserveerd met één druppel olijfolie en fleur de sel.",
       "categorie": "soep",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: dit recept staat of valt met de kwaliteit van de tomaten — gebruik de rijpste zomertrossen die je kunt vinden. Niet persen op het doek — dat geeft troebel water.",
+        "Techniek: hang het doek een nacht in de koelkast — geduld geeft helder, puur tomatenwater. Hoe langzamer het druppelt, hoe helderder het resultaat.",
+        "Presentatie: serveer in doorzichtige glazen of kristallen coupes — de heldere roodachtige kleur is het visuele statement van dit gerecht.",
+        "Variatie: voeg een druppel sherryazijn en een snuf gerookt zout toe voor een Spaans-geïnspireerde gazpacho-shot, of combineer met een dot burrata voor een luxe amuse.",
+        "Alternatief: geen kaasdoek? Gebruik een schone theedoek of koffiefilter — langzamer maar even effectief. Nooit persen of knijpen."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2081,7 +2219,6 @@
           ]
         }
       ],
-      "chef_tip": "Vraag de slager om de ham flinterdun te snijden. Werk van onderen naar boven: brood, vijgencrème, peer, hamroos, manchego, rucola.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2099,9 +2236,9 @@
       ],
       "wine": {
         "naam": "Cava Brut Reserva",
-        "druif": "Macabeo / Xarel·lo / Parellada",
-        "toelichting": "De fijne bellen en droge elegantie van een Cava Brut Reserva sluiten perfect aan bij de gelaagdheid van dit pintxo — de zoete peer, de zilte ham en de nootachtige manchego krijgen elk hun eigen ruimte.",
-        "alternatief": "Champagne Brut of Txakoli"
+        "druif": "Macabeo, Xarel·lo, Parellada",
+        "toelichting": "De fijne bellen en droge elegantie van een Cava Brut Reserva zijn de perfecte begeleider bij dit luxe pintxo — de mousse snijdt door het rijke vet van de Iberico ham, terwijl de gisttonen van de langere rijping aansluiten op de nootachtige complexiteit van de bellota-ham. De lichte appel- en perentonen in de Cava resoneren direct met de peer in het gerecht. Een Reserva heeft minstens 15 maanden op gist gerijpt — die extra complexiteit is hier gerechtvaardigd. Serveer ijskoud op 7°C.",
+        "alternatief": "Manzanilla — de zilte droogheid is een klassieke Spaanse partner bij Iberico ham"
       },
       "slug": "pintxo-iberico-ham-peer",
       "time": "20 min",
@@ -2112,7 +2249,14 @@
       "difficulty": "Makkelijk",
       "description": "Knapperig brood met vijgencrème, dunne peerschijfjes, flinterdunne Ibérico ham in een roos, manchegoschaafsel en peppery rucola bovenop.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: vraag de slager om de ham flinterdun te snijden. Werk van onderen naar boven: brood, peer, ham, garnering — in die volgorde voor de beste bite.",
+        "Techniek: gebruik een rijpe maar stevige peer — Conference of Doyenné du Comice werken het beste. Te zachte peer valt uit elkaar bij het plakken van de ham.",
+        "Presentatie: vouw de ham in een losse plooi over de peer in plaats van plat erover te leggen — dat geeft meer volume en een elegantere look.",
+        "Variatie: voeg een druppel Pedro Ximénez-glaze toe voor extra zoet-complex diepte, of bestrooi met walnootskruidel voor textuurcontrast.",
+        "Alternatief: geen Iberico ham? Gebruik jamon serrano of Italiaans prosciutto di Parma — minder nootachtig maar even elegant bij rijpe peer."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2159,7 +2303,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik een rijpe maar stevige meloen. Serveer direct — meloen en munt worden snel slap.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2173,9 +2316,9 @@
       ],
       "wine": {
         "naam": "Manzanilla",
-        "druif": "Palomino",
-        "toelichting": "Ham en meloen is een klassieke Spaanse zomercombinatie, en Manzanilla is de wijn die er al eeuwen bij past. De droge, zeese tonen accentueren de zoute ham terwijl de frisheid de zoete meloen in balans brengt. Serveer ijskoud.",
-        "alternatief": "Droge Cava of Txakoli"
+        "druif": "Palomino Fino",
+        "toelichting": "Ham en meloen is een klassieke Spaanse zomercombinatie, en Manzanilla is er de ideale begeleider bij. De kurkdroge, zilte, licht jodiumachtige Sherry contrasteert prachtig met de zoetheid van de meloen en snijdt door het vet van de ham — waardoor elk hapje fris en schoon aanvoelt. De broodachtige tonen van de flor geven een extra dimensie die de combinatie verdiept. In de Spaanse zomer wordt Manzanilla ijskoud gedronken als aperitief bij precies dit soort gerechten. Serveer ijskoud op 6-7°C.",
+        "alternatief": "Txakoli — licht sprankelend en friszurig, werkt als je iets minder geoxideerd wilt"
       },
       "slug": "pintxo-iberico-ham-meloen",
       "time": "15 min",
@@ -2186,7 +2329,14 @@
       "difficulty": "Makkelijk",
       "description": "Een klassieke Spaanse combinatie — knapperig brood, limoenyoghurt, meloenschijfjes, Ibérico ham in een roos en verse munt erop.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik een rijpe maar stevige meloen — Piel de Sapo of Cantaloupe werken het beste. Serveer direct — meloen en munt worden snel waterig.",
+        "Techniek: snijd de meloen in gelijke blokjes van 2 cm — dat zorgt voor een stabiele basis en een gelijke bite bij elk pintxo.",
+        "Presentatie: leg de ham in een losse, bijna transparante plooiing over de meloen — zo is de oranje kleur van de meloen nog zichtbaar door de ham heen.",
+        "Variatie: voeg een druppel balsamicoglazuur toe voor zoetzure diepte, of bestrooi met microgreens voor een moderne twist op dit klassieke Spaanse duo.",
+        "Alternatief: geen Iberico ham? Gebruik jamon serrano — minder nootachtig en minder vettig maar even zoet-hartig bij meloen."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2261,7 +2411,6 @@
           ]
         }
       ],
-      "chef_tip": "De folie gebruik je alleen om de rol in vorm te brengen — daarna gaat de folie eraf voor het bakken.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2284,8 +2433,8 @@
       "wine": {
         "naam": "Tempranillo Roble",
         "druif": "Tempranillo",
-        "toelichting": "Een jonge Tempranillo met lichte houtrijping heeft de fruitigheid om de gekruide gehaktrol te begeleiden en de structuur om de piquillo te balanceren. De zachte tannines complementeren het vlees zonder te overheersen. Serveer op 16°C.",
-        "alternatief": "Garnacha of Côtes du Rhône"
+        "toelichting": "Een jonge Tempranillo met korte houtrijping op Amerikaans eik heeft de fruitige toegankelijkheid van een Joven met een vleugje vanille en toast die de gehaktsmaak verdiept. De rode vruchttonen van kers en pruim sluiten aan op de zoete piquillo-pepers. De tannines zijn zacht genoeg om de delicate rol niet te overstemmen maar krachtig genoeg om het vet van het gehakt te balanceren. Een Roble is de middenweg tussen fris en complex — precies wat dit gerecht vraagt. Serveer op 16°C.",
+        "alternatief": "Rioja Crianza — meer houtrijping, dieper karakter, werkt als de piquillo centraal staat"
       },
       "slug": "pintxo-gehaktrol-piquillo",
       "time": "40 min",
@@ -2296,7 +2445,14 @@
       "difficulty": "Gemiddeld",
       "description": "Een mini-gehaktrol gekruid op Spaanse wijze met pimentón, knoflook en peterselie — in plakjes gesneden op geroosterd brood met aioli en piquillo.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de folie gebruik je alleen om de rol in vorm te brengen — daarna gaat de folie eraf voor het bakken. Maak de rol een dag van tevoren en bak pas vlak voor serveren.",
+        "Techniek: bak de gehaktrol op hoog vuur en draai regelmatig — zo krijg je een gelijkmatig goudbruin oppervlak aan alle kanten.",
+        "Presentatie: snijd schuin door de rol zodat het kleurrijke interieur met de piquillo zichtbaar is — leg elke plak met het snijvlak naar boven.",
+        "Variatie: voeg olijven of zongedroogde tomaten toe aan de gehaktvulling voor extra Mediterrane diepte, of wikkel de rol in jamon serrano voor een extra krokante buitenkant.",
+        "Alternatief: geen piquillo-pepers? Gebruik geroosterde rode paprika — zelf roosteren en pellen geeft het beste resultaat, of gebruik kwalitatieve pimientos del piquillo uit een pot."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2364,7 +2520,6 @@
           ]
         }
       ],
-      "chef_tip": "Laat de biefstuk altijd 5 minuten rusten voor snijden. De ui heeft tijd nodig — 15 minuten op laag vuur voor echte karamelisatie.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2390,9 +2545,9 @@
       ],
       "wine": {
         "naam": "Rioja Reserva",
-        "druif": "Tempranillo / Mazuelo / Graciano",
-        "toelichting": "Een Rioja Reserva is de klassieke begeleider bij biefstuk — de rijpe tannines sluiten aan bij het vlees en de rode wijnjus, terwijl de houtrijping de champignons en de gekarameliseerde ui accentueert. Gebruik dezelfde wijn in de saus als in het glas.",
-        "alternatief": "Ribera del Duero Crianza of Bordeaux"
+        "druif": "Tempranillo, Garnacha, Mazuelo",
+        "toelichting": "Een Rioja Reserva is de klassieke begeleider bij biefstuk — minstens 3 jaar gerijpt waarvan 1 jaar op eik, wat resulteert in geïntegreerde tannines, tonen van gedroogde kers, leer, tabak en een vleugje vanille. Die complexiteit past perfect bij de diepe umami van de champignons en de rijke wijnjus. De Tempranillo-structuur heeft genoeg body voor het vlees maar is niet zo zwaar dat het de delicate champignons overspoelt. In de Rioجaanse cuisine is Reserva de standaard bij vleesgerechten. Serveer op 17°C.",
+        "alternatief": "Ribera del Duero Crianza — krachtiger en voller, werkt als de biefstuk dik en stevig is"
       },
       "slug": "tosta-biefstuk-champignons-wijnjus",
       "time": "35 min",
@@ -2403,7 +2558,14 @@
       "difficulty": "Gemiddeld",
       "description": "Geroosterd brood met gekarameliseerde ui, sappige champignons en reepjes perfect gebakken biefstuk in een rijke rode wijnjus.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: laat de biefstuk altijd 5 minuten rusten voor snijden. De wijnjus kan een dag van tevoren worden gemaakt en opgewarmd.",
+        "Techniek: bak de ui langzaam en geduldig — minstens 20 minuten op laag vuur. Gekaramelliseerde ui is het geheime fundament van dit gerecht; gesmoorde ui geeft niet hetzelfde resultaat.",
+        "Presentatie: snijd de biefstuk tegen de draad en leg de plakjes dakpansgewijs op de tosta — zo ziet het broodje er voller uit en is elk hapje gelijkmatig.",
+        "Variatie: voeg blauwe kaas (Cabrales) toe naast de champignons voor een intenser, gedurfd karakter. Of gebruik truffelpasta in de wijnjus voor luxe diepte.",
+        "Alternatief: geen biefstuk? Gebruik bavette of secreto ibérico — beide zijn smaakvoller en goedkoper dan biefstuk en werken uitstekend op een tosta."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2479,7 +2641,6 @@
           ]
         }
       ],
-      "chef_tip": "Marineer de kip minstens 30 minuten — een nacht in de koelkast is nog beter. Gebruik kippendij — die blijft sappiger op de grill.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2502,8 +2663,8 @@
       "wine": {
         "naam": "Viognier",
         "druif": "Viognier",
-        "toelichting": "De rijke, bloemige Viognier met zijn abrikoos- en perziktonen is een perfecte spiegel van de mango-chutney en de gegrilde kip. De lichte romigheid van de wijn balanceert de pittige koriander en limoen.",
-        "alternatief": "Gewürztraminer of Albariño"
+        "toelichting": "De rijke, bloemige Viognier met zijn abrikoos- en perziktonen is de perfecte partner bij de tropische mango en de gegrilde kip. De volle, aromatische body van de Viognier sluit aan op de rijkdom van de korianderdressing en de exotische vruchttonen van de mango. Een lichte rondheid in de wijn — typisch voor Viognier — tempert de pittige elementen in de marinade. Vermijd houtgerijpte versies — de vanilletonen overstemmen de frisse mango. Serveer gekoeld op 11°C.",
+        "alternatief": "Gewürztraminer — nog aromatischer en exotischer, werkt als de mango de hoofdrol heeft"
       },
       "slug": "tosta-kip-mango-koriander",
       "time": "30 min + 30 min marineren",
@@ -2514,7 +2675,14 @@
       "difficulty": "Makkelijk",
       "description": "Gemarineerde kippendijreepjes gegrild op hoog vuur met een mooie korst — op geroosterd brood met zelfgemaakte mango-chutney en verse koriander.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: marineer de kip minstens 30 minuten — een nacht in de koelkast is nog beter. Gebruik kippendij, geen filet — sappiger en meer smaak.",
+        "Techniek: grill de kip op hoog vuur zodat er karamelisatie ontstaat — dat geeft extra smaakdiepte die de zoete mango perfect aanvult.",
+        "Presentatie: leg de mangoreepjes schuin over de kip zodat ze deels zichtbaar zijn — de oranje kleur van de mango maakt het hapje direct aantrekkelijk.",
+        "Variatie: voeg een dot Sriracha of chilisaus toe voor pit, of bestrooi met geroosterd sesamzaad voor een Aziatische twist.",
+        "Alternatief: geen verse mango? Gebruik mango uit een blikje (uitgelekt en drooggedept) of rijpe papaja — dezelfde tropische zoetheid die de kip aanvult."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2582,7 +2750,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik dikke garnalen — kleine garnalen worden te snel droog in de bacon. Grill op heel hoog vuur en kort.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2604,9 +2771,9 @@
       ],
       "wine": {
         "naam": "Txakoli",
-        "druif": "Hondarribi Zuri",
-        "toelichting": "De sprankelende frisheid van Txakoli is de perfecte tegenhanger van de krokante bacon en de sappige garnalen. De wijn reinigt de mond na elke bite van dit rijke pintxo. Serveer ijskoud — zoals ze dat in Gros, San Sebastián doen.",
-        "alternatief": "Cava Brut of Manzanilla"
+        "druif": "Hondarrabi Zuri",
+        "toelichting": "De sprankelende frisheid van Txakoli is de perfecte tegenhanger bij de vettige bacon en de zoute garnaal — de lichte bellen reinigen de mond na elke hap. De hoge zuurgraad snijdt door het baconvet; de mineraliteit sluit aan op de zilte garnaal. Txakoli heeft een laag alcoholgehalte (10-11%) wat het licht en drinkbaar houdt tijdens een tapas-avond. Traditioneel wordt het van hoogte ingeschonken om te luchten. Serveer ijskoud op 7°C.",
+        "alternatief": "Cava Brut — dezelfde sprankelende frisheid met iets meer body"
       },
       "slug": "bacon-garnaalspies-brood",
       "time": "25 min",
@@ -2617,7 +2784,14 @@
       "difficulty": "Makkelijk",
       "description": "Dikke sappige garnalen strak gewikkeld in krokante bacon, gegrild op hoog vuur op geroosterd brood met knoflook-citrusmayo — geïnspireerd op Bar Desy in Gros, San Sebastián.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik dikke garnalen — kleine garnalen worden te snel droog in de bacon. Dep de bacon droog voor gebruik zodat hij krokanter bakt.",
+        "Techniek: grill op hoog vuur en draai slechts één keer — zo karameliseer de bacon perfect aan beide kanten zonder de garnaal te overbakken.",
+        "Presentatie: serveer de spies diagonaal over het brood — dat geeft het hapje meer hoogte en een aantrekkelijker silhouet.",
+        "Variatie: wikkel de garnaal in jamon serrano in plaats van bacon voor een Spaanse twist — minder vet maar meer umami en een knapperigere textuur.",
+        "Alternatief: geen verse garnalen? Gebruik diepvriesgarnalen (volledig ontdooid en drooggedept) — het resultaat is 90% even goed als verse."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2725,7 +2899,6 @@
           ]
         }
       ],
-      "chef_tip": "De aardappelpuree moet zo droog mogelijk zijn. Serveer altijd met BEIDE sauzen naast elkaar — dat is de traditie van La Cova Fumada.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2750,10 +2923,10 @@
         }
       ],
       "wine": {
-        "naam": "Estrella Damm bier",
-        "druif": "— (bier)",
-        "toelichting": "La Bomba is geboren in de visserskwartier van Barceloneta en heeft altijd vergezeld van een koud glas Estrella Damm — het bier van Barcelona. De bitterheid snijdt door het vet van de aardappelbal en de pittige bravasaus. Zo hoort het.",
-        "alternatief": "Cava Brut of Garnacha Rosado"
+        "naam": "Estrella Damm",
+        "druif": "N.v.t.",
+        "toelichting": "La Bomba is geboren in de visserskwartier van Barceloneta en wordt al meer dan 100 jaar geserveerd met een koud glas Estrella Damm — het Barcelonese biermerk dat al net zo lang deel uitmaakt van de stad als de Sagrada Família. De lichte bitterheid en het koolzuur snijden door het frituurvet en de rijke aardappelvulling. Dit is geen wijnsituatie maar een authentieke stadscultuur — een glas wijn bij La Bomba is even vreemd als een biertje bij een fine dining degustatiemenu. Serveer ijskoud.",
+        "alternatief": "Cava Brut — als je toch wijn wilt: de bellen doen hetzelfde werk als het bierscbuim"
       },
       "slug": "la-bomba-barceloneta",
       "time": "50 min",
@@ -2764,7 +2937,14 @@
       "difficulty": "Gemiddeld",
       "description": "De iconische tapa van Barceloneta uit 1944 — een grote knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd tot goudbruin en geserveerd met bravasaus én aioli.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de aardappelpuree moet zo droog mogelijk zijn — gebruik meelachtige aardappels en stamp droog, zonder melk. Serveer altijd met BEIDE sauzen naast elkaar.",
+        "Techniek: frituur de bommen op 170°C — te hoog en de buitenkant brandt voor de vulling gaar is. Test altijd een kleine bal eerst voor je de hele batch frituurt.",
+        "Presentatie: snijd één bom doormidden zodat de goudbruine buitenkant en de kleurrijke vulling zichtbaar zijn — dat geeft tafelgenoten een eetlustopwekkende inkijk.",
+        "Variatie: voeg chorizo of morcilla toe aan de vulling voor extra Spaanse smaakdiepte, of gebruik kabeljauw (bacalao) in plaats van gehakt voor een visversie.",
+        "Alternatief: geen frituurpan? Gebruik een diepe pan met neutrale olie — zorg dat de olie minstens 4 cm diep is zodat de bom volledig ondergedompeld kan worden."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2820,7 +3000,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik een gloeiend hete droge grillpan — geen olie. Grill maximaal 1-2 minuten per kant.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2842,9 +3021,9 @@
       ],
       "wine": {
         "naam": "Cava Brut Rosé",
-        "druif": "Garnacha / Pinot Noir",
-        "toelichting": "De lichte roodvruchtentonen van een Cava Brut Rosé sluiten mooi aan bij de gegrilde watermeloen en de geroosterde tomaatjes. De bellen reinigen de mond na de balsamico en maken de basilicumolie frisser. Een zomerse combinatie.",
-        "alternatief": "Provence Rosé of Txakoli"
+        "druif": "Garnacha, Monastrell, Pinot Noir",
+        "toelichting": "De lichte roodvruchtentonen van een Cava Brut Rosé — aardbeien, framboos, wilde kers — sluiten mooi aan op de gegrilde watermeloen en de rijpe zomertomaat. De droge bellen reinigen de mond na elke sappige hap en de friszuurheid balanceert de lichte zoetheid van de watermeloen. Een Cava Rosé is zomers, licht en toegankelijk — precies de juiste toon bij dit frisse, kleurrijke gerecht. Serveer ijskoud op 7°C.",
+        "alternatief": "Provence Rosé — droger en eleganter, werkt als de feta de hoofdrol speelt"
       },
       "slug": "gegrilde-watermeloen-tomaat",
       "time": "1 uur",
@@ -2855,7 +3034,14 @@
       "difficulty": "Gemiddeld",
       "description": "Geïnspireerd op Tickets Bar van Albert Adrià — dikke plakken watermeloen kort gegrild, geserveerd met langzaam geroosterde cherrytomaatjes en basilicumolie. Simpel, verrassend en verbluffend lekker.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik een gloeiend hete droge grillpan — geen olie. Dep de watermeloenplakken droog voordat ze de pan in gaan.",
+        "Techniek: grill maximaal 1-2 minuten per kant — de watermeloen moet warm en licht geroosterd zijn maar niet papperig worden. Een thermometer is hier niet nodig: vertrouw op je ogen.",
+        "Presentatie: leg de gegrilde watermeloen en tomaat afwisselend op het bord in een strak patroon — rood naast roze geeft een visueel opvallende presentatie.",
+        "Variatie: voeg een dot Kalamata-olijventapenade toe voor umami-diepte, of bestrooi met grof zeezout en gerookte paprika voor een Spaans tintje.",
+        "Alternatief: geen grillpan? Gebruik een gewone hete pan of de oven op grilstand — de roostertekens ontbreken maar de smaak is vergelijkbaar."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2894,7 +3080,6 @@
           ]
         }
       ],
-      "chef_tip": "Leg de ham koud op het hete gerecht — die warmt vanzelf op en wordt licht krokant aan de randen.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2913,8 +3098,8 @@
       "wine": {
         "naam": "Rioja Joven",
         "druif": "Tempranillo",
-        "toelichting": "Een jonge, frisse Rioja Joven is de klassieke begeleider bij huevos rotos in de tabernas van Madrid. De lichte tannines en rode vruchten passen perfect bij de vloeibare eidooier, de krokante aardappels en de Ibérico ham. Licht gekoeld serveren op 14°C.",
-        "alternatief": "Garnacha of Mencía"
+        "toelichting": "Een jonge, frisse Rioja Joven is de klassieke begeleider bij huevos rotos — het meest Madrileense gerecht dat er bestaat. De levendige rode vruchttonen van kers en braam sluiten aan op de licht gekarameliseerde aardappels; de frisse zuurgraad snijdt door de rijkdom van het eigeel. Zonder houtrijping behoudt de Joven zijn directe, drinkbare karakter — perfect bij dit eerlijke, hartige straateten. In Madrid wordt dit gerecht zelden zonder wijn besteld. Serveer licht gekoeld op 14°C.",
+        "alternatief": "Garnacha uit Navarra — fruitiger en ronder, werkt als het gerecht extra pittige ham heeft"
       },
       "slug": "huevos-rotos-jamon",
       "time": "25 min",
@@ -2925,7 +3110,14 @@
       "difficulty": "Makkelijk",
       "description": "Een van de meest geliefde Madrid tapas — krokante gefrituurde aardappelschijfjes met gebakken eieren die je net voor het serveren breekt zodat de dooier over alles stroomt, met flinterdunne Ibérico ham.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: leg de ham koud op het hete gerecht — die warmt vanzelf op en wordt licht krokant zonder uit te drogen.",
+        "Techniek: het geheim van huevos rotos is timing — de patatas moeten gloeiend heet zijn als het ei erbovenop breekt zodat het eigeel direct begint te garen aan het oppervlak.",
+        "Presentatie: breek het ei spectaculair aan tafel — dat is onderdeel van de ervaring en maakt het gerecht interactief en memorabel.",
+        "Variatie: vervang jamon serrano door chorizo fresco voor een pittigere versie, of voeg een dot trufficrème toe voor luxe diepte.",
+        "Alternatief: geen verse aardappels? Gebruik kant-en-klare chips — leg ze dik in een laag, schenk er hete olie over en bak het ei erop. Niet hetzelfde maar verrassend goed."
+      ]
     },
     {
       "ingredient_groups": [
@@ -2964,7 +3156,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik de beste ansjovis die je kunt vinden — Cantabrische zijn zouter en vleziger. De volgorde op de prikker: olijf, ui, ansjovis opgerold, pepertje.",
       "servings": "4 personen",
       "steps": [
         {
@@ -2982,9 +3173,9 @@
       ],
       "wine": {
         "naam": "Vermout op tap",
-        "druif": "Garnacha / Tempranillo blend",
-        "toelichting": "Bij een banderilla hoort geen wijn maar een glas koude vermout — bij voorkeur van het tap zoals in de old-school tabernas van Madrid. De kruidige bitterheid accentueert de zilte ansjovis en de zure guindilla.",
-        "alternatief": "Manzanilla of koud Mahou bier"
+        "druif": "Blend",
+        "toelichting": "Bij een banderilla hoort geen wijn maar een glas koude vermout op tap — bij voorkeur Yzaguirre, Lustau Vermut Rojo of Martini Rosso Riserva Speciale. De licht bitterzoete, kruidige smaak van rode vermout sluit aan op de zilte ansjovis en de zure augurk, terwijl de bittertonen de olijven versterken. Vermout op tap is de authentieke Madrileense middagdrank — zonder ijs, met een olijf, in een breed glas. Het is geen keuze maar een culturele ervaring. Serveer koud maar niet ijskoud, op 12°C.",
+        "alternatief": "Manzanilla — kurkdroog en zilt, de meest elegante wijnkeuze bij ansjovis en olijven"
       },
       "slug": "banderilla-madrid",
       "time": "10 min",
@@ -2995,7 +3186,14 @@
       "difficulty": "Makkelijk",
       "description": "De iconische Madrid banderilla — een mini-prikker van groene olijf, zilverui, ansjovis en guindilla-pepertje. Zout, zuur en pittig in één hap. Typisch bij een koud tapbier in de oude tabernas van Madrid.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik de beste ansjovis die je kunt vinden — Cantabrische ansjovis zijn zouter en vleziger dan goedkope alternatieven en maken dit pintxo.",
+        "Techniek: prik de ingrediënten in volgorde van gewicht — zware ingrediënten onderaan, lichtste bovenaan zodat de banderilla stabiel staat zonder om te vallen.",
+        "Presentatie: de banderilla dankt zijn naam aan de sierlijke piek van een stierengevecht — recht, strak en kleurrijk is het devies.",
+        "Variatie: voeg een blokje manchego toe aan de banderilla voor extra hartigheid, of gebruik geroosterde piquillo in plaats van rode paprika voor meer diepte.",
+        "Alternatief: geen Cantabrische ansjovis? Gebruik boquerones (witte ansjovis in azijn) voor een milder, frisser alternatief."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3038,7 +3236,6 @@
           ]
         }
       ],
-      "chef_tip": "De bakjes kun je een dag van tevoren maken. Vul pas vlak voor serveren zodat het bladerdeeg krokant blijft. Andere toppings: karameliseerde ui, druppel truffelolie, gekarameliseerde appel.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3060,9 +3257,9 @@
       ],
       "wine": {
         "naam": "Sauternes",
-        "druif": "Sémillon / Sauvignon Blanc",
-        "toelichting": "De klassieke combinatie: foie gras en Sauternes. De honingzoete tonen spiegelen de vijgenconfiture terwijl de zuurgraad de rijke ganzenlever in balans brengt. De Pedro Ximénez is een uitstekend Spaans alternatief voor dezelfde luxueuze ervaring.",
-        "alternatief": "Pedro Ximénez of Monbazillac"
+        "druif": "Sémillon, Sauvignon Blanc, Muscadelle",
+        "toelichting": "De klassieke combinatie: foie gras en Sauternes. De honingzoete, geconcentreerde Sauternes — gemaakt van druiven aangetast door edele rotting — heeft tonen van abrikoos, mango, rozijn en een lichte botrytistoon die direct resoneeert met de rijke vettigheid van de foie gras. De zoete zuurgraad van de wijn snijdt door het vet terwijl de zoetheid de vijgencompote spiegelt. Dit is een van de meest klassieke en bewezen wijn-spijscombinaties ter wereld. Serveer gekoeld op 10°C in een klein wijnglas.",
+        "alternatief": "Jurançon Moelleux — minder zoet dan Sauternes maar even complex, werkt als subtielere begeleider"
       },
       "slug": "bladerdeeg-foie-gras-vijgen",
       "time": "30 min",
@@ -3073,7 +3270,14 @@
       "difficulty": "Gemiddeld",
       "description": "Geïnspireerd op Lhardy, het oudste restaurant van Madrid (1839) — knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel Pedro Ximénez sherry.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de bladerdeeg-bakjes een dag van tevoren maken en op kamertemperatuur bewaren in een luchtdichte doos. Vul pas vlak voor serveren zodat het deeg krokant blijft.",
+        "Techniek: foie gras moet zo koud mogelijk zijn — snijd direct uit de koelkast. Gebruik een dun, vochtig mes voor schone snijvlakken zonder scheuren.",
+        "Presentatie: leg een klein blaadje microkers of waterkers bovenop als finishing — het groene accent geeft visueel contrast bij de goudgele foie gras.",
+        "Variatie: vervang vijgencompote door truffelgelei of porto-reductie voor een ander luxe karakter, of gebruik peer in plaats van vijg voor een frissere, lichtere combinatie.",
+        "Alternatief: geen foie gras? Gebruik parfait de volaille (kippenlever parfait) — minder luxe maar even romig en elegant bij vijg en bladerdeeg."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3145,7 +3349,6 @@
           ]
         }
       ],
-      "chef_tip": "Dep de paprika's goed droog voor gebruik. De koriandersaus kan een dag van tevoren gemaakt worden. Geen koriander? Gebruik platte peterselie.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3168,8 +3371,8 @@
       "wine": {
         "naam": "Verdejo",
         "druif": "Verdejo",
-        "toelichting": "De kruidige, licht nootachtige Verdejo uit Rueda heeft de frisheid om de gegrilde groenten te complementeren en de body om de koriandersaus bij te houden. De sherry-azijn in de saus weerklinkt in de mineraliteit van de wijn.",
-        "alternatief": "Sauvignon Blanc of Albariño"
+        "toelichting": "De kruidige, licht nootachtige Verdejo uit Rueda heeft de frisheid om de gegrilde groenten aan te vullen en de complexiteit om de koriandersaus te matchen. De lichte bitterheid in de afdronk van de Verdejo sluit aan op de licht geblakerde groenten, terwijl de citrusnoten de koriander versterken. Verdejo heeft ook voldoende body om niet weggedrukt te worden door de smaakintensiteit van gegrilde paprika en aubergine. Een onderschatte maar uitstekende combinatie. Serveer gekoeld op 9°C.",
+        "alternatief": "Albariño — frisser en mineralerder, werkt als de tosta ook zeevruchten bevat"
       },
       "slug": "tosta-gegrilde-groenten-koriander",
       "time": "35 min",
@@ -3180,7 +3383,14 @@
       "difficulty": "Makkelijk",
       "description": "Gegrilde aubergine en courgette met geroosterde paprika uit blik op knapperig stokbrood — afgewerkt met een frisse koriandersaus met knoflook, komijn en sherry-azijn.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: dep de paprika's goed droog voor gebruik — overtollig vocht maakt de tosta zompig. De koriandersaus kan een dag van tevoren worden gemaakt.",
+        "Techniek: grill de groenten op maximale hitte en beweeg ze weinig — de roosterkolen en karamelisatie zijn de smaakdragers van dit gerecht.",
+        "Presentatie: leg de groenten in kleurlagen op de tosta — rood, geel, groen — zodat elk hapje visueel aantrekkelijk is en alle smaken bevat.",
+        "Variatie: voeg geitenkaas toe naast de gegrilde groenten voor extra romige zuurheid, of bestrooi met za'atar voor een Midden-Oosters tintje.",
+        "Alternatief: geen grillpan? Rooster de groenten in de oven op 220°C met de grillstand — geeft minder roostertekens maar dezelfde karamelisatie."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3210,7 +3420,6 @@
           ]
         }
       ],
-      "chef_tip": "Het geheim van een smeuïge tortilla: de binnenkant mag nog een beetje vloeibaar zijn. Karameliseer de ui écht langzaam — 20 minuten minimum.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3236,9 +3445,9 @@
       ],
       "wine": {
         "naam": "Manzanilla",
-        "druif": "Palomino",
-        "toelichting": "In de traditionele tabernas van Madrid en Sevilla wordt tortilla española altijd geserveerd met een glas koude Manzanilla. De droge, licht zoute sherry accentueert de romige eidooier en de gekarameliseerde ui op een manier die geen andere wijn kan evenaren.",
-        "alternatief": "Cava Brut of Txakoli"
+        "druif": "Palomino Fino",
+        "toelichting": "In de traditionele tabernas van Madrid en Sevilla wordt tortilla española altijd geserveerd met Manzanilla of Fino Sherry — en dat is geen toeval. De kurkdroge, licht nootachtige Sherry snijdt door de rijkdom van het ei en de olijfolie, terwijl de mineraliteit de aardappelsmaak verdiept. De lichte broodachtige toon van de flor sluit aan op de luchtige eistructuur van de tortilla. Na de eerste hap en de eerste slok begrijp je waarom deze combinatie al eeuwen bestaat. Serveer ijskoud op 7°C in een gekoeld copitasglas.",
+        "alternatief": "Cava Brut Nature — de droge bellen doen hetzelfde werk met meer frisheid"
       },
       "slug": "tortilla-espanola",
       "time": "1 uur",
@@ -3249,7 +3458,14 @@
       "difficulty": "Gemiddeld",
       "description": "Geïnspireerd op de legendarische tortilla van Juana La Loca in La Latina — smeuïg van binnen, licht goudbruin van buiten, met langzaam gekarameliseerde ui die de tortilla een diepe zoete smaak geeft.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: het geheim van een smeuïge tortilla: de binnenkant mag nog een beetje vloeibaar zijn als je hem omdraait — hij gaart nog na. Beter te weinig dan te veel gebakken.",
+        "Techniek: confijt de aardappels langzaam in de olijfolie op laag vuur — ze moeten zacht worden zonder te kleuren. Dit duurt 20-25 minuten en is niet te vervangen.",
+        "Presentatie: snijd de tortilla in gelijke wiggen of blokjes — een warme tortilla snijdt schoner dan een koude. Serveer op kamertemperatuur, nooit rechtstreeks uit de koelkast.",
+        "Variatie: voeg gekaramelliseerde ui toe voor een zoeter, rijker karakter (tortilla con cebolla), of piquillo-pepers voor kleur en smaak.",
+        "Alternatief: geen goede olijfolie? Gebruik neutrale olie voor het confijten en voeg een scheut goede olijfolie toe aan het eimengsel voor de smaak."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3300,7 +3516,6 @@
           ]
         }
       ],
-      "chef_tip": "Bak op zeer hoog vuur en kort — medaillons moeten rosé van binnen blijven. Laat 2 minuten rusten voor het op brood leggen. Whisky vervangen: Brandy de Jerez is de meest authentieke Spaanse keuze.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3318,9 +3533,9 @@
       ],
       "wine": {
         "naam": "Ribera del Duero Crianza",
-        "druif": "Tinto Fino (Tempranillo)",
-        "toelichting": "De krachtige Ribera del Duero is de ideale partner voor dit iconische Madrid gerecht. De rijpe zwarte vruchten en het houtaccent sluiten aan bij de whisky-knoflooksaus. Gebruik dezelfde wijn als in de saus als in het glas.",
-        "alternatief": "Rioja Reserva of Priorat"
+        "druif": "Tempranillo (Tinto Fino)",
+        "toelichting": "De krachtige Ribera del Duero op basis van Tinto Fino (de lokale naam voor Tempranillo) is de ideale partner voor ossenhaas — de wijn heeft genoeg structuur en tannines om het mals vlees bij te houden, maar is verfijnd genoeg om de delicate knoflook-whisky-saus niet te overstemmen. Tonen van zwarte kers, ceder, tabak en een lichte vanille van de Spaanse eik sluiten aan op de gekarameliseerde knoflook. Ribera del Duero staat bekend als de meest serieuze rode wijn van Spanje — dit gerecht verdient die ernst. Serveer op 17°C.",
+        "alternatief": "Rioja Reserva — iets eleganter en minder krachtig, werkt als de saus de hoofdrol speelt"
       },
       "slug": "solomillo-al-whisky",
       "time": "20 min",
@@ -3331,7 +3546,14 @@
       "difficulty": "Gemiddeld",
       "description": "Een legendarische Madrid taberna klassieker — kleine stukjes haasbiefstuk snel gebakken en geflambeerd in whisky met knoflook en een rijke saus.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: bak op zeer hoog vuur en kort — medaillons moeten rosé van binnen blijven. Laat het vlees altijd 3-5 minuten rusten voor serveren.",
+        "Techniek: flambeer voorzichtig — houd een deksel bij de hand. De alcohol moet volledig verdampen voor je de saus afmaakt, anders smaakt de saus scherp en rauw.",
+        "Presentatie: serveer de medaillons op een warm bord met de saus eronder als spiegel — nooit erover zodat de mooie bruine korst zichtbaar blijft.",
+        "Variatie: vervang whisky door brandy de Jerez voor een authentiek Andalusisch recept, of gebruik Cognac voor een Frans tintje bij dit Spaanse gerecht.",
+        "Alternatief: geen ossenhaas? Gebruik entrecôte of bavette — meer smaak, minder mals, maar uitstekend bij de whisky-knoflooksaus."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3394,7 +3616,6 @@
           ]
         }
       ],
-      "chef_tip": "De pisto heeft tijd nodig — minstens 25 minuten sudderen. Maak de pisto van tevoren — hij wordt de volgende dag nog lekkerder.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3416,9 +3637,9 @@
       ],
       "wine": {
         "naam": "Garnacha",
-        "druif": "Garnacha",
-        "toelichting": "De frisse, licht kruidige Garnacha met zijn rode vruchten en zachte tannines is de ideale begeleider bij de Spaanse ratatouille. De tomatige tonen van de wijn spiegelen de rijke tomatensaus en het gebakken ei maakt de combinatie ronder. Serveer licht gekoeld.",
-        "alternatief": "Rioja Joven of Côtes du Rhône"
+        "druif": "Garnacha (Grenache)",
+        "toelichting": "De frisse, licht kruidige Garnacha met zijn rode vruchten en zachte tannines is de perfecte begeleider bij pisto — het gerecht heeft de eenvoud en eerlijkheid die om een even direct, toegankelijke wijn vraagt. De tomatige zuurgraad in de pisto wordt gespiegeld door de levendige zuren in de Garnacha; de lichte peperkruid in de wijn sluit aan op de paprika en courgette. Garnacha uit Campo de Borja of Cariñena is de meest toegankelijke keuze — drinkbaar, fruitig en nooit overweldigend. Serveer licht gekoeld op 14°C.",
+        "alternatief": "Rioja Joven — even fris en direct, werkt als het gebakken ei de hoofdrol heeft"
       },
       "slug": "pisto-manchego-huevo",
       "time": "45 min",
@@ -3429,7 +3650,14 @@
       "difficulty": "Makkelijk",
       "description": "De Spaanse ratatouille — courgette, paprika, tomaat en ui langzaam gestoofd tot een rijke zachte saus, met een gebroken gebakken ei erop. Troostend en typisch Madrid.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: de pisto heeft tijd nodig — minstens 25 minuten sudderen. Maak de pisto van tevoren en warm op. Hij wordt de volgende dag nog lekkerder.",
+        "Techniek: snijd alle groenten in gelijke blokjes van 1 cm — ongelijke stukken garen niet gelijkmatig. Laat elke groente apart even aanfruiten voor je de volgende toevoegt.",
+        "Presentatie: maak een kuiltje in de pisto voor het ei — zo blijft het ei mooi op zijn plek en wordt de presentatie strakker dan een ei dat alle kanten opglidt.",
+        "Variatie: voeg een blokje manchego toe in het kuiltje naast het ei voor extra romigheid, of vervang het gebakken ei door een gepocheerd ei voor een elegantere versie.",
+        "Alternatief: geen verse tomaten? Gebruik gepelde Roma-tomaten uit blik — minder vers maar intensere smaak, werkt uitstekend in een gestoofde pisto."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3501,7 +3729,6 @@
           ]
         }
       ],
-      "chef_tip": "Bak de pimientos de padrón op heel hoog vuur in een droge pan zonder olie. Let op: 1 op 10 pimientos is pittig — dat hoort erbij!",
       "servings": "4 personen",
       "steps": [
         {
@@ -3523,9 +3750,9 @@
       ],
       "wine": {
         "naam": "Rioja Rosado",
-        "druif": "Tempranillo / Garnacha",
-        "toelichting": "Een droge Rioja Rosado heeft precies de juiste balans — genoeg frisheid voor de gegrilde kip en genoeg body voor de pimientos de padrón. De lichte roodvruchtentonen complementeren de marinade van komijn en pimentón. Serveer koel op 10°C.",
-        "alternatief": "Navarra Rosado of Provence Rosé"
+        "druif": "Tempranillo, Garnacha",
+        "toelichting": "Een droge Rioja Rosado heeft precies de juiste balans — genoeg frisheid voor de gegrilde kip en de pimientos, genoeg body voor de kruidige marinade. De lichte roodvruchtentonen van aardbei en kers sluiten aan op de paprika in de marinade; de frisse zuurgraad reinigt de mond na elk vettig, geroosterd hapje. Rioja Rosado is droger en structuurrijker dan de meeste Provençaalse roséwijnen — het is de ideale zomerwijn bij gegrild vlees en Spaanse groentehapjes. Serveer gekoeld op 10°C.",
+        "alternatief": "Cava Brut Rosé — de bellen geven extra frisheid bij de pittige pimientos"
       },
       "slug": "mini-kip-kebab-padron",
       "time": "30 min + 30 min marineren",
@@ -3536,7 +3763,14 @@
       "difficulty": "Makkelijk",
       "description": "Gemarineerde kippenskewer gegrild op hoog vuur met gebakken pimientos de padrón — op geroosterd brood met knoflook-citrusmayo. Geïnspireerd op Taberna Tío Blas op Calle Laurel in Logroño.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: bak de pimientos de padrón op heel hoog vuur in een droge pan zonder olie. Let op: 1 op 10 is heet — dat is de Galicische loterij.",
+        "Techniek: marineer de kip minstens 30 minuten — het komijnzaad en de paprika moeten intrekken voor het echte karakter van de kebab naar voren komt.",
+        "Presentatie: serveer de spiesjes rechtop in een smal glaasje of rechtop in een small aperitief-mand — dat geeft het hapje een streetfood-gezelligheid.",
+        "Variatie: voeg een dot harissa toe aan de marinade voor een Noord-Afrikaans tintje, of marinade met sumak en granaatappelmelasse voor een Levantijnse twist.",
+        "Alternatief: geen pimientos de padrón? Gebruik shishito-pepers — dezelfde grootte, dezelfde loterij (1 op 10 heet), dezelfde ervaring."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3612,7 +3846,6 @@
           ]
         }
       ],
-      "chef_tip": "Maak de pisto van tevoren — hij wordt de volgende dag nog lekkerder. Dep de sardines goed droog voor het grillen.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3631,8 +3864,8 @@
       "wine": {
         "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "Verse gegrilde sardines vragen om een wijn met genoeg mineraliteit en zuurgraad — Albariño uit Galicië is perfect. De citrus- en zeese tonen accentueren de rokerige sardine terwijl de frisheid door de rijke pisto snijdt.",
-        "alternatief": "Vinho Verde of Txakoli"
+        "toelichting": "Verse gegrilde sardines vragen om een wijn met genoeg mineraliteit en citrusfrisheid om de sterke visolie te doorsnijden zonder de delicate smaak te overstemmen — en Albariño uit Rías Baixas is precies dat. De wijn heeft tonen van limoen, grapefruit en een lichte ziltheid die direct aan de Atlantische kust refereert. De frisheid van de Albariño snijdt door de rijkdom van de pisto-olijfolie. In Galicië, waar de beste sardines vandaan komen, is Albariño de enige vanzelfsprekende keuze. Serveer ijskoud op 8°C.",
+        "alternatief": "Manzanilla — de zilte Sherry is een even authentieke Spaanse begeleider bij vette vis"
       },
       "slug": "gegrilde-sardine-pisto",
       "time": "40 min",
@@ -3643,7 +3876,14 @@
       "difficulty": "Gemiddeld",
       "description": "Geïnspireerd op La Tavina in Logroño — verse gegrilde sardine op een laagje warme pisto manchego, op knapperig geroosterd brood. Rokerig, zomers en vol mediterrane smaak.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: maak de pisto van tevoren — hij wordt de volgende dag nog lekkerder. Dep de sardines goed droog voor het grillen.",
+        "Techniek: grill de sardines op heel hoog vuur en draai slechts eenmaal — sardines zijn delicaat en vallen snel uit elkaar bij te veel beweging.",
+        "Presentatie: leg de sardines diagonaal over de pisto zodat kop en staart boven de rand van het bord uitsteken — dat geeft het gerecht een rustiek maar dramatisch karakter.",
+        "Variatie: voeg een scheutje sherryazijn toe aan de pisto bij het serveren voor extra Spaanse zuurheid, of bestrooi met gebakken broodkruimels (migas) voor crunch.",
+        "Alternatief: geen verse sardines? Gebruik sardines in olijfolie uit een kwaliteitsconservenblikje (Ortiz, La Brújula) — warm kort op in de pan en serveer op de pisto."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3711,7 +3951,6 @@
           ]
         }
       ],
-      "chef_tip": "Marineer de lende minstens 30 minuten. Bak de lende op hoog vuur en kort — 1-2 minuten per kant. Serveer direct.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3734,8 +3973,8 @@
       "wine": {
         "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "In Galicië, de thuisbasis van de krokodiltapa, is Albariño de vanzelfsprekende keuze. De frisheid en lichte zuurgraad snijdt door het vet van de varkenslende en maakt de krokante chips nog krokanter op je tong.",
-        "alternatief": "Mencía of Godello"
+        "toelichting": "In Galicië, de thuisbasis van de krokodiltapa, is Albariño de lokale wijn bij uitstek — en dat is geen toeval. De citrusfrisheid en mineraliteit van de Albariño sluiten aan op de knoflookaioli en snijden door het vet van de varkenslende. De hoge zuurgraad reinigt de mond na elke krokante chip. Albariño heeft net voldoende body om het gegrilde vlees bij te houden maar is nooit zo zwaar dat het de lichte, gezellige sfeer van een tapas-sessie verstoort. Serveer ijskoud op 8°C.",
+        "alternatief": "Rueda Verdejo — even fris en kruidig, werkt uitstekend als de aioli de smaakdrager is"
       },
       "slug": "krokodiltapa-varkenslende-chips",
       "time": "40 min + 30 min marineren",
@@ -3746,7 +3985,14 @@
       "difficulty": "Gemiddeld",
       "description": "De legendarische krokodiltapa van Bar Abellá in Santiago de Compostela — mals gebakken varkenslende op knapperige huisgemaakte chips.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: marineer de lende minstens 30 minuten. Bak de lende op hoog vuur en kort — 1-2 minuten per kant. Laat rusten voor snijden.",
+        "Techniek: snijd de varkenslende schuin tegen de draad in dunne plakken — zo krijg je de meeste oppervlakte en de minste weerstand bij het bijten.",
+        "Presentatie: leg de varkenslende schuin op de chips zodat hij lijkt te 'rijden' op het krokante fundament — dat geeft het tapas zijn naam én zijn charme.",
+        "Variatie: voeg een dot romesco-saus toe naast de aioli voor extra nootachtige diepte, of bestrooi met pimentón de la Vera voor een rokerig accent.",
+        "Alternatief: geen varkenslende? Gebruik secreto ibérico — meer marmering, meer smaak, zelfde techniek en moeiteloos elegant."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3810,7 +4056,6 @@
           ]
         }
       ],
-      "chef_tip": "Grill op heel hoog vuur en heel kort. In Andalusië: vervang langoustines door carabinero de Huelva. Aan de Costa Brava: gebruik gamba roja de Palamós.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3828,9 +4073,9 @@
       ],
       "wine": {
         "naam": "Cava Brut Reserva",
-        "druif": "Xarel·lo / Macabeo / Parellada",
-        "toelichting": "De droge elegantie van een Cava Brut Reserva is de perfecte match voor de luxueuze langoustines en de tropische passievruchtmayo. De fijne bellen accentueren de zoetheid van het schaaldier en de frisheid balanceert de rijke mayo. Serveer ijskoud.",
-        "alternatief": "Champagne Brut of Albariño"
+        "druif": "Macabeo, Xarel·lo, Parellada",
+        "toelichting": "De droge elegantie van een Cava Brut Reserva is de perfecte begeleider bij het delicate vlees van de langoustine — de fijne bellen reinigen de mond na elke hap, terwijl de gisttonen van de langere rijping (minstens 15 maanden) aansluiten op de complexe passievruchtsaus. De droge zuurgraad van de Cava balanceert de exotische zoetheid van de passievrucht zonder hem te overstemmen. Een Reserva heeft meer textuur en complexiteit dan een standaard Cava — die extra laag is hier gerechtvaardigd. Serveer ijskoud op 7°C.",
+        "alternatief": "Albariño — de citrusmineraliteit werkt uitstekend bij langoustine en tropisch fruit"
       },
       "slug": "langoustineskewer-passievrucht",
       "time": "25 min",
@@ -3841,7 +4086,14 @@
       "difficulty": "Makkelijk",
       "description": "Geïnspireerd op Can Climent in Begur — gegrilde langoustines op een skewer met verrassende passievruchtmayonaise. Zoet, zout en fris tegelijk.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: grill op heel hoog vuur en heel kort — langoustines zijn in 2-3 minuten gaar. Te lang op het vuur geeft rubberachtige textuur.",
+        "Techniek: maak de passievruchtsaus op het allerlaatste moment — passievrucht oxideert snel en verliest zijn levendige tropische aroma bij te vroege bereiding.",
+        "Presentatie: serveer de spiesjes rechtop in een smal glas of lepel — het tropische kleurenspel van de passievruchtsaus naast de oranje langoustine is het visuele statement.",
+        "Variatie: vervang passievrucht door yuzu voor een Japanse twist, of gebruik mango-chutney voor een zoet-pikante Indiase interpretatie.",
+        "Alternatief: geen langoustines? Gebruik jumbo-garnalen (tiger prawns) — zelfde techniek, vergelijkbare textuur maar milder van smaak."
+      ]
     },
     {
       "ingredient_groups": [
@@ -3940,7 +4192,6 @@
           ]
         }
       ],
-      "chef_tip": "Het geheim van sappige balletjes: paneermeel weken in melk. Karameliseer de ui goed. Maak ze een dag van tevoren — de volgende dag zijn ze nog lekkerder.",
       "servings": "4 personen",
       "steps": [
         {
@@ -3966,9 +4217,9 @@
       ],
       "wine": {
         "naam": "Rioja Crianza",
-        "druif": "Tempranillo / Mazuelo",
-        "toelichting": "Albóndigas en Rioja Crianza zijn een klassieke combinatie die al generaties lang in de Spaanse tabernas wordt geserveerd. De tomatige tonen van de Tempranillo sluiten aan bij de rijke tomatensaus. Gebruik dezelfde wijn in de saus.",
-        "alternatief": "Garnacha of Montepulciano d'Abruzzo"
+        "druif": "Tempranillo",
+        "toelichting": "Albóndigas en Rioja Crianza zijn een klassieke combinatie die al decennia in de Spaanse keuken bestaat — en terecht. De rijpe tomatige zuurgraad van de Tempranillo spiegelt de tomatensaus; de zachte tannines van de Crianza-rijping passen perfect bij het malse gehakt. Een vleugje vanille en kruid van de Amerikaanse eik geeft de combinatie extra dimensie. De Crianza is lang genoeg gerijpt om complexity te hebben maar niet zo zwaar dat het het gerecht overstemt. Een eerlijk gerecht verdient een eerlijke, toegankelijke wijn. Serveer op 16°C.",
+        "alternatief": "Garnacha uit Campo de Borja — fruitiger en ronder, werkt als de tomatensaus de hoofdrol heeft"
       },
       "slug": "albondigas-tomatensaus",
       "time": "1 uur",
@@ -3979,7 +4230,14 @@
       "difficulty": "Gemiddeld",
       "description": "De allerbeste albóndigas — sappige gehaktballetjes van gemengd rund en varken met gekarameliseerde ui, langzaam gestoofd in een rijke tomatensaus met rode wijn en kruiden.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: het geheim van sappige balletjes is paneermeel weken in melk. Karameliseer de ui goed voor je het gehakt toevoegt.",
+        "Techniek: braad de balletjes in porties aan op hoog vuur — een volle pan geeft stoom in plaats van karamelisatie. Hoge hitte, weinig balletjes tegelijk.",
+        "Presentatie: serveer in een warme aardewerken cazuela — het gerecht houdt de warmte langer vast en de rustieke presentatie past perfect bij de eerlijke, hartige smaak.",
+        "Variatie: voeg een handvol erwten en een plak jamon serrano toe aan de saus voor een meer complete maaltijd, of gebruik lamsgehakt voor een rijkere, aardsere smaak.",
+        "Alternatief: geen vers gehakt? Gebruik 50/50 rundergehakt en varkensgehakt — de combinatie geeft precies de juiste vetbalans voor sappige albóndigas."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4022,7 +4280,6 @@
           ]
         }
       ],
-      "chef_tip": "Dep de paprika's goed droog voor gebruik. Kan een dag van tevoren gemaakt worden. Variatie: voeg een klein beetje fijngehakte verse dragon toe aan de dressing voor een verrassend anijsachtig accent.",
       "servings": "6 personen",
       "steps": [
         {
@@ -4040,9 +4297,9 @@
       ],
       "wine": {
         "naam": "Amontillado Sherry",
-        "druif": "Palomino",
-        "toelichting": "De nootachtige tonen van Amontillado weerspiegelen de amandelen en accentueren de zoete honing op de paprika. Een complexe maar toegankelijke sherrycombinatie die laat zien hoe veelzijdig sherry is bij tapas.",
-        "alternatief": "Droge Fino of Manzanilla"
+        "druif": "Palomino Fino",
+        "toelichting": "De nootachtige tonen van een Amontillado — walnoot, hazelnoot, gedroogd fruit — weerspiegelen de geroosterde amandelen perfect. De Amontillado is begonnen als Fino onder flor maar heeft daarna geoxideerd tot een amberkleurige complexiteit met tonen van hazelnoot, karamel en een droge, licht bittere afdronk. Die bitterheid balanceert de honing in het gerecht; de nootachtigheid versterkt de amandelen. De halfdroge stijl geeft net genoeg zoetheid om bij de honingglaze aan te sluiten. Serveer op kamertemperatuur of licht gekoeld op 12°C.",
+        "alternatief": "Oloroso Seco — droger en voller dan Amontillado, werkt als de paprika de hoofdrol heeft"
       },
       "slug": "paprika-knoflook-honing-amandelen",
       "time": "15 min",
@@ -4053,7 +4310,14 @@
       "difficulty": "Makkelijk",
       "description": "Gegrilde paprika's uit blik met knoflook, honing, geschaafde amandelen en peterselie — een eenvoudige maar verrassend smaakvolle Spaanse tapa.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: dep de paprika's goed droog voor gebruik. Dit gerecht kan een dag van tevoren gemaakt worden — de smaken trekken dan samen.",
+        "Techniek: rooster de amandelen droog in een hete pan — constant bewegen en goed opletten, want amandelen verbranden snel. Zodra ze geurig zijn: van het vuur.",
+        "Presentatie: leg de paprika's als waaiervorm op het bord met de vulling zichtbaar — de kleuren goud, rood en wit geven een visueel rijke presentatie.",
+        "Variatie: vervang amandelen door pijnboompitten voor een Mediterrane twist, of voeg een dot geitenkaas toe voor extra romige zuurheid naast de honing.",
+        "Alternatief: geen geroosterde paprika's? Gebruik piquillo-pepers uit een pot — al geroosterd en gepeld, uitstekend tijdbesparend alternatief met dezelfde zachte zoetheid."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4108,7 +4372,6 @@
           ]
         }
       ],
-      "chef_tip": "Snij alle ingrediënten in gelijke blokjes van 2 cm — dat is het geheim van het mozaïek effect. Voeg de avocado en feta pas op het laatste moment toe.",
       "servings": "4 personen",
       "steps": [
         {
@@ -4130,9 +4393,9 @@
       ],
       "wine": {
         "naam": "Provence Rosé",
-        "druif": "Grenache / Cinsault / Syrah",
-        "toelichting": "De droge, fruitige Provence Rosé is de ideale zomerwijn bij dit kleurrijke mozaïek. De lichte roodvruchtentonen accentueren de meloen en de chorizo, terwijl de frisheid de romige avocado en de zilte feta in balans brengt. Serveer ijskoud op 8°C.",
-        "alternatief": "Navarra Rosado of Rioja Rosado"
+        "druif": "Grenache, Cinsault, Mourvèdre",
+        "toelichting": "De droge, subtiel fruitige Provence Rosé — met tonen van aardbei, grapefruit en een lichte zoutheid — is de ideale zomerwijn bij dit kleurrijke, frisse mozaïek. De delicate structuur van de wijn overspoelt geen van de ingrediënten, terwijl de frisheid de zoetheid van de meloen en avocado balanceert. De lichte zoutheid van de Provence-rosé sluit aan op de feta. Dit is een gerecht dat vraagt om een wijn die er net zo mooi uitziet als het gerecht zelf — en de bleke, elegante kleur van Provence Rosé doet dat. Serveer ijskoud op 8°C.",
+        "alternatief": "Cava Brut Rosé — levendiger en sprankelender, werkt als aperitief bij dit zomerse gerecht"
       },
       "slug": "mozaiek-meloen-chorizo-avocado-feta",
       "time": "20 min",
@@ -4143,7 +4406,14 @@
       "difficulty": "Makkelijk",
       "description": "Een kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta — afgewerkt met een frisse dragon-honingdressing van rosé wijnazijn en mosterd.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: snijd alle ingrediënten in gelijke blokjes van 2 cm — dat is het geheim van het mozaïekpatroon. Bereid alles apart en assembleer pas vlak voor serveren.",
+        "Techniek: dep de avocado droog na het snijden en voeg direct limoensap toe — zo blijft hij langer groen en fris.",
+        "Presentatie: leg de ingrediënten in een strak schaakbordpatroon — meloen, feta, chorizo, avocado — zodat elk kleurblok even groot is. Dat is het mozaïek.",
+        "Variatie: voeg waterkers of microgreens toe als groen accent, of bestrooi met granaatappelzaden voor een zoetzure kleurrijke finishing touch.",
+        "Alternatief: geen Cantaloupe-meloen? Gebruik Piel de Sapo of honingmeloen — zoeter en minder waterig, werkt uitstekend in het mozaïek."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4198,7 +4468,6 @@
           ]
         }
       ],
-      "chef_tip": "Kook de eieren exact 10 minuten — zo zijn de dooiers perfect geel van kleur. Gebruik een spuitzak met gekarteld mondstuk voor een professioneel resultaat. Meer pit? Meer tabasco!",
       "servings": "4 personen",
       "steps": [
         {
@@ -4224,9 +4493,9 @@
       ],
       "wine": {
         "naam": "Cava Brut",
-        "druif": "Macabeo / Xarel·lo",
-        "toelichting": "De droge Cava Brut is de perfecte tegenhanger voor de pittige duivelse vulling — de bellen reinigen de mond na de tabasco en de mosterd, terwijl de frisheid de romige mayo in balans brengt.",
-        "alternatief": "Txakoli of droge Prosecco"
+        "druif": "Macabeo, Xarel·lo, Parellada",
+        "toelichting": "De droge Cava Brut is de perfecte tegenhanger voor de pittige 'endiablada' vulling — de bellen reinigen de mond na elke pikante hap, terwijl de friszuurheid de rijkdom van de mayonaisevulling doorsnijdt. Cava heeft ook een lichte gisttoon die aansluit op het eigeel. De droogheid van de Brut balanceert de lichte zoetheid van de mosterd in de vulling. Een hapje dat vraagt om frisheid — en Cava levert dat per definitie. Serveer ijskoud op 7°C.",
+        "alternatief": "Manzanilla — de droge ziltheid sluit aan op de ansjovis in sommige versies van dit recept"
       },
       "slug": "huevos-rellenos-endiablados",
       "time": "25 min",
@@ -4237,7 +4506,14 @@
       "difficulty": "Makkelijk",
       "description": "De allerbeste duivelse eieren — romige vulling van eidooier, mayo, mosterd en tabasco met fijngehakte piquillo en zwarte olijven, afgewerkt met een ringetje olijf en een streepje piquillo.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: kook de eieren exact 10 minuten — zo zijn de dooiers perfect geel. Gebruik een spuitzak voor een nette, gelijke vulling.",
+        "Techniek: dep de eiwitholtes droog voor het vullen — vocht verhindert dat de vulling goed hecht aan het eiwit en geeft een glibberig resultaat.",
+        "Presentatie: gebruik een spuitzak met stervormig mondstuk voor een elegant swirl in de vulling — dat geeft het hapje direct meer charme dan een gladde gelepelde dot.",
+        "Variatie: voeg een dot sriracha toe aan de dooiermix voor extra hitte, of garneer met gefrituurde kappertjes voor een krokant zout accent.",
+        "Alternatief: geen Tabasco? Gebruik sriracha voor meer Aziatische hitte, of harissa voor een Noord-Afrikaans karakter — beide geven pit op een andere manier."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4288,7 +4564,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik de versste eieren — hoe verser het ei hoe mooier het pocheert. Serveer in espressokopjes of kleine aardewerken schaaltjes. De dooier moet nog vloeibaar zijn.",
       "servings": "4 personen",
       "steps": [
         {
@@ -4311,8 +4586,8 @@
       "wine": {
         "naam": "Witte Rioja",
         "druif": "Viura (Macabeo)",
-        "toelichting": "Een licht houtgerijpte witte Rioja heeft de body om de fluweelzachte knoflooksoep bij te houden en de aromatische complexiteit om de tijm en manchego te complementeren. De romige textuur spiegelt het vloeibare eigeel. Serveer op 12°C.",
-        "alternatief": "Viognier of Chardonnay"
+        "toelichting": "Een licht houtgerijpte witte Rioja heeft de body om de fluweelzachte knoflookbouillon bij te houden — de vanilletonen van de eik sluiten aan op het romige gepocheerde ei, terwijl de friszuurheid de rijkdom van de soep doorsnijdt. De kruidige noten van de Viura resoneren met de tijm. Een oudere witte Rioja (Reserva) geeft extra nootachtigheid die de soep nog dieper maakt. Dit is een onderschatte combinatie — witte Rioja bij soep — maar een uitstekende. Serveer gekoeld op 11°C.",
+        "alternatief": "Rueda Verdejo — frisser en minder hout, werkt als lichtere begeleider bij deze delicate soep"
       },
       "slug": "tijm-knoflooksoep-gepocheerd-ei",
       "time": "35 min",
@@ -4323,7 +4598,14 @@
       "difficulty": "Gemiddeld",
       "description": "Een fluweelzachte tijm-knoflooksoep geserveerd in een klein kopje met een gepocheerd eitje erin dat openbreekt — elegant, warm en verrassend eenvoudig.",
       "categorie": "soep",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik de versste eieren — hoe verser het ei hoe mooier het pocheert. Maak de bouillon van tevoren en warm op; pocheer het ei pas vlak voor serveren.",
+        "Techniek: voeg een scheutje witte wijnazijn toe aan het pocheerwater — dat helpt het eiwit samen te blijven rond de dooier voor een mooier resultaat.",
+        "Presentatie: serveer in een voorverwarmd diep bord — koude borden trekken de temperatuur van de soep in 30 seconden omlaag. Het gepocheerde ei is het visuele middelpunt.",
+        "Variatie: voeg een handvol geraspte manchego toe op het ei bij het serveren voor extra hartige diepte, of gebruik truffelolie als finishing touch voor luxe.",
+        "Alternatief: geen verse tijm? Gebruik gedroogde tijm — gebruik dan de helft van de hoeveelheid want gedroogde kruiden zijn geconcentreerder van smaak."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4383,7 +4665,6 @@
           ]
         }
       ],
-      "chef_tip": "Het beslag moet ijskoud zijn. Serveer direct — krokante garnalen wachten op niemand.",
       "servings": "4 personen",
       "steps": [
         {
@@ -4402,8 +4683,8 @@
       "wine": {
         "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "Albariño is simpelweg de beste wijn bij scampi en garnalen — de citrus- en zeese tonen spiegelen de saffraan en de citroenmayo. De mineraliteit accentueert de zeesmaak van de grote garnalen. Serveer ijskoud.",
-        "alternatief": "Verdejo of Txakoli"
+        "toelichting": "Albariño is simpelweg de beste wijn bij scampi en garnalen — de citrusachtige frisheid van limoen en grapefruit sluit naadloos aan op de citroenmayo en de delicate gambasmaak. De mineraliteit van de Albariño resoneeert met het jodiumrijke karakter van de schaaldieren. De hoge zuurgraad snijdt door het frituurvet en reinigt de mond na elke krokante hap. Een Albariño uit Rías Baixas is hier de enige logische keuze — het is de wijn die in dezelfde regio wordt gemaakt waar de beste Spaanse garnalen vandaan komen. Serveer ijskoud op 8°C.",
+        "alternatief": "Fino Sherry — de droge ziltheid is een even klassieke begeleider bij gefrituurde zeevruchten"
       },
       "slug": "saffraangambas-citroenmayo",
       "time": "25 min",
@@ -4414,7 +4695,14 @@
       "difficulty": "Gemiddeld",
       "description": "Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd — knapperig van buiten en sappig van binnen. Geserveerd met een frisse zelfgemaakte citroenmayonaise.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: het beslag moet ijskoud zijn — gebruik ijswater en laat het beslag 30 minuten in de koelkast rusten voor gebruik. Serveer direct.",
+        "Techniek: frituur in kleine porties op 180°C — te veel gambas tegelijk koelt de olie af en geeft een zacht, niet-krokant resultaat.",
+        "Presentatie: serveer de gambas rechtop in een smal glaasje met de staart boven de rand — dat geeft een elegante, aantrekkelijke presentatie.",
+        "Variatie: voeg een mespuntje cayennepeper toe aan het beslag voor extra pit, of gebruik yuzu in de mayo in plaats van citroen voor een Japanse twist.",
+        "Alternatief: geen saffraandraadjes? Gebruik een mespuntje kurkuma — geeft vergelijkbare goudgele kleur maar zonder het typische saffraanaroma."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4474,7 +4762,6 @@
           ]
         }
       ],
-      "chef_tip": "Gebruik tonijn op olijfolie — dat geeft een rijkere smaak. Druk de broodjes goed dicht voor het frituren.",
       "servings": "4 personen",
       "steps": [
         {
@@ -4497,8 +4784,8 @@
       "wine": {
         "naam": "Merseguera",
         "druif": "Merseguera",
-        "toelichting": "De lokale Merseguera druif uit Valencia is de authentieke begeleider bij dit typisch Valenciaanse gerecht. De lichte, frisse wijn met zijn subtiele bloemen- en citrusnoten accentueert de tonijn en de tomaat.",
-        "alternatief": "Verdejo of Albariño"
+        "toelichting": "De lokale Merseguera-druif uit Valencia is de authentieke begeleider bij dit typisch Valenciaanse straatbroodje — een lichte, frisse witte wijn met citrustonen en een lichte kruidige bitterheid in de afdronk. De Merseguera heeft genoeg frisheid om de tonijn aan te vullen zonder hem te overstemmen, en de lichte mineraliteit sluit aan op de olijfolie. Buiten Valencia zelden te vinden — als alternatief is een frisse Verdejo of Albariño een uitstekende vervanger die dezelfde sfeer oproept. Serveer gekoeld op 9°C.",
+        "alternatief": "Rueda Verdejo — frisser en makkelijker verkrijgbaar, werkt uitstekend bij de tonijn en olijven"
       },
       "slug": "pepito-valenciano-tonijn",
       "time": "25 min",
@@ -4509,7 +4796,14 @@
       "difficulty": "Gemiddeld",
       "description": "Een typisch Valenciaans tapasgerecht — klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant van buiten, zacht en vol van smaak van binnen.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: gebruik tonijn op olijfolie — dat geeft een rijkere smaak. Druk de broodjes goed plat voor het grillen zodat alle kanten het grilloppervlak raken.",
+        "Techniek: grill het brood op een heel hete droge grillpan — de roostertekens zijn niet alleen decoratief maar geven ook een licht gerookte smaak die de tonijn aanvult.",
+        "Presentatie: snijd het pepito schuin door zodat het kleurrijke interieur zichtbaar is — leg beide helften naast elkaar met het snijvlak naar boven.",
+        "Variatie: voeg geroosterde rode paprika toe aan de tonijnmix voor extra kleur en zoetheid, of leg een plak manchego erin voor extra hartige diepte.",
+        "Alternatief: geen Valenciaans broodje? Gebruik een stevig ciabatta — geeft dezelfde knapperige korst en luchtige binnenkant die het pepito zijn charme geeft."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4589,7 +4883,6 @@
           ]
         }
       ],
-      "chef_tip": "Marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor de airfryer. De saus pas op het laatste moment — serveer direct.",
       "servings": "4 personen",
       "steps": [
         {
@@ -4611,9 +4904,9 @@
       ],
       "wine": {
         "naam": "Manzanilla",
-        "druif": "Palomino",
-        "toelichting": "In Sevilla is Manzanilla de begeleider bij alles. De droge, licht zoute sherry snijdt door de sticky knoflook-brandyhoning glazuur en reinigt de mond na elke kleverige hap. Een tijdloze Sevillaanse combinatie. Serveer ijskoud.",
-        "alternatief": "Fino Sherry of Cava Brut"
+        "druif": "Palomino Fino",
+        "toelichting": "In Sevilla is Manzanilla de begeleider bij alles wat al ajillo wordt bereid — de droge, zilte, licht nootachtige Sherry snijdt door de rijke knoflookglazuur en tempert de vettigheid van de kip. De mineraliteit van de flor sluit aan op de intens knoflooky saus. De hoge zuurgraad reinigt de mond na elke plakkerige, smaakvolle hap. Manzanilla is zo licht van alcohol (15%) en zo fris dat het de smaak van het gerecht nooit overspoelt. In de bodega's van Sevilla is dit de meest bestelde combinatie bij ajos. Serveer ijskoud op 7°C.",
+        "alternatief": "Fino Sherry — iets minder zout dan Manzanilla maar even droog en even verfijnd bij knoflookgerechten"
       },
       "slug": "alitas-muslitos-ajillo-sticky",
       "time": "45 min + 2 uur marineren",
@@ -4624,7 +4917,14 @@
       "difficulty": "Makkelijk",
       "description": "De allerbeste Spaanse kippenvleugeltjes en -pootjes — gemarineerd, krokant uit de airfryer en daarna gedompeld in een sticky glanzende saus van knoflook, Brandy de Jerez en honing.",
       "categorie": "vlees",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor het bakken voor maximale karamelisatie.",
+        "Techniek: bak op hoog vuur in porties — een volle pan geeft stoom. Karameliseer de knoflook eerst zodat het suiker vrijkomt voor je de kip toevoegt.",
+        "Presentatie: serveer in een warme aardewerken cazuela met het glazuur nog glanzend — bestrooi pas op het laatste moment met peterselie zodat het groen vers blijft.",
+        "Variatie: voeg een scheutje sherry of cognac toe aan de knoflooksaus voor extra Spaanse diepte, of gebruik honing in plaats van suiker voor een meer bloemig karakter.",
+        "Alternatief: geen verse knoflook? Gebruik geroosterde knoflook uit de oven — zachter van smaak maar geeft dezelfde diepte aan de sticky glazuur."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4713,7 +5013,6 @@
           ]
         }
       ],
-      "chef_tip": "Het kookwater is het geheime ingrediënt — bindt aardappel en mayo tot perfecte emulsie. Tonijn in grote vlokken. Augurkenvocht geeft de verslavende frisse kick. Toppings: geraspt ei, ansjovis, olijven, cornichons, kappertjes, witte asperges, cherrytomaatjes, piquilloreepje, bieslook, mayonaise gespoten, surimi.",
       "servings": "4 personen",
       "steps": [
         {
@@ -4739,9 +5038,9 @@
       ],
       "wine": {
         "naam": "Manzanilla",
-        "druif": "Palomino",
-        "toelichting": "In de tapas bars van Madrid is Manzanilla de klassieke begeleider bij ensaladilla rusa. De droge, nootachtige sherry accentueert de mayo en snijdt door de rijkdom van de aardappel, terwijl de zeese tonen de tonijn laten spreken.",
-        "alternatief": "Cava Brut of Txakoli"
+        "druif": "Palomino Fino",
+        "toelichting": "In de tapas bars van Madrid en San Sebastián is Manzanilla de klassieke begeleider bij ensaladilla rusa — de droge, nootachtige Sherry snijdt door de rijke mayonaise en reinigt de mond na elke romige hap. De lichte jodiumachtige mineraliteit sluit aan op de tonijn of garnalen in de salade. De hoge zuurgraad balanceert de vette mayo zonder de delicate groenten te overstemmen. Manzanilla wordt altijd ijskoud geserveerd bij tapas — dat is niet optioneel maar essentieel. Serveer op 6-7°C.",
+        "alternatief": "Fino Sherry — iets voller dan Manzanilla maar even droog en even klassiek bij aardappelsalade"
       },
       "slug": "ensaladilla-rusa-pintxo",
       "time": "30 min + 2 uur koelen",
@@ -4752,7 +5051,14 @@
       "difficulty": "Gemiddeld",
       "description": "De wedstrijdwinnende ensaladilla rusa pintxo uit Madrid — een luchtige zijdezachte emulsie met de smash-techniek, Michelin-mayo en augurkenvocht. Op knapperig brood met geraspt ei en spektaculaire toppings.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: het kookwater is het geheime ingrediënt — bindt aardappel en mayo tot perfecte ensaladilla. Maak een dag van tevoren voor intensere smaken.",
+        "Techniek: kook de aardappels in licht gezouten water en laat ze afkoelen in het kookwater — zo absorberen ze de smaak en drogen ze niet uit.",
+        "Presentatie: schep de ensaladilla in een kleine strakke cilinder op de toast met een ijslepel, dan toppings erop — dat geeft een restaurant-waardige presentatie.",
+        "Variatie: voeg garnalen, tonijn of krab toe aan de basis voor een luxere versie, of gebruik een dot wasabi in de mayo voor een moderne Japanse twist.",
+        "Alternatief: geen homemade mayo? Gebruik Hellmann's als basis en voeg een theelepel Dijon, een druppel citroensap en een snuf zout toe — werkt uitstekend."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4820,7 +5126,6 @@
           ]
         }
       ],
-      "chef_tip": "Het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. De verhouding 4 delen mayo op 1 deel crème fraîche is de sleutel.",
       "servings": "6 pintxos",
       "steps": [
         {
@@ -4842,9 +5147,9 @@
       ],
       "wine": {
         "naam": "Txakoli",
-        "druif": "Hondarribi Zuri",
-        "toelichting": "Dit typisch Baskische pintxo vraagt om de typisch Baskische wijn. De sprankelende frisheid van Txakoli accentueert de romige preisalade en snijdt door de gekookte ham. Serveer ijskoud — zoals in Bilbao.",
-        "alternatief": "Albariño of Cava Brut"
+        "druif": "Hondarrabi Zuri",
+        "toelichting": "Dit typisch Baskische pintxo vraagt om de typisch Baskische wijn — Txakoli. De licht sprankelende, friszure, minerale Txakoli snijdt door de romige preicrème en tempert de zoutheid van de jamon serrano. De lage alcohol (10-11%) maakt het perfect als aperitief bij meerdere pintxos. In San Sebastián en Bilbao wordt Txakoli van hoogte ingeschonken om te luchten en de mousse te activeren — dat is niet alleen traditie maar ook techniek. Serveer ijskoud op 7°C.",
+        "alternatief": "Cava Brut — dezelfde sprankelende frisheid met iets meer body en complexiteit"
       },
       "slug": "pintxo-puerro-ham",
       "time": "35 min + 1 uur koelen",
@@ -4855,7 +5160,14 @@
       "difficulty": "Makkelijk",
       "description": "De iconische Baskische pintxo de puerro — romige preisalade met ham en ei op licht geroosterd stokbrood, afgewerkt met bieslook en een druppel olijfolie.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. Natte prei geeft een waterige, smakeloze vulling.",
+        "Techniek: bak de prei op laag vuur en geduldig — minstens 15 minuten. Gekaramelliseerde prei is zoet en diep van smaak; snel gebakken prei is waterig en scherp.",
+        "Presentatie: leg de hamrepen in een losse, elegante plooi over de preivulling — dat geeft het pintxo hoogte en een luxere uitstraling dan plat gelegde ham.",
+        "Variatie: voeg een dot truffelmayo toe aan de preicrème voor luxe diepte, of gebruik jamon ibérico de bellota in plaats van serrano voor een aanzienlijk rijker karakter.",
+        "Alternatief: geen jamon serrano? Gebruik goede Italiaanse prosciutto crudo — iets zoeter en zachter maar even elegant bij de zoete prei."
+      ]
     },
     {
       "ingredient_groups": [
@@ -4931,7 +5243,6 @@
           ]
         }
       ],
-      "chef_tip": "Alle groenten in exact dezelfde kleine maat snijden — dat is het verschil tussen thuiskok en restaurant. Avocado pas op het allerlaatste moment toevoegen.",
       "servings": "6 personen",
       "steps": [
         {
@@ -4950,8 +5261,8 @@
       "wine": {
         "naam": "Albariño",
         "druif": "Albariño",
-        "toelichting": "Octopus en Albariño is de klassieke Galicische combinatie — de wijn groeit in dezelfde regio als de beste octopus van Spanje. De citrus- en bloementonen accentueren de pimentón en de sherryazijn in de vinaigrette.",
-        "alternatief": "Godello of Txakoli"
+        "toelichting": "Octopus en Albariño is de klassieke Galicische combinatie — in de regio waar de beste octopus van Spanje vandaan komt, is Albariño de vanzelfsprekende wijn. De citrusachtige frisheid en diepe mineraliteit van de wijn resoneren met de zilte, jodiumrijke smaak van de octopus. De hoge zuurgraad snijdt door de olijfolie in de dressing; de lichte bitterheid in de afdronk sluit aan op de peterselie. Een perfecte uitdrukking van Galicisch terroir op het bord en in het glas tegelijk. Serveer ijskoud op 8°C.",
+        "alternatief": "Manzanilla — de zilte Sherry is een even authentieke Spaanse begeleider bij octopus"
       },
       "slug": "ensalada-pulpo-glaasje",
       "time": "20 min",
@@ -4962,7 +5273,14 @@
       "difficulty": "Gemiddeld",
       "description": "De allerbeste Spaanse octopussalade geserveerd in een klein elegant glaasje — malse octopusstukjes met kleurrijke paprika, rode ui, avocado en een frisse citroen-sherryazijn dressing.",
       "categorie": "groente-salade",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: alle groenten in exact dezelfde kleine maat snijden — dat is het verschil tussen een rommelige salade en een strak gepresenteerde ensalada.",
+        "Techniek: kook de octopus klassiek — dip 3x kort in kokend water, dan volledig onderdompelen en zachtjes gaar koken (40-50 minuten per kg). Laat afkoelen in het kookvocht.",
+        "Presentatie: serveer in doorzichtige glazen zodat alle kleurlagen zichtbaar zijn — paars van de octopus, rood van de tomaat, groen van de peterselie.",
+        "Variatie: voeg een druppel sherryazijn toe aan de dressing voor een Spaans-authentieke zuurheid, of bestrooi met pimentón de la Vera voor rokerige diepte.",
+        "Alternatief: geen verse octopus? Gebruik gekookte octopus uit een vacuümverpakking — kwaliteitsmerken zijn al gegaard en hoeven alleen nog gesneden te worden."
+      ]
     },
     {
       "ingredient_groups": [
@@ -5043,7 +5361,6 @@
           ]
         }
       ],
-      "chef_tip": "Octopus 100% mals: dip octopus 3x kort in kokend water, dan volledig onderdompelen op laag vuur 45-60 minuten. Niet hard koken. Laat afkoelen IN het kookvocht. Dep altijd goed droog voor het bakken.",
       "servings": "6 personen",
       "steps": [
         {
@@ -5066,8 +5383,8 @@
       "wine": {
         "naam": "Albariño Sobre Lías",
         "druif": "Albariño",
-        "toelichting": "Voor dit Michelin-niveau pintxo past alleen een Albariño Sobre Lías — de extra rijping op de droesem geeft de wijn extra romigheid die aansluit bij de zijdezachte aardappelcrème. De mineraliteit accentueert de paprika-olie en de rokerige char van de octopus.",
-        "alternatief": "Godello of witte Bourgogne"
+        "toelichting": "Voor dit Michelin-niveau pintxo past alleen een Albariño Sobre Lías — op gist gerijpt voor extra romige textuur en complexiteit. De gistrijping geeft de wijn een lichte beurre-toon die de aardappelcrème weerspiegelt, terwijl de citrusmineraliteit de octopus optilt. De hoge zuurgraad snijdt door de rijke crème; de zilte mineraliteit resoneeert met de pimentón en de octopus. Sur Lías-rijping geeft de Albariño de textuur en diepte die dit gerecht verdient. Serveer gekoeld op 9°C.",
+        "alternatief": "Godello uit Valdeorras — eleganter en mineralerder dan standaard Albariño, even perfect bij octopus"
       },
       "slug": "pulpo-glaasje-aardappelcreme",
       "time": "45 min",
@@ -5078,7 +5395,14 @@
       "difficulty": "Moeilijk",
       "description": "Een Michelin-waardig gelaagd pintxo in een glaasje — zijdezachte aardappelcrème als basis, krokant gebakken octopus met honing-paprika glaze en zwevende pimentón-olie. Elke hap is romig, zacht, krokant en rokerig tegelijk.",
       "categorie": "vis-zeevruchten",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: octopus 100% mals: dip octopus 3x kort in kokend water, dan volledig onderdompelen en zachtjes gaar koken. Laat afkoelen in het kookvocht voor de beste textuur.",
+        "Techniek: de aardappelcrème moet zo glad mogelijk zijn — zeef hem na het mixen door een fijne zeef voor een fluweelzachte textuur die het glaasje vult als een spiegel.",
+        "Presentatie: serveer in een doorzichtig glas zodat de lagen — crème, octopus, pimentón-olie — zichtbaar zijn. Dat is het visuele statement van dit pintxo.",
+        "Variatie: vervang aardappelcrème door bloemkoolcrème voor een lichter alternatief, of voeg een dot kaviaar toe op de octopus voor ultieme luxe.",
+        "Alternatief: geen verse octopus? Gebruik gekookte octopus uit vacuümverpakking — al gegaard, alleen nog snijden en warm maken in de pimentón-olie."
+      ]
     },
     {
       "ingredient_groups": [
@@ -5162,7 +5486,6 @@
           ]
         }
       ],
-      "chef_tip": "Kewpie mayo is Japanse mayo — romiger dan gewone mayo. Koop bij Aziatische supermarkten. Ei precies 9 minuten koken. Gebruik een spuitzak met gekarteld mondstuk voor een professioneel resultaat.",
       "servings": "6 pintxos",
       "steps": [
         {
@@ -5188,9 +5511,9 @@
       ],
       "wine": {
         "naam": "Cava Brut Rosé",
-        "druif": "Garnacha / Pinot Noir",
-        "toelichting": "De lichte roodvruchtentonen van een Cava Brut Rosé passen perfect bij de gerookte zalm en de verse garnaal. De bellen reinigen de mond na de rijke eidooiervulling. Een feestelijke, elegante combinatie voor dit visueel verbluffende Bilbao pintxo. Serveer ijskoud.",
-        "alternatief": "Champagne Rosé of Txakoli"
+        "druif": "Garnacha, Monastrell, Pinot Noir",
+        "toelichting": "De lichte roodvruchtentonen van een Cava Brut Rosé — aardbei, framboos, wilde kers — passen perfect bij de zalm en de garnaal in dit pintxo. De droge bellen reinigen de mond na elke romige, rijke hap; de frisheid balanceert de vettigheid van de mayovulling. Een Rosé Cava heeft net genoeg kleur en body om de zeevruchten te begeleiden zonder de delicate smaak te overstemmen. In San Sebastián wordt bij gevulde eieren vrijwel altijd gekozen voor Cava of Txakoli als aperitief. Serveer ijskoud op 7°C.",
+        "alternatief": "Txakoli — sprankelender en lichter, werkt als de garnalen de hoofdrol spelen"
       },
       "slug": "pintxo-huevo-relleno-zalm-garnaal",
       "time": "30 min",
@@ -5201,7 +5524,14 @@
       "difficulty": "Gemiddeld",
       "description": "De iconische Bilbao pintxo — knapperig brood met gemarineerde gerookte zalm, een gevuld ei met romige garnaalvulling en een verse garnaal als kroon erop. Zacht, zout, romig en luxe in één perfecte hap.",
       "categorie": "hapjes-tapas",
-      "keuken": "Spaans"
+      "keuken": "Spaans",
+      "tips": [
+        "Mise-en-place: Kewpie mayo is Japanse mayo — romiger en lichter van smaak dan gewone mayo. Koop bij Aziatische supermarkt of online.",
+        "Techniek: dep de eiwitholtes droog voor het vullen — vocht verhindert dat de vulling goed hecht. Gebruik een spuitzak voor een nette, gelijke vulling.",
+        "Presentatie: garneer met één garnaal rechtop in de vulling en een klein takje dille — simpel, elegant en direct herkend als een luxe pintxo.",
+        "Variatie: vervang zalm door forelkuit voor een intensere, ziltere variant, of gebruik krab in plaats van garnaal voor een andere textuur.",
+        "Alternatief: geen Kewpie? Gebruik gewone mayo aangevuld met een theelepel rijstazijn en een druppel sesamolie — komt dichtbij het origineel."
+      ]
     },
     {
       "title": "Saucijzenbroodjes — het definitieve recept",
@@ -5213,10 +5543,10 @@
       "keuken": "Nederlands",
       "categorie": "hapjes-tapas",
       "wine": {
-        "naam": "Lager bier of Radler",
-        "druif": "— (bier)",
-        "toelichting": "Een koud glas lager bier is de klassieke Nederlandse begeleider bij saucijzenbroodjes. De lichte bitterheid snijdt door het vet van het bladerdeeg en de kruidige vulling. Een Radler werkt ook uitstekend — de frisheid maakt het dooreetbaar.",
-        "alternatief": "Droge appelsap of een glas Cava"
+        "naam": "Cava Brut",
+        "druif": "Macabeo, Xarel·lo, Parellada",
+        "toelichting": "Saucijzenbroodjes en Cava — een combinatie die in elke Spaanse feestelijke setting werkt. De droge bellen snijden door het rijke bladerdeeg en het vette gehakt; de gisttonen sluiten aan op de luchtige gebakken structuur. Cava Brut heeft net genoeg dosage voor een licht ronde afdronk die de hartige vulling complementeert zonder te zoet te worden. Een fles Cava bij een schaal saucijzenbroodjes is de meest toegankelijke, gezelligste manier om een tapas-avond te beginnen. Serveer ijskoud op 7°C.",
+        "alternatief": "Rioja Joven — licht en fris, werkt als warme rode begeleider bij de hartige gehaktvulling"
       },
       "image": "/assets/images/SB.jpg",
       "short_description": "Het perfecte saucijzenbroodje — subtiel gekruid met nootmuskaat, foelie en een geheim druppeltje Maggi. Droog, stevig en dooreetbaar.",
@@ -5311,7 +5641,13 @@
           "description": "verwarm de oven op 220°C (boven/onderwarmte). Bak de broodjes 25 minuten tot ze diep goudbruin en krokant zijn."
         }
       ],
-      "chef_tip": "Dit is het belangrijkste: eet er één direct uit de oven en één na 10 minuten rusten. Als ze allebei goed zijn — krokant van buiten, sappig van binnen, subtiel gekruid — heb je het perfecte recept te pakken. Niks meer toevoegen. Niks meer weglaten."
+      "tips": [
+        "Mise-en-place: dit is het belangrijkste — eet er één direct uit de oven en één na een uur. Het verschil leert je meer over bladerdeeg dan elk recept.",
+        "Techniek: zorg dat het gehakt volledig droog is voor je het in het bladerdeeg rolt — overtollig vocht maakt de bodem zompig en verhindert een krokante onderkant.",
+        "Presentatie: bestrijk royaal met eigeel voor een diepe, goudbruine glans. Snijd na het bakken schuin door — zo is de spiraaldoorsnede zichtbaar en ziet het gerecht er verfijnd uit.",
+        "Variatie: voeg gerookte paprika of fijngehakte jalapeño toe aan het gehakt voor extra pit, of wikkel de broodjes in jamon serrano voor een Spaanse upgrade.",
+        "Alternatief: geen bladerdeeg? Gebruik briochedeeg voor een rijker, zachter resultaat, of gebruik croissantdeeg uit een rol voor een snelle maar even lekkere versie."
+      ]
     },
     {
       "title": "Indische malse ossenhaas saté met lichte paprikasaus",
@@ -5325,8 +5661,8 @@
       "wine": {
         "naam": "Pinot Noir",
         "druif": "Pinot Noir",
-        "toelichting": "De zachte tannines en rode vruchten van een lichte Pinot Noir passen mooi bij de malse ossenhaas en de kruidige marinade. De wijn overheerst de subtiele saus niet en accentueert de gember en koriander. Serveer licht gekoeld op 14°C.",
-        "alternatief": "Bintang bier of een glas Riesling"
+        "toelichting": "De zachte tannines en rode vruchttonen van een elegante Pinot Noir sluiten aan op het malse ossenhaas en laten de Indische kruiden volledig tot hun recht komen. Niet te veel structuur — de marinade moet de hoofdrol houden. Tonen van kers, aardbeien en een lichte aardse ondertoon complementeren de ketjap en de paprikasaus. Een Bourgogne Pinot Noir of een Nieuw-Zeelands exemplaar uit Marlborough geeft het beste resultaat. Serveer licht gekoeld op 15°C.",
+        "alternatief": "Jonge Barbera d'Asti — levendiger zuur, werkt uitstekend bij de zoet-hartige marinade"
       },
       "image": "/assets/images/sateos.jpg",
       "short_description": "Malse ossenhaas gemarineerd in gember, knoflook en kecap manis — gegrild op satéstokjes met een lichte zelfgemaakte paprikasaus.",
@@ -5475,7 +5811,13 @@
           "description": "leg de stokjes op een schaal, schep een beetje saus op en knijp er limoensap overheen. Garneer met rode ui, lombokringetjes en partjes limoen."
         }
       ],
-      "chef_tip": "Marineer het vlees een hele nacht — dat maakt het verschil. Gril op medium hitte zodat het vlees vanbinnen rosé blijft. Maak de saus van tevoren — hij wordt de volgende dag nog lekkerder. Je hebt maar de helft nodig, de rest bewaar je in de koelkast."
+      "tips": [
+        "Mise-en-place: marineer het vlees een hele nacht — dat maakt het verschil. De paprikasaus kan een dag van tevoren worden gemaakt.",
+        "Techniek: bak de spiesjes op een gloeiend hete grillpan en draai slechts één keer — zo krijg je mooie roostertekens aan beide kanten zonder het vlees uit te drogen.",
+        "Presentatie: serveer de sate op een warm langwerpig bord met de saus naast — nooit erover, zodat de roostertekens zichtbaar blijven.",
+        "Variatie: voeg geraspte kokos toe aan de marinade voor een rijker, tropischer karakter, of gebruik een mespuntje sambal badjak in de paprikasaus voor extra pit.",
+        "Alternatief: geen ossenhaas? Gebruik kippendij — sappiger en meer smaak, vraagt iets meer marineertijd maar werkt uitstekend met dezelfde kruidenmix."
+      ]
     },
     {
       "title": "Gemarineerde kip fajita met geblakerde paprika en knoflookyoghurt",
