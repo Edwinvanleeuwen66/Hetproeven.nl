@@ -306,23 +306,6 @@
     };
 
     // ── Hoofdlogica ───────────────────────────────────────────────
-    // ── Favoriet / Vandaag koken ─────────────────────────────
-    function loadSet(key) {
-      try { return new Set(JSON.parse(localStorage.getItem(key) || '[]')); } catch { return new Set(); }
-    }
-    function saveSet(key, set) {
-      try { localStorage.setItem(key, JSON.stringify([...set])); } catch {}
-    }
-
-    function toggleDetailActie(type, slug, btn) {
-      var key = 'hp_' + type;
-      var set = loadSet(key);
-      var cls = type === 'favorieten' ? 'detail-btn-active' : 'detail-btn-active-vandaag';
-      if (set.has(slug)) { set.delete(slug); btn.classList.remove(cls); btn.setAttribute('aria-pressed','false'); }
-      else               { set.add(slug);    btn.classList.add(cls);    btn.setAttribute('aria-pressed','true'); }
-      saveSet(key, set);
-    }
-
     const slug = getSlug();
     if (!slug) { window.location.href = '/'; }
 
@@ -383,11 +366,29 @@
             <div class="step-text"><strong>${step.action}:</strong> ${step.description}</div>
           </div>`).join('');
 
-        const tipHtml = recipe.chef_tip ? `
-          <div class="chef-tip">
-            <span class="chef-tip-label">Chef tip</span>
-            ${recipe.chef_tip}
-          </div>` : '';
+        // Tips: gebruik tips-array als beschikbaar, anders chef_tip als één blok
+        var tipsArr = [];
+        if (recipe.tips && recipe.tips.length) {
+          tipsArr = recipe.tips;
+        } else if (recipe.chef_tip) {
+          tipsArr = [recipe.chef_tip];
+        }
+
+        function renderTip(tip) {
+          var colonIdx = tip.indexOf(': ');
+          if (colonIdx > 0 && colonIdx < 30) {
+            var label = tip.substring(0, colonIdx);
+            var body  = tip.substring(colonIdx + 2);
+            return '<p style="margin:0 0 10px 0"><strong>' + label + ':</strong> ' + body + '</p>';
+          }
+          return '<p style="margin:0 0 10px 0">' + tip + '</p>';
+        }
+
+        const tipHtml = tipsArr.length ? (
+          '<div class="chef-tip"><span class="chef-tip-label">Tips</span>' +
+          tipsArr.map(renderTip).join('') +
+          '</div>'
+        ) : '';
 
         const wine = recipe.wine;
         const wineNaam = wine && typeof wine === 'object' ? wine.naam : wine;
@@ -420,14 +421,6 @@
             ${recipe.servings ? `<span class="tag">${recipe.servings}</span>` : ''}
             ${recipe.difficulty ? `<span class="tag tag-acc">${recipe.difficulty}</span>` : ''}
             ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
-            <span style="margin-left:auto;display:flex;gap:8px;">
-              <button class="detail-actie-btn" id="btn-fav-detail"
-                title="Favoriet"
-                onclick="toggleDetailActie('favorieten','${slug}',this)">&#9829; Favoriet</button>
-              <button class="detail-actie-btn" id="btn-vandaag-detail"
-                title="Vandaag koken"
-                onclick="toggleDetailActie('vandaag','${slug}',this)">&#127859; Vandaag koken</button>
-            </span>
           </div>
           <div class="recipe-body">
             <div>
@@ -452,16 +445,6 @@
           ${wineHtml}`;
 
         initPortions(baseServings);
-
-        // Zet knopstatus op basis van localStorage
-        (function() {
-          var favSet = loadSet('hp_favorieten');
-          var vandaagSet = loadSet('hp_vandaag');
-          var btnFav = document.getElementById('btn-fav-detail');
-          var btnVandaag = document.getElementById('btn-vandaag-detail');
-          if (btnFav && favSet.has(slug)) { btnFav.classList.add('detail-btn-active'); btnFav.setAttribute('aria-pressed','true'); }
-          if (btnVandaag && vandaagSet.has(slug)) { btnVandaag.classList.add('detail-btn-active-vandaag'); btnVandaag.setAttribute('aria-pressed','true'); }
-        })();
         renderReviews(slug, schema);
       })
       .catch(() => {
