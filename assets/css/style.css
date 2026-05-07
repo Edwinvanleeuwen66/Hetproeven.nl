@@ -223,11 +223,12 @@ a { color: inherit; text-decoration: none; }
 .recipe-loc-tag {
   font-size: 9px;
   letter-spacing: 3px;
-  border: 0.5px solid #5A3A20;
+  border: 1px solid rgba(255,255,255,0.6);
   padding: 5px 14px;
   border-radius: 20px;
-  color: #C8BAA8;
+  color: #fff;
   text-transform: uppercase;
+  background: rgba(0,0,0,0.25);
 }
 
 .recipe-title {
