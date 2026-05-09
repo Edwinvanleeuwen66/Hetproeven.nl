@@ -14270,6 +14270,2165 @@
         "toelichting": "Droog tot licht rond, sterk aromatisch, lychee, exotisch fruit. Exotische bloemigheid bij citroengras, kaffir limoen en kokosmelk. Lichte rondheid draagt kemiri en bumbu. Serveer op 10°C.",
         "alternatief": "Viognier Pays d'Oc — aromatisch en tropisch, even goed bij zoet-pittige Indonesische smaakbalans"
       }
+    },
+    {
+      "title": "Thai Egg Nest — kanten eierdraadnestje met kip, garnaal, pinda en makrut limoen",
+      "slug": "thai-egg-nest-eierdraadnestje-kip-garnaal",
+      "location": "Thailand",
+      "time": "50 min",
+      "servings": "4 voorgerechten (1 nest pp — maak 6 voor uitval)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/thai-egg-nest-eierdraadnestje-kip-garnaal.jpg",
+      "short_description": "Een van de meest verfijnde hapjes uit de Thaise royal cuisine: dunne eidraden gedraaid uit een spuitfles tot een goudgeel, kanten nestje — licht krokant van buiten. Gevuld met een droge, aromatische wokbereiding van kippendij en garnaal met korianderwortel, makrut limoenblad en geroosterde pinda.",
+      "description": "Een van de meest verfijnde hapjes uit de Thaise royal cuisine: dunne eidraden gedraaid uit een spuitfles tot een goudgeel, kanten nestje — licht krokant van buiten. Gevuld met een droge, aromatische wokbereiding van kippendij en garnaal met korianderwortel, makrut limoenblad en geroosterde pinda. Eén nest, eén bord, eén perfecte hap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de eierdraadnestjes",
+          "ingredients": [
+            {
+              "name": "grote eieren (voor 4 nesten + 1–2 oefennesten)",
+              "amount": "6"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "snuf witte peper",
+              "amount": ""
+            },
+            {
+              "name": "neutrale olie (ca. 1 cm diepte in pan, 170–180°C)",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de kip-garnalenvulling",
+          "ingredients": [
+            {
+              "name": "kippendij, zonder vel en bot, zo fijn mogelijk gehakt",
+              "amount": "150 g"
+            },
+            {
+              "name": "rauwe garnalen, gepeld en fijn gehakt",
+              "amount": "150 g"
+            },
+            {
+              "name": "sjalotten, zeer fijn gesnipperd",
+              "amount": "2"
+            },
+            {
+              "name": "teentjes knoflook, fijn gehakt",
+              "amount": "3"
+            },
+            {
+              "name": "korianderwortes (of 8 koriandersteeltjes), fijn gehakt",
+              "amount": "2"
+            },
+            {
+              "name": "bird's eye pepers, fijn gehakt (naar smaak)",
+              "amount": "1–2"
+            },
+            {
+              "name": "makrut limoenblaadjes, nerf verwijderd, ultrafijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "geroosterde pinda's, fijn gehakt",
+              "amount": "30 g"
+            },
+            {
+              "name": "fijngehakte verse koriander",
+              "amount": "1 el"
+            },
+            {
+              "name": "lente-uitjes, in dunne ringen",
+              "amount": "2"
+            },
+            {
+              "name": "vissaus + lichte sojasaus + palmsuiker",
+              "amount": "1½ el + 1 tl + 1½ tl"
+            },
+            {
+              "name": "limoensap (finishing — allerlaatst) + witte peper + neutrale olie",
+              "amount": "1 tl + ½ tl + 1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de komkommerrelish (ajad)",
+          "ingredients": [
+            {
+              "name": "komkommer in kleine blokjes",
+              "amount": "½"
+            },
+            {
+              "name": "kleine sjalot in flinterdunne ringen",
+              "amount": "1"
+            },
+            {
+              "name": "kleine rode prik in dunne ringen",
+              "amount": "1"
+            },
+            {
+              "name": "rijstazijn + water + suiker + snuf zout",
+              "amount": "50 ml + 25 ml + 1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "kleine verse korianderblaadjes, extra fijngehakte pinda's, dunne ringetjes rode prik",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Ajad",
+          "description": "rijstazijn + water + suiker + zout roeren tot opgelost. Komkommer, sjalot en prik toevoegen. Minimaal 20 minuten laten trekken. Koel bewaren."
+        },
+        {
+          "action": "Vulling",
+          "description": "kippendij en garnalen zo fijn mogelijk hakken — geen keukenmachine. Je wilt kleine stukjes met textuur."
+        },
+        {
+          "action": "Aromatische pasta",
+          "description": "stamp of hak knoflook, korianderwortel en witte peper fijn tot aromatische pasta."
+        },
+        {
+          "action": "Wokken",
+          "description": "wok op hoog vuur. Olie toevoegen. Sjalot, knoflook-korianderpasta en bird's eye pepers 1–2 minuten fruiten."
+        },
+        {
+          "action": "Kip en garnalen",
+          "description": "kippendij toevoegen. Roerbak 2 minuten. Garnalen toevoegen. Roerbak 1 minuut tot net roze."
+        },
+        {
+          "action": "Droogbakken",
+          "description": "vissaus, sojasaus en palmsuiker toevoegen. 2–3 minuten droogbakken — vulling moet DROOG zijn. Natte vulling maakt het nest slap."
+        },
+        {
+          "action": "Afwerken vulling",
+          "description": "makrut limoenblad, pinda's, koriander en lente-ui toevoegen. Limoensap als allerlaatste. Van het vuur. Afkoelen."
+        },
+        {
+          "action": "Spuitfles",
+          "description": "eieren rustig loskloppen met vissaus en witte peper — NIET schuimig. Door fijne zeef in spuitfles gieten. Test boven gootsteen: drie dunne, gelijkmatige stromen."
+        },
+        {
+          "action": "Nestjes bakken",
+          "description": "1 cm olie verhitten tot 170–180°C. Fles ca. 10–15 cm boven de olie. Parallelle lijnen, dan kruislings terug over cirkel van 15–18 cm. 2–3 lagen opbouwen. Totale baktijd: 45–60 seconden."
+        },
+        {
+          "action": "Uitlekken",
+          "description": "randen goudgeel en krokant. Met brede spatel optillen. 10 seconden uitlekken op keukenpapier. Herhaal voor elk nest."
+        },
+        {
+          "action": "Serveren",
+          "description": "nestje op warm bord. Vulling compact in het midden. Ajad ernaast. Garneren. DIRECT serveren."
+        }
+      ],
+      "tips": [
+        "Niet schuimig kloppen: luchtbellen geven gebroken lijnen en verstoppen de tuitjes. Glad en homogeen is het doel.",
+        "Temperatuur: 170–180°C is de exacte zone. Te heet = bruine droge lijnen. Te koud = slappe uitlopende draden. Gebruik thermometer.",
+        "Droge vulling: bak echt droog — al het vocht moet verdampen. Test door lepeltje op bord te leggen: mag geen vocht afgeven.",
+        "Mise-en-place: vulling en ajad van tevoren. Spuitfles vlak voor serveren vullen. Nesten pas bakken op het laatste moment.",
+        "Variatie: vervang kippendij door varkensgehakt voor een rijkere, traditionelere versie — varkensgehakt + garnalen is de klassieke Thaise combinatie.",
+        "Alternatief makrut limoenblad: fijne rasp van ½ limoen — minder klassiek maar effectief en altijd verkrijgbaar.",
+        "Alternatief spuitfles: wegwerpspuitzak met 3 kleine gaatjes geknipt. Minder regelmatig patroon maar werkt goed."
+      ],
+      "wine": {
+        "naam": "Albariño — Rías Baixas",
+        "druif": "Albariño",
+        "toelichting": "Droog, fris, licht ziltig, citrus, mineraal. De zilte mineraliteit resoneert met garnalen en vissaus. Frisheid sluit aan op limoensap en makrut limoen. Licht genoeg om het delicate eiernet niet te overstemmen.",
+        "alternatief": "Viognier (Pays d'Oc) — aromatischer, mooi als pinda en koriander meer naar voren mogen komen"
+      }
+    },
+    {
+      "title": "Vitello Tonnato Moderno — gepocheerde kalfsfrikandeau met tonnatomousse op briochechip",
+      "slug": "vitello-tonnato-moderno-briochechip",
+      "location": "Piemonte",
+      "time": "60 min + minimaal 2 uur afkoelen",
+      "servings": "4 amuses (3 chips pp)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/vitello-tonnato-moderno-briochechip.jpg",
+      "short_description": "De Piemontese klassieker teruggebracht tot één perfecte hap. Kalfsfrikandeau langzaam gepocheerd, flinterdun gesneden en gevouwen tot een roosje op een knapperige briochechip. Zijdezachte tonnatomousse, krokante kappertjes en een wolkje kappertjespoeder.",
+      "description": "De Piemontese klassieker teruggebracht tot één perfecte hap. Kalfsfrikandeau langzaam gepocheerd in witte wijn en aromaten, flinterdun gesneden en gevouwen tot een delicaat roosje op een knapperige briochechip. Zijdezachte tonnatomousse, krokante kappertjes en een wolkje kappertjespoeder als finishing.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de gepocheerde kalfsfrikandeau",
+          "ingredients": [
+            {
+              "name": "kalfsfrikandeau (van de keurslager)",
+              "amount": "400 g"
+            },
+            {
+              "name": "droge witte wijn + water",
+              "amount": "200 ml + 500 ml"
+            },
+            {
+              "name": "kleine ui + wortel + stengel bleekselderij",
+              "amount": "1 + 1 + 1"
+            },
+            {
+              "name": "laurierblaadjes + takjes tijm + witte peperkorrels + zout",
+              "amount": "2 + 3 + 1 tl + 1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade na het snijden",
+          "ingredients": [
+            {
+              "name": "extra vergine olijfolie + citroensap + rasp van ¼ citroen + snuf zwarte peper",
+              "amount": "1 tl + enkele druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tonnatomousse",
+          "ingredients": [
+            {
+              "name": "tonijn in olijfolie (kwaliteitsblik), goed uitgelekt",
+              "amount": "160 g"
+            },
+            {
+              "name": "ansjovisfilets in olie",
+              "amount": "4"
+            },
+            {
+              "name": "kleine kappertjes, afgespoeld",
+              "amount": "2 el"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1½ el"
+            },
+            {
+              "name": "goede mayonaise (alleen voor binding)",
+              "amount": "1 el"
+            },
+            {
+              "name": "crème fraîche + extra vergine olijfolie",
+              "amount": "2 el + 2 el"
+            },
+            {
+              "name": "witte peper naar smaak",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de briochechips",
+          "ingredients": [
+            {
+              "name": "brioche (van de bakker)",
+              "amount": "1"
+            },
+            {
+              "name": "geklaarde boter of gesmolten roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "snuf fleur de sel",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de krokante kappertjes en kappertjespoeder",
+          "ingredients": [
+            {
+              "name": "kleine kappertjes, volledig drooggedept",
+              "amount": "4 el"
+            },
+            {
+              "name": "neutrale olie (voor het frituren)",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "citroenzeste (vlak voor serveren), kleine blaadjes platte peterselie of kervel, druppels olijfolie",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kalfsfrikandeau pocheren",
+          "description": "droogdeppen. Eventueel binden met keukentouw. Witte wijn + water + groenten + kruiden aan de kook. Kalfsfrikandeau toevoegen. Pocheren op 85°C gedurende 25–30 minuten tot kerntemperatuur 60–62°C."
+        },
+        {
+          "action": "Afkoelen en snijden",
+          "description": "vlees uit pan. Volledig afkoelen IN het pocheervocht — minimaal 2 uur, bij voorkeur een nacht. Flinterdun snijden (1–2 mm). Tip: 15 min in vriezer voor snijden. Licht marineren in olijfolie, citroensap, zeste en peper."
+        },
+        {
+          "action": "Tonnatomousse",
+          "description": "tonijn + ansjovis + kappertjes + citroensap + mayonaise + crème fraîche + olijfolie blenden tot volkomen glad — minimaal 2 minuten. Door fijne zeef persen. Op smaak brengen met witte peper. Koel bewaren in spuitzak."
+        },
+        {
+          "action": "Briochechips",
+          "description": "oven 170°C. Flinterdun snijden (3–4 mm). Uitsteken of snijden — 12 stuks plus extra. Beide kanten dun bestrijken met geklaarde boter. Bakken 8–10 minuten — halverwege keren. Afkoelen op rooster. Bestrooien met fleur de sel."
+        },
+        {
+          "action": "Kappertjes frituren",
+          "description": "grondig droogdeppen. Frituren op hoog vuur 1–2 minuten tot opengesprongen en krokant. Uitlekken op keukenpapier. Een derde fijn verkruimelen tot kappertjespoeder."
+        },
+        {
+          "action": "Opbouw",
+          "description": "3 briochechips per persoon. Dot tonnatomousse in midden. Plakje kalfsvlees losjes gevouwen tot roosje erop. 1 heel krokant kappertje bovenop. Licht kappertjespoeder. Vlak voor serveren citroenzeste raspen. Peterselie of kervel als finishing."
+        }
+      ],
+      "tips": [
+        "Mise-en-place: kalfsfrikandeau dag van tevoren pocheren. Tonnatomousse van tevoren. Chips ochtends bakken en droog bewaren. Kappertjes en opbouw vlak voor serveren.",
+        "Zeef nooit overslaan: het verschil tussen gladde fluwelen mousse en korrelige saus zit volledig in het zeven.",
+        "Citroenzeste vlak voor serveren: dit is het moment dat de amuse levend wordt — nooit eerder raspen.",
+        "Chips droog bewaren: in afgesloten doos. Vochtige lucht maakt ze slap binnen een uur.",
+        "Variatie: serveer op Parmigiano-krokant ipv brioche — smelt Parmigiano in dunne cirkels in droge pan tot goudbruin.",
+        "Alternatief vlees: geen tijd om te pocheren? Kalfsfrikandeau carpacciodikte laten snijden en 15 min marineren in olijfolie, citroensap en peper.",
+        "Alternatief: geen brioche? Dunne crostini van stokbrood of krokante polentachip werkt ook goed."
+      ],
+      "wine": {
+        "naam": "Gavi di Gavi — Piemonte",
+        "druif": "Cortese",
+        "toelichting": "Droog, fris, strak, mineraal, subtiele amandel in afdronk. Frisse zuren snijden door tonnatomousse en brioche. Mineraliteit sluit aan bij ansjovis, tonijn en kappertjes. Klassieke regionale combinatie.",
+        "alternatief": "Franciacorta Brut of Vermentino (Sardinië)"
+      }
+    },
+    {
+      "title": "Ragù alla Bolognese — droog, diep en puur",
+      "slug": "ragu-alla-bolognese-droog-diep-puur",
+      "location": "Bologna",
+      "time": "30 min actief + 3,5–4 uur sudderen",
+      "servings": "4–6 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/ragu-alla-bolognese-droog-diep-puur.jpg",
+      "short_description": "Dit is geen tomatensaus met gehakt. Dit is een vlees-ragù mét een vleugje tomaat — geregistreerd door de Accademia Italiana della Cucina. Langzaam gesmolten rundvlees met pancetta, zachte soffritto, witte wijn en volle melk die na twee uur de zuren rondt.",
+      "description": "Dit is geen tomatensaus met gehakt. Dit is een vlees-ragù mét een vleugje tomaat — geregistreerd door de Accademia Italiana della Cucina. Langzaam gesmolten rundvlees met pancetta, zachte soffritto, witte wijn en volle melk die na twee uur de zuren rondt. Vier uur geduld. Eén van de grootste sauzen ter wereld.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de ragù",
+          "ingredients": [
+            {
+              "name": "grofgemalen rundvlees (sukade, hals, borst of riblap)",
+              "amount": "500 g"
+            },
+            {
+              "name": "pancetta tesa, in uiterst fijne blokjes",
+              "amount": "150 g"
+            },
+            {
+              "name": "extra vergine olijfolie (2023-update Accademia)",
+              "amount": "2 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de soffritto",
+          "ingredients": [
+            {
+              "name": "middelgrote ui (ca. 80 g), zo fijn mogelijk gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "kleine wortel (ca. 70 g), zo fijn mogelijk gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "stengel bleekselderij (ca. 70 g), zo fijn mogelijk gesneden",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vloeistoffen",
+          "ingredients": [
+            {
+              "name": "droge witte wijn",
+              "amount": "150 ml"
+            },
+            {
+              "name": "passata + dubbel geconcentreerde tomatenpuree",
+              "amount": "150 g + 1 el"
+            },
+            {
+              "name": "warme runderbouillon",
+              "amount": "200–300 ml"
+            },
+            {
+              "name": "volle melk (na 2 uur sudderen)",
+              "amount": "100 ml"
+            },
+            {
+              "name": "zout, versgemalen zwarte peper, klein snufje nootmuskaat (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pancetta",
+          "description": "olijfolie + boter + pancetta in zware pan op laag vuur. 8–10 minuten zacht uitbakken — niet krokant. Vet moet vrijkomen."
+        },
+        {
+          "action": "Soffritto",
+          "description": "ui, wortel en bleekselderij toevoegen. 15–20 minuten op laag vuur tot volledig zacht, zoet en glanzig. Niet laten kleuren."
+        },
+        {
+          "action": "Vlees",
+          "description": "vuur op hoog. Grofgemalen rundvlees toevoegen. Volledig rul bakken. 10–15 minuten tot vocht verdampt is en vlees droog, rul en diepbruin. Op smaak met zout, peper en nootmuskaat."
+        },
+        {
+          "action": "Witte wijn",
+          "description": "toevoegen. Alle aanbaksels losroeren. Volledig laten verdampen — ca. 3–4 minuten."
+        },
+        {
+          "action": "Tomaat",
+          "description": "tomatenpuree 2 minuten meebakken. Passata toevoegen en roeren."
+        },
+        {
+          "action": "Sudderen",
+          "description": "200 ml warme bouillon toevoegen. Aan de kook. Vuur op allerlaagste stand. Deksel half op de pan. Minimaal 3,5 uur sudderen."
+        },
+        {
+          "action": "Na 2 uur",
+          "description": "volle melk toevoegen. Roeren en rustig verder koken."
+        },
+        {
+          "action": "Laatste 30 minuten",
+          "description": "deksel eraf, vuur iets hoger. Laten inkoken tot vrijwel droog. Proeven en definitief op smaak brengen."
+        }
+      ],
+      "tips": [
+        "Dag vooraf maken: altijd beter na een nacht rusten. Smaken verdiepen, textuur wordt ronder. Warm langzaam op met scheutje bouillon.",
+        "Vlees droog bakken: pas wanneer al het vocht verdampt is en vlees echt droog en bruin bakt, bouw je smaak op. Geduldig blijven.",
+        "Melk na 2 uur: vlees heeft dan structuur opgebouwd. Melk rondt de zuren af zonder de saus in de war te sturen.",
+        "Niet te veel tomaat: Bolognese is geen tomatensaus. Passata en concentraat geven kleur en diepte — nooit de hoofdrol.",
+        "Variatie — supermarktgehakt: 350 g rundergehakt + 150 g varkensgehakt als grofgemalen vlees niet beschikbaar is.",
+        "Alternatief voor pancetta: guanciale (rijker) of ongezouten buikspek. Nooit gerookt spek — rooktoon past niet bij de pure smaak.",
+        "Invriezen: uitstekend tot 3 maanden. Maak altijd grote hoeveelheid."
+      ],
+      "chef_tip": "NOOT: Ragù alla Bolognese wordt uitsluitend geserveerd met verse tagliatelle. Spaghetti bolognese bestaat niet. Niet in Bologna. Niet in dit receptenboek.",
+      "wine": {
+        "naam": "Sangiovese di Romagna Superiore",
+        "druif": "Sangiovese",
+        "toelichting": "Droog, sappig, fris, licht kruidig, medium body, kersenfruit. De lokale wijn van Emilia-Romagna — de regio van Bologna. Frisse zuren snijden door vet van pancetta en rundvlees. Kersenfruit geeft frisheid naast de lange suddersmaak.",
+        "alternatief": "Chianti Classico DOCG of Barbera d'Alba"
+      }
+    },
+    {
+      "title": "Uovo in Camicia su Fonduta Piemontese — gepocheerd ei op Fontina-fondue",
+      "slug": "uovo-in-camicia-fonduta-piemontese",
+      "location": "Piemonte",
+      "time": "35 min + een nacht weken",
+      "servings": "4 voorgerechten",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/uovo-in-camicia-fonduta-piemontese.jpg",
+      "short_description": "Het meest troostende gerecht van Piemonte: fluweelzachte fondue van Fontina DOP — zonder bloem, zonder maizena, puur kaas, eidooier en boter in een bain-marie — met een perfect gepocheerd ei waarvan de vloeiende dooier breekt in de rijke saus.",
+      "description": "Het meest troostende gerecht van Piemonte: een fluweelzachte fondue van Fontina DOP — zonder bloem, zonder maizena, puur kaas, eidooier en boter in een bain-marie — met een perfect gepocheerd ei waarvan de vloeiende dooier breekt in de rijke saus. Krokante broodcrunch voor textuur.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de fonduta piemontese",
+          "ingredients": [
+            {
+              "name": "Fontina DOP (korst verwijderd, in blokjes van 1 cm)",
+              "amount": "300 g"
+            },
+            {
+              "name": "volle melk (voor het weken — een nacht van tevoren)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "eidooiers",
+              "amount": "3"
+            },
+            {
+              "name": "koude roomboter, in blokjes",
+              "amount": "30 g"
+            },
+            {
+              "name": "snuf witte peper, klein snufje nootmuskaat, zout naar smaak",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gepocheerde eieren",
+          "ingredients": [
+            {
+              "name": "zeer verse eieren",
+              "amount": "4"
+            },
+            {
+              "name": "water + witte wijnazijn + snuf zout",
+              "amount": "1½ l + 1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de krokante broodcrunch",
+          "ingredients": [
+            {
+              "name": "dunne sneden zuurdesem, brioche of ciabatta",
+              "amount": "2"
+            },
+            {
+              "name": "goede olijfolie + snuf fleur de sel",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "fijn gesneden bieslook, venkelgroen of kervel, extra fijne citroenzeste",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Fontina weken",
+          "description": "Fontina-blokjes + melk in kom. Afdekken. Een nacht in koelkast. Essentieel voor gladde emulsie."
+        },
+        {
+          "action": "Broodcrunch",
+          "description": "brood in kleine blokjes. Bakken in olijfolie goudbruin en krokant (3–4 min). Uitlekken. Fleur de sel."
+        },
+        {
+          "action": "Fonduta",
+          "description": "Fontina met weekvocht in hittebestendige kom op bain-marie. Langzaam smelten — 10–15 minuten, constant roeren. Max 70°C."
+        },
+        {
+          "action": "Boter monteren",
+          "description": "koude boterblokjes één voor één toevoegen al roerend — geeft glans en fluwelen textuur."
+        },
+        {
+          "action": "Eidooiers",
+          "description": "KOM VAN WARMTEBRON halen. Eidooiers één voor één toevoegen al roerend. Kom terug op bain-marie. 1–2 minuten verder tot licht bindt. NOOIT koken — boven 75°C scheidt de fonduta."
+        },
+        {
+          "action": "Afwerken fonduta",
+          "description": "op smaak met witte peper, nootmuskaat en eventueel zout. Houd warm op bain-marie. Te dik? Scheutje warme melk."
+        },
+        {
+          "action": "Gepocheerde eieren",
+          "description": "water met azijn en zout tegen de kook (90°C). Elk ei in apart kommetje breken. Licht roeren en ei vlak boven water laten glijden. Pocheren 2,5–3 minuten. Scheppen, droogdeppen, rafelige randen bijsnijden."
+        },
+        {
+          "action": "Opbouw en serveren",
+          "description": "elegante spiegel fonduta in elk warm diep bord — niet te veel. Gepocheerd ei erin. Broodcrunch losjes rondom. Afwerken met bieslook/venkelgroen en citroenzeste."
+        }
+      ],
+      "tips": [
+        "Fontina een nacht weken: nooit overslaan. Na een nacht smelt Fontina fluweelzacht en klontvrij. 1 uur is het absolute minimum.",
+        "Nooit koken: fonduta is delicaat — boven 75°C scheidt de kaas onherstelbaar. Bain-marie en constant roeren.",
+        "Eidooiers altijd van de warmtebron: haalt de kom van het water voor de eidooiers erbij gaan.",
+        "Eieren: versheid is alles. Altijd eerst in een kommetje breken — nooit direct boven de pan.",
+        "Alternatief truffel — morieljes: de meest elegante paddenstoeloptie. Kort bakken in boter met knoflook en tijm.",
+        "Alternatief truffel — shiitake en kastanjechampignons: fijn gehakt, langzaam drooggebakken in boter met knoflook en tijm. Aardse umami-diepte.",
+        "Kaasalternatief: geen Fontina DOP? Gebruik Taleggio + jonge Gruyère (150 g elk)."
+      ],
+      "wine": {
+        "naam": "Roero Arneis DOCG — Piemonte",
+        "druif": "Arneis",
+        "toelichting": "Droog, fris, licht bloemig, perzik, amandel, mineraal. Delicate frisheid snijdt door rijke Fontina en eigeel. Mineraliteit geeft tegenwicht aan de boter. Hyperlokale combinatie.",
+        "alternatief": "Gavi di Gavi (fris, mineraal) of Erbaluce di Caluso (strakker, mineraler)"
+      }
+    },
+    {
+      "title": "Cacio e Pepe — puur, romig en perfect geëmulgeerd",
+      "slug": "cacio-e-pepe-puur-romig-geemulgeerd",
+      "location": "Roma",
+      "time": "25 min",
+      "servings": "4 kleine hoofdgerechten (60 g pasta pp)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/cacio-e-pepe-puur-romig-geemulgeerd.jpg",
+      "short_description": "Drie ingrediënten. Eén techniek. Nul ruimte voor fouten. De beroemdste pasta van Rome — geen room, geen boter, geen truffelolie. Alleen Pecorino Romano, vers gekraakte zwarte peper en de perfecte emulsie van pastawater en kaas.",
+      "description": "Drie ingrediënten. Eén techniek. Nul ruimte voor fouten. De beroemdste pasta van Rome is tegelijk het eenvoudigste en het meest technisch veeleisende gerecht in de Italiaanse keuken — geen room, geen boter, geen truffelolie. Alleen Pecorino Romano, vers gekraakte zwarte peper en de perfecte emulsie van pastawater en kaas.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de pasta",
+          "ingredients": [
+            {
+              "name": "tonnarelli, spaghetti alla chitarra of dikke spaghetti (bronzen matrijs — De Cecco, Rummo)",
+              "amount": "240 g"
+            },
+            {
+              "name": "water + zout",
+              "amount": "2 liter + 12 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de cacio e pepe",
+          "ingredients": [
+            {
+              "name": "Pecorino Romano DOP, zeer fijn geraspt (microplane)",
+              "amount": "150 g"
+            },
+            {
+              "name": "Parmigiano Reggiano, zeer fijn geraspt",
+              "amount": "50 g"
+            },
+            {
+              "name": "hele zwarte peperkorrels (Tellicherry of Sarawak)",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "zetmeelrijk pastawater (warm, niet kokend)",
+              "amount": "180–220 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Optioneel",
+          "ingredients": [
+            {
+              "name": "Pecorino Romano voor Pecorino-krokantjes — oven 180°C, 5–7 minuten",
+              "amount": "40 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Peper",
+          "description": "peperkorrels grof kneuzen in vijzel. Roosteren in droge pan 1–2 minuten tot intens geurend. Niet verbranden."
+        },
+        {
+          "action": "Kaascrème",
+          "description": "Pecorino + Parmigiano mengen. 4–5 el lauwwarm pastawater (60°C) toevoegen. Krachtig mengen tot gladde, dikke crème. Kaas MOET op kamertemperatuur zijn."
+        },
+        {
+          "action": "Pasta koken",
+          "description": "2 liter water + 12 g zout aan de kook. Pasta koken tot 1 minuut voor al dente. Minimaal 250 ml pastawater bewaren."
+        },
+        {
+          "action": "Peperbasis",
+          "description": "120 ml heet pastawater bij geroosterde peper. 30–60 seconden laten bruisen."
+        },
+        {
+          "action": "Mantecatura",
+          "description": "pasta toevoegen aan peperpan. Krachtig omgooien (mantecatura) terwijl pasta laatste minuut gaart."
+        },
+        {
+          "action": "Kaascrème toevoegen",
+          "description": "PAN VOLLEDIG VAN HET VUUR. Kaascrème in 3–4 kleine porties toevoegen al voortdurend roerend. Pastawater lepel voor lepel toevoegen als saus te dik wordt. Resultaat: zijdezacht en glanzend."
+        },
+        {
+          "action": "Serveren",
+          "description": "ONMIDDELLIJK serveren — cacio e pepe wacht op niemand."
+        }
+      ],
+      "tips": [
+        "Kaas op kamertemperatuur: minimaal 30 minuten voor gebruik. Koude kaas stolt direct en geeft klonten.",
+        "Altijd van het vuur: kaascrème mag nooit op directe hitte komen. Pan van vuur, altijd, zonder uitzondering.",
+        "Als saus klontert: direct van vuur. Enkele lepels WARM pastawater toevoegen en rustig bewegen. Nooit hard koken.",
+        "Pastawater is de saus: hoe zetmeelrijker, hoe beter de emulsie. Altijd meer bewaren dan je denkt nodig te hebben.",
+        "Geen room, geen truffelolie: dit zijn de twee verboden ingrediënten. De kracht zit in de puurheid.",
+        "Variatie — puur Pecorino: gebruik uitsluitend 180 g Pecorino Romano zonder Parmigiano. Authentieker, technisch moeilijker.",
+        "Alternatief pasta: tonnarelli of spaghetti alla chitarra is ideaal. Vermijd gladde dunne spaghetti — saus glijdt eraf."
+      ],
+      "wine": {
+        "naam": "Frascati Superiore DOC — Castelli Romani",
+        "druif": "Malvasia, Trebbiano",
+        "toelichting": "Droog, fris, licht bloemig, citrus, subtiele mineraliteit. De lokale wijn van de Römische heuvels — licht, fris en aromatisch. Frisse zuren snijden door de ziltige Pecorino. Lichte bloemigheid complementeert de peper. Hyperlokale combinatie.",
+        "alternatief": "Grechetto (Umbria) of Verdicchio dei Castelli di Jesi"
+      }
+    },
+    {
+      "title": "Ravioli di Sogliola — verse ravioli met tong en lichte citroenbottersaus",
+      "slug": "ravioli-di-sogliola-tong-citroenbottersaus",
+      "location": "Venetië",
+      "time": "75 min",
+      "servings": "4 voorgerechten (3–4 ravioli pp)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/ravioli-di-sogliola-tong-citroenbottersaus.jpg",
+      "short_description": "Flinterdunne verse raviolivellen gevuld met een delicate farce van kort gebakken tong, een vleugje ricotta en Parmigiano — geserveerd in een zijdezachte citroenbottersaus waarbij citroenrasp de hoofdrol speelt, niet het sap.",
+      "description": "Flinterdunne verse raviolivellen gevuld met een delicate farce van kort gebakken tong, een vleugje ricotta en Parmigiano — de vis spreekt, de kaas bindt alleen. Geserveerd in een zijdezachte citroenbottersaus met slagroom waarbij citroenrasp de hoofdrol speelt, niet het sap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de verse pastadeeg",
+          "ingredients": [
+            {
+              "name": "00-bloem + grote eieren + extra eidooier + olijfolie + snuf zout",
+              "amount": "200 g + 2 + 1 + 1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tongvulling",
+          "ingredients": [
+            {
+              "name": "tongfilet (slibtong of zeetong, vers, zonder vel en graten)",
+              "amount": "250 g"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gesnipperd + roomboter",
+              "amount": "1 + 20 g"
+            },
+            {
+              "name": "volle ricotta, goed uitgelekt",
+              "amount": "50 g"
+            },
+            {
+              "name": "Parmigiano Reggiano, zeer fijn geraspt",
+              "amount": "20 g"
+            },
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "fijne rasp van ½ citroen",
+              "amount": ""
+            },
+            {
+              "name": "fijn gesneden bieslook + kervel of platte peterselie",
+              "amount": "1 el + 1 el"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "ei, losgeklopt (als lijm)",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de citroenbottersaus",
+          "ingredients": [
+            {
+              "name": "sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "droge witte wijn + lichte visfond of kippenbouillon",
+              "amount": "80 ml + 80 ml"
+            },
+            {
+              "name": "slagroom",
+              "amount": "60 ml"
+            },
+            {
+              "name": "koude roomboter, in blokjes",
+              "amount": "60 g"
+            },
+            {
+              "name": "fijne rasp van ¼ citroen + enkele druppels citroensap (gedoceerd)",
+              "amount": ""
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "fijn gesneden bieslook, venkelgroen of kervel, extra citroenzeste, eventueel druppels olijfolie",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pastadeeg",
+          "description": "bloem + zout op werkblad. Kuiltje. Eieren + eidooier + olijfolie erin. 8–10 minuten kneden tot glad en elastisch. Wikkel in folie. 30 minuten rusten."
+        },
+        {
+          "action": "Tongvulling",
+          "description": "sjalot 2–3 minuten fruiten in boter. Tongfilets erin. 1–2 minuten per kant tot net gaar. Laten afkoelen. In kleine stukjes trekken met vingers — niet hakken."
+        },
+        {
+          "action": "Vulling mengen",
+          "description": "tong mengen met sjalot, ricotta, Parmigiano, eidooier, citroenzeste, bieslook en kervel. Op smaak met zout en witte peper. Te nat? 10 min koelen of extra Parmigiano."
+        },
+        {
+          "action": "Ravioli vormen",
+          "description": "deeg in 4 stukken uitrollen tot flinterdun (stand 6–7). Bestrijken met losgeklopt ei. Vulling oplepelen. Tweede pastavel erop. Aandrukken rond vulling. Uitsteken (7–8 cm). Randen goed aandrukken. Op bebloemde plaat bewaren."
+        },
+        {
+          "action": "Saus",
+          "description": "sjalot glazig fruiten. Witte wijn erbij. Inkoken tot helft. Visfond toevoegen. Opnieuw inkoken tot 50 ml. Slagroom toevoegen. 2–3 minuten zacht inkoken."
+        },
+        {
+          "action": "Boter monteren",
+          "description": "van vuur halen. Koude boterblokjes één voor één al kloppend monteren. Citroenzeste toevoegen. Gedoceerd citroensap. Op smaak brengen."
+        },
+        {
+          "action": "Ravioli koken",
+          "description": "in licht gezouten water op zacht sudderend kookpunt (geen rollende kook) 2–3 minuten. Voorzichtig scheppen met schuimspaan."
+        },
+        {
+          "action": "Glaceren en serveren",
+          "description": "ravioli 30 seconden in warme saus draaien — saus hecht aan pasta. Direct serveren."
+        }
+      ],
+      "tips": [
+        "Mise-en-place: vulling en sausbasis een dag van tevoren. Ravioli ochtends vormen, koel bewaren. Saus monteren vlak voor serveren.",
+        "Tong niet overgaren: 1–2 minuten per kant is genoeg. Te lang bakt de vis droog en verliest de vulling haar delicate karakter.",
+        "Citroenrasp boven citroensap: de zeste geeft het aromatische citroenaroma, het sap de zuurheid. Gebruik rasp royaal, sap gedoceerd.",
+        "Lucht verwijderen: druk altijd zorgvuldig rondom de vulling — ingesloten lucht laat ravioli openbarsten.",
+        "Snelle versie — verse lasagnebladen: gebruik verse lasagnevellen uit de supermarkt (gekoeld). Op maat snijden en gebruiken.",
+        "Snelste versie — wontonvellen: direct verwerkbaar, geen uitrollen. Geeft elegante lichte ravioli in een fractie van de tijd.",
+        "Variatie: vervang tong door zeebaars voor een iets stevigere vulling. Heilbot geeft een romigere, vettere vulling."
+      ],
+      "wine": {
+        "naam": "Soave Classico DOC — Veneto",
+        "druif": "Garganega",
+        "toelichting": "Droog, fris, licht bloemig, amandel, mineraal, subtiel rond. Verfijnd genoeg om delicate tong niet te overstemmen. Frisse zuren houden bottersaus licht. Mineraliteit sluit aan bij de vis.",
+        "alternatief": "Vermentino di Sardegna of Fiano di Avellino"
+      }
+    },
+    {
+      "title": "Scrippelle 'Mbusse — Abruzzese eierpannenkoekjes in goudgele kippenbouillon",
+      "slug": "scrippelle-mbusse-abruzzese-eierpannenkoekjes",
+      "location": "Abruzzo",
+      "time": "60 min + 30–40 min bouillon",
+      "servings": "4 tussengerechten (3 scrippelle pp)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "soep",
+      "image": "/assets/images/scrippelle-mbusse-abruzzese-eierpannenkoekjes.jpg",
+      "short_description": "Het meest troostende gerecht uit Abruzzo: flinterdunne eierpannenkoekjes gevuld met Pecorino Romano, strak opgerold als een sigaar en geserveerd in een heldere, diepe goudgele bouillon die aan tafel wordt ingeschonken.",
+      "description": "Het meest troostende gerecht uit Abruzzo — en een van de minst bekende juwelen van de Italiaanse keuken. Flinterdunne eierpannenkoekjes gevuld met Pecorino Romano, strak opgerold als een sigaar en geserveerd in een heldere, diepe goudgele bouillon die aan tafel wordt ingeschonken.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de verrijkte kippenbouillon",
+          "ingredients": [
+            {
+              "name": "goede kwaliteitskippenbouillon (Knorr Professional of zelfgemaakt)",
+              "amount": "1 liter"
+            },
+            {
+              "name": "stuk Parmigiano Reggiano-korst (ca. 5x5 cm — het geheime wapen)",
+              "amount": "1"
+            },
+            {
+              "name": "kleine wortel + stengel bleekselderij + ½ ui + peterseliestelen",
+              "amount": "1 + 1"
+            },
+            {
+              "name": "zwarte peperkorrels + laurierblad + zout naar smaak",
+              "amount": "4 + 1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de scrippelle (maakt 14–16 stuks)",
+          "ingredients": [
+            {
+              "name": "grote eieren",
+              "amount": "4"
+            },
+            {
+              "name": "tipo 00-bloem + water + extra vergine olijfolie",
+              "amount": "120 g + 300 ml + 1 tl"
+            },
+            {
+              "name": "snuf fijn zout + klein snufje nootmuskaat",
+              "amount": ""
+            },
+            {
+              "name": "ongezouten boter (voor het bakken)",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vulling",
+          "ingredients": [
+            {
+              "name": "Pecorino Romano DOP, zeer fijn geraspt",
+              "amount": "80 g"
+            },
+            {
+              "name": "Parmigiano Reggiano, zeer fijn geraspt",
+              "amount": "30 g"
+            },
+            {
+              "name": "versgemalen zwarte peper + klein snufje nootmuskaat",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "extra Pecorino Romano, fijn gesneden bieslook of platte peterselie, zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bouillon",
+          "description": "kippenbouillon + Parmigiano-korst + groenten + kruiden in pan. Zachtjes aan de kook. 30–40 minuten zacht trekken. Zeven. Ontvetten. Op smaak brengen."
+        },
+        {
+          "action": "Beslag",
+          "description": "eieren loskloppen met zout. Bloem toevoegen en glad kloppen. Geleidelijk water toevoegen tot dun, vloeibaar beslag. Olijfolie en nootmuskaat erdoor. 20–30 minuten rusten."
+        },
+        {
+          "action": "Scrippelle bakken",
+          "description": "anti-aanbakpan (18–20 cm) op middelhoog vuur. Dun invetten met boter. Klein pollepeltje beslag erin, direct snel ronddraaien. 45–60 seconden tot bovenkant droog is. Eventueel kort omdraaien — bleek en soepel blijven."
+        },
+        {
+          "action": "Bewaren",
+          "description": "op bord laten glijden. Scrippelle op elkaar stapelen, afdekken met VOCHTIGE theedoek — essentieel voor soepelheid."
+        },
+        {
+          "action": "Vullen",
+          "description": "Pecorino + Parmigiano + nootmuskaat mengen. Elke scrippella royaal bestrooien met kaas en peper. Strak oprollen als sigaar."
+        },
+        {
+          "action": "Strak afsnijden",
+          "description": "uiteinden van elk rolletje strak afsnijden met scherp mes — dit kleine detail maakt het bord onmiddellijk professioneler."
+        },
+        {
+          "action": "Serveren",
+          "description": "3 scrippelle in elk warm diep bord. Extra Pecorino en zwarte peper erop. Bieslook als accent. Gloeiend hete bouillon PAS OP HET ALLERLAATSTE MOMENT aan tafel eroverheen schenken."
+        }
+      ],
+      "tips": [
+        "Parmigiano-korst: bewaar altijd in de vriezer. Transformeert elke bouillon. Dit is het geheime wapen.",
+        "Beslag dunner dan crêpe: het beslag moet vloeibaar van de pollepel lopen. Te dik geeft zwaar, rubberachtig resultaat.",
+        "Uiteinden strak afsnijden: nooit overslaan. Dit restaurantdetail maakt het bord onmiddellijk professioneler.",
+        "Bouillon pas op het laatste moment: zo blijven de rolletjes zichtbaar en intact, en smelt de kaas pas aan tafel.",
+        "Snelle versie — supermarktflensjes: gebruik kant-en-klare dunne flensjes. Iets dikker maar prima. 85% van het resultaat in een fractie van de tijd.",
+        "Variatie — peterselie door het beslag: 1 el zeer fijn gesneden platte peterselie geeft subtiele groene kleur.",
+        "Alternatief kaas: geen Pecorino Romano? Gebruik uitsluitend Parmigiano Reggiano — milder, minder zout maar even verfijnd."
+      ],
+      "wine": {
+        "naam": "Trebbiano d'Abruzzo DOC — Abruzzo",
+        "druif": "Trebbiano d'Abruzzo",
+        "toelichting": "Droog, fris, subtiel kruidig, licht mineraal, elegante body. De lokale wijn van Abruzzo — dezelfde regio als het gerecht. Frisse zuren complementeren Pecorino en rijke bouillon. Licht genoeg om het delicate gerecht niet te overstemmen.",
+        "alternatief": "Pecorino d'Abruzzo (de wijn!) of Soave Classico"
+      }
+    },
+    {
+      "title": "Biefstuk op witte boterham met gekaramelliseerde ui en diepe jachtsaus",
+      "slug": "biefstuk-witte-boterham-jachtsaus",
+      "location": "Nederland",
+      "time": "40 min + 30–45 min op kamertemperatuur",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Nederlands",
+      "categorie": "vlees",
+      "image": "/assets/images/biefstuk-witte-boterham-jachtsaus.jpg",
+      "short_description": "De beste Nederlandse boterham: een perfect gebakken kogeltjesbiefstuk op krokant gebakken wit brood met zoete gekaramelliseerde ui en een rijke, diepe jachtsaus van panjus, rode wijn en fond.",
+      "description": "De beste Nederlandse boterham: een perfect gebakken kogeltjesbiefstuk op krokant gebakken wit brood met zoete gekaramelliseerde ui en een rijke, diepe jachtsaus van panjus, rode wijn en fond. Eindelijk consequent perfect — mits je twee dingen doet: biefstuk op kamertemperatuur brengen en een kernthermometer gebruiken.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de biefstuk",
+          "ingredients": [
+            {
+              "name": "kogeltjesbiefstukken of gewone biefstukken (elk 120–150 g, 2–2,5 cm dik)",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "roomboter (voor arroseren)",
+              "amount": "30 g"
+            },
+            {
+              "name": "teentje knoflook, gekneusd + takje tijm of rozemarijn",
+              "amount": "1 + 1"
+            },
+            {
+              "name": "zeezout en versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gekaramelliseerde uien",
+          "ingredients": [
+            {
+              "name": "middelgrote uien, in dunne halve ringen",
+              "amount": "3"
+            },
+            {
+              "name": "Blue Band margarine + neutrale olie + snuf zout",
+              "amount": "25 g + 1 el"
+            },
+            {
+              "name": "sherryazijn of rode wijnazijn (aan het einde)",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de diepe jachtsaus",
+          "ingredients": [
+            {
+              "name": "rode wijn of madeira",
+              "amount": "80 ml"
+            },
+            {
+              "name": "runderfond (goede kwaliteit)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "koude roomboter, in blokjes",
+              "amount": "25 g"
+            },
+            {
+              "name": "Dijonmosterd (optioneel) + versgemalen zwarte peper",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de boterhammen",
+          "ingredients": [
+            {
+              "name": "sneden witte boterham, Blue Band margarine, snuf zout",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "fijn gesneden peterselie of bieslook, zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Stap 1 — Kamertemperatuur",
+          "description": "biefstukken 30–45 minuten voor het bakken uit koelkast. NOOIT koude biefstuk in hete pan. Dep droog met keukenpapier vlak voor bakken. Pas nu zouten."
+        },
+        {
+          "action": "Stap 2 — Uien",
+          "description": "Blue Band + olie op laag vuur. Uiringen + zout. 20–25 minuten op laag tot middelhoog vuur tot goudbruin en zoet. Laatste 2 minuten sherryazijn toevoegen. Houd warm."
+        },
+        {
+          "action": "Stap 3 — Boterhammen",
+          "description": "besmeren met Blue Band. In koekenpan goudbruin bakken aan buitenkant, binnenkant iets zacht. Licht bestrooien met zout."
+        },
+        {
+          "action": "Stap 4 — Biefstuk",
+          "description": "zware pan (gietijzer) op middelhoog tot hoog vuur. Olie erin. Biefstukken neerleggen. ELKE 30–45 SECONDEN draaien — geeft gelijkmatigere garing."
+        },
+        {
+          "action": "Arroseren",
+          "description": "na 2 minuten: roomboter + knoflook + tijm toevoegen. Laten schuimen. Boter steeds over biefstuk lepelen (arroseren)."
+        },
+        {
+          "action": "Kerntemperatuur",
+          "description": "medium-rare = 50–52°C (eindigt rond 54–56°C). Medium = 56–58°C. ALTIJD thermometer gebruiken."
+        },
+        {
+          "action": "Stap 5 — Rusten",
+          "description": "biefstukken op warm bord. Losjes afdekken met folie. 5–8 minuten rusten. Rustvocht bewaren voor saus."
+        },
+        {
+          "action": "Stap 6 — Jachtsaus",
+          "description": "pan op middelhoog vuur. Overtollig vet afgieten. Blussen met rode wijn. Aanbaksels losroeren. 1 minuut inkoken. Runderfond toevoegen. 2–3 minuten inkoken. Rustvocht toevoegen. Van vuur. Koude boterblokjes door saus kloppen. Eventueel Dijonmosterd. Op smaak brengen."
+        },
+        {
+          "action": "Stap 7 — Samenstellen",
+          "description": "boterham op bord. Uien erop. Biefstuk dun gesneden DWARS OP DE DRAAD erop. Jachtsaus royaal erover."
+        }
+      ],
+      "tips": [
+        "Kamertemperatuur is alles: nooit meer koude biefstuk in een hete pan. Dit lost 90% van het probleem op.",
+        "Waarom hij zwart wordt: pan te heet of boter te vroeg erbij. Gebruik olie voor de korst, voeg boter pas na 2 minuten toe.",
+        "Waarom hij rauw blijft: vlees te koud of te dik. Kamertemperatuur + frequent draaien + thermometer lost dit op.",
+        "Thermometer: gebruik een kernthermometer. Haal medium-rare uit de pan bij 51–52°C.",
+        "Vingertip-methode als alternatief: zacht en veerkrachtig = medium-rare, iets steviger = medium, stevig = doorbakken.",
+        "Variatie — entrecote: sappiger door vetrandje. Zelfde bakwijze, iets meer smaak.",
+        "Alternatief jus zonder wijn: blus pan met runderfond + paar druppels sherryazijn voor diepte."
+      ],
+      "wine": {
+        "naam": "Côtes du Rhône Villages",
+        "druif": "Grenache, Syrah, Mourvèdre",
+        "toelichting": "Droog, kruidig, sappig, donker fruit, zachte tannines, medium vol. Kruidigheid sluit aan bij jachtsaus en zwarte peper. Zachte tannines passen bij het malse vlees.",
+        "alternatief": "Chianti Classico of — eerlijk gezegd — een goed glas Hertog Jan"
+      }
+    },
+    {
+      "title": "Saltimbocca alla Romana — geplet kalfslapje met prosciutto en witte wijnsaus",
+      "slug": "saltimbocca-alla-romana-prosciutto-witte-wijnsaus",
+      "location": "Roma",
+      "time": "25 min",
+      "servings": "4 kleine hoofdgerechten (2 pp)",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "vlees",
+      "image": "/assets/images/saltimbocca-alla-romana-prosciutto-witte-wijnsaus.jpg",
+      "short_description": "\"Springt in de mond\" — en dat doet het ook. Flinterdun geplet kalfslapje met knapperige prosciutto di Parma en verse salie, snel gebakken in boter en afgeblust met witte wijn en kalfsfond tot een zijdezachte, goudgele saus.",
+      "description": "\"Springt in de mond\" — en dat doet het ook. Flinterdun geplet kalfslapje met knapperige prosciutto di Parma en verse salie, snel gebakken in boter en afgeblust met witte wijn en kalfsfond tot een zijdezachte, goudgele saus. De klassieke Römische combinatie die in minder dan 15 minuten op tafel staat.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de saltimbocca",
+          "ingredients": [
+            {
+              "name": "kleine kalfslapjes (elk ca. 80–100 g) of 4 grotere platgeslagen en halveerd",
+              "amount": "8"
+            },
+            {
+              "name": "plakken prosciutto di Parma (aged 18+ maanden)",
+              "amount": "8"
+            },
+            {
+              "name": "verse salieblaadjes (2 per stuk)",
+              "amount": "16"
+            },
+            {
+              "name": "bloem + extra vergine olijfolie + roomboter",
+              "amount": "2 el + 2 el + 30 g"
+            },
+            {
+              "name": "witte peper (zout nauwelijks — prosciutto is al zout)",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de witte wijnsaus",
+          "ingredients": [
+            {
+              "name": "kleine sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "150 ml"
+            },
+            {
+              "name": "kalfsfond of lichte kippenfond",
+              "amount": "120 ml"
+            },
+            {
+              "name": "koude roomboter, in blokjes",
+              "amount": "50 g"
+            },
+            {
+              "name": "vers citroensap + zout en witte peper",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "extra verse salieblaadjes (kort gebakken — krokant), fijne citroenzeste",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kalfslapjes bereiden",
+          "description": "tussen plasticfolie platslaan tot 3–4 mm. Op elk lapje 2 salieblaadjes, dan 1 plak prosciutto. Aandrukken. Eventueel vastzetten met tandenstoker. Vleeskant bestrijken met bloem. Snuf witte peper."
+        },
+        {
+          "action": "Bakken",
+          "description": "olijfolie + boter in koekenpan op middelhoog tot hoog vuur. Wachten tot boter schuimt en wegtrekt. Saltimbocca met PROSCIUTTO-KANT NAAR BENEDEN. 1,5–2 minuten — niet bewegen. Prosciutto wordt knapperig en goudbruin."
+        },
+        {
+          "action": "Omdraaien",
+          "description": "voorzichtig omdraaien. Vleeskant nog 1 minuut. Direct uit de pan en warm houden."
+        },
+        {
+          "action": "Saus",
+          "description": "sjalot 30 seconden fruiten in het bakvet. Witte wijn toevoegen — aanbaksels losroeren. 2 minuten inkoken tot helft. Kalfsfond toevoegen. Nog 2 minuten inkoken."
+        },
+        {
+          "action": "Boter monteren",
+          "description": "van vuur halen. Koude boterblokjes één voor één al ronddraaiend monteren. Citroensap toevoegen. Op smaak brengen."
+        },
+        {
+          "action": "Krokante salie",
+          "description": "extra salieblaadjes 20–30 seconden in klein klontje boter op hoog vuur tot krokant en donkergroen."
+        },
+        {
+          "action": "Opbouw",
+          "description": "saltimbocca prosciutto-kant omhoog, licht gevouwen op bord. Witte wijnsaus rondom en deels over het vlees. Krokant saliebladje op elk stuk. Citroenzeste raspen direct boven bord."
+        }
+      ],
+      "tips": [
+        "Mise-en-place: kalfslapjes van tevoren uitslaan en beleggen. Saus pas na het bakken in dezelfde pan.",
+        "Prosciutto-kant eerst: de prosciutto bakt knapperig en geeft zijn smaak aan het bakvet — dat wordt de basis van de saus.",
+        "Nooit te lang bakken: 3 minuten totaal is genoeg voor 3–4 mm kalfsvlees. Iedere extra minuut = droog en taai.",
+        "Witte wijn vs Marsala: witte wijn is authentiek Römisch — fris en elegant. Marsala geeft rijkere, lichtzoete saus.",
+        "Variatie — Marsala: vervang witte wijn door 90 ml Marsala voor een diepere, licht zoete jus.",
+        "Variatie — spinazie: small nestje geslonken spinazie in knoflookboter ernaast — subtiel en Italiaans.",
+        "Alternatief kalfsfond: gebruik lichte kippenfond + paar druppels Worcestershire sauce voor extra umami."
+      ],
+      "wine": {
+        "naam": "Vernaccia di San Gimignano DOCG — Toscana",
+        "druif": "Vernaccia",
+        "toelichting": "Droog, fris, licht mineraal, subtiele bitterheid in afdronk, elegant. Frisse zuren sluiten aan op witte wijnsaus en citroensap. Subtiele bitterheid complementeert prosciutto en salie.",
+        "alternatief": "Frascati Superiore (lokaal Römisch) of Soave Classico"
+      }
+    },
+    {
+      "title": "Passato di Pomodoro — de perfecte Italiaanse tomatensoep",
+      "slug": "passato-di-pomodoro-italiaanse-tomatensoep",
+      "location": "Toscana",
+      "time": "30 min actief + 40 min roosteren + 45 min sudderen",
+      "servings": "4 voorgerechten",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "soep",
+      "image": "/assets/images/passato-di-pomodoro-italiaanse-tomatensoep.jpg",
+      "short_description": "Vijf geheimen die samen het verschil maken: geroosterde cherrytomaatjes voor zoetheid, gekaramelliseerde tomatenpuree voor diepte, een Parmigiano-korst voor umami, een fijne zeef voor de restauranttextuur en zelfgemaakte basilicumolie als finishing.",
+      "description": "De soep die je in de beste Italiaanse restaurants krijgt en nooit thuis leek te kunnen namaken. Vijf geheimen die samen het verschil maken: geroosterde cherrytomaatjes voor zoetheid, gekaramelliseerde tomatenpuree voor diepte, een Parmigiano-korst voor umami, passage door een fijne zeef voor de restauranttextuur en zelfgemaakte basilicumolie als finishing.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de geroosterde cherrytomaatjes (geheim nr. 1)",
+          "ingredients": [
+            {
+              "name": "cherrytomaatjes, gehalveerd",
+              "amount": "400 g"
+            },
+            {
+              "name": "extra vergine olijfolie + teentjes knoflook gekneusd",
+              "amount": "3 el + 2"
+            },
+            {
+              "name": "fijne kristalsuiker + zout en peper",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de soepbasis",
+          "ingredients": [
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "3 el"
+            },
+            {
+              "name": "middelgrote ui + kleine wortel + stengel bleekselderij + teentjes knoflook, fijn gesneden",
+              "amount": "1 + 1 + 1 + 3"
+            },
+            {
+              "name": "dubbel geconcentreerde tomatenpuree (concentrato doppio)",
+              "amount": "2 el"
+            },
+            {
+              "name": "San Marzano tomaten DOP uit blik (Mutti of La Fiammante — niet vervangen)",
+              "amount": "800 g"
+            },
+            {
+              "name": "stuk Parmigiano Reggiano-korst (ca. 5x5 cm — essentieel)",
+              "amount": "1"
+            },
+            {
+              "name": "lichte groente- of kippenbouillon + basilicumsteeltje",
+              "amount": "300 ml + 1"
+            },
+            {
+              "name": "fijne kristalsuiker + zeezout en zwarte peper",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de basilicusolie (geheim nr. 4)",
+          "ingredients": [
+            {
+              "name": "ruime hand verse basilicumblaadjes + milde extra vergine olijfolie + snuf zout",
+              "amount": "1 + 60 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de finishing",
+          "ingredients": [
+            {
+              "name": "koude roomboter + paar druppels rodewijnazijn",
+              "amount": "20 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de broodcrunch (optioneel)",
+          "ingredients": [
+            {
+              "name": "sneden ciabatta in stukjes, gebakken in olijfolie, fleur de sel",
+              "amount": "1–2"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "basilicumolie, kleine verse basilicumblaadjes, eventueel dun geschaafde Parmigiano",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Roosteren",
+          "description": "oven 160°C. Cherrytomaatjes + olijfolie + knoflook + suiker + zout + peper. 40 minuten roosteren tot geconcentreerd en licht gekaramelliseerd. Alle bakjus bewaren."
+        },
+        {
+          "action": "Soffritto",
+          "description": "ui, wortel, bleekselderij en knoflook in olijfolie 15–20 minuten op laag vuur. Niet laten kleuren."
+        },
+        {
+          "action": "Tomatenpuree karameliseren (geheim nr. 2)",
+          "description": "vuur middelhoog. Tomatenpuree 2–3 minuten al roerend bakken tot donkerder en karamelachtig van geur."
+        },
+        {
+          "action": "Sudderen",
+          "description": "San Marzano tomaten (fijngekneped) + geroosterde cherrytomaatjes met bakjus toevoegen. Bouillon erbij. Parmigiano-korst in soep (geheim nr. 3). Basilicumsteeltje, suiker en zout toevoegen. Zachtjes aan de kook. 45 minuten zacht sudderen, deksel half op de pan. Niet hard koken."
+        },
+        {
+          "action": "Basilicusolie",
+          "description": "basilicumblaadjes 10 sec blancheren. Afschrikken in ijswater. Uitknijpen. Blenden met olijfolie en zout. Eventueel zeven."
+        },
+        {
+          "action": "Zeven (geheim nr. 5)",
+          "description": "Parmigiano-korst en basilicumsteeltje verwijderen. Blenden (2 minuten). Door fijne zeef persen. Te dik? Verdunnen met bouillon."
+        },
+        {
+          "action": "Finishing",
+          "description": "op laag vuur. Koude boterblokjes erdoor. Paar druppels rodewijnazijn als finishing. Definitief op smaak brengen."
+        },
+        {
+          "action": "Broodcrunch",
+          "description": "ciabattastukjes in olijfolie goudbruin bakken. Uitlekken. Fleur de sel."
+        },
+        {
+          "action": "Serveren",
+          "description": "soep niet te vol in warme borden. Basilicusolie als spiraal. Broodcrunch losjes. Eventueel Parmigiano-schaafsel."
+        }
+      ],
+      "tips": [
+        "Soep wordt beter na een paar uur: maak de soepbasis van tevoren. Na 2–3 uur rusten zijn smaken dieper. Basilicusolie pas bij het serveren.",
+        "Zeef nooit overslaan: dit is het restaurantgeheim. De passage door de zeef geeft de fluweelzachte textuur.",
+        "Niet te veel kruiden: goede Italiaanse tomatensoep smaakt naar tomaat, olijfolie en basilicum — geen oregano of kruidenmix.",
+        "Azijn gedoceerd: paar druppels maakt de tomatensmaak helderder zonder zuur te smaken.",
+        "Variatie — pappa al pomodoro: oud Toscaans brood toevoegen tijdens sudderen voor dikkere Toscaanse versie.",
+        "Variatie — romiger: extra klontje koude boter vlak voor serveren. Nooit room — room dempt de tomatensmaak.",
+        "Alternatief tomaten: geen San Marzano DOP? Gebruik de beste hele gepelde tomaten die je kunt vinden. Vermijd goedkope passata."
+      ],
+      "wine": {
+        "naam": "Bardolino Classico DOC — Veneto",
+        "druif": "Corvina, Rondinella, Molinara",
+        "toelichting": "Licht, fris, sappig, rood fruit, lage tannines, levendige zuren. Bijna als een volle rosé. Licht gekoeld serveren op 14°C. Levendige zuren spiegelen tomatenzuurheid. Lichte body overstem delicate tomatensmaak niet.",
+        "alternatief": "Sangiovese di Romagna of Vermentino"
+      }
+    },
+    {
+      "title": "Minestrone di Verdure — de perfecte Italiaanse groentesoep",
+      "slug": "minestrone-di-verdure-italiaanse-groentesoep",
+      "location": "Italië",
+      "time": "20 min actief + 45 min sudderen",
+      "servings": "4 voorgerechten",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "soep",
+      "image": "/assets/images/minestrone-di-verdure-italiaanse-groentesoep.jpg",
+      "short_description": "Een lichte, diepe Italiaanse groentesoep die smaakt naar verse groenten, goede olijfolie en zachte kruiden — en nooit meer naar een blokje. Het geheim: trage soffritto, Parmigiano-korst voor umami en zelfgemaakte basilicusolie als finishing.",
+      "description": "Een lichte, diepe Italiaanse groentesoep die smaakt naar verse groenten, goede olijfolie en zachte kruiden — en nooit meer naar een blokje. Het geheim: een trage soffritto, een Parmigiano-korst voor umami, verse tijm en rozemarijn voor Italiaans karakter, en een zelfgemaakte basilicusolie als finishing.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de soep",
+          "ingredients": [
+            {
+              "name": "soepgroente (wortel, prei, bleekselderij, knolselderij, peterseliewortel)",
+              "amount": "400–500 g"
+            },
+            {
+              "name": "kleine ui + teentjes knoflook, fijn gesneden",
+              "amount": "1 + 3"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "3 el"
+            },
+            {
+              "name": "dubbel geconcentreerde tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "tomatenblokjes (vers of uit blik)",
+              "amount": "150 g"
+            },
+            {
+              "name": "takje verse tijm + takje verse rozemarijn + laurierblad",
+              "amount": "1 + 1 + 1"
+            },
+            {
+              "name": "stuk Parmigiano Reggiano-korst (5x5 cm — essentieel)",
+              "amount": "1"
+            },
+            {
+              "name": "goede groente- of kippenbouillon (warm)",
+              "amount": "1 liter"
+            },
+            {
+              "name": "verse spinazie of cavolo nero (optioneel — laatste minuut)",
+              "amount": "100 g"
+            },
+            {
+              "name": "fijn gesneden platte peterselie (vlak voor serveren)",
+              "amount": "1 el"
+            },
+            {
+              "name": "paar druppels rodewijnazijn of witte wijnazijn (finishing)",
+              "amount": ""
+            },
+            {
+              "name": "zeezout en versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de basilicusolie",
+          "ingredients": [
+            {
+              "name": "ruime hand verse basilicumblaadjes + milde extra vergine olijfolie + snuf zout",
+              "amount": "1 + 60 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "basilicusolie, extra vergine olijfolie (rauw), dun geschaafde Parmigiano, zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "Optioneel: tl pesto Genovese per kom als Liguriaanse finishing",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Soffritto",
+          "description": "ui en hardste groenten (wortel, knolselderij) in olijfolie 12–15 minuten op laag vuur. Niet laten kleuren. Knoflook toevoegen en 2 minuten meefruiten."
+        },
+        {
+          "action": "Tomatenpuree",
+          "description": "vuur middelhoog. Tomatenpuree 1–2 minuten al roerend bakken tot donkerder. Tomatenblokjes toevoegen. 3–4 minuten zacht bakken."
+        },
+        {
+          "action": "Sudderen",
+          "description": "zachtere soepgroenten (prei, bleekselderij) toevoegen. Warme bouillon erbij. Parmigiano-korst, tijm, rozemarijn en laurier in de soep. Zacht aan de kook. 15 minuten rustig trekken."
+        },
+        {
+          "action": "Afmaken",
+          "description": "resterende soepgroente toevoegen. 8–12 minuten zacht koken tot gaar maar nog vorm en bite. Parmigiano-korst en kruiden verwijderen."
+        },
+        {
+          "action": "Finishing",
+          "description": "paar druppels azijn toevoegen. Definitief op smaak brengen. Eventueel spinazie of cavolo nero toevoegen en 1–2 minuten laten slinken. Peterselie vlak voor serveren door de soep roeren."
+        },
+        {
+          "action": "Basilicusolie",
+          "description": "basilicumblaadjes 10 sec blancheren. Afschrikken. Uitknijpen. Blenden met olijfolie en zout. Eventueel zeven."
+        },
+        {
+          "action": "Serveren",
+          "description": "soep in warme kommen. Basilicusolie als groene spiraal. Optioneel: tl pesto in midden — niet roeren, laat aan tafel smelten. Rauwe olijfolie. Parmigiano-schaafsel. Peper."
+        }
+      ],
+      "tips": [
+        "Bouillon vooraf — groente later: maak de basisbouillon met Parmigiano-korst en kruiden van tevoren. Soepgroente pas 10 minuten voor serveren toevoegen — zo blijft alles fris en niet kapotgekookt.",
+        "Soffritto is alles: 12–15 minuten op echt laag vuur. 5 minuten op hoog vuur geeft een vlakke, scherpe basis.",
+        "Parmigiano-korst: nooit overslaan. Geeft onzichtbare umami-diepte. Bewaar altijd in de vriezer.",
+        "Soepgroente kleiner snijden: grotere stukken kleiner snijden voor elegantere, meer restaurantachtige structuur.",
+        "Azijn als finishing: paar druppels maakt groentesmaak helderder zonder zuur te smaken.",
+        "Variatie — pesto Genovese: een theelepel goede pesto per kom als finishing geeft een Liguriaans karakter.",
+        "Variatie — cannellini: blik uitgelekte cannellini bonen toevoegen voor een vollere maaltijdsoep. Prak een derde voor romigheid."
+      ],
+      "wine": {
+        "naam": "Orvieto Classico DOC — Umbria",
+        "druif": "Trebbiano Toscano, Grechetto, Verdello",
+        "toelichting": "Droog, fris, licht bloemig, subtiel fruitig, elegante mineraliteit. Frisse zuren complementeren lichte tomatenbasis en groenten. Mineraliteit sluit aan bij Parmigiano en rauwe olijfolie.",
+        "alternatief": "Vermentino of Soave Classico"
+      }
+    },
+    {
+      "title": "Gamba met sambal toatjo — dunne sambalsaus, fris komkommeraccent en citrusolie",
+      "slug": "gamba-sambal-toatjo-komkommer-citrusolie",
+      "location": "Jakarta",
+      "time": "35 min",
+      "servings": "4 voorgerechten (3 gambas pp)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/gamba-sambal-toatjo-komkommer-citrusolie.jpg",
+      "short_description": "Sappige pan-seared gambas op een dunne, glanzende sambal toatjo-saus van gefermenteerde sojabonen, ketjap manis en kippenbouillon. Licht, hartig, licht pittig en vol umami. Fris komkommeraccent met lente-ui en koriander als tegenwicht.",
+      "description": "Sappige pan-seared gambas op een dunne, glanzende sambal toatjo-saus van gefermenteerde sojabonen, ketjap manis en kippenbouillon. Licht, hartig, licht pittig en vol umami. Een fris komkommeraccent met lente-ui en koriander als tegenwicht. Citrusolie als aromatische finishing.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de gambas",
+          "ingredients": [
+            {
+              "name": "grote rauwe gambas (gepeld, ontdarmd, staartje aan)",
+              "amount": "12"
+            },
+            {
+              "name": "neutrale olie + roomboter (aan het einde) + zout en witte peper",
+              "amount": "1 el + 15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de dunne sambal toatjo-saus",
+          "ingredients": [
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "teentje knoflook, fijn gehakt + geraspte verse gember",
+              "amount": "1 + 1 tl"
+            },
+            {
+              "name": "taotjo (gefermenteerde gele sojabonen — toko of Aziatische supermarkt), fijn gehakt",
+              "amount": "1½ el"
+            },
+            {
+              "name": "sambal oelek + tomatenpuree",
+              "amount": "1 tl + 1 tl"
+            },
+            {
+              "name": "lichte kippenbouillon",
+              "amount": "150 ml"
+            },
+            {
+              "name": "ketjap manis (essentieel — geeft zoet-hartige Indonesische diepte)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lichte sojasaus + suiker + limoensap (aan het einde)",
+              "amount": "1 tl + ½ tl + 1 tl"
+            },
+            {
+              "name": "eventueel: maizena in koud water voor heel lichte binding",
+              "amount": "½ tl in 1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het frisse komkommeraccent",
+          "ingredients": [
+            {
+              "name": "komkommer (zaadjes verwijderd, in dunne linten of halve maantjes)",
+              "amount": "½"
+            },
+            {
+              "name": "lente-uitjes in schuine ringen + rode prik in dunne ringen",
+              "amount": "2 + 1"
+            },
+            {
+              "name": "verse korianderblaadjes + rijstazijn + snuf zout en suiker",
+              "amount": "enkele + 1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de citrusolie",
+          "ingredients": [
+            {
+              "name": "sap en rasp van 1 limoen + neutrale/milde olijfolie + suiker + snuf zout",
+              "amount": "3 el + ½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "microgreens of waterkers, extra limoenzeste, eventueel druppels chiliolie",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Saus",
+          "description": "olie in pan. Sjalot, knoflook en gember 1–2 minuten fruiten. Taotjo, sambal en tomatenpuree toevoegen. 1 minuut meebakken. Bouillon, ketjap, sojasaus en suiker toevoegen. 5–6 minuten zacht trekken. Limoensap als allerlaatste. Op smaak brengen. Eventueel licht binden."
+        },
+        {
+          "action": "Komkommeraccent",
+          "description": "komkommer + rijstazijn + zout + suiker mengen. Lente-ui, rode prik en koriander toevoegen. 15 minuten marineren in koelkast."
+        },
+        {
+          "action": "Citrusolie",
+          "description": "limoensap + limoenrasp + olie + suiker + zout kloppen tot lichte aromatische dressing."
+        },
+        {
+          "action": "Gambas bakken",
+          "description": "grondig droogdeppen. Op smaak met zout en witte peper. Pan op hoog vuur. Olie erin. Gambas 45–60 SECONDEN per kant — exact. Boter toevoegen de laatste 15 seconden. Direct uit pan."
+        },
+        {
+          "action": "Opbouw",
+          "description": "dunne laag warme saus op bord. 3 gambas erop. Komkommeraccent naast de gambas. Citrusolie rondom druppelen. Microgreens, limoenzeste en chiliolie als finishing."
+        }
+      ],
+      "tips": [
+        "45–60 seconden per kant: de enige regel voor gambas. Verschil tussen sappig en rubberig is letterlijk één minuut.",
+        "Taotjo-balans: taotjo is zout en gefermenteerd. Begin met minder en voeg meer toe. Te veel maakt de saus zwaar en dominant.",
+        "Saus dun houden: de saus is een hartige bouillonachtige drager — geen dikke sambalsaus. Gambas zijn de hoofdrol.",
+        "Komkommer is essentieel: het frisse knapperige accent tilt het zoute en pittige van de saus omhoog.",
+        "Variatie — kokosmelk: voeg 2 el kokosmelk toe voor een zachtere, romigere versie. Minder puur maar lekker in de winter.",
+        "Variatie — langoustines: vervang gambas door langoustines voor een luxere, verfijndere versie.",
+        "Alternatief taotjo: 2 el shiro miso + 1 el lichte sojasaus. Minder complex maar vergelijkbare fermentatie-umami."
+      ],
+      "wine": {
+        "naam": "Assyrtiko — Santorini",
+        "druif": "Assyrtiko",
+        "toelichting": "Droog, hoge zuurgraad, vulkanisch mineraal, licht ziltig, citrus. Vulkanische mineraliteit en hoge zuren snijden door rijkdom van taotjo-saus en boter. Zilte karakter resoneert direct met de gamba.",
+        "alternatief": "Picpoul de Pinet of Godello (Galicië)"
+      }
+    },
+    {
+      "title": "Indonesisch soepje met Zeeuwse mosselen, kokos en sambal",
+      "slug": "indonesisch-soepje-mosselen-kokos-sambal",
+      "location": "Java",
+      "time": "40 min",
+      "servings": "4 voorgerechten",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "soep",
+      "image": "/assets/images/indonesisch-soepje-mosselen-kokos-sambal.jpg",
+      "short_description": "Een licht Indonesisch soepje met Zeeuwse mosselen in een geurige, romige kokos-citroengrasboullion — opgekookt met verse sambalpasta, kaffir limoen en het eigen mosselvocht. Fris, licht pittig en zacht romig.",
+      "description": "Een licht Indonesisch soepje met Zeeuwse mosselen in een geurige, romige kokos-citroengrasboullion — opgekookt met vers gemaakte sambalpasta, kaffir limoen en het eigen mosselvocht. Fris, licht pittig en zacht romig. Geserveerd over een knapperig nestje van prei, wortel en taugé. Opgeschuimd voor de finishing touch.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de mosselen",
+          "ingredients": [
+            {
+              "name": "Zeeuwse mosselen, schoongemaakt",
+              "amount": "500 g"
+            },
+            {
+              "name": "kokkels (optioneel)",
+              "amount": "200 g"
+            },
+            {
+              "name": "droge witte wijn + sjalot grof gesneden",
+              "amount": "100 ml + 1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de verse sambalpasta",
+          "ingredients": [
+            {
+              "name": "rode chilipeper + teentje knoflook + kleine sjalot",
+              "amount": "1 + 1 + 1"
+            },
+            {
+              "name": "tomatenpuree + geraspte gember",
+              "amount": "1 tl + 1 tl"
+            },
+            {
+              "name": "rijstazijn + rasp van ½ limoen + neutrale olie + snuf zout",
+              "amount": "1 tl + 1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de kokos-citroengrassoep",
+          "ingredients": [
+            {
+              "name": "neutrale olie + sjalotten fijn gesnipperd",
+              "amount": "1 el + 2"
+            },
+            {
+              "name": "verse gember geraspt + stengels citroengras gekneusd + kaffir limoenblaadjes",
+              "amount": "2 cm + 2 + 3"
+            },
+            {
+              "name": "verse sambalpasta",
+              "amount": "1½ el"
+            },
+            {
+              "name": "lichte kippenbouillon + volle kokosmelk + slagroom",
+              "amount": "300 ml + 150 ml + 100 ml"
+            },
+            {
+              "name": "gezeefd mosselvocht",
+              "amount": "100 ml"
+            },
+            {
+              "name": "lichte sojasaus + rijstazijn + limoensap (aan het einde)",
+              "amount": "1 tl + 1 tl + 1 tl"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het groentennestje",
+          "ingredients": [
+            {
+              "name": "prei in zeer fijne ringen + kleine wortel in fijne julienne",
+              "amount": "½ + 1"
+            },
+            {
+              "name": "verse taugé + lente-ui in schuine ringen",
+              "amount": "100 g + 1"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse korianderblaadjes, fijne limoenzeste, eventueel dunne ringen rode prik",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Sambalpasta",
+          "description": "blend chilipeper, knoflook, sjalot, tomatenpuree, gember, rijstazijn, limoenrasp, olie en zout tot grove geuriger pasta."
+        },
+        {
+          "action": "Mosselen stomen",
+          "description": "witte wijn + sjalot in grote pan aan de kook. Mosselen (en kokkels) toevoegen. 2–3 minuten stomen tot net open. Eruit scheppen. Kookvocht zeven — 100 ml bewaren. Mosselen uit de schelpen halen. Paar mooie schelpen bewaren."
+        },
+        {
+          "action": "Soep",
+          "description": "olie op middelhoog vuur. Sjalotten, gember, citroengras en kaffir limoenblaadjes 2 minuten fruiten. Sambalpasta toevoegen. 1 minuut meebakken."
+        },
+        {
+          "action": "Bouillon",
+          "description": "kippenbouillon, kokosmelk, slagroom en mosselvocht toevoegen. Zachtjes aan de kook. 10 minuten rustig trekken — niet hard koken. Door fijne zeef zeven. Sojasaus, rijstazijn en limoensap toevoegen. Op smaak brengen."
+        },
+        {
+          "action": "Groentennestje",
+          "description": "prei, wortel en taugé 30 sec blancheren. Direct koud spoelen. Of rauw en fijn gesneden gebruiken."
+        },
+        {
+          "action": "Schuim",
+          "description": "soep vlak voor serveren tot net onder kookpunt verhitten. Staafmixer schuin aan oppervlak houden. 20–30 seconden krachtig blenderen. Mosselen en kokkels in warme soep — 30–60 sec opwarmen."
+        },
+        {
+          "action": "Opbouw",
+          "description": "groentennestje in midden van warm diep bord. Mosselen en kokkels erop. Hete soep PAS OP HET ALLERLAATSTE MOMENT rondomheen schenken. Schuim erop. Garneren."
+        }
+      ],
+      "tips": [
+        "Mosselvocht is goud: nooit weggooien — het geeft de soep zijn diepte en zilte karakter.",
+        "Mosselen nooit te lang: zodra ze opengaan zijn ze klaar. Opwarmen in soep: maximaal 60 seconden.",
+        "Sambalpasta doseren: begin met 1 el in de soep. Proef en voeg meer toe. Zo houd je controle over pit en zoutigheid.",
+        "Schuim op het laatste moment: altijd direct voor serveren opschuimen.",
+        "Tip — voorgekookte mosselen: vacuumverpakte of diepgevroren voorgekookte mosselen. Alleen opwarmen. Mosselvocht vervangen door kippenbouillon + 1 tl vissaus.",
+        "Variatie: vervang kokkels door kleine vongole voor extra zilte elegantie.",
+        "Alternatief groenten: fijne soepgroente + taugé apart toegevoegd voor frisheid."
+      ],
+      "wine": {
+        "naam": "Viognier — Pays d'Oc",
+        "druif": "Viognier",
+        "toelichting": "Vol, aromatisch, abrikoos, witte bloesem, tropische tonen, zachte zuren. Tropische tonen sluiten aan op kokosmelk, citroengras en kaffir limoen. Zachte zuren spiegelen limoensap. Vol genoeg voor romige bouillon.",
+        "alternatief": "Gewurztraminer d'Alsace of Vermentino"
+      }
+    },
+    {
+      "title": "Schelpjes en escabeche — mosselen en kokkels met sushiazijn-escabeche en kappertjes",
+      "slug": "schelpjes-escabeche-mosselen-kokkels-sushiazijn",
+      "location": "Zeeland",
+      "time": "45 min + 20 min marineren",
+      "servings": "4 voorgerechten",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/schelpjes-escabeche-mosselen-kokkels-sushiazijn.jpg",
+      "short_description": "Gestoomde Zeeuwse mosselen en kokkels gemarineerd in een aromatische, dunne escabeche van rode en gele paprika, sushiazijn en geroosterd komijn — het schelpenvocht geeft de saus zilte diepte.",
+      "description": "Gestoomde Zeeuwse mosselen en kokkels gemarineerd in een aromatische, dunne escabeche van rode en gele paprika, sushiazijn en een vleugje geroosterd komijn — het schelpenvocht geeft de saus zilte diepte. Gefrituurde kappertjes voor krokante spanning, gemarineerde avocado voor romige frisheid.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de mosselen en kokkels",
+          "ingredients": [
+            {
+              "name": "Zeeuwse mosselen + kokkels, schoongemaakt",
+              "amount": "400 g + 300 g"
+            },
+            {
+              "name": "droge witte wijn + sjalot grof gesneden + teentje knoflook + zwarte peper",
+              "amount": "100 ml + 1 + 1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de escabeche",
+          "ingredients": [
+            {
+              "name": "extra vergine olijfolie (voor het bakken)",
+              "amount": "3 el"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "teentjes knoflook, zeer fijn gehakt",
+              "amount": "2"
+            },
+            {
+              "name": "rode paprika + gele paprika, in fijne brunoise (3–4 mm blokjes)",
+              "amount": "½ + ½"
+            },
+            {
+              "name": "komijnzaad (geroosterd en licht gekneusd)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "klein laurierblaadje + klein takje tijm",
+              "amount": "1 + 1"
+            },
+            {
+              "name": "gezeefd schelpenkookvocht (essentieel voor zilte diepte)",
+              "amount": "80 ml"
+            },
+            {
+              "name": "sushiazijn (geeft milde licht zoete zuurheid — niet vervangen)",
+              "amount": "80 ml"
+            },
+            {
+              "name": "droge witte wijn + fijne suiker",
+              "amount": "50 ml + ½ tl"
+            },
+            {
+              "name": "cayennepeper + zout (voorzichtig — schelpenvocht is al zout)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "extra vergine olijfolie (rauw, als finishing)",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tomatenbrunoise",
+          "ingredients": [
+            {
+              "name": "grote rijpe tomaat — ontveld, zaadjes verwijderd, fijne brunoise + snuf zout + druppels olijfolie",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gefrituurde kappertjes",
+          "ingredients": [
+            {
+              "name": "kleine kappertjes, afgespoeld en grondig drooggedept",
+              "amount": "2 el"
+            },
+            {
+              "name": "neutrale olie (180°C)",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gemarineerde avocado",
+          "ingredients": [
+            {
+              "name": "rijpe avocado in blokjes van 1 cm + olijfolie + citroensap + witte peper + fleur de sel",
+              "amount": "1 + 1 el + 1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "kleine basilicumblaadjes, platte peterselie of cress, goede olijfolie (rauw), eventueel citroenrasp",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Komijn roosteren",
+          "description": "30 sec roosteren in droge pan tot geurend. Licht kneuzen in vijzel. Subtiel doseren."
+        },
+        {
+          "action": "Mosselen en kokkels stomen",
+          "description": "witte wijn + sjalot + knoflook + peper in grote pan. Aan de kook. Mosselen en kokkels toevoegen. 2–3 minuten stomen tot net open. Eruit scheppen. Kookvocht zeven — 80 ml bewaren. Tweederde schelpen uit de schelp halen. Mooiste exemplaren in de schelp bewaren."
+        },
+        {
+          "action": "Escabeche",
+          "description": "3 el olijfolie in kleine pan. Sjalot, knoflook, rode en gele paprikabrunoise, laurier, tijm en komijn 3–4 minuten zacht fruiten. Groenten iets zachter maar fris van kleur."
+        },
+        {
+          "action": "Saus bouwen",
+          "description": "schelpenvocht + sushiazijn + witte wijn + suiker + cayennepeper toevoegen. 2–3 minuten zacht trekken. Voorzichtig op smaak met zout. Laurier en tijm verwijderen."
+        },
+        {
+          "action": "Marineren",
+          "description": "losse schelpen aan de WARME ESCABECHE toevoegen. 15–20 MINUTEN MARINEREN. Niet doorkoken. Af en toe voorzichtig omroeren."
+        },
+        {
+          "action": "Rauwe olijfolie",
+          "description": "2 el rauwe olijfolie vlak voor serveren door escabeche roeren."
+        },
+        {
+          "action": "Tomaat",
+          "description": "kruisingsnede, 10 sec in kokend water, koud spoelen. Ontvellen, zaadjes verwijderen, fijne brunoise. Licht bestrooien met zout + druppels olijfolie."
+        },
+        {
+          "action": "Kappertjes frituren",
+          "description": "extreem grondig droogdeppen. Frituren op 180°C tot opengebloeid (1–2 min). Uitlekken. PAS OP ALLERLAATSTE MOMENT toevoegen."
+        },
+        {
+          "action": "Avocado",
+          "description": "blokjes voorzichtig mengen met olijfolie, citroensap, witte peper en fleur de sel. Pas vlak voor serveren bereiden."
+        },
+        {
+          "action": "Opbouw",
+          "description": "dunne gelijkmatige laag escabeche met paprikabrunoise op elk koud bord. Schelpen losjes erop. Avocado en tomatenbrunoise ertussendoor. Op allerlaatste moment KAPPERTJES, basilicum, peterselie en olijfolie als finishing."
+        }
+      ],
+      "tips": [
+        "Schelpenvocht is goud: nooit weggooien — geeft de escabeche zilte diepte die olijfolie en azijn alleen niet bereiken.",
+        "Sushiazijn is essentieel: geeft een mildere, licht zoete zuurheid die de escabeche eleganter maakt dan witte wijnazijn.",
+        "Komijn subtiel doseren: een halve theelepel is genoeg. Te veel overheerst de delicate schelpen.",
+        "Kappertjes op het allerlaatste moment: zelfs 2 minuten in de vochtige saus maakt ze zacht.",
+        "Tip — voorgekookte mosselen: gebruik vacuumverpakte mosselen en kokkels. Marineren in warme escabeche 10 minuten. Schelpenvocht vervangen door kippenbouillon + 1 tl vissaus.",
+        "Variatie — scheerenmessen: voeg ½ kg scheerenmessen toe als luxere versie. Aanzetten in hete olie met knoflook en tijm, blussen met witte wijn, 1 minuut afgaren.",
+        "Variatie — venkellinten: flinterdunne venkellinten geven crunch en subtiele anijsachtige frisheid."
+      ],
+      "wine": {
+        "naam": "Picpoul de Pinet AOP — Languedoc",
+        "druif": "Picpoul Blanc",
+        "toelichting": "Droog, extreem fris, hoge zuurgraad, licht ziltig, citrus, mineraal. Hoge zuurgraad spiegelt sushiazijn en snijdt door olijfolie. Zilte mineraliteit resoneert met mosselen en kokkels.",
+        "alternatief": "Muscadet Sèvre et Maine sur Lie of Soave Classico"
+      }
+    },
+    {
+      "title": "Thai Beef Rolletjes met groene currycrème, Thai vinaigrette en cashew",
+      "slug": "thai-beef-rolletjes-groene-currycreme-cashew",
+      "location": "Thailand",
+      "time": "45 min",
+      "servings": "4 voorgerechten (2–3 rolletjes pp)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "vlees",
+      "image": "/assets/images/thai-beef-rolletjes-groene-currycreme-cashew.jpg",
+      "short_description": "Flinterdunne plakjes rosbief gevuld met knapperige gemarineerde groentjes, verse munt en koriander — strak opgerold en geserveerd op een streep romige groene currycrème. Afgewerkt met een frisse Thai vinaigrette, grof gehakte cashewnoten en verse kruiden.",
+      "description": "Flinterdunne plakjes rosbief gevuld met knapperige gemarineerde groentjes, verse munt en koriander — strak opgerold en geserveerd op een streep romige groene currycrème. Afgewerkt met een frisse Thai vinaigrette, grof gehakte cashewnoten en verse kruiden. Licht, pittig en verrassend verfijnd.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de Thai vinaigrette",
+          "ingredients": [
+            {
+              "name": "vissaus + neutrale olie + milde olijfolie + sesamolie",
+              "amount": "1½ el + 2 el + 1 el + 1 tl"
+            },
+            {
+              "name": "sushiazijn + vers limoensap + citroensap",
+              "amount": "1½ el + 1 el + ½ tl"
+            },
+            {
+              "name": "kleine sjalot + teentje knoflook + gember (allen grof gesneden)",
+              "amount": "1 + ½ + 2 cm"
+            },
+            {
+              "name": "rode chilipeper + kaffir limoenblaadje (fijn gesneden)",
+              "amount": "½ + 1"
+            },
+            {
+              "name": "lichte sojasaus + mirin (of honing) + rasp van ½ limoen",
+              "amount": "1 tl + ½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de groene currycrème",
+          "ingredients": [
+            {
+              "name": "kokosroom (dik — niet kokosmelk)",
+              "amount": "120 ml"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "40 g"
+            },
+            {
+              "name": "groene currypasta (Mae Ploy of Lobo)",
+              "amount": "1–1½ tl"
+            },
+            {
+              "name": "verse korianderblaadjes + rode of groene chilipeper",
+              "amount": "1 el + ½"
+            },
+            {
+              "name": "limoensap + vissaus + lichte sojasaus + honing of palmsuiker",
+              "amount": "1 tl + ½ tl + ½ tl + ½ tl"
+            },
+            {
+              "name": "fijne rasp van ¼ limoen",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de groentevulling",
+          "ingredients": [
+            {
+              "name": "komkommer (zaadjes verwijderd, fijne julienne) + wortel (fijne julienne)",
+              "amount": "½ + 1"
+            },
+            {
+              "name": "lente-ui in schuine ringen + handvol taugé (drooggedept)",
+              "amount": "1 + 1 handvol"
+            },
+            {
+              "name": "enokipaddenstoelen (losgetrokken)",
+              "amount": "50 g"
+            },
+            {
+              "name": "verse muntblaadjes + verse korianderblaadjes",
+              "amount": "1 handvol + 1 handvol"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de rosbief",
+          "ingredients": [
+            {
+              "name": "dun gesneden rosbief van goede kwaliteit (tegen de draad gesneden)",
+              "amount": "160–200 g"
+            },
+            {
+              "name": "rasp van ½ limoen + limoensap + kleine sjalot zeer fijn gesnipperd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse munt + verse koriander (fijn gesneden) + sesamzaad gebrand",
+              "amount": "1 tl + 1 tl + 1 tl"
+            },
+            {
+              "name": "fleur de sel en zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "cashewnoten grof gehakt, verse munt, verse koriander, rode chilipeper, sesamzaad, limoenzeste",
+              "amount": "40 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vinaigrette",
+          "description": "alle ingrediënten in kleine blender of maatbeker. 30–60 seconden blenderen tot dunne aromatische vinaigrette. Eventueel zeven. Proef: fris, zoutig, licht zoet en aromatisch. Voor meer diepte: 1–2 uur laten trekken voor het zeven."
+        },
+        {
+          "action": "Groene currycrème",
+          "description": "kokosroom + crème fraîche + currypasta + koriander + chili + limoensap + vissaus + sojasaus + honing + limoenrasp blenden tot glad. Door fijne zeef. Te dun? 20 minuten koelen — crème wordt vanzelf dikker. Begin met 1 tl currypasta, proef."
+        },
+        {
+          "action": "Groentevulling",
+          "description": "komkommer, wortel, lente-ui, taugé, enoki, munt en koriander mengen. Slechts een paar DRUPPELS vinaigrette — niet nat. Niet te nat = essentieel voor stevige rolletjes."
+        },
+        {
+          "action": "Rosbief marineren",
+          "description": "plakjes plat op werkblad. Bestrooien met limoenrasp, limoensap, sjalot, munt, koriander, sesamzaad, fleur de sel en peper. 5 minuten laten intrekken."
+        },
+        {
+          "action": "Rolletjes vormen",
+          "description": "rosbief plat neerleggen. Kleine hoeveelheid groentevulling op onderste derde. Strak oprollen tot compact cilindertje."
+        },
+        {
+          "action": "Strak afsnijden",
+          "description": "ÉÉN KANT STRAK AFSNIJDEN met scherp mes — dit detail maakt het bord onmiddellijk professioneler en de groente is zichtbaar."
+        },
+        {
+          "action": "Koelen en opbouw",
+          "description": "10 minuten afgedekt in de koelkast — rolletjes blijven beter in vorm. Dikke elegante streep groene currycrème diagonaal over elk koud bord. 2–3 rolletjes DEELS OP, DEELS NAAST de streep — LICHT SCHUIN zodat groente zichtbaar is aan het afgesneden uiteinde. Paar scheutjes vinaigrette rondom. Cashew, munt, koriander, chiliringen, sesamzaad en limoenzeste als finishing."
+        }
+      ],
+      "tips": [
+        "Vinaigrette trekken voor meer diepte: snelle blendermethode werkt prima. Voor meer smaak 1–2 uur laten trekken na het blenderen. Nacht van tevoren is ideaal.",
+        "Currypasta doseren: Mae Ploy en Lobo zijn de beste kant-en-klare opties (toko). Begin altijd met 1 tl. Opbouwen is makkelijker dan terugdraaien.",
+        "Nooit te nat vullen: vinaigrette hoort op het bord, niet in de vulling. Te vochtige groente maakt rolletjes slap en vlees glijdt open.",
+        "Strak afsnijden: nooit overslaan. Dit éne detail maakt het verschil tussen thuis en restaurant.",
+        "Variatie — kort aangebakken biefstuk: gebruik dunne biefstukplakjes, 30 sec per kant in zeer hete pan. Volledig afkoelen. Flinterdun snijden en dan rollen.",
+        "Variatie — groene mango: vervang komkommer door fijn gejulienned groene mango (toko) voor zure, Thaise bite.",
+        "Alternatief cashew: gebruik geroosterde pinda voor directere, streetfood-achtige smaak."
+      ],
+      "wine": {
+        "naam": "Muscat d'Alsace AOC — Alsace",
+        "druif": "Muscat Blanc à Petits Grains",
+        "toelichting": "Droog, zeer aromatisch, lychee, witte roos, tropisch fruit, frisse zuren. Tropische en florale aroma's sluiten aan op koriander, limoen, kokos en groene curry. Frisse zuren snijden door kokosroom en crème fraîche.",
+        "alternatief": "Torrontés (Argentinië, Salta) of Gewurztraminer d'Alsace"
+      }
     }
   ]
 }
