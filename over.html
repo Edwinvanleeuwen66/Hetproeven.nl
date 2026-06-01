@@ -3,11 +3,204 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Over – Het Proeven</title>
+  <title>Over — Het Proeven</title>
+  <meta name="description" content="Ik ben Yoshi. En dit is het kookboek van mijn baasje Edwin. Hij kookt beter dan hij mij uitlaat. En dat zegt wat.">
+  <meta property="og:site_name" content="Het Proeven">
+  <meta property="og:title" content="Over — Het Proeven">
+  <meta property="og:description" content="Ik ben Yoshi. En dit is het kookboek van mijn baasje Edwin.">
+  <link rel="canonical" href="https://www.hetproeven.nl/over.html">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    /* ── Over pagina ── */
+    .over-page { max-width: 860px; margin: 0 auto; }
+
+    /* Hero Yoshi */
+    .yoshi-hero {
+      position: relative;
+      width: 100%;
+      height: 520px;
+      overflow: hidden;
+      background: var(--deep);
+    }
+    .yoshi-hero img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 30%;
+      display: block;
+      transition: transform 8s ease;
+    }
+    .yoshi-hero:hover img { transform: scale(1.04); }
+    .yoshi-hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, rgba(20,10,5,0.1) 0%, rgba(20,10,5,0.65) 100%);
+    }
+    .yoshi-hero-caption {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 32px 44px;
+      color: #fff;
+    }
+    .yoshi-hero-caption .eyebrow {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 8px;
+    }
+    .yoshi-hero-caption h1 {
+      font-family: var(--serif);
+      font-size: clamp(32px, 5vw, 56px);
+      font-weight: 400;
+      line-height: 1.1;
+      margin: 0;
+      text-shadow: 0 2px 20px rgba(0,0,0,0.4);
+    }
+    .yoshi-hero-caption h1 em {
+      font-style: italic;
+      color: #e8c87a;
+    }
+
+    /* Tekst body */
+    .over-tekst {
+      padding: 52px 44px 0;
+      font-size: 17px;
+      line-height: 1.9;
+      color: var(--deep);
+    }
+    .over-tekst p { margin-bottom: 1.4rem; }
+    .over-tekst .drop-cap::first-letter {
+      font-family: var(--serif);
+      font-size: 4.2rem;
+      line-height: 0.72;
+      float: left;
+      padding: 0.3rem 0.5rem 0 0;
+      color: var(--accent);
+    }
+    .over-tekst .signoff {
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: 18px;
+      color: var(--accent);
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 0.5px solid var(--border);
+    }
+
+    /* Gerechten grid */
+    .over-gerechten {
+      padding: 48px 44px;
+    }
+    .over-gerechten h2 {
+      font-family: var(--serif);
+      font-size: 11px;
+      letter-spacing: 3px;
+      color: var(--accent);
+      text-transform: uppercase;
+      margin-bottom: 24px;
+      font-weight: 400;
+    }
+    .gerecht-strip {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .gerecht-foto {
+      position: relative;
+      height: 180px;
+      overflow: hidden;
+      border-radius: 4px;
+      background: var(--deep);
+      display: block;
+      text-decoration: none;
+    }
+    .gerecht-foto img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s ease;
+    }
+    .gerecht-foto:hover img { transform: scale(1.06); }
+    .gerecht-foto-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.6) 0%, transparent 60%);
+      display: flex;
+      align-items: flex-end;
+      padding: 10px 12px;
+    }
+    .gerecht-foto-naam {
+      font-size: 11px;
+      color: rgba(255,255,255,0.9);
+      font-family: var(--sans);
+      letter-spacing: 0.3px;
+      line-height: 1.3;
+    }
+
+    /* Gidsen */
+    .over-gidsen {
+      padding: 0 44px 48px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .gids-kaart {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 28px 24px;
+      text-decoration: none;
+      background: var(--hover);
+      transition: all 0.2s;
+      display: block;
+    }
+    .gids-kaart:hover { border-color: var(--accent); background: #fff; transform: translateY(-2px); }
+    .gids-icoon { font-size: 32px; margin-bottom: 12px; display: block; }
+    .gids-titel {
+      font-family: var(--serif);
+      font-size: 20px;
+      color: var(--deep);
+      margin-bottom: 8px;
+      font-weight: 400;
+    }
+    .gids-beschrijving {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+    .gids-link {
+      font-size: 12px;
+      color: var(--accent);
+      margin-top: 12px;
+      display: block;
+      letter-spacing: 0.5px;
+    }
+
+    /* Divisor */
+    .over-divisor {
+      padding: 0 44px;
+      margin-bottom: 48px;
+      border-top: 0.5px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .yoshi-hero { height: 360px; }
+      .yoshi-hero-caption { padding: 24px 20px; }
+      .over-tekst { padding: 36px 20px 0; font-size: 16px; }
+      .over-gerechten { padding: 36px 20px; }
+      .gerecht-strip { grid-template-columns: repeat(2, 1fr); }
+      .gerecht-strip:last-child .gerecht-foto:last-child { display: none; }
+      .over-gidsen { padding: 0 20px 36px; grid-template-columns: 1fr; }
+      .over-divisor { padding: 0 20px; }
+    }
+  </style>
 </head>
 <body>
 
@@ -15,34 +208,90 @@
     <a href="/" class="logo">Het Proeven</a>
     <div class="nav-links">
       <a href="/">Recepten</a>
+      <a href="/wijnspijs-gids.html">Wijn & Spijs</a>
+      <a href="/sterrenkok-gids.html">Sterrenkok</a>
       <a href="/over.html">Over</a>
     </div>
   </nav>
 
-  <div class="over-hero">
-    <img src="/assets/images/yoshi.jpg" alt="Yoshi — hoofd-proever en chef-kok" class="over-foto">
-  </div>
+  <div class="over-page">
 
-  <div class="over-body">
-    <h1>Ik ben Yoshi.<br>En dit is het kookboek<br>van mijn baasje Edwin.</h1>
+    <!-- Hero Yoshi -->
+    <div class="yoshi-hero">
+      <img src="/assets/images/yoshi.jpg" alt="Yoshi — hoofd-proever van Het Proeven">
+      <div class="yoshi-hero-overlay"></div>
+      <div class="yoshi-hero-caption">
+        <div class="eyebrow">Het Proeven — over ons</div>
+        <h1>Ik ben Yoshi.<br><em>En dit is het kookboek<br>van mijn baasje Edwin.</em></h1>
+      </div>
+    </div>
 
-    <p>
-      Ik zeg het eerlijk: hij kookt beter dan hij mij uitlaat. En dat zegt wat.
-    </p>
-    <p>
-      Edwin is het type kok dat een pintxo drie keer opnieuw maakt totdat de kappertjes <em>precies</em> goed liggen. Die een saus proeft, nadenkt, en dan nog een druppel sherryazijn toevoegt die niemand anders zou toevoegen — maar iedereen wél proeft. Hij praat over "genuanceerde smaken" en "de juiste balans" terwijl ik gewoon hoop dat er iets van het aanrecht valt.
-    </p>
-    <p>
-      Zijn filosofie? Klein is beter. Eén perfecte hap zegt meer dan een vol bord. Kwaliteit boven kwantiteit — altijd. Presentatie is geen bijzaak, het is de helft van het gerecht.
-    </p>
-    <p>
-      Het nadeel? Die kleine gerechtjes zijn zo goed dat er nooit iets overblijft. Voor niemand. Ook niet voor mij. En dat, beste bezoeker, vind ik nog steeds niet eerlijk.
-    </p>
-    <p>
-      Maar goed. De recepten staan hier. Maak ze met aandacht. Gebruik goede ingrediënten. En laat misschien — <em>misschien</em> — iets over voor de hond.
-    </p>
+    <!-- Tekst -->
+    <div class="over-tekst">
+      <p class="drop-cap">Ik zeg het eerlijk: hij kookt beter dan hij mij uitlaat. En dat zegt wat.</p>
 
-    <p class="over-signature">— Yoshi, hoofd-proever en eeuwig benadeeld</p>
+      <p>Edwin is het type kok dat een pintxo drie keer opnieuw maakt totdat de kappertjes precies goed liggen. Die een saus proeft, nadenkt, en dan nog een druppel sherryazijn toevoegt die niemand anders zou toevoegen — maar iedereen wél proeft. Hij praat over "genuanceerde smaken" en "de juiste balans" terwijl ik gewoon hoop dat er iets van het aanrecht valt.</p>
+
+      <p>Zijn filosofie? <strong>Klein is beter.</strong> Eén perfecte hap zegt meer dan een vol bord. Kwaliteit boven kwantiteit — altijd. Presentatie is geen bijzaak, het is de helft van het gerecht. En elke wijn verdient een gerecht dat hem beter maakt dan hij alleen is.</p>
+
+      <p>Het nadeel? Die kleine gerechtjes zijn zo goed dat er nooit iets overblijft. Voor niemand. Ook niet voor mij. En dat, beste bezoeker, vind ik nog steeds niet eerlijk.</p>
+
+      <p>Maar goed. De recepten staan hier. Maak ze met aandacht. Gebruik goede ingrediënten. En laat misschien — misschien — iets over voor de hond.</p>
+
+      <p class="signoff">— Yoshi, hoofd-proever en eeuwig benadeeld</p>
+    </div>
+
+    <!-- Gerechten strip -->
+    <div class="over-gerechten">
+      <h2>Een greep uit de kaart</h2>
+      <div class="gerecht-strip">
+        <a href="/recepten/huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona/" class="gerecht-foto">
+          <img src="/assets/images/huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona.jpg" alt="Huevo Trufado" loading="lazy">
+          <div class="gerecht-foto-overlay"><span class="gerecht-foto-naam">Huevo Trufado — Azurmendi</span></div>
+        </a>
+        <a href="/recepten/coquilles-granny-smith-passievrucht-beurre-blanc/" class="gerecht-foto">
+          <img src="/assets/images/coquilles-granny-smith-passievrucht-beurre-blanc.jpg" alt="Coquilles passievrucht" loading="lazy">
+          <div class="gerecht-foto-overlay"><span class="gerecht-foto-naam">Coquilles — passievrucht beurre blanc</span></div>
+        </a>
+        <a href="/recepten/eetbare-stenen-krieltjes-asmantel-knoflookaioli-mugaritz/" class="gerecht-foto">
+          <img src="/assets/images/eetbare-stenen-krieltjes-asmantel-knoflookaioli-mugaritz.jpg" alt="Eetbare stenen" loading="lazy">
+          <div class="gerecht-foto-overlay"><span class="gerecht-foto-naam">Eetbare Stenen — Mugaritz</span></div>
+        </a>
+      </div>
+      <div class="gerecht-strip">
+        <a href="/recepten/raviolo-al-uovo-vloeibare-eidooier-ricotta-salieboter/" class="gerecht-foto">
+          <img src="/assets/images/raviolo-al-uovo-vloeibare-eidooier-ricotta-salieboter.jpg" alt="Raviolo al uovo" loading="lazy">
+          <div class="gerecht-foto-overlay"><span class="gerecht-foto-naam">Raviolo — vloeiende eidooier</span></div>
+        </a>
+        <a href="/recepten/crunchy-part-lasagna-krokante-lasagnehoekjes-geconcentreerde-ragu/" class="gerecht-foto">
+          <img src="/assets/images/crunchy-part-lasagna-krokante-lasagnehoekjes-geconcentreerde-ragu.jpg" alt="Crunchy lasagna" loading="lazy">
+          <div class="gerecht-foto-overlay"><span class="gerecht-foto-naam">Crunchy Lasagna — Bottura</span></div>
+        </a>
+        <a href="/recepten/taco-al-pastor-de-beste-ter-wereld/" class="gerecht-foto">
+          <img src="/assets/images/taco-al-pastor-de-beste-ter-wereld.jpg" alt="Taco al Pastor" loading="lazy">
+          <div class="gerecht-foto-overlay"><span class="gerecht-foto-naam">Taco al Pastor</span></div>
+        </a>
+      </div>
+    </div>
+
+    <div class="over-divisor"></div>
+
+    <!-- Gidsen -->
+    <div class="over-gidsen">
+      <a href="/wijnspijs-gids.html" class="gids-kaart">
+        <span class="gids-icoon">🍷</span>
+        <div class="gids-titel">Wijn & Spijs combineren</div>
+        <div class="gids-beschrijving">De complete gids: de 5 S'en-methode, waarom de saus belangrijker is dan het vlees, welke ingrediënten wijn slopen — en hoe je ze gebruikt in je voordeel.</div>
+        <span class="gids-link">Lees de gids →</span>
+      </a>
+      <a href="/sterrenkok-gids.html" class="gids-kaart">
+        <span class="gids-icoon">👨‍🍳</span>
+        <div class="gids-titel">Van hobbykok naar sterrenkok</div>
+        <div class="gids-beschrijving">52 technieken die professionele koks instinctief toepassen — interactief, met checklist en 11 recepten als live demonstratie. Hitte, droogte, zout, tijd, correctie.</div>
+        <span class="gids-link">Lees de gids →</span>
+      </a>
+    </div>
+
   </div>
 
   <footer>
