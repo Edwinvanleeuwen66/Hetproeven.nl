@@ -17,6 +17,59 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'"><noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  <style>
+    .zoek-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem 0;
+    }
+    .zoek-input-wrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .zoek-icon {
+      position: absolute;
+      left: 14px;
+      color: var(--muted);
+      font-size: 14px;
+      pointer-events: none;
+    }
+    .zoek-input {
+      width: 100%;
+      padding: 10px 36px 10px 38px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: #fff;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: var(--deep);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .zoek-input:focus { border-color: var(--accent); }
+    .zoek-input::placeholder { color: var(--muted); }
+    .zoek-clear {
+      position: absolute;
+      right: 14px;
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 16px;
+      padding: 0;
+      display: none;
+      line-height: 1;
+    }
+    .zoek-clear.zichtbaar { display: block; }
+    .zoek-resultaat {
+      font-size: 11px;
+      color: var(--muted);
+      padding: 6px 4px 0;
+      letter-spacing: 0.03em;
+    }
+  </style>
 </head>
 <body>
 
@@ -35,6 +88,17 @@
       <p>Van pintxo tot saté. Van cava tot rioja. Alles draait om smaak.</p>
     </div>
   </header>
+
+  <div class="zoek-wrap">
+    <div class="zoek-input-wrap">
+      <span class="zoek-icon">🔍</span>
+      <input type="search" class="zoek-input" id="zoek-input" 
+             placeholder="Zoek op naam, ingrediënt of keuken…"
+             autocomplete="off" spellcheck="false">
+      <button class="zoek-clear" id="zoek-clear" title="Wis zoekopdracht">✕</button>
+    </div>
+    <div class="zoek-resultaat" id="zoek-resultaat"></div>
+  </div>
 
   <div class="filter-wrap">
     <div class="filter-row">
@@ -154,6 +218,49 @@
       document.querySelectorAll('.lazy-bg[data-bg]').forEach(el => obs.observe(el));
     }
 
+
+    // ── Zoekfunctie ─────────────────────────────────────────────
+    let zoekQuery = '';
+
+    const zoekInput = document.getElementById('zoek-input');
+    const zoekClear = document.getElementById('zoek-clear');
+    const zoekResultaat = document.getElementById('zoek-resultaat');
+
+    function normaliseer(str) {
+      return (str || '').toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
+    function zoekFilter(r) {
+      if (!zoekQuery) return true;
+      const q = normaliseer(zoekQuery);
+      const velden = [
+        r.title, r.short_description, r.description,
+        r.location, r.keuken, r.categorie,
+        ...(r.ingredient_groups || []).flatMap(g => 
+          (g.ingredients || []).map(i => i.name)
+        )
+      ];
+      return velden.some(v => normaliseer(v).includes(q));
+    }
+
+    zoekInput.addEventListener('input', () => {
+      zoekQuery = zoekInput.value.trim();
+      zoekClear.classList.toggle('zichtbaar', zoekQuery.length > 0);
+      renderRecipes();
+      initLazyBg();
+    });
+
+    zoekClear.addEventListener('click', () => {
+      zoekInput.value = '';
+      zoekQuery = '';
+      zoekClear.classList.remove('zichtbaar');
+      zoekResultaat.textContent = '';
+      zoekInput.focus();
+      renderRecipes();
+      initLazyBg();
+    });
+
     function renderRecipes() {
       const grid = document.getElementById('recipe-grid');
       let filtered = allRecipes;
@@ -161,6 +268,14 @@
       if (activeCategorie !== 'all') filtered = filtered.filter(r => r.categorie === activeCategorie);
       if (activeMijnFilter === 'favorieten') filtered = filtered.filter(r => favorieten.has(r.slug));
       if (activeMijnFilter === 'vandaag')    filtered = filtered.filter(r => vandaag.has(r.slug));
+      if (zoekQuery) filtered = filtered.filter(zoekFilter);
+      if (zoekQuery) {
+        zoekResultaat.textContent = filtered.length === 0
+          ? 'Geen recepten gevonden voor "' + zoekQuery + '"'
+          : filtered.length + ' recept' + (filtered.length === 1 ? '' : 'en') + ' gevonden';
+      } else {
+        zoekResultaat.textContent = '';
+      }
       if (filtered.length === 0) {
         grid.innerHTML = '<p class="empty">Geen recepten gevonden.</p>';
         return;

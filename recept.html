@@ -39,6 +39,30 @@
     .portion-count { font-weight: 700; min-width: 18px; text-align: center; }
     .portion-label { color: #888; }
     .ing-amount { transition: color 0.2s; }
+    /* Kookstand knop */
+    .kookstand-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--sans);
+      font-size: 12px;
+      padding: 5px 14px;
+      border-radius: 20px;
+      border: 0.5px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .kookstand-btn:hover { border-color: #2ecc71; color: #27ae60; }
+    .kookstand-btn.actief {
+      background: #eafaf1;
+      border-color: #2ecc71;
+      color: #27ae60;
+      font-weight: 500;
+    }
+
     .ing-amount.changed { color: var(--deep); font-weight: 400; }
 
     .reviews-section {
@@ -421,6 +445,11 @@
             ${recipe.servings ? `<span class="tag">${recipe.servings}</span>` : ''}
             ${recipe.difficulty ? `<span class="tag tag-acc">${recipe.difficulty}</span>` : ''}
             ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
+            <span style="margin-left:auto">
+              <button class="kookstand-btn" id="kookstand-btn" title="Scherm aanblijven tijdens het koken">
+                🍳 Kookstand
+              </button>
+            </span>
           </div>
           <div class="recipe-body">
             <div>
