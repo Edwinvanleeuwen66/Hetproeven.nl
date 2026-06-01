@@ -1,13 +1,19 @@
 [build]
   publish = "."
 
-# Schone URL's voor recepten: /recepten/chistorra-pintxo
-# Netlify stuurt dit door naar recept.html, URL blijft mooi
+# Statische receptpagina's hebben voorrang — met slash
 [[redirects]]
-  from = "/recepten/:slug"
-  to = "/recept.html"
+  from = "/recepten/:slug/"
+  to = "/recepten/:slug/index.html"
   status = 200
 
+# Statische receptpagina's hebben voorrang — zonder slash
+[[redirects]]
+  from = "/recepten/:slug"
+  to = "/recepten/:slug/index.html"
+  status = 200
+
+# Admin redirect
 [[redirects]]
   from = "/admin"
   to = "/admin/"
