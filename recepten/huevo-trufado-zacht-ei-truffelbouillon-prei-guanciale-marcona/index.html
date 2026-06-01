@@ -50,6 +50,8 @@
     <a class="logo" href="/">Het Proeven</a>
     <div class="nav-links">
       <a href="/">Recepten</a>
+      <a href="/wijnspijs-gids.html">Wijn &amp; Spijs</a>
+      <a href="/sterrenkok-gids.html">Sterrenkok</a>
       <a href="/over.html">Over</a>
     </div>
   </nav>
@@ -86,7 +88,7 @@
       👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken
     </a>
   </div>
-  <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
+<div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
   <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🍷 Aanbevolen</div>
   <div class="wine-naam">Corpinnat Brut Nature Gran Reserva — Penedès, Spanje</div>
   <div class="wine-meta"><span class="wine-tag">🍇 Xarel·lo, Macabeo en/of Parellada</span></div>
@@ -108,9 +110,9 @@
   <p class="wine-toelichting">De grote witte wijn van Rioja — regionaal passend, elegant en nootachtig.</p>
   <p class="wine-toelichting">De amandelachtige ronding sluit aan op de Marcona-amandelen en de truffel. De zachte vanilletoon sluit aan op de truffel. De Spaanse herkomst verbindt het gerecht met zijn Iberische wortels.</p>
 </div></div>
-    <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
+  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
     <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px;transition:all 0.2s;">
-      🍷 Lees ook: Wijn &amp; Spijs combineren — de complete gids
+      🍷 Lees ook: Wijn & Spijs combineren — de complete gids
     </a>
   </div>
   <div class="reviews-section">
@@ -151,7 +153,6 @@
       if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
       if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
     })();
-    // Kookstand
     (function(){
       const btn=document.getElementById('kookstand-btn');
       if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
@@ -166,43 +167,23 @@
     const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
     const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
     const SLUG = 'huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona';
-
     function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
     function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
-
     async function laadReviews() {
       try {
         const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
           {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
         if (!res.ok) return;
         const reviews = await res.json();
-
         if (reviews.length > 0) {
           const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
-          document.getElementById('review-score-wrap').innerHTML = `
-            <div class="review-score-blok">
-              <div class="review-getal">${gem}</div>
-              <div>
-                <div class="review-sterren-groot">${sterren(parseFloat(gem))}</div>
-                <div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div>
-              </div>
-            </div>`;
+          document.getElementById('review-score-wrap').innerHTML = `<div class="review-score-blok"><div class="review-getal">${gem}</div><div><div class="review-sterren-groot">${sterren(parseFloat(gem))}</div><div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div></div></div>`;
         }
-
         document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
           ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
-          : reviews.map(r => `
-            <div class="review-item">
-              <div class="review-item-top">
-                <span class="review-naam">${r.naam || 'Anoniem'}</span>
-                <span class="review-sterren">${sterren(r.rating)}</span>
-              </div>
-              ${r.opmerking ? `<div class="review-opmerking">${r.opmerking}</div>` : ''}
-              <div class="review-datum">${datumStr(r.aangemaakt_op)}</div>
-            </div>`).join('');
-      } catch(e) { console.error('Reviews fout:', e); }
+          : reviews.map(r => `<div class="review-item"><div class="review-item-top"><span class="review-naam">${r.naam||'Anoniem'}</span><span class="review-sterren">${sterren(r.rating)}</span></div>${r.opmerking?`<div class="review-opmerking">${r.opmerking}</div>`:''}<div class="review-datum">${datumStr(r.aangemaakt_op)}</div></div>`).join('');
+      } catch(e) {}
     }
-
     window.verstuurReview = async function() {
       const ratingEl = document.querySelector('input[name="rating"]:checked');
       const melding = document.getElementById('review-melding');
@@ -223,10 +204,9 @@
           document.getElementById('review-naam').value = '';
           document.getElementById('review-opmerking').value = '';
           setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
-        } else { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
-      } catch(e) { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
+        } else { melding.textContent = 'Er ging iets mis.'; }
+      } catch(e) { melding.textContent = 'Er ging iets mis.'; }
     };
-
     laadReviews();
   </script>
 </body>
