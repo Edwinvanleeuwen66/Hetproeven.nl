@@ -112,6 +112,101 @@
     .review-opmerking { font-size: 13px; color: var(--muted); line-height: 1.7; }
 
     @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
+
+    /* Reviews sectie */
+    .reviews-section {
+      max-width: 860px;
+      margin: 0 auto 3rem;
+      padding: 0 44px;
+    }
+    .reviews-title {
+      font-size: 9px;
+      letter-spacing: 3px;
+      color: var(--accent);
+      text-transform: uppercase;
+      margin-bottom: 24px;
+      padding-bottom: 12px;
+      border-bottom: 0.5px solid var(--border);
+    }
+    .sterren-invoer {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+    .ster-btn {
+      font-size: 28px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #ddd;
+      transition: color 0.15s, transform 0.1s;
+      padding: 0;
+      line-height: 1;
+    }
+    .ster-btn.actief { color: #E8A020; }
+    .ster-btn:hover { transform: scale(1.15); }
+    .review-form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 32px;
+      padding: 20px 24px;
+      background: #F5EDE0;
+      border-radius: 8px;
+    }
+    .review-form input,
+    .review-form textarea {
+      font-family: var(--sans);
+      font-size: 14px;
+      padding: 10px 14px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: #fff;
+      color: var(--deep);
+      outline: none;
+      resize: vertical;
+    }
+    .review-form input:focus,
+    .review-form textarea:focus { border-color: var(--accent); }
+    .review-submit {
+      align-self: flex-start;
+      background: var(--deep);
+      color: var(--cream);
+      border: none;
+      padding: 10px 24px;
+      border-radius: 20px;
+      font-family: var(--sans);
+      font-size: 13px;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .review-submit:hover { background: var(--accent); }
+    .review-submit:disabled { opacity: 0.5; cursor: default; }
+    .review-item {
+      padding: 16px 0;
+      border-bottom: 0.5px solid var(--border);
+    }
+    .review-item:last-child { border-bottom: none; }
+    .review-sterren { color: #E8A020; font-size: 16px; margin-bottom: 4px; }
+    .review-naam { font-size: 12px; font-weight: 600; color: var(--deep); margin-bottom: 4px; }
+    .review-tekst { font-size: 14px; color: var(--muted); line-height: 1.7; }
+    .review-datum { font-size: 11px; color: #bbb; margin-top: 4px; }
+    .review-melding { font-size: 13px; color: var(--muted); font-style: italic; padding: 8px 0; }
+    .gemiddeld-sterren {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 20px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+    .gemiddeld-getal {
+      font-size: 32px;
+      font-family: var(--serif);
+      color: var(--deep);
+      line-height: 1;
+    }
+
   </style>
 </head>
 <body>
@@ -126,6 +221,35 @@
 
   <div id="content"><div class="loading">Recept laden…</div></div>
   <div id="reviews-blok"></div>
+
+  <div class="reviews-section" id="reviews-section">
+    <div class="reviews-title">Beoordelingen</div>
+
+    <div class="gemiddeld-sterren" id="gemiddeld-wrap" style="display:none">
+      <span class="gemiddeld-getal" id="gemiddeld-getal"></span>
+      <div>
+        <div id="gemiddeld-sterren-display" style="color:#E8A020;font-size:18px"></div>
+        <div id="gemiddeld-aantal" style="font-size:12px;color:#bbb"></div>
+      </div>
+    </div>
+
+    <div class="review-form">
+      <div style="font-size:13px;font-weight:600;color:var(--deep);margin-bottom:4px">Jouw beoordeling</div>
+      <div class="sterren-invoer" id="sterren-invoer">
+        <button class="ster-btn" data-ster="1">★</button>
+        <button class="ster-btn" data-ster="2">★</button>
+        <button class="ster-btn" data-ster="3">★</button>
+        <button class="ster-btn" data-ster="4">★</button>
+        <button class="ster-btn" data-ster="5">★</button>
+      </div>
+      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+      <textarea id="review-tekst" placeholder="Vertel iets over dit gerecht… (optioneel)" rows="3" maxlength="500"></textarea>
+      <button class="review-submit" id="review-submit" disabled>Beoordeling plaatsen</button>
+      <div id="review-feedback" class="review-melding"></div>
+    </div>
+
+    <div id="reviews-lijst"></div>
+  </div>
 
   <footer>
     <p>© Het Proeven</p>
