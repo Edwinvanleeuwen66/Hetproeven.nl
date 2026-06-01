@@ -18,32 +18,8 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
-    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
-    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
-    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
-    .review-sterren-groot { color: #E8A020; font-size: 22px; }
-    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
-    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
-    .ster-keuze input { display: none; }
-    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
-    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
-    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
-    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
-    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
-    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
-    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
-    .review-form button:hover { background: #B85C30; }
-    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
-    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
-    .review-item:last-child { border-bottom: none; }
-    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
-    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
-    .review-sterren { color: #E8A020; font-size: 15px; }
-    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
-    .review-datum { font-size: 11px; color: #bbb; }
-    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
-</style>
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:12px;color:#aaa;margin-top:4px}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:32px;color:#ddd;cursor:pointer;transition:color .15s}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form{background:#F5EDE0;border-radius:8px;padding:20px 24px;margin-bottom:28px}.review-form h3{font-family:'Playfair Display',serif;font-size:16px;font-weight:400;margin-bottom:12px;color:#2B1A0D}.review-form input,.review-form textarea{width:100%;padding:10px 14px;border:1px solid #D4C8B4;border-radius:6px;background:#fff;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;outline:none;margin-bottom:10px;resize:vertical;box-sizing:border-box}.review-form input:focus,.review-form textarea:focus{border-color:#B85C30}.review-form button{background:#2B1A0D;color:#F3EDE1;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -60,13 +36,10 @@
     <span class="recipe-loc-tag">Paramaribo</span>
   </div>
   <h1 class="recipe-title">Surinaams broodje stoofvlees met ketjap, piment en peperzuur</h1>
-  <p class="recipe-desc">Straateten uit Paramaribo: stoofvlees dat de nacht daarvoor is gemaakt, opgewarmd en op een knapperig puntje gelegd met zuurgoed. De saus moet donker zijn, plakkerig en aan de lepel blijven hangen. Niet soepig. Niet droog. Precies daartussen.</p>
+  <p class="recipe-desc">FULLRiblappen gemarineerd in ketjap, piment en komijn, donker aangebraden en gestoofd tot draadjesmals — met glanzende saus op een knapperig Surinaams puntje.</p>
   <div class="recipe-meta">
-    <span class="tag">30 min + 2½ uur stoven + 2 uur rijzen (puntje)</span>
-    <span class="tag">4 personen</span>
-    <span class="tag tag-acc">Gemiddeld</span>
-    <span class="tag tag-wine">🍷 Malbec</span>
-    <span style="margin-left:auto;display:flex;gap:8px;">
+    <span class="tag">30 min + 2½ uur stoven + 2 uur rijzen (puntje)</span><span class="tag">4 personen</span><span class="tag tag-acc">Gemiddeld</span><span class="tag tag-wine">🍷 Malbec</span>
+    <span style="margin-left:auto;display:flex;gap:8px">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','surinaams-broodje-stoofvlees',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','surinaams-broodje-stoofvlees',this)">&#127859; Vandaag koken</button>
       <button class="detail-actie-btn" id="kookstand-btn">🍳 Kookstand</button>
@@ -75,45 +48,20 @@
   <div class="recipe-body">
     <div class="col-ingredients">
       <div class="col-h">Ingrediënten</div>
-      <div class="ing-cat">Surinaamse puntjes (zelfgebakken)</div><div class="ing-row"><span>tarwebloem (11–12% eiwit)</span><span class="ing-amount">500 g</span></div><div class="ing-row"><span>water, kamertemperatuur</span><span class="ing-amount">300 ml</span></div><div class="ing-row"><span>droge gist</span><span class="ing-amount">8 g</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount">18 g</span></div><div class="ing-row"><span>zout</span><span class="ing-amount">8 g</span></div><div class="ing-row"><span>neutrale olie of zachte boter</span><span class="ing-amount">15 g</span></div><div class="ing-row"><span>fijn griesmeel of semola om in te rollen</span><span class="ing-amount">1 handvol</span></div><div class="ing-cat">Stoofvlees en marinade</div><div class="ing-row"><span>riblappen of sucadelappen, in stukken van 4 cm</span><span class="ing-amount">800 g</span></div><div class="ing-row"><span>knoflookteentjes, fijn geraspt</span><span class="ing-amount">3</span></div><div class="ing-row"><span>zwarte peper, grof gemalen</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>komijn</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span>piment, gemalen</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span>ketjap manis</span><span class="ing-amount">3 el</span></div><div class="ing-row"><span>zout</span><span class="ing-amount">naar smaak</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount">2 el</span></div><div class="ing-cat">Stoofbasis</div><div class="ing-row"><span>grote ui, fijngesnipperd</span><span class="ing-amount">1</span></div><div class="ing-row"><span>tomatenpuree</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span>bruine suiker</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>laurierblad</span><span class="ing-amount">1</span></div><div class="ing-row"><span>runderbouillonblokje</span><span class="ing-amount">1</span></div><div class="ing-row"><span>heet water</span><span class="ing-amount">350 ml</span></div><div class="ing-cat">Serveren</div><div class="ing-row"><span>Surinaamse puntjes of kleine stokbroodjes</span><span class="ing-amount">4</span></div><div class="ing-row"><span>komkommer atjar of peperzuur</span><span class="ing-amount">naar smaak</span></div>
+      <div class="ing-cat">Surinaamse puntjes (zelfgebakken)</div><div class="ing-row"><span class="ing-naam">tarwebloem (11–12% eiwit)</span><span class="ing-amount">500 g</span></div><div class="ing-row"><span class="ing-naam">water, kamertemperatuur</span><span class="ing-amount">300 ml</span></div><div class="ing-row"><span class="ing-naam">droge gist</span><span class="ing-amount">8 g</span></div><div class="ing-row"><span class="ing-naam">suiker</span><span class="ing-amount">18 g</span></div><div class="ing-row"><span class="ing-naam">zout</span><span class="ing-amount">8 g</span></div><div class="ing-row"><span class="ing-naam">neutrale olie of zachte boter</span><span class="ing-amount">15 g</span></div><div class="ing-row"><span class="ing-naam">fijn griesmeel of semola om in te rollen</span><span class="ing-amount">1 handvol</span></div><div class="ing-cat">Stoofvlees en marinade</div><div class="ing-row"><span class="ing-naam">riblappen of sucadelappen, in stukken van 4 cm</span><span class="ing-amount">800 g</span></div><div class="ing-row"><span class="ing-naam">knoflookteentjes, fijn geraspt</span><span class="ing-amount">3</span></div><div class="ing-row"><span class="ing-naam">zwarte peper, grof gemalen</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">komijn</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span class="ing-naam">piment, gemalen</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span class="ing-naam">ketjap manis</span><span class="ing-amount">3 el</span></div><div class="ing-row"><span class="ing-naam">zout</span><span class="ing-amount">naar smaak</span></div><div class="ing-row"><span class="ing-naam">neutrale olie</span><span class="ing-amount">2 el</span></div><div class="ing-cat">Stoofbasis</div><div class="ing-row"><span class="ing-naam">grote ui, fijngesnipperd</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">tomatenpuree</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span class="ing-naam">bruine suiker</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">laurierblad</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">runderbouillonblokje</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">heet water</span><span class="ing-amount">350 ml</span></div><div class="ing-cat">Serveren</div><div class="ing-row"><span class="ing-naam">Surinaamse puntjes of kleine stokbroodjes</span><span class="ing-amount">4</span></div><div class="ing-row"><span class="ing-naam">komkommer atjar of peperzuur</span><span class="ing-amount">naar smaak</span></div>
     </div>
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Puntjes bakken:</strong> meng bloem en water, dek af en laat 20 minuten rusten (autolyse). Kneed dan met gist, suiker, zout en olie tot soepel elastisch deeg — ±10 minuten. Laat 60–75 minuten rijzen. Verdeel in 8 bolletjes van ±100 g, rol ovaal en draai strak op tot een puntje, naad goed dichtknippen. Maak een lengtegleuf. Tweede rijs: 30–40 minuten. Bak op 230°C met stoom (kommetje heet water onderin de oven) — 8 minuten, dan terugdraaien naar 205°C nog 8–10 minuten tot lichtgoud. Direct op rooster afkoelen, nooit afdekken.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Marineren:</strong> meng het vlees met knoflook, peper, komijn, piment, 1 el ketjap en zout. Dek af en laat minimaal 2 uur marineren in de koelkast — langer geeft merkbaar meer diepte. Dit is de Surinaamse basis.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Vlees aanbraden:</strong> verhit olie in een zware pan op hoog vuur. Bak het vlees in porties donkerbruin — niet te veel tegelijk. Neem de tijd: dit is de smaak. Haal het vlees eruit en zet apart.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Ui en tomatenpuree:</strong> fruit de ui in dezelfde pan tot goudbruin. Voeg tomatenpuree toe en bak 2 minuten mee — dit haalt de rauwe scherpte eraf. Voeg de resterende ketjap en suiker toe en laat licht karamelliseren.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stoven:</strong> doe het vlees terug in de pan. Voeg laurierblad, bouillonblokje en het hete water toe tot het vlees nét niet helemaal onderstaat. Breng aan de kook, draai het vuur laag en laat 2–2,5 uur zacht sudderen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Saus inkoken:</strong> verwijder de deksel in de laatste 20–30 minuten. Laat de saus inkoken tot hij donker, stroperig en glanzend is. Test: leg een stukje vlees op keukenpapier — een lichte vlek is perfect, een natte kring is te nat.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Serveren:</strong> warm het puntje op. Leg het stoofvlees royaal op het brood. Schep een lepel saus erover. Leg zuurgoed of peperzuur erbij. Geen mayo, geen kaas, geen sla — dit is straateten.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> maak het stoofvlees een dag eerder — na een nacht in de koelkast smelt de saus en het vlees samen tot iets wat vers nooit wordt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> bak het vlees in porties donkerbruin — een volle pan geeft stoom. Neem de tijd voor de aanbraadstap: die karamelisatie is de basis van de donkere smaakdiepte.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> schep een lepel saus royaal over het vlees — de glanzende, donkere saus op het knapperige puntje is het straateten-statement van dit gerecht.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg een mespuntje piment (allspice) toe aan de marinade voor een warm, Caribisch karakter dat typisch is voor de Surinaamse keuken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen riblappen? Gebruik sukadelap of schouderkarbonade — beide hebben voldoende vet en bindweefsel om na 2,5 uur stoven draadjesmals te worden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p></div>
+      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> maak het stoofvlees een dag eerder — na een nacht in de koelkast smelt de saus en het vlees samen tot iets wat vers nooit wordt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> bak het vlees in porties donkerbruin — een volle pan geeft stoom. Neem de tijd voor de aanbraadstap: die karamelisatie is de basis van de donkere smaakdiepte.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> schep een lepel saus royaal over het vlees — de glanzende, donkere saus op het knapperige puntje is het straateten-statement van dit gerecht.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg een mespuntje piment (allspice) toe aan de marinade voor een warm, Caribisch karakter dat typisch is voor de Surinaamse keuken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen riblappen? Gebruik sukadelap of schouderkarbonade — beide hebben voldoende vet en bindweefsel om na 2,5 uur stoven draadjesmals te worden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p></div>
     </div>
   </div>
-  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px;">
-    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px;transition:all 0.2s;">
-      👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken
-    </a>
+  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">
+    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px">👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken</a>
   </div>
-<div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🍷 Aanbevolen</div>
-  <div class="wine-naam">Malbec</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Malbec</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, donker fruit, zachte tannines, rond, kruidig</em></p>
-  <p class="wine-toelichting">De rijpe pruimige vruchten, ronde tannines en lichte kruidigheid van een Mendoza Malbec sluiten naadloos aan bij de ketjap en het langzaam gestoofde rundvlees.</p>
-  <p class="wine-toelichting">De donkere vruchtinkt van de Malbec — bramen, pruim, violette bloesem — resoneert met de geconcentreerde ketjapsaus. Krachtig genoeg om de piment en komijn in de marinade bij te houden, maar nooit zo hard dat het de eerlijke, streetfood-sfeer van het gerecht breekt. Malbec is ook rijk genoeg voor de suddersaus die over het puntje loopt. Serveer op 17°C.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Jonge Zinfandel</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Zinfandel</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, vol, rijp donker fruit, zwarte peper, kruidig, licht rokerig</em></p>
-  <p class="wine-toelichting">fruitiger en speelser, werkt uitstekend bij de zoet-hartige stoofvleessaus</p>
-  <p class="wine-toelichting">Zinfandel sluit met rijp fruit en specerijwarmte goed aan op zoet-rokerige sauzen, tomaat, chili en gegrilde randjes. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Pinotage/Cape Blend — Stellenbosch, Zuid-Afrika</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Pinotage</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, donker fruit, pruim, rook, koffie, zachte tannines, kruidig</em></p>
-  <p class="wine-toelichting">Zuid-Afrikaanse rode wijn met rokerige diepte en sappig donker fruit.</p>
-  <p class="wine-toelichting">Pinotage geeft rook, pruim en een licht koffieachtig randje; dat past sterk bij gegrild vlees, ketjap, saté, paprika en donkere marinades. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden.</p>
-</div></div>
-  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
-    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px;transition:all 0.2s;">
-      🍷 Lees ook: Wijn & Spijs combineren — de complete gids
-    </a>
+  <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🍷 Aanbevolen</div><div class="wine-naam">Malbec</div><div class="wine-meta"><span class="wine-tag">🍇 Malbec</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, donker fruit, zachte tannines, rond, kruidig</em></p><p class="wine-toelichting">De rijpe pruimige vruchten, ronde tannines en lichte kruidigheid van een Mendoza Malbec sluiten naadloos aan bij de ketjap en het langzaam gestoofde rundvlees.</p><p class="wine-toelichting">De donkere vruchtinkt van de Malbec — bramen, pruim, violette bloesem — resoneert met de geconcentreerde ketjapsaus. Krachtig genoeg om de piment en komijn in de marinade bij te houden, maar nooit zo hard dat het de eerlijke, streetfood-sfeer van het gerecht breekt. Malbec is ook rijk genoeg voor de suddersaus die over het puntje loopt. Serveer op 17°C.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Jonge Zinfandel</div><div class="wine-meta"><span class="wine-tag">🍇 Zinfandel</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, vol, rijp donker fruit, zwarte peper, kruidig, licht rokerig</em></p><p class="wine-toelichting">fruitiger en speelser, werkt uitstekend bij de zoet-hartige stoofvleessaus</p><p class="wine-toelichting">Zinfandel sluit met rijp fruit en specerijwarmte goed aan op zoet-rokerige sauzen, tomaat, chili en gegrilde randjes. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Pinotage/Cape Blend — Stellenbosch, Zuid-Afrika</div><div class="wine-meta"><span class="wine-tag">🍇 Pinotage</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, donker fruit, pruim, rook, koffie, zachte tannines, kruidig</em></p><p class="wine-toelichting">Zuid-Afrikaanse rode wijn met rokerige diepte en sappig donker fruit.</p><p class="wine-toelichting">Pinotage geeft rook, pruim en een licht koffieachtig randje; dat past sterk bij gegrild vlees, ketjap, saté, paprika en donkere marinades. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden.</p></div></div>
+  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center">
+    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px">🍷 Lees ook: Wijn &amp; Spijs combineren — de complete gids</a>
   </div>
   <div class="reviews-section">
     <div class="reviews-title">Beoordelingen</div>
@@ -134,79 +82,20 @@
     </div>
     <div id="reviews-lijst"></div>
   </div>
-  <footer>
-    <p>© Het Proeven</p>
-    <a href="/over.html">Over ons</a>
-  </footer>
+  <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
   <script>
     function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
     function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
-    function toggleDetailActie(type,slug,btn){
-      var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';
-      if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}
-      saveSet(key,set);
-    }
-    (function(){
-      var slug='surinaams-broodje-stoofvlees';
-      var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');
-      var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');
-      if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
-      if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
-    })();
-    (function(){
-      const btn=document.getElementById('kookstand-btn');
-      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
-      let wl=null;
-      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
-      async function uit(){if(wl)await wl.release();}
-      btn.addEventListener('click',()=>wl?uit():aan());
-      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
-    })();
+    function toggleDetailActie(type,slug,btn){var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}saveSet(key,set);}
+    (function(){var slug='surinaams-broodje-stoofvlees';var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');if(bf&&f.has(slug))bf.classList.add('detail-btn-active');if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');})();
+    (function(){const btn=document.getElementById('kookstand-btn');if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='.4';btn.style.cursor='not-allowed';}return;}let wl=null;async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}async function uit(){if(wl)await wl.release();}btn.addEventListener('click',()=>wl?uit():aan());document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});})();
   </script>
   <script>
-    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
-    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
-    const SLUG = 'surinaams-broodje-stoofvlees';
-    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
-    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
-    async function laadReviews() {
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
-          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
-        if (!res.ok) return;
-        const reviews = await res.json();
-        if (reviews.length > 0) {
-          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
-          document.getElementById('review-score-wrap').innerHTML = `<div class="review-score-blok"><div class="review-getal">${gem}</div><div><div class="review-sterren-groot">${sterren(parseFloat(gem))}</div><div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div></div></div>`;
-        }
-        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
-          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
-          : reviews.map(r => `<div class="review-item"><div class="review-item-top"><span class="review-naam">${r.naam||'Anoniem'}</span><span class="review-sterren">${sterren(r.rating)}</span></div>${r.opmerking?`<div class="review-opmerking">${r.opmerking}</div>`:''}<div class="review-datum">${datumStr(r.aangemaakt_op)}</div></div>`).join('');
-      } catch(e) {}
-    }
-    window.verstuurReview = async function() {
-      const ratingEl = document.querySelector('input[name="rating"]:checked');
-      const melding = document.getElementById('review-melding');
-      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
-      const rating = parseInt(ratingEl.value);
-      const naam = document.getElementById('review-naam').value.trim();
-      const opmerking = document.getElementById('review-opmerking').value.trim();
-      melding.textContent = 'Bezig met opslaan…';
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
-          method: 'POST',
-          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
-          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
-        });
-        if (res.ok || res.status===201) {
-          melding.textContent = '✓ Bedankt voor je beoordeling!';
-          document.querySelector('input[name="rating"]:checked').checked = false;
-          document.getElementById('review-naam').value = '';
-          document.getElementById('review-opmerking').value = '';
-          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
-        } else { melding.textContent = 'Er ging iets mis.'; }
-      } catch(e) { melding.textContent = 'Er ging iets mis.'; }
-    };
+    const SU='https://mgbqqbrsunwgspcizynp.supabase.co',SK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g',SL='surinaams-broodje-stoofvlees';
+    function st(n){return'★'.repeat(Math.round(n))+'☆'.repeat(5-Math.round(n));}
+    function ds(iso){return new Date(iso).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});}
+    async function laadReviews(){try{const res=await fetch(SU+'/rest/v1/reviews?slug=eq.'+SL+'&order=aangemaakt_op.desc',{headers:{'apikey':SK,'Authorization':'Bearer '+SK}});if(!res.ok)return;const rv=await res.json();if(rv.length>0){const gem=(rv.reduce((s,r)=>s+r.rating,0)/rv.length).toFixed(1);document.getElementById('review-score-wrap').innerHTML='<div class="review-score-blok"><div class="review-getal">'+gem+'</div><div><div class="review-sterren-groot">'+st(parseFloat(gem))+'</div><div class="review-aantal">'+rv.length+' '+(rv.length===1?'beoordeling':'beoordelingen')+'</div></div></div>';}document.getElementById('reviews-lijst').innerHTML=rv.length===0?'<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>':rv.map(r=>'<div class="review-item"><div class="review-item-top"><span class="review-naam">'+(r.naam||'Anoniem')+'</span><span class="review-sterren">'+st(r.rating)+'</span></div>'+(r.opmerking?'<div class="review-opmerking">'+r.opmerking+'</div>':'')+'<div class="review-datum">'+ds(r.aangemaakt_op)+'</div></div>').join('');}catch(e){}}
+    window.verstuurReview=async function(){const rEl=document.querySelector('input[name="rating"]:checked');const mel=document.getElementById('review-melding');if(!rEl){mel.textContent='Kies eerst een aantal sterren.';return;}const rating=parseInt(rEl.value);const naam=document.getElementById('review-naam').value.trim();const opm=document.getElementById('review-opmerking').value.trim();mel.textContent='Bezig met opslaan…';try{const res=await fetch(SU+'/rest/v1/reviews',{method:'POST',headers:{'apikey':SK,'Authorization':'Bearer '+SK,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({slug:SL,rating,naam:naam||null,opmerking:opm||null})});if(res.ok||res.status===201){mel.textContent='✓ Bedankt!';rEl.checked=false;document.getElementById('review-naam').value='';document.getElementById('review-opmerking').value='';setTimeout(()=>{mel.textContent='';laadReviews();},1200);}else{mel.textContent='Er ging iets mis.';}}catch(e){mel.textContent='Er ging iets mis.';}};
     laadReviews();
   </script>
 </body>

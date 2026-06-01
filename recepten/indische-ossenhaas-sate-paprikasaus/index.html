@@ -18,32 +18,8 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
-    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
-    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
-    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
-    .review-sterren-groot { color: #E8A020; font-size: 22px; }
-    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
-    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
-    .ster-keuze input { display: none; }
-    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
-    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
-    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
-    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
-    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
-    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
-    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
-    .review-form button:hover { background: #B85C30; }
-    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
-    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
-    .review-item:last-child { border-bottom: none; }
-    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
-    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
-    .review-sterren { color: #E8A020; font-size: 15px; }
-    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
-    .review-datum { font-size: 11px; color: #bbb; }
-    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
-</style>
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:12px;color:#aaa;margin-top:4px}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:32px;color:#ddd;cursor:pointer;transition:color .15s}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form{background:#F5EDE0;border-radius:8px;padding:20px 24px;margin-bottom:28px}.review-form h3{font-family:'Playfair Display',serif;font-size:16px;font-weight:400;margin-bottom:12px;color:#2B1A0D}.review-form input,.review-form textarea{width:100%;padding:10px 14px;border:1px solid #D4C8B4;border-radius:6px;background:#fff;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;outline:none;margin-bottom:10px;resize:vertical;box-sizing:border-box}.review-form input:focus,.review-form textarea:focus{border-color:#B85C30}.review-form button{background:#2B1A0D;color:#F3EDE1;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -60,13 +36,10 @@
     <span class="recipe-loc-tag">Indonesië</span>
   </div>
   <h1 class="recipe-title">Indische malse ossenhaas saté met lichte paprikasaus</h1>
-  <p class="recipe-desc">Ossenhaas in blokjes gemarineerd met gember, knoflook, ketumbar en kecap manis — minimaal een uur, liefst een nacht. Gegrild op de barbecue tot rosé van binnen, geserveerd met een lichte zelfgemaakte paprikasaus van lombok, sambal en bawang goreng.</p>
+  <p class="recipe-desc">FULLMalse ossenhaas gemarineerd in gember, knoflook en kecap manis — gegrild op satéstokjes met een lichte zelfgemaakte paprikasaus.</p>
   <div class="recipe-meta">
-    <span class="tag">50 min + 1 uur marineren</span>
-    <span class="tag">4 personen</span>
-    <span class="tag tag-acc">Gemiddeld</span>
-    <span class="tag tag-wine">🍷 Pinot Noir</span>
-    <span style="margin-left:auto;display:flex;gap:8px;">
+    <span class="tag">50 min + 1 uur marineren</span><span class="tag">4 personen</span><span class="tag tag-acc">Gemiddeld</span><span class="tag tag-wine">🍷 Pinot Noir</span>
+    <span style="margin-left:auto;display:flex;gap:8px">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','indische-ossenhaas-sate-paprikasaus',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','indische-ossenhaas-sate-paprikasaus',this)">&#127859; Vandaag koken</button>
       <button class="detail-actie-btn" id="kookstand-btn">🍳 Kookstand</button>
@@ -75,45 +48,20 @@
   <div class="recipe-body">
     <div class="col-ingredients">
       <div class="col-h">Ingrediënten</div>
-      <div class="ing-cat">Marinade</div><div class="ing-row"><span>gember</span><span class="ing-amount">5 cm</span></div><div class="ing-row"><span>knoflookteentjes</span><span class="ing-amount">2</span></div><div class="ing-row"><span>zout</span><span class="ing-amount">0,5 tl</span></div><div class="ing-row"><span>zwarte peper</span><span class="ing-amount">0,5 tl</span></div><div class="ing-row"><span>ketumbar (gemalen koriander)</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>plantaardige olie</span><span class="ing-amount">100 ml</span></div><div class="ing-row"><span>kecap manis</span><span class="ing-amount">50 ml</span></div><div class="ing-cat">Vlees</div><div class="ing-row"><span>ossenhaas, in blokjes van 1,5 à 2 cm</span><span class="ing-amount">400 g</span></div><div class="ing-row"><span>satéstokjes</span><span class="ing-amount">12</span></div><div class="ing-cat">Paprikasaus</div><div class="ing-row"><span>ui</span><span class="ing-amount">1</span></div><div class="ing-row"><span>knoflookteentjes</span><span class="ing-amount">3</span></div><div class="ing-row"><span>rode lombok (Spaanse peper)</span><span class="ing-amount">3</span></div><div class="ing-row"><span>puntpaprika</span><span class="ing-amount">0,5</span></div><div class="ing-row"><span>plantaardige olie</span><span class="ing-amount">1 scheutje</span></div><div class="ing-row"><span>sambal ulek</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>zwarte peper</span><span class="ing-amount">0,5 tl</span></div><div class="ing-row"><span>bawang goreng (gebakken uitjes)</span><span class="ing-amount">50 g</span></div><div class="ing-row"><span>citroen, sap</span><span class="ing-amount">1</span></div><div class="ing-row"><span>gewone kecap</span><span class="ing-amount">2 el</span></div><div class="ing-row"><span>dikke kecap</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span>bruine suiker</span><span class="ing-amount">1 tl</span></div><div class="ing-cat">Garnering</div><div class="ing-row"><span>rode ui, fijn gesnipperd</span><span class="ing-amount">1</span></div><div class="ing-row"><span>limoen, in partjes</span><span class="ing-amount">1</span></div><div class="ing-row"><span>lombok, in dunne schuine ringetjes</span><span class="ing-amount">1</span></div>
+      <div class="ing-cat">Marinade</div><div class="ing-row"><span class="ing-naam">gember</span><span class="ing-amount">5 cm</span></div><div class="ing-row"><span class="ing-naam">knoflookteentjes</span><span class="ing-amount">2</span></div><div class="ing-row"><span class="ing-naam">zout</span><span class="ing-amount">0,5 tl</span></div><div class="ing-row"><span class="ing-naam">zwarte peper</span><span class="ing-amount">0,5 tl</span></div><div class="ing-row"><span class="ing-naam">ketumbar (gemalen koriander)</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">plantaardige olie</span><span class="ing-amount">100 ml</span></div><div class="ing-row"><span class="ing-naam">kecap manis</span><span class="ing-amount">50 ml</span></div><div class="ing-cat">Vlees</div><div class="ing-row"><span class="ing-naam">ossenhaas, in blokjes van 1,5 à 2 cm</span><span class="ing-amount">400 g</span></div><div class="ing-row"><span class="ing-naam">satéstokjes</span><span class="ing-amount">12</span></div><div class="ing-cat">Paprikasaus</div><div class="ing-row"><span class="ing-naam">ui</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">knoflookteentjes</span><span class="ing-amount">3</span></div><div class="ing-row"><span class="ing-naam">rode lombok (Spaanse peper)</span><span class="ing-amount">3</span></div><div class="ing-row"><span class="ing-naam">puntpaprika</span><span class="ing-amount">0,5</span></div><div class="ing-row"><span class="ing-naam">plantaardige olie</span><span class="ing-amount">1 scheutje</span></div><div class="ing-row"><span class="ing-naam">sambal ulek</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">zwarte peper</span><span class="ing-amount">0,5 tl</span></div><div class="ing-row"><span class="ing-naam">bawang goreng (gebakken uitjes)</span><span class="ing-amount">50 g</span></div><div class="ing-row"><span class="ing-naam">citroen, sap</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">gewone kecap</span><span class="ing-amount">2 el</span></div><div class="ing-row"><span class="ing-naam">dikke kecap</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span class="ing-naam">bruine suiker</span><span class="ing-amount">1 tl</span></div><div class="ing-cat">Garnering</div><div class="ing-row"><span class="ing-naam">rode ui, fijn gesnipperd</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">limoen, in partjes</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">lombok, in dunne schuine ringetjes</span><span class="ing-amount">1</span></div>
     </div>
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Marinade maken:</strong> schil de gember en hak samen met de knoflook fijn. Wrijf in een vijzel met het zout, de peper en ketumbar tot een pasta. Doe de pasta in een kom en meng de olie en kecap manis erdoor.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Vlees marineren:</strong> snijd de ossenhaas in blokjes van 1,5 à 2 cm en schep door de marinade. Dek af en laat minimaal 1 uur marineren in de koelkast — een nacht is nog beter.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Satéstokjes weken:</strong> laat de satéstokjes weken in een bakje water zodat ze helemaal onderstaan. Zo verbranden ze niet tijdens het grillen.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Paprikasaus maken:</strong> snipper de ui, snijd de knoflook en 2 lombok in plakjes en de puntpaprika in stukjes. Bak alles in een scheutje olie op middelhoog vuur tot zacht en licht bruin. Doe in een blender met de sambal, zwarte peper en bawang goreng en maal fijn. Voeg de gewone kecap, dikke kecap, bruine suiker en citroensap toe en roer goed door. Je hebt ongeveer de helft van de saus nodig — de rest is weken houdbaar in de koelkast.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Rijgen en grillen:</strong> rijg het vlees aan de satéstokjes — 3 stukjes per stokje — en knijp het vlees goed om het stokje. Verwarm de saus op laag vuur maar laat hem niet koken. Gril de saté op de barbecue op medium hitte tot het vlees vanbinnen nog rosé is.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Serveren:</strong> leg de stokjes op een schaal, schep een beetje saus op en knijp er limoensap overheen. Garneer met rode ui, lombokringetjes en partjes limoen.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> marineer het vlees een hele nacht — dat maakt het verschil. De paprikasaus kan een dag van tevoren worden gemaakt en opgewarmd.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> bak de spiesjes op een gloeiend hete grillpan en draai slechts één keer — zo krijg je mooie roostertekens aan beide kanten zonder het vlees uit te drogen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> serveer de sate op een warm langwerpig bord met de saus ernaast als spiegel — nooit erover, zodat de roostertekens zichtbaar blijven.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg geraspte kokos toe aan de marinade voor een rijker, tropischer karakter, of een mespuntje sambal badjak in de paprikasaus voor extra pit.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen ossenhaas? Gebruik kippendij — sappiger en meer smaak, vraagt iets meer marineertijd maar werkt uitstekend met dezelfde kruidenmix.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p></div>
+      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> marineer het vlees een hele nacht — dat maakt het verschil. De paprikasaus kan een dag van tevoren worden gemaakt en opgewarmd.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> bak de spiesjes op een gloeiend hete grillpan en draai slechts één keer — zo krijg je mooie roostertekens aan beide kanten zonder het vlees uit te drogen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> serveer de sate op een warm langwerpig bord met de saus ernaast als spiegel — nooit erover, zodat de roostertekens zichtbaar blijven.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg geraspte kokos toe aan de marinade voor een rijker, tropischer karakter, of een mespuntje sambal badjak in de paprikasaus voor extra pit.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen ossenhaas? Gebruik kippendij — sappiger en meer smaak, vraagt iets meer marineertijd maar werkt uitstekend met dezelfde kruidenmix.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p></div>
     </div>
   </div>
-  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px;">
-    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px;transition:all 0.2s;">
-      👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken
-    </a>
+  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">
+    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px">👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken</a>
   </div>
-<div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🍷 Aanbevolen</div>
-  <div class="wine-naam">Pinot Noir</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Pinot Noir</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, rood fruit, frisse zuren, zachte tannines, elegant</em></p>
-  <p class="wine-toelichting">De zachte tannines en rode vruchttonen van een elegante Pinot Noir — uit Bourgogne, Elzas of Nieuw-Zeeland — sluiten aan op het malse ossenhaas en laten de Indische kruiden volledig tot hun recht komen.</p>
-  <p class="wine-toelichting">Niet te veel structuur: de marinade van ketjap, koriander en laos moet de hoofdrol houden, niet de wijn. Tonen van kers, aardbeien en een lichte aardse ondertoon complementeren de ketjap en de paprikasaus. Serveer licht gekoeld op 15°C.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Jonge Barbera d&#x27;Asti</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Barbera</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, hoge zuren, kers, pruim, laag tannine, sappig</em></p>
-  <p class="wine-toelichting">levendige zuurgraad die uitstekend aansluit bij de zoet-hartige marinade</p>
-  <p class="wine-toelichting">Barbera heeft hoge zuren en weinig tannine: perfect bij tomaat, vet, kaas en umami omdat de wijn levendig blijft. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Beaujolais-Villages AOC — Beaujolais, Frankrijk</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Gamay</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, sappig rood fruit, lage tannine, fris, licht kruidig</em></p>
-  <p class="wine-toelichting">Een lichte, sappige rode wijn die koelte en fruit geeft zonder het gerecht te verzwaren.</p>
-  <p class="wine-toelichting">Frisheid en aromatische spanning bij Indische malse ossenhaas saté met lichte paprikasaus, zonder het gerecht zwaarder te maken.</p>
-</div></div>
-  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
-    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px;transition:all 0.2s;">
-      🍷 Lees ook: Wijn & Spijs combineren — de complete gids
-    </a>
+  <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🍷 Aanbevolen</div><div class="wine-naam">Pinot Noir</div><div class="wine-meta"><span class="wine-tag">🍇 Pinot Noir</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, rood fruit, frisse zuren, zachte tannines, elegant</em></p><p class="wine-toelichting">De zachte tannines en rode vruchttonen van een elegante Pinot Noir — uit Bourgogne, Elzas of Nieuw-Zeeland — sluiten aan op het malse ossenhaas en laten de Indische kruiden volledig tot hun recht komen.</p><p class="wine-toelichting">Niet te veel structuur: de marinade van ketjap, koriander en laos moet de hoofdrol houden, niet de wijn. Tonen van kers, aardbeien en een lichte aardse ondertoon complementeren de ketjap en de paprikasaus. Serveer licht gekoeld op 15°C.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Jonge Barbera d&#x27;Asti</div><div class="wine-meta"><span class="wine-tag">🍇 Barbera</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, hoge zuren, kers, pruim, laag tannine, sappig</em></p><p class="wine-toelichting">levendige zuurgraad die uitstekend aansluit bij de zoet-hartige marinade</p><p class="wine-toelichting">Barbera heeft hoge zuren en weinig tannine: perfect bij tomaat, vet, kaas en umami omdat de wijn levendig blijft. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Beaujolais-Villages AOC — Beaujolais, Frankrijk</div><div class="wine-meta"><span class="wine-tag">🍇 Gamay</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, sappig rood fruit, lage tannine, fris, licht kruidig</em></p><p class="wine-toelichting">Een lichte, sappige rode wijn die koelte en fruit geeft zonder het gerecht te verzwaren.</p><p class="wine-toelichting">De frisse zuren en lichte body van Gamay houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen.</p></div></div>
+  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center">
+    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px">🍷 Lees ook: Wijn &amp; Spijs combineren — de complete gids</a>
   </div>
   <div class="reviews-section">
     <div class="reviews-title">Beoordelingen</div>
@@ -134,79 +82,20 @@
     </div>
     <div id="reviews-lijst"></div>
   </div>
-  <footer>
-    <p>© Het Proeven</p>
-    <a href="/over.html">Over ons</a>
-  </footer>
+  <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
   <script>
     function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
     function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
-    function toggleDetailActie(type,slug,btn){
-      var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';
-      if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}
-      saveSet(key,set);
-    }
-    (function(){
-      var slug='indische-ossenhaas-sate-paprikasaus';
-      var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');
-      var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');
-      if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
-      if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
-    })();
-    (function(){
-      const btn=document.getElementById('kookstand-btn');
-      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
-      let wl=null;
-      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
-      async function uit(){if(wl)await wl.release();}
-      btn.addEventListener('click',()=>wl?uit():aan());
-      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
-    })();
+    function toggleDetailActie(type,slug,btn){var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}saveSet(key,set);}
+    (function(){var slug='indische-ossenhaas-sate-paprikasaus';var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');if(bf&&f.has(slug))bf.classList.add('detail-btn-active');if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');})();
+    (function(){const btn=document.getElementById('kookstand-btn');if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='.4';btn.style.cursor='not-allowed';}return;}let wl=null;async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}async function uit(){if(wl)await wl.release();}btn.addEventListener('click',()=>wl?uit():aan());document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});})();
   </script>
   <script>
-    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
-    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
-    const SLUG = 'indische-ossenhaas-sate-paprikasaus';
-    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
-    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
-    async function laadReviews() {
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
-          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
-        if (!res.ok) return;
-        const reviews = await res.json();
-        if (reviews.length > 0) {
-          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
-          document.getElementById('review-score-wrap').innerHTML = `<div class="review-score-blok"><div class="review-getal">${gem}</div><div><div class="review-sterren-groot">${sterren(parseFloat(gem))}</div><div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div></div></div>`;
-        }
-        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
-          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
-          : reviews.map(r => `<div class="review-item"><div class="review-item-top"><span class="review-naam">${r.naam||'Anoniem'}</span><span class="review-sterren">${sterren(r.rating)}</span></div>${r.opmerking?`<div class="review-opmerking">${r.opmerking}</div>`:''}<div class="review-datum">${datumStr(r.aangemaakt_op)}</div></div>`).join('');
-      } catch(e) {}
-    }
-    window.verstuurReview = async function() {
-      const ratingEl = document.querySelector('input[name="rating"]:checked');
-      const melding = document.getElementById('review-melding');
-      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
-      const rating = parseInt(ratingEl.value);
-      const naam = document.getElementById('review-naam').value.trim();
-      const opmerking = document.getElementById('review-opmerking').value.trim();
-      melding.textContent = 'Bezig met opslaan…';
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
-          method: 'POST',
-          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
-          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
-        });
-        if (res.ok || res.status===201) {
-          melding.textContent = '✓ Bedankt voor je beoordeling!';
-          document.querySelector('input[name="rating"]:checked').checked = false;
-          document.getElementById('review-naam').value = '';
-          document.getElementById('review-opmerking').value = '';
-          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
-        } else { melding.textContent = 'Er ging iets mis.'; }
-      } catch(e) { melding.textContent = 'Er ging iets mis.'; }
-    };
+    const SU='https://mgbqqbrsunwgspcizynp.supabase.co',SK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g',SL='indische-ossenhaas-sate-paprikasaus';
+    function st(n){return'★'.repeat(Math.round(n))+'☆'.repeat(5-Math.round(n));}
+    function ds(iso){return new Date(iso).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});}
+    async function laadReviews(){try{const res=await fetch(SU+'/rest/v1/reviews?slug=eq.'+SL+'&order=aangemaakt_op.desc',{headers:{'apikey':SK,'Authorization':'Bearer '+SK}});if(!res.ok)return;const rv=await res.json();if(rv.length>0){const gem=(rv.reduce((s,r)=>s+r.rating,0)/rv.length).toFixed(1);document.getElementById('review-score-wrap').innerHTML='<div class="review-score-blok"><div class="review-getal">'+gem+'</div><div><div class="review-sterren-groot">'+st(parseFloat(gem))+'</div><div class="review-aantal">'+rv.length+' '+(rv.length===1?'beoordeling':'beoordelingen')+'</div></div></div>';}document.getElementById('reviews-lijst').innerHTML=rv.length===0?'<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>':rv.map(r=>'<div class="review-item"><div class="review-item-top"><span class="review-naam">'+(r.naam||'Anoniem')+'</span><span class="review-sterren">'+st(r.rating)+'</span></div>'+(r.opmerking?'<div class="review-opmerking">'+r.opmerking+'</div>':'')+'<div class="review-datum">'+ds(r.aangemaakt_op)+'</div></div>').join('');}catch(e){}}
+    window.verstuurReview=async function(){const rEl=document.querySelector('input[name="rating"]:checked');const mel=document.getElementById('review-melding');if(!rEl){mel.textContent='Kies eerst een aantal sterren.';return;}const rating=parseInt(rEl.value);const naam=document.getElementById('review-naam').value.trim();const opm=document.getElementById('review-opmerking').value.trim();mel.textContent='Bezig met opslaan…';try{const res=await fetch(SU+'/rest/v1/reviews',{method:'POST',headers:{'apikey':SK,'Authorization':'Bearer '+SK,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({slug:SL,rating,naam:naam||null,opmerking:opm||null})});if(res.ok||res.status===201){mel.textContent='✓ Bedankt!';rEl.checked=false;document.getElementById('review-naam').value='';document.getElementById('review-opmerking').value='';setTimeout(()=>{mel.textContent='';laadReviews();},1200);}else{mel.textContent='Er ging iets mis.';}}catch(e){mel.textContent='Er ging iets mis.';}};
     laadReviews();
   </script>
 </body>

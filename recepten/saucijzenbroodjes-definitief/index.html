@@ -18,32 +18,8 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
-    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
-    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
-    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
-    .review-sterren-groot { color: #E8A020; font-size: 22px; }
-    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
-    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
-    .ster-keuze input { display: none; }
-    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
-    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
-    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
-    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
-    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
-    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
-    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
-    .review-form button:hover { background: #B85C30; }
-    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
-    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
-    .review-item:last-child { border-bottom: none; }
-    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
-    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
-    .review-sterren { color: #E8A020; font-size: 15px; }
-    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
-    .review-datum { font-size: 11px; color: #bbb; }
-    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
-</style>
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:12px;color:#aaa;margin-top:4px}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:32px;color:#ddd;cursor:pointer;transition:color .15s}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form{background:#F5EDE0;border-radius:8px;padding:20px 24px;margin-bottom:28px}.review-form h3{font-family:'Playfair Display',serif;font-size:16px;font-weight:400;margin-bottom:12px;color:#2B1A0D}.review-form input,.review-form textarea{width:100%;padding:10px 14px;border:1px solid #D4C8B4;border-radius:6px;background:#fff;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;outline:none;margin-bottom:10px;resize:vertical;box-sizing:border-box}.review-form input:focus,.review-form textarea:focus{border-color:#B85C30}.review-form button{background:#2B1A0D;color:#F3EDE1;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -60,13 +36,10 @@
     <span class="recipe-loc-tag">Nederland</span>
   </div>
   <h1 class="recipe-title">Saucijzenbroodjes — het definitieve recept</h1>
-  <p class="recipe-desc">Na vele testronden is dit het definitieve recept. Subtiele kruiding, droge stevige bite, geen glibberig gevoel en warmte die je niet kunt aanwijzen. Eet er één direct uit de oven en één na 10 minuten — als ze allebei goed zijn, heb je het perfecte recept.</p>
+  <p class="recipe-desc">FULLHet perfecte saucijzenbroodje — subtiel gekruid met nootmuskaat, foelie en een geheim druppeltje Maggi. Droog, stevig en dooreetbaar.</p>
   <div class="recipe-meta">
-    <span class="tag">45 min</span>
-    <span class="tag">10 stuks</span>
-    <span class="tag tag-acc">Makkelijk</span>
-    <span class="tag tag-wine">🍷 Cava Brut</span>
-    <span style="margin-left:auto;display:flex;gap:8px;">
+    <span class="tag">45 min</span><span class="tag">10 stuks</span><span class="tag tag-acc">Makkelijk</span><span class="tag tag-wine">🍷 Cava Brut</span>
+    <span style="margin-left:auto;display:flex;gap:8px">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','saucijzenbroodjes-definitief',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','saucijzenbroodjes-definitief',this)">&#127859; Vandaag koken</button>
       <button class="detail-actie-btn" id="kookstand-btn">🍳 Kookstand</button>
@@ -75,45 +48,20 @@
   <div class="recipe-body">
     <div class="col-ingredients">
       <div class="col-h">Ingrediënten</div>
-      <div class="ing-cat">Vulling</div><div class="ing-row"><span>half-om-half gehakt</span><span class="ing-amount">300 g</span></div><div class="ing-row"><span>ei, losgeklopt (gebruik de helft)</span><span class="ing-amount">1</span></div><div class="ing-row"><span>paneermeel</span><span class="ing-amount">20 g</span></div><div class="ing-row"><span>zout</span><span class="ing-amount">2,2 g</span></div><div class="ing-row"><span>Maggi (± 8-9 druppels)</span><span class="ing-amount">0,9 g</span></div><div class="ing-row"><span>nootmuskaat</span><span class="ing-amount">0,32 g</span></div><div class="ing-row"><span>foelie</span><span class="ing-amount">0,09 g</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount">0,42 g</span></div><div class="ing-row"><span>gedroogde selderij</span><span class="ing-amount">0,35 g</span></div><div class="ing-row"><span>gladde mosterd</span><span class="ing-amount">4 g</span></div><div class="ing-cat">Opbouw en afwerking</div><div class="ing-row"><span>kant-en-klare plakjes bladerdeeg</span><span class="ing-amount">10</span></div><div class="ing-row"><span>ei voor het bestrijken</span><span class="ing-amount">1</span></div><div class="ing-row"><span>scheutje melk</span><span class="ing-amount">1</span></div>
+      <div class="ing-cat">Vulling</div><div class="ing-row"><span class="ing-naam">half-om-half gehakt</span><span class="ing-amount">300 g</span></div><div class="ing-row"><span class="ing-naam">ei, losgeklopt (gebruik de helft)</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">paneermeel</span><span class="ing-amount">20 g</span></div><div class="ing-row"><span class="ing-naam">zout</span><span class="ing-amount">2,2 g</span></div><div class="ing-row"><span class="ing-naam">Maggi (± 8-9 druppels)</span><span class="ing-amount">0,9 g</span></div><div class="ing-row"><span class="ing-naam">nootmuskaat</span><span class="ing-amount">0,32 g</span></div><div class="ing-row"><span class="ing-naam">foelie</span><span class="ing-amount">0,09 g</span></div><div class="ing-row"><span class="ing-naam">witte peper</span><span class="ing-amount">0,42 g</span></div><div class="ing-row"><span class="ing-naam">gedroogde selderij</span><span class="ing-amount">0,35 g</span></div><div class="ing-row"><span class="ing-naam">gladde mosterd</span><span class="ing-amount">4 g</span></div><div class="ing-cat">Opbouw en afwerking</div><div class="ing-row"><span class="ing-naam">kant-en-klare plakjes bladerdeeg</span><span class="ing-amount">10</span></div><div class="ing-row"><span class="ing-naam">ei voor het bestrijken</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">scheutje melk</span><span class="ing-amount">1</span></div>
     </div>
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Meng het gehakt:</strong> meng het gehakt eerst met zout en Maggi. Voeg dan het halve ei en het paneermeel toe. Voeg alle kruiden toe en meng kort tot net samenhangend. Niet doorkneden — anders krijg je worststructuur.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Portioneer de vulling:</strong> verdeel de vulling in 10 porties van ±30 g. Rol elk portie licht langwerpig met je handen.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Opbouwen:</strong> leg een portie vulling op een plakje bladerdeeg. Vouw het deeg dicht en druk de rand goed aan zodat hij niet openbarst.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Eerste eilaag en vriezer:</strong> klop het ei los met een klein scheutje melk. Kwast de broodjes licht in. Leg ze 10-15 minuten in de vriezer — dit voorkomt openbarsten en lekken.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Tweede eilaag:</strong> haal de broodjes uit de vriezer en smeer nogmaals licht in met het eiermengsel voor een mooie glanzende goudbruine korst.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Bakken:</strong> verwarm de oven op 220°C (boven/onderwarmte). Bak de broodjes 25 minuten tot ze diep goudbruin en krokant zijn.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> dit is het belangrijkste — eet er één direct uit de oven en één na een uur. Het verschil leert je meer over bladerdeeg dan elk recept.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> zorg dat het gehakt volledig droog is voor je het in het bladerdeeg rolt — overtollig vocht maakt de bodem zompig en verhindert een krokante onderkant.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> bestrijk royaal met eigeel voor een diepe, goudbruine glans. Snijd na het bakken schuin door — zo is de spiraaldoorsnede zichtbaar en ziet het gerecht er verfijnd uit.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg gerookte paprika of fijngehakte jalapeño toe aan het gehakt voor extra pit, of wikkel de broodjes in jamon serrano voor een Spaanse upgrade.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen bladerdeeg? Gebruik briochedeeg voor een rijker, zachter resultaat, of gebruik croissantdeeg uit een rol voor een snelle maar even lekkere versie.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Snijden:</strong> Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</p></div>
+      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> dit is het belangrijkste — eet er één direct uit de oven en één na een uur. Het verschil leert je meer over bladerdeeg dan elk recept.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> zorg dat het gehakt volledig droog is voor je het in het bladerdeeg rolt — overtollig vocht maakt de bodem zompig en verhindert een krokante onderkant.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> bestrijk royaal met eigeel voor een diepe, goudbruine glans. Snijd na het bakken schuin door — zo is de spiraaldoorsnede zichtbaar en ziet het gerecht er verfijnd uit.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg gerookte paprika of fijngehakte jalapeño toe aan het gehakt voor extra pit, of wikkel de broodjes in jamon serrano voor een Spaanse upgrade.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen bladerdeeg? Gebruik briochedeeg voor een rijker, zachter resultaat, of gebruik croissantdeeg uit een rol voor een snelle maar even lekkere versie.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Snijden:</strong> Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</p></div>
     </div>
   </div>
-  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px;">
-    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px;transition:all 0.2s;">
-      👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken
-    </a>
+  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">
+    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px">👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken</a>
   </div>
-<div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🍷 Aanbevolen</div>
-  <div class="wine-naam">Cava Brut</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Macabeo, Xarel·lo, Parellada</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, fris, fijne mousse, citrus, licht broodachtig</em></p>
-  <p class="wine-toelichting">Saucijzenbroodjes en Cava — een combinatie die in elke Spaanse feestelijke setting werkt.</p>
-  <p class="wine-toelichting">De droge bellen snijden door het rijke bladerdeeg en het vette gehakt; de gisttonen sluiten aan op de luchtige gebakken structuur. Cava Brut heeft net genoeg dosage voor een licht ronde afdronk die de hartige vulling complementeert zonder te zoet te worden. Een fles Cava bij een schaal saucijzenbroodjes is de meest toegankelijke, gezelligste manier om een tapas-avond te beginnen. Serveer ijskoud op 7°C.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Rioja Joven</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Tempranillo</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, kers, pruim, vanille, kruidigheid, middelzware tannines</em></p>
-  <p class="wine-toelichting">licht en fris, werkt als warme rode begeleider bij de hartige gehaktvulling</p>
-  <p class="wine-toelichting">Tempranillo sluit met kers, kruiden en lichte houtrijping aan op geroosterde paprika, tomaat, aioli, vleesjus en Spaanse specerijen. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Crémant d&#x27;Alsace Brut — Alsace, Frankrijk</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Pinot Blanc, Auxerrois en/of Chardonnay</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, appel, citrus, zachte mousse, lichte brioche</em></p>
-  <p class="wine-toelichting">Een toegankelijkere, logischer bubbel bij Nederlands bladerdeegcomfort dan Champagne.</p>
-  <p class="wine-toelichting">De mousse ruimt vet bladerdeeg en kruidig gehakt op. De lichte briochetoon sluit aan op het gebakken deeg.</p>
-</div></div>
-  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
-    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px;transition:all 0.2s;">
-      🍷 Lees ook: Wijn & Spijs combineren — de complete gids
-    </a>
+  <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🍷 Aanbevolen</div><div class="wine-naam">Cava Brut</div><div class="wine-meta"><span class="wine-tag">🍇 Macabeo, Xarel·lo, Parellada</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, fris, fijne mousse, citrus, licht broodachtig</em></p><p class="wine-toelichting">Saucijzenbroodjes en Cava — een combinatie die in elke Spaanse feestelijke setting werkt.</p><p class="wine-toelichting">De droge bellen snijden door het rijke bladerdeeg en het vette gehakt; de gisttonen sluiten aan op de luchtige gebakken structuur. Cava Brut heeft net genoeg dosage voor een licht ronde afdronk die de hartige vulling complementeert zonder te zoet te worden. Een fles Cava bij een schaal saucijzenbroodjes is de meest toegankelijke, gezelligste manier om een tapas-avond te beginnen. Serveer ijskoud op 7°C.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Rioja Joven</div><div class="wine-meta"><span class="wine-tag">🍇 Tempranillo</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, kers, pruim, vanille, kruidigheid, middelzware tannines</em></p><p class="wine-toelichting">licht en fris, werkt als warme rode begeleider bij de hartige gehaktvulling</p><p class="wine-toelichting">Tempranillo sluit met kers, kruiden en lichte houtrijping aan op geroosterde paprika, tomaat, aioli, vleesjus en Spaanse specerijen. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Crémant d&#x27;Alsace Brut — Alsace, Frankrijk</div><div class="wine-meta"><span class="wine-tag">🍇 Pinot Blanc, Auxerrois en/of Chardonnay</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, appel, citrus, zachte mousse, lichte brioche</em></p><p class="wine-toelichting">Een toegankelijkere, logischer bubbel bij Nederlands bladerdeegcomfort dan Champagne.</p><p class="wine-toelichting">De mousse ruimt vet bladerdeeg en kruidig gehakt op. De lichte briochetoon sluit aan op het gebakken deeg.</p></div></div>
+  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center">
+    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px">🍷 Lees ook: Wijn &amp; Spijs combineren — de complete gids</a>
   </div>
   <div class="reviews-section">
     <div class="reviews-title">Beoordelingen</div>
@@ -134,79 +82,20 @@
     </div>
     <div id="reviews-lijst"></div>
   </div>
-  <footer>
-    <p>© Het Proeven</p>
-    <a href="/over.html">Over ons</a>
-  </footer>
+  <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
   <script>
     function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
     function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
-    function toggleDetailActie(type,slug,btn){
-      var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';
-      if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}
-      saveSet(key,set);
-    }
-    (function(){
-      var slug='saucijzenbroodjes-definitief';
-      var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');
-      var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');
-      if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
-      if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
-    })();
-    (function(){
-      const btn=document.getElementById('kookstand-btn');
-      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
-      let wl=null;
-      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
-      async function uit(){if(wl)await wl.release();}
-      btn.addEventListener('click',()=>wl?uit():aan());
-      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
-    })();
+    function toggleDetailActie(type,slug,btn){var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}saveSet(key,set);}
+    (function(){var slug='saucijzenbroodjes-definitief';var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');if(bf&&f.has(slug))bf.classList.add('detail-btn-active');if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');})();
+    (function(){const btn=document.getElementById('kookstand-btn');if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='.4';btn.style.cursor='not-allowed';}return;}let wl=null;async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}async function uit(){if(wl)await wl.release();}btn.addEventListener('click',()=>wl?uit():aan());document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});})();
   </script>
   <script>
-    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
-    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
-    const SLUG = 'saucijzenbroodjes-definitief';
-    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
-    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
-    async function laadReviews() {
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
-          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
-        if (!res.ok) return;
-        const reviews = await res.json();
-        if (reviews.length > 0) {
-          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
-          document.getElementById('review-score-wrap').innerHTML = `<div class="review-score-blok"><div class="review-getal">${gem}</div><div><div class="review-sterren-groot">${sterren(parseFloat(gem))}</div><div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div></div></div>`;
-        }
-        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
-          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
-          : reviews.map(r => `<div class="review-item"><div class="review-item-top"><span class="review-naam">${r.naam||'Anoniem'}</span><span class="review-sterren">${sterren(r.rating)}</span></div>${r.opmerking?`<div class="review-opmerking">${r.opmerking}</div>`:''}<div class="review-datum">${datumStr(r.aangemaakt_op)}</div></div>`).join('');
-      } catch(e) {}
-    }
-    window.verstuurReview = async function() {
-      const ratingEl = document.querySelector('input[name="rating"]:checked');
-      const melding = document.getElementById('review-melding');
-      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
-      const rating = parseInt(ratingEl.value);
-      const naam = document.getElementById('review-naam').value.trim();
-      const opmerking = document.getElementById('review-opmerking').value.trim();
-      melding.textContent = 'Bezig met opslaan…';
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
-          method: 'POST',
-          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
-          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
-        });
-        if (res.ok || res.status===201) {
-          melding.textContent = '✓ Bedankt voor je beoordeling!';
-          document.querySelector('input[name="rating"]:checked').checked = false;
-          document.getElementById('review-naam').value = '';
-          document.getElementById('review-opmerking').value = '';
-          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
-        } else { melding.textContent = 'Er ging iets mis.'; }
-      } catch(e) { melding.textContent = 'Er ging iets mis.'; }
-    };
+    const SU='https://mgbqqbrsunwgspcizynp.supabase.co',SK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g',SL='saucijzenbroodjes-definitief';
+    function st(n){return'★'.repeat(Math.round(n))+'☆'.repeat(5-Math.round(n));}
+    function ds(iso){return new Date(iso).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});}
+    async function laadReviews(){try{const res=await fetch(SU+'/rest/v1/reviews?slug=eq.'+SL+'&order=aangemaakt_op.desc',{headers:{'apikey':SK,'Authorization':'Bearer '+SK}});if(!res.ok)return;const rv=await res.json();if(rv.length>0){const gem=(rv.reduce((s,r)=>s+r.rating,0)/rv.length).toFixed(1);document.getElementById('review-score-wrap').innerHTML='<div class="review-score-blok"><div class="review-getal">'+gem+'</div><div><div class="review-sterren-groot">'+st(parseFloat(gem))+'</div><div class="review-aantal">'+rv.length+' '+(rv.length===1?'beoordeling':'beoordelingen')+'</div></div></div>';}document.getElementById('reviews-lijst').innerHTML=rv.length===0?'<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>':rv.map(r=>'<div class="review-item"><div class="review-item-top"><span class="review-naam">'+(r.naam||'Anoniem')+'</span><span class="review-sterren">'+st(r.rating)+'</span></div>'+(r.opmerking?'<div class="review-opmerking">'+r.opmerking+'</div>':'')+'<div class="review-datum">'+ds(r.aangemaakt_op)+'</div></div>').join('');}catch(e){}}
+    window.verstuurReview=async function(){const rEl=document.querySelector('input[name="rating"]:checked');const mel=document.getElementById('review-melding');if(!rEl){mel.textContent='Kies eerst een aantal sterren.';return;}const rating=parseInt(rEl.value);const naam=document.getElementById('review-naam').value.trim();const opm=document.getElementById('review-opmerking').value.trim();mel.textContent='Bezig met opslaan…';try{const res=await fetch(SU+'/rest/v1/reviews',{method:'POST',headers:{'apikey':SK,'Authorization':'Bearer '+SK,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({slug:SL,rating,naam:naam||null,opmerking:opm||null})});if(res.ok||res.status===201){mel.textContent='✓ Bedankt!';rEl.checked=false;document.getElementById('review-naam').value='';document.getElementById('review-opmerking').value='';setTimeout(()=>{mel.textContent='';laadReviews();},1200);}else{mel.textContent='Er ging iets mis.';}}catch(e){mel.textContent='Er ging iets mis.';}};
     laadReviews();
   </script>
 </body>

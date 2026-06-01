@@ -18,32 +18,8 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
-    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
-    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
-    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
-    .review-sterren-groot { color: #E8A020; font-size: 22px; }
-    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
-    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
-    .ster-keuze input { display: none; }
-    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
-    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
-    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
-    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
-    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
-    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
-    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
-    .review-form button:hover { background: #B85C30; }
-    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
-    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
-    .review-item:last-child { border-bottom: none; }
-    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
-    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
-    .review-sterren { color: #E8A020; font-size: 15px; }
-    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
-    .review-datum { font-size: 11px; color: #bbb; }
-    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
-</style>
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:12px;color:#aaa;margin-top:4px}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:32px;color:#ddd;cursor:pointer;transition:color .15s}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form{background:#F5EDE0;border-radius:8px;padding:20px 24px;margin-bottom:28px}.review-form h3{font-family:'Playfair Display',serif;font-size:16px;font-weight:400;margin-bottom:12px;color:#2B1A0D}.review-form input,.review-form textarea{width:100%;padding:10px 14px;border:1px solid #D4C8B4;border-radius:6px;background:#fff;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;outline:none;margin-bottom:10px;resize:vertical;box-sizing:border-box}.review-form input:focus,.review-form textarea:focus{border-color:#B85C30}.review-form button{background:#2B1A0D;color:#F3EDE1;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -60,13 +36,10 @@
     <span class="recipe-loc-tag">Hong Kong</span>
   </div>
   <h1 class="recipe-title">Chinese wontonsoep met varkensgehaktvulling, koolreepjes en ijsbergsla</h1>
-  <p class="recipe-desc">Het meest troostende gerecht van de Chinese keuken — en toch licht. Sappige varkensgehaktwontons in een heldere, aromatische bouillon van gember, knoflook en sesamolie. Flinterdunne reepjes Chinese kool en ijsbergsla die op het allerlaatste moment erin gaan — fris, knapperig en verfijnd. Niet overladen, niet zwaar. Een soepje dat je leeg eet en nog een kom wil.</p>
+  <p class="recipe-desc">FULLHet meest troostende gerecht van de Chinese keuken — en toch licht. Sappige varkensgehaktwontons in een heldere, aromatische bouillon van gember, knoflook en se</p>
   <div class="recipe-meta">
-    <span class="tag">40 min</span>
-    <span class="tag">4 lichte voorgerechten of 2 lichte maaltijden (4–5 wontons pp)</span>
-    <span class="tag tag-acc">Makkelijk</span>
-    <span class="tag tag-wine">🍷 Soave Classico DOC — Veneto, Italië</span>
-    <span style="margin-left:auto;display:flex;gap:8px;">
+    <span class="tag">40 min</span><span class="tag">4 lichte voorgerechten of 2 lichte maaltijden (4–5 wontons pp)</span><span class="tag tag-acc">Makkelijk</span><span class="tag tag-wine">🍷 Soave Classico DOC — Veneto, Italië</span>
+    <span style="margin-left:auto;display:flex;gap:8px">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla',this)">&#127859; Vandaag koken</button>
       <button class="detail-actie-btn" id="kookstand-btn">🍳 Kookstand</button>
@@ -75,45 +48,20 @@
   <div class="recipe-body">
     <div class="col-ingredients">
       <div class="col-h">Ingrediënten</div>
-      <div class="ing-cat">Voor de wontonvulling (ca. 20 stuks)</div><div class="ing-row"><span>varkensgehakt (15–20% vet)</span><span class="ing-amount">250 g</span></div><div class="ing-row"><span>lente-uitjes, zo fijn mogelijk gesneden</span><span class="ing-amount">2</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>teentjes knoflook, fijn geraspt</span><span class="ing-amount">2</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>Shaoxing rijstwijn of droge sherry</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>maizena</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>fijne suiker</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span>versgemalen witte peper</span><span class="ing-amount">¼ tl</span></div><div class="ing-cat">Voor de wontons</div><div class="ing-row"><span>kant-en-klare wontonvellen (vierkant, 8x8cm — bij de toko)</span><span class="ing-amount">20</span></div><div class="ing-row"><span>klein kommetje koud water</span><span class="ing-amount"></span></div><div class="ing-cat">Voor de bouillon</div><div class="ing-row"><span>goede kippenbouillon</span><span class="ing-amount">1 l</span></div><div class="ing-row"><span>water</span><span class="ing-amount">300 ml</span></div><div class="ing-row"><span>plakken verse gember, gekneusd</span><span class="ing-amount">3</span></div><div class="ing-row"><span>teentjes knoflook, gekneusd</span><span class="ing-amount">2</span></div><div class="ing-row"><span>lente-uitjes, in grove stukken (alleen voor de trek — gaan er weer uit)</span><span class="ing-amount">2</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount">1½ el</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span>zout en witte peper</span><span class="ing-amount">naar smaak</span></div><div class="ing-cat">Voor de groenten (flinterdun gesneden — niet grof)</div><div class="ing-row"><span>Chinese kool (napa kool) of spitskool, in flinterdunne reepjes van 2–3mm (als tagliatelle)</span><span class="ing-amount">150 g</span></div><div class="ing-row"><span>ijsbergsla, in flinterdunne reepjes (allerlaatst — 20 seconden)</span><span class="ing-amount">100 g</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>lente-uitjes, in schuine dunne ringen</span><span class="ing-amount">3</span></div><div class="ing-row"><span>druppel geroosterde sesamolie</span><span class="ing-amount"></span></div><div class="ing-row"><span>eventueel: druppel chiliolie apart</span><span class="ing-amount"></span></div><div class="ing-row"><span>versgemalen witte peper</span><span class="ing-amount">naar smaak</span></div>
+      <div class="ing-cat">Voor de wontonvulling (ca. 20 stuks)</div><div class="ing-row"><span class="ing-naam">varkensgehakt (15–20% vet)</span><span class="ing-amount">250 g</span></div><div class="ing-row"><span class="ing-naam">lente-uitjes, zo fijn mogelijk gesneden</span><span class="ing-amount">2</span></div><div class="ing-row"><span class="ing-naam">verse gember, fijn geraspt</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">teentjes knoflook, fijn geraspt</span><span class="ing-amount">2</span></div><div class="ing-row"><span class="ing-naam">lichte sojasaus</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span class="ing-naam">oestersaus</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">Shaoxing rijstwijn of droge sherry</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">geroosterde sesamolie</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">maizena</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">fijne suiker</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span class="ing-naam">fijn zeezout</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span class="ing-naam">versgemalen witte peper</span><span class="ing-amount">¼ tl</span></div><div class="ing-cat">Voor de wontons</div><div class="ing-row"><span class="ing-naam">kant-en-klare wontonvellen (vierkant, 8x8cm — bij de toko)</span><span class="ing-amount">20</span></div><div class="ing-row"><span class="ing-naam">klein kommetje koud water</span><span class="ing-amount"></span></div><div class="ing-cat">Voor de bouillon</div><div class="ing-row"><span class="ing-naam">goede kippenbouillon</span><span class="ing-amount">1 l</span></div><div class="ing-row"><span class="ing-naam">water</span><span class="ing-amount">300 ml</span></div><div class="ing-row"><span class="ing-naam">plakken verse gember, gekneusd</span><span class="ing-amount">3</span></div><div class="ing-row"><span class="ing-naam">teentjes knoflook, gekneusd</span><span class="ing-amount">2</span></div><div class="ing-row"><span class="ing-naam">lente-uitjes, in grove stukken (alleen voor de trek — gaan er weer uit)</span><span class="ing-amount">2</span></div><div class="ing-row"><span class="ing-naam">lichte sojasaus</span><span class="ing-amount">1½ el</span></div><div class="ing-row"><span class="ing-naam">oestersaus</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">geroosterde sesamolie</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span class="ing-naam">suiker</span><span class="ing-amount">½ tl</span></div><div class="ing-row"><span class="ing-naam">zout en witte peper</span><span class="ing-amount">naar smaak</span></div><div class="ing-cat">Voor de groenten (flinterdun gesneden — niet grof)</div><div class="ing-row"><span class="ing-naam">Chinese kool (napa kool) of spitskool, in flinterdunne reepjes van 2–3mm (als tagliatelle)</span><span class="ing-amount">150 g</span></div><div class="ing-row"><span class="ing-naam">ijsbergsla, in flinterdunne reepjes (allerlaatst — 20 seconden)</span><span class="ing-amount">100 g</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span class="ing-naam">lente-uitjes, in schuine dunne ringen</span><span class="ing-amount">3</span></div><div class="ing-row"><span class="ing-naam">druppel geroosterde sesamolie</span><span class="ing-amount"></span></div><div class="ing-row"><span class="ing-naam">eventueel: druppel chiliolie apart</span><span class="ing-amount"></span></div><div class="ing-row"><span class="ing-naam">versgemalen witte peper</span><span class="ing-amount">naar smaak</span></div>
     </div>
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Stap 1 — De wontonvulling:</strong> Alle vullingingrediënten in een kom. Roer krachtig in één richting 2–3 minuten tot het mengsel plakkerig samenhangt als een pasta. Dit geeft de wonton zijn sappigheid en stevigheid.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Stap 2 — De wontons vouwen:</strong> Leg een wontonvel als ruit voor je (punt omhoog). Leg 1 kleine theelepel vulling in het midden — niet meer, anders scheuren ze.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Stap 2 — De wontons vouwen:</strong> Bevochtig de randen met een vinger in koud water. Vouw de onderste punt omhoog tot een driehoek. Randen stevig dichtdrukken — geen lucht erin.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Stap 2 — De wontons vouwen:</strong> Klassieke vouw: Bevochtig één punt van de driehoek. Breng de twee onderste punten naar elkaar toe, overlappend. Stevig aandrukken. Leg op licht bebloemd werkblad onder vochtige doek.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stap 3 — De bouillon:</strong> Bouillon + water in een ruime pan. Gekneusd gember, knoflook en lente-ui toevoegen. 10 minuten zachtjes laten trekken op laag vuur — niet koken. Aromaten eruit vissen of zeven.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Stap 3 — De bouillon:</strong> Sojasaus, oestersaus, sesamolie, suiker, zout en witte peper toevoegen. Proef — warm, diep, licht zout, aromatisch. Warm houden op laagste stand.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Stap 4 — Wontons koken (ALTIJD apart — nooit in de bouillon):</strong> Ruime pan met water aan de kook. Wontons voorzichtig erin. 4–5 minuten — ze zijn klaar wanneer ze drijven en nog 30 seconden doorstomen. Met een schuimspaan eruit.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Stap 5 — Groenten en opbouwen:</strong> Chinese kool in de warme bouillon — 1–2 minuten op laag vuur. De reepjes moeten zacht worden maar nog een bite houden.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Stap 5 — Groenten en opbouwen:</strong> Allerlaatst — ijsbergsla erbij: 20–30 seconden maximaal. Ze worden warm maar blijven knapperig en fris.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Stap 5 — Groenten en opbouwen:</strong> Opbouwen: 4–5 wontons per persoon in warme diepe kommen. Bouillon met groenten eroverheen scheppen. Groenten mooi verdelen: koolreepjes rondom, ijsbergsla losjes bovenop. Lente-uiringen erop. Druppel sesamolie. Witte peper. Chiliolie apart.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Wontons nooit in de bouillon koken:</strong> Zetmeel maakt de bouillon troebel en plakkerig. Altijd apart koken, dan overbrengen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">De bouillon is alles:</strong> Goede kippenbouillon is de basis. Neem een kwaliteitscarton of zelfgemaakt. Tien minuten trekken met gember en knoflook maakt het verschil.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Groenten flinterdun snijden:</strong> Reepjes van 2–3mm snijden de soep elegant en eten verfijnd — grove brokken horen hier niet in.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">IJsbergsla allerlaatst:</strong> 20–30 seconden. Niet langer — ze wordt slap en verliest haar karakter.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Niet te veel vulling per wonton:</strong> Eén kleine theelepel. Te vol = scheuren.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — taugé:</strong> Voeg een handvol taugé toe tegelijk met de ijsbergsla. Knapperig, typisch Chinees en geeft extra textuur zonder de soep zwaar te maken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — garnalen in de vulling:</strong> 80g fijngehakte rauwe garnalen door het gehakt voor een rijkere, Hong Kong-stijl wonton.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Invriezen:</strong> Rauwe gevormde wontons direct invriezen op een bakplaat, daarna in een zak. Vanuit de vriezer koken: 5–6 minuten.</p></div>
+      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Wontons nooit in de bouillon koken:</strong> Zetmeel maakt de bouillon troebel en plakkerig. Altijd apart koken, dan overbrengen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">De bouillon is alles:</strong> Goede kippenbouillon is de basis. Neem een kwaliteitscarton of zelfgemaakt. Tien minuten trekken met gember en knoflook maakt het verschil.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Groenten flinterdun snijden:</strong> Reepjes van 2–3mm snijden de soep elegant en eten verfijnd — grove brokken horen hier niet in.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">IJsbergsla allerlaatst:</strong> 20–30 seconden. Niet langer — ze wordt slap en verliest haar karakter.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Niet te veel vulling per wonton:</strong> Eén kleine theelepel. Te vol = scheuren.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — taugé:</strong> Voeg een handvol taugé toe tegelijk met de ijsbergsla. Knapperig, typisch Chinees en geeft extra textuur zonder de soep zwaar te maken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — garnalen in de vulling:</strong> 80g fijngehakte rauwe garnalen door het gehakt voor een rijkere, Hong Kong-stijl wonton.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Invriezen:</strong> Rauwe gevormde wontons direct invriezen op een bakplaat, daarna in een zak. Vanuit de vriezer koken: 5–6 minuten.</p></div>
     </div>
   </div>
-  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px;">
-    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px;transition:all 0.2s;">
-      👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken
-    </a>
+  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">
+    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px">👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken</a>
   </div>
-<div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🍷 Aanbevolen</div>
-  <div class="wine-naam">Soave Classico DOC — Veneto, Italië</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Garganega</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, licht, mineraal, amandel, witte bloesem, subtiele citrus</em></p>
-  <p class="wine-toelichting">Een elegante, lichte Italiaanse witte wijn — clean en verfijnd zonder ooit te overheersen.</p>
-  <p class="wine-toelichting">De lichte mineraliteit spiegelt de heldere, pure bouillon. De subtiele amandeltoon sluit aan op de sesamolie. Licht genoeg om de delicate wontonvulling volledig te laten spreken.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Mâcon-Villages AOC — Bourgogne, Frankrijk</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Chardonnay</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, rond, wit fruit, zacht, toegankelijk</em></p>
-  <p class="wine-toelichting">Een rondere, toegankelijke witte wijn die de bouillon niet overheerst.</p>
-  <p class="wine-toelichting">De zachte Chardonnay-structuur past bij varkensgehakt en wontondeeg. De frisse zuren houden de bouillon licht.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Grüner Veltliner Federspiel — Wachau, Oostenrijk</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Grüner Veltliner</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, fris, groene appel, witte peper, licht kruidig</em></p>
-  <p class="wine-toelichting">Een lichte, kruidige witte wijn die mooi werkt bij gember en lente-ui.</p>
-  <p class="wine-toelichting">De witte-pepertoon sluit aan op gember en lente-ui. De frisse zuren reinigen het mondgevoel van de vulling en houden de soep elegant.</p>
-</div></div>
-  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
-    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px;transition:all 0.2s;">
-      🍷 Lees ook: Wijn & Spijs combineren — de complete gids
-    </a>
+  <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🍷 Aanbevolen</div><div class="wine-naam">Soave Classico DOC — Veneto, Italië</div><div class="wine-meta"><span class="wine-tag">🍇 Garganega</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, licht, mineraal, amandel, witte bloesem, subtiele citrus</em></p><p class="wine-toelichting">Een elegante, lichte Italiaanse witte wijn — clean en verfijnd zonder ooit te overheersen.</p><p class="wine-toelichting">De lichte mineraliteit spiegelt de heldere, pure bouillon. De subtiele amandeltoon sluit aan op de sesamolie. Licht genoeg om de delicate wontonvulling volledig te laten spreken.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Mâcon-Villages AOC — Bourgogne, Frankrijk</div><div class="wine-meta"><span class="wine-tag">🍇 Chardonnay</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, rond, wit fruit, zacht, toegankelijk</em></p><p class="wine-toelichting">Een rondere, toegankelijke witte wijn die de bouillon niet overheerst.</p><p class="wine-toelichting">De zachte Chardonnay-structuur past bij varkensgehakt en wontondeeg. De frisse zuren houden de bouillon licht.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Grüner Veltliner Federspiel — Wachau, Oostenrijk</div><div class="wine-meta"><span class="wine-tag">🍇 Grüner Veltliner</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, fris, groene appel, witte peper, licht kruidig</em></p><p class="wine-toelichting">Een lichte, kruidige witte wijn die mooi werkt bij gember en lente-ui.</p><p class="wine-toelichting">De witte-pepertoon sluit aan op gember en lente-ui. De frisse zuren reinigen het mondgevoel van de vulling en houden de soep elegant.</p></div></div>
+  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center">
+    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px">🍷 Lees ook: Wijn &amp; Spijs combineren — de complete gids</a>
   </div>
   <div class="reviews-section">
     <div class="reviews-title">Beoordelingen</div>
@@ -134,79 +82,20 @@
     </div>
     <div id="reviews-lijst"></div>
   </div>
-  <footer>
-    <p>© Het Proeven</p>
-    <a href="/over.html">Over ons</a>
-  </footer>
+  <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
   <script>
     function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
     function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
-    function toggleDetailActie(type,slug,btn){
-      var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';
-      if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}
-      saveSet(key,set);
-    }
-    (function(){
-      var slug='chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla';
-      var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');
-      var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');
-      if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
-      if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
-    })();
-    (function(){
-      const btn=document.getElementById('kookstand-btn');
-      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
-      let wl=null;
-      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
-      async function uit(){if(wl)await wl.release();}
-      btn.addEventListener('click',()=>wl?uit():aan());
-      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
-    })();
+    function toggleDetailActie(type,slug,btn){var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}saveSet(key,set);}
+    (function(){var slug='chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla';var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');if(bf&&f.has(slug))bf.classList.add('detail-btn-active');if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');})();
+    (function(){const btn=document.getElementById('kookstand-btn');if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='.4';btn.style.cursor='not-allowed';}return;}let wl=null;async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}async function uit(){if(wl)await wl.release();}btn.addEventListener('click',()=>wl?uit():aan());document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});})();
   </script>
   <script>
-    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
-    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
-    const SLUG = 'chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla';
-    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
-    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
-    async function laadReviews() {
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
-          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
-        if (!res.ok) return;
-        const reviews = await res.json();
-        if (reviews.length > 0) {
-          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
-          document.getElementById('review-score-wrap').innerHTML = `<div class="review-score-blok"><div class="review-getal">${gem}</div><div><div class="review-sterren-groot">${sterren(parseFloat(gem))}</div><div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div></div></div>`;
-        }
-        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
-          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
-          : reviews.map(r => `<div class="review-item"><div class="review-item-top"><span class="review-naam">${r.naam||'Anoniem'}</span><span class="review-sterren">${sterren(r.rating)}</span></div>${r.opmerking?`<div class="review-opmerking">${r.opmerking}</div>`:''}<div class="review-datum">${datumStr(r.aangemaakt_op)}</div></div>`).join('');
-      } catch(e) {}
-    }
-    window.verstuurReview = async function() {
-      const ratingEl = document.querySelector('input[name="rating"]:checked');
-      const melding = document.getElementById('review-melding');
-      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
-      const rating = parseInt(ratingEl.value);
-      const naam = document.getElementById('review-naam').value.trim();
-      const opmerking = document.getElementById('review-opmerking').value.trim();
-      melding.textContent = 'Bezig met opslaan…';
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
-          method: 'POST',
-          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
-          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
-        });
-        if (res.ok || res.status===201) {
-          melding.textContent = '✓ Bedankt voor je beoordeling!';
-          document.querySelector('input[name="rating"]:checked').checked = false;
-          document.getElementById('review-naam').value = '';
-          document.getElementById('review-opmerking').value = '';
-          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
-        } else { melding.textContent = 'Er ging iets mis.'; }
-      } catch(e) { melding.textContent = 'Er ging iets mis.'; }
-    };
+    const SU='https://mgbqqbrsunwgspcizynp.supabase.co',SK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g',SL='chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla';
+    function st(n){return'★'.repeat(Math.round(n))+'☆'.repeat(5-Math.round(n));}
+    function ds(iso){return new Date(iso).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});}
+    async function laadReviews(){try{const res=await fetch(SU+'/rest/v1/reviews?slug=eq.'+SL+'&order=aangemaakt_op.desc',{headers:{'apikey':SK,'Authorization':'Bearer '+SK}});if(!res.ok)return;const rv=await res.json();if(rv.length>0){const gem=(rv.reduce((s,r)=>s+r.rating,0)/rv.length).toFixed(1);document.getElementById('review-score-wrap').innerHTML='<div class="review-score-blok"><div class="review-getal">'+gem+'</div><div><div class="review-sterren-groot">'+st(parseFloat(gem))+'</div><div class="review-aantal">'+rv.length+' '+(rv.length===1?'beoordeling':'beoordelingen')+'</div></div></div>';}document.getElementById('reviews-lijst').innerHTML=rv.length===0?'<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>':rv.map(r=>'<div class="review-item"><div class="review-item-top"><span class="review-naam">'+(r.naam||'Anoniem')+'</span><span class="review-sterren">'+st(r.rating)+'</span></div>'+(r.opmerking?'<div class="review-opmerking">'+r.opmerking+'</div>':'')+'<div class="review-datum">'+ds(r.aangemaakt_op)+'</div></div>').join('');}catch(e){}}
+    window.verstuurReview=async function(){const rEl=document.querySelector('input[name="rating"]:checked');const mel=document.getElementById('review-melding');if(!rEl){mel.textContent='Kies eerst een aantal sterren.';return;}const rating=parseInt(rEl.value);const naam=document.getElementById('review-naam').value.trim();const opm=document.getElementById('review-opmerking').value.trim();mel.textContent='Bezig met opslaan…';try{const res=await fetch(SU+'/rest/v1/reviews',{method:'POST',headers:{'apikey':SK,'Authorization':'Bearer '+SK,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({slug:SL,rating,naam:naam||null,opmerking:opm||null})});if(res.ok||res.status===201){mel.textContent='✓ Bedankt!';rEl.checked=false;document.getElementById('review-naam').value='';document.getElementById('review-opmerking').value='';setTimeout(()=>{mel.textContent='';laadReviews();},1200);}else{mel.textContent='Er ging iets mis.';}}catch(e){mel.textContent='Er ging iets mis.';}};
     laadReviews();
   </script>
 </body>

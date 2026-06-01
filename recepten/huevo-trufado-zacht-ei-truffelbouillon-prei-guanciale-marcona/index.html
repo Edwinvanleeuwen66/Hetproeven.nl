@@ -18,32 +18,8 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
-    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
-    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
-    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
-    .review-sterren-groot { color: #E8A020; font-size: 22px; }
-    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
-    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
-    .ster-keuze input { display: none; }
-    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
-    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
-    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
-    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
-    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
-    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
-    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
-    .review-form button:hover { background: #B85C30; }
-    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
-    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
-    .review-item:last-child { border-bottom: none; }
-    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
-    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
-    .review-sterren { color: #E8A020; font-size: 15px; }
-    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
-    .review-datum { font-size: 11px; color: #bbb; }
-    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
-</style>
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:12px;color:#aaa;margin-top:4px}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:32px;color:#ddd;cursor:pointer;transition:color .15s}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form{background:#F5EDE0;border-radius:8px;padding:20px 24px;margin-bottom:28px}.review-form h3{font-family:'Playfair Display',serif;font-size:16px;font-weight:400;margin-bottom:12px;color:#2B1A0D}.review-form input,.review-form textarea{width:100%;padding:10px 14px;border:1px solid #D4C8B4;border-radius:6px;background:#fff;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;outline:none;margin-bottom:10px;resize:vertical;box-sizing:border-box}.review-form input:focus,.review-form textarea:focus{border-color:#B85C30}.review-form button{background:#2B1A0D;color:#F3EDE1;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -60,13 +36,10 @@
     <span class="recipe-loc-tag">Larrabetzu, Baskenland</span>
   </div>
   <h1 class="recipe-title">&quot;Huevo Trufado&quot; — zacht ei met truffelbouillon, prei, guanciale en Marcona-amandel — Azurmendi-stijl</h1>
-  <p class="recipe-desc">Azurmendi Larrabetzu — Chef Eneko Atxa, drie Michelin-sterren. Spectaculair simpel: een zacht gegaard ei in een nest van boterzachte prei, krokante guanciale en geroosterde Marcona-amandelen. Dan aan tafel: warme truffelbouillon ingeschonken. De stoom stijgt op en de truffelgeur ontvouwt zich. De dooier loopt open in de truffelbouillon. Dat moment is het gerecht.</p>
+  <p class="recipe-desc">FULLAzurmendi Larrabetzu — Chef Eneko Atxa, drie Michelin-sterren. Een zacht gegaard ei in een nest van boterzachte prei, krokante guanciale en geroosterde Marcona-</p>
   <div class="recipe-meta">
-    <span class="tag">35 min</span>
-    <span class="tag">4 voorgerechten</span>
-    <span class="tag tag-acc">Gemiddeld</span>
-    <span class="tag tag-wine">🍷 Corpinnat Brut Nature Gran Reserva — Penedès, Spanje</span>
-    <span style="margin-left:auto;display:flex;gap:8px;">
+    <span class="tag">35 min</span><span class="tag">4 voorgerechten</span><span class="tag tag-acc">Gemiddeld</span><span class="tag tag-wine">🍷 Corpinnat Brut Nature Gran Reserva — Penedès, Spanje</span>
+    <span style="margin-left:auto;display:flex;gap:8px">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona',this)">&#127859; Vandaag koken</button>
       <button class="detail-actie-btn" id="kookstand-btn">🍳 Kookstand</button>
@@ -75,45 +48,20 @@
   <div class="recipe-body">
     <div class="col-ingredients">
       <div class="col-h">Ingrediënten</div>
-      <div class="ing-cat">Voor de eieren</div><div class="ing-row"><span>zeer verse eieren</span><span class="ing-amount">4</span></div><div class="ing-cat">Voor de truffelbouillon</div><div class="ing-row"><span>goede kippenbouillon</span><span class="ing-amount">600 ml</span></div><div class="ing-row"><span>kleine sjalot, fijn gesnipperd</span><span class="ing-amount">1</span></div><div class="ing-row"><span>klein takje tijm</span><span class="ing-amount">1</span></div><div class="ing-row"><span>droge sherry of Madeira (optioneel)</span><span class="ing-amount">20 ml</span></div><div class="ing-row"><span>goede truffelpasta (lees etiket: tuber melanosporum of tuber aestivum)</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>ijskoude roomboter (monter au beurre)</span><span class="ing-amount">10 g</span></div><div class="ing-row"><span>versgemalen zwarte peper + zout</span><span class="ing-amount">naar smaak</span></div><div class="ing-row"><span>luxe versie: 5–10g verse zwarte truffel — koudinfusie overnight</span><span class="ing-amount"></span></div><div class="ing-cat">Voor de prei-julienne</div><div class="ing-row"><span>preien (alleen wit en lichtgroen), in fijne julienne</span><span class="ing-amount">2</span></div><div class="ing-row"><span>ongezouten roomboter</span><span class="ing-amount">20 g</span></div><div class="ing-row"><span>kippenbouillon</span><span class="ing-amount">2 el</span></div><div class="ing-row"><span>zout + witte peper</span><span class="ing-amount">naar smaak</span></div><div class="ing-cat">Voor de guanciale en amandelen</div><div class="ing-row"><span>guanciale of pancetta, in blokjes van 5mm</span><span class="ing-amount">80 g</span></div><div class="ing-row"><span>Marcona-amandelen, grof gehakt</span><span class="ing-amount">30 g</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>bieslook, fijn gesneden</span><span class="ing-amount"></span></div><div class="ing-row"><span>paar druppels goede olijfolie</span><span class="ing-amount"></span></div><div class="ing-row"><span>versgemalen zwarte peper</span><span class="ing-amount">naar smaak</span></div><div class="ing-row"><span>eventueel: minieme truffelrasp allerlaatst</span><span class="ing-amount"></span></div>
+      <div class="ing-cat">Voor de eieren</div><div class="ing-row"><span class="ing-naam">zeer verse eieren</span><span class="ing-amount">4</span></div><div class="ing-cat">Voor de truffelbouillon</div><div class="ing-row"><span class="ing-naam">goede kippenbouillon</span><span class="ing-amount">600 ml</span></div><div class="ing-row"><span class="ing-naam">kleine sjalot, fijn gesnipperd</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">klein takje tijm</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">droge sherry of Madeira (optioneel)</span><span class="ing-amount">20 ml</span></div><div class="ing-row"><span class="ing-naam">goede truffelpasta (lees etiket: tuber melanosporum of tuber aestivum)</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">ijskoude roomboter (monter au beurre)</span><span class="ing-amount">10 g</span></div><div class="ing-row"><span class="ing-naam">versgemalen zwarte peper + zout</span><span class="ing-amount">naar smaak</span></div><div class="ing-row"><span class="ing-naam">luxe versie: 5–10g verse zwarte truffel — koudinfusie overnight</span><span class="ing-amount"></span></div><div class="ing-cat">Voor de prei-julienne</div><div class="ing-row"><span class="ing-naam">preien (alleen wit en lichtgroen), in fijne julienne</span><span class="ing-amount">2</span></div><div class="ing-row"><span class="ing-naam">ongezouten roomboter</span><span class="ing-amount">20 g</span></div><div class="ing-row"><span class="ing-naam">kippenbouillon</span><span class="ing-amount">2 el</span></div><div class="ing-row"><span class="ing-naam">zout + witte peper</span><span class="ing-amount">naar smaak</span></div><div class="ing-cat">Voor de guanciale en amandelen</div><div class="ing-row"><span class="ing-naam">guanciale of pancetta, in blokjes van 5mm</span><span class="ing-amount">80 g</span></div><div class="ing-row"><span class="ing-naam">Marcona-amandelen, grof gehakt</span><span class="ing-amount">30 g</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span class="ing-naam">bieslook, fijn gesneden</span><span class="ing-amount"></span></div><div class="ing-row"><span class="ing-naam">paar druppels goede olijfolie</span><span class="ing-amount"></span></div><div class="ing-row"><span class="ing-naam">versgemalen zwarte peper</span><span class="ing-amount">naar smaak</span></div><div class="ing-row"><span class="ing-naam">eventueel: minieme truffelrasp allerlaatst</span><span class="ing-amount"></span></div>
     </div>
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Stap 1 — Truffelbouillon:</strong> Koudinfusie (beste methode bij verse truffel): Bouillon verwarmen tot 60°C. Truffelrasp erin. Afkoelen en minimaal 4 uur — liefst een nacht — koud laten infuseren in de koelkast. De koude trekking geeft een dieper, meer complex aroma dan snel verwarmen.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Stap 1 — Truffelbouillon:</strong> Snelle methode: Kippenbouillon met sjalot, tijm en optioneel sherry in een pan. Inkoken van 600ml naar ca. 300ml. Zeven. Truffelpasta erdoor roeren. Pas zouten aan het einde — inkoken concentreert zout sterk.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Stap 1 — Truffelbouillon:</strong> Vlak voor serveren: opnieuw verwarmen tot net tegen het kookpunt. Van het vuur, koude boterblokjes erdoor kloppen. Zwarte peper.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Stap 2 — Eieren (6½ minuten — de betrouwbaarste methode):</strong> Water zacht aan de kook. Eieren voorzichtig erin. Exact 6½ minuten. Direct in ijskoud water. Voorzichtig pellen. Bewaren op kamertemperatuur. Vlak voor serveren 1 minuut in warm water opwarmen.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stap 3 — Marcona-amandelen:</strong> Oven op 160°C. Amandelen op een bakplaat 8–10 minuten tot licht goudbruin en nootachtig geurend. Direct van de plaat op een koud bord. Grof hakken. Bewaar droog.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Stap 4 — Guanciale:</strong> Guanciale-blokjes in een droge koekenpan op middelhoog vuur langzaam uitbakken tot krokant en goudbruin — 6–8 minuten. Uitlekken op keukenpapier. Bewaar het uitgebakken vet voor de prei.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Stap 5 — Prei-julienne:</strong> Boter en 2 el bouillon in een kleine pan op laag vuur. Prei-julienne erbij. 6–8 minuten zacht stoven met deksel — de prei wordt glazig, zoet en glanzend zonder te kleuren. Zout en witte peper.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Stap 6 — Opbouwen:</strong> Warme diepe kommen. Prei-julienne als zacht nest in het midden.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Stap 6 — Opbouwen:</strong> Zacht ei voorzichtig erop. Guanciale en Marcona-amandelen ernaast en eromheen.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Stap 6 — Opbouwen:</strong> Bieslook, druppel olijfolie, zwarte peper. Eventueel minieme truffelrasp.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Stap 6 — Opbouwen:</strong> Tableside: warme truffelbouillon voorzichtig rondom het ei ingeschonken — niet erover maar als een golf die de kom binnenstroomt. Direct eten — de dooier loopt open in de truffelbouillon.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8">Zachtgekookt ei is betrouwbaarder dan pocheren: Exact 6½ minuten geeft een perfect vloeibare, warme dooier. Minder stress dan pocheren, mooier op het bord.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Koudinfusie bij verse truffel:</strong> Truffelaroma is vluchtig bij hitte. Een nacht koud trekken in de bouillon geeft veel meer diepte dan 20 minuten warm.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Truffelpasta vs. verse truffel:</strong> Goede truffelpasta (tuber melanosporum of aestivum) geeft ruim voldoende diepte voor thuis. Koop nooit truffelolie met &quot;aroma naturale&quot; — dat is synthetisch en smaakt kunstmatig.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Bouillon pas laat zouten:</strong> Inkoken concentreert zout sterk. Altijd pas aan het einde proeven en afsmaken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Guanciale boven pancetta:</strong> Rijker, nootachtiger smeltvet. Bij Italiaanse delicatessen of goede supermarkten. Pancetta werkt ook prima.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tableside is verplicht:</strong> De geur van de truffelbouillon die opstijgt met de stoom is het emotionele moment van dit gerecht. In de keuken inschenken en dan brengen is niet hetzelfde.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Voorbereiding:</strong> Truffelbouillon, prei, guanciale en amandelen kunnen grotendeels vooraf. Eieren kook je kort vooraf en verwarm je vlak voor serveren zacht terug.</p></div>
+      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Zachtgekookt ei is betrouwbaarder dan pocheren: Exact 6½ minuten geeft een perfect vloeibare, warme dooier. Minder stress dan pocheren, mooier op het bord.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Koudinfusie bij verse truffel:</strong> Truffelaroma is vluchtig bij hitte. Een nacht koud trekken in de bouillon geeft veel meer diepte dan 20 minuten warm.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Truffelpasta vs. verse truffel:</strong> Goede truffelpasta (tuber melanosporum of aestivum) geeft ruim voldoende diepte voor thuis. Koop nooit truffelolie met &quot;aroma naturale&quot; — dat is synthetisch en smaakt kunstmatig.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Bouillon pas laat zouten:</strong> Inkoken concentreert zout sterk. Altijd pas aan het einde proeven en afsmaken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Guanciale boven pancetta:</strong> Rijker, nootachtiger smeltvet. Bij Italiaanse delicatessen of goede supermarkten. Pancetta werkt ook prima.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tableside is verplicht:</strong> De geur van de truffelbouillon die opstijgt met de stoom is het emotionele moment van dit gerecht. In de keuken inschenken en dan brengen is niet hetzelfde.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Voorbereiding:</strong> Truffelbouillon, prei, guanciale en amandelen kunnen grotendeels vooraf. Eieren kook je kort vooraf en verwarm je vlak voor serveren zacht terug.</p></div>
     </div>
   </div>
-  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px;">
-    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px;transition:all 0.2s;">
-      👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken
-    </a>
+  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">
+    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px">👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken</a>
   </div>
-<div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🍷 Aanbevolen</div>
-  <div class="wine-naam">Corpinnat Brut Nature Gran Reserva — Penedès, Spanje</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Xarel·lo, Macabeo en/of Parellada</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Kurkdroog, complex, citrus, appel, brioche, fijne mousse</em></p>
-  <p class="wine-toelichting">Een Spaanse premium-bubbel die perfect past bij Azurmendi-stijl ei, truffel, guanciale en Marcona.</p>
-  <p class="wine-toelichting">De mousse snijdt door eidooier en guanciale. De rijpingscomplexiteit sluit aan op truffelbouillon en amandel, terwijl Brut Nature het gerecht strak houdt.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Puligny-Montrachet AOC of Mâcon-Villages AOC — Bourgogne, Frankrijk</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Chardonnay</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, mineraal, witte perzik, citrus, subtiele botertoon, lange afdronk</em></p>
-  <p class="wine-toelichting">Chardonnay en truffel — een van de grote klassieke combinaties van de Franse gastronomie.</p>
-  <p class="wine-toelichting">De minerale Chardonnay versterkt de aardse truffeldiepte. De botertoon sluit aan op prei en guanciale-vet. Puligny als het kan — Mâcon als je het budgetvriendelijker wil.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Witte Rioja DOCa — Rioja, Spanje (subtiel hout)</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Viura (eventueel met Garnacha Blanca)</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Droog, rond, citrus, amandel, lichte vanille, zachte zuren</em></p>
-  <p class="wine-toelichting">De grote witte wijn van Rioja — regionaal passend, elegant en nootachtig.</p>
-  <p class="wine-toelichting">De amandelachtige ronding sluit aan op de Marcona-amandelen en de truffel. De zachte vanilletoon sluit aan op de truffel. De Spaanse herkomst verbindt het gerecht met zijn Iberische wortels.</p>
-</div></div>
-  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
-    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px;transition:all 0.2s;">
-      🍷 Lees ook: Wijn & Spijs combineren — de complete gids
-    </a>
+  <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🍷 Aanbevolen</div><div class="wine-naam">Corpinnat Brut Nature Gran Reserva — Penedès, Spanje</div><div class="wine-meta"><span class="wine-tag">🍇 Xarel·lo, Macabeo en/of Parellada</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Kurkdroog, complex, citrus, appel, brioche, fijne mousse</em></p><p class="wine-toelichting">Een Spaanse premium-bubbel die perfect past bij Azurmendi-stijl ei, truffel, guanciale en Marcona.</p><p class="wine-toelichting">De mousse snijdt door eidooier en guanciale. De rijpingscomplexiteit sluit aan op truffelbouillon en amandel, terwijl Brut Nature het gerecht strak houdt.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Puligny-Montrachet AOC of Mâcon-Villages AOC — Bourgogne, Frankrijk</div><div class="wine-meta"><span class="wine-tag">🍇 Chardonnay</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, mineraal, witte perzik, citrus, subtiele botertoon, lange afdronk</em></p><p class="wine-toelichting">Chardonnay en truffel — een van de grote klassieke combinaties van de Franse gastronomie.</p><p class="wine-toelichting">De minerale Chardonnay versterkt de aardse truffeldiepte. De botertoon sluit aan op prei en guanciale-vet. Puligny als het kan — Mâcon als je het budgetvriendelijker wil.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Witte Rioja DOCa — Rioja, Spanje (subtiel hout)</div><div class="wine-meta"><span class="wine-tag">🍇 Viura (eventueel met Garnacha Blanca)</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Droog, rond, citrus, amandel, lichte vanille, zachte zuren</em></p><p class="wine-toelichting">De grote witte wijn van Rioja — regionaal passend, elegant en nootachtig.</p><p class="wine-toelichting">De amandelachtige ronding sluit aan op de Marcona-amandelen en de truffel. De zachte vanilletoon sluit aan op de truffel. De Spaanse herkomst verbindt het gerecht met zijn Iberische wortels.</p></div></div>
+  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center">
+    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px">🍷 Lees ook: Wijn &amp; Spijs combineren — de complete gids</a>
   </div>
   <div class="reviews-section">
     <div class="reviews-title">Beoordelingen</div>
@@ -134,79 +82,20 @@
     </div>
     <div id="reviews-lijst"></div>
   </div>
-  <footer>
-    <p>© Het Proeven</p>
-    <a href="/over.html">Over ons</a>
-  </footer>
+  <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
   <script>
     function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
     function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
-    function toggleDetailActie(type,slug,btn){
-      var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';
-      if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}
-      saveSet(key,set);
-    }
-    (function(){
-      var slug='huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona';
-      var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');
-      var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');
-      if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
-      if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
-    })();
-    (function(){
-      const btn=document.getElementById('kookstand-btn');
-      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
-      let wl=null;
-      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
-      async function uit(){if(wl)await wl.release();}
-      btn.addEventListener('click',()=>wl?uit():aan());
-      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
-    })();
+    function toggleDetailActie(type,slug,btn){var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}saveSet(key,set);}
+    (function(){var slug='huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona';var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');if(bf&&f.has(slug))bf.classList.add('detail-btn-active');if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');})();
+    (function(){const btn=document.getElementById('kookstand-btn');if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='.4';btn.style.cursor='not-allowed';}return;}let wl=null;async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}async function uit(){if(wl)await wl.release();}btn.addEventListener('click',()=>wl?uit():aan());document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});})();
   </script>
   <script>
-    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
-    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
-    const SLUG = 'huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona';
-    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
-    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
-    async function laadReviews() {
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
-          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
-        if (!res.ok) return;
-        const reviews = await res.json();
-        if (reviews.length > 0) {
-          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
-          document.getElementById('review-score-wrap').innerHTML = `<div class="review-score-blok"><div class="review-getal">${gem}</div><div><div class="review-sterren-groot">${sterren(parseFloat(gem))}</div><div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div></div></div>`;
-        }
-        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
-          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
-          : reviews.map(r => `<div class="review-item"><div class="review-item-top"><span class="review-naam">${r.naam||'Anoniem'}</span><span class="review-sterren">${sterren(r.rating)}</span></div>${r.opmerking?`<div class="review-opmerking">${r.opmerking}</div>`:''}<div class="review-datum">${datumStr(r.aangemaakt_op)}</div></div>`).join('');
-      } catch(e) {}
-    }
-    window.verstuurReview = async function() {
-      const ratingEl = document.querySelector('input[name="rating"]:checked');
-      const melding = document.getElementById('review-melding');
-      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
-      const rating = parseInt(ratingEl.value);
-      const naam = document.getElementById('review-naam').value.trim();
-      const opmerking = document.getElementById('review-opmerking').value.trim();
-      melding.textContent = 'Bezig met opslaan…';
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
-          method: 'POST',
-          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
-          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
-        });
-        if (res.ok || res.status===201) {
-          melding.textContent = '✓ Bedankt voor je beoordeling!';
-          document.querySelector('input[name="rating"]:checked').checked = false;
-          document.getElementById('review-naam').value = '';
-          document.getElementById('review-opmerking').value = '';
-          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
-        } else { melding.textContent = 'Er ging iets mis.'; }
-      } catch(e) { melding.textContent = 'Er ging iets mis.'; }
-    };
+    const SU='https://mgbqqbrsunwgspcizynp.supabase.co',SK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g',SL='huevo-trufado-zacht-ei-truffelbouillon-prei-guanciale-marcona';
+    function st(n){return'★'.repeat(Math.round(n))+'☆'.repeat(5-Math.round(n));}
+    function ds(iso){return new Date(iso).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});}
+    async function laadReviews(){try{const res=await fetch(SU+'/rest/v1/reviews?slug=eq.'+SL+'&order=aangemaakt_op.desc',{headers:{'apikey':SK,'Authorization':'Bearer '+SK}});if(!res.ok)return;const rv=await res.json();if(rv.length>0){const gem=(rv.reduce((s,r)=>s+r.rating,0)/rv.length).toFixed(1);document.getElementById('review-score-wrap').innerHTML='<div class="review-score-blok"><div class="review-getal">'+gem+'</div><div><div class="review-sterren-groot">'+st(parseFloat(gem))+'</div><div class="review-aantal">'+rv.length+' '+(rv.length===1?'beoordeling':'beoordelingen')+'</div></div></div>';}document.getElementById('reviews-lijst').innerHTML=rv.length===0?'<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>':rv.map(r=>'<div class="review-item"><div class="review-item-top"><span class="review-naam">'+(r.naam||'Anoniem')+'</span><span class="review-sterren">'+st(r.rating)+'</span></div>'+(r.opmerking?'<div class="review-opmerking">'+r.opmerking+'</div>':'')+'<div class="review-datum">'+ds(r.aangemaakt_op)+'</div></div>').join('');}catch(e){}}
+    window.verstuurReview=async function(){const rEl=document.querySelector('input[name="rating"]:checked');const mel=document.getElementById('review-melding');if(!rEl){mel.textContent='Kies eerst een aantal sterren.';return;}const rating=parseInt(rEl.value);const naam=document.getElementById('review-naam').value.trim();const opm=document.getElementById('review-opmerking').value.trim();mel.textContent='Bezig met opslaan…';try{const res=await fetch(SU+'/rest/v1/reviews',{method:'POST',headers:{'apikey':SK,'Authorization':'Bearer '+SK,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({slug:SL,rating,naam:naam||null,opmerking:opm||null})});if(res.ok||res.status===201){mel.textContent='✓ Bedankt!';rEl.checked=false;document.getElementById('review-naam').value='';document.getElementById('review-opmerking').value='';setTimeout(()=>{mel.textContent='';laadReviews();},1200);}else{mel.textContent='Er ging iets mis.';}}catch(e){mel.textContent='Er ging iets mis.';}};
     laadReviews();
   </script>
 </body>

@@ -18,32 +18,8 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
-    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
-    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
-    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
-    .review-sterren-groot { color: #E8A020; font-size: 22px; }
-    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
-    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
-    .ster-keuze input { display: none; }
-    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
-    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
-    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
-    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
-    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
-    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
-    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
-    .review-form button:hover { background: #B85C30; }
-    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
-    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
-    .review-item:last-child { border-bottom: none; }
-    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
-    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
-    .review-sterren { color: #E8A020; font-size: 15px; }
-    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
-    .review-datum { font-size: 11px; color: #bbb; }
-    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
-</style>
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:12px;color:#aaa;margin-top:4px}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:32px;color:#ddd;cursor:pointer;transition:color .15s}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form{background:#F5EDE0;border-radius:8px;padding:20px 24px;margin-bottom:28px}.review-form h3{font-family:'Playfair Display',serif;font-size:16px;font-weight:400;margin-bottom:12px;color:#2B1A0D}.review-form input,.review-form textarea{width:100%;padding:10px 14px;border:1px solid #D4C8B4;border-radius:6px;background:#fff;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;outline:none;margin-bottom:10px;resize:vertical;box-sizing:border-box}.review-form input:focus,.review-form textarea:focus{border-color:#B85C30}.review-form button{background:#2B1A0D;color:#F3EDE1;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -60,13 +36,10 @@
     <span class="recipe-loc-tag">Jakarta</span>
   </div>
   <h1 class="recipe-title">Gado Gado Culinair — warme salade met zijdezachte pindasaus</h1>
-  <p class="recipe-desc">Een culinaire gado gado zonder wortel — sperziebonen, kool, komkommer, taugé en een zachtgekookt ei op een bedje van romige pindasaus op kokosmelkbasis. De kracht zit in de temperatuurcontrasten: lauwwarme groenten, rauwe komkommer, warme saus.</p>
+  <p class="recipe-desc">FULLGeblancheerde groenten met zachtgekookt ei en een zijdezachte pindasaus op kokosmelkbasis.</p>
   <div class="recipe-meta">
-    <span class="tag">30 min</span>
-    <span class="tag">2 personen</span>
-    <span class="tag tag-acc">Gemiddeld</span>
-    <span class="tag tag-wine">🍷 Vouvray sec of demi-sec — Loire, Frankrijk</span>
-    <span style="margin-left:auto;display:flex;gap:8px;">
+    <span class="tag">30 min</span><span class="tag">2 personen</span><span class="tag tag-acc">Gemiddeld</span><span class="tag tag-wine">🍷 Vouvray sec of demi-sec — Loire, Frankrijk</span>
+    <span style="margin-left:auto;display:flex;gap:8px">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','gado-gado-culinair',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','gado-gado-culinair',this)">&#127859; Vandaag koken</button>
       <button class="detail-actie-btn" id="kookstand-btn">🍳 Kookstand</button>
@@ -75,45 +48,20 @@
   <div class="recipe-body">
     <div class="col-ingredients">
       <div class="col-h">Ingrediënten</div>
-      <div class="ing-cat">Groenten en basis</div><div class="ing-row"><span>sperziebonen, beetgaar geblancheerd</span><span class="ing-amount">200 g</span></div><div class="ing-row"><span>fijn gesneden witte of spitskool, 1–2 min geblancheerd</span><span class="ing-amount">150 g</span></div><div class="ing-row"><span>komkommer, in dunne halve maantjes of linten</span><span class="ing-amount">½</span></div><div class="ing-row"><span>eieren, zachtgekookt (6 min)</span><span class="ing-amount">2</span></div><div class="ing-row"><span>taugé, kort overgoten met kokend water</span><span class="ing-amount">1 handvol</span></div><div class="ing-row"><span>gebakken sjalotjes</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span>koriander of peterselie (optioneel)</span><span class="ing-amount">paar takjes</span></div><div class="ing-cat">Pindasaus</div><div class="ing-row"><span>ongezouten pinda&#x27;s of 100% pindakaas</span><span class="ing-amount">75 g</span></div><div class="ing-row"><span>knoflookteen, klein</span><span class="ing-amount">1</span></div><div class="ing-row"><span>rode chili of sambal badjak</span><span class="ing-amount">½</span></div><div class="ing-row"><span>kokosmelk</span><span class="ing-amount">100 ml</span></div><div class="ing-row"><span>ketjap manis</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>palmsuiker of bruine suiker</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span>zout</span><span class="ing-amount">naar smaak</span></div>
+      <div class="ing-cat">Groenten en basis</div><div class="ing-row"><span class="ing-naam">sperziebonen, beetgaar geblancheerd</span><span class="ing-amount">200 g</span></div><div class="ing-row"><span class="ing-naam">fijn gesneden witte of spitskool, 1–2 min geblancheerd</span><span class="ing-amount">150 g</span></div><div class="ing-row"><span class="ing-naam">komkommer, in dunne halve maantjes of linten</span><span class="ing-amount">½</span></div><div class="ing-row"><span class="ing-naam">eieren, zachtgekookt (6 min)</span><span class="ing-amount">2</span></div><div class="ing-row"><span class="ing-naam">taugé, kort overgoten met kokend water</span><span class="ing-amount">1 handvol</span></div><div class="ing-row"><span class="ing-naam">gebakken sjalotjes</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span class="ing-naam">koriander of peterselie (optioneel)</span><span class="ing-amount">paar takjes</span></div><div class="ing-cat">Pindasaus</div><div class="ing-row"><span class="ing-naam">ongezouten pinda&#x27;s of 100% pindakaas</span><span class="ing-amount">75 g</span></div><div class="ing-row"><span class="ing-naam">knoflookteen, klein</span><span class="ing-amount">1</span></div><div class="ing-row"><span class="ing-naam">rode chili of sambal badjak</span><span class="ing-amount">½</span></div><div class="ing-row"><span class="ing-naam">kokosmelk</span><span class="ing-amount">100 ml</span></div><div class="ing-row"><span class="ing-naam">ketjap manis</span><span class="ing-amount">1 el</span></div><div class="ing-row"><span class="ing-naam">limoensap</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">palmsuiker of bruine suiker</span><span class="ing-amount">1 tl</span></div><div class="ing-row"><span class="ing-naam">zout</span><span class="ing-amount">naar smaak</span></div>
     </div>
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Pindasaus maken:</strong> rooster de pinda&#x27;s kort in een droge pan. Maal met knoflook en chili tot pasta. Verwarm met kokosmelk, ketjap, limoensap en suiker op laag vuur. Laat rustig indikken tot een zijdeachtige saus. Proef: pittig, zoet, zout en zuur in balans.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Groenten blancheren:</strong> blancheer sperziebonen en kool apart in gezouten water — knapperig, mooi kleurbehoud. Laat uitlekken en houd lauwwarm. De komkommer blijft rauw.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Eieren koken:</strong> kook 6 minuten, laat schrikken, pel en halveer. Het geel moet nog zacht zijn.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Taugé voorbereiden:</strong> giet kokend water over de taugé en laat direct uitlekken. Niet koken — alleen de rauwe rand eraf.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Opmaken en serveren:</strong> lepel warme pindasaus subtiel over het midden van een ondiep bord. Maak een ring van kool en sperziebonen eromheen. Leg komkommerlinten speels ertussen. Halveer de eieren en leg erop. Bestrooi met taugé, krokante sjalotjes en verse kruiden.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen kokosmelk voor de pindasaus? Gebruik volle slagroom — geeft een rijkere, minder tropische saus die in de winter uitstekend werkt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p></div>
+      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Tip:</strong> serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Techniek:</strong> lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Presentatie:</strong> rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie:</strong> voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief:</strong> geen kokosmelk voor de pindasaus? Gebruik volle slagroom — geeft een rijkere, minder tropische saus die in de winter uitstekend werkt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p></div>
     </div>
   </div>
-  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px;">
-    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px;transition:all 0.2s;">
-      👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken
-    </a>
+  <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">
+    <a href="/sterrenkok-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#2B1A0D;text-decoration:none;padding:12px 24px;border:1px solid #D4C8B4;border-radius:20px">👨‍🍳 Lees ook: Van hobbykok naar sterrenkok — 52 technieken</a>
   </div>
-<div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🍷 Aanbevolen</div>
-  <div class="wine-naam">Vouvray sec of demi-sec — Loire, Frankrijk</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Chenin Blanc</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren</em></p>
-  <p class="wine-toelichting">De fruitige frisheid en citrusmineraliteit van een droge Chenin Blanc Kabinett snijdt door de romigheid van de pindasaus op kokosmelkbasis en houdt het gerecht licht en verfrissend.</p>
-  <p class="wine-toelichting">De appel- en perziktonen van de Kabinett sluiten aan op de kokosmelk en de palmsuiker in de saus. Een fractie residuele suiker in de wijn bouwt een brug naar de zoetheid zonder het droge karakter te verliezen. De Chenin Blanc is licht genoeg om de delicate groenten niet te overstemmen maar heeft genoeg karakter voor de pindasaus. Serveer gekoeld op 9°C.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Droge Vouvray</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Chenin Blanc</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren</em></p>
-  <p class="wine-toelichting">Een Loire-wijn met spanning, frisheid en soms net genoeg ronding voor kruidige of rijke gerechten.</p>
-  <p class="wine-toelichting">Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact.</p>
-</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
-  <div style="font-size:0.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px">🔄 Alternatief</div>
-  <div class="wine-naam">Chenin Blanc</div>
-  <div class="wine-meta"><span class="wine-tag">🍇 Chenin Blanc</span></div>
-  <p class="wine-toelichting" style="margin-top:8px"><em>Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren</em></p>
-  <p class="wine-toelichting">aromatischer en voller, werkt als de pindasaus centraal staat</p>
-  <p class="wine-toelichting">Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact.</p>
-</div></div>
-  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center;">
-    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px;transition:all 0.2s;">
-      🍷 Lees ook: Wijn & Spijs combineren — de complete gids
-    </a>
+  <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🍷 Aanbevolen</div><div class="wine-naam">Vouvray sec of demi-sec — Loire, Frankrijk</div><div class="wine-meta"><span class="wine-tag">🍇 Chenin Blanc</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren</em></p><p class="wine-toelichting">De fruitige frisheid en citrusmineraliteit van een droge Chenin Blanc Kabinett snijdt door de romigheid van de pindasaus op kokosmelkbasis en houdt het gerecht licht en verfrissend.</p><p class="wine-toelichting">De appel- en perziktonen van de Kabinett sluiten aan op de kokosmelk en de palmsuiker in de saus. Een fractie residuele suiker in de wijn bouwt een brug naar de zoetheid zonder het droge karakter te verliezen. De Chenin Blanc is licht genoeg om de delicate groenten niet te overstemmen maar heeft genoeg karakter voor de pindasaus. Serveer gekoeld op 9°C.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Droge Vouvray</div><div class="wine-meta"><span class="wine-tag">🍇 Chenin Blanc</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren</em></p><p class="wine-toelichting">Een Loire-wijn met spanning, frisheid en soms net genoeg ronding voor kruidige of rijke gerechten.</p><p class="wine-toelichting">Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact.</p></div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,.08)"><div style="font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">🔄 Alternatief</div><div class="wine-naam">Chenin Blanc</div><div class="wine-meta"><span class="wine-tag">🍇 Chenin Blanc</span></div><p class="wine-toelichting" style="margin-top:8px"><em>Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren</em></p><p class="wine-toelichting">aromatischer en voller, werkt als de pindasaus centraal staat</p><p class="wine-toelichting">Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact.</p></div></div>
+  <div style="max-width:860px;margin:0 auto 2rem;padding:0 44px;text-align:center">
+    <a href="/wijnspijs-gids.html" style="display:inline-flex;align-items:center;gap:8px;font-family:'Lato',sans-serif;font-size:14px;color:#6a1c2c;text-decoration:none;padding:12px 24px;border:1px solid #c0a0b0;border-radius:20px">🍷 Lees ook: Wijn &amp; Spijs combineren — de complete gids</a>
   </div>
   <div class="reviews-section">
     <div class="reviews-title">Beoordelingen</div>
@@ -134,79 +82,20 @@
     </div>
     <div id="reviews-lijst"></div>
   </div>
-  <footer>
-    <p>© Het Proeven</p>
-    <a href="/over.html">Over ons</a>
-  </footer>
+  <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
   <script>
     function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
     function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
-    function toggleDetailActie(type,slug,btn){
-      var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';
-      if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}
-      saveSet(key,set);
-    }
-    (function(){
-      var slug='gado-gado-culinair';
-      var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');
-      var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');
-      if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
-      if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
-    })();
-    (function(){
-      const btn=document.getElementById('kookstand-btn');
-      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
-      let wl=null;
-      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
-      async function uit(){if(wl)await wl.release();}
-      btn.addEventListener('click',()=>wl?uit():aan());
-      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
-    })();
+    function toggleDetailActie(type,slug,btn){var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}saveSet(key,set);}
+    (function(){var slug='gado-gado-culinair';var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');if(bf&&f.has(slug))bf.classList.add('detail-btn-active');if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');})();
+    (function(){const btn=document.getElementById('kookstand-btn');if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='.4';btn.style.cursor='not-allowed';}return;}let wl=null;async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}async function uit(){if(wl)await wl.release();}btn.addEventListener('click',()=>wl?uit():aan());document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});})();
   </script>
   <script>
-    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
-    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
-    const SLUG = 'gado-gado-culinair';
-    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
-    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
-    async function laadReviews() {
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
-          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
-        if (!res.ok) return;
-        const reviews = await res.json();
-        if (reviews.length > 0) {
-          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
-          document.getElementById('review-score-wrap').innerHTML = `<div class="review-score-blok"><div class="review-getal">${gem}</div><div><div class="review-sterren-groot">${sterren(parseFloat(gem))}</div><div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div></div></div>`;
-        }
-        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
-          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
-          : reviews.map(r => `<div class="review-item"><div class="review-item-top"><span class="review-naam">${r.naam||'Anoniem'}</span><span class="review-sterren">${sterren(r.rating)}</span></div>${r.opmerking?`<div class="review-opmerking">${r.opmerking}</div>`:''}<div class="review-datum">${datumStr(r.aangemaakt_op)}</div></div>`).join('');
-      } catch(e) {}
-    }
-    window.verstuurReview = async function() {
-      const ratingEl = document.querySelector('input[name="rating"]:checked');
-      const melding = document.getElementById('review-melding');
-      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
-      const rating = parseInt(ratingEl.value);
-      const naam = document.getElementById('review-naam').value.trim();
-      const opmerking = document.getElementById('review-opmerking').value.trim();
-      melding.textContent = 'Bezig met opslaan…';
-      try {
-        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
-          method: 'POST',
-          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
-          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
-        });
-        if (res.ok || res.status===201) {
-          melding.textContent = '✓ Bedankt voor je beoordeling!';
-          document.querySelector('input[name="rating"]:checked').checked = false;
-          document.getElementById('review-naam').value = '';
-          document.getElementById('review-opmerking').value = '';
-          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
-        } else { melding.textContent = 'Er ging iets mis.'; }
-      } catch(e) { melding.textContent = 'Er ging iets mis.'; }
-    };
+    const SU='https://mgbqqbrsunwgspcizynp.supabase.co',SK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g',SL='gado-gado-culinair';
+    function st(n){return'★'.repeat(Math.round(n))+'☆'.repeat(5-Math.round(n));}
+    function ds(iso){return new Date(iso).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});}
+    async function laadReviews(){try{const res=await fetch(SU+'/rest/v1/reviews?slug=eq.'+SL+'&order=aangemaakt_op.desc',{headers:{'apikey':SK,'Authorization':'Bearer '+SK}});if(!res.ok)return;const rv=await res.json();if(rv.length>0){const gem=(rv.reduce((s,r)=>s+r.rating,0)/rv.length).toFixed(1);document.getElementById('review-score-wrap').innerHTML='<div class="review-score-blok"><div class="review-getal">'+gem+'</div><div><div class="review-sterren-groot">'+st(parseFloat(gem))+'</div><div class="review-aantal">'+rv.length+' '+(rv.length===1?'beoordeling':'beoordelingen')+'</div></div></div>';}document.getElementById('reviews-lijst').innerHTML=rv.length===0?'<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>':rv.map(r=>'<div class="review-item"><div class="review-item-top"><span class="review-naam">'+(r.naam||'Anoniem')+'</span><span class="review-sterren">'+st(r.rating)+'</span></div>'+(r.opmerking?'<div class="review-opmerking">'+r.opmerking+'</div>':'')+'<div class="review-datum">'+ds(r.aangemaakt_op)+'</div></div>').join('');}catch(e){}}
+    window.verstuurReview=async function(){const rEl=document.querySelector('input[name="rating"]:checked');const mel=document.getElementById('review-melding');if(!rEl){mel.textContent='Kies eerst een aantal sterren.';return;}const rating=parseInt(rEl.value);const naam=document.getElementById('review-naam').value.trim();const opm=document.getElementById('review-opmerking').value.trim();mel.textContent='Bezig met opslaan…';try{const res=await fetch(SU+'/rest/v1/reviews',{method:'POST',headers:{'apikey':SK,'Authorization':'Bearer '+SK,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({slug:SL,rating,naam:naam||null,opmerking:opm||null})});if(res.ok||res.status===201){mel.textContent='✓ Bedankt!';rEl.checked=false;document.getElementById('review-naam').value='';document.getElementById('review-opmerking').value='';setTimeout(()=>{mel.textContent='';laadReviews();},1200);}else{mel.textContent='Er ging iets mis.';}}catch(e){mel.textContent='Er ging iets mis.';}};
     laadReviews();
   </script>
 </body>
