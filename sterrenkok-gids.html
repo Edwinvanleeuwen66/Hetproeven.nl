@@ -1,0 +1,1073 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Beter koken als een chef — 52 technieken van hobbykok naar sterrenkok | Het Proeven</title>
+<link rel="canonical" href="https://www.hetproeven.nl/sterrenkok-gids.html">
+<meta name="description" content="Hoe word je een sterrenkok thuis? Geen truffel, geen kaviaar. 52 kleine technieken — hitte, droogte, zout, rust, saus, timing, umami — die je eten ineens restaurantwaardig laten smaken. Met interactieve checklist en de Het Proeven Koken-formule.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..700&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f7efe2;--paper-deep:#efe3d0;--ink:#2a1c18;--ink-soft:#5a473f;
+    --wine:#6a1c2c;--wine-deep:#4a121f;--wine-bright:#9a2b3e;
+    --gold:#b48a3f;--gold-bright:#caa454;--gold-soft:#d8bd84;--green:#5f6b3e;
+    --char:#2d2018;--fire:#c4651e;
+    --line:rgba(42,28,24,.16);--maxw:760px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{margin:0;background:radial-gradient(120% 80% at 50% -10%, #fbf5ea 0%, var(--paper) 42%, var(--paper-deep) 100%);color:var(--ink);font-family:'Spectral',Georgia,serif;font-size:19px;line-height:1.72;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+  body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:1;opacity:.5;mix-blend-mode:multiply;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.045'/%3E%3C/svg%3E");}
+  .wrap{position:relative;z-index:2;}
+
+  header.hero{max-width:var(--maxw);margin:0 auto;padding:6rem 1.5rem 2.5rem;text-align:center;}
+  .eyebrow{font-family:'Fraunces',serif;font-weight:600;letter-spacing:.42em;text-transform:uppercase;font-size:.72rem;color:var(--wine);margin-bottom:1.6rem;}
+  .hero h1{font-family:'Fraunces',serif;font-weight:300;font-size:clamp(2.6rem,7.5vw,4.4rem);line-height:1.02;letter-spacing:-.01em;margin:0 0 1.2rem;color:var(--ink);}
+  .hero h1 em{font-style:italic;font-weight:500;color:var(--wine);}
+  .hero .dek{font-size:1.22rem;font-style:italic;color:var(--ink-soft);max-width:38ch;margin:0 auto 1rem;line-height:1.5;}
+  .hero .subdek{font-size:1.02rem;color:var(--ink-soft);max-width:42ch;margin:0 auto;line-height:1.5;}
+  .hero .subdek b{color:var(--ink);font-weight:600;}
+  .glass-mark{width:1px;height:60px;margin:2.4rem auto .4rem;background:linear-gradient(var(--gold),transparent);}
+  .glass-mark::after{content:"✦";display:block;color:var(--gold);font-size:1.3rem;text-align:center;margin-top:-.1rem;}
+
+  article{max-width:var(--maxw);margin:0 auto;padding:0 1.5rem 6rem;}
+  .lede{font-size:1.28rem;line-height:1.6;color:var(--ink);margin:1.4rem 0 1.8rem;}
+  .lede .drop{float:left;font-family:'Fraunces',serif;font-weight:400;font-size:5rem;line-height:.74;padding:.36rem .55rem 0 0;color:var(--wine);}
+  p{margin:0 0 1.2rem;}
+  strong{font-weight:600;color:var(--ink);}
+  a.ilink{color:var(--wine);text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--gold-soft);}
+
+  /* Master progress (top, all techniques) */
+  .master-progress{position:fixed;top:64px;left:0;right:0;height:3px;background:rgba(106,28,44,.08);z-index:20;}
+  .master-progress i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--wine));width:0%;transition:width .25s ease-out;}
+  .master-progress .lbl{position:absolute;top:6px;right:1rem;font-family:'Fraunces',serif;font-size:.7rem;color:var(--wine);letter-spacing:.06em;background:rgba(247,239,226,.85);padding:.18rem .55rem;border-radius:10px;border:1px solid var(--gold-soft);}
+
+  /* Sticky TOC rail */
+  .toc-rail{position:fixed;left:max(1rem,calc(50% - 600px));top:50%;transform:translateY(-50%);width:175px;font-family:'Fraunces',serif;z-index:10;display:none;opacity:0;transition:opacity .4s ease;}
+  .toc-rail.show{opacity:1;}
+  @media(min-width:1180px){.toc-rail{display:block;}}
+  .toc-rail .ttl{font-size:.6rem;letter-spacing:.22em;text-transform:uppercase;font-weight:700;color:var(--wine);margin:0 0 .6rem .7rem;}
+  .toc-rail ol{list-style:none;margin:0;padding:0;}
+  .toc-rail a{display:block;padding:.32rem .8rem;font-size:.8rem;line-height:1.3;color:var(--ink-soft);text-decoration:none;border-left:2px solid var(--line);transition:color .25s,border-color .25s,padding .25s;}
+  .toc-rail a:hover{color:var(--wine);}
+  .toc-rail a.active{color:var(--wine-deep);border-left-color:var(--gold);font-weight:600;padding-left:1rem;}
+
+  .section-tag{display:flex;align-items:center;gap:1rem;margin:4rem 0 .4rem;}
+  .section-tag .num{font-family:'Fraunces',serif;font-style:italic;font-weight:400;font-size:1rem;color:var(--gold);flex:none;}
+  .section-tag .rule{height:1px;background:var(--line);flex:1;}
+  h2{font-family:'Fraunces',serif;font-weight:400;font-size:clamp(1.7rem,4.3vw,2.5rem);line-height:1.08;letter-spacing:-.01em;margin:.2rem 0 1.2rem;color:var(--wine-deep);}
+  h3{font-family:'Fraunces',serif;font-weight:600;font-size:1.25rem;margin:2rem 0 .55rem;color:var(--ink);}
+  .pull{margin:2.4rem 0;padding:.2rem 0 .2rem 1.6rem;border-left:3px solid var(--gold);font-family:'Fraunces',serif;font-style:italic;font-weight:400;font-size:1.55rem;line-height:1.3;color:var(--wine);}
+
+  /* Section progress (per H2) */
+  .sec-prog{display:flex;align-items:center;gap:.8rem;margin:.4rem 0 1.5rem;font-family:'Fraunces',serif;font-size:.78rem;color:var(--ink-soft);}
+  .sec-prog .bar{flex:1;height:4px;background:rgba(106,28,44,.08);border-radius:2px;overflow:hidden;}
+  .sec-prog .bar i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--wine));width:0%;transition:width .4s ease;}
+  .sec-prog .cnt{font-style:italic;color:var(--wine);}
+
+  /* Method 5 cards */
+  .method{display:grid;gap:.75rem;margin:1.6rem 0 1rem;}
+  .scard{display:grid;grid-template-columns:auto 1fr;gap:1.2rem;padding:1.05rem 1.4rem;background:rgba(255,255,255,.5);border:1px solid var(--line);border-radius:3px;align-items:start;transition:transform .3s ease,box-shadow .3s ease;}
+  .scard:hover{transform:translateY(-2px);box-shadow:0 16px 32px -28px rgba(74,18,31,.6);}
+  .scard .sN{font-family:'Fraunces',serif;font-weight:300;font-size:2.4rem;line-height:.8;color:var(--wine-bright);}
+  .scard .sname{font-family:'Fraunces',serif;font-weight:600;font-size:1.12rem;color:var(--wine-deep);}
+  .scard p{margin:.22rem 0 0;font-size:.97rem;line-height:1.5;color:var(--ink-soft);}
+  .scard p b{color:var(--ink);}
+
+  /* Mini summary */
+  .minisum{margin:1.5rem 0 .4rem;padding:.85rem 1.3rem;border-left:3px solid var(--gold);background:rgba(180,138,63,.09);font-size:1rem;line-height:1.5;border-radius:0 3px 3px 0;}
+  .minisum b{font-family:'Fraunces',serif;font-weight:700;letter-spacing:.04em;color:var(--wine);}
+
+  /* Start-here interactive list */
+  .starthere{margin:2.2rem 0;padding:1.5rem 1.7rem;background:linear-gradient(180deg,rgba(106,28,44,.07),rgba(106,28,44,.02));border:1px solid var(--gold-soft);border-radius:4px;}
+  .starthere .stt{font-family:'Fraunces',serif;font-weight:700;letter-spacing:.16em;text-transform:uppercase;font-size:.68rem;color:var(--wine);display:block;margin-bottom:.5rem;}
+  .starthere h3{margin:0 0 .8rem;font-size:1.2rem;}
+  .starthere ol{list-style:none;padding:0;margin:.5rem 0 0;counter-reset:s;}
+  .starthere ol li{counter-increment:s;padding:.4rem 0 .4rem 2rem;position:relative;border-bottom:1px dotted var(--line);}
+  .starthere ol li:last-child{border-bottom:0;}
+  .starthere ol li::before{content:counter(s);position:absolute;left:0;top:.42rem;font-family:'Fraunces',serif;font-style:italic;color:var(--gold);font-weight:600;font-size:.95rem;}
+  .starthere a{color:var(--wine);text-decoration:none;border-bottom:1px solid var(--gold-soft);}
+  .starthere a:hover{color:var(--wine-deep);border-bottom-color:var(--wine);}
+
+  /* Technique cards */
+  .techgroup{margin:1.6rem 0 1rem;}
+  .tech{display:grid;grid-template-columns:auto auto 1fr;gap:.9rem;padding:1.15rem 1.4rem;background:rgba(255,255,255,.55);border:1px solid var(--line);border-radius:3px;margin-bottom:.7rem;transition:background .2s,border-color .2s;}
+  .tech.checked{background:linear-gradient(180deg,rgba(95,107,62,.1),rgba(95,107,62,.04));border-color:rgba(95,107,62,.35);}
+  .tech .check{position:relative;width:24px;height:24px;border:2px solid var(--gold);border-radius:50%;background:#fff;cursor:pointer;flex:none;margin-top:.15rem;transition:background .25s,border-color .25s;display:flex;align-items:center;justify-content:center;padding:0;}
+  .tech .check::after{content:"";width:11px;height:6px;border-left:2px solid transparent;border-bottom:2px solid transparent;transform:rotate(-45deg) translate(2px,-2px);transition:border-color .25s;}
+  .tech.checked .check{background:var(--green);border-color:var(--green);}
+  .tech.checked .check::after{border-color:#fff;}
+  .tech .nr{font-family:'Fraunces',serif;font-style:italic;font-weight:400;font-size:1.05rem;color:var(--gold);margin-top:.18rem;min-width:1.8rem;}
+  .tech .body{}
+  .tech h4{font-family:'Fraunces',serif;font-weight:600;font-size:1.1rem;line-height:1.25;margin:0 0 .35rem;color:var(--ink);}
+  .tech.checked h4{color:var(--ink-soft);}
+  .tech p{margin:0 0 .55rem;font-size:.96rem;line-height:1.52;color:var(--ink-soft);}
+  .tech p:last-child{margin-bottom:0;}
+  .tech ul{margin:.4rem 0 .6rem;padding-left:1.2rem;font-size:.94rem;line-height:1.55;color:var(--ink-soft);}
+  .tech .why{display:block;margin-top:.5rem;padding:.55rem .8rem;background:rgba(180,138,63,.1);border-left:2px solid var(--gold);font-size:.9rem;line-height:1.5;border-radius:0 3px 3px 0;}
+  .tech .why b{font-family:'Fraunces',serif;color:var(--wine);font-weight:700;letter-spacing:.04em;}
+  .tech .recipe-link{display:inline-block;margin-top:.55rem;font-family:'Fraunces',serif;font-style:italic;font-size:.92rem;color:var(--wine);text-decoration:none;padding:.32rem .8rem;background:rgba(106,28,44,.06);border-radius:20px;border:1px solid rgba(106,28,44,.18);transition:background .2s,border-color .2s;}
+  .tech .recipe-link::before{content:"🍳 ";font-style:normal;}
+  .tech .recipe-link:hover{background:rgba(106,28,44,.12);border-color:var(--wine);}
+
+  /* Umami formula showcase */
+  .umami{margin:2.2rem 0;padding:2rem 1.8rem;background:linear-gradient(180deg,#fdf8ee,#f4e9d6);border:1px solid var(--gold-soft);border-radius:6px;text-align:center;box-shadow:0 18px 40px -28px rgba(106,28,44,.55);}
+  .umami .ul{font-family:'Fraunces',serif;font-weight:700;letter-spacing:.18em;text-transform:uppercase;font-size:.68rem;color:var(--wine);margin-bottom:.4rem;}
+  .umami .formula{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(1.1rem,3.2vw,1.5rem);color:var(--wine-deep);margin:1rem 0 .5rem;letter-spacing:.02em;line-height:1.4;}
+  .umami .equals{font-family:'Fraunces',serif;font-style:italic;font-weight:600;font-size:2.2rem;color:var(--gold);margin:.4rem 0;}
+  .umami .sources{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.7rem;margin:1.3rem 0 .5rem;font-size:.86rem;text-align:left;}
+  @media(max-width:600px){.umami .sources{grid-template-columns:1fr;}}
+  .umami .src{padding:.7rem .85rem;background:rgba(255,255,255,.55);border:1px solid var(--line);border-radius:3px;}
+  .umami .src b{display:block;font-family:'Fraunces',serif;font-weight:700;color:var(--wine);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.3rem;}
+  .umami .src span{color:var(--ink-soft);line-height:1.5;}
+  .umami .note{font-style:italic;font-size:.94rem;color:var(--ink-soft);margin-top:.8rem;}
+
+  /* 30-second diagnose tool */
+  .diagnose{margin:1.8rem 0;padding:1.6rem 1.7rem;background:rgba(255,255,255,.55);border:1px solid var(--line);border-radius:4px;}
+  .diagnose .dt{font-family:'Fraunces',serif;font-weight:700;letter-spacing:.16em;text-transform:uppercase;font-size:.68rem;color:var(--wine);margin-bottom:.4rem;display:block;}
+  .diagnose h3{margin:0 0 .3rem;}
+  .diagnose .intro{font-style:italic;color:var(--ink-soft);margin-bottom:1rem;font-size:.96rem;}
+  .diagnose-grid{display:grid;gap:.6rem;}
+  .dx{display:grid;grid-template-columns:auto 1fr;gap:.9rem;padding:.75rem 1rem;background:rgba(255,255,255,.6);border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:3px;cursor:pointer;transition:background .2s,border-color .2s;}
+  .dx:hover{background:#fff;border-left-color:var(--wine);}
+  .dx .dq{font-family:'Fraunces',serif;font-weight:600;font-size:1rem;color:var(--wine-deep);}
+  .dx .da{font-size:.92rem;color:var(--ink-soft);margin-top:.15rem;line-height:1.45;display:none;}
+  .dx.open .da{display:block;animation:fadein .25s ease;}
+  .dx .arrow{font-family:'Fraunces',serif;color:var(--gold);transition:transform .25s;}
+  .dx.open .arrow{transform:rotate(90deg);}
+  @keyframes fadein{from{opacity:0;transform:translateY(-3px);}to{opacity:1;transform:none;}}
+
+  /* Doe-de-test box */
+  .oei{margin:2rem 0;padding:1.4rem 1.6rem;background:linear-gradient(180deg,#fdf8ee,#f4e9d6);border:1px solid var(--gold-soft);border-radius:4px;box-shadow:0 14px 34px -22px rgba(106,28,44,.5);}
+  .oei .label{font-family:'Fraunces',serif;font-weight:700;letter-spacing:.16em;text-transform:uppercase;font-size:.68rem;color:var(--wine);display:block;margin-bottom:.5rem;}
+  .oei p{margin:0;font-size:1rem;line-height:1.6;}
+  .oei p+p{margin-top:.7rem;}
+
+  /* Temperature table (reverse sear) */
+  .ttable{margin:1.2rem 0;border:1px solid var(--gold-soft);border-radius:4px;overflow:hidden;background:rgba(255,255,255,.55);}
+  .ttable .row{display:grid;grid-template-columns:1.4fr 1fr 1fr;}
+  .ttable .row > div{padding:.7rem 1rem;border-bottom:1px solid var(--line);font-size:.94rem;}
+  .ttable .row:last-child > div{border-bottom:0;}
+  .ttable .head > div{background:var(--wine-deep);color:var(--gold-soft);font-family:'Fraunces',serif;letter-spacing:.1em;text-transform:uppercase;font-size:.7rem;font-weight:600;border-bottom:0;}
+  .ttable .row .lab{font-family:'Fraunces',serif;font-weight:600;color:var(--wine-deep);}
+  .ttable .row.star .lab::after{content:" ★";color:var(--gold);}
+
+  /* FAQ */
+  .faq{margin:1.6rem 0;border-top:1px solid var(--line);}
+  .faq details{border-bottom:1px solid var(--line);}
+  .faq summary{cursor:pointer;list-style:none;padding:1rem 2rem 1rem 0;font-family:'Fraunces',serif;font-weight:600;font-size:1.04rem;color:var(--wine-deep);position:relative;}
+  .faq summary::-webkit-details-marker{display:none;}
+  .faq summary::after{content:"+";position:absolute;right:.2rem;top:.78rem;font-family:'Fraunces',serif;font-size:1.4rem;color:var(--gold);}
+  .faq details[open] summary::after{content:"–";}
+  .faq .fa{padding:0 0 1rem;font-size:.98rem;line-height:1.6;color:var(--ink-soft);}
+
+  /* Closer */
+  .closer{text-align:center;margin:4.2rem auto 0;max-width:42ch;}
+  .closer p{font-family:'Fraunces',serif;font-style:italic;font-size:1.28rem;color:var(--wine);line-height:1.45;}
+
+  footer{text-align:center;padding:3rem 1.5rem 4rem;font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);font-family:'Fraunces',serif;}
+
+  .bridge{margin:2.6rem 0 .5rem;font-family:'Fraunces',serif;font-style:italic;font-weight:400;font-size:1.18rem;color:var(--wine);text-align:center;line-height:1.4;max-width:32ch;margin-left:auto;margin-right:auto;}
+  .bridge::after{content:"↓";display:block;color:var(--gold);font-style:normal;margin-top:.4rem;font-size:1rem;}
+
+  ul.clean{list-style:none;padding:0;margin:1.2rem 0;}
+  ul.clean li{position:relative;padding:.3rem 0 .3rem 1.6rem;border-bottom:1px dotted var(--line);font-size:.95rem;line-height:1.55;}
+  ul.clean li::before{content:"☞";position:absolute;left:0;top:.3rem;color:var(--gold);}
+  ul.clean li:last-child{border-bottom:0;}
+
+  .reveal{opacity:0;transform:translateY(20px);transition:opacity .8s ease,transform .8s ease;}
+  .reveal.in{opacity:1;transform:none;}
+
+  /* Reset checklist button */
+  .reset-wrap{margin:1.6rem 0;text-align:center;}
+  .reset-btn{background:none;border:1px solid var(--line);font-family:'Fraunces',serif;font-style:italic;font-size:.85rem;color:var(--ink-soft);padding:.5rem 1.1rem;border-radius:20px;cursor:pointer;transition:border-color .2s,color .2s;}
+  .reset-btn:hover{border-color:var(--wine);color:var(--wine);}
+
+  @media(max-width:600px){
+    body{font-size:18px;}
+    .hero{padding-top:4rem;}
+    .tech{grid-template-columns:auto auto 1fr;gap:.7rem;padding:1rem 1.1rem;}
+    .umami .formula{font-size:1rem;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div style="position:sticky;top:0;z-index:200;background:rgba(247,239,226,0.96);backdrop-filter:blur(8px);border-bottom:0.5px solid rgba(42,28,24,0.12);padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
+    <a href="/" style="font-family:'Spectral',serif;font-size:13px;color:#6a1c2c;text-decoration:none;letter-spacing:0.5px;">← Het Proeven</a>
+    <span style="font-family:'Fraunces',serif;font-size:13px;color:#b48a3f;letter-spacing:2px;text-transform:uppercase;">Van Hobbykok naar Sterrenkok</span>
+    <a href="/recepten/" style="font-family:'Spectral',serif;font-size:13px;color:#6a1c2c;text-decoration:none;letter-spacing:0.5px;">Recepten →</a>
+  </div>
+
+  <div class="master-progress" aria-label="Voortgang technieken">
+    <i></i>
+    <span class="lbl"><span class="done">0</span> / 52 aangevinkt</span>
+  </div>
+
+  <nav class="toc-rail" aria-label="Inhoud">
+    <p class="ttl">In deze gids</p>
+    <ol>
+      <li><a href="#formule">De Koken-formule</a></li>
+      <li><a href="#start">Begin hier — top 7</a></li>
+      <li><a href="#basis">De basis (1-10)</a></li>
+      <li><a href="#trucs">Restauranttrucs (11-20)</a></li>
+      <li><a href="#vlees-vis">Vlees, vis, kip (21-27)</a></li>
+      <li><a href="#groente">Groente (28-33)</a></li>
+      <li><a href="#smaak">Smaak bouwen (34-48)</a></li>
+      <li><a href="#plating">Plating (49-52)</a></li>
+      <li><a href="#diagnose">Diagnose-tool</a></li>
+      <li><a href="#faq">FAQ</a></li>
+    </ol>
+  </nav>
+
+  <header class="hero">
+    <div class="eyebrow reveal">Het Proeven · Koken-Meesterklasse</div>
+    <h1 class="reveal">Van hobbykok<br>naar <em>sterrenkok</em></h1>
+    <p class="dek reveal">52 kleine technieken die je eten ineens restaurantwaardig laten smaken.</p>
+    <p class="subdek reveal">Niet door truffel. Niet door kaviaar. Niet door ingewikkelde recepten.<br><b>Maar door hitte, droogte, zout, rust, saus, timing en lef.</b></p>
+    <div class="glass-mark reveal"></div>
+  </header>
+
+  <article>
+
+    <p class="lede reveal"><span class="drop">J</span>e wordt geen betere kok door moeilijkere recepten te maken. Je wordt beter door dezelfde simpele dingen <em>slimmer</em> te doen: heter bakken, later zuren, beter zouten, rustiger garen, sauzen laten glanzen, groente behandelen alsof het hoofdgerecht is.</p>
+
+    <p class="reveal">Dit is geen kookboek. Dit zijn 52 kleine technieken — sommige bekend, sommige geheim, sommige zo idioot eenvoudig dat je je afvraagt waarom niemand je dit eerder vertelde. Sommige veranderen één gerecht in 30 seconden. Sommige veranderen je hele kookleven.</p>
+
+    <div class="oei reveal">
+      <span class="label">Zo werkt deze gids</span>
+      <p><strong>Vink aan wat je al doet, vink aan wat je nieuw oefent.</strong> Je voortgang wordt automatisch bewaard in deze browser — sluit het tabblad gerust, kom morgen terug. De balk bovenaan toont hoever je bent van de 52. Niet alle 52 in één week. Drie per week is genoeg. Over drie maanden kook je <em>anders</em>.</p>
+    </div>
+
+    <!-- ============ I — DE FORMULE ============ -->
+    <div class="section-tag reveal"><span class="num">i</span><span class="rule"></span></div>
+    <h2 class="reveal" id="formule" data-short="De formule">De Het Proeven Koken-formule</h2>
+    <p class="reveal">Vergeet "lekker koken" als één vage vaardigheid. Het is een opeenstapeling van vijf basis-knoppen. Krijg ze stuk voor stuk in je vingers en je gerechten stijgen — gegarandeerd, voorspelbaar, niveau na niveau.</p>
+
+    <div class="method">
+      <div class="scard reveal"><div class="sN">1</div><div><span class="sname">Hitte</span><p>Je pan is bijna nooit heet genoeg. Maillard begint pas serieus boven 140°C; een goede sear vraagt 200-250°C aan de panbodem. <b>Hitte is de eerste smaak.</b></p></div></div>
+      <div class="scard reveal"><div class="sN">2</div><div><span class="sname">Droogte</span><p>Nat oppervlak = stomen, niet bakken. Vocht moet eerst weg voordat bruining begint. Droogdeppen, dry-brinen, op rooster laten drogen — saaie stap, dramatisch effect.</p></div></div>
+      <div class="scard reveal"><div class="sN">3</div><div><span class="sname">Zout</span><p>Niet één keer, op drie momenten: vooraf (dry brine), tijdens (in lagen), op het bord (vlokken voor textuur). Zout is de afstandsbediening van smaak.</p></div></div>
+      <div class="scard reveal"><div class="sN">4</div><div><span class="sname">Tijd</span><p>De grootste vijand van de hobbykok: ongeduld. Ui kost 45 minuten. Confit kost 2 uur. Tomaten 90°C × 2 uur. Karamellisatie en umami zijn altijd langzaam.</p></div></div>
+      <div class="scard reveal"><div class="sN">5</div><div><span class="sname">Correctie</span><p>Vlak voor serveren proeft de profkok één laatste keer en grijpt in: zuur erbij, vet erin, kruid eroverheen, crunch erbovenop. <b>Bijna nooit nog zout.</b></p></div></div>
+    </div>
+
+    <div class="minisum reveal"><b>Onthoud:</b> elk gerecht dat tegenvalt, miste meestal één van deze vijf. Een paar druppels zuur op het einde, een minuut langer aanbakken, een stap droogdeppen — dat is het verschil tussen "lekker" en "wow".</div>
+
+    <p class="bridge reveal">Klinkt simpel? Dat is het ook. Begin hier.</p>
+
+    <!-- ============ START HIER ============ -->
+    <div class="starthere reveal" id="start">
+      <span class="stt">Begin Hier — De zeven met de meeste impact</span>
+      <h3>Kies deze week drie. Niet alle 52 in één keer.</h3>
+      <p style="margin:.4rem 0 .8rem;font-size:.96rem;color:var(--ink-soft);">Eén basis, één smaakcorrectie, één restauranttruc. Als je elke week drie bewust oefent, kook je over drie maanden niet iets beter — <em>anders</em>.</p>
+      <ol>
+        <li><a href="#t04">Droogdeppen voor bruining</a> — onmiddellijk Maillard</li>
+        <li><a href="#t03">Pan heter dan je denkt</a> — dé thuiskoks-fout</li>
+        <li><a href="#t05">Zout in drie lagen</a> — diepte i.p.v. oppervlakte</li>
+        <li><a href="#t41">Zuur op het einde</a> — de wapen-truc</li>
+        <li><a href="#t44">Pastawater bewaren</a> — gratis saus</li>
+        <li><a href="#t08">Koude boter door saus</a> — instant restaurant-glans</li>
+        <li><a href="#t51">Eén crunch per bord</a> — verschil tussen smakelijk en spannend</li>
+      </ol>
+    </div>
+
+    <!-- ============ II — DE BASIS ============ -->
+    <div class="section-tag reveal"><span class="num">ii</span><span class="rule"></span></div>
+    <h2 class="reveal" id="basis" data-short="De basis">De basis die bijna iedereen verkeerd doet</h2>
+    <p class="reveal">Tien dingen die 90% van de thuiskoks negeert.</p>
+    <div class="sec-prog" data-section="basis"><span>Sectie:</span><div class="bar"><i></i></div><span class="cnt">0 / 10</span></div>
+
+    <div class="techgroup">
+
+      <div class="tech" id="t01" data-id="01"><button class="check" aria-label="Aanvinken"></button><div class="nr">01</div><div class="body">
+        <h4>Lees het recept twee keer — regel nul</h4>
+        <p>Niet één keer. Twee keer. Voordat je iets opent, iets pakt, iets aanzet. Profs lezen recepten <em>helemaal</em> voordat ze beginnen. "Rust 30 min" hoort niet halverwege ontdekt te worden. Kost 90 seconden, bespaart 90 minuten frustratie.</p>
+      </div></div>
+
+      <div class="tech" id="t02" data-id="02"><button class="check" aria-label="Aanvinken"></button><div class="nr">02</div><div class="body">
+        <h4>Mise en place — waarom profs nooit panieken</h4>
+        <p>Alles wat je nodig hebt: gesneden, afgemeten, in bakjes. Vóórdat je het vuur aanzet. Koken is een orkest van timings. Eén onderbreking en alles valt om.</p>
+        <span class="why"><b>Doe dit:</b> kook deze week één maaltijd waar je álles vooraf snijdt en in bakjes legt. Vergelijk met je gewoonlijke kookervaring.</span>
+      </div></div>
+
+      <div class="tech" id="t03" data-id="03"><button class="check" aria-label="Aanvinken"></button><div class="nr">03</div><div class="body">
+        <h4>Je pan is niet heet genoeg</h4>
+        <p>Bijna iedereen verprutst zijn vlees omdat de pan niet heet genoeg is. Maillard begint pas serieus boven 140°C. Goede sear vereist 200-250°C aan de panbodem.</p>
+        <p><strong>De water-test:</strong> druppels water op de pan. Direct verdampen = nog niet heet genoeg. Platgeslagen, sissend, rondrennend als kwikzilver = perfect (Leidenfrost-effect).</p>
+        <p>Pan minstens 4 min op middelhoog voor je iets erin doet. Gietijzer? 6 min.</p>
+      </div></div>
+
+      <div class="tech" id="t04" data-id="04"><button class="check" aria-label="Aanvinken"></button><div class="nr">04</div><div class="body">
+        <h4>Nat vlees bruint nooit</h4>
+        <p>Vocht moet eerst verdampen voordat Maillard kan beginnen. Nat vlees in pan = stomen, niet bakken. Tegen de tijd dat het water weg is, is je vlees vanbinnen al overgegaard.</p>
+        <p>Dep álles <em>bot-droog</em>. Alle vocht eraf. Anders sta je te stomen in plaats van te bakken. Het verschil tussen "lekker" en "wow" zit hier.</p>
+      </div></div>
+
+      <div class="tech" id="t05" data-id="05"><button class="check" aria-label="Aanvinken"></button><div class="nr">05</div><div class="body">
+        <h4>Zout op drie momenten — niet één</h4>
+        <p>Drie momenten, drie soorten zout.</p>
+        <p><strong>Vooraf (24-48u):</strong> grof zeezout, <em>dry brining</em>. Zout trekt vocht uit, lost op, wordt teruggetrokken in vlees. Dieper gezouten, drogere oppervlakte, malser vlees.</p>
+        <p><strong>Tijdens:</strong> kookwater zout als de zee. In lagen tijdens stoof.</p>
+        <p><strong>Op het bord:</strong> vlokkenzout (Maldon, fleur de sel). Voor <em>textuur</em> — knappende bursts op de tong.</p>
+      </div></div>
+
+      <div class="tech" id="t06" data-id="06"><button class="check" aria-label="Aanvinken"></button><div class="nr">06</div><div class="body">
+        <h4>Niet roeren is óók koken</h4>
+        <p>Contact met de pan is smaak. Onrust is stoom. Laat champignons, vlees, bloemkool of vis liggen tot ze zich vanzelf loslaten. Wie panieken roert, breekt het korstje, laat sappen los, koelt de pan af, en bakt nooit echt.</p>
+        <span class="why"><b>Waarom:</b> Maillard heeft contact + droogte nodig. Roeren = breken contact + sappen die pan koelen. Hoor je geen sissen meer? Je bent aan het stomen, niet bakken.</span>
+      </div></div>
+
+      <div class="tech" id="t07" data-id="07"><button class="check" aria-label="Aanvinken"></button><div class="nr">07</div><div class="body">
+        <h4>Warme borden zijn geen luxe</h4>
+        <p>Een koud bord verwoest een warm gerecht in 30 sec. Vlees verliest 10°C, saus verliest glans, pasta plakt, risotto wordt stug.</p>
+        <p>Borden 5 min in oven op 80°C voor serveren. Niet onderhandelbaar bij een diner waar het ertoe doet.</p>
+      </div></div>
+
+      <div class="tech" id="t08" data-id="08"><button class="check" aria-label="Aanvinken"></button><div class="nr">08</div><div class="body">
+        <h4>Boter is een gereedschap</h4>
+        <p>Drie vormen in hetzelfde gerecht.</p>
+        <p><strong>Koude blokjes</strong> voor <em>monteren</em> van sauzen. Vuur uit, koude boter erin kloppen, saus glanst als gevernist.</p>
+        <p><strong>Bruine boter</strong> (<em>beurre noisette</em>): smelt tot schuim valt, bruine deeltjes, nootachtige geur. Op gepocheerde eieren, vis, groente, in cakes.</p>
+        <p><strong>Geklaarde boter:</strong> smelt zacht, schep schuim eraf, schenk heldere vloeistof af. Rookt pas bij 250°C. Voor searen met boter-smaak.</p>
+        <span class="why"><b>Profi-truc:</b> de perfecte biefstuk gebruikt alle drie — sear in geklaarde, arroseer met gewone, blokje koud op het rustende stuk.</span>
+      </div></div>
+
+      <div class="tech" id="t09" data-id="09"><button class="check" aria-label="Aanvinken"></button><div class="nr">09</div><div class="body">
+        <h4>Proef vijf keer, niet één keer</h4>
+        <p>Profs corrigeren continu. Hobbykoks hopen dat het klopt.</p>
+        <ul>
+          <li>Voor je zout toevoegt — om te weten waar je begint</li>
+          <li>Na zout — om te zien wat het deed</li>
+          <li>Na zuur — voor de balans</li>
+          <li>Na vet (boter, room, olie) — voor mondgevoel</li>
+          <li>Vlak voor serveren — voor laatste correctie</li>
+        </ul>
+        <p>Wie één keer aan het einde proeft, mist vier kansen om in te grijpen.</p>
+      </div></div>
+
+      <div class="tech" id="t10" data-id="10"><button class="check" aria-label="Aanvinken"></button><div class="nr">10</div><div class="body">
+        <h4>Een digitale thermometer is je belangrijkste vriend</h4>
+        <p>Goede chefs kunnen veel op gevoel — maar wanneer precisie telt, pakken ze een thermometer. Geen apparaat is onmisbaarder, ook niet je mes.</p>
+        <p>Thermapen Mk4 of Inkbird IBT-4XS (€30-150). Voor: vlees doneness, pocheer-vloeistof, confit-olie, karamel, brood-deeg fermentatie, yoghurt, frituur-olie. Eén instrument, oneindig veel toepassingen.</p>
+      </div></div>
+
+    </div>
+
+    <p class="bridge reveal">Heb je de basis? Dan nu de geheime trucs uit echte restaurantkeukens.</p>
+
+    <!-- ============ III — RESTAURANTTRUCS ============ -->
+    <div class="section-tag reveal"><span class="num">iii</span><span class="rule"></span></div>
+    <h2 class="reveal" id="trucs" data-short="Restauranttrucs">Restauranttrucs zonder restaurantkeuken</h2>
+    <p class="reveal">Tien technieken uit professionele keukens die in je eigen koekenpan werken — vaak vanavond.</p>
+    <div class="sec-prog" data-section="trucs"><span>Sectie:</span><div class="bar"><i></i></div><span class="cnt">0 / 10</span></div>
+
+    <div class="techgroup">
+
+      <div class="tech" id="t11" data-id="11"><button class="check" aria-label="Aanvinken"></button><div class="nr">11</div><div class="body">
+        <h4>De 65°C melk-pocheer</h4>
+        <p>Mogelijk de meest onderschatte truc die ik je ga geven. Knolselderij, witlof, prei, asperges, geschilde wortelen, bloemkool, pastinaak, schorseneren — pocheer ze in melk op 65°C in plaats van koken in water. Niemand merkt dat het melk is. Iedereen merkt dat het anders is.</p>
+        <span class="why"><b>Doe dit:</b> verhit melk + 1 tl zout + laurier + tijm tot het <em>net</em> siddert. Geen volle bubbels. Voeg groente toe. 12-15 min. Lepel uit, dep droog. Optioneel: kort bakken in boter goudbruin.</span>
+      </div></div>
+
+      <div class="tech" id="t12" data-id="12"><button class="check" aria-label="Aanvinken"></button><div class="nr">12</div><div class="body">
+        <h4>De 10-minuten smoke hack</h4>
+        <p>Rookwaardige vis, vlees, kip en groente in tien minuten, in je keuken. Het rook-trio: 2 el rijst + 2 el zwarte thee + 1 el bruine suiker.</p>
+        <ul>
+          <li>Bekleed bodem gietijzeren pan met aluminiumfolie</li>
+          <li>Rook-trio op de folie</li>
+          <li>Pan op hoog vuur tot het rookt</li>
+          <li>Vergiet of rooster erin. Daarop vis/vlees/kip</li>
+          <li>Deksel erop. <strong>Vuur uit.</strong> 10 min wachten.</li>
+        </ul>
+        <p>80% van een echte houtsnipper-roker. Op forelfilets, kippendij, oesters, eierdooiers.</p>
+      </div></div>
+
+      <div class="tech" id="t13" data-id="13"><button class="check" aria-label="Aanvinken"></button><div class="nr">13</div><div class="body">
+        <h4>Ui — 45 minuten, niet 7</h4>
+        <p>"Uien glazig bakken 5 min" = ui die warm is geworden. Geen smaak. 40-60 min karamelliseren tot diep amber-bruine pasta. Basis van álle Franse stoofgerechten, Italiaanse ragu's, Indische curries.</p>
+        <p>4 uien fijn, boter + olijfolie, middelhoog. Na 5 min op laag. Roer elke 5-10 min. Na 45 min pasta van mahonie-bruin. Bewaarbaar 5 dagen, invriesbaar.</p>
+        <a class="recipe-link" href="/recepten/soupe-a-loignon-gratinee-perfecte-uiensoep/">Toepassen — Soupe à l'Oignon Gratinée</a>
+      </div></div>
+
+      <div class="tech" id="t14" data-id="14"><button class="check" aria-label="Aanvinken"></button><div class="nr">14</div><div class="body">
+        <h4>Confit-knoflook in olijfolie</h4>
+        <p>2 bollen knoflook + olijfolie + tijd = een potje aan instant-smaakgevers. Pel 2 hele bollen knoflook in een klein pannetje, bedek met 200 ml olijfolie + tijm + laurier. Héél laag vuur — olie mag <em>nauwelijks</em> bubbelen. 45-60 min tot teentjes zacht en goudbruin.</p>
+        <span class="why"><b>Veiligheid:</b> knoflook in olie is gevoelig voor botulisme. Altijd in de koelkast bewaren, binnen 5-7 dagen gebruiken, of invriezen in porties. Niet bij kamertemperatuur opslaan.</span>
+        <p>Mix door risotto, smeer op brood, gril kort onder de oven, door mashed potatoes, in vinaigrettes. Eén verse pot versterkt 10-15 maaltijden in de week erna.</p>
+      </div></div>
+
+      <div class="tech" id="t15" data-id="15"><button class="check" aria-label="Aanvinken"></button><div class="nr">15</div><div class="body">
+        <h4>Tomaten-confit — 90°C × 2 uur = magie</h4>
+        <p>Halveer cherrytomaten. Plat in ovenschaal met olijfolie tot net bedekt. Knoflook + tijm + zout + peper. <strong>Oven 90°C / 2 uur.</strong></p>
+        <p>Op pasta, brood met burrata, in salades, naast vis. Houdbaar twee weken in de koelkast.</p>
+      </div></div>
+
+      <div class="tech" id="t16" data-id="16"><button class="check" aria-label="Aanvinken"></button><div class="nr">16</div><div class="body">
+        <h4>Pickle in 15 minuten</h4>
+        <p>100 ml witte azijn + 100 ml water + 1 el suiker + 1 tl zout + peperkorrels + laurier. Verhit tot suiker opgelost. Schenk over rauwe rode ui, wortel, komkommer of radijs.</p>
+        <p>15 min op kamertemperatuur. In koelkast. Twee weken houdbaar.</p>
+      </div></div>
+
+      <div class="tech" id="t17" data-id="17"><button class="check" aria-label="Aanvinken"></button><div class="nr">17</div><div class="body">
+        <h4>Kruidenolie in 3 minuten</h4>
+        <p>Een bos basilicum of peterselie + 150 ml olijfolie. Blender 60 sec. Door fijne neteldoek of koffiefilter. Klaar.</p>
+        <p><strong>Bewaren:</strong> in koelkast, gebruik binnen 2-3 dagen. Voor langer: giet in een ijsblokjes-vakje en vries in — één blokje per gerecht. Op vis, tomatensoep, risotto, gebakken aardappels.</p>
+      </div></div>
+
+      <div class="tech" id="t18" data-id="18"><button class="check" aria-label="Aanvinken"></button><div class="nr">18</div><div class="body">
+        <h4>Dubbel frituren — knapperigheid die kraakt</h4>
+        <p><strong>Stap 1:</strong> 140°C / 5-6 min. Gaar maar niet bruin. Op rooster minimaal 30 min koelen.<br>
+        <strong>Stap 2:</strong> 190°C / 2-3 min. Goudbruin, knapperig.</p>
+        <span class="why"><b>De chemie:</b> stap 1 gaart het zetmeel. Bij afkoelen treedt <em>retrogradatie</em> op — zetmoleculen reorganiseren in stevigere structuur. Stap 2 = instant Maillard op die stevige buitenkant.</span>
+        <p>Premium: week 30 min in koud water (verwijdert oppervlakte-zetmeel), droogdeppen, beetje maïzena bestrooien.</p>
+        <a class="recipe-link" href="/recepten/tortillitas-calabacin/">Toepassen — Tortillitas de calabacín</a>
+      </div></div>
+
+      <div class="tech" id="t19" data-id="19"><button class="check" aria-label="Aanvinken"></button><div class="nr">19</div><div class="body">
+        <h4>Aardappelpuree is een filter-kwestie</h4>
+        <p>Verschil tussen restaurant-puree en thuis-puree is niet boter, niet melk — <em>de filter.</em> Restaurants drukken door passe-vite, aardappel-pers of fijne zeef. Geen blender (slaat aardappelcellen kapot — vrijgekomen zetmeel maakt het lijmpasta). Geen stamper alleen (te grof).</p>
+        <ul>
+          <li>Kook kruimige aardappels (Bintje, Eigenheimer)</li>
+          <li>Giet af, 2 min stomen voor vochtafvoer</li>
+          <li>Druk door fijne zeef of pers</li>
+          <li><em>Pas dán</em> roomboter + warme melk. Spatel — geen mixer.</li>
+        </ul>
+        <p>Het resultaat is wat Joël Robuchon beroemd maakte.</p>
+      </div></div>
+
+      <div class="tech" id="t20" data-id="20"><button class="check" aria-label="Aanvinken"></button><div class="nr">20</div><div class="body">
+        <h4>Bouillon van geroosterde botten</h4>
+        <ul>
+          <li>1 kg kippenkarkassen/botten (slager — vaak gratis)</li>
+          <li><strong>Cruciaal:</strong> rooster in oven op 220°C / 35-40 min tot diepbruin. Geen kleur = geen smaak</li>
+          <li>In grote pan met halve uien (met schil!), wortel, selderie, laurier, peperkorrels, tijm</li>
+          <li>3 liter koud water</li>
+          <li>Langzaam aan de kook, schuim afscheppen</li>
+          <li><strong>Heel laag vuur.</strong> 3 uur trekken. Niet borrelen</li>
+          <li>Zeef. Reduceer eventueel tot helft</li>
+        </ul>
+        <p>Verdeel over ijsblokjes-vakjes, vries in. Eén blokje = basis voor maanden.</p>
+      </div></div>
+
+    </div>
+
+    <p class="bridge reveal">Nu de gerechten waar het meest aan misgaat.</p>
+
+    <!-- ============ IV — VLEES, VIS, KIP ============ -->
+    <div class="section-tag reveal"><span class="num">iv</span><span class="rule"></span></div>
+    <h2 class="reveal" id="vlees-vis" data-short="Vlees, vis, kip">De biefstuk-, vis- en kip-fixers</h2>
+    <p class="reveal">Zeven technieken die de gerechten oplossen waar het meest aan misgaat — definitief.</p>
+    <div class="sec-prog" data-section="vlees-vis"><span>Sectie:</span><div class="bar"><i></i></div><span class="cnt">0 / 7</span></div>
+
+    <div class="techgroup">
+
+      <div class="tech" id="t21" data-id="21"><button class="check" aria-label="Aanvinken"></button><div class="nr">21</div><div class="body">
+        <h4>Reverse sear — rosé tot de rand</h4>
+        <ul>
+          <li>Biefstuk 30 min op kamertemperatuur. Zout aan alle kanten</li>
+          <li>Oven op <strong>120°C</strong></li>
+          <li>Op rooster boven bakplaat. Thermometer in dikste deel</li>
+          <li>Trek uit oven bij <strong>49°C kerntemperatuur</strong> voor medium-rare. Medium: 54°C</li>
+          <li>Gietijzeren pan zeer heet. Geklaarde boter</li>
+          <li>Droogdep biefstuk grondig</li>
+          <li>Sear 60-90 sec per kant, inclusief randen. Aan einde gewone boter + tijm + knoflook, arroseer 30 sec</li>
+          <li><strong>Korte rust van 1-2 min.</strong> Vlees is al grotendeels gerust in de oven.</li>
+        </ul>
+        <div class="ttable">
+          <div class="row head"><div>Doneness</div><div>Uit oven</div><div>Na sear</div></div>
+          <div class="row"><div class="lab">Rare</div><div>44°C</div><div>50°C</div></div>
+          <div class="row star"><div class="lab">Medium-rare</div><div>49°C</div><div>55°C</div></div>
+          <div class="row"><div class="lab">Medium</div><div>54°C</div><div>60°C</div></div>
+          <div class="row"><div class="lab">Medium-well</div><div>60°C</div><div>65°C</div></div>
+          <div class="row"><div class="lab">Well-done</div><div>65°C+</div><div>71°C+</div></div>
+        </div>
+        <span class="why"><b>De wetenschap:</b> bij traditioneel aanbraden is er een steile temperatuurgradiënt (250°C pan, koelkast-koud centrum). Voor het centrum 55°C is, is een dikke ring eronder al 70°C+. Bij reverse sear is het hele stuk al gelijkmatig 49°C voordat je searst. De sear hoeft maar 2 mm diep — onvoldoende tijd om de binnenkant te overgaren.</span>
+        <a class="recipe-link" href="/recepten/solomillo-al-whisky/">Toepassen — Solomillo al whisky</a>
+      </div></div>
+
+      <div class="tech" id="t22" data-id="22"><button class="check" aria-label="Aanvinken"></button><div class="nr">22</div><div class="body">
+        <h4>Vishuid die niet plakt — drie geheimen</h4>
+        <p><strong>1. Droog. Heel droog.</strong> Ongedekt op rooster in koelkast, 30 min minimum. Direct voor koken nog eens droogdeppen.</p>
+        <p><strong>2. Niet bewegen.</strong> Vis plakt aanvankelijk <em>altijd</em>. Hij laat zich vanzelf los. Druk 10 sec plat met spatel, niet aanraken tot randen gouden zijn — 4-6 min.</p>
+        <p><strong>3. 80% op huid, 20% op vlees.</strong> Na draaien slechts 30-45 sec op vleeszijde.</p>
+        <span class="why"><b>Profi-truc:</b> dunne laag bloem op huid (op vingertop bestrooien). Verzegelt, extra crisp, voorkomt krommen.</span>
+        <a class="recipe-link" href="/recepten/tarbot-champagne-mosterdsaus-groene-druiven-spinazie/">Toepassen — Tarbot met champagne-mosterdsaus</a>
+      </div></div>
+
+      <div class="tech" id="t23" data-id="23"><button class="check" aria-label="Aanvinken"></button><div class="nr">23</div><div class="body">
+        <h4>Kip krokant zonder droog vlees</h4>
+        <p>Krokante kippenhuid is een paradox: huid wil hoog vuur, vlees wil laag.</p>
+        <ul>
+          <li><strong>Dry brine 24u vooraf:</strong> zout op huid, ongedekt in koelkast</li>
+          <li>Bak huidkant omlaag in <strong>koude pan</strong>, vuur middelhoog</li>
+          <li>Draai pas als huid diepgoud is — 12-15 min</li>
+          <li>Vleeszijde slechts 4-5 min. Of: oven 180°C tot kerntemperatuur 70°C</li>
+        </ul>
+        <p>Dry brine + koude-pan-start + geduld = krokante huid, sappig vlees.</p>
+      </div></div>
+
+      <div class="tech" id="t24" data-id="24"><button class="check" aria-label="Aanvinken"></button><div class="nr">24</div><div class="body">
+        <h4>Eendenborst zonder rubber vetlaag</h4>
+        <p>De #1 fout met eendenborst: hete pan. Resultaat: verbrande huid, ongerenderd rubber-vet daaronder.</p>
+        <ul>
+          <li>Kruis vetlaag in (niet door vlees) — diamantpatroon</li>
+          <li>Zout op vetkant</li>
+          <li>Leg vet-omlaag in <strong>koude pan</strong>. Vuur op laag</li>
+          <li>8-10 min renderen</li>
+          <li>Draai. Vlees-kant 3-4 min op middelhoog</li>
+          <li>Rust 5 min onder folie. Tegen draad snijden</li>
+        </ul>
+        <p>Sleutel: koude pan start.</p>
+      </div></div>
+
+      <div class="tech" id="t25" data-id="25"><button class="check" aria-label="Aanvinken"></button><div class="nr">25</div><div class="body">
+        <h4>Steak haché — zout alleen de buitenkant</h4>
+        <p><strong>Zout het gehakt NIET door en door. Zout alleen de buitenkant.</strong> Zout door gehakt heen activeert myosine — burger wordt compact en hotdog-achtig. Alleen-buitenkant zout = <em>los en sappig</em> binnen.</p>
+        <p>Natte handen vormen, lichte daling in midden (anders zwelt op), royaal zouten aan beide kanten. Bakken.</p>
+      </div></div>
+
+      <div class="tech" id="t26" data-id="26"><button class="check" aria-label="Aanvinken"></button><div class="nr">26</div><div class="body">
+        <h4>Vlees rusten — de meeste mensen doen het verkeerd</h4>
+        <p><strong>Wat klopt:</strong> dik vlees onder folie of in warme plaats — niet ongedekt op snijplank. Anders koelt het te ver af tijdens het rusten.</p>
+        <p>De klassieke uitleg is dat "sappen zich herverdelen". Preciezer: temperatuur en druk in het vlees egaliseren, spiervezels ontspannen, waardoor er bij aansnijden minder vocht wegloopt op je snijplank.</p>
+        <p>Dik vlees (steak, kotelet): 5-7 min onder folie. Dun vlees (escalop, dun karbonaadje): 2 min is genoeg. <strong>Bij reverse sear:</strong> korte rust van 1-2 min is genoeg.</p>
+      </div></div>
+
+      <div class="tech" id="t27" data-id="27"><button class="check" aria-label="Aanvinken"></button><div class="nr">27</div><div class="body">
+        <h4>Dry brine — 24-48 uur vooraf</h4>
+        <p>Voor élk groot stuk vlees — dikke biefstuk, spatchcocked kip, eend. Royaal grof zeezout (1 tl per 250g). Op rooster boven schaal. Ongedekt in koelkast. Geen afspoelen. Direct bakken.</p>
+        <p>Wat er gebeurt: zout trekt vocht, lost op, wordt teruggetrokken in vlees. Oppervlakte droogt uit (onmisbaar voor Maillard). Dieper en gelijkmatiger gezouten.</p>
+        <p>Eén keer geprobeerd op een dikke biefstuk — je doet het nooit meer anders.</p>
+      </div></div>
+
+    </div>
+
+    <!-- ============ V — GROENTE ============ -->
+    <div class="section-tag reveal"><span class="num">v</span><span class="rule"></span></div>
+    <h2 class="reveal" id="groente" data-short="Groente">Groente als hoofdrol</h2>
+    <p class="reveal">Stop met groente behandelen als bijgerecht. Een sterren-kok besteedt meer aandacht aan een wortel dan aan een biefstuk.</p>
+    <div class="sec-prog" data-section="groente"><span>Sectie:</span><div class="bar"><i></i></div><span class="cnt">0 / 6</span></div>
+
+    <div class="techgroup">
+
+      <div class="tech" id="t28" data-id="28"><button class="check" aria-label="Aanvinken"></button><div class="nr">28</div><div class="body">
+        <h4>Ga donkerder dan comfortabel voelt</h4>
+        <p>De meeste thuiskoks stoppen te vroeg met roosteren. Wees geen "food coward". "Donkergoud" voor thuiskok = half gaar voor sterrenkok. Bloemkool, ui, prei, wortel, pompoen, kool — moeten <em>diep amber-bruin</em> tot bijna-zwart op randjes worden.</p>
+        <p>Niet verbrand-zwart. Maar wel: schroeischade van een goede BBQ. De kleur van de geroosterde kool van het beste restaurant van de stad.</p>
+        <span class="why"><b>Doe dit:</b> wanneer je denkt "dit ziet er goed uit" — laat het nog 5 min extra in oven op 220°C+. Op het moment dat je nerveus wordt — eruit. Daar zit de smaak.</span>
+        <a class="recipe-link" href="/recepten/lick-it-up-geroosterde-bloemkool-broccoli-drie-indiase-smeren/">Toepassen — "Lick It Up" geroosterde bloemkool</a>
+      </div></div>
+
+      <div class="tech" id="t29" data-id="29"><button class="check" aria-label="Aanvinken"></button><div class="nr">29</div><div class="body">
+        <h4>Groente eerst roosteren, dán de saus</h4>
+        <p>Niet groente koken en daarna saus eroverheen — dat is dood eten met sausdecoratie. Rooster of bak de groente eerst tot een diep gekarameliseerd, donker oppervlak. Pas dán saus, jus of vinaigrette eroverheen, vlak voor serveren.</p>
+        <p>Volgorde maakt het verschil tussen "groente met saus" en "groente die saus opzuigt en versterkt".</p>
+      </div></div>
+
+      <div class="tech" id="t30" data-id="30"><button class="check" aria-label="Aanvinken"></button><div class="nr">30</div><div class="body">
+        <h4>Spitskool kost €2, in een sterrenrestaurant €38</h4>
+        <p>Hetzelfde gerecht, vier stappen:</p>
+        <ul>
+          <li>Spitskool in kwarten. Royaal zout, olijfolie</li>
+          <li>Oven 220°C / 20-25 min tot diep amber-bruin met zwarte randjes</li>
+          <li>Halverwege keren</li>
+          <li>Afmaken met beurre noisette + geroosterde noten + verse kruiden + citroenrasp</li>
+        </ul>
+        <p>Spitskool kost €2. Hetzelfde gerecht in een sterrenrestaurant kost €38.</p>
+      </div></div>
+
+      <div class="tech" id="t31" data-id="31"><button class="check" aria-label="Aanvinken"></button><div class="nr">31</div><div class="body">
+        <h4>Wortel wordt luxe door tweestapsgaring</h4>
+        <p><strong>Stap 1 — zacht garen.</strong> In bouillon, melk of geklaarde boter op laag vuur tot precies gaar. Cellen breken open, suikers vrij.</p>
+        <p><strong>Stap 2 — hard afbakken.</strong> Droogdeppen. Hete pan met boter of oven 220°C. Tot diep gekarameliseerd.</p>
+        <p>Wortel die smaakt naar dessert. Werkt ook voor pastinaak, knolselderij, bietjes, koolrabi.</p>
+      </div></div>
+
+      <div class="tech" id="t32" data-id="32"><button class="check" aria-label="Aanvinken"></button><div class="nr">32</div><div class="body">
+        <h4>Rauwe groente heeft dressingtijd nodig</h4>
+        <p>Komkommer, venkel, kool, wortel, radijs, ui — eerst zouten of in dressing leggen. Tien minuten wachten. Vocht afgieten. Pas dán mengen of opmaken.</p>
+        <p>Door osmose trekt zout vocht uit groente. Groente wordt knapperiger, geconcentreerder. Dressing wordt niet verdund door waterige groente.</p>
+        <p><strong>Komkommersalade?</strong> Schaaf dun, royaal zout, 15 min wachten, sap uitknijpen. Pas dán azijn, suiker, dille. Een wereld van verschil.</p>
+      </div></div>
+
+      <div class="tech" id="t33" data-id="33"><button class="check" aria-label="Aanvinken"></button><div class="nr">33</div><div class="body">
+        <h4>Prei en lente-ui verdienen brandlucht</h4>
+        <p>Niet kort gestoofd, niet bleek gekookt. Maar geblakerd. Prei doormidden, gehalveerde lente-uien, kleine knolletjes prei — recht op gril, BBQ of in droge hete pan. Tot buitenkant zwart-bruin verkoold is.</p>
+        <p>Gekarboniseerde buitenkant pel je deels af. Eronder: zacht, zoet, complex, gerookt. Afmaken met vinaigrette van sherry-azijn + hazelnootolie + geroosterde hazelnoten.</p>
+      </div></div>
+
+    </div>
+
+    <p class="bridge reveal">Tot nu toe ging het over hitte en hand. Nu over architectuur — hoe je smaak bóuwt.</p>
+
+    <!-- ============ VI — SMAAK BOUWEN ============ -->
+    <div class="section-tag reveal"><span class="num">vi</span><span class="rule"></span></div>
+    <h2 class="reveal" id="smaak" data-short="Smaak bouwen">Saus, pasta &amp; smaak bouwen</h2>
+    <p class="reveal">Hier verlaten we techniek-met-de-handen. Dit is smaak-architectuur — wat het verschil maakt tussen "smaakvol" en "onverklaarbaar goed".</p>
+    <div class="sec-prog" data-section="smaak"><span>Sectie:</span><div class="bar"><i></i></div><span class="cnt">0 / 15</span></div>
+
+    <div class="techgroup">
+
+      <div class="tech" id="t34" data-id="34"><button class="check" aria-label="Aanvinken"></button><div class="nr">34</div><div class="body">
+        <h4>De vijf smaak-pilaren</h4>
+        <p>Onthoud deze vijf. Bij elk gerecht: zijn ze in evenwicht?</p>
+        <ul>
+          <li><strong>Zoutigheid</strong> — sojasaus, vissaus, kaas, ham, miso</li>
+          <li><strong>Zuur</strong> — citroen, azijn, wijn, yoghurt, tomaten</li>
+          <li><strong>Zoetheid</strong> — karamel, gekookte ui, honing, mirin</li>
+          <li><strong>Bitterheid</strong> — koffie, donkere chocolade, koolblaadjes, gebrande knoflook (vaak vergeten!)</li>
+          <li><strong>Umami</strong> — bouillon, paddenstoel, gefermenteerd, parmigiano</li>
+        </ul>
+        <p>Goed gerecht heeft alle vijf in evenwicht. Grootse gerecht heeft één nét iets sterker.</p>
+      </div></div>
+
+      <div class="tech" id="t35" data-id="35"><button class="check" aria-label="Aanvinken"></button><div class="nr">35</div><div class="body">
+        <h4>Umami is geen ingrediënt — het is een rekensom</h4>
+        <p>Dit is misschien wel de meest waardevolle zin in dit hele document. Lees hem nog eens. Schrijf hem op een briefje en plak hem in je keuken.</p>
+
+        <div class="umami">
+          <div class="ul">De Umami-vermenigvuldiging</div>
+          <div class="formula">GLUTAMAAT × INOSINAAT</div>
+          <div class="formula" style="font-size:.9em;margin-top:-.3rem;">(of × GUANYLAAT)</div>
+          <div class="equals">= 5× magie</div>
+          <p class="note">Niet optellen. <em>Vermenigvuldigen.</em><br>Twee umami-bronnen geven samen een effect dat 5 tot 10 keer sterker is dan elk apart.</p>
+          <div class="sources">
+            <div class="src"><b>Glutamaat</b><span>tomaat, parmigiano, sojasaus, miso, marmite, kombu, gedroogde tomaat, oude kaas, gefermenteerde groente</span></div>
+            <div class="src"><b>Inosinaat</b><span>vlees, vis, gedroogde tonijn (bonito), ham, prosciutto, ansjovis, gedroogde garnaal</span></div>
+            <div class="src"><b>Guanylaat</b><span>gedroogde paddenstoel — vooral porcini en shiitake</span></div>
+          </div>
+        </div>
+
+        <p><strong>Het is overal:</strong></p>
+        <ul>
+          <li><strong>Pizza margherita</strong> (tomaat + mozzarella) — alleen glutamaat. Lekker.</li>
+          <li><strong>Pizza prosciutto</strong> — glutamaat × inosinaat. Onverklaarbaar lekkerder.</li>
+          <li><strong>Japanse dashi</strong> = kombu × bonito. Hier is de wetenschap ontdekt.</li>
+          <li><strong>Een goede bolognese</strong> = tomaten × vlees × gedroogde porcini. Drie bronnen.</li>
+          <li><strong>Cacio e pepe</strong> met ansjovis erin verstopt = pecorino × ansjovis.</li>
+          <li><strong>Caesar dressing</strong> = parmigiano × ansjovis.</li>
+        </ul>
+        <p><strong>Bij elk gerecht dat je voortaan kookt:</strong> heb ik twee verschillende umami-bronnen erin?</p>
+        <a class="recipe-link" href="/recepten/ragu-alla-bolognese-droog-diep-puur/">Toepassen — Ragù alla Bolognese (3 bronnen)</a>
+        <a class="recipe-link" href="/recepten/sukiyaki-ossenhaas-warishita/" style="margin-left:.3rem;">Sukiyaki (vlees × shiitake × soja)</a>
+      </div></div>
+
+      <div class="tech" id="t36" data-id="36"><button class="check" aria-label="Aanvinken"></button><div class="nr">36</div><div class="body">
+        <h4>Ansjovis zonder vissmaak</h4>
+        <p>Krachtigste smaakgever in je voorraadkast die niemand gebruikt. Eén ansjovisfilet bij elke mediterrane stoof, ragu of vleessaus — smelt volledig weg. Geen textuur, geen visgeur, geen herkenbaar ansjovis-smaak.</p>
+        <p>Wat je <em>wel</em> krijgt: diepte van umami die je gerecht 5× intenser maakt zonder dat iemand kan zeggen waarom.</p>
+      </div></div>
+
+      <div class="tech" id="t37" data-id="37"><button class="check" aria-label="Aanvinken"></button><div class="nr">37</div><div class="body">
+        <h4>Parmigiano-korst in bouillon</h4>
+        <p>De harde rand van een blok parmigiano is een umami-bom. Bewaar elke korst in vriezer. Bij élke stoof, soep, risotto of bouillon: gooi één korst erin tijdens het laatste half-uur. Vis er aan einde uit, of laat erin (wordt zacht-eetbaar).</p>
+        <p>De diepte is onmogelijk te repliceren met andere ingrediënten.</p>
+      </div></div>
+
+      <div class="tech" id="t38" data-id="38"><button class="check" aria-label="Aanvinken"></button><div class="nr">38</div><div class="body">
+        <h4>Gedroogde-shiitake-water is goud</h4>
+        <p>Week een handvol gedroogde shiitake of porcini in heet water. De paddenstoelen gebruik je in je gerecht. <strong>Maar het weekwater is de echte schat.</strong></p>
+        <p>Diepe, donkerbruine bouillon vol guanylaat — umami-bom (zie de rekensom). Combineer met sojasaus of miso voor explosieve smaak in vegetarische ramen, risotto met paddenstoelen, stoofschotels, linzen, pasta-saus.</p>
+        <span class="why"><b>Profi-truc:</b> zeef door koffiefilter, bewaar in koelkast (3 dagen) of vries in (ijsblokjes). Eén ijsblokje = onmiddellijke umami.</span>
+      </div></div>
+
+      <div class="tech" id="t39" data-id="39"><button class="check" aria-label="Aanvinken"></button><div class="nr">39</div><div class="body">
+        <h4>Citroenrasp ≠ citroensap</h4>
+        <p>Twee verschillende ingrediënten. Twee verschillende effecten.</p>
+        <p><strong>Citroensap:</strong> zuur. Verheldert. Balanceert vet. Stimuleert speeksel. Op het einde toevoegen.</p>
+        <p><strong>Citroenrasp:</strong> aromatisch. Olie-rijke schil met etherische olieën. Geeft <em>parfum</em> van citroen, geen zuur.</p>
+        <p>Profs gebruiken beide — vaak in hetzelfde gerecht. Rasp in pasta-saus, sap erover op het bord.</p>
+        <span class="why"><b>Belangrijk:</b> rasp <em>alleen het gele</em>. Nooit het witte (bitter). Een microplane is je vriend.</span>
+      </div></div>
+
+      <div class="tech" id="t40" data-id="40"><button class="check" aria-label="Aanvinken"></button><div class="nr">40</div><div class="body">
+        <h4>Mosterd is een emulgator</h4>
+        <p>Een vinaigrette die niet schift, is geen geheim. Het is mosterd. In een vinaigrette is mosterd niet alleen smaak. Het is een <em>emulgator</em> — een molecuul met een waterminnend en een vetminnend uiteinde, dat olie en azijn dwingt verbonden te blijven.</p>
+        <p><strong>De juiste volgorde:</strong></p>
+        <ul>
+          <li>Eerst de "waterige" fase: azijn + mosterd (1 tl Dijon per 60 ml olie) + zout + peper. Klop tot één geheel.</li>
+          <li>Dán de olie heel langzaam toevoegen — eerst druppel-voor-druppel, daarna in een dunne straal, voortdurend kloppend.</li>
+          <li>Resultaat: dikke, romige dressing met glans. Schift niet, zelfs niet na een dag in de koelkast.</li>
+        </ul>
+        <p><strong>Andere natuurlijke emulgators:</strong> eigeel (waarom mayo werkt), honing, ahornsiroop, gepureerde gekookte aardappel, miso, een lepel yoghurt.</p>
+      </div></div>
+
+      <div class="tech" id="t41" data-id="41"><button class="check" aria-label="Aanvinken"></button><div class="nr">41</div><div class="body">
+        <h4>Zuur komt pas op het einde</h4>
+        <p>Veel zuur verdampt, vervlakt of wordt bitter als je het te lang meekookt. Daarom is citroen, azijn, verjus of pickelvocht vaak het krachtigst in de <strong>laatste 30 seconden</strong>. Niet aan het begin als basis — aan het einde als wapen.</p>
+        <span class="why"><b>Probeer dit:</b> je beste stoof. Net voor serveren: lepel rode-wijnazijn of sherry-azijn erin. Niet aan begin. Aan einde. Proef het verschil. Geen kleine verandering.</span>
+      </div></div>
+
+      <div class="tech" id="t42" data-id="42"><button class="check" aria-label="Aanvinken"></button><div class="nr">42</div><div class="body">
+        <h4>Kruiden op twee momenten — niet één</h4>
+        <p>Harde kruiden gaan vroeg. Zachte kruiden gaan laat. Wie alles tegelijk gooit, krijgt geen van beide.</p>
+        <p><strong>Harde kruiden — vroeg, lang.</strong> Tijm, rozemarijn, laurier, salie, oregano (gedroogd), kruidnagel, kaneelstok. Doe ze direct na het aanbakken in stoofs of marinades. Etherische oliën hebben tijd nodig om vrij te komen.</p>
+        <p><strong>Zachte kruiden — laat, kort.</strong> Peterselie, basilicum, dille, koriander, dragon, kervel, bieslook. Verliezen smaak, kleur en aroma bij langere hitte. Voeg toe in de laatste 60 seconden, of pas op het bord.</p>
+        <span class="why"><b>Profi-truc:</b> de meeste zachte kruiden hebben <em>stelen</em> die je apart kunt gebruiken voor diepte. Peterselie-stelen in bouillon. Koriander-stelen in curry-pasta. Niet weggooien — gratis smaak.</span>
+      </div></div>
+
+      <div class="tech" id="t43" data-id="43"><button class="check" aria-label="Aanvinken"></button><div class="nr">43</div><div class="body">
+        <h4>Geef je bord een bittertje</h4>
+        <p>Bitter is de smaak die het meest vergeten wordt. Bord zonder bittertje voelt onvolwassen — voller, dover, minder spanning.</p>
+        <p>Niet véél — een vleugje. Maar wel bewust:</p>
+        <ul>
+          <li>Geroosterde uien tot bijna-zwart</li>
+          <li>Radicchio of andijvie in salades</li>
+          <li>Donkere chocolade of cacao in vleesragouts</li>
+          <li>Espresso in chocoladegerechten of stoof</li>
+          <li>Rucola of mizuna onder vis of vlees</li>
+          <li>Citruszest (vooral grapefruit of bittere sinaasappel)</li>
+          <li>Gegrilde kool of bloemkool met geschroeide randjes</li>
+        </ul>
+        <p>Eén bittertje per bord. Subtiel. Verschil tussen "lief" en "interessant".</p>
+      </div></div>
+
+      <div class="tech" id="t44" data-id="44"><button class="check" aria-label="Aanvinken"></button><div class="nr">44</div><div class="body">
+        <h4>Pastawater is saus — niet afval</h4>
+        <p>Het meest waardevolle vocht in je keuken — en de meeste thuiskoks gooien het door de gootsteen.</p>
+        <p>Pastawater bevat opgeloste zetmeel (van de pasta) en zout. Die combinatie maakt het tot een natuurlijke saus-binder. Als je pasta saus toevoegt, zal die saus zich niet automatisch aan de pasta hechten — hij glijdt eraf. Pastawater is wat ze samenbindt.</p>
+        <p><strong>Doe dit — altijd:</strong> voor je pasta afgiet, schep een mok kookwater uit. 250-300 ml. <strong>Pas dán</strong> in het vergiet. Die mok zet je nooit weg.</p>
+      </div></div>
+
+      <div class="tech" id="t45" data-id="45"><button class="check" aria-label="Aanvinken"></button><div class="nr">45</div><div class="body">
+        <h4>Pasta eindigt in de pan</h4>
+        <p>Niet "pasta op bord, saus erover". Dat is pasta met decoratie. Echte Italiaanse pasta wordt áfgemaakt in de pan — de laatste 60 sec van het garen gebeurt in de saus zelf.</p>
+        <ul>
+          <li>Pasta in kookwater tot <em>al dente min 1 minuut</em></li>
+          <li>Saus klaar in aparte pan op laag vuur</li>
+          <li>Pasta uit het water, direct in de saus (druppels kookwater mogen mee)</li>
+          <li>Voeg paar lepels pastawater toe. Middelhoog vuur</li>
+          <li>Schep 30-60 sec om en om. Saus dikt, hecht, omhult elk sliertje</li>
+          <li>Eventueel laatste lepel pastawater voor consistentie. Direct opdienen</li>
+        </ul>
+        <p>Verschil is dramatisch. Pasta die "geserveerd-met-saus" voelt, versus pasta waar saus en pasta één geheel zijn.</p>
+      </div></div>
+
+      <div class="tech" id="t46" data-id="46"><button class="check" aria-label="Aanvinken"></button><div class="nr">46</div><div class="body">
+        <h4>Kaas gaat van het vuur</h4>
+        <p>Klein, lijdend detail dat het verschil maakt tussen romige cacio e pepe en korrelige tragedie. Parmigiano of pecorino in <em>kokend hete</em> pasta-saus = de eiwitten in de kaas stollen, klonteren, splijten van het vet. Resultaat: korrelig.</p>
+        <p><strong>Doe dit:</strong> pan <strong>van het vuur</strong> halen. 30 seconden wachten tot de temperatuur daalt naar onder de 80°C. Pas dán de geraspte kaas erdoorheen scheppen. Roer tot smeuïg. Eventueel een lepel pastawater voor extra glans.</p>
+        <a class="recipe-link" href="/recepten/cacio-e-pepe-puur-romig-geemulgeerd/">Toepassen — Cacio e Pepe</a>
+      </div></div>
+
+      <div class="tech" id="t47" data-id="47"><button class="check" aria-label="Aanvinken"></button><div class="nr">47</div><div class="body">
+        <h4>Maak één chef-pantry-potje</h4>
+        <p>Eén lepel uit het juiste potje, en élk doordeweeks gerecht stijgt direct twee niveaus. Maak één breed-toepasbaar smaakpotje en houd dat altijd in je koelkast of voorraadkast. Iedere prof heeft er eentje.</p>
+        <ul>
+          <li><strong>Pangrattato</strong> — geroosterde panko + knoflook + citroenrasp + peterselie + gesmolten ansjovis. Op pasta, soep, ei, gegrilde vis.</li>
+          <li><strong>Chili crisp</strong> — knoflook + sjalot + gedroogde chili in olie, langzaam gefrituurd. Op rijst, ei, ramen, dumpling, vlees.</li>
+          <li><strong>Gremolata</strong> — fijngehakte peterselie + knoflook + citroenrasp + zout. Klassiek bij ossobuco, geweldig op alle stoof.</li>
+          <li><strong>Salsa verde</strong> — peterselie + kappertjes + ansjovis + mosterd + knoflook + olie. Op alles wat gegrild is.</li>
+        </ul>
+        <p>Kies één. Maak op zondag. Twee weken houdbaar. Eén lepel per gerecht.</p>
+        <a class="recipe-link" href="/recepten/venusschelpen-salsa-verde/">Toepassen — Venusschelpen in salsa verde</a>
+      </div></div>
+
+      <div class="tech" id="t48" data-id="48"><button class="check" aria-label="Aanvinken"></button><div class="nr">48</div><div class="body">
+        <h4>De 30-seconden restaurantcorrectie</h4>
+        <p>Misschien wel de meest praktische tip in dit hele document. Voor elk gerecht dat "wel lekker maar niet bijzonder" smaakt: voeg <strong>niet</strong> automatisch zout toe. Proef in deze volgorde:</p>
+        <ul>
+          <li><strong>Mist het spanning?</strong> → voeg zuur toe (citroen, azijn)</li>
+          <li><strong>Mist het diepte?</strong> → voeg umami toe (ansjovis, sojasaus, parmigiano)</li>
+          <li><strong>Mist het luxe?</strong> → voeg vet toe (koude boter, room, olijfolie)</li>
+          <li><strong>Mist het levendigheid?</strong> → voeg verse kruiden of citrusrasp toe</li>
+          <li><strong>Mist het contrast?</strong> → voeg crunch toe (geroosterde noten, gefrituurde uitjes)</li>
+        </ul>
+        <p>Tegen de tijd dat je deze vijf doorlopen hebt — bij 90% van de gerechten — heb je het probleem gevonden. <strong>Het is bijna nooit zout.</strong></p>
+        <p style="font-style:italic;color:var(--ink-soft);">Dit is hoe profs in restaurant-keukens beslissen wat er met een gerecht moet gebeuren in de laatste 30 seconden voordat het de pas uitgaat. <a href="#diagnose" style="color:var(--wine);">Probeer de interactieve diagnose-tool →</a></p>
+      </div></div>
+
+    </div>
+
+    <p class="bridge reveal">Smaak op orde? Tijd voor het bord — waar het oog het laatste woord heeft.</p>
+
+    <!-- ============ VII — PLATING ============ -->
+    <div class="section-tag reveal"><span class="num">vii</span><span class="rule"></span></div>
+    <h2 class="reveal" id="plating" data-short="Plating">Plating zonder kermis</h2>
+    <p class="reveal">Plating verandert geen smaak. Plating verandert wel hoe goed je eten smaakt. Wat het oog ziet, gelooft de tong. Geen microgreens overal. Geen geveegde-saus-veterstreepjes. Vier regels.</p>
+    <div class="sec-prog" data-section="plating"><span>Sectie:</span><div class="bar"><i></i></div><span class="cnt">0 / 4</span></div>
+
+    <div class="techgroup">
+
+      <div class="tech" id="t49" data-id="49"><button class="check" aria-label="Aanvinken"></button><div class="nr">49</div><div class="body">
+        <h4>Eén hoofd, één saus, één crunch, één fris</h4>
+        <p>De compositie van bijna élk sterren-bord:</p>
+        <ul>
+          <li><strong>Eén hoofdcomponent</strong> (vlees / vis / hoofdgroente) — wat het gerecht is</li>
+          <li><strong>Eén saus of jus</strong> — de verbinding</li>
+          <li><strong>Eén crunch</strong> — geroosterde noot, gefrituurde uitjes, gepofte boekweit, panko</li>
+          <li><strong>Eén fris element</strong> — verse kruid, citroenrasp, picklevocht, één dot microgreens (echt, één dot — niet het hele bord vol)</li>
+        </ul>
+        <p>Klaar. Dat is het. Géén warzwijn van zes garneringen door elkaar.</p>
+      </div></div>
+
+      <div class="tech" id="t50" data-id="50"><button class="check" aria-label="Aanvinken"></button><div class="nr">50</div><div class="body">
+        <h4>Hoogte boven plattheid</h4>
+        <p>Plat eten = jaren-'80. Hoog gestapeld = nu. Stapel ingrediënten in verticaal mini-bouwwerk. Vis op puree op spinazie. Steak op rosti op gestoofde sjalot. Bouw verticaal.</p>
+        <p>Geeft drama, geeft compositie. Visueel onmiddellijk een ander niveau zonder verandering aan bereiding.</p>
+      </div></div>
+
+      <div class="tech" id="t51" data-id="51"><button class="check" aria-label="Aanvinken"></button><div class="nr">51</div><div class="body">
+        <h4>DE REGEL: Eén crunch per bord — altijd</h4>
+        <p><em>Een gerecht zonder crunch voelt vlak. Altijd. Onmisbaar.</em></p>
+        <p>Niet alleen chips of croutons:</p>
+        <ul>
+          <li>Geroosterde hazelnoten of amandelen</li>
+          <li>Gebakken broodkruim (<em>pangrattato</em>)</li>
+          <li>Krokante kippenhuid</li>
+          <li>Gepofte boekweit</li>
+          <li>Gefrituurde kappertjes</li>
+          <li>Krokante uitjes</li>
+          <li>Geroosterde panko of sesamzaad</li>
+          <li>Gepofte rijst</li>
+          <li>Gefrituurde salieblaadjes</li>
+        </ul>
+        <p>Eén crunch. Verschil tussen "smakelijk" en "spannend".</p>
+        <a class="recipe-link" href="/recepten/crema-puerros-chorizo/">Toepassen — Crema de puerros met krokante chorizo</a>
+        <a class="recipe-link" href="/recepten/crunchy-part-lasagna-krokante-lasagnehoekjes-geconcentreerde-ragu/" style="margin-left:.3rem;">Crunchy part of the lasagna</a>
+      </div></div>
+
+      <div class="tech" id="t52" data-id="52"><button class="check" aria-label="Aanvinken"></button><div class="nr">52</div><div class="body">
+        <h4>DE REGEL: Saus moet raak zijn — niet veel</h4>
+        <p><em>Thuiskoks maken vaak te veel saus. Restaurants maken weinig saus met veel concentratie.</em></p>
+        <p>Liever twee lepels intense jus dan een zwembad room. Liever streep beurre blanc onder het vlees dan een schaal vol. Liever dot tomaten-confit naast het bord dan een laag saus eronder.</p>
+        <p><strong>Reduceer. Concentreer. Plaats raak.</strong></p>
+        <p>20% restaurant-bord is saus. 80% is hoofdcomponent. Bij thuiskoks meestal andersom — en daar verliezen ze het gevecht.</p>
+        <span class="why"><b>Bonus-regel — Bruine bodem is goud, gooi 'm nooit weg.</b> Alles wat aan je pan kleeft na bakken — zolang niet zwart-verbrand — is smaak. De fond. Blus met wijn, bouillon, water, citroen of room. Schraap los, reduceer, monteer met koude boter. Plotseling: saus. Vijf minuten werk.</span>
+      </div></div>
+
+    </div>
+
+    <div class="reset-wrap">
+      <button class="reset-btn" onclick="if(confirm('Weet je het zeker? Al je vinkjes worden gewist.')){localStorage.removeItem('sterrenkok_checks');location.reload();}">↻ Reset alle vinkjes</button>
+    </div>
+
+    <!-- ============ DIAGNOSE TOOL ============ -->
+    <div class="section-tag reveal"><span class="num">✦</span><span class="rule"></span></div>
+    <h2 class="reveal" id="diagnose" data-short="Diagnose">De 30-seconden diagnose</h2>
+    <div class="diagnose reveal">
+      <span class="dt">Voor het bord eruit gaat</span>
+      <h3>Mist het gerecht iets? Klik op het probleem.</h3>
+      <p class="intro">De methode die profs gebruiken in de laatste 30 seconden voordat een bord de pas uitgaat. <strong>Bijna nooit ontbreekt er zout</strong> — het is bijna altijd iets anders.</p>
+
+      <div class="diagnose-grid">
+        <div class="dx" data-q="spanning">
+          <div><span class="arrow">→</span></div>
+          <div>
+            <div class="dq">Het smaakt vlak. Mist spanning.</div>
+            <div class="da"><strong>Voeg zuur toe.</strong> Een paar druppels citroensap, een scheut sherry-azijn, een klein beetje pickelvocht. Zuur tilt smaken op en geeft het gerecht "richting" — alsof iemand de focus aanzet.</div>
+          </div>
+        </div>
+        <div class="dx" data-q="diepte">
+          <div><span class="arrow">→</span></div>
+          <div>
+            <div class="dq">Het is dun. Mist diepte.</div>
+            <div class="da"><strong>Voeg umami toe.</strong> Eén ansjovisfilet, een scheut sojasaus, een lepel miso, een Parmigiano-korst, een snufje gedroogd-paddenstoel-poeder. De gerechten die "onverklaarbaar lekker" zijn, hebben altijd twee umami-bronnen.</div>
+          </div>
+        </div>
+        <div class="dx" data-q="luxe">
+          <div><span class="arrow">→</span></div>
+          <div>
+            <div class="dq">Het mist luxe. Het voelt karig.</div>
+            <div class="da"><strong>Voeg vet toe.</strong> Een klontje koude boter erin kloppen, een scheut goede olijfolie, een lepel room. Vet verbreedt, verzacht en geeft mondgevoel — de "fluweel"-laag die restaurant-eten anders maakt.</div>
+          </div>
+        </div>
+        <div class="dx" data-q="levendigheid">
+          <div><span class="arrow">→</span></div>
+          <div>
+            <div class="dq">Het voelt dood. Geen levendigheid.</div>
+            <div class="da"><strong>Voeg verse kruiden of citrusrasp toe.</strong> Net voor het uitserveren. Gehakte peterselie, basilicum, koriander; rasp van citroen, limoen of sinaasappel. Geur is een groot deel van smaak — verse kruiden brengen die geur áán tafel, niet alleen in de pan.</div>
+          </div>
+        </div>
+        <div class="dx" data-q="contrast">
+          <div><span class="arrow">→</span></div>
+          <div>
+            <div class="dq">Het is monotoon. Mist contrast.</div>
+            <div class="da"><strong>Voeg crunch toe.</strong> Geroosterde noten, gefrituurde uitjes, panko, krokante kappertjes, pangrattato. Een gerecht zonder crunch voelt altijd vlak — de tand wil weerstand. Eén crunch per bord, altijd.</div>
+          </div>
+        </div>
+        <div class="dx" data-q="zout">
+          <div><span class="arrow">→</span></div>
+          <div>
+            <div class="dq">Pas hierna: heb ik wel genoeg zout?</div>
+            <div class="da"><strong>Als laatste optie: voeg zout toe.</strong> Bij 90% van de gerechten die "niet bijzonder" smaakten, was zout niet het probleem — was het zuur, umami of vet. Maar als de vier hierboven niet werken: een snuf vlokkenzout op het bord vlak voor serveren maakt het verschil.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="bridge reveal">Tot slot — wat álle 52 technieken eigenlijk leren.</p>
+
+    <!-- ============ CLOSER + DENK IN CONTRASTEN ============ -->
+    <div class="section-tag reveal"><span class="num">✦</span><span class="rule"></span></div>
+    <h2 class="reveal">Denk in contrasten — niet in ingrediënten</h2>
+    <p class="reveal">Een goed bord heeft contrast. Geen meer ingrediënten.</p>
+    <p class="reveal"><strong>Warm tegenover koud. Zacht tegenover krokant. Vet tegenover fris. Zout tegenover zoet. Diep tegenover helder.</strong></p>
+    <p class="reveal">Dat is wat al deze 52 technieken — als je het van bovenaf bekijkt — eigenlijk leren: <em>spanning bouwen.</em> Niet meer toevoegen. Beter combineren.</p>
+    <div class="minisum reveal"><b>Onthoud:</b> hitte × droogte × zout × tijd × correctie. Vijf knoppen. Begin met de zeven uit "Begin hier" en bouw verder. Drie technieken per week, drie maanden lang. Dan kookt iemand bij jou aan tafel en zegt: <em>"wacht — wat is dít?"</em></div>
+
+    <!-- ============ FAQ ============ -->
+    <div class="section-tag reveal"><span class="num">✦</span><span class="rule"></span></div>
+    <h2 class="reveal" id="faq" data-short="FAQ">Veelgestelde vragen</h2>
+    <div class="faq reveal">
+      <details><summary>Hoe word je een betere kok thuis?</summary><div class="fa">Door dezelfde simpele dingen <em>slimmer</em> te doen, niet door moeilijkere recepten. Begin met vijf basis-knoppen: hete pan, droog oppervlak, zout op drie momenten, voldoende tijd voor karamellisatie, en een correctie-ronde vlak voor serveren. Drie technieken per week is genoeg. Over drie maanden kook je anders.</div></details>
+      <details><summary>Wat is de belangrijkste fout van thuiskoks?</summary><div class="fa">De pan is niet heet genoeg. Bijna iedereen onderschat de hitte die Maillard-bruining vereist (200-250°C aan de panbodem). Voeg daar "vlees in pan zonder droogdeppen" aan toe en je hebt de twee meest voorkomende oorzaken van middelmatige gerechten.</div></details>
+      <details><summary>Wat is dry brining en wanneer doe je het?</summary><div class="fa">Royaal zouten van vlees 24-48 uur vooraf, ongedekt in de koelkast. Zout trekt vocht aan het oppervlak, lost op, en wordt teruggetrokken in het vlees — dieper en gelijkmatiger gezouten dan op het laatste moment. De oppervlakte droogt uit, wat onmisbaar is voor Maillard-bruining. Voor élke dikke biefstuk, hele kip of eendenborst.</div></details>
+      <details><summary>Hoe karamelliseer je uien echt goed?</summary><div class="fa">Veertig tot zestig minuten. Niet zeven, niet tien. Vier uien fijngesneden, boter en olijfolie, eerst middelhoog. Na 5 minuten op laag. Roer elke 5-10 minuten. Na 45 minuten heb je een mahonie-bruine pasta. Houdt 5 dagen in de koelkast, kan ingevroren.</div></details>
+      <details><summary>Wat is umami precies?</summary><div class="fa">De vijfde basissmaak — savory, vlezig, diep. Geen ingrediënt op zich, maar een rekensom: glutamaat (in tomaat, kaas, soja, miso, zeewier) vermenigvuldigd met inosinaat (in vlees, vis, ham, ansjovis) of guanylaat (in gedroogde paddenstoel) geeft een effect dat 5 tot 10 keer sterker is dan elke bron apart. Vandaar dat pizza met prosciutto onverklaarbaar lekkerder is dan zonder.</div></details>
+      <details><summary>Wat is reverse sear?</summary><div class="fa">Een techniek voor dikke biefstuk waarbij je het vlees eerst langzaam gaart in de oven op 120°C tot 49°C kerntemperatuur (voor medium-rare), en pas dán kort en heet aanbraadt in een zeer hete pan. Resultaat: gelijkmatig rosé van rand tot rand, met een perfecte korst. Slechts 1-2 minuten rust nodig.</div></details>
+      <details><summary>Waarom moet vlees rusten na het bakken?</summary><div class="fa">Temperatuur en druk in het vlees egaliseren, spiervezels ontspannen, waardoor er bij aansnijden minder vocht wegloopt op je snijplank. Dik vlees (steak, kotelet): 5-7 minuten onder folie. Dun vlees: 2 minuten. Bij reverse sear is een korte rust van 1-2 minuten genoeg — het vlees is al grotendeels gerust in de oven.</div></details>
+      <details><summary>Hoe maak je vishuid die niet plakt?</summary><div class="fa">Drie geheimen: huid extreem droog (30 minuten ongedekt op rooster in koelkast), niet bewegen tot de vis zich vanzelf loslaat (4-6 minuten op middelhoog vuur), en 80% van de tijd op de huid bakken, 20% op het vlees. Profi-truc: een dunne laag bloem op de huid voorkomt krommen en geeft extra crisp.</div></details>
+      <details><summary>Wat is het verschil tussen citroenrasp en citroensap?</summary><div class="fa">Twee verschillende ingrediënten. Citroensap is zuur — balanceert vet, stimuleert speeksel, op het einde toevoegen. Citroenrasp is aromatisch — het geeft het <em>parfum</em> van citroen zonder zuur. Profs gebruiken beide, vaak in hetzelfde gerecht. Belangrijk: rasp alleen het gele, nooit het witte (bitter).</div></details>
+      <details><summary>Wat is mise en place?</summary><div class="fa">Frans voor "alles op zijn plaats". Vóórdat je het vuur aanzet: alle ingrediënten gesneden, afgemeten, in bakjes klaar. Koken is een orkest van timings — één onderbreking om een specerij te zoeken en je rijst is overgaar, je saus geschift. Het kost vooraf 10 minuten en bespaart 30 minuten paniek.</div></details>
+      <details><summary>Hoe gebruik je pastawater?</summary><div class="fa">Schep een mok pastawater (250-300 ml) uit vóórdat je afgiet. Het bevat zetmeel en zout — een natuurlijke saus-binder. Pasta uit het water direct in de saus, paar lepels pastawater erbij, 30-60 seconden op middelhoog omscheppen. De saus dikt en hecht aan de pasta in plaats van eraf te glijden. Verschil tussen "pasta met saus" en "pasta en saus als één geheel".</div></details>
+      <details><summary>Wat doe ik als mijn gerecht "niet bijzonder" smaakt?</summary><div class="fa">Voeg <strong>niet</strong> automatisch zout toe. Proef in deze volgorde: mist het spanning → voeg zuur toe; mist het diepte → voeg umami toe (ansjovis, soja, parmigiano); mist het luxe → voeg vet toe (koude boter, room); mist het levendigheid → voeg verse kruiden of citrusrasp toe; mist het contrast → voeg crunch toe. Bij 90% van de gerechten zit het probleem in een van deze vier — niet in zout.</div></details>
+      <details><summary>Welke thermometer is het beste voor thuis?</summary><div class="fa">Een digitale insteek-thermometer met snelle reactie. Thermapen Mk4 of Inkbird IBT-4XS (€30-150). Voor vlees doneness, pocheer-vloeistoffen, confit-olie, karamel, broodfermentatie, frituur. Eén instrument, oneindig veel toepassingen — voor precisie de meest waardevolle aankoop voor een thuiskok.</div></details>
+      <details><summary>Hoe maak je een vinaigrette die niet schift?</summary><div class="fa">Met mosterd als emulgator. 1 theelepel Dijon per 60 ml olie. Eerst azijn + mosterd + zout + peper kloppen tot één geheel. Dan de olie héél langzaam toevoegen — eerst druppel-voor-druppel, daarna in een dunne straal, voortdurend kloppend. Resultaat: dikke romige dressing die zelfs na een dag in de koelkast niet schift.</div></details>
+      <details><summary>Hoe maak je groente echt lekker?</summary><div class="fa">Donker roosteren — verder dan je comfortabel voelt. "Donkergoud" voor thuiskoks is half gaar voor sterrenkoks. Diep amber-bruin tot bijna-zwart op randjes. Oven 220°C+ en wees geduldig: het moment dat je nerveus wordt is precies het moment dat de smaak in de pan komt. Tweede tip: tweestapsgaring — eerst zacht garen in melk of bouillon, dan hard afbakken in boter of in de oven.</div></details>
+    </div>
+
+    <div class="closer reveal">
+      <div class="glass-mark" style="margin-top:0;"></div>
+      <p>Het verschil tussen een hobbykok en een sterrenkok is niet talent. Niet truffel, niet kaviaar, geen Michelin-school. Het zijn deze 52 kleine dingen, dag in dag uit volgehouden.</p>
+      <p style="margin-top:1rem;font-size:1.04rem;color:var(--ink-soft);font-style:italic;">Streep aan wat je vanavond gaat doen.</p>
+    </div>
+
+  </article>
+
+  <footer class="reveal">Het Proeven · met liefde voor wijn &amp; tafel</footer>
+
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"Hoe word je een betere kok thuis?","acceptedAnswer":{"@type":"Answer","text":"Door dezelfde simpele dingen slimmer te doen, niet door moeilijkere recepten. Begin met vijf basis-knoppen: hete pan, droog oppervlak, zout op drie momenten, voldoende tijd voor karamellisatie, en een correctie-ronde vlak voor serveren. Drie technieken per week is genoeg. Over drie maanden kook je anders."}},
+    {"@type":"Question","name":"Wat is de belangrijkste fout van thuiskoks?","acceptedAnswer":{"@type":"Answer","text":"De pan is niet heet genoeg. Bijna iedereen onderschat de hitte die Maillard-bruining vereist (200-250°C aan de panbodem). Voeg daar 'vlees in pan zonder droogdeppen' aan toe en je hebt de twee meest voorkomende oorzaken van middelmatige gerechten."}},
+    {"@type":"Question","name":"Wat is dry brining en wanneer doe je het?","acceptedAnswer":{"@type":"Answer","text":"Royaal zouten van vlees 24-48 uur vooraf, ongedekt in de koelkast. Zout trekt vocht aan het oppervlak, lost op, en wordt teruggetrokken in het vlees — dieper en gelijkmatiger gezouten dan op het laatste moment. De oppervlakte droogt uit, wat onmisbaar is voor Maillard-bruining."}},
+    {"@type":"Question","name":"Hoe karamelliseer je uien echt goed?","acceptedAnswer":{"@type":"Answer","text":"Veertig tot zestig minuten. Niet zeven, niet tien. Vier uien fijngesneden, boter en olijfolie, eerst middelhoog. Na 5 minuten op laag. Roer elke 5-10 minuten. Na 45 minuten heb je een mahonie-bruine pasta. Houdt 5 dagen in de koelkast, kan ingevroren."}},
+    {"@type":"Question","name":"Wat is umami precies?","acceptedAnswer":{"@type":"Answer","text":"De vijfde basissmaak — savory, vlezig, diep. Geen ingrediënt op zich, maar een rekensom: glutamaat (in tomaat, kaas, soja, miso, zeewier) vermenigvuldigd met inosinaat (in vlees, vis, ham, ansjovis) of guanylaat (in gedroogde paddenstoel) geeft een effect dat 5 tot 10 keer sterker is dan elke bron apart."}},
+    {"@type":"Question","name":"Wat is reverse sear?","acceptedAnswer":{"@type":"Answer","text":"Een techniek voor dikke biefstuk waarbij je het vlees eerst langzaam gaart in de oven op 120°C tot 49°C kerntemperatuur (voor medium-rare), en pas dán kort en heet aanbraadt in een zeer hete pan. Resultaat: gelijkmatig rosé van rand tot rand, met een perfecte korst."}},
+    {"@type":"Question","name":"Waarom moet vlees rusten na het bakken?","acceptedAnswer":{"@type":"Answer","text":"Temperatuur en druk in het vlees egaliseren, spiervezels ontspannen, waardoor er bij aansnijden minder vocht wegloopt op je snijplank. Dik vlees: 5-7 minuten onder folie. Dun vlees: 2 minuten. Bij reverse sear is een korte rust van 1-2 minuten genoeg."}},
+    {"@type":"Question","name":"Hoe maak je vishuid die niet plakt?","acceptedAnswer":{"@type":"Answer","text":"Drie geheimen: huid extreem droog (30 minuten ongedekt op rooster in koelkast), niet bewegen tot de vis zich vanzelf loslaat (4-6 minuten), en 80% van de tijd op de huid bakken, 20% op het vlees."}},
+    {"@type":"Question","name":"Wat is het verschil tussen citroenrasp en citroensap?","acceptedAnswer":{"@type":"Answer","text":"Citroensap is zuur — balanceert vet, op het einde toevoegen. Citroenrasp is aromatisch — geeft het parfum van citroen zonder zuur. Profs gebruiken beide, vaak in hetzelfde gerecht. Rasp alleen het gele, nooit het witte (bitter)."}},
+    {"@type":"Question","name":"Wat is mise en place?","acceptedAnswer":{"@type":"Answer","text":"Frans voor 'alles op zijn plaats'. Vóórdat je het vuur aanzet: alle ingrediënten gesneden, afgemeten, in bakjes klaar. Koken is een orkest van timings — één onderbreking en alles valt om. Kost 10 minuten vooraf en bespaart 30 minuten paniek."}},
+    {"@type":"Question","name":"Hoe gebruik je pastawater?","acceptedAnswer":{"@type":"Answer","text":"Schep een mok pastawater uit vóórdat je afgiet. Het bevat zetmeel en zout — een natuurlijke saus-binder. Pasta uit het water direct in de saus, paar lepels pastawater erbij, 30-60 seconden op middelhoog omscheppen. De saus hecht aan de pasta in plaats van eraf te glijden."}},
+    {"@type":"Question","name":"Wat doe ik als mijn gerecht niet bijzonder smaakt?","acceptedAnswer":{"@type":"Answer","text":"Voeg niet automatisch zout toe. Proef in deze volgorde: mist het spanning → voeg zuur toe; mist het diepte → voeg umami toe; mist het luxe → voeg vet toe; mist het levendigheid → voeg verse kruiden of citrusrasp toe; mist het contrast → voeg crunch toe. Bij 90% van de gerechten zit het probleem hier — niet in zout."}},
+    {"@type":"Question","name":"Welke thermometer is het beste voor thuis?","acceptedAnswer":{"@type":"Answer","text":"Een digitale insteek-thermometer met snelle reactie. Thermapen Mk4 of Inkbird IBT-4XS (€30-150). Voor vlees doneness, pocheer-vloeistoffen, confit-olie, karamel, broodfermentatie, frituur."}},
+    {"@type":"Question","name":"Hoe maak je een vinaigrette die niet schift?","acceptedAnswer":{"@type":"Answer","text":"Met mosterd als emulgator. 1 theelepel Dijon per 60 ml olie. Eerst azijn + mosterd + zout + peper kloppen, dan de olie héél langzaam toevoegen — druppel-voor-druppel, daarna in een dunne straal, voortdurend kloppend."}},
+    {"@type":"Question","name":"Hoe maak je groente echt lekker?","acceptedAnswer":{"@type":"Answer","text":"Donker roosteren — verder dan je comfortabel voelt. Diep amber-bruin tot bijna-zwart op randjes, oven 220°C+. Tweede tip: tweestapsgaring — eerst zacht garen in melk of bouillon, dan hard afbakken in boter of oven."}}
+  ]
+}
+</script>
+
+<script>
+  // Reveal animations
+  const io = new IntersectionObserver((entries)=>{
+    entries.forEach((e)=>{ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+  },{threshold:.1, rootMargin:'0px 0px -8% 0px'});
+  document.querySelectorAll('.reveal').forEach((el)=>io.observe(el));
+  window.addEventListener('load',()=>{
+    document.querySelectorAll('.hero .reveal').forEach((el,i)=>setTimeout(()=>el.classList.add('in'),120*i));
+  });
+
+  // Scrollspy + TOC + master progress
+  (function(){
+    const sections = Array.from(document.querySelectorAll('article h2[id]'));
+    const links = document.querySelectorAll('.toc-rail a');
+    const rail = document.querySelector('.toc-rail');
+    function update(){
+      const y = window.scrollY + 140;
+      let curr = -1;
+      sections.forEach((s,i)=>{ if(s.offsetTop <= y) curr = i; });
+      links.forEach((a,i)=> a.classList.toggle('active', i===curr));
+      if(rail){ rail.classList.toggle('show', window.scrollY > 300); }
+    }
+    window.addEventListener('scroll', update, {passive:true});
+    window.addEventListener('resize', update);
+    update();
+    links.forEach(a=>{
+      a.addEventListener('click', e=>{
+        const id = a.getAttribute('href').slice(1);
+        const el = document.getElementById(id);
+        if(el){ e.preventDefault(); window.scrollTo({top: el.offsetTop - 30, behavior:'smooth'}); }
+      });
+    });
+  })();
+
+  // Checklist with localStorage
+  (function(){
+    const KEY = 'sterrenkok_checks';
+    let state = {};
+    try { state = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch(e){ state = {}; }
+
+    const techs = Array.from(document.querySelectorAll('.tech'));
+    const masterBar = document.querySelector('.master-progress i');
+    const masterLbl = document.querySelector('.master-progress .done');
+
+    function updateAll(){
+      let total = techs.length;
+      let done = 0;
+      techs.forEach(t=>{
+        const id = t.dataset.id;
+        const checked = !!state[id];
+        t.classList.toggle('checked', checked);
+        if(checked) done++;
+      });
+      // master
+      const pct = total ? (done/total)*100 : 0;
+      if(masterBar) masterBar.style.width = pct.toFixed(1)+'%';
+      if(masterLbl) masterLbl.textContent = done;
+      // per section
+      document.querySelectorAll('.sec-prog').forEach(prog=>{
+        const sec = prog.dataset.section;
+        const target = document.querySelector('h2#'+sec);
+        if(!target) return;
+        // gather techs between this h2 and the next h2/section-tag
+        let secTechs = [];
+        let el = target.nextElementSibling;
+        while(el && !el.matches('h2') && !el.matches('.section-tag')){
+          secTechs = secTechs.concat(Array.from(el.querySelectorAll('.tech')));
+          el = el.nextElementSibling;
+        }
+        const sdone = secTechs.filter(t=> !!state[t.dataset.id]).length;
+        const stot = secTechs.length;
+        const bar = prog.querySelector('.bar i');
+        const cnt = prog.querySelector('.cnt');
+        if(bar) bar.style.width = stot? (sdone/stot*100).toFixed(1)+'%' : '0%';
+        if(cnt) cnt.textContent = `${sdone} / ${stot}`;
+      });
+    }
+
+    techs.forEach(t=>{
+      const btn = t.querySelector('.check');
+      if(!btn) return;
+      btn.addEventListener('click', ()=>{
+        const id = t.dataset.id;
+        if(state[id]) delete state[id]; else state[id] = 1;
+        localStorage.setItem(KEY, JSON.stringify(state));
+        updateAll();
+      });
+    });
+    updateAll();
+  })();
+
+  // Diagnose tool — click to expand
+  (function(){
+    document.querySelectorAll('.dx').forEach(dx=>{
+      dx.addEventListener('click', ()=>{
+        const wasOpen = dx.classList.contains('open');
+        document.querySelectorAll('.dx').forEach(d=>d.classList.remove('open'));
+        if(!wasOpen) dx.classList.add('open');
+      });
+    });
+  })();
+</script>
+</body>
+</html>
