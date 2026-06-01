@@ -67,7 +67,7 @@
     <span style="margin-left:auto;display:flex;gap:8px;">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','langoustines-a-la-nage-bloemkoolcreme-schaaldierennage',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','langoustines-a-la-nage-bloemkoolcreme-schaaldierennage',this)">&#127859; Vandaag koken</button>
-      <button class="kookstand-btn" id="kookstand-btn">🍳 Kookstand</button>
+      <button class="detail-actie-btn" id="kookstand-btn">🍳 Kookstand</button>
     </span>
   </div>
   <div class="recipe-body">
@@ -146,7 +146,7 @@
       const btn=document.getElementById('kookstand-btn');
       if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
       let wl=null;
-      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('actief');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('actief');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
+      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
       async function uit(){if(wl)await wl.release();}
       btn.addEventListener('click',()=>wl?uit():aan());
       document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
