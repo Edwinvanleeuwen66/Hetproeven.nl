@@ -17,6 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
+    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
+    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
+    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
+    .review-sterren-groot { color: #E8A020; font-size: 22px; }
+    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
+    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
+    .ster-keuze input { display: none; }
+    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
+    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
+    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
+    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
+    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
+    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
+    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
+    .review-form button:hover { background: #B85C30; }
+    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
+    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
+    .review-item:last-child { border-bottom: none; }
+    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
+    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
+    .review-sterren { color: #E8A020; font-size: 15px; }
+    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
+    .review-datum { font-size: 11px; color: #bbb; }
+    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
+</style>
 </head>
 <body>
   <nav class="nav">
@@ -40,6 +67,7 @@
     <span style="margin-left:auto;display:flex;gap:8px;">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','kantonese-gestoomde-coquilles-gouden-knoflook-glasnoedels',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','kantonese-gestoomde-coquilles-gouden-knoflook-glasnoedels',this)">&#127859; Vandaag koken</button>
+      <button class="kookstand-btn" id="kookstand-btn">🍳 Kookstand</button>
     </span>
   </div>
   <div class="recipe-body">
@@ -50,7 +78,7 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Stap 1 — Coquilles reinigen en marineren:</strong> Coquilles in een kom. Bestrooi met maizena. Voorzichtig masseren — het zetmeel trekt zand en onzuiverheden eruit. Spoelen onder koud water tot helder. Droogdeppen. Bewaar de oranje roe — het smaakvolste deel.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Stap 1 — Coquilles reinigen en marineren:</strong> Bedruppelen met Shaoxing wijn. Snuf zout en witte peper. 5 minuten rusten.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Stap 2 — Glasnoedels voorbereiden:</strong> Glasnoedels 20 minuten weken in koud water tot transparant en soepel. Dan 30 seconden in kokend water. Direct afkoelen onder koud water. Goed uitlekken. Met een schaar doorsnijden in kortere lengtes zodat ze op de schelp passen.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Stap 2 — Glasnoedels voorbereiden:</strong> Glasnoedels voorzichtig mengen met lichte sojasaus, sesamolie en witte peper. Opzij zetten.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stap 3 — Gouden knoflook-gemberolie (twee-knoflooktechniek):</strong> Verhit 3 el neutrale olie in een kleine pan op laag tot middelhoog vuur. Voeg ¾ van de knoflook toe. Bak langzaam en geduldig — 2–3 minuten al roerend tot goudblond, nooit donkerbruin.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Stap 3 — Gouden knoflook-gemberolie (twee-knoflooktechniek):</strong> Van het vuur halen. Resterende ¼ rauwe knoflook + geraspte gember + sesamolie direct erdoor roeren. De restwarmte maakt de rauwe elementen licht maar behoudt hun frisheid en scherpte.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Stap 4 — De saus mengen:</strong> Alle sausingrediënten mengen tot een gladde, licht zoet-zoute mix. Opzij zetten — gaat pas na het stomen eroverheen.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Stap 5 — Opbouwen in de schelpen:</strong> Leg de schelpen stabiel op een hittebestendige schaal: zet ze op een dun laagje grof zeezout of kleine steentjes zodat ze niet verschuiven tijdens het stomen.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Stap 5 — Opbouwen in de schelpen:</strong> Draai een nestje glasnoedels in elke schelp. Leg elke coquille erop. Schep een royale theelepel knoflook-gemberolie over elke coquille.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Stap 6 — Stomen:</strong> Water krachtig aan de kook. Schelpen in het stoommandje of -oven. 4–6 minuten stomen op hoog vuur — 4 min voor middelgrote, 6 min voor grote coquilles. Klaar wanneer net ondoorzichtig en stevig maar nog zacht. Nooit langer — elke seconde te veel = rubber.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Stap 7 — Saus + Lin you finishing:</strong> Direct na het stomen: schep een klein lepeltje saus over elke warme coquille.</div></div><div class="step"><div class="step-num">12</div><div class="step-text"><strong>Stap 7 — Saus + Lin you finishing:</strong> Leg de lente-ui julienne en chiliringen er losjes op.</div></div><div class="step"><div class="step-num">13</div><div class="step-text"><strong>Stap 7 — Saus + Lin you finishing:</strong> Verhit 3 el neutrale olie in een klein steelpannetje tot gloeiend heet — tot het rookpunt. Schep onmiddellijk 1 theelepel gloeiend hete olie over elke coquille. De lente-ui sist en de aromaten exploderen. Dit is de lin you-techniek van elk Hong Kong-sterrenrestaurant.</div></div><div class="step"><div class="step-num">14</div><div class="step-text"><strong>Stap 7 — Saus + Lin you finishing:</strong> Direct serveren.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Twee-knoflooktechniek is het hart:</strong> Gebakken knoflook geeft nootachtige zoetheid, rauw geeft pittige frisheid, gember geeft diepte. De drie samen zijn het geheim van elke Kantonese seafoodrestaurant.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Saus na het stomen:</strong> De sojasaus verliest zijn helderheid en frisheid door de hitte. Altijd pas na het stomen erover.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Stomen — nooit te lang:</strong> 4–6 minuten is genoeg. De meest gemaakte fout. Rubberachtige coquilles zijn onredbaar.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Lin you gloeiend heet:</strong> De olie moet echt tot het rookpunt verhit zijn — niet &quot;warm&quot; maar gloeiend. Alleen dan explodeert de lente-ui aromatisch zoals het hoort.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Roe bewaren:</strong> De oranje roe naast de coquille is het smaakvolste deel. Altijd meestomen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — XO-saus:</strong> Voeg een kleine druppel XO-saus toe over de coquille direct na het stomen voor een intense, luxe umami-boost. De meest verfijnde upgrade.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — limoensap als finish:</strong> Een paar druppels limoen vlak voor serveren geeft extra frisheid en tilt de zoetheid van de coquille op.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:none"><strong style="color:#B85C30;font-weight:600">Alternatief zonder schelp:</strong> Gebruik kleine porselein-lepels, ramekins of schelpjes van andere oesters als je geen coquilleschelpen hebt.</p></div>
+      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Twee-knoflooktechniek is het hart:</strong> Gebakken knoflook geeft nootachtige zoetheid, rauw geeft pittige frisheid, gember geeft diepte. De drie samen zijn het geheim van elke Kantonese seafoodrestaurant.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Saus na het stomen:</strong> De sojasaus verliest zijn helderheid en frisheid door de hitte. Altijd pas na het stomen erover.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Stomen — nooit te lang:</strong> 4–6 minuten is genoeg. De meest gemaakte fout. Rubberachtige coquilles zijn onredbaar.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Lin you gloeiend heet:</strong> De olie moet echt tot het rookpunt verhit zijn — niet &quot;warm&quot; maar gloeiend. Alleen dan explodeert de lente-ui aromatisch zoals het hoort.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Roe bewaren:</strong> De oranje roe naast de coquille is het smaakvolste deel. Altijd meestomen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — XO-saus:</strong> Voeg een kleine druppel XO-saus toe over de coquille direct na het stomen voor een intense, luxe umami-boost. De meest verfijnde upgrade.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — limoensap als finish:</strong> Een paar druppels limoen vlak voor serveren geeft extra frisheid en tilt de zoetheid van de coquille op.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Alternatief zonder schelp:</strong> Gebruik kleine porselein-lepels, ramekins of schelpjes van andere oesters als je geen coquilleschelpen hebt.</p></div>
     </div>
   </div>
   <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
@@ -75,6 +103,25 @@
   <p class="wine-toelichting">De regionale wijn bij schelpdieren bij uitstek — van de Atlantische kust.</p>
   <p class="wine-toelichting">Lichte ziltigheid en frisse citrusnoten zijn perfecte partners voor de zoete coquille. Laag in alcohol zodat de delicate smaken spreken. Onbetwistbaar passend bij alles uit de zee. Goed. Snel vergeleken — ChatGPT heeft vijf concrete verbeteringen. Dijonmosterd i.p.v. gewone mosterd: verfijnder. Overnemen Nootmuskaat: de typische Hollandse gehaktbalsmaak. Overnemen Uienpoeder optioneel: extra ui-diepte. Overnemen als optioneel Platter schijven methode: ChatGPT maakt direct platte schijven i.p.v. hele ballen draaien — praktischer en gelijkmatiger gaar. Echter: de originele boektechniek (ballen → aanbraden → sudderen → koelen → snijden) is authentieker en geeft meer smaak door de Maillard-reactie. Origineel behouden Presentatie — pindasaus in streep eronder: coating blijft krokant. Overnemen Gebakken uitjes als garnering: typisch Hollands accent. Overnemen</p>
 </div></div>
+  <div class="reviews-section">
+    <div class="reviews-title">Beoordelingen</div>
+    <div id="review-score-wrap"></div>
+    <div class="review-form">
+      <h3>Laat een beoordeling achter</h3>
+      <div class="ster-keuze">
+        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
+      </div>
+      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+      <div class="melding" id="review-melding"></div>
+    </div>
+    <div id="reviews-lijst"></div>
+  </div>
   <footer>
     <p>© Het Proeven</p>
     <a href="/over.html">Over ons</a>
@@ -94,6 +141,83 @@
       if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
       if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
     })();
+    // Kookstand
+    (function(){
+      const btn=document.getElementById('kookstand-btn');
+      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
+      let wl=null;
+      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('actief');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('actief');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
+      async function uit(){if(wl)await wl.release();}
+      btn.addEventListener('click',()=>wl?uit():aan());
+      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
+    })();
+  </script>
+  <script>
+    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
+    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
+    const SLUG = 'kantonese-gestoomde-coquilles-gouden-knoflook-glasnoedels';
+
+    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
+    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
+
+    async function laadReviews() {
+      try {
+        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
+          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
+        if (!res.ok) return;
+        const reviews = await res.json();
+
+        if (reviews.length > 0) {
+          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
+          document.getElementById('review-score-wrap').innerHTML = `
+            <div class="review-score-blok">
+              <div class="review-getal">${gem}</div>
+              <div>
+                <div class="review-sterren-groot">${sterren(parseFloat(gem))}</div>
+                <div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div>
+              </div>
+            </div>`;
+        }
+
+        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
+          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
+          : reviews.map(r => `
+            <div class="review-item">
+              <div class="review-item-top">
+                <span class="review-naam">${r.naam || 'Anoniem'}</span>
+                <span class="review-sterren">${sterren(r.rating)}</span>
+              </div>
+              ${r.opmerking ? `<div class="review-opmerking">${r.opmerking}</div>` : ''}
+              <div class="review-datum">${datumStr(r.aangemaakt_op)}</div>
+            </div>`).join('');
+      } catch(e) { console.error('Reviews fout:', e); }
+    }
+
+    window.verstuurReview = async function() {
+      const ratingEl = document.querySelector('input[name="rating"]:checked');
+      const melding = document.getElementById('review-melding');
+      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
+      const rating = parseInt(ratingEl.value);
+      const naam = document.getElementById('review-naam').value.trim();
+      const opmerking = document.getElementById('review-opmerking').value.trim();
+      melding.textContent = 'Bezig met opslaan…';
+      try {
+        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
+          method: 'POST',
+          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
+          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
+        });
+        if (res.ok || res.status===201) {
+          melding.textContent = '✓ Bedankt voor je beoordeling!';
+          document.querySelector('input[name="rating"]:checked').checked = false;
+          document.getElementById('review-naam').value = '';
+          document.getElementById('review-opmerking').value = '';
+          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
+        } else { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
+      } catch(e) { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
+    };
+
+    laadReviews();
   </script>
 </body>
 </html>

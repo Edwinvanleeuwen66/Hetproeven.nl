@@ -17,6 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
+    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
+    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
+    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
+    .review-sterren-groot { color: #E8A020; font-size: 22px; }
+    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
+    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
+    .ster-keuze input { display: none; }
+    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
+    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
+    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
+    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
+    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
+    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
+    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
+    .review-form button:hover { background: #B85C30; }
+    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
+    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
+    .review-item:last-child { border-bottom: none; }
+    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
+    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
+    .review-sterren { color: #E8A020; font-size: 15px; }
+    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
+    .review-datum { font-size: 11px; color: #bbb; }
+    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
+</style>
 </head>
 <body>
   <nav class="nav">
@@ -40,6 +67,7 @@
     <span style="margin-left:auto;display:flex;gap:8px;">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','tongfilets-manzanilla-melk-geroosterde-amandel-venkel',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','tongfilets-manzanilla-melk-geroosterde-amandel-venkel',this)">&#127859; Vandaag koken</button>
+      <button class="kookstand-btn" id="kookstand-btn">🍳 Kookstand</button>
     </span>
   </div>
   <div class="recipe-body">
@@ -50,7 +78,7 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Stap 1 — Manzanilla-melksaus:</strong> Manzanilla, visbouillon en sjalot in een kleine pan op middelhoog vuur. Inkoken tot de helft — concentreert het oxidatieve, ziltige karakter. Citroengras toevoegen.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Stap 1 — Manzanilla-melksaus:</strong> Melk toevoegen. Op laag vuur 8 minuten zacht laten trekken op net onder het kookpunt — nooit laten koken, melk mag niet schiften. Door fijne zeef persen.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Stap 1 — Manzanilla-melksaus:</strong> Vlak voor serveren: saus opnieuw verwarmen. IJskoude boter erdoor kloppen. Citroenrasp, citroensap, zout en witte peper. Optioneel: kort opschuimen met staafmixer.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Stap 2 — Amandelschaafsel roosteren:</strong> Oven op 160°C. Amandelen 8 minuten tot licht goudbruin en nootachtig geurend. Direct van de plaat op een koud bord. Grof hakken. Bewaar droog.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stap 3 — Rauwe venkel:</strong> Venkel op de mandoline in flinterdunne plakjes van 1mm. In ijskoud water 5 minuten — knapperiger. Droogdeppen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Stap 4 — Tongfilets pocheren (vlak voor serveren):</strong> Saus opwarmen tot 65–70°C — niet hoger, nooit laten koken. Tongfilets licht bestrooien met zeezout, witte peper en citroenrasp. Losjes oprollen, naad omlaag.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Stap 4 — Tongfilets pocheren (vlak voor serveren):</strong> Tongrolletjes in een ondiepe pan. Een klein deel van de warme saus erbij — net genoeg voor de bodem. 2½–3 minuten op 65°C laten garen. 1 minuut rusten.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Stap 5 — Opbouwen:</strong> Warme diepe borden. Manzanilla-melksaus warm ingieten.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Stap 5 — Opbouwen:</strong> Tongrolletjes voorzichtig erop — ze zijn zeer delicaat.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Stap 5 — Opbouwen:</strong> Rauwe venkelplakjes luchtig eromheen of erop. Geroosterd amandelschaafsel over de vis. Kervelblaadjes. Fijne citroenrasp allerlaatst. Direct serveren.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Manzanilla eerst reduceren:</strong> Dit concentreert het oxidatieve karakter vóór de melk erin gaat. Niet overslaan — het verschil in diepte is groot.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Melk mag nooit koken:</strong> Boven 80°C scheidt melk en wordt de saus korrelig. Houd de temperatuur op 65–70°C — gebruik een thermometer als je twijfelt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Citroengras i.p.v. citroenblad:</strong> Citroenblad is in Nederland nauwelijks te vinden. Citroengras geeft dezelfde aromatische citrusfrisheid en is bij elke supermarkt verkrijgbaar.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Rauwe venkel niet geblancheerd:</strong> De anijsachtige knapperigheid van rauwe venkel is precies het frisse tegenwicht dat de zachte melk nodig heeft. Geblancheerd verliest hij dit volledig.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Amandel allerlaatst:</strong> Geroosterde amandel wordt snel slap in de vochtige omgeving van het bord. Pas op het allerlaatste moment strooien.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — tarbot of griet:</strong> Dezelfde techniek met tarbot of griet geeft een steviger, vleziger resultaat. Luxer en heel mooi.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:none"><strong style="color:#B85C30;font-weight:600">Variatie — saffraan:</strong> Een klein snufje saffraan mee laten trekken in de manzanilla-melk geeft een goudgele kleur en extra aromatische diepte.</p></div>
+      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Manzanilla eerst reduceren:</strong> Dit concentreert het oxidatieve karakter vóór de melk erin gaat. Niet overslaan — het verschil in diepte is groot.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Melk mag nooit koken:</strong> Boven 80°C scheidt melk en wordt de saus korrelig. Houd de temperatuur op 65–70°C — gebruik een thermometer als je twijfelt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Citroengras i.p.v. citroenblad:</strong> Citroenblad is in Nederland nauwelijks te vinden. Citroengras geeft dezelfde aromatische citrusfrisheid en is bij elke supermarkt verkrijgbaar.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Rauwe venkel niet geblancheerd:</strong> De anijsachtige knapperigheid van rauwe venkel is precies het frisse tegenwicht dat de zachte melk nodig heeft. Geblancheerd verliest hij dit volledig.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Amandel allerlaatst:</strong> Geroosterde amandel wordt snel slap in de vochtige omgeving van het bord. Pas op het allerlaatste moment strooien.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — tarbot of griet:</strong> Dezelfde techniek met tarbot of griet geeft een steviger, vleziger resultaat. Luxer en heel mooi.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — saffraan:</strong> Een klein snufje saffraan mee laten trekken in de manzanilla-melk geeft een goudgele kleur en extra aromatische diepte.</p></div>
     </div>
   </div>
   <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
@@ -75,6 +103,25 @@
   <p class="wine-toelichting">Een Franse Chardonnay-bubbel die de melk, amandel en tong subtieler begeleidt dan Champagne.</p>
   <p class="wine-toelichting">De mousse maakt de melksaus lichter. De citrus en mineraliteit houden de delicate tong helder.</p>
 </div></div>
+  <div class="reviews-section">
+    <div class="reviews-title">Beoordelingen</div>
+    <div id="review-score-wrap"></div>
+    <div class="review-form">
+      <h3>Laat een beoordeling achter</h3>
+      <div class="ster-keuze">
+        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
+      </div>
+      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+      <div class="melding" id="review-melding"></div>
+    </div>
+    <div id="reviews-lijst"></div>
+  </div>
   <footer>
     <p>© Het Proeven</p>
     <a href="/over.html">Over ons</a>
@@ -94,6 +141,83 @@
       if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
       if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
     })();
+    // Kookstand
+    (function(){
+      const btn=document.getElementById('kookstand-btn');
+      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
+      let wl=null;
+      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('actief');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('actief');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
+      async function uit(){if(wl)await wl.release();}
+      btn.addEventListener('click',()=>wl?uit():aan());
+      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
+    })();
+  </script>
+  <script>
+    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
+    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
+    const SLUG = 'tongfilets-manzanilla-melk-geroosterde-amandel-venkel';
+
+    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
+    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
+
+    async function laadReviews() {
+      try {
+        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
+          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
+        if (!res.ok) return;
+        const reviews = await res.json();
+
+        if (reviews.length > 0) {
+          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
+          document.getElementById('review-score-wrap').innerHTML = `
+            <div class="review-score-blok">
+              <div class="review-getal">${gem}</div>
+              <div>
+                <div class="review-sterren-groot">${sterren(parseFloat(gem))}</div>
+                <div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div>
+              </div>
+            </div>`;
+        }
+
+        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
+          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
+          : reviews.map(r => `
+            <div class="review-item">
+              <div class="review-item-top">
+                <span class="review-naam">${r.naam || 'Anoniem'}</span>
+                <span class="review-sterren">${sterren(r.rating)}</span>
+              </div>
+              ${r.opmerking ? `<div class="review-opmerking">${r.opmerking}</div>` : ''}
+              <div class="review-datum">${datumStr(r.aangemaakt_op)}</div>
+            </div>`).join('');
+      } catch(e) { console.error('Reviews fout:', e); }
+    }
+
+    window.verstuurReview = async function() {
+      const ratingEl = document.querySelector('input[name="rating"]:checked');
+      const melding = document.getElementById('review-melding');
+      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
+      const rating = parseInt(ratingEl.value);
+      const naam = document.getElementById('review-naam').value.trim();
+      const opmerking = document.getElementById('review-opmerking').value.trim();
+      melding.textContent = 'Bezig met opslaan…';
+      try {
+        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
+          method: 'POST',
+          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
+          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
+        });
+        if (res.ok || res.status===201) {
+          melding.textContent = '✓ Bedankt voor je beoordeling!';
+          document.querySelector('input[name="rating"]:checked').checked = false;
+          document.getElementById('review-naam').value = '';
+          document.getElementById('review-opmerking').value = '';
+          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
+        } else { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
+      } catch(e) { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
+    };
+
+    laadReviews();
   </script>
 </body>
 </html>

@@ -17,6 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    .reviews-section { max-width: 860px; margin: 2rem auto 3rem; padding: 0 44px; }
+    .reviews-title { font-size: 9px; letter-spacing: 3px; color: #B85C30; text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 0.5px solid #D4C8B4; }
+    .review-score-blok { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; }
+    .review-getal { font-family: 'Playfair Display', serif; font-size: 48px; color: #2B1A0D; line-height: 1; }
+    .review-sterren-groot { color: #E8A020; font-size: 22px; }
+    .review-aantal { font-size: 12px; color: #aaa; margin-top: 4px; }
+    .ster-keuze { display: flex; flex-direction: row-reverse; justify-content: flex-end; gap: 4px; margin-bottom: 12px; }
+    .ster-keuze input { display: none; }
+    .ster-keuze label { font-size: 32px; color: #ddd; cursor: pointer; transition: color 0.15s; }
+    .ster-keuze input:checked ~ label, .ster-keuze label:hover, .ster-keuze label:hover ~ label { color: #E8A020; }
+    .review-form { background: #F5EDE0; border-radius: 8px; padding: 20px 24px; margin-bottom: 28px; }
+    .review-form h3 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 400; margin-bottom: 12px; color: #2B1A0D; }
+    .review-form input, .review-form textarea { width: 100%; padding: 10px 14px; border: 1px solid #D4C8B4; border-radius: 6px; background: #fff; font-family: 'Lato', sans-serif; font-size: 14px; color: #2B1A0D; outline: none; margin-bottom: 10px; resize: vertical; box-sizing: border-box; }
+    .review-form input:focus, .review-form textarea:focus { border-color: #B85C30; }
+    .review-form button { background: #2B1A0D; color: #F3EDE1; border: none; padding: 10px 24px; border-radius: 20px; font-family: 'Lato', sans-serif; font-size: 13px; cursor: pointer; transition: background 0.15s; }
+    .review-form button:hover { background: #B85C30; }
+    .melding { font-size: 13px; color: #7A6A5A; font-style: italic; margin-top: 8px; }
+    .review-item { padding: 16px 0; border-bottom: 0.5px solid #D4C8B4; }
+    .review-item:last-child { border-bottom: none; }
+    .review-item-top { display: flex; justify-content: space-between; margin-bottom: 6px; }
+    .review-naam { font-size: 13px; font-weight: 600; color: #2B1A0D; }
+    .review-sterren { color: #E8A020; font-size: 15px; }
+    .review-opmerking { font-size: 14px; color: #7A6A5A; line-height: 1.7; margin-bottom: 4px; }
+    .review-datum { font-size: 11px; color: #bbb; }
+    @media (max-width: 640px) { .reviews-section { padding: 0 20px; } }
+</style>
 </head>
 <body>
   <nav class="nav">
@@ -40,6 +67,7 @@
     <span style="margin-left:auto;display:flex;gap:8px;">
       <button class="detail-actie-btn" id="btn-fav-detail" onclick="toggleDetailActie('favorieten','langoustines-a-la-nage-bloemkoolcreme-schaaldierennage',this)">&#9829; Favoriet</button>
       <button class="detail-actie-btn" id="btn-vandaag-detail" onclick="toggleDetailActie('vandaag','langoustines-a-la-nage-bloemkoolcreme-schaaldierennage',this)">&#127859; Vandaag koken</button>
+      <button class="kookstand-btn" id="kookstand-btn">🍳 Kookstand</button>
     </span>
   </div>
   <div class="recipe-body">
@@ -50,7 +78,7 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Stap 1 — Langoustines pellen:</strong> Koppen losdraaien en bewaren. Pantsers van de staarten halen. Darmkanaal verwijderen met een tandstoker. Staarten koel bewaren op keukenpapier.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Stap 2 — De schaaldierennage (het hart):</strong> Verhit olie in een ruime pan op hoog vuur. Koppen en pantsers erin. 3–4 minuten al roerend bakken — druk de koppen plat voor maximale smaakextractie. Ze worden oranje en de keuken geurt naar zee.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Stap 2 — De schaaldierennage (het hart):</strong> Sjalot, wortel, bleekselderij, venkel en prei toevoegen. 3 minuten meefruiten. Tomatenpuree erbij — 1 minuut roeren.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Stap 2 — De schaaldierennage (het hart):</strong> Deglaceren met witte wijn — alle aanbaksels losroeren. 2 minuten inkoken. Water, citroenschil, sinaasappelschil, korianderzaad, bouquet garni en peperkorrels toevoegen. Aan de kook. 20 minuten zacht trekken op laag vuur — nooit hard koken, anders wordt de nage troebel en bitter.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stap 2 — De schaaldierennage (het hart):</strong> Verse kervel de laatste 3 minuten toevoegen. Dan zeven door een fijne chinois — licht uitdrukken. Bewaar ca. 280ml heldere nage.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Stap 2 — De schaaldierennage (het hart):</strong> Nage terug in een kleine pan. Slagroom toevoegen. 5 minuten zacht inkoken. Op laagste vuur: ijskoude boterblokjes één voor één al kloppend monteren tot de nage glanzend en fluweelzacht is. Nooit laten koken. Citroensap allerlaatst. Op smaak met zout en witte peper. Warmhouden.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Stap 3 — Bloemkoolcrème:</strong> Bloemkoolroosjes in melk en water met zout op laag vuur garen tot volledig zacht — 15–20 minuten. Beetje kookvocht bewaren.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Stap 3 — Bloemkoolcrème:</strong> Bloemkool uitgieten. Blenden met boter en crème fraîche tot volkomen glad. Citroensap, zout en witte peper toevoegen. Voor een echt restaurantresultaat: door een fijne zeef wrijven. Warmhouden.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Stap 4 — Groentejulienne:</strong> Julienne van venkel, wortel en prei 30–45 seconden blancheren in gezouten water. Afschrikken. Droogdeppen. Sugar snaps apart 20 seconden blancheren.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Stap 4 — Groentejulienne:</strong> Vlak voor serveren: groentejulienne zacht opwarmen in een pan met 1 tl olijfolie en 2 el nage.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Stap 5 — Langoustines boterpocheren:</strong> Smelt 30g boter met 1 el olijfolie in een kleine pan op laag tot middelhoog vuur — niet laten bruinen. Langoustines erin leggen. 45–60 seconden zacht pocheren, voorzichtig omdraaien. Ze zijn klaar wanneer de kleur van transparant naar wit is gegaan. Fleur de sel.</div></div><div class="step"><div class="step-num">12</div><div class="step-text"><strong>Stap 6 — Opbouwen + aan tafel service:</strong> Verwarmde diepe borden. Bloemkoolcrème als zachte cirkel in het midden. Groentejulienne als elegant nest erop. Drie langoustines half op de groente, half op de crème.</div></div><div class="step"><div class="step-num">13</div><div class="step-text"><strong>Stap 6 — Opbouwen + aan tafel service:</strong> Verse kervel en estragonblaadjes erop. Fijne citroenrasp. Druppel olijfolie.</div></div><div class="step"><div class="step-num">14</div><div class="step-text"><strong>Stap 6 — Opbouwen + aan tafel service:</strong> De warme nage aan tafel inschenken — rondom het gerecht, niet eroverheen. De geur stijgt op als een wolk.</div></div>
-      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">De koppen zijn de ziel:</strong> Een nage van geroosterde langoustinekoppen is tien keer dieper dan een groentebouillon. Nooit overslaan.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8">Boterpocheren is de Michelin-techniek: Zacht in boter pocheren geeft een zijdezachtere, zoetere textuur dan schroeien. Nooit te heet — dan wordt de langoustine rubber.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Bloemkoolcrème zeven:</strong> Niet verplicht maar maakt het verschil — gezeefd is het fluweelzacht als room.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Nage aan tafel inschenken:</strong> Niet alleen visueel spectaculair — de geur van schaaldier, sinaasappel en kervel die vrijkomt is deel van de beleving.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Estragon allerlaatst:</strong> Nooit in de nage mee laten koken — de anijsachtige smaak domineert dan. Verse blaadjes allerlaatst geven een subtiel, elegant accent.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — grote gambas:</strong> Zelfde techniek met de koppen voor de nage. Iets minder diep maar uitstekend.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — coquilles:</strong> Maak de nage van garnalenpantsers of visbouillon. Schelpen 60 seconden per kant schroeien i.p.v. pocheren.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:none"><strong style="color:#B85C30;font-weight:600">Variatie — truffelfinishing:</strong> Flinterdunne plakjes zwarte truffel over de langoustines voor een ultieme luxe Michelin-editie.</p></div>
+      <div class="chef-tip" style="margin-top:24px;"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">De koppen zijn de ziel:</strong> Een nage van geroosterde langoustinekoppen is tien keer dieper dan een groentebouillon. Nooit overslaan.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8">Boterpocheren is de Michelin-techniek: Zacht in boter pocheren geeft een zijdezachtere, zoetere textuur dan schroeien. Nooit te heet — dan wordt de langoustine rubber.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Bloemkoolcrème zeven:</strong> Niet verplicht maar maakt het verschil — gezeefd is het fluweelzacht als room.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Nage aan tafel inschenken:</strong> Niet alleen visueel spectaculair — de geur van schaaldier, sinaasappel en kervel die vrijkomt is deel van de beleving.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Estragon allerlaatst:</strong> Nooit in de nage mee laten koken — de anijsachtige smaak domineert dan. Verse blaadjes allerlaatst geven een subtiel, elegant accent.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — grote gambas:</strong> Zelfde techniek met de koppen voor de nage. Iets minder diep maar uitstekend.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — coquilles:</strong> Maak de nage van garnalenpantsers of visbouillon. Schelpen 60 seconden per kant schroeien i.p.v. pocheren.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:0.5px solid #E0CDB8"><strong style="color:#B85C30;font-weight:600">Variatie — truffelfinishing:</strong> Flinterdunne plakjes zwarte truffel over de langoustines voor een ultieme luxe Michelin-editie.</p></div>
     </div>
   </div>
   <div class="wine-section"><div class="wine-section-title">Wijnadvies</div><div class="wine-block" style="margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid rgba(0,0,0,0.08)">
@@ -75,6 +103,25 @@
   <p class="wine-toelichting">Een van de meest onderschatte witte wijnen van Frankrijk — complex, lang en mineraal.</p>
   <p class="wine-toelichting">De stevige zuren snijden door bloemkoolcrème en boter. De kweepeer-honingtoon sluit aan op de langoustinezoetheid. Voldoende textuur voor de rijke nage. Voor wie iets onverwachts wil — Savennières is altijd de verrassing.</p>
 </div></div>
+  <div class="reviews-section">
+    <div class="reviews-title">Beoordelingen</div>
+    <div id="review-score-wrap"></div>
+    <div class="review-form">
+      <h3>Laat een beoordeling achter</h3>
+      <div class="ster-keuze">
+        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
+      </div>
+      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+      <div class="melding" id="review-melding"></div>
+    </div>
+    <div id="reviews-lijst"></div>
+  </div>
   <footer>
     <p>© Het Proeven</p>
     <a href="/over.html">Over ons</a>
@@ -94,6 +141,83 @@
       if(bf&&f.has(slug))bf.classList.add('detail-btn-active');
       if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');
     })();
+    // Kookstand
+    (function(){
+      const btn=document.getElementById('kookstand-btn');
+      if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='0.4';btn.style.cursor='not-allowed';}return;}
+      let wl=null;
+      async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('actief');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('actief');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}
+      async function uit(){if(wl)await wl.release();}
+      btn.addEventListener('click',()=>wl?uit():aan());
+      document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});
+    })();
+  </script>
+  <script>
+    const SUPA_URL = 'https://mgbqqbrsunwgspcizynp.supabase.co';
+    const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g';
+    const SLUG = 'langoustines-a-la-nage-bloemkoolcreme-schaaldierennage';
+
+    function sterren(n) { return '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
+    function datumStr(iso) { return new Date(iso).toLocaleDateString('nl-NL', {day:'numeric',month:'long',year:'numeric'}); }
+
+    async function laadReviews() {
+      try {
+        const res = await fetch(SUPA_URL + '/rest/v1/reviews?slug=eq.' + SLUG + '&order=aangemaakt_op.desc',
+          {headers:{'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY}});
+        if (!res.ok) return;
+        const reviews = await res.json();
+
+        if (reviews.length > 0) {
+          const gem = (reviews.reduce((s,r) => s + r.rating, 0) / reviews.length).toFixed(1);
+          document.getElementById('review-score-wrap').innerHTML = `
+            <div class="review-score-blok">
+              <div class="review-getal">${gem}</div>
+              <div>
+                <div class="review-sterren-groot">${sterren(parseFloat(gem))}</div>
+                <div class="review-aantal">${reviews.length} ${reviews.length===1?'beoordeling':'beoordelingen'}</div>
+              </div>
+            </div>`;
+        }
+
+        document.getElementById('reviews-lijst').innerHTML = reviews.length === 0
+          ? '<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>'
+          : reviews.map(r => `
+            <div class="review-item">
+              <div class="review-item-top">
+                <span class="review-naam">${r.naam || 'Anoniem'}</span>
+                <span class="review-sterren">${sterren(r.rating)}</span>
+              </div>
+              ${r.opmerking ? `<div class="review-opmerking">${r.opmerking}</div>` : ''}
+              <div class="review-datum">${datumStr(r.aangemaakt_op)}</div>
+            </div>`).join('');
+      } catch(e) { console.error('Reviews fout:', e); }
+    }
+
+    window.verstuurReview = async function() {
+      const ratingEl = document.querySelector('input[name="rating"]:checked');
+      const melding = document.getElementById('review-melding');
+      if (!ratingEl) { melding.textContent = 'Kies eerst een aantal sterren.'; return; }
+      const rating = parseInt(ratingEl.value);
+      const naam = document.getElementById('review-naam').value.trim();
+      const opmerking = document.getElementById('review-opmerking').value.trim();
+      melding.textContent = 'Bezig met opslaan…';
+      try {
+        const res = await fetch(SUPA_URL + '/rest/v1/reviews', {
+          method: 'POST',
+          headers: {'apikey':SUPA_KEY,'Authorization':'Bearer '+SUPA_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
+          body: JSON.stringify({slug:SLUG, rating, naam:naam||null, opmerking:opmerking||null})
+        });
+        if (res.ok || res.status===201) {
+          melding.textContent = '✓ Bedankt voor je beoordeling!';
+          document.querySelector('input[name="rating"]:checked').checked = false;
+          document.getElementById('review-naam').value = '';
+          document.getElementById('review-opmerking').value = '';
+          setTimeout(() => { melding.textContent = ''; laadReviews(); }, 1200);
+        } else { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
+      } catch(e) { melding.textContent = 'Er ging iets mis. Probeer het opnieuw.'; }
+    };
+
+    laadReviews();
   </script>
 </body>
 </html>
