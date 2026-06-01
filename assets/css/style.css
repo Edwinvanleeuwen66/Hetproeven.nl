@@ -352,7 +352,27 @@ a { color: inherit; text-decoration: none; }
   font-size: 15px;
   color: #3D2B1F;
   line-height: 1.85;
-  font-style: italic;
+  font-style: normal;
+}
+
+.chef-tip p {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 0.5px solid #E0CDB8;
+  font-size: 15px;
+  line-height: 1.85;
+}
+
+.chef-tip p:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.chef-tip strong {
+  color: var(--accent);
+  font-weight: 600;
+  font-style: normal;
 }
 
 .chef-tip-label {
