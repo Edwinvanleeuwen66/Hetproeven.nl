@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Gebakken sjalot (van tevoren):</strong> Sjalotringen in een kleine pan met neutrale olie op middelhoog vuur al roerend bakken tot diep goudbruin en krokant — 5–7 min. Uitlekken op keukenpapier. Direct bestrooien met zout. Bewaar droog.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>De krabcurry:</strong> Olie in een wok of kleine pan op middelhoog vuur. Rode currypasta toevoegen. 3–4 minuten al roerend bakken tot de pasta dieper kleurt en intensief geurt. Kurkuma en komijn toevoegen. 30 seconden meebakken. Helft van de kokosmelk toevoegen. Al roerend goed mengen. Dan de rest. Citroengras en djeroek purut toevoegen. 5 minuten zacht sudderen. Vissaus en palmsuiker toevoegen. Proef — intens, licht pittig, licht zoet, diep aromatisch. Krabvlees voorzichtig erdoor roeren. 2 minuten warm worden. Citroengras en djeroek purut verwijderen. Limoensap allerlaatst. Curry moet dik genoeg zijn om in een blaadje te lepelen zonder te lekken.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Opbouwen (vlak voor serveren):</strong> Mooiste binnenste little gemblaadjes selecteren. Koud bewaren. Per blaadje: één royale theelepel krabcurry erin lepelen. Gebakken sjalot erop — pas op het allerlaatste moment. Korianderblaadje. Fijne limoenrasp. Eventueel chiliring.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Currypasta lang genoeg bakken: Minimaal 3–4 minuten op middelhoog vuur.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Kurkuma + komijn = Zuid-Thais: Dit onderscheidt Sorn&#x27;s stijl van de centrale Thaise keuken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Krab allerlaatst en kort: Alleen doorwarmen — 2 minuten maximum.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Curry dik houden: De saus moet in het blaadje blijven. Inkoken tot hij licht stroperig is.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Gebakken sjalot allerlaatst: Ze worden snel slap van stoom.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Luxe variatie — verse krab: Gebruik verse gekookte krabklauwen. Zelfde bereidingstechniek.</p><p style="margin:0 0 10px 0;">Little gem kurkdroog maken: Spoel de bladeren, maar droog ze daarna zeer goed. Natte bladeren verdunnen de curry en maken het hapje slap in plaats van knapperig.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Currypasta lang genoeg bakken:</strong> Minimaal 3–4 minuten op middelhoog vuur.</div><div class="tip-item">💡 <strong>Kurkuma + komijn = Zuid-Thais:</strong> Dit onderscheidt Sorn&#x27;s stijl van de centrale Thaise keuken.</div><div class="tip-item">💡 <strong>Krab allerlaatst en kort:</strong> Alleen doorwarmen — 2 minuten maximum.</div><div class="tip-item">💡 <strong>Curry dik houden:</strong> De saus moet in het blaadje blijven. Inkoken tot hij licht stroperig is.</div><div class="tip-item">💡 <strong>Gebakken sjalot allerlaatst:</strong> Ze worden snel slap van stoom.</div><div class="tip-item">💡 <strong>Luxe variatie — verse krab:</strong> Gebruik verse gekookte krabklauwen. Zelfde bereidingstechniek.</div><div class="tip-item">💡 <strong>Little gem kurkdroog maken:</strong> Spoel de bladeren, maar droog ze daarna zeer goed. Natte bladeren verdunnen de curry en maken het hapje slap in plaats van knapperig.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Rijst koken en persen:</strong> kook sushirijst en breng op smaak met azijn-suiker-zout. Druk stevig aan in een met folie beklede bak van ±2 cm dik. Minimaal 2 uur koelen — de rijst moet compact en koud zijn.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Tonijncrème maken:</strong> druk de tonijn extra droog voor mengen. Meng met Kewpie, sriracha, limoensap, sesamolie, soja, lente-ui en sesam. Koud bewaren tot het allerlaatste moment.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Rijstblokjes snijden en bakken:</strong> snijd de rijst in 8 gelijke rechthoeken (±5×3 cm) met een nat mes. Verhit ruim olie. Leg de blokjes DIRECT uit de koelkast in de hete olie — 2–3 minuten per kant tot goudbruin en krokant.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Serveren:</strong> schep tonijncrème op elk blokje. Zwart sesam en lente-ui erop. Druppel eventueel chili-olie. Serveer onmiddellijk — krokanteid is vergankelijk.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Rijst stevig aandrukken: hoe compacter, hoe beter de blokjes hun vorm houden tijdens het bakken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Bewaren: Altijd direct uit koelkast in de pan — koude rijst bakt beter en houdt zijn vorm.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Temperatuur: Tonijncrème koud houden tot het laatste moment — het temperatuurcontrast met de warme rijst is essentieel.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: vervang de tonijn door fijngesneden zalm-tartaar aangemaakt met wasabi en citroen voor een frissere, luxere versie.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: voeg een flinterdun plakje jalapeño, rettich of ingelegde gember bovenop de crème toe voor extra kleur en scherpte.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief voor Kewpie: gewone mayonaise aangevuld met ½ tl sesamolie en ½ tl rijstazijn als Kewpie niet beschikbaar is.</p><p style="margin:0 0 10px 0;">Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Rijst stevig aandrukken:</strong> hoe compacter, hoe beter de blokjes hun vorm houden tijdens het bakken.</div><div class="tip-item">💡 <strong>Bewaren:</strong> Altijd direct uit koelkast in de pan — koude rijst bakt beter en houdt zijn vorm.</div><div class="tip-item">💡 <strong>Temperatuur:</strong> Tonijncrème koud houden tot het laatste moment — het temperatuurcontrast met de warme rijst is essentieel.</div><div class="tip-item">💡 <strong>Variatie:</strong> vervang de tonijn door fijngesneden zalm-tartaar aangemaakt met wasabi en citroen voor een frissere, luxere versie.</div><div class="tip-item">💡 <strong>Alternatief:</strong> voeg een flinterdun plakje jalapeño, rettich of ingelegde gember bovenop de crème toe voor extra kleur en scherpte.</div><div class="tip-item">💡 <strong>Alternatief voor Kewpie:</strong> gewone mayonaise aangevuld met ½ tl sesamolie en ½ tl rijstazijn als Kewpie niet beschikbaar is.</div><div class="tip-item">💡 <strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

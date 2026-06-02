@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Vlees aanbraden:</strong> verhit olie of boter in een stoofpan op hoog vuur. Bak het vlees rondom bruin — neem de tijd, dit is de basis van de smaak. Haal even uit de pan.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Bumbu opbouwen:</strong> fruit in dezelfde pan ui en knoflook zachtjes tot goudbruin. Voeg tomaat of tomatenpuree toe en bak kort mee. Voeg kruidnagel, nootmuskaat en eventueel kaneel toe.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Stoven:</strong> doe het vlees terug in de pan. Voeg ketjap, sojasaus, suiker en bouillon toe. Breng aan de kook, draai het vuur laag. Laat 1½–2 uur zachtjes stoven met de deksel half op de pan, tot het vlees boterzacht is.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Saus inkoken:</strong> verwijder de deksel en laat de saus inkoken tot hij stroperig en glanzend is.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Afmaken en serveren:</strong> breng op smaak met zout, peper en een drup limoensap — dat breekt het zoet en trekt het gerecht open. Serveer met saus erover, gebakken uitjes en een dun reepje chili.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: bak de ui echt goed bruin — die karamelisatie is de basis van de diepte in smoor. Gebruik sucadelap, niet riblap: het dooraderde vet smelt weg in twee uur.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Techniek: gebruik minder vocht dan je denkt nodig te hebben — je wilt een geconcentreerde, glanzende saus, geen soep. Voeg limoensap op het eind toe: het maakt het gerecht wakker.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Presentatie: serveer met de glanzende, stroperige saus royaal erover gegoten — de donkere mahonie-kleur is het visuele handtekening van daging smoor.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: voeg een kaneelstokje en twee kruidnagels toe voor een warmere, complexere smaak, of een scheutje kokosmelk op het eind voor een rijkere, mildere saus.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: geen sucadelap? Gebruik riblappe of korte rib — meer bot, meer smaak en even mals na twee uur stoven in de ketjap-kruidnagelsaus.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p style="margin:0 0 10px 0;">Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> bak de ui echt goed bruin — die karamelisatie is de basis van de diepte in smoor. Gebruik sucadelap, niet riblap: het dooraderde vet smelt weg in twee uur.</div><div class="tip-item">💡 <strong>Techniek:</strong> gebruik minder vocht dan je denkt nodig te hebben — je wilt een geconcentreerde, glanzende saus, geen soep. Voeg limoensap op het eind toe: het maakt het gerecht wakker.</div><div class="tip-item">💡 <strong>Presentatie:</strong> serveer met de glanzende, stroperige saus royaal erover gegoten — de donkere mahonie-kleur is het visuele handtekening van daging smoor.</div><div class="tip-item">💡 <strong>Variatie:</strong> voeg een kaneelstokje en twee kruidnagels toe voor een warmere, complexere smaak, of een scheutje kokosmelk op het eind voor een rijkere, mildere saus.</div><div class="tip-item">💡 <strong>Alternatief:</strong> geen sucadelap? Gebruik riblappe of korte rib — meer bot, meer smaak en even mals na twee uur stoven in de ketjap-kruidnagelsaus.</div><div class="tip-item">💡 <strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item">💡 <strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Kalfslapjes bereiden:</strong> tussen plasticfolie platslaan tot 3–4 mm. Op elk lapje 2 salieblaadjes, dan 1 plak prosciutto. Aandrukken. Eventueel vastzetten met tandenstoker. Vleeskant bestrijken met bloem. Snuf witte peper.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Bakken:</strong> olijfolie + boter in koekenpan op middelhoog tot hoog vuur. Wachten tot boter schuimt en wegtrekt. Saltimbocca met PROSCIUTTO-KANT NAAR BENEDEN. 1,5–2 minuten — niet bewegen. Prosciutto wordt knapperig en goudbruin.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Omdraaien:</strong> voorzichtig omdraaien. Vleeskant nog 1 minuut. Direct uit de pan en warm houden.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Saus:</strong> sjalot 30 seconden fruiten in het bakvet. Witte wijn toevoegen — aanbaksels losroeren. 2 minuten inkoken tot helft. Kalfsfond toevoegen. Nog 2 minuten inkoken.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Boter monteren:</strong> van vuur halen. Koude boterblokjes één voor één al ronddraaiend monteren. Citroensap toevoegen. Op smaak brengen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Krokante salie:</strong> extra salieblaadjes 20–30 seconden in klein klontje boter op hoog vuur tot krokant en donkergroen.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Opbouw:</strong> saltimbocca prosciutto-kant omhoog, licht gevouwen op bord. Witte wijnsaus rondom en deels over het vlees. Krokant saliebladje op elk stuk. Citroenzeste raspen direct boven bord.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: kalfslapjes van tevoren uitslaan en beleggen. Saus pas na het bakken in dezelfde pan.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Prosciutto-kant eerst: de prosciutto bakt knapperig en geeft zijn smaak aan het bakvet — dat wordt de basis van de saus.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Nooit te lang bakken: 3 minuten totaal is genoeg voor 3–4 mm kalfsvlees. Iedere extra minuut = droog en taai.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Witte wijn vs Marsala: witte wijn is authentiek Römisch — fris en elegant. Marsala geeft rijkere, lichtzoete saus.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie — Marsala: vervang witte wijn door 90 ml Marsala voor een diepere, licht zoete jus.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie — spinazie: small nestje geslonken spinazie in knoflookboter ernaast — subtiel en Italiaans.</p><p style="margin:0 0 10px 0;">Alternatief kalfsfond: gebruik lichte kippenfond + paar druppels Worcestershire sauce voor extra umami.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> kalfslapjes van tevoren uitslaan en beleggen. Saus pas na het bakken in dezelfde pan.</div><div class="tip-item">💡 <strong>Prosciutto-kant eerst:</strong> de prosciutto bakt knapperig en geeft zijn smaak aan het bakvet — dat wordt de basis van de saus.</div><div class="tip-item">💡 <strong>Nooit te lang bakken:</strong> 3 minuten totaal is genoeg voor 3–4 mm kalfsvlees. Iedere extra minuut = droog en taai.</div><div class="tip-item">💡 <strong>Witte wijn vs Marsala:</strong> witte wijn is authentiek Römisch — fris en elegant. Marsala geeft rijkere, lichtzoete saus.</div><div class="tip-item">💡 <strong>Variatie — Marsala:</strong> vervang witte wijn door 90 ml Marsala voor een diepere, licht zoete jus.</div><div class="tip-item">💡 <strong>Variatie — spinazie:</strong> small nestje geslonken spinazie in knoflookboter ernaast — subtiel en Italiaans.</div><div class="tip-item">💡 <strong>Alternatief kalfsfond:</strong> gebruik lichte kippenfond + paar druppels Worcestershire sauce voor extra umami.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

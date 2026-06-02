@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Pindasaus maken:</strong> rooster de pinda&#x27;s kort in een droge pan. Maal met knoflook en chili tot pasta. Verwarm met kokosmelk, ketjap, limoensap en suiker op laag vuur. Laat rustig indikken tot een zijdeachtige saus. Proef: pittig, zoet, zout en zuur in balans.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Groenten blancheren:</strong> blancheer sperziebonen en kool apart in gezouten water — knapperig, mooi kleurbehoud. Laat uitlekken en houd lauwwarm. De komkommer blijft rauw.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Eieren koken:</strong> kook 6 minuten, laat schrikken, pel en halveer. Het geel moet nog zacht zijn.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Taugé voorbereiden:</strong> giet kokend water over de taugé en laat direct uitlekken. Niet koken — alleen de rauwe rand eraf.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Opmaken en serveren:</strong> lepel warme pindasaus subtiel over het midden van een ondiep bord. Maak een ring van kool en sperziebonen eromheen. Leg komkommerlinten speels ertussen. Halveer de eieren en leg erop. Bestrooi met taugé, krokante sjalotjes en verse kruiden.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Techniek: lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Presentatie: rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: geen kokosmelk voor de pindasaus? Gebruik volle slagroom — geeft een rijkere, minder tropische saus die in de winter uitstekend werkt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Balans: geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p style="margin:0 0 10px 0;">Timing: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.</div><div class="tip-item">💡 <strong>Techniek:</strong> lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.</div><div class="tip-item">💡 <strong>Presentatie:</strong> rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.</div><div class="tip-item">💡 <strong>Variatie:</strong> voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.</div><div class="tip-item">💡 <strong>Alternatief:</strong> geen kokosmelk voor de pindasaus? Gebruik volle slagroom — geeft een rijkere, minder tropische saus die in de winter uitstekend werkt.</div><div class="tip-item">💡 <strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</div><div class="tip-item">💡 <strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

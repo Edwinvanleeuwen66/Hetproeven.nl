@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Bieslookolie (van tevoren):</strong> Bieslook 30 seconden blancheren. Direct in ijskoud water. Uitknijpen. Blenden met olie en zout 2 minuten. Door fijne zeef. Koel bewaren.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Koude aardappelcrème:</strong> Aardappelen in gezouten water gaar koken. Afgieten. Goed laten uitdampen. Aardappelen warm pureren met de roomboter tot een gladde basis. Laat licht afkoelen. Dan crème fraîche, yoghurt, citroensap, zout en witte peper toevoegen. Door een fijne zeef wrijven voor extra elegantie. Bieslook allerlaatst erdoor roeren — behoudt de groene kleur. Minstens 30 minuten koud zetten — de crème moet ijskoud zijn bij serveren.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Spekcrumble:</strong> Spekblokjes in een droge pan op middelhoog vuur langzaam uitbakken tot diep goudbruin en krokant — 6–8 minuten. Uitlekken op keukenpapier. Bewaar droog.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Warme krieltjes (vlak voor serveren):</strong> Krieltjes gaar koken. Afgieten. In blokjes van 1–1,5cm snijden. Boter en olijfolie in een pan op hoog vuur. Krieltjesblokjes 2–3 minuten al schuddend bakken tot warm, glanzend en licht goudbruin. Fleur de sel, witte peper en bieslook.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Opbouwen (snel — het contrast verdwijnt):</strong> Kleine koude kommetjes, diepe amuselepels of lage bordjes. Koude aardappelcrème als gladde laag onderin. Warme krieltjesblokjes direct erop — het temperatuurcontrast is de kern van het gerecht. Spekcrumble eroverheen. Druppels bieslookolie. Bieslookpunten. Fleur de sel. Direct serveren — het contrast verdwijnt snel.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Kruimige: Kruimige aardappelen voor de crème: Geeft de luchtigste, gladste textuur.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Boter eerst warm verwerken: Zorgt voor een gladde, gebonden basis. Dan pas crème fraîche en yoghurt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Bieslook allerlaatst: Direct door koude crème = groene kleur behouden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Temperatuurcontrast is de kern: Crème ijskoud, krieltjes gloeiend heet. Alles op hetzelfde moment.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Crème door zeef: Twee minuten extra, enorm verschil in elegantie.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Luxe tip — gerookte paling: Vervang spekcrumble door kleine stukjes verse gerookte Hollandse paling (bij de visboer).</p><p style="margin:0 0 10px 0;">Variatie — truffelolie: Druppel goede truffelolie over de crème.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Kruimige:</strong> Kruimige aardappelen voor de crème: Geeft de luchtigste, gladste textuur.</div><div class="tip-item">💡 <strong>Boter eerst warm verwerken:</strong> Zorgt voor een gladde, gebonden basis. Dan pas crème fraîche en yoghurt.</div><div class="tip-item">💡 <strong>Bieslook allerlaatst:</strong> Direct door koude crème = groene kleur behouden.</div><div class="tip-item">💡 <strong>Temperatuurcontrast is de kern:</strong> Crème ijskoud, krieltjes gloeiend heet. Alles op hetzelfde moment.</div><div class="tip-item">💡 <strong>Crème door zeef:</strong> Twee minuten extra, enorm verschil in elegantie.</div><div class="tip-item">💡 <strong>Luxe tip — gerookte paling:</strong> Vervang spekcrumble door kleine stukjes verse gerookte Hollandse paling (bij de visboer).</div><div class="tip-item">💡 <strong>Variatie — truffelolie:</strong> Druppel goede truffelolie over de crème.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

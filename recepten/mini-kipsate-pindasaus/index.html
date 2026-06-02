@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Marineren en platslaan:</strong> leg de stukken kipdij tussen bakpapier en sla licht plat. Meng alle marinade-ingrediënten en marineer de kip minstens 30 minuten.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Pindasaus maken:</strong> fruit sjalot, knoflook en gember zacht aan. Voeg pindakaas, kokosmelk, bouillon, ketjap, sojasaus, ketchup en sambal toe. Laat rustig warm worden op laag vuur en roer glad. Breng op smaak met rijstazijn en sesamolie.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Grillen:</strong> rijg één of twee stukjes kip per prikker. Grill kort en heet in een grillpan tot ze karamelliseren en sappig blijven.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Serveren:</strong> maak een kleine spiegel pindasaus op elk bord. Stapel de satéetjes kruislings op elkaar. Werk af met gebakken uitjes, pinda&#x27;s, lente-ui en een partje limoen.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: marineer de kip minstens 30 minuten — een nacht geeft merkbaar meer smaak. Sla de kip licht plat voor meer grilloppervlak en betere karamelisatie.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Techniek: verwarm de pindasaus altijd op laag vuur — te hard koken laat hem schiften. Roer constant en voeg een scheutje kokosmelk toe als hij te dik wordt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Presentatie: leg een kleine spiegel pindasaus op elk bord en stapel de satéetjes kruislings erop — dat geeft hoogte en structuur aan een simpel hapje.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: voeg een theelepel sambal badjak toe aan de pindasaus voor extra diepte, of gebruik kippendij in plaats van -filet voor een sappiger, rijker resultaat.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: geen kokosmelk voor de pindasaus? Gebruik volle room — geeft een rijkere, minder tropische saus die even goed werkt bij de gegrilde kip.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</p><p style="margin:0 0 10px 0;">Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> marineer de kip minstens 30 minuten — een nacht geeft merkbaar meer smaak. Sla de kip licht plat voor meer grilloppervlak en betere karamelisatie.</div><div class="tip-item">💡 <strong>Techniek:</strong> verwarm de pindasaus altijd op laag vuur — te hard koken laat hem schiften. Roer constant en voeg een scheutje kokosmelk toe als hij te dik wordt.</div><div class="tip-item">💡 <strong>Presentatie:</strong> leg een kleine spiegel pindasaus op elk bord en stapel de satéetjes kruislings erop — dat geeft hoogte en structuur aan een simpel hapje.</div><div class="tip-item">💡 <strong>Variatie:</strong> voeg een theelepel sambal badjak toe aan de pindasaus voor extra diepte, of gebruik kippendij in plaats van -filet voor een sappiger, rijker resultaat.</div><div class="tip-item">💡 <strong>Alternatief:</strong> geen kokosmelk voor de pindasaus? Gebruik volle room — geeft een rijkere, minder tropische saus die even goed werkt bij de gegrilde kip.</div><div class="tip-item">💡 <strong>Snijden:</strong> Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</div><div class="tip-item">💡 <strong>Balans:</strong> proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

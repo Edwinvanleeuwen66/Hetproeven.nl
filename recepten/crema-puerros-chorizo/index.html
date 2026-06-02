@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Prei en ui bakken:</strong> bak ui en knoflook zachtjes 5 minuten in olijfolie zonder te kleuren. Voeg prei toe en bak nog 10 minuten op laag vuur tot volledig zacht.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Bouillon toevoegen:</strong> voeg aardappelen en bouillon toe. Kook 20 minuten tot de aardappel gaar is.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Mixen:</strong> haal van het vuur. Voeg room toe en mix minimaal 2 minuten tot een volledig gladde soep.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Chorizo en serveer:</strong> bak chorizo in een droge pan 3 minuten tot krokant. Schep soep in kommen, leg krokante chorizo in het midden en druppel olijfolie eromheen.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: soep een dag van tevoren maken — hij wordt de volgende dag dieper en ronder van smaak. Chorizo pas bij het opwarmen toevoegen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Techniek: bak de prei langzaam op laag vuur minstens 15 minuten — niet laten kleuren. Gekaramelliseerde prei geeft zoetheid; bruine prei geeft bitterheid.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Presentatie: serveer in kleine warme espressokopjes voor een elegante amuse-presentatie, of in diepe borden met de chorizo-croutons als kleurrijke kroon.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: vervang chorizo door crisps van jamon serrano voor een lichtere, zilter accent. Of voeg een druppel truffelolie toe voor meer luxe diepte.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: geen prei? Gebruik venkel voor een anijsachtige twist, of witte asperges voor een rijkere, meer delicate crème.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Textuur: mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.</p><p style="margin:0 0 10px 0;">Afwerking: voeg frisse olie, kruiden of crunch pas aan tafel toe. Zo blijft de soep levendig en oogt hij direct luxer.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> soep een dag van tevoren maken — hij wordt de volgende dag dieper en ronder van smaak. Chorizo pas bij het opwarmen toevoegen.</div><div class="tip-item">💡 <strong>Techniek:</strong> bak de prei langzaam op laag vuur minstens 15 minuten — niet laten kleuren. Gekaramelliseerde prei geeft zoetheid; bruine prei geeft bitterheid.</div><div class="tip-item">💡 <strong>Presentatie:</strong> serveer in kleine warme espressokopjes voor een elegante amuse-presentatie, of in diepe borden met de chorizo-croutons als kleurrijke kroon.</div><div class="tip-item">💡 <strong>Variatie:</strong> vervang chorizo door crisps van jamon serrano voor een lichtere, zilter accent. Of voeg een druppel truffelolie toe voor meer luxe diepte.</div><div class="tip-item">💡 <strong>Alternatief:</strong> geen prei? Gebruik venkel voor een anijsachtige twist, of witte asperges voor een rijkere, meer delicate crème.</div><div class="tip-item">💡 <strong>Textuur:</strong> mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.</div><div class="tip-item">💡 <strong>Afwerking:</strong> voeg frisse olie, kruiden of crunch pas aan tafel toe. Zo blijft de soep levendig en oogt hij direct luxer.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

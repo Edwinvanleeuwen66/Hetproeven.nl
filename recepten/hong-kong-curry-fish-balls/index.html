@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Koelen:</strong> vis, garnalen, kom en messen 15 minuten koelen — alles zo koud mogelijk. afdekken en 45–60 minuten koelen in koelkast — essentieel voor de bounce.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Pasta blenden:</strong> blend vis en garnalen met zout, suiker, peper, Shaoxing, soja en eiwit tot gladde pasta — 2 minuten.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Zetmeel en water:</strong> tapiocazetmeel toevoegen + ijskoud water beetje bij beetje. Blend tot stevig en glanzend.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Elasticiteit:</strong> ELASTICITEIT: 5–8 minuten stevig kloppen in één vaste richting. Massa wordt plakkerig en elastisch.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Test:</strong> TEST: theelepel pasta pocheren — te slap? Langer kloppen of tl extra tapiocazetmeel.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Balletjes pocheren:</strong> balletjes vormen met natte handen (ca. 2,5 cm). Pocheren in water van ca. 80°C — 3–4 minuten tot ze drijven. Eruit scheppen en kort afkoelen in koud water. Uitlekken.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Saus maken:</strong> SAUS: olie verhitten, knoflook, sjalot, gember en prik 2–3 min fruiten. Kerriepoeder, kurkuma en vijfkruidenpoeder 30 sec meebakken. Bouillon, kokosmelk, oestersaus, soja en suiker toevoegen. 8–10 minuten zacht trekken. Binden met maizena-water. Rijstazijn als laatste.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Samenbrengen:</strong> visballetjes in warme saus — 3–4 minuten zacht meetrekken. Niet hard koken.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: visballetjes dag van tevoren pocheren. Saus vooraf maken. Samen opwarmen voor serveren.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Drie sleutels: zout, kou en kloppen in één richting. Te veel zetmeel = compact en melig.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Streetfood-spiesje: 3 balletjes op bamboespiesje, saus als dipsaus ernaast.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Sausbalans: glanzend en lepelschepbaar — niet dik gebonden.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: sambal oelek of sriracha voor extra hitte. Of volledig garnalenballetjes.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: kant-en-klare diepvriesvisballetjes Aziatische supermarkt — 3 min pocheren + 4–5 min in saus. 80% van het resultaat.</p><p style="margin:0 0 10px 0;">Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> visballetjes dag van tevoren pocheren. Saus vooraf maken. Samen opwarmen voor serveren.</div><div class="tip-item">💡 <strong>Drie sleutels:</strong> zout, kou en kloppen in één richting. Te veel zetmeel = compact en melig.</div><div class="tip-item">💡 <strong>Streetfood-spiesje:</strong> 3 balletjes op bamboespiesje, saus als dipsaus ernaast.</div><div class="tip-item">💡 <strong>Sausbalans:</strong> glanzend en lepelschepbaar — niet dik gebonden.</div><div class="tip-item">💡 <strong>Variatie:</strong> sambal oelek of sriracha voor extra hitte. Of volledig garnalenballetjes.</div><div class="tip-item">💡 <strong>Alternatief:</strong> kant-en-klare diepvriesvisballetjes Aziatische supermarkt — 3 min pocheren + 4–5 min in saus. 80% van het resultaat.</div><div class="tip-item">💡 <strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

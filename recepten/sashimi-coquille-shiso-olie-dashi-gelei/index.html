@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Dashi-gelei maken:</strong> week de gelatine 5 minuten in koud water. Los op in warme dashi. Giet in een plat schaaltje (1 cm dik). 2 uur koelen. Vlak voor serveren in blokjes van 1×1 cm snijden.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Shiso-olie maken:</strong> blancheer de shiso-blaadjes 10 seconden in kokend gezouten water. Direct afschrikken in ijswater — zo behoudt hij de felgroene kleur. Uitknijpen en blenden met olie en zout. Zeven door een koffiefilter tot heldere groene olie.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Sashimi voorbereiden:</strong> dep de coquilles droog. Snijd met een koud, vlijmscherp mes in 3 gelijkmatige plakken van ±5 mm. Veeg het mes na elke snede schoon.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Serveren:</strong> druppel shiso-olie op gekoelde borden. Leg komkommerplakjes erop. Schik de coquille-plakken er luchtig op. Verdeel de dashi-gelei als glinsterende blokjes ernaast. Druppel witte soja en yuzu-olie langs de vis. Shiso-blaadje als enig verticaal element.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Kombu niet wassen: het witte poeder op de kombu is glutamaat — afvegen met vochtige doek is genoeg.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Sashimi-kwaliteit: vraag de visboer expliciet. Nooit bevroren geweest. Bij twijfel niet rauw serveren.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Gekoelde bordjes: minimaal 15 minuten in koelkast voor serveren — een warm bord breekt direct het karakter.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Dashi-gelei simpel houden: 1 gelatineblaadje per 100 ml dashi voor zachte gelei, iets meer voor stevigere blokjes.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: vervang coquille door flinterdun gesneden zeebaars of dorade voor een kobujime-variant — leg de vis 2 uur tussen kombu voor extra umami.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: shiso-olie door bieslook-olie — dezelfde techniek (blancheren, blenden, zeven) met bieslook geeft een mildere, grassige groene olie die altijd verkrijgbaar is.</p><p style="margin:0 0 10px 0;">Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Kombu niet wassen:</strong> het witte poeder op de kombu is glutamaat — afvegen met vochtige doek is genoeg.</div><div class="tip-item">💡 <strong>Sashimi-kwaliteit:</strong> vraag de visboer expliciet. Nooit bevroren geweest. Bij twijfel niet rauw serveren.</div><div class="tip-item">💡 <strong>Gekoelde bordjes:</strong> minimaal 15 minuten in koelkast voor serveren — een warm bord breekt direct het karakter.</div><div class="tip-item">💡 <strong>Dashi-gelei simpel houden:</strong> 1 gelatineblaadje per 100 ml dashi voor zachte gelei, iets meer voor stevigere blokjes.</div><div class="tip-item">💡 <strong>Variatie:</strong> vervang coquille door flinterdun gesneden zeebaars of dorade voor een kobujime-variant — leg de vis 2 uur tussen kombu voor extra umami.</div><div class="tip-item">💡 <strong>Alternatief:</strong> shiso-olie door bieslook-olie — dezelfde techniek (blancheren, blenden, zeven) met bieslook geeft een mildere, grassige groene olie die altijd verkrijgbaar is.</div><div class="tip-item">💡 <strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

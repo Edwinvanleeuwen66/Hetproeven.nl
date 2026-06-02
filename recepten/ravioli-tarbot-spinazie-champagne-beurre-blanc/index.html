@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Vulling maken:</strong> fruit de sjalot zacht in boter. Spinazie droogknijpen — nooit overslaan, vochtige spinazie maakt de vulling waterig. Meng tarbot, spinazie, sjalot, crème fraîche, eidooier, citroenschil en sap. Koel 20 minuten.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Ravioli vormen:</strong> leg 12 blaadjes op het werkblad. Schep een kleine theelepel vulling in het midden. Bestrijk de randen met eiwit. Leg een tweede blaadje erop en druk de randen stevig aan. Steek bij met een ronde steker.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Beurre blanc maken:</strong> kook champagne, visfumet, sjalot en citroenschil in tot een derde. Voeg room toe, 2 minuten koken. Zeef. Monteer van het vuur met koude boterblokjes — voeg één voor één toe terwijl je klopt. Breng op smaak.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Zeekraal en ravioli garen:</strong> blancheer zeekraal 20 seconden in ongezouten water — zeekraal is van nature al zout. Kook de ravioli 2–3 minuten in ruim gezouten water.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Serveren:</strong> schep een spiegel beurre blanc op elk warm diep bord. Leg 3 ravioli per bord. Verdeel de zeekraal losjes ertussen. Lepel de kaviaar op de ravioli als finishing. Bestrooi met bieslook. Serveer direct.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: vulling en sausbasis een dag van tevoren maken. Beurre blanc monteren en ravioli koken pas vlak voor serveren.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Spinazie: uitknijpen is cruciaal — vochtige spinazie maakt de vulling waterig en de ravioli scheuren tijdens het koken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Champagnebouillon: gebruik een champagne of crémant die je ook zou drinken — goedkope mousserende wijn geeft een scherpe zuurheid.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Zeekraal: altijd blancheren in ongezouten water — zeekraal is van nature al zeer zout.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: vervang tarbot door kabeljauw of zeebaars voor een toegankelijkere en goedkopere vulling met vergelijkbaar resultaat.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: zeekraal door lamsoor of groene aspergetips — beide geven dezelfde zilte frisheid en zijn soms makkelijker verkrijgbaar.</p><p style="margin:0 0 10px 0;">Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> vulling en sausbasis een dag van tevoren maken. Beurre blanc monteren en ravioli koken pas vlak voor serveren.</div><div class="tip-item">💡 <strong>Spinazie:</strong> uitknijpen is cruciaal — vochtige spinazie maakt de vulling waterig en de ravioli scheuren tijdens het koken.</div><div class="tip-item">💡 <strong>Champagnebouillon:</strong> gebruik een champagne of crémant die je ook zou drinken — goedkope mousserende wijn geeft een scherpe zuurheid.</div><div class="tip-item">💡 <strong>Zeekraal:</strong> altijd blancheren in ongezouten water — zeekraal is van nature al zeer zout.</div><div class="tip-item">💡 <strong>Variatie:</strong> vervang tarbot door kabeljauw of zeebaars voor een toegankelijkere en goedkopere vulling met vergelijkbaar resultaat.</div><div class="tip-item">💡 <strong>Alternatief:</strong> zeekraal door lamsoor of groene aspergetips — beide geven dezelfde zilte frisheid en zijn soms makkelijker verkrijgbaar.</div><div class="tip-item">💡 <strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

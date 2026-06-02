@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Peper:</strong> peperkorrels grof kneuzen in vijzel. Roosteren in droge pan 1–2 minuten tot intens geurend. Niet verbranden.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Kaascrème:</strong> Pecorino + Parmigiano mengen. 4–5 el lauwwarm pastawater (60°C) toevoegen. Krachtig mengen tot gladde, dikke crème. Kaas MOET op kamertemperatuur zijn.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Pasta koken:</strong> 2 liter water + 12 g zout aan de kook. Pasta koken tot 1 minuut voor al dente. Minimaal 250 ml pastawater bewaren.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Peperbasis:</strong> 120 ml heet pastawater bij geroosterde peper. 30–60 seconden laten bruisen.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Mantecatura:</strong> pasta toevoegen aan peperpan. Krachtig omgooien (mantecatura) terwijl pasta laatste minuut gaart.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Kaascrème toevoegen:</strong> PAN VOLLEDIG VAN HET VUUR. Kaascrème in 3–4 kleine porties toevoegen al voortdurend roerend. Pastawater lepel voor lepel toevoegen als saus te dik wordt. Resultaat: zijdezacht en glanzend.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Serveren:</strong> ONMIDDELLIJK serveren — cacio e pepe wacht op niemand.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Kaas op kamertemperatuur: minimaal 30 minuten voor gebruik. Koude kaas stolt direct en geeft klonten.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Altijd van het vuur: kaascrème mag nooit op directe hitte komen. Pan van vuur, altijd, zonder uitzondering.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Als saus klontert: direct van vuur. Enkele lepels WARM pastawater toevoegen en rustig bewegen. Nooit hard koken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Pastawater is de saus: hoe zetmeelrijker, hoe beter de emulsie. Altijd meer bewaren dan je denkt nodig te hebben.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Geen room, geen truffelolie: dit zijn de twee verboden ingrediënten. De kracht zit in de puurheid.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie — puur Pecorino: gebruik uitsluitend 180 g Pecorino Romano zonder Parmigiano. Authentieker, technisch moeilijker.</p><p style="margin:0 0 10px 0;">Alternatief pasta: tonnarelli of spaghetti alla chitarra is ideaal. Vermijd gladde dunne spaghetti — saus glijdt eraf.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Kaas op kamertemperatuur:</strong> minimaal 30 minuten voor gebruik. Koude kaas stolt direct en geeft klonten.</div><div class="tip-item">💡 <strong>Altijd van het vuur:</strong> kaascrème mag nooit op directe hitte komen. Pan van vuur, altijd, zonder uitzondering.</div><div class="tip-item">💡 <strong>Als saus klontert:</strong> direct van vuur. Enkele lepels WARM pastawater toevoegen en rustig bewegen. Nooit hard koken.</div><div class="tip-item">💡 <strong>Pastawater is de saus:</strong> hoe zetmeelrijker, hoe beter de emulsie. Altijd meer bewaren dan je denkt nodig te hebben.</div><div class="tip-item">💡 <strong>Geen room, geen truffelolie:</strong> dit zijn de twee verboden ingrediënten. De kracht zit in de puurheid.</div><div class="tip-item">💡 <strong>Variatie — puur Pecorino:</strong> gebruik uitsluitend 180 g Pecorino Romano zonder Parmigiano. Authentieker, technisch moeilijker.</div><div class="tip-item">💡 <strong>Alternatief pasta:</strong> tonnarelli of spaghetti alla chitarra is ideaal. Vermijd gladde dunne spaghetti — saus glijdt eraf.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

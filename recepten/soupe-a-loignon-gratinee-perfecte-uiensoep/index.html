@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Karamelliseren:</strong> boter + olijfolie + ui + sjalot + zout + suiker. 35–45 min op LAAG VUUR. Dit is het enige moment dat telt.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Knoflook:</strong> knoflook 1 min meebakken.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Cognac:</strong> cognac toevoegen. Aanbaksels losroeren. 1–2 min uitdampen.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Wijn en sherry:</strong> witte wijn + sherry/Madeira toevoegen en inkoken.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Sudderen:</strong> warme bouillon erbij. Laurier + tijm. 25–30 min zacht sudderen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Finishing:</strong> Dijonmosterd + sherryazijn ALLERLAATST. Op smaak brengen.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Brood:</strong> brood roosteren op 180°C 6–8 min. Knoflook inwrijven.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Gratineren:</strong> soep in ovenbestendige kommen. Brood erop. Kaas royaal eroverheen. Gratineren op 220°C grillstand 5–8 min. SCHERP IN DE GATEN HOUDEN.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">35–45 min karamelliseren: geen versnelling mogelijk zonder smaak te verliezen.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Cognac vóór witte wijn: de brandewijndiepte die sherry alleen niet geeft.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Sherryazijn als finishing: één theelepel tilt de hele soep op.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Kaas altijd vers raspen: zakjeskaas geeft korrelig resultaat.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie — Marsala: vervang witte wijn door Marsala voor rijkere, zoetere toon.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief kaas: 100% Gruyère werkt ook uitstekend.</p><p style="margin:0 0 10px 0;">Textuur: mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>35–45 min karamelliseren:</strong> geen versnelling mogelijk zonder smaak te verliezen.</div><div class="tip-item">💡 <strong>Cognac vóór witte wijn:</strong> de brandewijndiepte die sherry alleen niet geeft.</div><div class="tip-item">💡 <strong>Sherryazijn als finishing:</strong> één theelepel tilt de hele soep op.</div><div class="tip-item">💡 <strong>Kaas altijd vers raspen:</strong> zakjeskaas geeft korrelig resultaat.</div><div class="tip-item">💡 <strong>Variatie — Marsala:</strong> vervang witte wijn door Marsala voor rijkere, zoetere toon.</div><div class="tip-item">💡 <strong>Alternatief kaas:</strong> 100% Gruyère werkt ook uitstekend.</div><div class="tip-item">💡 <strong>Textuur:</strong> mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

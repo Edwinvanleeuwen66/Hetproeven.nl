@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Gember-knoflookpasta:</strong> maal gember en knoflook samen tot een pasta in een blender of vijzel.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Basis fruiten:</strong> verhit olie en boter in een zware stoofpan. Fruit sjalotjes op laag vuur tot goudbruin (±8 minuten). Voeg de gember-knoflookpasta toe en bak 2 minuten mee.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Vlees aanbraden:</strong> zet het vuur hoog. Voeg het vlees toe en bak rondom bruin — neem de tijd, dit is de basis van de smaak.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Saus opbouwen:</strong> voeg kecap, gula djawa, steranijs, ketumbar, peper, zout en kaneel toe. Roer goed. Breng aan de kook.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stoven:</strong> zet het vuur heel laag. Laat het vlees in 2 uur gaarsmoren met de deksel half op de pan. Roer af en toe — de saus moet inkoken tot hij stroperig en glanzend is.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Afwerken en serveren:</strong> druppel op het eind een tl limoensap erdoor om het zoet te breken. Garneer met gebakken uitjes en chiliringen. Serveer met witte rijst.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Tip: procureur is geen toeval — het dooraderde vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Nooit mager varkensvlees gebruiken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Techniek: bak de ui echt goed bruin — 8 tot 10 minuten op laag vuur. Die diepe karamelisatie is het fundament van de smaakdiepte van babi kecap.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Presentatie: serveer met witte rijst — de glanzende, mahoniekleurige saus naast de witte rijst is een klassiek Indonesisch kleurcontrast dat direct eetlust opwekt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Variatie: voeg een kaneelstokje en een steranijs toe tijdens het stoven voor een warmere, complexere smaak die de kecap dieper maakt.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Alternatief: geen dikke kecap ABC? Gebruik ketjap manis en kook hem 5 minuten extra in om hem dikker en geconcentreerder te maken — bereikt 80% van het resultaat.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p style="margin:0 0 10px 0;">Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Tip:</strong> procureur is geen toeval — het dooraderde vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Nooit mager varkensvlees gebruiken.</div><div class="tip-item">💡 <strong>Techniek:</strong> bak de ui echt goed bruin — 8 tot 10 minuten op laag vuur. Die diepe karamelisatie is het fundament van de smaakdiepte van babi kecap.</div><div class="tip-item">💡 <strong>Presentatie:</strong> serveer met witte rijst — de glanzende, mahoniekleurige saus naast de witte rijst is een klassiek Indonesisch kleurcontrast dat direct eetlust opwekt.</div><div class="tip-item">💡 <strong>Variatie:</strong> voeg een kaneelstokje en een steranijs toe tijdens het stoven voor een warmere, complexere smaak die de kecap dieper maakt.</div><div class="tip-item">💡 <strong>Alternatief:</strong> geen dikke kecap ABC? Gebruik ketjap manis en kook hem 5 minuten extra in om hem dikker en geconcentreerder te maken — bereikt 80% van het resultaat.</div><div class="tip-item">💡 <strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item">💡 <strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">

@@ -17,7 +17,33 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <style>.reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}.reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}.review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}.review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}.review-sterren-groot{color:#E8A020;font-size:22px}.review-aantal{font-size:13px;color:#7A6A5A}.ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}.ster-keuze input{display:none}.ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}.ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}.review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}.review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}.review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}.review-form button:hover{background:#B85C30}.melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}.review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}.review-item:last-child{border-bottom:none}.review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}.review-naam{font-size:13px;font-weight:600;color:#2B1A0D}.review-sterren{color:#E8A020;font-size:15px}.review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}.review-datum{font-size:11px;color:#aaa}@media(max-width:640px){.reviews-section{padding:0 20px}}</style>
+  <style>
+    .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
+    .tip-item:last-child{border-bottom:none;padding-bottom:0}
+    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
+    .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
+    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
+    .review-sterren-groot{color:#E8A020;font-size:22px}
+    .review-aantal{font-size:13px;color:#7A6A5A}
+    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
+    .ster-keuze input{display:none}
+    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
+    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
+    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
+    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
+    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
+    .review-form button:hover{background:#B85C30}
+    .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
+    .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
+    .review-item:last-child{border-bottom:none}
+    .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
+    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
+    .review-sterren{color:#E8A020;font-size:15px}
+    .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
+    .review-datum{font-size:11px;color:#aaa}
+    @media(max-width:640px){.reviews-section{padding:0 20px}}
+  </style>
 </head>
 <body>
   <nav class="nav">
@@ -51,7 +77,10 @@
     <div class="col-steps">
       <div class="col-h">Bereiding</div>
       <div class="step"><div class="step-num">1</div><div class="step-text"><strong>De champagne-mosterdsaus (van tevoren):</strong> Sjalot in een kleine pan op laag vuur zonder olie 3 minuten zacht fruiten. Champagne en visbouillon toevoegen. Inkoken tot ca. 3 el overblijft. Slagroom toevoegen. 3–4 minuten zacht inkoken tot licht gebonden en glanzend. Zeven. Warmhouden. Vlak voor serveren: van het vuur. IJskoude boterblokjes één voor één monteren al kloppend. Dan Dijonmosterd + eventueel grove mosterd. Citroensap. Op smaak. Nooit meer laten koken.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Druiven opwarmen:</strong> Vlak voor serveren druiven 1–2 minuten zacht opwarmen in boter + 1 tl champagne. Warm en sappig.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Vis (10 min voor serveren op kamertemperatuur):</strong> Vis 10 minuten op kamertemperatuur brengen. Droogdeppen. Zout en witte peper. Olie in een zware pan (gietijzeren) op hoog vuur. Vis met mooiste kant omlaag — 2–3 minuten niet bewegen tot goudbruin. Omdraaien. Boter toevoegen. Zodra schuimend: arroseren — lepel de boter voortdurend over de vis. 1–2 minuten. Paar druppels citroensap. Op keukenpapier.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>baby spinazie (allerlaatst — 20–30 seconden):</strong> Boter in hete pan. Sjalot 1 minuut zacht fruiten. Dan spinazie op hoog vuur — 20–30 seconden al omscheppend. Nootmuskaat, zout en peper. Van het vuur. Goed laten uitlekken.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Opbouwen:</strong> Warme borden. Spinazie als compact, netjes gedraaid bed. Vis er schuin bovenop. Champagne-mosterdsaus rondom lepelen. Druiven als frisse accenten in de saus. Bieslook + kervel. Fijne citroenrasp. Fleur de sel.</div></div>
-      <div class="chef-tip" style="margin-top:24px"><span class="chef-tip-label">Tips</span><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Vis op kamertemperatuur: 10 minuten buiten de koeling geeft gelijkmatigere garing.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Mosterd allerlaatst: Nooit laten koken — wordt bitter. Altijd van het vuur.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Boter ijskoud monteren: Saus max 65°C tijdens het monteren. Nooit koken = nooit schiften.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Spinazie goed uitlekken: Waterige spinazie ruïneert de saus. Altijd uitdrukken voor het opmaken.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Druiven niet doorkoken: Warm en sappig — de frisse tegenstem van de rijke saus.</p><p style="margin:0 0 10px 0;padding-bottom:10px;border-bottom:.5px solid #E0CDB8">Arroseren: Het continue lepelen van boter geeft de vis zijn nootachtige, goudbruine smaak.</p><p style="margin:0 0 10px 0;">Variatie — aan tafel champagne: Schenk een kleine lepel champagne over de saus vlak voor serveren.</p></div>
+      <div class="chef-tip" style="margin-top:24px">
+        <span class="chef-tip-label">Tips</span>
+        <div class="tip-item">💡 <strong>Vis op kamertemperatuur:</strong> 10 minuten buiten de koeling geeft gelijkmatigere garing.</div><div class="tip-item">💡 <strong>Mosterd allerlaatst:</strong> Nooit laten koken — wordt bitter. Altijd van het vuur.</div><div class="tip-item">💡 <strong>Boter ijskoud monteren:</strong> Saus max 65°C tijdens het monteren. Nooit koken = nooit schiften.</div><div class="tip-item">💡 <strong>Spinazie goed uitlekken:</strong> Waterige spinazie ruïneert de saus. Altijd uitdrukken voor het opmaken.</div><div class="tip-item">💡 <strong>Druiven niet doorkoken:</strong> Warm en sappig — de frisse tegenstem van de rijke saus.</div><div class="tip-item">💡 <strong>Arroseren:</strong> Het continue lepelen van boter geeft de vis zijn nootachtige, goudbruine smaak.</div><div class="tip-item">💡 <strong>Variatie — aan tafel champagne:</strong> Schenk een kleine lepel champagne over de saus vlak voor serveren.</div>
+      </div>
     </div>
   </div>
   <div style="max-width:860px;margin:0 auto 1rem;padding:0 44px">
