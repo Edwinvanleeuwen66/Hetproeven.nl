@@ -46379,6 +46379,2881 @@
       },
       "source_recipe_number": 130,
       "full_title_docx": "130. TRANSPARANTE PESTO-RAVIOLI MET PARMIGIANO-SAUS — DISFRUTAR-STIJL"
+    },
+    {
+      "title": "Flinterdunne Krokante Pizza — Scrocchiarella-Stijl — Seu/TAC-Inspiratie",
+      "slug": "flinterdunne-krokante-pizza-scrocchiarella-seu-tac",
+      "location": "Rome, Italië",
+      "time": "30 min actief (plus 24 uur fermentatie aanbevolen; zelfde-dagversie ca. 5 uur totaal)",
+      "servings": "2 grote pizza's van 32-34cm",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/flinterdunne-krokante-pizza-scrocchiarella-seu-tac.jpg",
+      "short_description": "Pier Daniele Seu's scrocchiarella uit Rome: flinterdun, glasachtig krokant deeg met lage hydratatie, olijfolie als breker en een deegroller — bij elke hap krak-krak-krak.",
+      "description": "Pier Daniele Seu in Rome — bekend van Seu Pizza Illuminati en TAC Thin and Crunchy — is het bewijs dat pizza haute cuisine kan zijn. Niet de luchtige, zachte Napolitaan maar zijn exacte tegendeel: de scrocchiarella, de flinterdunne, glasachtig krokante pizza van de Marche en Rome. Deeg met lage hydratatie, olijfolie voor breekbaarheid, een deegroller die de lucht eruit perst, en een oven van 340-360°C die hem langzaam uitdroogt tot een krokante plaat. Bij elke hap: krak-krak-krak.",
+      "full_intro": "Pier Daniele Seu in Rome — bekend van Seu Pizza Illuminati en TAC Thin and Crunchy — is het bewijs dat pizza haute cuisine kan zijn. Niet de luchtige, zachte Napolitaan maar zijn exacte tegendeel: de scrocchiarella, de flinterdunne, glasachtig krokante pizza van de Marche en Rome. Deeg met lage hydratatie, olijfolie voor breekbaarheid, een deegroller die de lucht eruit perst, en een oven van 340-360°C die hem langzaam uitdroogt tot een krokante plaat. Bij elke hap: krak-krak-krak.",
+      "ingredient_groups": [
+        {
+          "group_name": "Versie 1 — 24 uur koelkast (aanbevolen)",
+          "ingredients": [
+            {
+              "name": "tipo 0 of tipo 00 bloem (liefst W 240-280)",
+              "amount": "300g"
+            },
+            {
+              "name": "koud water (hydratatie 55%)",
+              "amount": "165g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "7g"
+            },
+            {
+              "name": "extra vergine olijfolie (3,5%)",
+              "amount": "11g"
+            },
+            {
+              "name": "droge gist (of 2g verse gist)",
+              "amount": "0,6g"
+            }
+          ]
+        },
+        {
+          "group_name": "Versie 2 — Zelfde dag",
+          "ingredients": [
+            {
+              "name": "tipo 0 of tipo 00 bloem",
+              "amount": "300g"
+            },
+            {
+              "name": "koud water (hydratatie 56%)",
+              "amount": "168g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "7g"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "11g"
+            },
+            {
+              "name": "droge gist (of 4g verse gist)",
+              "amount": "1,2g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor beide versies",
+          "ingredients": [
+            {
+              "name": "semola rimacinata (voor het uitrollen)",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Topping 1 — Flinterdunne margherita-crunch",
+          "ingredients": [
+            {
+              "name": "passata of San Marzano-tomaat (goed uitgelekt, dun uitgestreken) — per pizza",
+              "amount": "60-75g"
+            },
+            {
+              "name": "fior di latte mozzarella (goed uitgelekt) — per pizza",
+              "amount": "80-100g"
+            },
+            {
+              "name": "basilicum (na het bakken — nooit tijdens)",
+              "amount": ""
+            },
+            {
+              "name": "extra vergine olijfolie (na het bakken)",
+              "amount": ""
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Topping 2 — Mortadella e pistache (Seu-stijl)",
+          "ingredients": [
+            {
+              "name": "bovenstaande tomatenbasis",
+              "amount": ""
+            },
+            {
+              "name": "dunne plakjes mortadella di Bologna (na het bakken)",
+              "amount": ""
+            },
+            {
+              "name": "fijngehakte groene pistache",
+              "amount": ""
+            },
+            {
+              "name": "druppel olijfolie",
+              "amount": ""
+            },
+            {
+              "name": "fijne citroenrasp (optioneel)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Versie 1 — 24 uur koelkast (aanbevolen)",
+          "ingredients": [
+            "300g tipo 0 of tipo 00 bloem (liefst W 240-280)",
+            "165g koud water (hydratatie 55%)",
+            "7g fijn zeezout",
+            "11g extra vergine olijfolie (3,5%)",
+            "0,6g droge gist (of 2g verse gist — heel weinig, rijst lang en langzaam)"
+          ]
+        },
+        {
+          "group_name": "Versie 2 — Zelfde dag",
+          "ingredients": [
+            "300g tipo 0 of tipo 00 bloem",
+            "168g koud water (hydratatie 56%)",
+            "7g fijn zeezout",
+            "11g extra vergine olijfolie",
+            "1,2g droge gist (of 4g verse gist)"
+          ]
+        },
+        {
+          "group_name": "Voor beide versies",
+          "ingredients": [
+            "Semola rimacinata (voor het uitrollen)"
+          ]
+        },
+        {
+          "group_name": "Topping 1 — Flinterdunne margherita-crunch",
+          "ingredients": [
+            "Per pizza: 60-75g passata of San Marzano-tomaat (goed uitgelekt, dun uitgestreken)",
+            "Per pizza: 80-100g fior di latte mozzarella (goed uitgelekt — dag ervoor in zeef, voor gebruik droogdeppen)",
+            "Basilicum (na het bakken — nooit tijdens)",
+            "Extra vergine olijfolie (na het bakken)",
+            "Fleur de sel"
+          ]
+        },
+        {
+          "group_name": "Topping 2 — Mortadella e pistache (Seu-stijl)",
+          "ingredients": [
+            "Bovenstaande tomatenbasis",
+            "Na het bakken: dunne plakjes mortadella di Bologna",
+            "Klein beetje fijngehakte groene pistache",
+            "Druppel olijfolie",
+            "Eventueel: fijne citroenrasp"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Deeg maken — Versie 1 (24 uur koelkast, aanbevolen)",
+          "description": "Bloem, water en gist kort mengen tot er geen droge bloem meer zichtbaar is. 20 minuten rusten. Zout toevoegen. 4-5 minuten kneden tot het deeg samenkomt. Olijfolie in drie porties toevoegen — telkens kneden tot volledig opgenomen. 5-7 minuten tot glad en iets steviger dan Napolitaans deeg. 1 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. In licht ingeoliede bakjes. 18-24 uur in de koelkast op 4°C. Bollen 2 uur voor bakken uit de koelkast."
+        },
+        {
+          "number": 2,
+          "action": "Deeg maken — Versie 2 (zelfde dag)",
+          "description": "Bloem, water en gist mengen. 15-20 minuten rusten. Zout toevoegen. 4-5 minuten kneden. Olijfolie toevoegen. Kneden tot glad. 2 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. Afdekken. Nog 2-3 uur rijzen op kamertemperatuur."
+        },
+        {
+          "number": 3,
+          "action": "Vormen",
+          "description": "Royaal semola op het werkblad. Deegbol platdrukken. Deegroller — van midden naar buiten rollen, regelmatig draaien. Doel: 32-34cm diameter. Midden en rand bijna even dun. Geen Napolitaanse rand. Als het deeg terugveert — even rusten, dan opnieuw rollen. Op pizzaschep of bakpapier leggen."
+        },
+        {
+          "number": 4,
+          "action": "Bakken in pizzaoven",
+          "description": "Vloer op 340-360°C — vlam rustig, niet agressief. Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 60-90 seconden voorbakken. Mozzarella goed droogdeppen. In kleine stukken scheuren. Verdelen over de pizza. Nog 3-4 minuten afbakken tot de bodem droog, dun en krokant is. Als de pizza opblaast: prik met een vork in de luchtbel. Direct na de oven: 1 minuut op een rooster. Basilicum, olijfolie, fleur de sel na het bakken."
+        },
+        {
+          "number": 5,
+          "action": "Bakken in gewone oven",
+          "description": "Pizzasteen of pizzastaal hoog in de oven plaatsen. Minimaal 45 minuten voorverwarmen op maximale stand (275-300°C). Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 4-5 minuten voorbakken. Mozzarella droogdeppen en toevoegen. Nog 4-6 minuten afbakken tot de bodem stevig en krokant is. 1 minuut op een rooster — ook in de gewone oven verplicht. Basilicum, olijfolie, fleur de sel na het bakken."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Deeg maken — Versie 1 (24 uur koelkast, aanbevolen)",
+          "description": "Bloem, water en gist kort mengen tot er geen droge bloem meer zichtbaar is. 20 minuten rusten. Zout toevoegen. 4-5 minuten kneden tot het deeg samenkomt. Olijfolie in drie porties toevoegen — telkens kneden tot volledig opgenomen. 5-7 minuten tot glad en iets steviger dan Napolitaans deeg. 1 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. In licht ingeoliede bakjes. 18-24 uur in de koelkast op 4°C. Bollen 2 uur voor bakken uit de koelkast."
+        },
+        {
+          "number": 2,
+          "section": "Deeg maken — Versie 2 (zelfde dag)",
+          "description": "Bloem, water en gist mengen. 15-20 minuten rusten. Zout toevoegen. 4-5 minuten kneden. Olijfolie toevoegen. Kneden tot glad. 2 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. Afdekken. Nog 2-3 uur rijzen op kamertemperatuur."
+        },
+        {
+          "number": 3,
+          "section": "Vormen",
+          "description": "Royaal semola op het werkblad. Deegbol platdrukken. Deegroller — van midden naar buiten rollen, regelmatig draaien. Doel: 32-34cm diameter. Midden en rand bijna even dun. Geen Napolitaanse rand. Als het deeg terugveert — even rusten, dan opnieuw rollen. Op pizzaschep of bakpapier leggen."
+        },
+        {
+          "number": 4,
+          "section": "Bakken in pizzaoven",
+          "description": "Vloer op 340-360°C — vlam rustig, niet agressief. Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 60-90 seconden voorbakken. Mozzarella goed droogdeppen. In kleine stukken scheuren. Verdelen over de pizza. Nog 3-4 minuten afbakken tot de bodem droog, dun en krokant is. Als de pizza opblaast: prik met een vork in de luchtbel. Direct na de oven: 1 minuut op een rooster. Basilicum, olijfolie, fleur de sel na het bakken."
+        },
+        {
+          "number": 5,
+          "section": "Bakken in gewone oven",
+          "description": "Pizzasteen of pizzastaal hoog in de oven plaatsen. Minimaal 45 minuten voorverwarmen op maximale stand (275-300°C). Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 4-5 minuten voorbakken. Mozzarella droogdeppen en toevoegen. Nog 4-6 minuten afbakken tot de bodem stevig en krokant is. 1 minuut op een rooster — ook in de gewone oven verplicht. Basilicum, olijfolie, fleur de sel na het bakken."
+        }
+      ],
+      "tips": [
+        "Lage hydratatie is de basis: 55% water vs 65%+ bij Napels. Minder water = minder stoom = krokant. Het deeg voelt iets stijver — dat is correct.",
+        "Olijfolie als breker: de olie verzwakt de glutenstructuur net genoeg zodat het deeg als een cracker breekt. Niet weglaten.",
+        "Deegroller is verplicht: bij Napels verboden — hier de enige juiste techniek. De roller perst de lucht eruit en geeft een gelijkmatig dunne plaat.",
+        "Versie 1 is beter: 24 uur koelkast geeft meer smaak en een droger, beter uitrolbaar deeg. Versie 2 wordt iets broodachtiger maar is nog steeds krokant.",
+        "Mozzarella de dag ervoor uitlekken: natte mozzarella geeft stoom en maakt de bodem slap. Dag ervoor in een zeef, voor gebruik droogdeppen.",
+        "Tomaat spaarzaam: 60-75g per pizza is genoeg. Te veel tomaat geeft vocht.",
+        "Voorbakken met tomaat: de basis droogt in terwijl de korst vormt. Niet overslaan.",
+        "Rooster na het bakken is niet optioneel: condensatie op een bord maakt de onderkant slap in 30 seconden.",
+        "Mortadella en burrata altijd na het bakken: nooit in de oven — ze verliezen textuur bij hitte.",
+        "Bak lager en langer: 500°C is te heet voor dit deeg. 340-360°C is de juiste temperatuur.",
+        "Definitieve keuze voor maximale krokantheid: 24 uur fermentatie — 55% water — 3,5% olijfolie — deegroller — 340-360°C pizzaoven — voorbakken met tomaat — na bakken op rooster."
+      ],
+      "tips_full": [
+        "Lage hydratatie is de basis: 55% water vs 65%+ bij Napels. Minder water = minder stoom = krokant. Het deeg voelt iets stijver — dat is correct.",
+        "Olijfolie als breker: de olie verzwakt de glutenstructuur net genoeg zodat het deeg als een cracker breekt. Niet weglaten.",
+        "Deegroller is verplicht: bij Napels verboden — hier de enige juiste techniek. De roller perst de lucht eruit en geeft een gelijkmatig dunne plaat.",
+        "Versie 1 is beter: 24 uur koelkast geeft meer smaak en een droger, beter uitrolbaar deeg. Versie 2 wordt iets broodachtiger maar is nog steeds krokant.",
+        "Mozzarella de dag ervoor uitlekken: natte mozzarella geeft stoom en maakt de bodem slap. Dag ervoor in een zeef, voor gebruik droogdeppen.",
+        "Tomaat spaarzaam: 60-75g per pizza is genoeg. Te veel tomaat geeft vocht.",
+        "Voorbakken met tomaat: de basis droogt in terwijl de korst vormt. Niet overslaan.",
+        "Rooster na het bakken is niet optioneel: condensatie op een bord maakt de onderkant slap in 30 seconden.",
+        "Mortadella en burrata altijd na het bakken: nooit in de oven — ze verliezen textuur bij hitte.",
+        "Bak lager en langer: 500°C is te heet voor dit deeg. 340-360°C is de juiste temperatuur.",
+        "Definitieve keuze voor maximale krokantheid: 24 uur fermentatie — 55% water — 3,5% olijfolie — deegroller — 340-360°C pizzaoven — voorbakken met tomaat — na bakken op rooster."
+      ],
+      "opmaak_presentatie": "De pizza komt uit de oven: glasachtig goudbruin, bijna als een grote cracker. Geen dikke rand — de hele schijf even dun. Snijden in rechthoekige stukken of punten. Serveren op een rooster of houten plank — nooit op een bord. Bij elke hap: krak. Dat is het gerecht. Mortadella-versie: na het bakken dunne plakjes mortadella losjes erop draperen. Fijngehakte pistache strooien. Druppel olijfolie. Eventueel citroenrasp.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Verdicchio dei Castelli di Jesi Classico Superiore DOC — Le Marche, Italië",
+          "druif": "Verdicchio",
+          "smaakprofiel": "Droog, citrus, groene appel, amandel, zilt-mineraal, subtiele bitterheid",
+          "omschrijving": "De wijn uit de streek van de scrocchiarella — regionaal en inhoudelijk de sterkste keuze.",
+          "waarom_werkt_dit": "Verdicchio's frisse zuren snijden door de olijfolie en mozzarella. De subtiele bitterheid spiegelt de licht verkoolde rand. De zilte mineraliteit past bij de pure, eenvoudige toppings."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Frascati Superiore DOC — Castelli Romani, Lazio, Italië",
+          "druif": "Malvasia Bianca di Candia, Trebbiano Toscano",
+          "smaakprofiel": "Droog, fris, appel, citrus, licht mineraal, zachte afdronk",
+          "omschrijving": "De klassieke Romeinse pizzawijn — lokaal en toegankelijk.",
+          "waarom_werkt_dit": "Frascati en Romeinse pizza zijn een eeuwenoud paar. De zachte frisheid past bij tomaat en mozzarella zonder de dunne, delicate bodem te overstemmen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Cerasuolo d'Abruzzo DOC — Abruzzo, Italië (gekoeld op 10°C)",
+          "druif": "Montepulciano",
+          "smaakprofiel": "Droog, kersen, watermeloen, fris, levendig, lage tannines",
+          "omschrijving": "Een droge rosé met karakter — ideaal bij de mortadella-versie.",
+          "waarom_werkt_dit": "Bij de mortadella & pistache-versie geeft een droge rosé de frisse tegenstem. De kersennoten sluiten aan op de mortadella. Altijd gekoeld serveren."
+        }
+      ],
+      "wine": {
+        "naam": "Verdicchio dei Castelli di Jesi Classico Superiore DOC — Le Marche, Italië",
+        "druif": "Verdicchio",
+        "toelichting": "Verdicchio's frisse zuren snijden door de olijfolie en mozzarella. De subtiele bitterheid spiegelt de licht verkoolde rand. De zilte mineraliteit past bij de pure, eenvoudige toppings. Regionaal en inhoudelijk de sterkste keuze bij de scrocchiarella.",
+        "alternatief": "Frascati Superiore DOC of Cerasuolo d'Abruzzo DOC (gekoeld)"
+      },
+      "metadata": {
+        "bereidingstijd": "30 min actief (plus 24 uur fermentatie)",
+        "porties": "2 grote pizza's van 32-34cm",
+        "type_gerecht": "Pizza / hoofdgerecht",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 131,
+      "full_title_docx": "131. FLINTERDUNNE KROKANTE PIZZA — SCROCCHIARELLA-STIJL — SEU/TAC-INSPIRATIE"
+    },
+    {
+      "title": "Langoustine-Taco met Chipotle-Saus en Zeekraal — KOL-Stijl",
+      "slug": "langoustine-taco-chipotle-saus-zeekraal-kol",
+      "location": "Marylebone, Londen",
+      "time": "50 min",
+      "servings": "4 personen (8 mini-taco's)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Mexicaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/langoustine-taco-chipotle-saus-zeekraal-kol.jpg",
+      "short_description": "KOL Londen's signatuur-taco: Schotse langoustine op verse masa-tortilla met gerookte chipotle-saus en zeekraal — Mexicaans van ziel, Atlantisch van accent.",
+      "description": "KOL in Marylebone, Londen — Chef Santiago Lastra, één Michelinster en #49 in The World's 50 Best Restaurants 2025. Lastra verliet Mexico op zijn 17e, trainde bij Noma en Mugaritz, en was projectmanager van Noma's Mexico-pop-up in Tulum in 2017. In 2020 opende hij KOL met een idee: Mexicaanse keuken met 90% Britse ingrediënten. Schotse langoustines, Norfolk-mosselen, Welsh zeewier. De signatuur-taco: langoustine gegrild met gerookte chipotle, verse masa-tortilla, zeekraal als kustkruid. Mexicaans van ziel, Atlantisch van accent: maïs, vuur, schaaldier, rookchili en zee in een hap.",
+      "full_intro": "KOL in Marylebone, Londen — Chef Santiago Lastra, een Michelinster en #49 in The World's 50 Best Restaurants 2025. Lastra verliet Mexico op zijn 17e, trainde bij Noma en Mugaritz, en was projectmanager van Noma's Mexico-pop-up in Tulum in 2017. In 2020 opende hij KOL met een idee: Mexicaanse keuken met 90% Britse ingrediënten. Maïs, chili en chocolade komen uit Mexico — alles anders is lokaal. Schotse langoustines, Norfolk-mosselen, Welsh zeewier. De signatuur-taco: langoustine gegrild met gerookte chipotle, verse masa-tortilla, zeekraal als kustkruid. Mexicaans van ziel, Atlantisch van accent: maïs, vuur, schaaldier, rookchili en zee in een hap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de langoustines",
+          "ingredients": [
+            {
+              "name": "langoustines (met kop als mogelijk; alternatief: 16-20 grote rauwe gamba's)",
+              "amount": "12"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "roomboter (voor de basting allerlaatst)",
+              "amount": "15g"
+            },
+            {
+              "name": "kleine teen knoflook, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "zout",
+              "amount": ""
+            },
+            {
+              "name": "limoensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de chipotle-saus",
+          "ingredients": [
+            {
+              "name": "chipotle-chili's in adobo (begin met één — chipotle is krachtig)",
+              "amount": "1-2"
+            },
+            {
+              "name": "adobosaus uit het blik",
+              "amount": "1 el"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "komijnpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "ahornsiroop of honing",
+              "amount": "1 tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1½ el"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "40ml"
+            },
+            {
+              "name": "water",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de masa-tortilla's",
+          "ingredients": [
+            {
+              "name": "masa harina (Maseca-merk — bij Latijns-Amerikaanse toko; niet vervangen door gewoon maïsmeel)",
+              "amount": "200g"
+            },
+            {
+              "name": "warm water (begin met 180ml — masa-merken verschillen)",
+              "amount": "180-200ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de ingelegde sjalot",
+          "ingredients": [
+            {
+              "name": "sjalot, flinterdun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1½ el"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            },
+            {
+              "name": "suiker",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "klein handje zeekraal (rauw als vers; anders 30 sec blancheren)",
+              "amount": ""
+            },
+            {
+              "name": "klein handje postelein",
+              "amount": ""
+            },
+            {
+              "name": "verse korianderblaadjes",
+              "amount": ""
+            },
+            {
+              "name": "zwart sesamzaad, droog geroosterd (spaarzaam)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "limoenparten (tableside — verplicht)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de langoustines",
+          "ingredients": [
+            "12 langoustines (bij een goede visboer — met kop als mogelijk; alternatief: 16-20 grote rauwe gamba's)",
+            "1 el extra vergine olijfolie",
+            "15g roomboter (voor de basting allerlaatst)",
+            "1 kleine teen knoflook, fijn geraspt",
+            "Zout",
+            "Paar druppels limoensap"
+          ]
+        },
+        {
+          "group_name": "Voor de chipotle-saus",
+          "ingredients": [
+            "1-2 chipotle-chili's in adobo (begin met een — chipotle is krachtig; bij grote supermarkt of Latijns-Amerikaanse toko)",
+            "1 el adobosaus uit het blik",
+            "1 tl gerookt paprikapoeder",
+            "½ tl komijnpoeder (aardse ondertoon)",
+            "1 tl ahornsiroop of honing",
+            "1½ el limoensap",
+            "40ml extra vergine olijfolie",
+            "1 el water",
+            "Snuf zout"
+          ]
+        },
+        {
+          "group_name": "Voor de masa-tortilla's (15 min — niet overslaan)",
+          "ingredients": [
+            "200g masa harina (Maseca-merk — bij Latijns-Amerikaanse toko of online; niet vervangen door gewoon maïsmeel)",
+            "180-200ml warm water (begin met 180ml — masa-merken verschillen in absorptie)",
+            "½ tl fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de ingelegde sjalot",
+          "ingredients": [
+            "1 sjalot, flinterdun gesneden",
+            "1½ el limoensap",
+            "Snuf zout",
+            "½ tl suiker (zoet-zuur balans)"
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            "Klein handje zeekraal (rauw als vers; anders 30 sec blancheren)",
+            "Klein handje postelein (frisser en zachter dan zeekraal — combineer)",
+            "Verse korianderblaadjes",
+            "1 tl zwart sesamzaad, droog geroosterd (spaarzaam)",
+            "Limoenparten (tableside — verplicht)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Ingelegde sjalot",
+          "description": "Sjalotringen mengen met limoensap, zout en suiker. Minimaal 15 minuten laten staan."
+        },
+        {
+          "number": 2,
+          "action": "Masa-tortilla's maken",
+          "description": "Masa harina en zout mengen. Warm water toevoegen — begin met 180ml. Mengen tot soepel deeg dat voelt als zachte boetseerklei. 10 minuten rusten afgedekt. Verdelen in 8 gelijke ballen van ca. 30g. Plat drukken tussen twee vellen plasticfolie tot dunne rondjes van 10-12cm. In een droge gietijzeren pan op hoog vuur. 45 seconden per kant tot bruine vlekken en lichte poffen. Stapelen in een schone theedoek."
+        },
+        {
+          "number": 3,
+          "action": "Chipotle-saus",
+          "description": "Chipotle-chili's, adobosaus, gerookt paprikapoeder, komijn, ahornsiroop, limoensap, olijfolie, water en zout in een blender. 1 minuut tot volledig glad. Proef: rokerig, pittig, zuur, licht zoet."
+        },
+        {
+          "number": 4,
+          "action": "Langoustines bereiden",
+          "description": "Langoustines schillen — staartjes heel laten. Droogdeppen. Mengen met olijfolie, knoflook en zout. 5 minuten marineren. Gietijzeren pan of grillpan op hoog vuur tot gloeiend heet. Langoustines erin — 45-60 seconden per kant. Allerlaatst: roomboter in de pan. Langoustines 20 seconden in de schuimende boter laten rollen. Paar druppels limoensap. Direct uit de pan."
+        },
+        {
+          "number": 5,
+          "action": "Opbouwen en serveren",
+          "description": "Warme tortilla. Dunne streep of kleine lepel chipotle-saus — niet te veel. 1-2 langoustines erop. Zeekraal en postelein. Ingelegde sjalot. Koriander. Eventueel sesamzaadjes. Limoenpartje ernaast. Direct serveren."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Ingelegde sjalot",
+          "description": "Sjalotringen mengen met limoensap, zout en suiker. Minimaal 15 minuten laten staan."
+        },
+        {
+          "number": 2,
+          "section": "Masa-tortilla's maken",
+          "description": "Masa harina en zout mengen. Warm water toevoegen — begin met 180ml. Mengen tot soepel deeg dat voelt als zachte boetseerklei. 10 minuten rusten afgedekt. Verdelen in 8 gelijke ballen van ca. 30g. Plat drukken tussen twee vellen plasticfolie tot dunne rondjes van 10-12cm. In een droge gietijzeren pan op hoog vuur. 45 seconden per kant tot bruine vlekken en lichte poffen. Stapelen in een schone theedoek."
+        },
+        {
+          "number": 3,
+          "section": "Chipotle-saus",
+          "description": "Chipotle-chili's, adobosaus, gerookt paprikapoeder, komijn, ahornsiroop, limoensap, olijfolie, water en zout in een blender. 1 minuut tot volledig glad. Proef: rokerig, pittig, zuur, licht zoet."
+        },
+        {
+          "number": 4,
+          "section": "Langoustines bereiden",
+          "description": "Langoustines schillen — staartjes heel laten. Droogdeppen. Mengen met olijfolie, knoflook en zout. 5 minuten marineren. Gietijzeren pan of grillpan op hoog vuur tot gloeiend heet. Langoustines erin — 45-60 seconden per kant. Allerlaatst: roomboter in de pan. Langoustines 20 seconden in de schuimende boter laten rollen. Paar druppels limoensap. Direct uit de pan."
+        },
+        {
+          "number": 5,
+          "section": "Opbouwen en serveren",
+          "description": "Warme tortilla. Dunne streep of kleine lepel chipotle-saus — niet te veel. 1-2 langoustines erop. Zeekraal en postelein. Ingelegde sjalot. Koriander. Eventueel sesamzaadjes. Limoenpartje ernaast. Direct serveren."
+        }
+      ],
+      "tips": [
+        "Verse masa-tortilla's zijn het gerecht: de geur van warme maïs is de helft van de ervaring. Koop masa harina — gewoon maïsmeel werkt niet hetzelfde.",
+        "Langoustinekop is de KOL-truc: als je langoustines met kop koopt — rooster die koppen kort en knijp ze over de voltooide taco. Pure schaaldierumami.",
+        "Begin met een chipotle: chipotle in adobo kan heftig rokerig en pittig zijn. Je wilt rookwarmte, geen BBQ-saus.",
+        "Saus dun houden: een dunne streep of kleine lepel — de saus ondersteunt, overstemt niet.",
+        "Boter-basting allerlaatst: die 20 seconden in schuimende boter geven glans, karameldiepte en rijkheid. Niet overslaan.",
+        "Taco's à la minute vullen: warme tortilla's worden slap als ze te lang gevuld liggen.",
+        "De Lastra-filosofie: zoek altijd het lokale equivalent. Zeekraal vervangt sea arrowgrass. Dragon vervangt epazote. Zwarte champignons vervangen huitlacoche."
+      ],
+      "tips_full": [
+        "Verse masa-tortilla's zijn het gerecht: de geur van warme maïs is de helft van de ervaring. Koop masa harina — gewoon maïsmeel werkt niet hetzelfde.",
+        "Langoustinekop is de KOL-truc: als je langoustines met kop koopt — rooster die koppen kort en knijp ze over de voltooide taco. Pure schaaldierumami.",
+        "Begin met een chipotle: chipotle in adobo kan heftig rokerig en pittig zijn. Je wilt rookwarmte, geen BBQ-saus.",
+        "Saus dun houden: een dunne streep of kleine lepel — de saus ondersteunt, overstemt niet.",
+        "Boter-basting allerlaatst: die 20 seconden in schuimende boter geven glans, karameldiepte en rijkheid. Niet overslaan.",
+        "Taco's à la minute vullen: warme tortilla's worden slap als ze te lang gevuld liggen.",
+        "De Lastra-filosofie: zoek altijd het lokale equivalent. Zeekraal vervangt sea arrowgrass. Dragon vervangt epazote. Zwarte champignons vervangen huitlacoche."
+      ],
+      "opmaak_presentatie": "Kleine warme taco's op een donker bord of houten plank. De verse gele masa-tortilla als fundament. Een dunne streep rokerig-rode chipotle-saus. Langoustine glanzend en goudroze. Felgroene zeekraal en koriander. Rozig ingelegde sjalot. Limoenpartje ernaast. Klein en precies — luxe handgerecht in twee happen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, zilt, citrus, witte perzik, levendig, Atlantisch",
+          "omschrijving": "Maritiem, fris en ziltig — de meest klassieke match bij langoustine.",
+          "waarom_werkt_dit": "De ziltige Atlantische frisheid spiegelt de langoustine en de zeekraal. De citrusnoten sluiten aan op het limoensap. Levendig genoeg om de chipotle-rooksmaak te evenaren."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Extra Brut AOC — Champagne, Frankrijk",
+          "druif": "Chardonnay, Pinot Noir en/of Pinot Meunier",
+          "smaakprofiel": "Droog, fijne mousse, citrus, lichte brioche, mineraal",
+          "omschrijving": "De mousse maakt maïs, boter en schaaldier lichter en werkt goed bij rookchili.",
+          "waarom_werkt_dit": "De mousse ruimt de rijke boter en chipotle-saus op. De mineraliteit complementeert de langoustine. Feestelijk bij dit kleine luxe handgerecht."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Verdejo Rueda DO — Castilla y León, Spanje",
+          "druif": "Verdejo",
+          "smaakprofiel": "Droog, citrus, venkel, groene kruiden, lichte bitterheid",
+          "omschrijving": "Kruidig en fris — voor wie de chili en koriander wil spiegelen.",
+          "waarom_werkt_dit": "De kruidig-groene toon spiegelt de koriander en zeekraal. De lichte bitterheid past bij de chipotle-rooksmaak. Fris genoeg voor het limoensap."
+        }
+      ],
+      "wine": {
+        "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
+        "druif": "Albariño",
+        "toelichting": "De ziltige Atlantische frisheid spiegelt de langoustine en de zeekraal. De citrusnoten sluiten aan op het limoensap. Levendig genoeg om de chipotle-rooksmaak te evenaren. Maritiem, fris en ziltig — de meest klassieke match bij langoustine.",
+        "alternatief": "Champagne Extra Brut AOC of Verdejo Rueda DO"
+      },
+      "metadata": {
+        "bereidingstijd": "50 min",
+        "porties": "4 personen (8 mini-taco's)",
+        "type_gerecht": "Amuse / voorgerecht / handgerecht",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 132,
+      "full_title_docx": "132. LANGOUSTINE-TACO MET CHIPOTLE-SAUS EN ZEEKRAAL — KOL-STIJL"
+    },
+    {
+      "title": "Sint-Jakobsschelpen in Geklaarde Boter met Citrus-Beurre Blanc en Zeekruidenvinaigrette — Aubergine-Stijl",
+      "slug": "sint-jakobsschelpen-geklaarde-boter-citrus-beurre-blanc-zeekruidenvinaigrette-aubergine",
+      "location": "Carmel-by-the-Sea, Californië",
+      "time": "40 min",
+      "servings": "4 kleine voorgerechten",
+      "difficulty": "Gemiddeld (timing bij de schelpen vraagt aandacht)",
+      "keuken": "Frans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/sint-jakobsschelpen-geklaarde-boter-citrus-beurre-blanc-zeekruidenvinaigrette-aubergine.jpg",
+      "short_description": "Aubergine Carmel-by-the-Sea: sint-jakobsschelpen met diepbruine Maillard-korst, lichte citrus-beurre blanc en een frisse zeekruidenvinaigrette van dille, kervel en zeekraal — klassiek Frans, helder Californisch.",
+      "description": "Aubergine in Carmel-by-the-Sea, een kustdorpje twee uur ten zuiden van San Francisco — Chef Justin Cogley, bekroond met twee Michelin-sterren. Cogley combineert klassieke Franse techniek met inheemse Californische ingrediënten: abalone van de Monterey-kust, zee-egel, lokale zeekruiden. Abalone is in Nederland praktisch niet verkrijgbaar — sint-jakobsschelpen zijn de meest elegante vervanger. Dezelfde techniek, hetzelfde principe: een glasachtig hart, een diepbruine maillardkorst, een lichte citrus-beurre blanc, en een frisse vinaigrette van zeekraal, dille, kervel en peterselie als kustaccent. Klassiek Frans van techniek, helder en groen van uitstraling.",
+      "full_intro": "Aubergine in Carmel-by-the-Sea, een kustdorpje twee uur ten zuiden van San Francisco — Chef Justin Cogley, bekroond met twee Michelin-sterren. Cogley combineert klassieke Franse techniek met inheemse Californische ingrediënten: abalone van de Monterey-kust, zee-egel, lokale zeekruiden. Abalone is in Nederland praktisch niet verkrijgbaar — sint-jakobsschelpen zijn de meest elegante vervanger. Dezelfde techniek, hetzelfde principe: een glasachtig hart, een diepbruine maillardkorst, een lichte citrus-beurre blanc, en een frisse vinaigrette van zeekraal, dille, kervel en peterselie als kustaccent. Klassiek Frans van techniek, helder en groen van uitstraling.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de sint-jakobsschelpen",
+          "ingredients": [
+            {
+              "name": "grote sint-jakobsschelpen (vers — zonder koraal voor een schone sear)",
+              "amount": "12"
+            },
+            {
+              "name": "geklaarde boter (zie bereiding)",
+              "amount": "120g"
+            },
+            {
+              "name": "gewone roomboter (voor basting allerlaatst)",
+              "amount": "20g"
+            },
+            {
+              "name": "fijn zeezout + witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Geklaarde boter (van tevoren)",
+          "ingredients": [
+            {
+              "name": "ongezouten roomboter",
+              "amount": "150g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de citrus-beurre blanc",
+          "ingredients": [
+            {
+              "name": "sjalotten, zeer fijn gesnipperd",
+              "amount": "2"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "100ml"
+            },
+            {
+              "name": "lichte visbouillon of schaaldierbouillon",
+              "amount": "100ml"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijne citroenrasp",
+              "amount": "½ tl"
+            },
+            {
+              "name": "koude ongezouten roomboter, in blokjes",
+              "amount": "80g"
+            },
+            {
+              "name": "zout + witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de zeekruidenvinaigrette",
+          "ingredients": [
+            {
+              "name": "verse dille, fijn gesneden",
+              "amount": "1 el"
+            },
+            {
+              "name": "verse kervel, fijn gesneden",
+              "amount": "1 el"
+            },
+            {
+              "name": "platte peterselie, fijn gesneden",
+              "amount": "1 el"
+            },
+            {
+              "name": "zeekraal, 20 sec geblancheerd en fijn gehakt",
+              "amount": "1 el"
+            },
+            {
+              "name": "goede extra vergine olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout + witte peper",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            {
+              "name": "zeekraalpuntjes (rauw of kort geblancheerd)",
+              "amount": ""
+            },
+            {
+              "name": "radijzen, flinterdun gesneden op mandoline",
+              "amount": "4-6"
+            },
+            {
+              "name": "blaadjes kervel of postelein",
+              "amount": ""
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de sint-jakobsschelpen",
+          "ingredients": [
+            "12 grote sint-jakobsschelpen (vers — zonder koraal voor een schone sear; bewaar koraal eventueel apart)",
+            "120g geklaarde boter (zie bereiding stap 1)",
+            "20g gewone roomboter (voor basting allerlaatst)",
+            "Fijn zeezout + witte peper"
+          ]
+        },
+        {
+          "group_name": "Geklaarde boter (van tevoren — houdt weken in de koelkast)",
+          "ingredients": [
+            "150g ongezouten roomboter"
+          ]
+        },
+        {
+          "group_name": "Voor de citrus-beurre blanc",
+          "ingredients": [
+            "2 sjalotten, zeer fijn gesnipperd",
+            "100ml droge witte wijn",
+            "100ml lichte visbouillon of schaaldierbouillon",
+            "1 el vers citroensap",
+            "½ tl fijne citroenrasp",
+            "80g koude ongezouten roomboter, in blokjes",
+            "Zout + witte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de zeekruidenvinaigrette",
+          "ingredients": [
+            "1 el verse dille, fijn gesneden",
+            "1 el verse kervel, fijn gesneden",
+            "1 el platte peterselie, fijn gesneden",
+            "1 el zeekraal, 20 seconden geblancheerd en fijn gehakt (zeekraal is zout — niet extra zouten)",
+            "2 el goede extra vergine olijfolie",
+            "1 tl sherryazijn",
+            "½ tl citroensap",
+            "Snuf zout + witte peper"
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            "Klein handje zeekraalpuntjes (rauw of kort geblancheerd als ze stevig zijn)",
+            "4-6 radijzen, flinterdun gesneden op mandoline",
+            "Paar blaadjes kervel of postelein",
+            "Eventueel: flinterdunne venkelplakjes of linten bleekselderijhart",
+            "Fleur de sel"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Geklaarde boter maken",
+          "description": "150g roomboter in een kleine steelpan op laag vuur smelten. Niet roeren. Schuim afscheppen. Door een fijne zeef of kaasdoek schenken. 120g afmeten voor het bakken. Waarom klaren: rookpunt 180-200°C vs 150°C voor gewone boter."
+        },
+        {
+          "number": 2,
+          "action": "Citrus-beurre blanc",
+          "description": "Sjalotten, witte wijn en visbouillon in een steelpan. Reduceren op middelhoog vuur tot 3-4 eetlepels geconcentreerde vloeistof. Eventueel door een fijne zeef. Vuur op allerlaagst. Koude boterblokjes een voor een erdoor kloppen. Nooit meer laten koken na het toevoegen. Warmhouden op laag vuur of bain-marie op max 60°C. Citroensap en citroenrasp toevoegen. Op smaak met zout en witte peper."
+        },
+        {
+          "number": 3,
+          "action": "Zeekruidenvinaigrette",
+          "description": "Zeekraal 20 seconden blancheren in kokend water (ongezout). Direct in ijskoud water. Uitknijpen. Fijn hakken. Dille, kervel, peterselie en gehakte zeekraal mengen. Olijfolie, sherryazijn en citroensap toevoegen. Op smaak. Koel bewaren."
+        },
+        {
+          "number": 4,
+          "action": "Garnering voorbereiden",
+          "description": "Radijs flinterdun snijden op mandoline. Zeekraalpuntjes voorbereiden. Kervel of postelein klaarleggen."
+        },
+        {
+          "number": 5,
+          "action": "Sint-jakobsschelpen bakken",
+          "description": "Schelpen heel grondig droogdeppen met keukenpapier — herhalen tot ze echt droog zijn. Licht bestrooien met fijn zeezout. Peper pas na het bakken. Zware koekenpan op hoog vuur — 2-3 minuten voorverwarmen. Geklaarde boter erin. Direct de schelpen plaatsen — niet bewegen. 60-90 seconden afhankelijk van grootte — diepgoudbruine korst. Bruine korst is het signaal, niet de timer. Een keer omdraaien. 20g gewone boter toevoegen. 30-60 seconden — boter schuimt op, lepel het over de schelpen. Direct uit de pan. Witte peper allerlaatst."
+        },
+        {
+          "number": 6,
+          "action": "Opbouwen en serveren",
+          "description": "Warme, lichte borden. Beurre blanc als kleine spiegel op het bord. 3 sint-jakobsschelpen per persoon in een driehoek of lichte curve. Zeekruidenvinaigrette rondom en subtiel over de schelpen druppelen. Radijsschijfjes, zeekraalpuntjes, kervel of postelein luchtig verdelen. Fleur de sel op elke schelp. Direct serveren."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Geklaarde boter maken",
+          "description": "150g roomboter in een kleine steelpan op laag vuur smelten. Niet roeren. Schuim afscheppen. Door een fijne zeef of kaasdoek schenken. 120g afmeten voor het bakken. Waarom klaren: rookpunt 180-200°C vs 150°C voor gewone boter."
+        },
+        {
+          "number": 2,
+          "section": "Citrus-beurre blanc",
+          "description": "Sjalotten, witte wijn en visbouillon in een steelpan. Reduceren op middelhoog vuur tot 3-4 eetlepels geconcentreerde vloeistof. Eventueel door een fijne zeef. Vuur op allerlaagst. Koude boterblokjes een voor een erdoor kloppen. Nooit meer laten koken na het toevoegen. Warmhouden op laag vuur of bain-marie op max 60°C. Citroensap en citroenrasp toevoegen. Op smaak met zout en witte peper."
+        },
+        {
+          "number": 3,
+          "section": "Zeekruidenvinaigrette",
+          "description": "Zeekraal 20 seconden blancheren in kokend water (ongezout). Direct in ijskoud water. Uitknijpen. Fijn hakken. Dille, kervel, peterselie en gehakte zeekraal mengen. Olijfolie, sherryazijn en citroensap toevoegen. Op smaak. Koel bewaren."
+        },
+        {
+          "number": 4,
+          "section": "Garnering voorbereiden",
+          "description": "Radijs flinterdun snijden op mandoline. Zeekraalpuntjes voorbereiden. Kervel of postelein klaarleggen."
+        },
+        {
+          "number": 5,
+          "section": "Sint-jakobsschelpen bakken",
+          "description": "Schelpen heel grondig droogdeppen met keukenpapier — herhalen tot ze echt droog zijn. Licht bestrooien met fijn zeezout. Peper pas na het bakken. Zware koekenpan op hoog vuur — 2-3 minuten voorverwarmen. Geklaarde boter erin. Direct de schelpen plaatsen — niet bewegen. 60-90 seconden afhankelijk van grootte — diepgoudbruine korst. Bruine korst is het signaal, niet de timer. Een keer omdraaien. 20g gewone boter toevoegen. 30-60 seconden — boter schuimt op, lepel het over de schelpen. Direct uit de pan. Witte peper allerlaatst."
+        },
+        {
+          "number": 6,
+          "section": "Opbouwen en serveren",
+          "description": "Warme, lichte borden. Beurre blanc als kleine spiegel op het bord. 3 sint-jakobsschelpen per persoon in een driehoek of lichte curve. Zeekruidenvinaigrette rondom en subtiel over de schelpen druppelen. Radijsschijfjes, zeekraalpuntjes, kervel of postelein luchtig verdelen. Fleur de sel op elke schelp. Direct serveren."
+        }
+      ],
+      "tips": [
+        "Droogdeppen is niet onderhandelbaar: natte schelpen stomen in plaats van bakken — dan rubber in plaats van korst.",
+        "Geklaarde boter is de professional-truc: hoog rookpunt, zuivere botersmaak, geen verbranding. Maak een grote batch.",
+        "Bruine korst is het signaal — niet de timer: kijk naar de kleur, niet de klok.",
+        "Een keer omdraaien: niet roeren, niet meerdere keren draaien. Een draai, dan basting, dan uit de pan.",
+        "Beurre blanc nooit laten koken: boven 65°C breekt de emulsie. Altijd op laag vuur of bain-marie warmhouden.",
+        "Zeekraal fijn hakken in de vinaigrette: grove stukken zijn te dominant en te zout.",
+        "Koningsoesterzwam voor abalone-bite: bak een dunne plak koningsoesterzwam mee in boter. Geeft meer tand zoals echte abalone.",
+        "Koraal apart serveren: bak het 30 seconden apart in boter en serveer als extra accent."
+      ],
+      "tips_full": [
+        "Droogdeppen is niet onderhandelbaar: natte schelpen stomen in plaats van bakken — dan rubber in plaats van korst.",
+        "Geklaarde boter is de professional-truc: hoog rookpunt, zuivere botersmaak, geen verbranding. Maak een grote batch.",
+        "Bruine korst is het signaal — niet de timer: kijk naar de kleur, niet de klok.",
+        "Een keer omdraaien: niet roeren, niet meerdere keren draaien. Een draai, dan basting, dan uit de pan.",
+        "Beurre blanc nooit laten koken: boven 65°C breekt de emulsie. Altijd op laag vuur of bain-marie warmhouden.",
+        "Zeekraal fijn hakken in de vinaigrette: grove stukken zijn te dominant en te zout.",
+        "Koningsoesterzwam voor abalone-bite: bak een dunne plak koningsoesterzwam mee in boter. Geeft meer tand zoals echte abalone.",
+        "Koraal apart serveren: bak het 30 seconden apart in boter en serveer als extra accent."
+      ],
+      "opmaak_presentatie": "Warme, lichte borden. Beurre blanc als goudgele zijdezachte spiegel. Drie sint-jakobsschelpen met een diepbruine, glanzende korst — het glasachtige hart zichtbaar. Zeekruidenvinaigrette als frisse groene druppels. Flinterdunne radijsschijfjes. Zeekraalpuntjes als zilte accenten. Kervel als groen. Fleur de sel.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chablis Premier Cru AOC — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, uitgesproken mineraal, citrus, groene appel, krijtige spanning, subtiele zilte ondertoon",
+          "omschrijving": "De meest minerale Chardonnay ter wereld — de klassieke match bij sint-jakobsschelpen.",
+          "waarom_werkt_dit": "De krijtige mineraliteit snijdt door de beurre blanc. De frisse zuren ondersteunen de zoete schelpdiertextuur. Terughoudend genoeg om de delicate schelpen volledig te laten spreken."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Blanc de Blancs Extra Brut AOC — Champagne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, strak, mineraal, citrus, fijne mousse, krijtige afdronk",
+          "omschrijving": "Feestelijk en precies — de mousse maakt de beurre blanc lichter.",
+          "waarom_werkt_dit": "De mousse snijdt door de rijke beurre blanc en reinigt de mond na elke hap. De mineraliteit complementeert de schelpen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, zilt, citrus, witte perzik, levendige zuren, Atlantisch",
+          "omschrijving": "Als je het gerecht speelser en minder klassiek Frans wilt drinken.",
+          "waarom_werkt_dit": "De ziltige Atlantische frisheid spiegelt de zeekraal en de schelpen. De levendige zuren sluiten aan op de sherryazijn in de vinaigrette."
+        }
+      ],
+      "wine": {
+        "naam": "Chablis Premier Cru AOC — Bourgogne, Frankrijk",
+        "druif": "Chardonnay",
+        "toelichting": "De krijtige mineraliteit snijdt door de beurre blanc. De frisse zuren ondersteunen de zoete schelpdiertextuur. Terughoudend genoeg om de delicate schelpen volledig te laten spreken. De meest minerale Chardonnay ter wereld — de klassieke match bij sint-jakobsschelpen.",
+        "alternatief": "Champagne Blanc de Blancs Extra Brut AOC of Albariño Rías Baixas DO"
+      },
+      "metadata": {
+        "bereidingstijd": "40 min",
+        "porties": "4 kleine voorgerechten",
+        "type_gerecht": "Voorgerecht / visgerecht",
+        "niveau": "Gemiddeld (timing bij de schelpen vraagt aandacht)"
+      },
+      "source_recipe_number": 133,
+      "full_title_docx": "133. SINT-JAKOBSSCHELPEN IN GEKLAARDE BOTER MET CITRUS-BEURRE BLANC EN ZEEKRUIDENVINAIGRETTE — AUBERGINE-STIJL"
+    },
+    {
+      "title": "Sopa de Tortilla met Pasilla, Guajillo en Queso Fresco — Máximo Bistrot-Stijl",
+      "slug": "sopa-de-tortilla-pasilla-guajillo-queso-fresco-maximo-bistrot",
+      "location": "Mexico City, Mexico",
+      "time": "1 uur",
+      "servings": "4 voorgerechten",
+      "difficulty": "Makkelijk–gemiddeld",
+      "keuken": "Mexicaans",
+      "categorie": "soep",
+      "image": "/assets/images/sopa-de-tortilla-pasilla-guajillo-queso-fresco-maximo-bistrot.jpg",
+      "short_description": "Máximo Bistrot's sopa de tortilla: diepdonkere tomatenbouillon met geroosterde pasilla en guajillo-chili, queso fresco, avocado en krokante tortillaslierten — Mexico's nationale troostgerecht met Franse precisie.",
+      "description": "Máximo Bistrot in Mexico City — Chef Eduardo García, één Michelinster. García trainde bij Pujol en Pinotxo Bar in Barcelona en keerde terug naar Mexico City met een doel: Mexicaanse keuken bouwen met de precisie van de Franse traditie. Zijn sopa de tortilla is het bewijs. Mexico's nationale troostgerecht — rijke tomatenbouillon, geroosterde pasilla en guajillo-chili, queso fresco, krokante tortillaslierten, avocado — gemaakt met de gladheid en balans van een Parijse velouté. Elke smaak op het juiste moment.",
+      "full_intro": "Máximo Bistrot in Mexico City — Chef Eduardo García, een Michelinster in de actuele Michelin-gids. García trainde bij Pujol en Pinotxo Bar in Barcelona en keerde terug naar Mexico City met een doel: Mexicaanse keuken bouwen met de precisie van de Franse traditie. Zijn sopa de tortilla is het bewijs. Mexico's nationale troostgerecht — rijke tomatenbouillon, geroosterde pasilla en guajillo-chili, queso fresco, krokante tortillaslierten, avocado — gemaakt met de gladheid en balans van een Parijse velouté. Elke smaak op het juiste moment. De soep is donker, rond en diep. De garnituur is fris, romig en knapperig.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de soep",
+          "ingredients": [
+            {
+              "name": "rijpe tomaten, gehalveerd (Roma-tomaten zijn ideaal)",
+              "amount": "6"
+            },
+            {
+              "name": "rode ui, grof gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "teentjes knoflook, ongepeld",
+              "amount": "4"
+            },
+            {
+              "name": "pasilla-chili, gedroogd (bij Latijns-Amerikaanse toko — donker-rokerig, rozijnachtig)",
+              "amount": "1"
+            },
+            {
+              "name": "guajillo-chili, gedroogd (bij Latijns-Amerikaanse toko — mild-fruitig, licht koffieachtig)",
+              "amount": "1"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "geconcentreerde tomatenpuree",
+              "amount": "1 tl"
+            },
+            {
+              "name": "goede kippenbouillon",
+              "amount": "1 liter"
+            },
+            {
+              "name": "komijnpoeder (optioneel — subtiele aardse ondertoon)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "limoensap (allerlaatst)",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "zout + zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tortillaslierten",
+          "ingredients": [
+            {
+              "name": "maïstortilla's (winkel of zelfgemaakt)",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie voor frituren (175-180°C)",
+              "amount": ""
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            {
+              "name": "avocado, in kleine blokjes (vlak voor serveren met limoensap bedruppelen)",
+              "amount": "1"
+            },
+            {
+              "name": "queso fresco (bij Latijns-Amerikaanse toko; alternatief: milde feta, afgespueld)",
+              "amount": "80-100g"
+            },
+            {
+              "name": "zure room of crème fraîche",
+              "amount": "4 el"
+            },
+            {
+              "name": "verse korianderblaadjes",
+              "amount": ""
+            },
+            {
+              "name": "limoen, in partjes (tableside)",
+              "amount": "1"
+            },
+            {
+              "name": "grote garnalen, gepeld, kort gegrild (optioneel)",
+              "amount": "8"
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de soep",
+          "ingredients": [
+            "6 rijpe tomaten, gehalveerd (Roma-tomaten zijn ideaal)",
+            "1 rode ui, grof gesneden",
+            "4 teentjes knoflook, ongepeld",
+            "1 pasilla-chili (gedroogd — bij Latijns-Amerikaanse toko; pasilla = donker-rokerig, rozijnachtig)",
+            "1 guajillo-chili (gedroogd — bij Latijns-Amerikaanse toko; guajillo = mild-fruitig, licht koffieachtig)",
+            "1 el neutrale olie",
+            "1 tl geconcentreerde tomatenpuree",
+            "1 liter goede kippenbouillon",
+            "½ tl komijnpoeder (optioneel — subtiele aardse ondertoon)",
+            "Paar druppels limoensap (allerlaatst in de soep)",
+            "Zout + zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de tortillaslierten",
+          "ingredients": [
+            "4 maïstortilla's (winkel of zelfgemaakt)",
+            "Neutrale olie voor frituren (175-180°C)",
+            "Fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            "1 avocado, in kleine blokjes (vlak voor serveren — direct bedruppelen met limoensap)",
+            "80-100g queso fresco (bij Latijns-Amerikaanse toko — alternatief: milde feta, kort afgespoeld en drooggedept)",
+            "4 el zure room of crème fraîche",
+            "Verse korianderblaadjes",
+            "1 limoen, in partjes (tableside)",
+            "Optioneel: 8 grote garnalen, gepeld, kort gegrild"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Chili's roosteren en weken",
+          "description": "Pasilla en guajillo in een droge koekenpan op middelhoog vuur. 20-30 seconden per kant tot geuren vrijkomen en licht opzwellen. Niet zwart verbranden — dan worden ze bitter. In een kom met 200ml kokend water leggen. 15 minuten weken. Steeltjes en zaadlijsten verwijderen. Weekwater bewaren."
+        },
+        {
+          "number": 2,
+          "action": "Tomaten en ui roosteren",
+          "description": "Droge gietijzeren pan of koekenpan op hoog vuur. Tomaten (snijkant omlaag), ui en knoflook (ongepeld) erin — geen olie. 8-12 minuten tot de onderkant donkere, geblakerde plekken krijgt. Omdraaien. Andere kant ook donker laten worden. Knoflook pellen."
+        },
+        {
+          "number": 3,
+          "action": "Soep trekken en blenden",
+          "description": "Olie in een grote pan op middelhoog vuur. Tomatenpuree 1 minuut meebakken. Geroosterde tomaten, ui, knoflook, geweekte chili's en 100ml van het chiliweekvocht toevoegen. Kippenbouillon erbij. 25 minuten zacht koken op laag vuur. Volledig glad blenden — 2 minuten. Door een fijne zeef wrijven. Op smaak: zout, zwarte peper, eventueel komijn, en paar druppels limoensap allerlaatst."
+        },
+        {
+          "number": 4,
+          "action": "Tortillaslierten frituren",
+          "description": "Tortilla's in zeer dunne slierten van 3-4mm snijden. Olie verhitten tot 175-180°C. Slierten in kleine batches 30-45 seconden frituren tot goudbruin. Op keukenpapier. Direct zouten."
+        },
+        {
+          "number": 5,
+          "action": "Opbouwen en serveren",
+          "description": "Warme diepe kommen. Hete soep inschenken. Avocadoblokjes, queso fresco verkruimeld, dot zure room, korianderblaadjes rangschikken. Allerlaatst: krokante tortillaslierten erop. Limoenpartje op de rand. Direct serveren."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Chili's roosteren en weken",
+          "description": "Pasilla en guajillo in een droge koekenpan op middelhoog vuur. 20-30 seconden per kant tot geuren vrijkomen en licht opzwellen. Niet zwart verbranden — dan worden ze bitter. In een kom met 200ml kokend water leggen. 15 minuten weken. Steeltjes en zaadlijsten verwijderen. Weekwater bewaren."
+        },
+        {
+          "number": 2,
+          "section": "Tomaten en ui roosteren",
+          "description": "Droge gietijzeren pan of koekenpan op hoog vuur. Tomaten (snijkant omlaag), ui en knoflook (ongepeld) erin — geen olie. 8-12 minuten tot de onderkant donkere, geblakerde plekken krijgt. Omdraaien. Andere kant ook donker laten worden. Knoflook pellen."
+        },
+        {
+          "number": 3,
+          "section": "Soep trekken en blenden",
+          "description": "Olie in een grote pan op middelhoog vuur. Tomatenpuree 1 minuut meebakken. Geroosterde tomaten, ui, knoflook, geweekte chili's en 100ml van het chiliweekvocht toevoegen. Kippenbouillon erbij. 25 minuten zacht koken op laag vuur. Volledig glad blenden — 2 minuten. Door een fijne zeef wrijven. Op smaak: zout, zwarte peper, eventueel komijn, en paar druppels limoensap allerlaatst."
+        },
+        {
+          "number": 4,
+          "section": "Tortillaslierten frituren",
+          "description": "Tortilla's in zeer dunne slierten van 3-4mm snijden. Olie verhitten tot 175-180°C. Slierten in kleine batches 30-45 seconden frituren tot goudbruin. Op keukenpapier. Direct zouten."
+        },
+        {
+          "number": 5,
+          "section": "Opbouwen en serveren",
+          "description": "Warme diepe kommen. Hete soep inschenken. Avocadoblokjes, queso fresco verkruimeld, dot zure room, korianderblaadjes rangschikken. Allerlaatst: krokante tortillaslierten erop. Limoenpartje op de rand. Direct serveren."
+        }
+      ],
+      "tips": [
+        "Pasilla en guajillo zijn essentieel: pasilla geeft donker fruit, rozijn en rook. Guajillo geeft mild fruit, kleur en warmte. Niet vervangen door poeder.",
+        "Tomaten donker roosteren is de Mexicaanse techniek: dit is het Mexicaanse mirepoix. Bijna geen Mexicaans gerecht ontsnapt aan dit principe.",
+        "Zeef voor de velouté-textuur: de smaak blijft Mexicaans, het mondgevoel wordt Frans strak. Niet overslaan.",
+        "Chiliweekvocht deels gebruiken: de helft geeft diepte. Te veel kan licht bitter zijn.",
+        "Limoensap is afwerking, geen basis: paar druppels in de soep en tableside. De soep moet diep en rond blijven — niet zuur.",
+        "Tortillaslierten pas op het allerlaatst: ze worden in 30 seconden slap in hete soep. Altijd à la minute opleggen.",
+        "Garnalen zijn optioneel: ze maken het luxer. Maar zonder garnalen is de soep eigenlijk puurder en klassieker."
+      ],
+      "tips_full": [
+        "Pasilla en guajillo zijn essentieel: pasilla geeft donker fruit, rozijn en rook. Guajillo geeft mild fruit, kleur en warmte. Niet vervangen door poeder.",
+        "Tomaten donker roosteren is de Mexicaanse techniek: dit is het Mexicaanse mirepoix. Bijna geen Mexicaans gerecht ontsnapt aan dit principe.",
+        "Zeef voor de velouté-textuur: de smaak blijft Mexicaans, het mondgevoel wordt Frans strak. Niet overslaan.",
+        "Chiliweekvocht deels gebruiken: de helft geeft diepte. Te veel kan licht bitter zijn.",
+        "Limoensap is afwerking, geen basis: paar druppels in de soep en tableside. De soep moet diep en rond blijven — niet zuur.",
+        "Tortillaslierten pas op het allerlaatst: ze worden in 30 seconden slap in hete soep. Altijd à la minute opleggen.",
+        "Garnalen zijn optioneel: ze maken het luxer. Maar zonder garnalen is de soep eigenlijk puurder en klassieker."
+      ],
+      "opmaak_presentatie": "Warme diepe kommen. De soep diepdonkerrood — bijna bordeauxrood van de geroosterde chili's en tomaten. Avocadoblokjes als groene eilanden. Witte queso fresco-kruimels. Dot zure room. Koriander als groen. Dan allerlaatst: de goudbruine krokante tortillaslierten als kroon. Limoen op de rand.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, zilt, citrus, witte perzik, levendig, Atlantisch",
+          "omschrijving": "Fris, rond en maritiem — werkt met alle elementen van dit gerecht.",
+          "waarom_werkt_dit": "De frisheid snijdt door de rijke tomatenbouillon. Het ronde fruit verzacht de chili-warmte. De citrusnoten sluiten aan op de limoen. Met garnalen erbij wordt hij nog logischer."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Extra Brut AOC — Champagne, Frankrijk",
+          "druif": "Chardonnay, Pinot Noir en/of Pinot Meunier",
+          "smaakprofiel": "Droog, fijne mousse, citrus, lichte brioche, mineraal",
+          "omschrijving": "De mousse maakt zure room, kaas en tortilla lichter.",
+          "waarom_werkt_dit": "De mousse ruimt de romige queso fresco en zure room op. De mineraliteit geeft spanning naast de donkere chilibouillon."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Côtes du Rhône rouge AOC — Rhône, Frankrijk (Grenache-dominant, licht gekoeld op 14°C)",
+          "druif": "Grenache",
+          "smaakprofiel": "Droog, warm, rijp rood fruit, kruidig, zachte tannines, toegankelijk",
+          "omschrijving": "Fruitig en rookvriendelijk — als je liever rood drinkt.",
+          "waarom_werkt_dit": "Grenache's kruidigheid spiegelt de pasilla-rooksmaak. De zachte tannines botsen niet met de chili-hitte. Licht gekoeld serveren."
+        }
+      ],
+      "wine": {
+        "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
+        "druif": "Albariño",
+        "toelichting": "De frisheid snijdt door de rijke tomatenbouillon. Het ronde fruit verzacht de chili-warmte. De citrusnoten sluiten aan op de limoen. Fris, rond en maritiem — werkt met alle elementen van dit gerecht.",
+        "alternatief": "Champagne Extra Brut AOC of Côtes du Rhône rouge AOC (Grenache, licht gekoeld)"
+      },
+      "metadata": {
+        "bereidingstijd": "1 uur",
+        "porties": "4 voorgerechten",
+        "type_gerecht": "Soep / voorgerecht",
+        "niveau": "Makkelijk–gemiddeld"
+      },
+      "source_recipe_number": 134,
+      "full_title_docx": "134. SOPA DE TORTILLA MET PASILLA, GUAJILLO EN QUESO FRESCO — MÁXIMO BISTROT-STIJL"
+    },
+    {
+      "title": "Palmhart-Fettuccine met Beurre Noisette, Salie, Parmigiano en Popcornpoeder — D.O.M.-Stijl",
+      "slug": "palmhart-fettuccine-beurre-noisette-salie-parmigiano-popcornpoeder-dom",
+      "location": "São Paulo, Brazilië",
+      "time": "40 min",
+      "servings": "4 kleine voorgerechten",
+      "difficulty": "Makkelijk–gemiddeld",
+      "keuken": "Overig",
+      "categorie": "groente-salade",
+      "image": "/assets/images/palmhart-fettuccine-beurre-noisette-salie-parmigiano-popcornpoeder-dom.jpg",
+      "short_description": "Alex Atala's D.O.M. São Paulo: palmhart in dunne linten als pasta in beurre noisette met salie, Parmigiano en het geniale popcornpoeder — geen koolhydraten, vol mondgevoel, pure maïssmaak.",
+      "description": "D.O.M. in São Paulo — Chef Alex Atala, twee Michelinsterren, jarenlang een vaste waarde in de internationale topgastronomie. Atala heeft sinds 1999 een missie: het Amazonewoud op het bord brengen. Tucupi, jambu, cupuaçu, Amazone-rivierkreeften — en mieren. Hij is de chef die mieren in fine dining introduceerde. Zijn meest toegankelijke signature: palmhart in dunne linten gesneden, behandeld als pasta, geserveerd in beurre noisette met salie en het geniale popcornpoeder. Geen koolhydraten, vol mondgevoel, pure maïssmaak.",
+      "full_intro": "D.O.M. in São Paulo — Chef Alex Atala, twee Michelinsterren, jarenlang een vaste waarde in de internationale topgastronomie. Atala heeft sinds 1999 een missie: het Amazonewoud op het bord brengen. Tucupi, jambu, cupuaçu, Amazone-rivierkreeften — en mieren. Hij is de chef die mieren in fine dining introduceerde. Zijn meest toegankelijke signature: palmhart in dunne linten gesneden, behandeld als pasta, geserveerd in beurre noisette met salie en het geniale popcornpoeder. Geen koolhydraten, vol mondgevoel, pure maïssmaak.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het popcornpoeder (van tevoren — houdt een week in luchtdichte doos)",
+          "ingredients": [
+            {
+              "name": "naturel popcorn (ongezouten of licht gezouten — geen kaas/boter/caramelvariant) — Optie A",
+              "amount": "50g"
+            },
+            {
+              "name": "popcornmaïs + 1 el geklaarde boter of neutrale olie + snuf zout — Optie B (zelf poppen)",
+              "amount": "50g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de palmhart fettuccine",
+          "ingredients": [
+            {
+              "name": "grote blikken palmhart (totaal 400-500g uitgelekt)",
+              "amount": "2"
+            },
+            {
+              "name": "ongezouten roomboter",
+              "amount": "60g"
+            },
+            {
+              "name": "verse salieblaadjes",
+              "amount": "8-10"
+            },
+            {
+              "name": "kleine teen knoflook, gekneusd",
+              "amount": "1"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijne citroenrasp",
+              "amount": "½ tl"
+            },
+            {
+              "name": "Parmigiano Reggiano, vers geraspt",
+              "amount": "30g"
+            },
+            {
+              "name": "vlokkenzout + zwarte peper (voorzichtig zouten — blik is al zoutig)",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            {
+              "name": "geroosterde paranoten (bij reformwinkel; alternatief: cashewnoten)",
+              "amount": "1 el"
+            },
+            {
+              "name": "platte peterselie, zeer fijn gesneden",
+              "amount": "1 el"
+            },
+            {
+              "name": "druppels goede extra vergine olijfolie",
+              "amount": ""
+            },
+            {
+              "name": "extra Parmigiano om te raspen",
+              "amount": ""
+            },
+            {
+              "name": "grovere popcornkruim voor extra textuur (optioneel)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor het popcornpoeder (van tevoren — houdt een week in luchtdichte doos)",
+          "ingredients": [
+            "Optie A — kant-en-klaar: 50g naturel popcorn (ongezouten of licht gezouten — geen kaas/boter/caramel variant; bij AH of elke supermarkt)",
+            "Optie B — zelf poppen: 50g popcornmaïs + 1 el geklaarde boter of neutrale olie + snuf zout"
+          ]
+        },
+        {
+          "group_name": "Voor de palmhart fettuccine",
+          "ingredients": [
+            "2 grote blikken palmhart (totaal 400-500g uitgelekt — bij supermarkt of Latijns-Amerikaanse toko)",
+            "60g ongezouten roomboter",
+            "8-10 verse salieblaadjes",
+            "1 kleine teen knoflook, gekneusd",
+            "1 tl vers citroensap",
+            "½ tl fijne citroenrasp",
+            "30g Parmigiano Reggiano, vers geraspt",
+            "Vlokkenzout + zwarte peper (voorzichtig zouten — blik is al zoutig)"
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            "1 el geroosterde paranoten (bij reformwinkel of grotere supermarkt — authentiek Amazonisch; alternatief: cashewnoten)",
+            "1 el platte peterselie, zeer fijn gesneden",
+            "Paar druppels goede extra vergine olijfolie",
+            "Extra Parmigiano om te raspen",
+            "Eventueel: wat grovere popcornkruim voor extra textuur naast het fijne poeder"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Popcornpoeder maken",
+          "description": "Optie A (kant-en-klaar): naturel popcorn volledig laten afkoelen. Direct malen. Optie B (zelf poppen): maïskernels met olie en zout in een pan met deksel op middelhoog vuur. Deksel erop. Schudden zodra het eerste kernel popt. 2-3 minuten tot het poppen stopt. Volledig laten afkoelen. Malen in een spice grinder, koffiemolen of krachtige blender tot een fijn, zijdezacht poeder. Door een grove zeef. Snuf zout. Bewaar in een luchtdichte doos — houdt een week."
+        },
+        {
+          "number": 2,
+          "action": "Palmhart voorbereiden",
+          "description": "Palmhart goed afspoelen met koud water. Grondig droogdeppen met keukenpapier. Elk stuk in de lengte in dunne linten van 2-3mm snijden. Linten nog 10 minuten op keukenpapier leggen om extra vocht kwijt te raken."
+        },
+        {
+          "number": 3,
+          "action": "Beurre noisette met salie",
+          "description": "Roomboter in een brede pan op middelhoog vuur. Salie en knoflook toevoegen. Rustig laten schuimen en langzaam kleuren — 5-7 minuten. Krokante salieblaadjes apart leggen voor de garnering. Knoflook eruit halen."
+        },
+        {
+          "number": 4,
+          "action": "Palmhart omhullen",
+          "description": "Pan terug op laag vuur. Palmhart linten voorzichtig in de bruine boter leggen. 1-2 minuten verwarmen — niet roerbakken, alleen omhullen. Voorzichtig omscheppen met een tang of lepel. Vuur uit. Citroensap en citroenrasp toevoegen. Helft van de Parmigiano erdoor. Zwarte peper. Proef eerst voor zouten — blik kan al zoutig zijn."
+        },
+        {
+          "number": 5,
+          "action": "Opbouwen en serveren",
+          "description": "Warme borden. Palmhart linten voorzichtig tot kleine nestjes draaien. Lepel bruine salieboter erover. Royaal popcornpoeder strooien — 2-3 eetlepels per bord (dit is structuur, geen decoratie). Eventueel wat grovere kruim. Extra Parmigiano raspen. Paranoten grof gehakt. Peterselie. Krokante salieblaadjes. Druppel olijfolie. Direct serveren."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Popcornpoeder maken",
+          "description": "Optie A (kant-en-klaar): naturel popcorn volledig laten afkoelen. Direct malen. Optie B (zelf poppen): maïskernels met olie en zout in een pan met deksel op middelhoog vuur. Deksel erop. Schudden zodra het eerste kernel popt. 2-3 minuten tot het poppen stopt. Volledig laten afkoelen. Malen in een spice grinder, koffiemolen of krachtige blender tot een fijn, zijdezacht poeder. Door een grove zeef. Snuf zout. Bewaar in een luchtdichte doos — houdt een week."
+        },
+        {
+          "number": 2,
+          "section": "Palmhart voorbereiden",
+          "description": "Palmhart goed afspoelen met koud water. Grondig droogdeppen met keukenpapier. Elk stuk in de lengte in dunne linten van 2-3mm snijden. Linten nog 10 minuten op keukenpapier leggen om extra vocht kwijt te raken."
+        },
+        {
+          "number": 3,
+          "section": "Beurre noisette met salie",
+          "description": "Roomboter in een brede pan op middelhoog vuur. Salie en knoflook toevoegen. Rustig laten schuimen en langzaam kleuren — 5-7 minuten. Krokante salieblaadjes apart leggen voor de garnering. Knoflook eruit halen."
+        },
+        {
+          "number": 4,
+          "section": "Palmhart omhullen",
+          "description": "Pan terug op laag vuur. Palmhart linten voorzichtig in de bruine boter leggen. 1-2 minuten verwarmen — niet roerbakken, alleen omhullen. Voorzichtig omscheppen met een tang of lepel. Vuur uit. Citroensap en citroenrasp toevoegen. Helft van de Parmigiano erdoor. Zwarte peper. Proef eerst voor zouten — blik kan al zoutig zijn."
+        },
+        {
+          "number": 5,
+          "section": "Opbouwen en serveren",
+          "description": "Warme borden. Palmhart linten voorzichtig tot kleine nestjes draaien. Lepel bruine salieboter erover. Royaal popcornpoeder strooien — 2-3 eetlepels per bord (dit is structuur, geen decoratie). Eventueel wat grovere kruim. Extra Parmigiano raspen. Paranoten grof gehakt. Peterselie. Krokante salieblaadjes. Druppel olijfolie. Direct serveren."
+        }
+      ],
+      "tips": [
+        "Kant-en-klare naturel popcorn werkt prima: geen noodzaak om zelf te poppen. Koop gewone naturel popcorn. Geen kaas-, boter- of caramelvariant.",
+        "Palmhart goed drogen: twee keer droogdeppen. Te nat verdunt de beurre noisette.",
+        "2-3mm voor blik, niet dunner: blik is zachter dan verse palmhart. Dunner dan 2mm breekt het te snel.",
+        "Voorzichtig omscheppen — niet roerbakken: een tang of grote lepel, zachte beweging.",
+        "Beurre noisette vraagt aandacht: van goudbruin naar verbrand gaat in 30 seconden.",
+        "Proef voor zouten: palmhart uit blik heeft al zout.",
+        "Popcornpoeder royaal maar niet stoffig: 2-3 eetlepels per bord.",
+        "Paranoten zijn authentiek Amazonisch: bij reformwinkel of grotere supermarkt."
+      ],
+      "tips_full": [
+        "Kant-en-klare naturel popcorn werkt prima: geen noodzaak om zelf te poppen. Koop gewone naturel popcorn. Geen kaas-, boter- of caramelvariant.",
+        "Palmhart goed drogen: twee keer droogdeppen. Te nat verdunt de beurre noisette.",
+        "2-3mm voor blik, niet dunner: blik is zachter dan verse palmhart. Dunner dan 2mm breekt het te snel.",
+        "Voorzichtig omscheppen — niet roerbakken: een tang of grote lepel, zachte beweging.",
+        "Beurre noisette vraagt aandacht: van goudbruin naar verbrand gaat in 30 seconden.",
+        "Proef voor zouten: palmhart uit blik heeft al zout.",
+        "Popcornpoeder royaal maar niet stoffig: 2-3 eetlepels per bord.",
+        "Paranoten zijn authentiek Amazonisch: bij reformwinkel of grotere supermarkt."
+      ],
+      "opmaak_presentatie": "Warme borden. De palmhart linten goudgeel en glanzend van de beurre noisette — als echte pasta maar lichter. Royaal fluweelzacht popcornpoeder als beige-goudkleurige laag. Grofgehakte paranoten als crunch. Knapperige salieblaadjes. Vers geraspte Parmigiano. Druppel olijfolie. Een gerecht dat eruitziet als pasta maar geen pasta is.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Mâcon-Villages AOC of Saint-Véran AOC — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, fris, groene appel, citrus, subtiele mineraliteit, lichte botertoon",
+          "omschrijving": "Ongehout of licht gehout Chardonnay — klassieke match bij beurre noisette en popcorn.",
+          "waarom_werkt_dit": "Chardonnay en beurre noisette zijn een eeuwenoud paar. De subtiele botertoon spiegelt de bruine boter. Het lichte maïsaroma van Chardonnay sluit aan op het popcornpoeder."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Verdicchio dei Castelli di Jesi Classico Superiore DOC — Le Marche, Italië",
+          "druif": "Verdicchio",
+          "smaakprofiel": "Droog, citrus, groene appel, amandel, licht bitter, zilt-mineraal",
+          "omschrijving": "Strakker en hartiger dan Chardonnay — de amandeltoon maakt het bijzonder.",
+          "waarom_werkt_dit": "De amandelachtige bitterheid past bij de salie, Parmigiano en het popcornpoeder. De frisse zuren houden de rijke beurre noisette in balans."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Extra Brut AOC — Champagne, Frankrijk",
+          "druif": "Chardonnay, Pinot Noir en/of Pinot Meunier",
+          "smaakprofiel": "Droog, citrus, groene appel, brioche, fijne mousse, mineraal",
+          "omschrijving": "De mousse + brioche + popcorn = een feestelijke logische combinatie.",
+          "waarom_werkt_dit": "De mousse ruimt de bruine boter en Parmigiano op. De briochetoon sluit prachtig aan op het popcornpoeder en de beurre noisette."
+        }
+      ],
+      "wine": {
+        "naam": "Mâcon-Villages AOC of Saint-Véran AOC — Bourgogne, Frankrijk",
+        "druif": "Chardonnay",
+        "toelichting": "Chardonnay en beurre noisette zijn een eeuwenoud paar. De subtiele botertoon spiegelt de bruine boter. Het lichte maïsaroma van Chardonnay sluit aan op het popcornpoeder. Ongehout of licht gehout — klassieke match bij beurre noisette en popcorn.",
+        "alternatief": "Verdicchio dei Castelli di Jesi Classico Superiore DOC of Champagne Extra Brut AOC"
+      },
+      "metadata": {
+        "bereidingstijd": "40 min",
+        "porties": "4 kleine voorgerechten",
+        "type_gerecht": "Voorgerecht / groentepasta",
+        "niveau": "Makkelijk–gemiddeld"
+      },
+      "source_recipe_number": 135,
+      "full_title_docx": "135. PALMHART-FETTUCCINE MET BEURRE NOISETTE, SALIE, PARMIGIANO EN POPCORNPOEDER — D.O.M.-STIJL"
+    },
+    {
+      "title": "Geroosterde Prei met Mosselvinaigrette, Lavasolie en Krokante Aardappelkaantjes",
+      "slug": "geroosterde-prei-mosselvinaigrette-lavasolie-krokante-aardappelkaantjes",
+      "location": "Nederland",
+      "time": "55 min",
+      "servings": "4 voorgerechten",
+      "difficulty": "Gemiddeld",
+      "keuken": "Nederlands",
+      "categorie": "groente-salade",
+      "image": "/assets/images/geroosterde-prei-mosselvinaigrette-lavasolie-krokante-aardappelkaantjes.jpg",
+      "short_description": "Een verfijnd Noordzee-groentegerecht: prei zwartgeroosterd tot het vel verkoolt en het binnenste fluweelzacht wordt, warme mosselvinaigrette van ingekookt mosselvocht, felgroene lavasolie en krokante aardappelkaantjes.",
+      "description": "Een verfijnd Noordzee-groentegerecht waarin zacht geroosterde prei de hoofdrol krijgt: rokerig, zilt, groen, fris en diep hartig. De prei zwartgeroosterd tot het vel verkoolt en het binnenste fluweelzacht en intens zoet wordt. Een warme mosselvinaigrette van ingekookt mosselvocht, Dijonmosterd en sherryazijn. Lavasolie — het meest Nederlandse kruid dat bestaat, naar Maggi ruikend en smakend naar de tuin — als felgroene finishing. Krokante aardappelkaantjes als eerlijk, crunchig element. Groente als hoofdgerecht.",
+      "full_intro": "Een verfijnd Noordzee-groentegerecht waarin zacht geroosterde prei de hoofdrol krijgt: rokerig, zilt, groen, fris en diep hartig. De prei zwartgeroosterd tot het vel verkoolt en het binnenste fluweelzacht en intens zoet wordt. Een warme mosselvinaigrette van ingekookt mosselvocht, Dijonmosterd en sherryazijn. Lavasolie — het meest Nederlandse kruid dat bestaat, naar Maggi ruikend en smakend naar de tuin — als felgroene finishing. Krokante aardappelkaantjes als eerlijk, crunchig element. Groente als hoofdgerecht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de geroosterde prei",
+          "ingredients": [
+            {
+              "name": "middelgrote preien (zo gelijkmatig mogelijk van dikte — witte en lichtgroene deel)",
+              "amount": "4"
+            },
+            {
+              "name": "druppel olijfolie",
+              "amount": ""
+            },
+            {
+              "name": "roomboter",
+              "amount": "20g"
+            },
+            {
+              "name": "zout + witte peper",
+              "amount": ""
+            },
+            {
+              "name": "citroensap (allerlaatst)",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de mosselvinaigrette",
+          "ingredients": [
+            {
+              "name": "mosselen (vers, schoongemaakt — Zeeuwse)",
+              "amount": "700g"
+            },
+            {
+              "name": "sjalot, fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "80ml"
+            },
+            {
+              "name": "water",
+              "amount": "50ml"
+            },
+            {
+              "name": "laurierblaadje + 2 peterselie- of selderijstelen",
+              "amount": "1"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sherryazijn of wittewijnazijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "goede olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de lavasolie",
+          "ingredients": [
+            {
+              "name": "verse lavas / lovage (bij groenteboer, markt, toko of online)",
+              "amount": "15g"
+            },
+            {
+              "name": "platte peterselie (voor groene kleur en mildheid)",
+              "amount": "10g"
+            },
+            {
+              "name": "druivenpitolie of neutrale olie",
+              "amount": "70ml"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de krokante aardappelkaantjes",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappelen (bijv. Charlotte of Nicola)",
+              "amount": "2"
+            },
+            {
+              "name": "olijfolie + roomboter",
+              "amount": "1 el + 20g"
+            },
+            {
+              "name": "zout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "enkele mosselen (bewaard uit de schelp)",
+              "amount": ""
+            },
+            {
+              "name": "jonge lavasblaadjes of kervel",
+              "amount": ""
+            },
+            {
+              "name": "fijne citroenrasp",
+              "amount": ""
+            },
+            {
+              "name": "ringetjes bieslook of lente-ui (optioneel)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de geroosterde prei",
+          "ingredients": [
+            "4 middelgrote preien (zo gelijkmatig mogelijk van dikte — witte en lichtgroene deel)",
+            "Druppel olijfolie",
+            "20g roomboter",
+            "Zout + witte peper",
+            "Paar druppels citroensap (allerlaatst)"
+          ]
+        },
+        {
+          "group_name": "Voor de mosselvinaigrette",
+          "ingredients": [
+            "700g mosselen (vers, schoongemaakt — Zeeuwse)",
+            "1 sjalot, fijn gesnipperd",
+            "80ml droge witte wijn",
+            "50ml water",
+            "1 laurierblaadje + 2 peterselie- of selderijstelen",
+            "1 tl Dijonmosterd",
+            "1 el sherryazijn of wittewijnazijn",
+            "2 el goede olijfolie",
+            "1 tl citroensap",
+            "Witte peper (zout pas na proeven — mosselvocht is al zilt)"
+          ]
+        },
+        {
+          "group_name": "Voor de lavasolie",
+          "ingredients": [
+            "15g verse lavas (lovage — bij groenteboer, markt, toko of online)",
+            "10g platte peterselie (voor groene kleur en mildheid)",
+            "70ml druivenpitolie of neutrale olie",
+            "Snuf zout"
+          ]
+        },
+        {
+          "group_name": "Voor de krokante aardappelkaantjes",
+          "ingredients": [
+            "2 vastkokende aardappelen (bijv. Charlotte of Nicola)",
+            "1 el olijfolie + 20g roomboter",
+            "Zout"
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            "Enkele mosselen (bewaard uit de schelp)",
+            "Jonge lavasblaadjes of kervel",
+            "Fijne citroenrasp",
+            "Eventueel: paar ringetjes bieslook of lente-ui"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Lavasolie",
+          "description": "Lavas en peterselie samen 30 seconden blancheren in kokend water. Direct in ijskoud water. Goed uitknijpen. Blenden met olie en zout op hoogste stand 1 minuut. Door koffiefilter of kaasdoek laten uitlekken — niet uitknijpen. Heldere, felgroene olie."
+        },
+        {
+          "number": 2,
+          "action": "Krokante aardappelkaantjes",
+          "description": "Aardappelen schillen. In kleine blokjes van 4-5mm snijden. Grondig droogdeppen. Olijfolie en boter in een koekenpan op middelhoog vuur. Aardappelblokjes erin in een laag. Langzaam goudbruin en krokant bakken — regelmatig omscheppen, 12-15 minuten. Op keukenpapier. Direct zouten. Bewaar droog."
+        },
+        {
+          "number": 3,
+          "action": "Prei roosteren",
+          "description": "Methode A (spectaculair): oven op 250°C hetelucht of gietijzeren pan op hoogste vuur. Preien heel en ongepeld — geen olie. 25-35 minuten tot het buitenste vel volledig zwart en verkoold is. Prei moet zacht aanvoelen. Laten afkoelen. Verbrande buitenlagen verwijderen. In stukken van 6-8cm snijden. Snijkant 30 seconden aanbranden in hete pan met druppel olie. Methode B (toegankelijker): oven op 210°C hetelucht. Preien in de lengte halveren. In ovenschaal met olijfolie, boter, zout en peper. 25-35 minuten tot ze zacht zijn en de randen donker kleuren. Paar druppels citroensap vlak voor serveren."
+        },
+        {
+          "number": 4,
+          "action": "Mosselvinaigrette",
+          "description": "Sjalot 2 minuten fruiten in druppel olie. Witte wijn, water, laurier en peterseliestelen erbij. Aan de kook. Mosselen erin. Deksel erop. 3-4 minuten al schuddend tot alle mosselen open staan. Mosselen uit de schelpen halen — bewaar enkele mooie exemplaren. Kookvocht door een fijne zeef met kaasdoek. Inkoken tot ca. 120ml geconcentreerde, zilte essentie. Mosterd, azijn en citroensap mengen. Gereduceerd mosselvocht erbij. Olijfolie al kloppend erdoor. Mosselvlees toevoegen. Witte peper. Proef — zout is meestal niet nodig."
+        },
+        {
+          "number": 5,
+          "action": "Opbouwen en serveren",
+          "description": "Vlak voor serveren: mosselen kort opwarmen in de vinaigrette op laag vuur — niet koken. Warme borden. Mosselvinaigrette royaal maar gecontroleerd rondom de prei lepelen. Geroosterde prei — 2 stukken per persoon — op de vinaigrette. Lavasolie in kleine stippen of dunne lijnen. Krokante aardappelkaantjes — allerlaatst, zodat ze krokant blijven. Jonge lavasblaadjes of kervel. Citroenrasp. Direct serveren."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Lavasolie",
+          "description": "Lavas en peterselie samen 30 seconden blancheren in kokend water. Direct in ijskoud water. Goed uitknijpen. Blenden met olie en zout op hoogste stand 1 minuut. Door koffiefilter of kaasdoek laten uitlekken — niet uitknijpen. Heldere, felgroene olie."
+        },
+        {
+          "number": 2,
+          "section": "Krokante aardappelkaantjes",
+          "description": "Aardappelen schillen. In kleine blokjes van 4-5mm snijden. Grondig droogdeppen. Olijfolie en boter in een koekenpan op middelhoog vuur. Aardappelblokjes erin in een laag. Langzaam goudbruin en krokant bakken — regelmatig omscheppen, 12-15 minuten. Op keukenpapier. Direct zouten. Bewaar droog."
+        },
+        {
+          "number": 3,
+          "section": "Prei roosteren",
+          "description": "Methode A (spectaculair): oven op 250°C hetelucht of gietijzeren pan op hoogste vuur. Preien heel en ongepeld — geen olie. 25-35 minuten tot het buitenste vel volledig zwart en verkoold is. Prei moet zacht aanvoelen. Laten afkoelen. Verbrande buitenlagen verwijderen. In stukken van 6-8cm snijden. Snijkant 30 seconden aanbranden in hete pan met druppel olie. Methode B (toegankelijker): oven op 210°C hetelucht. Preien in de lengte halveren. In ovenschaal met olijfolie, boter, zout en peper. 25-35 minuten tot ze zacht zijn en de randen donker kleuren. Paar druppels citroensap vlak voor serveren."
+        },
+        {
+          "number": 4,
+          "section": "Mosselvinaigrette",
+          "description": "Sjalot 2 minuten fruiten in druppel olie. Witte wijn, water, laurier en peterseliestelen erbij. Aan de kook. Mosselen erin. Deksel erop. 3-4 minuten al schuddend tot alle mosselen open staan. Mosselen uit de schelpen halen — bewaar enkele mooie exemplaren. Kookvocht door een fijne zeef met kaasdoek. Inkoken tot ca. 120ml geconcentreerde, zilte essentie. Mosterd, azijn en citroensap mengen. Gereduceerd mosselvocht erbij. Olijfolie al kloppend erdoor. Mosselvlees toevoegen. Witte peper. Proef — zout is meestal niet nodig."
+        },
+        {
+          "number": 5,
+          "section": "Opbouwen en serveren",
+          "description": "Vlak voor serveren: mosselen kort opwarmen in de vinaigrette op laag vuur — niet koken. Warme borden. Mosselvinaigrette royaal maar gecontroleerd rondom de prei lepelen. Geroosterde prei — 2 stukken per persoon — op de vinaigrette. Lavasolie in kleine stippen of dunne lijnen. Krokante aardappelkaantjes — allerlaatst, zodat ze krokant blijven. Jonge lavasblaadjes of kervel. Citroenrasp. Direct serveren."
+        }
+      ],
+      "tips": [
+        "Prei moet echt zacht zijn: halfgare prei is vezelig en scherp. Snijden en de snijkant controleren is altijd het beste moment.",
+        "Methode A voor de wow-factor: zwart verbrande prei klinkt eng maar geeft het mooiste resultaat. Het verbrande vel beschermt en stoomt het binnenste gaar. Binnenkant wordt fluweelzacht en intens zoet.",
+        "Lavas in druppels: te veel lavasolie maakt het gerecht selderijachtig en dominant.",
+        "Peterselie in de lavasolie: tempert de krachtige lavas en geeft een mooiere, felgroenere kleur.",
+        "Mosselvocht grondig zeven: een zandkorrel verpest de vinaigrette.",
+        "Mosselen zijn garnituur, niet hoofdrol: de prei is het gerecht.",
+        "Aardappelkaantjes klein snijden: 4-5mm geeft meer crunch. Langzaam bakken op middelhoog vuur.",
+        "Voorbereiding: lavasolie, mosselvinaigrette en aardappelkaantjes kunnen vooraf. Prei roosteren vlak voor serveren."
+      ],
+      "tips_full": [
+        "Prei moet echt zacht zijn: halfgare prei is vezelig en scherp. Snijden en de snijkant controleren is altijd het beste moment.",
+        "Methode A voor de wow-factor: zwart verbrande prei klinkt eng maar geeft het mooiste resultaat. Het verbrande vel beschermt en stoomt het binnenste gaar. Binnenkant wordt fluweelzacht en intens zoet.",
+        "Lavas in druppels: te veel lavasolie maakt het gerecht selderijachtig en dominant.",
+        "Peterselie in de lavasolie: tempert de krachtige lavas en geeft een mooiere, felgroenere kleur.",
+        "Mosselvocht grondig zeven: een zandkorrel verpest de vinaigrette.",
+        "Mosselen zijn garnituur, niet hoofdrol: de prei is het gerecht.",
+        "Aardappelkaantjes klein snijden: 4-5mm geeft meer crunch. Langzaam bakken op middelhoog vuur.",
+        "Voorbereiding: lavasolie, mosselvinaigrette en aardappelkaantjes kunnen vooraf. Prei roosteren vlak voor serveren."
+      ],
+      "opmaak_presentatie": "Warme borden. De mosselvinaigrette als goudgele, glanzende spiegel met zichtbare mosselstukjes. Geroosterde preistukken zacht en goudgeel. Felgroene lavasolie als stippen. Krokante goudbruine aardappelblokjes erop. Jonge lavasblaadjes. Citroenrasp. Prei aan de kust.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Muscadet Sèvre-et-Maine sur Lie AOC — Loire, Frankrijk",
+          "druif": "Melon de Bourgogne",
+          "smaakprofiel": "Droog, licht ziltig, citrus, licht gistig, mineraal, fris",
+          "omschrijving": "De meest maritieme witte wijn van Frankrijk — ziltig, bescheiden en perfect bij mosselen.",
+          "waarom_werkt_dit": "De sur lie-rijping geeft een vleugje gistige diepte die past bij de mosselen. De lichte ziltigheid spiegelt het ingekookte mosselvocht. De mineraliteit sluit aan op de lavasolie."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chablis Village AOC of Chablis Premier Cru AOC — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, krijtig, citrus, groene appel, lichte spanning, subtiele zilte ondertoon",
+          "omschrijving": "Maakt het gerecht klassieker en luxer dan Muscadet.",
+          "waarom_werkt_dit": "De krijtige mineraliteit past bij mosselen en lavasolie. Chardonnay heeft genoeg body voor geroosterde prei en de aardappelkaantjes. Geen zwaar gehout exemplaar."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Manzanilla DO — Sanlúcar de Barrameda, Spanje (ijskoud)",
+          "druif": "Palomino",
+          "smaakprofiel": "Kurkdroog, zilt, amandelachtig, flor-karakter, hartig",
+          "omschrijving": "De spannendste pairing — versterkt het zeegevoel maximaal.",
+          "waarom_werkt_dit": "Manzanilla versterkt het zeekarakter van de mosselvinaigrette. Het amandelachtige accent contrasteert mooi met de zoete geroosterde prei."
+        }
+      ],
+      "wine": {
+        "naam": "Muscadet Sèvre-et-Maine sur Lie AOC — Loire, Frankrijk",
+        "druif": "Melon de Bourgogne",
+        "toelichting": "De sur lie-rijping geeft een vleugje gistige diepte die past bij de mosselen. De lichte ziltigheid spiegelt het ingekookte mosselvocht. De mineraliteit sluit aan op de lavasolie. De meest maritieme witte wijn van Frankrijk.",
+        "alternatief": "Chablis Village AOC of Manzanilla DO (ijskoud)"
+      },
+      "metadata": {
+        "bereidingstijd": "55 min",
+        "porties": "4 voorgerechten",
+        "type_gerecht": "Voorgerecht / groente / zee",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 136,
+      "full_title_docx": "136. GEROOSTERDE PREI MET MOSSELVINAIGRETTE, LAVASOLIE EN KROKANTE AARDAPPELKAANTJES"
+    },
+    {
+      "title": "Rauwe Coquille met Mandarijn, Venkel, Groene Chili en Gezouten Amandel",
+      "slug": "rauwe-coquille-mandarijn-venkel-groene-chili-gezouten-amandel",
+      "location": "Mediterraan",
+      "time": "30 min",
+      "servings": "4 kleine voorgerechten",
+      "difficulty": "Makkelijk–gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/rauwe-coquille-mandarijn-venkel-groene-chili-gezouten-amandel.jpg",
+      "short_description": "Een helder crudo van flinterdun gesneden rauwe coquille met mandarijn, krokante venkel, groene chili en gezouten amandel — zoet, zilt, fris, licht bitter en krokant in één compositie.",
+      "description": "Een helder en verfijnd koud crudo van flinterdun gesneden coquille. Zoet, zilt, fris, licht bitter, subtiel pittig en krokant — de vier contrasten die dit gerecht compleet maken: mandarijn voor zoetheid en parfum, venkel voor knapperig anijs, groene chili voor een dunne draad hitte, gezouten amandel voor crunch en zout. Dit kan goedkoop klinken maar strak gedoseerd is het Michelinwaardig. Een mediterraans-Japans aandoende compositie zonder ook maar een gram te zwaar te worden.",
+      "full_intro": "Een helder en verfijnd koud crudo van flinterdun gesneden coquille. Zoet, zilt, fris, licht bitter, subtiel pittig en krokant — de vier contrasten die dit gerecht compleet maken: mandarijn voor zoetheid en parfum, venkel voor knapperig anijs, groene chili voor een dunne draad hitte, gezouten amandel voor crunch en zout. Dit kan goedkoop klinken maar strak gedoseerd is het Michelinwaardig. Een mediterraans-Japans aandoende compositie zonder ook maar een gram te zwaar te worden.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de coquilles",
+          "ingredients": [
+            {
+              "name": "grote superverse coquilles (sashimi-kwaliteit — vraag expliciet bij de visboer; zonder koraal)",
+              "amount": "8"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": ""
+            },
+            {
+              "name": "goede extra vergine olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijne rasp van ½ mandarijn (direct op de coquille)",
+              "amount": ""
+            },
+            {
+              "name": "citroensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de mandarijn-vinaigrette",
+          "ingredients": [
+            {
+              "name": "sap van 2 mandarijnen (liefst vers geperst)",
+              "amount": ""
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rijstazijn of wittewijnazijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "goede extra vergine olijfolie",
+              "amount": "1½ el"
+            },
+            {
+              "name": "honing (alleen als de mandarijn zuurder is)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout + witte peper",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de venkel",
+          "ingredients": [
+            {
+              "name": "kleine venkelknol (zo wit en fris mogelijk — fronds bewaren)",
+              "amount": "½"
+            },
+            {
+              "name": "mandarijnsap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout + druppel olijfolie",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de groene chili-olie",
+          "ingredients": [
+            {
+              "name": "groene jalapeño of serrano (zonder zaadjes voor minder hitte)",
+              "amount": "½"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gezouten amandelen",
+          "ingredients": [
+            {
+              "name": "blanke amandelen of Marcona-amandelen (Marcona = luxe, ronder en vetter)",
+              "amount": "25g"
+            },
+            {
+              "name": "druppel olijfolie",
+              "amount": ""
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "venkelfronds (de fijne groene toppen)",
+              "amount": ""
+            },
+            {
+              "name": "kleine blaadjes kervel of basilicum",
+              "amount": ""
+            },
+            {
+              "name": "kleine mandarijnsupremes (vliesvrije partjes) — optioneel",
+              "amount": ""
+            },
+            {
+              "name": "luxe variant: fijn geraspte bottarga of foreleitjes",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de coquilles",
+          "ingredients": [
+            "8 grote superverse coquilles (sashimi-kwaliteit — vraag expliciet bij de visboer; zonder koraal)",
+            "Fijn zeezout",
+            "1 tl goede extra vergine olijfolie",
+            "Fijne rasp van ½ mandarijn (direct op de coquille)",
+            "Paar druppels citroensap"
+          ]
+        },
+        {
+          "group_name": "Voor de mandarijn-vinaigrette",
+          "ingredients": [
+            "Sap van 2 mandarijnen (fris-zoet — liefst vers geperst)",
+            "1 tl citroensap",
+            "½ tl rijstazijn of wittewijnazijn",
+            "1½ el goede extra vergine olijfolie",
+            "½ tl honing (alleen als de mandarijn zuurder is)",
+            "Snuf zout + witte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de venkel",
+          "ingredients": [
+            "½ kleine venkelknol (zo wit en fris mogelijk — fronds bewaren)",
+            "1 tl mandarijnsap",
+            "½ tl citroensap",
+            "Snuf zout + druppel olijfolie",
+            "IJskoud water (voor maximale crunch)"
+          ]
+        },
+        {
+          "group_name": "Voor de groene chili-olie",
+          "ingredients": [
+            "½ groene jalapeño of serrano (zonder zaadjes voor minder hitte)",
+            "1 tl limoensap",
+            "1 tl olijfolie",
+            "Snuf zout"
+          ]
+        },
+        {
+          "group_name": "Voor de gezouten amandelen",
+          "ingredients": [
+            "25g blanke amandelen of Marcona-amandelen (Marcona = luxe, ronder en vetter)",
+            "Druppel olijfolie",
+            "Snuf fleur de sel"
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            "Venkelfronds (de fijne groene toppen)",
+            "Kleine blaadjes kervel of basilicum",
+            "Eventueel: kleine mandarijnsupremes (vliesvrije partjes)",
+            "Luxe variant: klein beetje fijn geraspte bottarga of foreleitjes"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Amandelen roosteren",
+          "description": "Amandelen in een droge pan 3-4 minuten op middelhoog vuur roosteren tot lichtgoudbruin. Warm mengen met druppel olijfolie en fleur de sel. Laten afkoelen. Grof hakken — geen poeder, kleine krokante stukjes."
+        },
+        {
+          "number": 2,
+          "action": "Venkel voorbereiden",
+          "description": "Venkel op een mandoline in flinterdunne plakjes van 1-2mm snijden. Optie A (maximale crunch): direct in ijskoud water — 15 minuten. Droogdeppen vlak voor serveren. Optie B (meer smaak): mengen met 1 tl mandarijnsap, citroensap, zout en olijfolie. 10 minuten marineren."
+        },
+        {
+          "number": 3,
+          "action": "Groene chili-olie en mandarijn-vinaigrette",
+          "description": "Groene chili heel fijn snipperen — zaadjes verwijderd voor subtiele hitte. Mengen met limoensap, olijfolie en zout. Apart bewaren. Mandarijnsap, citroensap, azijn, olijfolie, zout, witte peper en eventueel honing mengen. Proef — fris, licht zoet, sappig."
+        },
+        {
+          "number": 4,
+          "action": "Coquilles snijden en kruiden",
+          "description": "Coquilles droogdeppen. Met een scherp mes horizontaal in 3-4 dunne plakjes snijden. Licht bestrooien met fijn zeezout. Druppel olijfolie. Fijne mandarijnrasp erover. Paar druppels citroensap allerlaatst. Maximaal 2 minuten voor serveren."
+        },
+        {
+          "number": 5,
+          "action": "Opbouwen en serveren",
+          "description": "Koude borden (15 min in de vriezer voor extra koudheid). Venkel losjes over het bord verdelen. Coquilleplakjes als dakpannen of in een losse cirkel erop. Mandarijn-vinaigrette rondom en deels over de coquille lepelen. Chili-olie in kleine stippen. Amandelen gericht strooien. Venkelfronds, kervel, eventueel mandarijnsupremes. Direct serveren."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Amandelen roosteren",
+          "description": "Amandelen in een droge pan 3-4 minuten op middelhoog vuur roosteren tot lichtgoudbruin. Warm mengen met druppel olijfolie en fleur de sel. Laten afkoelen. Grof hakken — geen poeder, kleine krokante stukjes."
+        },
+        {
+          "number": 2,
+          "section": "Venkel voorbereiden",
+          "description": "Venkel op een mandoline in flinterdunne plakjes van 1-2mm snijden. Optie A (maximale crunch): direct in ijskoud water — 15 minuten. Droogdeppen vlak voor serveren. Optie B (meer smaak): mengen met 1 tl mandarijnsap, citroensap, zout en olijfolie. 10 minuten marineren."
+        },
+        {
+          "number": 3,
+          "section": "Groene chili-olie en mandarijn-vinaigrette",
+          "description": "Groene chili heel fijn snipperen — zaadjes verwijderd voor subtiele hitte. Mengen met limoensap, olijfolie en zout. Apart bewaren. Mandarijnsap, citroensap, azijn, olijfolie, zout, witte peper en eventueel honing mengen. Proef — fris, licht zoet, sappig."
+        },
+        {
+          "number": 4,
+          "section": "Coquilles snijden en kruiden",
+          "description": "Coquilles droogdeppen. Met een scherp mes horizontaal in 3-4 dunne plakjes snijden. Licht bestrooien met fijn zeezout. Druppel olijfolie. Fijne mandarijnrasp erover. Paar druppels citroensap allerlaatst. Maximaal 2 minuten voor serveren."
+        },
+        {
+          "number": 5,
+          "section": "Opbouwen en serveren",
+          "description": "Koude borden (15 min in de vriezer voor extra koudheid). Venkel losjes over het bord verdelen. Coquilleplakjes als dakpannen of in een losse cirkel erop. Mandarijn-vinaigrette rondom en deels over de coquille lepelen. Chili-olie in kleine stippen. Amandelen gericht strooien. Venkelfronds, kervel, eventueel mandarijnsupremes. Direct serveren."
+        }
+      ],
+      "tips": [
+        "Coquille moet echt supervers zijn: dit is rauw. Geen hitte om imperfecties te verbergen. Koop dezelfde dag.",
+        "Mandarijnrasp direct op de coquille: geeft een aromatische directheid die de dressing alleen niet geeft.",
+        "Dunne plakjes: dunne coquilleplakjes nemen mandarijn, zout en olie veel mooier op.",
+        "Mandarijn is beter dan sinaasappel: meer parfum, zachtere zoetheid.",
+        "Groene chili heel subtiel: paar stippen chili-olie per bord. De hitte is een dunne draad.",
+        "Venkel geeft de structuur: zonder venkel wordt het te zacht. De crunch is essentieel.",
+        "Marcona-amandelen voor meer luxe: ronder, vetter en zachter — bij Italiaanse delicatessen of online.",
+        "Dressing allerlaatst: zodra citrus op coquille komt begint het te koken. Maximaal 2 minuten voor serveren."
+      ],
+      "tips_full": [
+        "Coquille moet echt supervers zijn: dit is rauw. Geen hitte om imperfecties te verbergen. Koop dezelfde dag.",
+        "Mandarijnrasp direct op de coquille: geeft een aromatische directheid die de dressing alleen niet geeft.",
+        "Dunne plakjes: dunne coquilleplakjes nemen mandarijn, zout en olie veel mooier op.",
+        "Mandarijn is beter dan sinaasappel: meer parfum, zachtere zoetheid.",
+        "Groene chili heel subtiel: paar stippen chili-olie per bord. De hitte is een dunne draad.",
+        "Venkel geeft de structuur: zonder venkel wordt het te zacht. De crunch is essentieel.",
+        "Marcona-amandelen voor meer luxe: ronder, vetter en zachter — bij Italiaanse delicatessen of online.",
+        "Dressing allerlaatst: zodra citrus op coquille komt begint het te koken. Maximaal 2 minuten voor serveren."
+      ],
+      "opmaak_presentatie": "Koude, brede borden. Dunne venkelplakjes als luchtig fond. Coquilleplakjes parelwit en glanzend met oranje mandarijnrasp. Oranje vinaigrette als spiegel. Groene chilistipjes. Grofgehakte amandelen als crunch. Venkelfronds en kervel als groen. Licht, glanzend en precies — wit, oranje, bleekgroen en beige.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Vermentino di Gallura DOCG of Vermentino di Sardegna DOC — Sardinië, Italië",
+          "druif": "Vermentino",
+          "smaakprofiel": "Droog, citrus, groene kruiden, amandel, zilt, lichte bitterheid, frisse zuren",
+          "omschrijving": "Mediterraan, kustachtig en aromatisch — de meest precieze match bij dit gerecht.",
+          "waarom_werkt_dit": "De amandelachtige bitterheid van Vermentino spiegelt de gezouten amandel. De citrus-kruidigheid sluit aan op venkel en mandarijn. De ziltigheid complementeert de rauwe coquille."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Blanc de Blancs Extra Brut AOC — Champagne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, krijtig, citrus, fijne mousse, mineraal",
+          "omschrijving": "Elegant en feestelijk — de mousse maakt alles lichter.",
+          "waarom_werkt_dit": "De mousse ruimt olijfolie en amandel op. De krijtige mineraliteit past bij de rauwe coquille. Extra Brut houdt het strak."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Manzanilla DO — Sanlúcar de Barrameda, Spanje (ijskoud)",
+          "druif": "Palomino",
+          "smaakprofiel": "Kurkdroog, zilt, amandelachtig, flor-karakter, strak",
+          "omschrijving": "De amandelachtige flortoon echoot de gezouten amandel — verrassend maar briljant.",
+          "waarom_werkt_dit": "De droge ziltigheid versterkt de rauwe coquille en de fleur de sel. De amandelnoot spiegelt de gezouten amandel."
+        }
+      ],
+      "wine": {
+        "naam": "Vermentino di Gallura DOCG of Vermentino di Sardegna DOC — Sardinië, Italië",
+        "druif": "Vermentino",
+        "toelichting": "De amandelachtige bitterheid van Vermentino spiegelt de gezouten amandel. De citrus-kruidigheid sluit aan op venkel en mandarijn. De ziltigheid complementeert de rauwe coquille. Mediterraan, kustachtig en aromatisch — de meest precieze match bij dit gerecht.",
+        "alternatief": "Champagne Blanc de Blancs Extra Brut AOC of Manzanilla DO (ijskoud)"
+      },
+      "metadata": {
+        "bereidingstijd": "30 min",
+        "porties": "4 kleine voorgerechten",
+        "type_gerecht": "Crudo / koud voorgerecht",
+        "niveau": "Makkelijk–gemiddeld"
+      },
+      "source_recipe_number": 137,
+      "full_title_docx": "137. RAUWE COQUILLE MET MANDARIJN, VENKEL, GROENE CHILI EN GEZOUTEN AMANDEL"
+    },
+    {
+      "title": "Tomaat 'Steak Tartare' met Gerookte Eidooiercrème, Kappertjesblad en Toast",
+      "slug": "tomaat-steak-tartare-gerookte-eidooiercreme-kappertjesblad-toast",
+      "location": "Mediterraan",
+      "time": "40 min",
+      "servings": "4 kleine voorgerechten",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/tomaat-steak-tartare-gerookte-eidooiercreme-kappertjesblad-toast.jpg",
+      "short_description": "Een vegetarische provocatie: tomaat bereid en gepresenteerd als klassieke steak tartare — met sjalot, Dijonmosterd, bieslook, sherryazijn en een gerookte eidooiercrème als rijke, goudgele kern.",
+      "description": "Een vegetarische provocatie: tomaat bereid en gepresenteerd als klassieke steak tartare. Dezelfde geometrie, dezelfde smaakelementen — sjalot, Dijonmosterd, bieslook, sherryazijn — maar van tomaat in plaats van vlees. De gerookte eidooiercrème als rijke, goudgele hart. Kappertjesblad als bitter-zilte finishing. Krokante toast ernaast. Voor wie het origineel kent: een moment van verwarring, dan een glimlach.",
+      "full_intro": "Een vegetarische provocatie: tomaat bereid en gepresenteerd als klassieke steak tartare. Dezelfde geometrie, dezelfde smaakelementen — sjalot, Dijonmosterd, bieslook, sherryazijn — maar van tomaat in plaats van vlees. De gerookte eidooiercrème als rijke, goudgele hart. Kappertjesblad als bitter-zilte finishing. Krokante toast ernaast. Voor wie het origineel kent: een moment van verwarring, dan een glimlach.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tomatentartare",
+          "ingredients": [
+            {
+              "name": "grote rijpe tomaten (liefst mix van coeur de boeuf en Roma)",
+              "amount": "6"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gesnipperd (kort afspoelen voor mildheid)",
+              "amount": "1"
+            },
+            {
+              "name": "bieslook, fijn gesneden",
+              "amount": "1½ el"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sherryazijn (complexer en minder scherp dan citroensap)",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "goede extra vergine olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "tomatenvocht (bewaard van het uitlekken)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Worcestershiresaus (optioneel — geeft umami-diepte)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zeezout + zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gerookte eidooiercrème — Methode A (aanbevolen)",
+          "ingredients": [
+            {
+              "name": "eieren, hardgekookt (9 minuten)",
+              "amount": "3"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "2 el"
+            },
+            {
+              "name": "mayonaise (goede kwaliteit)",
+              "amount": "1 el"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gerookt zout (Maldon Smoked Sea Salt e.d. — bij reformwinkel of online)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "gerookt paprikapoeder (optioneel)",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "lauwwarm water (indien nodig voor gladheid)",
+              "amount": "1-2 el"
+            },
+            {
+              "name": "witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het kappertjesblad en de toast",
+          "ingredients": [
+            {
+              "name": "kappertjesblaadjes (bij Italiaanse delicatessen; alternatief: kappertjesvruchten gehalveerd)",
+              "amount": "8-12"
+            },
+            {
+              "name": "dunne sneden zuurdesembrood of briochebrood",
+              "amount": "4"
+            },
+            {
+              "name": "olijfolie + roomboter",
+              "amount": "1 el + 10g"
+            },
+            {
+              "name": "fijn zout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": ""
+            },
+            {
+              "name": "druppels goede extra vergine olijfolie",
+              "amount": ""
+            },
+            {
+              "name": "fijne citroenrasp (optioneel)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de tomatentartare",
+          "ingredients": [
+            "6 grote rijpe tomaten (liefst mix van coeur de boeuf en Roma)",
+            "1 kleine sjalot, zeer fijn gesnipperd (kort afspoelen onder koud water voor mildheid)",
+            "1½ el bieslook, fijn gesneden",
+            "1 tl Dijonmosterd",
+            "1½ tl sherryazijn (complexer en minder scherp dan citroensap)",
+            "2 el goede extra vergine olijfolie",
+            "1 tl tomatenvocht (bewaard van het uitlekken)",
+            "½ tl Worcestershiresaus (optioneel — geeft umami-diepte)",
+            "Fijn zeezout + zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de gerookte eidooiercrème — Methode A (aanbevolen — stabiel en pipeable)",
+          "ingredients": [
+            "3 eieren, hardgekookt (9 minuten)",
+            "2 el crème fraîche",
+            "1 el mayonaise (goede kwaliteit)",
+            "1 tl Dijonmosterd",
+            "1 tl citroensap",
+            "¼ tl gerookt zout (bij reformwinkel of online — Maldon Smoked Sea Salt e.d.)",
+            "Klein snufje gerookt paprikapoeder (optioneel)",
+            "1-2 el lauwwarm water (indien nodig voor gladheid)",
+            "Witte peper"
+          ]
+        },
+        {
+          "group_name": "Methode B (intensere rookversie — voor wie wil)",
+          "ingredients": [
+            "2 rauwe eidooiers + 2 el neutrale olie + 1 el olijfolie + 1 tl Dijonmosterd + gerookt zout + druppel liquid smoke"
+          ]
+        },
+        {
+          "group_name": "Voor het kappertjesblad",
+          "ingredients": [
+            "8-12 kappertjesblaadjes (bij Italiaanse delicatessen — het blad van de kapperstruik, mild-bitterig; alternatief: kappertjesvruchten gehalveerd, of waterkersblaadjes)"
+          ]
+        },
+        {
+          "group_name": "Voor de toast",
+          "ingredients": [
+            "4 dunne sneden zuurdesembrood of briochebrood",
+            "1 el olijfolie + 10g roomboter",
+            "Fijn zout"
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            "Fleur de sel",
+            "Versgemalen zwarte peper",
+            "Druppels goede extra vergine olijfolie",
+            "Eventueel: fijne citroenrasp",
+            "Luxe variant: paar piepkleine halfgedroogde tomatenblokjes (extra umami)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Tomaten voorbereiden",
+          "description": "Tomaten kruisvormig insnijden. 15 seconden blancheren in kokend water. Direct in ijskoud water. Schil afpellen. Tomaten in kwarten. Zaadlijsten en vocht verwijderen — een kleine theelepel tomatenvocht bewaren. Tomatenvlees in blokjes van 4-5mm snijden. Blokjes op keukenpapier uitspreiden. Licht bestrooien met zout. 10-15 minuten uitlekken. Droogdeppen."
+        },
+        {
+          "number": 2,
+          "action": "Gerookte eidooiercrème — Methode A (aanbevolen)",
+          "description": "Eieren 9 minuten koken. Schrikken in koud water. Pellen. Dooiers eruit halen. Fijn prakken. Mengen met crème fraîche, mayonaise, Dijonmosterd, citroensap, gerookt zout en gerookt paprikapoeder. Gladmixen. Indien nodig 1-2 el lauwwarm water. In een spuitzak doen. Koel bewaren."
+        },
+        {
+          "number": 3,
+          "action": "Tomatendressing en toast",
+          "description": "Sjalot, bieslook, Dijonmosterd, sherryazijn, olijfolie, tomatenvocht en optioneel Worcestershiresaus mengen. Op smaak met zout en peper. Vlak voor serveren de dressing door de tomatenstukjes mengen. Voorzichtig — niet pureren. Proef. Brood in nette repen of driehoeken snijden. In olijfolie en boter op middelhoog vuur goudbruin en krokant bakken. Bestrooi licht met zout."
+        },
+        {
+          "number": 4,
+          "action": "Opbouwen en serveren",
+          "description": "Koude borden. Ringvorm (6cm) op het bord. Tomatentartare erin drukken — strak. Ring verwijderen. Gerookte eidooiercrème via spuitzak: elegante dotten ernaast of erop. Kappertjesblaadjes luchtig op en rondom. Fleur de sel op de crème. Druppel olijfolie. Eventueel citroenrasp. Toast ernaast."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Tomaten voorbereiden",
+          "description": "Tomaten kruisvormig insnijden. 15 seconden blancheren in kokend water. Direct in ijskoud water. Schil afpellen. Tomaten in kwarten. Zaadlijsten en vocht verwijderen — een kleine theelepel tomatenvocht bewaren. Tomatenvlees in blokjes van 4-5mm snijden. Blokjes op keukenpapier uitspreiden. Licht bestrooien met zout. 10-15 minuten uitlekken. Droogdeppen."
+        },
+        {
+          "number": 2,
+          "section": "Gerookte eidooiercrème — Methode A (aanbevolen)",
+          "description": "Eieren 9 minuten koken. Schrikken in koud water. Pellen. Dooiers eruit halen. Fijn prakken. Mengen met crème fraîche, mayonaise, Dijonmosterd, citroensap, gerookt zout en gerookt paprikapoeder. Gladmixen. Indien nodig 1-2 el lauwwarm water. In een spuitzak doen. Koel bewaren."
+        },
+        {
+          "number": 3,
+          "section": "Tomatendressing en toast",
+          "description": "Sjalot, bieslook, Dijonmosterd, sherryazijn, olijfolie, tomatenvocht en optioneel Worcestershiresaus mengen. Op smaak met zout en peper. Vlak voor serveren de dressing door de tomatenstukjes mengen. Voorzichtig — niet pureren. Proef. Brood in nette repen of driehoeken snijden. In olijfolie en boter op middelhoog vuur goudbruin en krokant bakken. Bestrooi licht met zout."
+        },
+        {
+          "number": 4,
+          "section": "Opbouwen en serveren",
+          "description": "Koude borden. Ringvorm (6cm) op het bord. Tomatentartare erin drukken — strak. Ring verwijderen. Gerookte eidooiercrème via spuitzak: elegante dotten ernaast of erop. Kappertjesblaadjes luchtig op en rondom. Fleur de sel op de crème. Druppel olijfolie. Eventueel citroenrasp. Toast ernaast."
+        }
+      ],
+      "tips": [
+        "Tomaten goed uitlekken: natte tartare smaakt waterig en valt uit elkaar. 10-15 minuten op keukenpapier. Niet overslaan.",
+        "Mix van coeur de boeuf en Roma: coeur de boeuf geeft parfum en sappigheid, Roma geeft stevigheid.",
+        "Gerookt zout is de sleutel: elegant en subtiel. Maldon Smoked Sea Salt bij AH of reformwinkel.",
+        "Hardgekookte eidooiercrème is beter voor thuisgebruik: veiliger, stabieler, kan in een spuitzak, is voor te bereiden.",
+        "Sherryazijn in de tartare: complexer en ronder dan citroensap.",
+        "Kappertjesblad vs kappertjes: kappertjesblad is milder, minder zout, licht bitterig en visueel eleganter.",
+        "Toast dun en krokant: dunne toast is hier veel eleganter dan dikke bruschetta-plakken."
+      ],
+      "tips_full": [
+        "Tomaten goed uitlekken: natte tartare smaakt waterig en valt uit elkaar. 10-15 minuten op keukenpapier. Niet overslaan.",
+        "Mix van coeur de boeuf en Roma: coeur de boeuf geeft parfum en sappigheid, Roma geeft stevigheid.",
+        "Gerookt zout is de sleutel: elegant en subtiel. Maldon Smoked Sea Salt bij AH of reformwinkel.",
+        "Hardgekookte eidooiercrème is beter voor thuisgebruik: veiliger, stabieler, kan in een spuitzak, is voor te bereiden.",
+        "Sherryazijn in de tartare: complexer en ronder dan citroensap.",
+        "Kappertjesblad vs kappertjes: kappertjesblad is milder, minder zout, licht bitterig en visueel eleganter.",
+        "Toast dun en krokant: dunne toast is hier veel eleganter dan dikke bruschetta-plakken."
+      ],
+      "opmaak_presentatie": "Koude borden. De tomatentartare donkerrood en precies. Goudgele gerookte eidooiercrème als elegante dotten. Groene kappertjesblaadjes als luchtig accent. Krokante goudbruine toast ernaast. Klassieke tartare-presentatie — maar zonder vlees. Dieprood, zachtgeel, groen en goudbruin.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Etna Rosato DOC — Sicilië, Italië",
+          "druif": "Nerello Mascalese (soms kleine deel Nerello Cappuccio)",
+          "smaakprofiel": "Droog, fris, mineraal, rood fruit, sinaasappelschil, lichte kruidigheid",
+          "omschrijving": "Een van de spannendste gastronomische rosés — strak, mineraal en onverwacht.",
+          "waarom_werkt_dit": "De vulkanische mineraliteit sluit aan op de frisheid van tomaat en sherryazijn. De subtiele kruidigheid past bij kappertjesblad en mosterd. Genoeg inhoud voor de romige gerookte eidooiercrème."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Rosé Extra Brut AOC — Champagne, Frankrijk",
+          "druif": "Chardonnay + Pinot Noir",
+          "smaakprofiel": "Droog, krijtig, citrus, rood besfruit, fijne mousse, brioche",
+          "omschrijving": "Feestelijk en precies — tilt het gerecht direct naar Michelin-niveau.",
+          "waarom_werkt_dit": "De mousse snijdt door de eidooiercrème en de toast. De frisse krijtige spanning houdt de tomaat helder."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Manzanilla Pasada DO — Sanlúcar de Barrameda, Spanje (ijskoud)",
+          "druif": "Palomino (langer gerijpt dan gewone Manzanilla)",
+          "smaakprofiel": "Kurkdroog, zilt, amandelachtig, licht oxidatief, hartig en dieper dan jonge Manzanilla",
+          "omschrijving": "De meest culinaire en spannende pairing van de drie.",
+          "waarom_werkt_dit": "De droge ziltigheid versterkt kappertjesblad, mosterd en toast. De amandelachtige oxidatieve toon past bij de gerookte eidooiercrème."
+        }
+      ],
+      "wine": {
+        "naam": "Etna Rosato DOC — Sicilië, Italië",
+        "druif": "Nerello Mascalese",
+        "toelichting": "De vulkanische mineraliteit sluit aan op de frisheid van tomaat en sherryazijn. De subtiele kruidigheid past bij kappertjesblad en mosterd. Een van de spannendste gastronomische rosés — strak, mineraal en onverwacht.",
+        "alternatief": "Champagne Rosé Extra Brut AOC of Manzanilla Pasada DO (ijskoud)"
+      },
+      "metadata": {
+        "bereidingstijd": "40 min",
+        "porties": "4 kleine voorgerechten",
+        "type_gerecht": "Koud voorgerecht / vegetarisch",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 138,
+      "full_title_docx": "138. TOMAAT \"STEAK TARTARE\" MET GEROOKTE EIDOOIERCRÈME, KAPPERTJESBLAD EN TOAST"
+    },
+    {
+      "title": "Gamba's van de BBQ met Tomaten-Sherryboter en Dragon",
+      "slug": "gambas-bbq-tomaten-sherryboter-dragon",
+      "location": "Spanje",
+      "time": "35 min",
+      "servings": "4 personen (voorgerecht of licht hoofdgerecht)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/gambas-bbq-tomaten-sherryboter-dragon.jpg",
+      "short_description": "Grote gamba's met kop en schil op de gloeiend hete barbecue, daarna royaal overgoten met een glanzende tomaten-sherryboter geparfumeerd met dragon op het allerlaatste moment — zilt, zoet, rokerig en boterig.",
+      "description": "Grote, zoete gamba's met kop en schil op de gloeiend hete barbecue — de schil karameliseert, de kop geeft smaak, het vlees blijft sappig. Daarna royaal overgoten met een glanzende tomaten-sherryboter: een beurre monté van ingekookte sherry, verse tomaat, visbouillon en koude boter, geparfumeerd met dragon op het allerlaatste moment. Zilt, zoet, rokerig, boterig en fris. Zuurdesem ernaast voor de boter die over het bord loopt. Eten met je handen. Servetten verplicht.",
+      "full_intro": "Grote, zoete gamba's met kop en schil op de gloeiend hete barbecue — de schil karameliseert, de kop geeft smaak, het vlees blijft sappig. Daarna royaal overgoten met een glanzende tomaten-sherryboter: een beurre monté van ingekookte sherry, verse tomaat, visbouillon en koude boter, geparfumeerd met dragon op het allerlaatste moment. Zilt, zoet, rokerig, boterig en fris. Zuurdesem ernaast voor de boter die over het bord loopt. Eten met je handen. Servetten verplicht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de gamba's",
+          "ingredients": [
+            {
+              "name": "grote rauwe gamba's of tijgergarnalen met kop en schil (Argentijnse rode garnalen zijn ideaal)",
+              "amount": "12-16"
+            },
+            {
+              "name": "kleine teen knoflook, zeer fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "fijne citroenrasp",
+              "amount": "½ tl"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tomaten-sherryboter (warme beurre monté)",
+          "ingredients": [
+            {
+              "name": "sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "rijpe Roma-tomaten (ontpeld, zeer fijn gesneden) of goede tomatenblokjes",
+              "amount": "2"
+            },
+            {
+              "name": "geconcentreerde tomatenpuree",
+              "amount": "1 tl"
+            },
+            {
+              "name": "droge sherry (fino of manzanilla — droogste stijl)",
+              "amount": "75ml"
+            },
+            {
+              "name": "visbouillon of lichte schaaldierbouillon",
+              "amount": "40ml"
+            },
+            {
+              "name": "ijskoude ongezouten roomboter, in blokjes",
+              "amount": "125g"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse dragon, fijn gesneden (allerlaatst — nooit eerder)",
+              "amount": "1½ el"
+            },
+            {
+              "name": "zout + witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse dragonblaadjes (extra, fris)",
+              "amount": ""
+            },
+            {
+              "name": "limoenparten (tableside)",
+              "amount": ""
+            },
+            {
+              "name": "druppel goede olijfolie",
+              "amount": ""
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            },
+            {
+              "name": "dun geroosterd zuurdesembrood (voor de gesmolten boter)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de gamba's",
+          "ingredients": [
+            "12-16 grote rauwe gamba's of tijgergarnalen (zo groot mogelijk — met kop en schil; Argentijnse rode garnalen zijn ideaal)",
+            "1 kleine teen knoflook, zeer fijn geraspt",
+            "½ tl fijne citroenrasp",
+            "2 el extra vergine olijfolie",
+            "½ tl fijn zeezout",
+            "Witte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de tomaten-sherryboter (warme beurre monté — aanbevolen)",
+          "ingredients": [
+            "1 sjalot, zeer fijn gesnipperd",
+            "2 rijpe Roma-tomaten (ontpeld, zeer fijn gesneden — of 120g goede tomatenblokjes)",
+            "1 tl geconcentreerde tomatenpuree",
+            "75ml droge sherry (fino of manzanilla — droogste stijl; amontillado geeft meer nootachtige diepte)",
+            "40ml visbouillon of lichte schaaldierbouillon",
+            "125g ijskoude ongezouten roomboter, in blokjes",
+            "1 tl vers citroensap",
+            "1½ el verse dragon, fijn gesneden (allerlaatst — nooit eerder)",
+            "Zout + witte peper"
+          ]
+        },
+        {
+          "group_name": "Snelle alternatieve methode — compound butter (dag eerder maken)",
+          "ingredients": [
+            "150g zachte ongezouten boter + 2 el sherryreductie + 1½ el tomatenpuree + 1 el dragon — cilinder rollen — invriezen — plakjes op hete gamba's"
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            "Verse dragonblaadjes (extra, fris)",
+            "Limoenparten (tableside)",
+            "Druppel goede olijfolie",
+            "Fleur de sel",
+            "Dun geroosterd zuurdesembrood (voor de gesmolten boter — functioneel, niet decoratief)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Gamba's marineren",
+          "description": "Rug van de gamba's licht insnijden. Darmkanaal verwijderen. Kop en schil laten zitten. Gamba's mengen met olijfolie, knoflook, citroenrasp, zout en witte peper. 10 minuten marineren — niet langer."
+        },
+        {
+          "number": 2,
+          "action": "Tomaten-sherryboter (beurre monté)",
+          "description": "Sjalot op laag vuur in een klein klontje boter 3-4 minuten zacht fruiten — niet bruin. Tomatenpuree erbij — 30 seconden meebakken. Verse tomaat toevoegen — 2 minuten zacht garen. Sherry en visbouillon toevoegen. Inkoken tot 3-4 eetlepels geconcentreerde basis. Eventueel door een fijne zeef wrijven. Vuur op allerlaagst. IJskoude boterblokjes een voor een erdoor kloppen (monter au beurre). Nooit laten koken. Resultaat: glanzende, licht gebonden tomaten-sherryboter. Citroensap toevoegen. Warmhouden op laag vuur of bain-marie (max 65°C). Dragon allerlaatst — erin roeren vlak voor serveren."
+        },
+        {
+          "number": 3,
+          "action": "Gamba's grillen",
+          "description": "BBQ op maximale temperatuur (250-300°C). Rooster gloeiend. Of: grillpan op hoogste vuur, 3-4 minuten leeg voorverwarmen. Gamba's op de grill — 1,5-2 minuten aan de eerste kant zonder te bewegen. Schil karameliseert en loslaat. Omdraaien. Nog 1 minuut — net gaar: sappig, glanzend en licht stevig."
+        },
+        {
+          "number": 4,
+          "action": "Opbouwen en serveren",
+          "description": "Warme gamba's op een warme schaal of borden. Tomaten-sherryboter royaal erover lepelen — ook deels eronder. Verse dragonblaadjes. Fleur de sel. Druppel olijfolie. Limoenparten ernaast. Geroosterd brood naast de gamba's."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Gamba's marineren",
+          "description": "Rug van de gamba's licht insnijden. Darmkanaal verwijderen. Kop en schil laten zitten. Gamba's mengen met olijfolie, knoflook, citroenrasp, zout en witte peper. 10 minuten marineren — niet langer."
+        },
+        {
+          "number": 2,
+          "section": "Tomaten-sherryboter (beurre monté)",
+          "description": "Sjalot op laag vuur in een klein klontje boter 3-4 minuten zacht fruiten — niet bruin. Tomatenpuree erbij — 30 seconden meebakken. Verse tomaat toevoegen — 2 minuten zacht garen. Sherry en visbouillon toevoegen. Inkoken tot 3-4 eetlepels geconcentreerde basis. Eventueel door een fijne zeef wrijven. Vuur op allerlaagst. IJskoude boterblokjes een voor een erdoor kloppen (monter au beurre). Nooit laten koken. Resultaat: glanzende, licht gebonden tomaten-sherryboter. Citroensap toevoegen. Warmhouden op laag vuur of bain-marie (max 65°C). Dragon allerlaatst — erin roeren vlak voor serveren."
+        },
+        {
+          "number": 3,
+          "section": "Gamba's grillen",
+          "description": "BBQ op maximale temperatuur (250-300°C). Rooster gloeiend. Of: grillpan op hoogste vuur, 3-4 minuten leeg voorverwarmen. Gamba's op de grill — 1,5-2 minuten aan de eerste kant zonder te bewegen. Schil karameliseert en loslaat. Omdraaien. Nog 1 minuut — net gaar: sappig, glanzend en licht stevig."
+        },
+        {
+          "number": 4,
+          "section": "Opbouwen en serveren",
+          "description": "Warme gamba's op een warme schaal of borden. Tomaten-sherryboter royaal erover lepelen — ook deels eronder. Verse dragonblaadjes. Fleur de sel. Druppel olijfolie. Limoenparten ernaast. Geroosterd brood naast de gamba's."
+        }
+      ],
+      "tips": [
+        "Zo groot mogelijke garnalen: hoe groter, hoe dichter bij het langoustine-achtige mondgevoel. Argentijnse rode garnalen bij de visboer of toko zijn ideaal.",
+        "Kop en schil laten zitten: zonder kop en schil kan het nog steeds — met kop en schil krijg je enorm meer diepte, sappigheid en barbecue-aroma.",
+        "Dragon allerlaatst: dit is de belangrijkste technische tip. Dragon verliest zijn frisse anijsachtige parfum snel bij hitte. Altijd op het allerlaatste moment door de saus roeren.",
+        "Boter nooit laten koken: boven 70°C scheidt de emulsie en wordt het een vette plas. Laag vuur, geduld, een blokje per keer.",
+        "Fino of Manzanilla voor de saus: de droge, zilte stijl geeft de spanning die bij garnalen en boter hoort.",
+        "Verse tomaat + tomatenpuree: de verse tomaat geeft frisheid en lichtheid. De tomatenpuree geeft diepte en concentratie.",
+        "Compound butter als snelle versie: maak de boter de dag ervoor, rol in een cilinder, vries in. Plakjes van 8mm op de hete gamba's leggen — ze smelten dramatisch.",
+        "Zuurdesem is geen vulsel: het geroosterde brood is bedoeld om de tomaten-sherryboter op te deppen."
+      ],
+      "tips_full": [
+        "Zo groot mogelijke garnalen: hoe groter, hoe dichter bij het langoustine-achtige mondgevoel. Argentijnse rode garnalen bij de visboer of toko zijn ideaal.",
+        "Kop en schil laten zitten: zonder kop en schil kan het nog steeds — met kop en schil krijg je enorm meer diepte, sappigheid en barbecue-aroma.",
+        "Dragon allerlaatst: dit is de belangrijkste technische tip. Dragon verliest zijn frisse anijsachtige parfum snel bij hitte. Altijd op het allerlaatste moment door de saus roeren.",
+        "Boter nooit laten koken: boven 70°C scheidt de emulsie en wordt het een vette plas. Laag vuur, geduld, een blokje per keer.",
+        "Fino of Manzanilla voor de saus: de droge, zilte stijl geeft de spanning die bij garnalen en boter hoort.",
+        "Verse tomaat + tomatenpuree: de verse tomaat geeft frisheid en lichtheid. De tomatenpuree geeft diepte en concentratie.",
+        "Compound butter als snelle versie: maak de boter de dag ervoor, rol in een cilinder, vries in. Plakjes van 8mm op de hete gamba's leggen — ze smelten dramatisch.",
+        "Zuurdesem is geen vulsel: het geroosterde brood is bedoeld om de tomaten-sherryboter op te deppen."
+      ],
+      "opmaak_presentatie": "Warme schaal of borden. Gamba's roodgoudroos met gekarameliseerde schil. Glanzende tomaten-sherryboter als stroperige spiegel — oranje en goudgeel. Dragonblaadjes frisgroen. Limoenparten. Zuurdesem ernaast. Royaal, zomers luxueus. Eten met je handen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Condrieu AOC — Rhône, Frankrijk (of een goede droge Viognier)",
+          "druif": "Viognier",
+          "smaakprofiel": "Droog, aromatisch, abrikoos, citrusbloesem, zachte kruidigheid, ronde textuur",
+          "omschrijving": "De meest aromatische droge witte wijn van de Rhône — floraal, zacht en complex.",
+          "waarom_werkt_dit": "De abrikoos- en bloesemdimensie van Viognier spiegelt de dragon en de tomatenzoetheid. De romige textuur past bij de beurre monté. De zachte zuren houden het gerecht levendig."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Manzanilla DO of Fino DO — Spanje (ijskoud)",
+          "druif": "Palomino",
+          "smaakprofiel": "Kurkdroog, zilt, amandelachtig, flor-karakter, strak",
+          "omschrijving": "Sherry in het gerecht, sherry in het glas — een perfecte interne cirkel.",
+          "waarom_werkt_dit": "De sherry in de tomaten-sherryboter wordt geëchood door de Manzanilla in het glas. De droge ziltigheid sluit aan op de gamba's en de fleur de sel."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Witte Rioja Reserva DOCa — Rioja, Spanje (subtiel eikenhout)",
+          "druif": "Viura (soms met Malvasia of Garnacha Blanca)",
+          "smaakprofiel": "Droog, citrus, geel fruit, zachte kruiden, lichte toast, ronde maar frisse textuur",
+          "omschrijving": "Spaans temperament met elegantie — past bij BBQ en botersaus.",
+          "waarom_werkt_dit": "De lichte houttoon sluit aan bij de boter en het BBQ-rookaccent. De kruidige frisheid ondersteunt de tomaat en de dragon."
+        }
+      ],
+      "wine": {
+        "naam": "Condrieu AOC — Rhône, Frankrijk",
+        "druif": "Viognier",
+        "toelichting": "De abrikoos- en bloesemdimensie van Viognier spiegelt de dragon en de tomatenzoetheid. De romige textuur past bij de beurre monté. De zachte zuren houden het gerecht levendig. De meest aromatische droge witte wijn van de Rhône — floraal, zacht en complex.",
+        "alternatief": "Manzanilla DO of Fino DO (ijskoud) of Witte Rioja Reserva DOCa"
+      },
+      "metadata": {
+        "bereidingstijd": "35 min",
+        "porties": "4 personen (voorgerecht of licht hoofdgerecht)",
+        "type_gerecht": "Warm voorgerecht / BBQ / zeevruchten",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 139,
+      "full_title_docx": "139. GAMBA'S VAN DE BBQ MET TOMATEN-SHERRYBOTER EN DRAGON"
+    },
+    {
+      "title": "Croquetas de Jamón — Casa Marcial-Stijl",
+      "slug": "croquetas-de-jamon-casa-marcial",
+      "location": "La Salgar, Arriondas, Asturië, Spanje",
+      "time": "Dag 1: 1 uur 15 min + 12 uur koelen. Dag 2: 45 min + frituren.",
+      "servings": "16 croquetas als amuse (of 12 als royale tapa)",
+      "difficulty": "Gemiddeld (de béchamel vraagt geduld — de rest is eenvoudig)",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/croquetas-de-jamon-casa-marcial.jpg",
+      "short_description": "Casa Marcial's drie-sterren croquetas de jamón: 45 minuten ham-béchamel op laag vuur tot de ham volledig geïntegreerd is, dubbel gepaneerd met panko en gefrituurd tot glasachtig krokant van buiten en vloeiend van binnen.",
+      "description": "Casa Marcial in La Salgar, Arriondas, Asturië — Chef Nacho Manzano met zijn zus Esther. Nacho nam het gezinsrestaurant van zijn moeder over in 1993, in zijn ouderlijk huis, in een dorp van enkele tientallen zielen. Een ster in 1999, twee sterren in 2009, drie sterren in november 2024 — een van de meest emotionele Michelin-promoties van het decennium. Zijn eerste hap in het 12-gangenmenu: croquetas de jamón. Een 19e-eeuws huisrecept dat in elke Spaanse keuken bestaat — maar door Manzano's familie zo eindeloos verfijnd dat het de maatstaf is geworden. De truc is tijd: 45 minuten béchamel op laag vuur, met de ham erin gekookt. Niet béchamel met ham — ham-béchamel. Een smaak.",
+      "full_intro": "Casa Marcial in La Salgar, Arriondas, Asturië — Chef Nacho Manzano met zijn zus Esther. Nacho nam het gezinsrestaurant van zijn moeder over in 1993, in zijn ouderlijk huis, in een dorp van enkele tientallen zielen. Een ster in 1999, twee sterren in 2009, drie sterren in november 2024 — een van de meest emotionele Michelin-promoties van het decennium. Zijn eerste hap in het 12-gangenmenu: croquetas de jamón. Een 19e-eeuws huisrecept dat in elke Spaanse keuken bestaat — maar door Manzano's familie zo eindeloos verfijnd dat het de maatstaf is geworden. De truc is tijd: 45 minuten béchamel op laag vuur, met de ham erin gekookt. Niet béchamel met ham — ham-béchamel. Een smaak.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de ham-béchamel (Dag 1)",
+          "ingredients": [
+            {
+              "name": "Serrano-ham of Ibérico-ham, zeer fijn gesneden (zo fijn dat de ham volledig opgaat)",
+              "amount": "150g"
+            },
+            {
+              "name": "hambot-stukje of stukje spekzwoerd (optioneel — voor extra diepe umami, eruit halen voor het vormen)",
+              "amount": ""
+            },
+            {
+              "name": "ongezouten roomboter",
+              "amount": "60g"
+            },
+            {
+              "name": "milde olijfolie",
+              "amount": "20ml"
+            },
+            {
+              "name": "bloem",
+              "amount": "60g"
+            },
+            {
+              "name": "volle melk, lauwwarm (koude melk geeft klonters)",
+              "amount": "650ml"
+            },
+            {
+              "name": "volle slagroom",
+              "amount": "75ml"
+            },
+            {
+              "name": "kleine ui of sjalot, extreem fijn gesnipperd",
+              "amount": "½"
+            },
+            {
+              "name": "laurierblaadje",
+              "amount": "1"
+            },
+            {
+              "name": "nootmuskaat",
+              "amount": "snufje"
+            },
+            {
+              "name": "witte peper",
+              "amount": ""
+            },
+            {
+              "name": "zout (voorzichtig — ham is al zout, proef eerst)",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het paneren (Dag 2)",
+          "ingredients": [
+            {
+              "name": "bloem",
+              "amount": "80g"
+            },
+            {
+              "name": "eieren, losgeklopt",
+              "amount": "2"
+            },
+            {
+              "name": "Japanse panko (fijnst vermalen voor de mooiste korst)",
+              "amount": "120g"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het frituren",
+          "ingredients": [
+            {
+              "name": "zonnebloem- of arachideolie (180°C)",
+              "amount": ""
+            },
+            {
+              "name": "vlokkenzout (direct na het frituren)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de ham-béchamel (Dag 1)",
+          "ingredients": [
+            "150g Serrano-ham of Ibérico-ham, zeer fijn gesneden (geen blokjes — zo fijn dat de ham volledig in de béchamel opgaat)",
+            "Eventueel: 1 klein hambot-stukje of stukje spekzwoerd (meekoken voor extra diepe umami — eruit halen voor het vormen)",
+            "60g ongezouten roomboter",
+            "20ml milde olijfolie",
+            "60g bloem",
+            "650ml volle melk, lauwwarm (koude melk geeft klonters)",
+            "75ml volle slagroom",
+            "½ kleine ui of 1 sjalot, extreem fijn gesnipperd",
+            "1 laurierblaadje",
+            "Snuf nootmuskaat",
+            "Witte peper",
+            "Zout (voorzichtig — ham is al zout, proef eerst)"
+          ]
+        },
+        {
+          "group_name": "Voor het paneren (Dag 2)",
+          "ingredients": [
+            "80g bloem",
+            "2 eieren, losgeklopt",
+            "120g Japanse panko (fijnst vermalen voor de mooiste korst — bij supermarkt of Aziatische toko; alternatief: fijn paneermeel)",
+            "Snuf zout"
+          ]
+        },
+        {
+          "group_name": "Voor het frituren",
+          "ingredients": [
+            "Zonnebloem- of arachideolie (180°C)",
+            "Vlokkenzout (direct na het frituren)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Dag 1 — Ham-béchamel",
+          "description": "Boter en olijfolie in een zware pan met dikke bodem op laag vuur verwarmen. Ui of sjalot toevoegen. 8-10 minuten zacht laten garen — transparant en zacht, nooit bruin. Fijn gesneden ham (en hambot indien gebruikt) toevoegen. 4-5 minuten op laag vuur — het vet en aroma van de ham trekken in de boter. Bloem erbij. Met een houten spatel 3 minuten krachtig roeren op laag vuur. De roux mag licht nootachtig ruiken maar niet donker worden."
+        },
+        {
+          "number": 2,
+          "action": "Dag 1 — Ham-béchamel verder opbouwen",
+          "description": "Lauwwarme melk eetlepel voor eetlepel toevoegen — elke scheut volledig inroeren voor de volgende. Na de eerste 200ml kun je sneller gaan. Slagroom, laurierblaadje en nootmuskaat toevoegen. Vuur op allerlaagst. 40-45 minuten — gebruik een houten spatel die de bodem schrapt (niet roert) — elke 3-4 minuten. Dit voorkomt aanbranden. Na 45 minuten: de béchamel is zo dik als zachte aardappelpuree en trekt los van de panwand. Laurier (en hambot) verwijderen. Op smaak met witte peper. Zout voorzichtig — proef eerst. Béchamel in een platte schaal gieten. Plasticfolie direct op het oppervlak. 4 uur afkoelen op kamertemperatuur, dan minimaal 12 uur in de koelkast."
+        },
+        {
+          "number": 3,
+          "action": "Dag 2 — Vormen",
+          "description": "Koude, stevige béchamel uit de koelkast. Met twee lepels of kleine ijslepel torpedo-vormen van ca. 25-30g per stuk. Als de béchamel te zacht is: 20 minuten terug in de vriezer."
+        },
+        {
+          "number": 4,
+          "action": "Dag 2 — Dubbel paneren",
+          "description": "Elke croqueta door bloem — overtollig afschudden. Door losgeklopt ei — goed omhullen. Door panko — goed aandrukken. Herhalen: nogmaals door ei, nogmaals door panko. Twee volledige ronden. Gepaneerde croquetas 20-30 minuten rusten in de koelkast — de paneerlaag hecht beter en barst minder snel open."
+        },
+        {
+          "number": 5,
+          "action": "Dag 2 — Frituren en serveren",
+          "description": "Olie verhitten tot 180°C. Maximaal 4-5 croquetas tegelijk. 90 seconden tot 2 minuten tot diepgoudbruin. Halverwege voorzichtig omdraaien. Op een rooster laten uitlekken (niet keukenpapier — de onderkant blijft krokanter). Direct bestrooien met vlokkenzout. Binnen 5 minuten serveren — buiten glasachtig krokant, binnen romig en bijna vloeiend."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Dag 1 — Ham-béchamel",
+          "description": "Boter en olijfolie in een zware pan met dikke bodem op laag vuur verwarmen. Ui of sjalot toevoegen. 8-10 minuten zacht laten garen — transparant en zacht, nooit bruin. Fijn gesneden ham (en hambot indien gebruikt) toevoegen. 4-5 minuten op laag vuur — het vet en aroma van de ham trekken in de boter. Bloem erbij. Met een houten spatel 3 minuten krachtig roeren op laag vuur. De roux mag licht nootachtig ruiken maar niet donker worden."
+        },
+        {
+          "number": 2,
+          "section": "Dag 1 — Ham-béchamel verder opbouwen",
+          "description": "Lauwwarme melk eetlepel voor eetlepel toevoegen — elke scheut volledig inroeren voor de volgende. Na de eerste 200ml kun je sneller gaan. Slagroom, laurierblaadje en nootmuskaat toevoegen. Vuur op allerlaagst. 40-45 minuten — gebruik een houten spatel die de bodem schrapt (niet roert) — elke 3-4 minuten. Dit voorkomt aanbranden. Na 45 minuten: de béchamel is zo dik als zachte aardappelpuree en trekt los van de panwand. Laurier (en hambot) verwijderen. Op smaak met witte peper. Zout voorzichtig — proef eerst. Béchamel in een platte schaal gieten. Plasticfolie direct op het oppervlak. 4 uur afkoelen op kamertemperatuur, dan minimaal 12 uur in de koelkast."
+        },
+        {
+          "number": 3,
+          "section": "Dag 2 — Vormen",
+          "description": "Koude, stevige béchamel uit de koelkast. Met twee lepels of kleine ijslepel torpedo-vormen van ca. 25-30g per stuk. Als de béchamel te zacht is: 20 minuten terug in de vriezer."
+        },
+        {
+          "number": 4,
+          "section": "Dag 2 — Dubbel paneren",
+          "description": "Elke croqueta door bloem — overtollig afschudden. Door losgeklopt ei — goed omhullen. Door panko — goed aandrukken. Herhalen: nogmaals door ei, nogmaals door panko. Twee volledige ronden. Gepaneerde croquetas 20-30 minuten rusten in de koelkast — de paneerlaag hecht beter en barst minder snel open."
+        },
+        {
+          "number": 5,
+          "section": "Dag 2 — Frituren en serveren",
+          "description": "Olie verhitten tot 180°C. Maximaal 4-5 croquetas tegelijk. 90 seconden tot 2 minuten tot diepgoudbruin. Halverwege voorzichtig omdraaien. Op een rooster laten uitlekken (niet keukenpapier — de onderkant blijft krokanter). Direct bestrooien met vlokkenzout. Binnen 5 minuten serveren — buiten glasachtig krokant, binnen romig en bijna vloeiend."
+        }
+      ],
+      "tips": [
+        "45 minuten béchamel is het gerecht: korter koken is béchamel met ham. 45 minuten is ham-béchamel. Manzano's filosofie: tijd is een ingrediënt.",
+        "Ham zeer fijn snijden: geen blokjes — geen stukjes. Zo fijn dat de ham verdwijnt in de béchamel maar zijn smaak overal aanwezig is.",
+        "Hambot of spekzwoerd meekoken: geeft een laag diepe ham-umami die niemand kan benoemen maar iedereen voelt.",
+        "Bodem schrapen, niet roeren: een houten spatel die de bodem schrapt voorkomt aanbranden en geeft een gladde, egale béchamel.",
+        "Lauwwarme melk: koude melk in een warme roux geeft klonters. Even verwarmen voor je begint.",
+        "Rusten na paneren: 20-30 minuten in de koelkast na het dubbel paneren. De laag hecht beter.",
+        "Rooster voor uitlekken: keukenpapier maakt de onderkant zacht. Een rooster houdt de croqueta aan alle kanten krokant.",
+        "Maak een dubbele batch: vorm en paneer alle croquetas. Frituur de helft. Vries de rest voor het frituren in. Frituren direct uit de vriezer: 30-45 seconden langer."
+      ],
+      "tips_full": [
+        "45 minuten béchamel is het gerecht: korter koken is béchamel met ham. 45 minuten is ham-béchamel. Manzano's filosofie: tijd is een ingrediënt.",
+        "Ham zeer fijn snijden: geen blokjes — geen stukjes. Zo fijn dat de ham verdwijnt in de béchamel maar zijn smaak overal aanwezig is.",
+        "Hambot of spekzwoerd meekoken: geeft een laag diepe ham-umami die niemand kan benoemen maar iedereen voelt.",
+        "Bodem schrapen, niet roeren: een houten spatel die de bodem schrapt voorkomt aanbranden en geeft een gladde, egale béchamel.",
+        "Lauwwarme melk: koude melk in een warme roux geeft klonters. Even verwarmen voor je begint.",
+        "Rusten na paneren: 20-30 minuten in de koelkast na het dubbel paneren. De laag hecht beter.",
+        "Rooster voor uitlekken: keukenpapier maakt de onderkant zacht. Een rooster houdt de croqueta aan alle kanten krokant.",
+        "Maak een dubbele batch: vorm en paneer alle croquetas. Frituur de helft. Vries de rest voor het frituren in. Frituren direct uit de vriezer: 30-45 seconden langer."
+      ],
+      "opmaak_presentatie": "Sober: 3-4 croquetas op een warm wit bordje of warm steengoed schaaltje. Vlokkenzout erop. Eventueel: paar druppels goede olijfolie op het bord of een heel klein beetje fijn geraspte Ibérico-ham ernaast. Geen saus nodig. De croqueta ruikt naar ham, boter en frituur — niet naar garnituur. De eerste hap beslist.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Manzanilla DO of Fino DO — Spanje (ijskoud)",
+          "druif": "Palomino",
+          "smaakprofiel": "Kurkdroog, zilt, amandelachtig, flor-karakter, strak, hartig",
+          "omschrijving": "De ultieme Spaanse croqueta-wijn — droog, fris, zoutig en nootachtig.",
+          "waarom_werkt_dit": "Croquetas zijn romig, vet en zout. Manzanilla snijdt door de béchamel en frituur, versterkt de ham en geeft een droog amandelachtig contrast. IJskoud geserveerd: het contrast met de gloeiende croqueta is het gerecht."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Cava Brut Nature DO of Corpinnat Brut Nature — Catalonië, Spanje",
+          "druif": "Xarel·lo, Macabeo, Parellada",
+          "smaakprofiel": "Droog, geen restsuiker, citrus, groene appel, amandel, fijne mousse",
+          "omschrijving": "Droge Spaanse bubbel — toegankelijker dan sherry, excellent bij frituur.",
+          "waarom_werkt_dit": "De mousse ruimt de romige béchamel en krokante korst op. De droge, licht toastige stijl sluit aan bij ham en paneerlaag. Brut Nature is verplicht."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, zilt, citrus, witte perzik, levendige zuren",
+          "omschrijving": "Frisser en fruitiger dan sherry — voor wie geen sherry drinkt.",
+          "waarom_werkt_dit": "Albariño's hoge zuren en ziltigheid snijden door de vetheid. Het lichte fruit maakt de ham zachter. Regionaal Spaans — past bij de Asturische keuken van Manzano."
+        }
+      ],
+      "wine": {
+        "naam": "Manzanilla DO of Fino DO — Spanje (ijskoud)",
+        "druif": "Palomino",
+        "toelichting": "Croquetas zijn romig, vet en zout. Manzanilla snijdt door de béchamel en frituur, versterkt de ham en geeft een droog amandelachtig contrast. IJskoud geserveerd: het contrast met de gloeiende croqueta is het gerecht. De ultieme Spaanse croqueta-wijn.",
+        "alternatief": "Cava Brut Nature DO of Corpinnat Brut Nature of Albariño Rías Baixas DO"
+      },
+      "metadata": {
+        "bereidingstijd": "Dag 1: 1 uur 15 min + 12 uur koelen. Dag 2: 45 min + frituren.",
+        "porties": "16 croquetas als amuse (of 12 als royale tapa)",
+        "type_gerecht": "Amuse / tapa",
+        "niveau": "Gemiddeld (de béchamel vraagt geduld — de rest is eenvoudig)"
+      },
+      "source_recipe_number": 140,
+      "full_title_docx": "140. CROQUETAS DE JAMÓN — CASA MARCIAL-STIJL"
     }
   ]
 }
