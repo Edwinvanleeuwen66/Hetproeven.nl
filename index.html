@@ -63,13 +63,6 @@
       line-height: 1;
     }
     .zoek-clear.zichtbaar { display: block; }
-    #portie-slider::-webkit-slider-thumb {
-      -webkit-appearance: none;
-      width: 16px; height: 16px;
-      border-radius: 50%;
-      background: var(--accent, #B85C30);
-      cursor: pointer;
-    }
     .zoek-resultaat {
       font-size: 11px;
       color: var(--muted);
@@ -145,15 +138,6 @@
 
 
   <div class="filter-wrap" style="border-bottom:none;padding-bottom:0.5rem;">
-    <div class="filter-row" style="padding:0.5rem 0;">
-      <span class="filter-label">Porties</span>
-      <div class="filter-bar" style="align-items:center;gap:10px;">
-        <input type="range" id="portie-slider" min="1" max="12" value="4"
-          style="-webkit-appearance:none;appearance:none;width:120px;height:4px;border-radius:2px;background:var(--border);outline:none;cursor:pointer;">
-        <span id="portie-val" style="font-family:var(--sans);font-size:13px;font-weight:700;color:var(--accent);min-width:18px;">4</span>
-        <span style="font-family:var(--sans);font-size:13px;color:var(--muted);">personen</span>
-      </div>
-    </div>
     <div class="filter-row" style="border-bottom:none;padding:0.5rem 0;">
       <span class="filter-label">Mijn lijst</span>
       <div class="filter-bar">
@@ -177,24 +161,7 @@
     let activeKeuken = 'all';
     let activeCategorie = 'all';
     let activeMijnFilter = null; // 'favorieten' of 'vandaag'
-    let portieAantal = 4;
 
-    function basisPortie(servStr) {
-      if (!servStr) return 4;
-      const m = (servStr || '').match(/(\d+)/);
-      return m ? parseInt(m[1]) : 4;
-    }
-
-    function berekenPortie(servStr, portie) {
-      const basis = basisPortie(servStr);
-      if (basis === portie) return servStr;
-      const factor = portie / (basis || 4);
-      return servStr.replace(/(\d+(?:[,.]\d+)?)/g, (m) => {
-        const n = parseFloat(m.replace(',','.'));
-        const r = Math.round(n * factor * 10) / 10;
-        return (r % 1 === 0 ? r.toString() : r.toString().replace('.',','));
-      });
-    }
 
     // localStorage helpers
     function loadSet(key) {
@@ -288,13 +255,6 @@
       initLazyBg();
     });
 
-    document.getElementById('portie-slider').addEventListener('input', e => {
-      portieAantal = parseInt(e.target.value);
-      document.getElementById('portie-val').textContent = portieAantal;
-      renderRecipes();
-      initLazyBg();
-    });
-
     zoekClear.addEventListener('click', () => {
       zoekInput.value = '';
       zoekQuery = '';
@@ -342,8 +302,7 @@
                 <p>${r.short_description || ''}</p>
                 <div class="tags">
                   ${r.time ? `<span class="tag">${r.time}</span>` : ''}
-                  <span class="tag" style="background:#EEF4EE;color:#4A7A4A;">👥 ${berekenPortie(r.servings, portieAantal)}</span>
-                  ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
+${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
                   ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
                 </div>
               </div>
