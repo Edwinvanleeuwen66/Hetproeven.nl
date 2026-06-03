@@ -18,6 +18,11 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
+    .portie-wrap{display:flex;align-items:center;gap:10px;margin:0 0 1rem;font-family:'Lato',sans-serif;font-size:14px;color:#7A6A5A}
+    .portie-wrap label{font-weight:600;color:#4A3728}
+    .portie-slider{-webkit-appearance:none;appearance:none;width:140px;height:4px;border-radius:2px;background:#D4C8B4;outline:none;cursor:pointer}
+    .portie-slider::-webkit-slider-thumb{-webkit-appearance:none;width:16px;height:16px;border-radius:50%;background:#B85C30;cursor:pointer}
+    .portie-val{font-weight:700;color:#B85C30;min-width:20px}
     .tip-item{display:flex;gap:10px;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:14px;line-height:1.7;color:#4A3728}
     .tip-item:last-child{border-bottom:none;padding-bottom:0}
     .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
@@ -61,6 +66,12 @@
   </div>
   <h1 class="recipe-title">Watermeloen-currysaus met krokante aardappelgarnalen</h1>
   <p class="recipe-desc">Een verrassend elegant voorgerecht geïnspireerd op Simon Hulstone van The Elephant. Watermeloenblokjes kort gedroogd en opgewarmd in een fluweelzachte currybottersaus van vers watermeloensap, geroosterd korianderzaad en sjalot. Elke garnaal strak omwonden met fijne aardappeldraden en gefrituurd tot goudkrokant. Zoet, kruidig, fris en krokant — en veel eenvoudiger te maken dan het klinkt.</p>
+  <div class="portie-wrap">
+    <label>Porties aanpassen:</label>
+    <input class="portie-slider" type="range" id="portie-slider" min="1" max="12" value="4">
+    <span class="portie-val" id="portie-val">4</span>
+    <span>personen</span>
+  </div>
   <div class="recipe-meta">
     <span class="tag">50 min</span><span class="tag">4 voorgerechten (3 garnalen pp)</span><span class="tag tag-acc">Gemiddeld</span><span class="tag tag-wine">🍷 Gewurztraminer d&#x27;Alsace AOC — Alsace, Frankrijk</span>
     <span style="margin-left:auto;display:flex;gap:8px">
@@ -131,6 +142,48 @@
     <div id="reviews-lijst"></div>
   </div>
   <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
+  <script>
+    // ── Portie-schuif ───────────────────────────────────────────
+    (function() {
+      const slider = document.getElementById('portie-slider');
+      const valEl  = document.getElementById('portie-val');
+      if (!slider) return;
+
+      // Verzamel alle elementen met data-basis en data-eenheid
+      function basisPortie(servStr) {
+        const m = (servStr || '').match(/(\d+)/);
+        return m ? parseInt(m[1]) : 4;
+      }
+
+      // Sla originele ingrediëntbedragen op
+      const amounts = [];
+      document.querySelectorAll('.ing-amount').forEach((el, i) => {
+        const orig = el.textContent.trim();
+        const num  = parseFloat(orig.replace(',','.'));
+        amounts.push({ el, orig, num, valid: !isNaN(num) && num > 0 });
+      });
+
+      // Originele servings tekst
+      const servTag = document.querySelector('.tag');
+      const origServ = servTag ? servTag.textContent : '';
+      const basis = basisPortie('4 voorgerechten (3 garnalen pp)');
+
+      slider.value = basis;
+      valEl.textContent = basis;
+
+      slider.addEventListener('input', () => {
+        const portie = parseInt(slider.value);
+        valEl.textContent = portie;
+        const factor = portie / (basis || 4);
+
+        amounts.forEach(a => {
+          if (!a.valid) return;
+          const result = Math.round(a.num * factor * 100) / 100;
+          a.el.textContent = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
+        });
+      });
+    })();
+  </script>
   <script>
     function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
     function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
