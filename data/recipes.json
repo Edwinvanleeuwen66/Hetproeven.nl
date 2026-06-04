@@ -55076,6 +55076,1349 @@
       },
       "source_recipe_number": 161,
       "full_title_docx": "161. ZACHT GEGAARD EI MET POMPOENCRÈME, PADDENSTOEL, TOSCAANSE KAAS EN CULATELLO"
+    },
+    {
+      "title": "Tomaat, Aardbei en Burrata met Oude Balsamico en Basilicum",
+      "slug": "tomaat-aardbei-burrata-oude-balsamico-basilicum",
+      "location": "Emilia-Romagna / Toscane, Italië",
+      "time": "25 min + 30 min burrata op kamertemperatuur",
+      "servings": "4 kleine porties",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/tomaat-aardbei-burrata-oude-balsamico-basilicum.jpg",
+      "short_description": "Vijf zomerse ingrediënten op hun best: rijpe tomaat in meerdere variëteiten, vlezige aardbei, romige burrata, glanzende parels oude balsamico tradizionale en jonge basilicum — strak gebouwd, volwassen en direct.",
+      "description": "Vijf zomerse ingrediënten op hun best. Rijpe tomaat in meerdere variëteiten ontmoet vlezige aardbei — twee rode vruchten die hun aromatische DNA delen. Romige burrata, glanzende parels oude balsamico tradizionale, jonge basilicum, geroosterde pistache, royale zwarte peper en topkwaliteit olijfolie maken het af. Niet zoet, niet salade — een strak gebouwde, volwassen voorgerecht waar elke hap fris, romig, zoet-zuur en peperig tegelijk is.",
+      "full_intro": "Vijf zomerse ingrediënten op hun best. Rijpe tomaat in meerdere variëteiten ontmoet vlezige aardbei — twee rode vruchten die hun aromatische DNA delen. Romige burrata, glanzende parels oude balsamico tradizionale, jonge basilicum, geroosterde pistache, royale zwarte peper en topkwaliteit olijfolie maken het af. Niet zoet, niet salade — een strak gebouwde, volwassen voorgerecht waar elke hap fris, romig, zoet-zuur en peperig tegelijk is.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tomaten en aardbeien",
+          "ingredients": [
+            {
+              "name": "gemengde rijpe tomaten in 2 à 3 variëteiten (bv. coeur de boeuf, cherrytomaten rood + geel, San Marzano of kumato)",
+              "amount": "250g"
+            },
+            {
+              "name": "rijpe aardbeien (Mara des Bois, Gariguette of Elsanta op piek)",
+              "amount": "200g"
+            },
+            {
+              "name": "fleur de sel (om de tomaten voor te zouten)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de burrata",
+          "ingredients": [
+            {
+              "name": "grote bol burrata (ca. 200–250g), minimaal 30 min op kamertemperatuur",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de crunch",
+          "ingredients": [
+            {
+              "name": "geroosterde pistache (of pijnboompitten), grof gehakt",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+              "amount": "2 tl"
+            },
+            {
+              "name": "topkwaliteit extra-vergine olijfolie (Toscaans Frantoio of Moraiolo)",
+              "amount": "2 el"
+            },
+            {
+              "name": "kleine basilicumblaadjes (basilico greco / nano of toppen van gewone basilicum)",
+              "amount": "8–10"
+            },
+            {
+              "name": "enkele kristallen fleur de sel",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper, royaal en grof",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de tomaten en aardbeien",
+          "ingredients": [
+            "250g gemengde rijpe tomaten in 2 à 3 variëteiten en kleuren (bv. 1 kleine coeur de boeuf, 8 cherrytomaten in rood + geel, 2 San Marzano of kumato)",
+            "200g rijpe aardbeien (liefst kleine, geurige — Mara des Bois, Gariguette of Elsanta op piek)",
+            "½ tl fleur de sel (om de tomaten voor te zouten)",
+            "1 tl extra-vergine olijfolie",
+            "½ tl vers citroensap",
+            "Vers gemalen zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de burrata",
+          "ingredients": [
+            "1 grote bol burrata (ca. 200–250g), minimaal 30 min op kamertemperatuur"
+          ]
+        },
+        {
+          "group_name": "Voor de crunch",
+          "ingredients": [
+            "1 el geroosterde pistache (of pijnboompitten), grof gehakt"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "2 tl oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+            "2 el topkwaliteit extra-vergine olijfolie (Toscaans Frantoio of Moraiolo)",
+            "8–10 kleine basilicumblaadjes (basilico greco / nano of toppen van gewone basilicum)",
+            "Enkele kristallen fleur de sel",
+            "Vers gemalen zwarte peper, royaal en grof"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Burrata temperen",
+          "description": "Haal de burrata minimaal 30 minuten voor serveren uit de koelkast. Koud uit de koelkast smaakt vlak en stug — op kamertemperatuur komt het volledige roomprofiel naar voren. Cruciaal."
+        },
+        {
+          "number": 2,
+          "action": "Tomaten snijden en voorzouten",
+          "description": "Snijd de coeur de boeuf in dikke plakken van ca. 1cm, de cherrytomaten in halfjes of kwartjes, en de San Marzano of kumato in nette plakjes. Leg de tomaatstukken in één laag op een schaal, bestrooi licht met fleur de sel en laat 10–15 minuten staan. Het zout trekt overtollig vocht en intensiveert de smaak. Dep daarna kort met keukenpapier, meng zacht met de olijfolie, een paar druppels citroensap en zwarte peper."
+        },
+        {
+          "number": 3,
+          "action": "Aardbeien snijden",
+          "description": "Spoel de aardbeien voorzichtig, dep droog en verwijder de kroontjes. Snijd in plakjes van 4–5mm of in kwartjes. Laat puur — geen marinade, geen suiker. Hun smaak komt straks tot leven door de balsamico op het bord."
+        },
+        {
+          "number": 4,
+          "action": "Pistache roosteren",
+          "description": "Rooster de gehakte pistache kort in een droge pan op middelhoog vuur tot geurig — 2 à 3 minuten. Stort op een bord en laat afkoelen."
+        },
+        {
+          "number": 5,
+          "action": "Burrata scheuren en opbouwen",
+          "description": "Breek de burrata vlak voor serveren met je handen voorzichtig in 4 onregelmatige stukken. Laat het romige binnenste (stracciatella) zichtbaar. Verdeel de tomaatstukken in een losse, asymmetrische compositie over vier platte borden. Speel met hoogteverschillen en kleurcontrasten. Verdeel de aardbeien ertussen, deels overlappend met de tomaat. Plaats een stuk burrata in of vlak naast het midden, met het zachte hart zichtbaar."
+        },
+        {
+          "number": 6,
+          "action": "Afwerken en serveren",
+          "description": "Lepel 4–5 geconcentreerde druppels oude balsamico tradizionale rondom — geen straal, parels — direct op tomaat, aardbei en burrata. Strooi de geroosterde pistache erover. Werk af met enkele kleine basilicumblaadjes, een royale draai vers gemalen grove zwarte peper, een fijne stroom olijfolie en enkele kristallen fleur de sel. Serveer direct."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Burrata temperen",
+          "description": "Haal de burrata minimaal 30 minuten voor serveren uit de koelkast. Koud uit de koelkast smaakt vlak en stug — op kamertemperatuur komt het volledige roomprofiel naar voren. Cruciaal."
+        },
+        {
+          "number": 2,
+          "section": "Tomaten snijden en voorzouten",
+          "description": "Snijd de coeur de boeuf in dikke plakken van ca. 1cm, de cherrytomaten in halfjes of kwartjes, en de San Marzano of kumato in nette plakjes. Leg de tomaatstukken in één laag op een schaal, bestrooi licht met fleur de sel en laat 10–15 minuten staan. Het zout trekt overtollig vocht en intensiveert de smaak. Dep daarna kort met keukenpapier, meng zacht met de olijfolie, een paar druppels citroensap en zwarte peper."
+        },
+        {
+          "number": 3,
+          "section": "Aardbeien snijden",
+          "description": "Spoel de aardbeien voorzichtig, dep droog en verwijder de kroontjes. Snijd in plakjes van 4–5mm of in kwartjes. Laat puur — geen marinade, geen suiker. Hun smaak komt straks tot leven door de balsamico op het bord."
+        },
+        {
+          "number": 4,
+          "section": "Pistache roosteren",
+          "description": "Rooster de gehakte pistache kort in een droge pan op middelhoog vuur tot geurig — 2 à 3 minuten. Stort op een bord en laat afkoelen."
+        },
+        {
+          "number": 5,
+          "section": "Burrata scheuren en opbouwen",
+          "description": "Breek de burrata vlak voor serveren met je handen voorzichtig in 4 onregelmatige stukken. Laat het romige binnenste (stracciatella) zichtbaar. Verdeel de tomaatstukken in een losse, asymmetrische compositie over vier platte borden. Speel met hoogteverschillen en kleurcontrasten. Verdeel de aardbeien ertussen, deels overlappend met de tomaat. Plaats een stuk burrata in of vlak naast het midden, met het zachte hart zichtbaar."
+        },
+        {
+          "number": 6,
+          "section": "Afwerken en serveren",
+          "description": "Lepel 4–5 geconcentreerde druppels oude balsamico tradizionale rondom — geen straal, parels — direct op tomaat, aardbei en burrata. Strooi de geroosterde pistache erover. Werk af met enkele kleine basilicumblaadjes, een royale draai vers gemalen grove zwarte peper, een fijne stroom olijfolie en enkele kristallen fleur de sel. Serveer direct."
+        }
+      ],
+      "tips": [
+        "Kwaliteit is hier álles: met vijf ingrediënten kun je nergens achter wegduiken. Tomaten op piek (juli–september), aardbeien geurig en niet onderaan een doosje, burrata van een goede Italiaanse kaaswinkel op kamertemperatuur. En gebruik échte aceto balsamico tradizionale di Modena DOP, minimaal 12 jaar.",
+        "Geen tradizionale? Kies een goede condimento, geen reductie: een commerciële condimento van Giusti, Malpighi, Manicardi of Acetaia Leonardi is dik en complex genoeg. Reduceren van gewone balsamico maakt hem plakkerig en minder elegant.",
+        "Voorzouten van de tomaat is geen optie: het is het verschil tussen waterige slappe basis en geconcentreerde smaakvolle stukken. 10–15 minuten is genoeg, daarna kort deppen.",
+        "Burrata op kamertemperatuur is cruciaal: ijskoud is hij stug en vlak. Bij 18–20°C komt het volledige roomprofiel naar voren. Geldt ook voor tomaat en aardbei — serveer alles rond koele kamertemperatuur.",
+        "Pistache versus pijnboompit: pistache geeft meer kleur (groen) en een moderner gevoel. Pijnboompit is klassiek-Italiaans en zachter van smaak. Pistache oogt iets feestelijker op het bord.",
+        "Burrata-alternatief: stracciatella alleen (het romige binnenste) is eleganter te plateren en geeft puur het hart. Bufala is voller dan koemozzarella en past goed bij dit profiel.",
+        "Voor extra restaurantgevoel: enkele plakken tomaat 10 seconden blancheren, ontvellen en koud terug geeft een zachtere, elegantere structuur. En een zelfgemaakte basilicumolie als heldere groene druppels naast de balsamico tilt het bord naar een volgend niveau.",
+        "Seizoensvariatie buiten de zomer: geen aardbeien op piek? Vervang door rijpe vijgen in het najaar of gele perzik in de late zomer. Vijgen vragen geen extra werk; perzik snijd je in dunne partjes."
+      ],
+      "tips_full": [
+        "Kwaliteit is hier álles: met vijf ingrediënten kun je nergens achter wegduiken. Tomaten op piek (juli–september), aardbeien geurig en niet onderaan een doosje, burrata van een goede Italiaanse kaaswinkel op kamertemperatuur. En gebruik échte aceto balsamico tradizionale di Modena DOP, minimaal 12 jaar.",
+        "Geen tradizionale? Kies een goede condimento, geen reductie: een commerciële condimento van Giusti, Malpighi, Manicardi of Acetaia Leonardi is dik en complex genoeg. Reduceren van gewone balsamico maakt hem plakkerig en minder elegant.",
+        "Voorzouten van de tomaat is geen optie: het is het verschil tussen waterige slappe basis en geconcentreerde smaakvolle stukken. 10–15 minuten is genoeg, daarna kort deppen.",
+        "Burrata op kamertemperatuur is cruciaal: ijskoud is hij stug en vlak. Bij 18–20°C komt het volledige roomprofiel naar voren. Geldt ook voor tomaat en aardbei — serveer alles rond koele kamertemperatuur.",
+        "Pistache versus pijnboompit: pistache geeft meer kleur (groen) en een moderner gevoel. Pijnboompit is klassiek-Italiaans en zachter van smaak. Pistache oogt iets feestelijker op het bord.",
+        "Burrata-alternatief: stracciatella alleen (het romige binnenste) is eleganter te plateren en geeft puur het hart. Bufala is voller dan koemozzarella en past goed bij dit profiel.",
+        "Voor extra restaurantgevoel: enkele plakken tomaat 10 seconden blancheren, ontvellen en koud terug geeft een zachtere, elegantere structuur. En een zelfgemaakte basilicumolie als heldere groene druppels naast de balsamico tilt het bord naar een volgend niveau.",
+        "Seizoensvariatie buiten de zomer: geen aardbeien op piek? Vervang door rijpe vijgen in het najaar of gele perzik in de late zomer. Vijgen vragen geen extra werk; perzik snijd je in dunne partjes."
+      ],
+      "opmaak_presentatie": "Platte, brede borden in mat wit of zacht lichtgrijs. Asymmetrisch bouwen met negatieve ruimte langs de randen. Wissel sneden af: dikke plak naast halfje cherry, kwartje aardbei tussen twee tomaten. Burrata krijgt het hoogste punt — hand-gescheurd met het zachte hart naar boven. Balsamico-druppels glimmen als donkere parels rondom. Pistache als groene accenten verspreid. Royale draai grove zwarte peper over de burrata. Serveer direct op kamertemperatuur — nooit ijskoud.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Bardolino Chiaretto DOC — Veneto, Italië",
+          "druif": "Corvina (hoofdrol), Rondinella, Molinara",
+          "smaakprofiel": "Droge rosé, lichtvoetig, met aroma's van aardbei, kers, granaatappel, witte bloemen, lichte kruidigheid en een fris-zoutig accent. Levendige zuren, slank maar expressief.",
+          "omschrijving": "Bardolino Chiaretto komt van het Gardameer, gemaakt van dezelfde druiven als de rode Bardolino maar met korte schilcontact. Een serieuze gastronomische rosé. Le Fraghe, Guerrieri Rizzardi, Cavalchina of Costadoro. Serveer goed gekoeld bij 10–12°C.",
+          "waarom_werkt_dit": "Dit gerecht leeft van frisheid en contrast — de romige burrata vraagt een wijn die licht genoeg is om haar niet te begraven, maar met genoeg pit om de zoetheid van aardbei en balsamico te kaderen. Chiaretto heeft dat gewicht precies goed. De levendige zuren snijden met elegantie door de stracciatella en zorgen ervoor dat elke hap opnieuw fris aanvoelt. En dan is er het aroma: de wijn draagt dezelfde aardbei- en kerstonen als het bord zelf — niet als toeval, maar als echo. Basilicum en zwarte peper vinden hun weerklank in de lichte kruidigheid van de Corvina. Italiaans zomergevoel in het glas."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Lambrusco di Sorbara Secco — Emilia-Romagna, Italië",
+          "druif": "Lambrusco di Sorbara",
+          "smaakprofiel": "Droge, lichtbruisende rode wijn met bleekroze kleur. Aroma's van aardbei, framboos, kers, viooltje en een lichte zoutige mineraliteit. Hoge zuren, fijne mousse, slanke body, droge finale.",
+          "omschrijving": "Vergeet de stroperige zoete Lambrusco van vroeger — Sorbara secco is de meest verfijnde en frisse stijl, bijna roosachtig van kleur. Cleto Chiarli, Cantina della Volta, Paltrinieri of Cavicchioli. Serveer goed gekoeld bij 8–10°C.",
+          "waarom_werkt_dit": "Sorbara komt uit Modena — dezelfde grond als de balsamico tradizionale op het bord. Dat is geen toeval maar terroir: de hoge zuren van de wijn zijn geboren in hetzelfde klimaat dat de druiven voor de balsamico concentreert. De fijne mousse doet iets wat een stille wijn niet kan: ze reinigt het palet na elke romige hap burrata en zet de smaakklok opnieuw. De rode bessen-aroma's spiegelen aardbei en tomaat tegelijk — de meest speelse, regio-eigen keuze van de drie."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Schiava (Vernatsch) — Alto Adige, Italië",
+          "druif": "Schiava (Vernatsch)",
+          "smaakprofiel": "Lichte rode wijn, bleekrood-roze, met aroma's van aardbei, rode kers, viooltje, amandel en een licht ziltige mineraliteit. Frisse zuren, zeer lichte tannine, slank en levendig.",
+          "omschrijving": "Een van de meest onderschatte lichte rode wijnen van Italië. Lago di Caldaro (Kalterersee) of Santa Maddalena. Franz Haas, Manincor, Elena Walch of Cantina Tramin. Serveer licht gekoeld bij 13–14°C. Een Frappato uit Sicilië valt in exact dezelfde categorie en is breder verkrijgbaar.",
+          "waarom_werkt_dit": "Schiava heeft van nature uitgesproken aardbei-aroma's — een aroma-echo die zo direct is dat hij bijna verrassend voelt. Maar wat dit een gastronomische keuze maakt en geen truuk: de vrijwel afwezige tannine en de frisse zuurgraad zorgen ervoor dat de wijn nooit botst met de zuurheid van tomaat en balsamico, waar zwaardere rode wijnen zouden haperen. De amandel-toets sluit aan bij pistache en olijfolie. Het gerecht blijft de hoofdrol houden — de wijn begeleidt, overtuigt en verdwijnt daarna elegant."
+        }
+      ],
+      "wine": {
+        "naam": "Bardolino Chiaretto DOC — Veneto, Italië",
+        "druif": "Corvina, Rondinella, Molinara",
+        "toelichting": "Chiaretto heeft het gewicht dat dit gerecht vraagt — licht genoeg voor de delicate burrata, met genoeg pit voor aardbei en balsamico. De levendige zuren snijden door de stracciatella, de aardbei- en kerstonen spiegelen het bord direct. Serveer op 10–12°C.",
+        "alternatief": "Lambrusco di Sorbara Secco of Schiava (Vernatsch) uit Alto Adige"
+      },
+      "metadata": {
+        "bereidingstijd": "25 min + 30 min burrata op kamertemperatuur",
+        "porties": "4 kleine porties",
+        "type_gerecht": "Voorgerecht / amuse / tussengerecht",
+        "niveau": "Makkelijk"
+      },
+      "source_recipe_number": 162,
+      "full_title_docx": "162. TOMAAT, AARDBEI EN BURRATA MET OUDE BALSAMICO EN BASILICUM"
+    },
+    {
+      "title": "Tagliata van Entrecôte met Rucola, Oude Parmezaan en Balsamico",
+      "slug": "tagliata-entrecote-rucola-oude-parmezaan-balsamico",
+      "location": "Toscane, Italië",
+      "time": "25 min + 45 min temperen + 10 min rusten",
+      "servings": "4 kleine/middelgrote porties",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "vlees",
+      "image": "/assets/images/tagliata-entrecote-rucola-oude-parmezaan-balsamico.jpg",
+      "short_description": "De Toscaanse trattoria-klassieker: dik gebakken entrecôte, rosé gerust en dun gesneden over peperige wilde rucola, met grote schaafsels oude Parmigiano, parels balsamico tradizionale en een royale stroom Toscaanse olijfolie.",
+      "description": "Een klassieker uit de Toscaanse trattoria-cultuur. Een dik gebakken entrecôte, kort rosé in een gloeiend hete pan, ruim gerust en daarna in dunne plakken gesneden — lauwwarm geserveerd op peperige wilde rucola, met grote schaafsels oude Parmigiano Reggiano, parels balsamico tradizionale, een royale stroom Toscaanse olijfolie en grof gemalen zwarte peper. Eenvoudig, klassiek, en in alles afhankelijk van de kwaliteit van het vlees en de discipline om het lang genoeg te laten rusten.",
+      "full_intro": "Een klassieker uit de Toscaanse trattoria-cultuur. Een dik gebakken entrecôte, kort rosé in een gloeiend hete pan, ruim gerust en daarna in dunne plakken gesneden — lauwwarm geserveerd op peperige wilde rucola, met grote schaafsels oude Parmigiano Reggiano, parels balsamico tradizionale, een royale stroom Toscaanse olijfolie en grof gemalen zwarte peper. Eenvoudig, klassiek, en in alles afhankelijk van de kwaliteit van het vlees en de discipline om het lang genoeg te laten rusten.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "entrecôte in één stuk, ca. 2,5–3cm dik (liefst dry-aged, met goede marmering)",
+              "amount": "500g"
+            },
+            {
+              "name": "druivenpitolie of zonnebloemolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper, grof",
+              "amount": ""
+            },
+            {
+              "name": "teen knoflook, ongepeld en licht geplet",
+              "amount": "1"
+            },
+            {
+              "name": "takje verse rozemarijn",
+              "amount": "1"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de salade-basis",
+          "ingredients": [
+            {
+              "name": "wilde rucola (rugola selvatica), gewassen en goed droog",
+              "amount": "80g"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "oude Parmigiano Reggiano (24–36 maanden), in grote schaafsels met dunschiller",
+              "amount": "60g"
+            },
+            {
+              "name": "oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+              "amount": "2 tl"
+            },
+            {
+              "name": "topkwaliteit extra-vergine olijfolie (Toscaans Frantoio of Moraiolo)",
+              "amount": "3 el"
+            },
+            {
+              "name": "vlokkenzout (Maldon of fleur de sel)",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper, grof",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            "500g entrecôte in één stuk, ca. 2,5–3cm dik (liefst dry-aged, met goede marmering)",
+            "1 el druivenpitolie of zonnebloemolie",
+            "Fleur de sel",
+            "Vers gemalen zwarte peper, grof",
+            "1 teen knoflook, ongepeld en licht geplet",
+            "1 takje verse rozemarijn",
+            "20g roomboter"
+          ]
+        },
+        {
+          "group_name": "Voor de salade-basis",
+          "ingredients": [
+            "80g wilde rucola (rugola selvatica), gewassen en goed droog",
+            "1 tl vers citroensap",
+            "1 tl extra-vergine olijfolie",
+            "Snuf fleur de sel"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "60g oude Parmigiano Reggiano (24–36 maanden), in grote schaafsels met dunschiller",
+            "2 tl oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+            "3 el topkwaliteit extra-vergine olijfolie (Toscaans Frantoio of Moraiolo)",
+            "Vlokkenzout (Maldon of fleur de sel)",
+            "Vers gemalen zwarte peper, grof"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Vlees temperen",
+          "description": "Haal de entrecôte minimaal 45 minuten voor bereiding uit de koelkast en dep grondig droog met keukenpapier. Koud vlees bakt ongelijk — kamertemperatuur is geen detail, het is fundamenteel."
+        },
+        {
+          "number": 2,
+          "action": "Pan voorbereiden en vlees bakken",
+          "description": "Verhit een zware gietijzeren pan of grillpan op hoog vuur tot bijna rokend heet. Bestrijk het vlees zelf licht met de druivenpitolie (niet de pan) en strooi royaal fleur de sel en grof gemalen zwarte peper aan beide zijden. Leg het vlees in de hete pan en bak 2,5 à 3 minuten zonder bewegen. Draai om en bak nog 2,5 à 3 minuten — voor een rosé kerntemperatuur van 52–54°C. Voeg in de laatste minuut de knoflook, rozemarijn en boter toe en bedruip het vlees met de aromatische boter."
+        },
+        {
+          "number": 3,
+          "action": "Rusten — cruciaal",
+          "description": "Leg het vlees op een snijplank, dek losjes af met aluminiumfolie en laat 8–10 minuten rusten. Niet inkorten. De vezels ontspannen zich, het sap herverdeelt zich. Snijden op het juiste moment is het verschil tussen sappig en uitgelopen."
+        },
+        {
+          "number": 4,
+          "action": "Rucola dressen",
+          "description": "Meng de wilde rucola heel licht met het citroensap, 1 tl olijfolie en een snuf fleur de sel. Niet kneden of langdurig laten staan — de blaadjes moeten levendig blijven."
+        },
+        {
+          "number": 5,
+          "action": "Snijden en opbouwen",
+          "description": "Snijd het vlees met een scherp, lang mes in dunne plakken van 5–7mm — altijd tegen de draad in. De plakken moeten een diep rosé hart tonen. Schik de plakken in een losse waaier of overlappende lijn op vier voorverwarmde platte borden. Verdeel de gedressde rucola luchtig erover en eromheen — niet eronder, daar verlept ze van de restwarmte. Strooi de grote Parmezaan-schaafsels royaal erover."
+        },
+        {
+          "number": 6,
+          "action": "Afwerken en serveren",
+          "description": "Lepel 4–5 geconcentreerde druppels koude balsamico tradizionale verspreid over vlees en kaas — geen straal, parels. Schenk een fijne, gulle stroom topkwaliteit olijfolie over het geheel. Werk af met een snuf vlokkenzout en een royale draai grof gemalen zwarte peper. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Vlees temperen",
+          "description": "Haal de entrecôte minimaal 45 minuten voor bereiding uit de koelkast en dep grondig droog met keukenpapier. Koud vlees bakt ongelijk — kamertemperatuur is geen detail, het is fundamenteel."
+        },
+        {
+          "number": 2,
+          "section": "Pan voorbereiden en vlees bakken",
+          "description": "Verhit een zware gietijzeren pan of grillpan op hoog vuur tot bijna rokend heet. Bestrijk het vlees zelf licht met de druivenpitolie (niet de pan) en strooi royaal fleur de sel en grof gemalen zwarte peper aan beide zijden. Leg het vlees in de hete pan en bak 2,5 à 3 minuten zonder bewegen. Draai om en bak nog 2,5 à 3 minuten — voor een rosé kerntemperatuur van 52–54°C. Voeg in de laatste minuut de knoflook, rozemarijn en boter toe en bedruip het vlees met de aromatische boter."
+        },
+        {
+          "number": 3,
+          "section": "Rusten — cruciaal",
+          "description": "Leg het vlees op een snijplank, dek losjes af met aluminiumfolie en laat 8–10 minuten rusten. Niet inkorten. De vezels ontspannen zich, het sap herverdeelt zich. Snijden op het juiste moment is het verschil tussen sappig en uitgelopen."
+        },
+        {
+          "number": 4,
+          "section": "Rucola dressen",
+          "description": "Meng de wilde rucola heel licht met het citroensap, 1 tl olijfolie en een snuf fleur de sel. Niet kneden of langdurig laten staan — de blaadjes moeten levendig blijven."
+        },
+        {
+          "number": 5,
+          "section": "Snijden en opbouwen",
+          "description": "Snijd het vlees met een scherp, lang mes in dunne plakken van 5–7mm — altijd tegen de draad in. De plakken moeten een diep rosé hart tonen. Schik de plakken in een losse waaier of overlappende lijn op vier voorverwarmde platte borden. Verdeel de gedressde rucola luchtig erover en eromheen — niet eronder, daar verlept ze van de restwarmte. Strooi de grote Parmezaan-schaafsels royaal erover."
+        },
+        {
+          "number": 6,
+          "section": "Afwerken en serveren",
+          "description": "Lepel 4–5 geconcentreerde druppels koude balsamico tradizionale verspreid over vlees en kaas — geen straal, parels. Schenk een fijne, gulle stroom topkwaliteit olijfolie over het geheel. Werk af met een snuf vlokkenzout en een royale draai grof gemalen zwarte peper. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Vlees is hier álles: vraag bij de slager om een dry-aged entrecôte van minimaal 28 dagen rijping, met goede marmering en een vetrandje. Geen entrecôte? Een Black Angus ribeye werkt ook uitstekend; lendebiefstuk mist het vet en wordt droger.",
+        "Eén dik stuk, niet twee dunnere: een enkel stuk van 2,5–3cm dik blijft veel sappiger dan dunnere snedes en geeft de mooiste rosé kern bij het snijden. Dunne lapjes worden tagliata-imitatie, geen tagliata.",
+        "Hete pan en niet bewegen: een gietijzeren pan op echt hoog vuur geeft de korst die het gerecht maakt. Verplaats het vlees niet tijdens het bakken — beweging onderbreekt de Maillard-reactie. Bedruip pas in de laatste minuut met boter.",
+        "Rusten is geen suggestie: vlees direct snijden geeft vocht op de plank en droog vlees op het bord. 8 tot 10 minuten onder folie, ook al kookt iedereen op je. Tijdens het rusten heb je tijd voor de rucola en de plating.",
+        "Tegen de draad, lauwwarm, niet kokend: kijk naar de vezelrichting en snijd er loodrecht op in plakken van 5–7mm. Serveer tiepida — lauwwarm. De rucola mag niet verleppen, de kaas niet smelten, de balsamico niet karameliseren.",
+        "Balsamico koud en spaarzaam, nooit als saus: echte aceto balsamico tradizionale DOP (minimaal 12 jaar) of een goede condimento van Giusti, Malpighi of Manicardi. Druppel koud op het bord — hij moet als geconcentreerde zoet-zure smaakbom werken, niet als warme stroop.",
+        "Kaas in grote stroken, niet geraspt: altijd schaven met een dunschiller of kaasschaaf. Fijn raspen maakt het gerecht stoffig. Vacche Rosse (36 maanden+) is een mooie stap omhoog. Pecorino Toscano stagionato geeft een ziltiger, pittiger karakter.",
+        "Optionele variaties: enkele halve datterino-tomaatjes voor frisheid in de zomer. Licht geroosterde pijnboompitten voor crunch. In wintertruffelseizoen: dunne schaafsels witte truffel direct boven het bord — bijna onverslaanbaar."
+      ],
+      "tips_full": [
+        "Vlees is hier álles: vraag bij de slager om een dry-aged entrecôte van minimaal 28 dagen rijping, met goede marmering en een vetrandje. Geen entrecôte? Een Black Angus ribeye werkt ook uitstekend; lendebiefstuk mist het vet en wordt droger.",
+        "Eén dik stuk, niet twee dunnere: een enkel stuk van 2,5–3cm dik blijft veel sappiger dan dunnere snedes en geeft de mooiste rosé kern bij het snijden. Dunne lapjes worden tagliata-imitatie, geen tagliata.",
+        "Hete pan en niet bewegen: een gietijzeren pan op echt hoog vuur geeft de korst die het gerecht maakt. Verplaats het vlees niet tijdens het bakken — beweging onderbreekt de Maillard-reactie. Bedruip pas in de laatste minuut met boter.",
+        "Rusten is geen suggestie: vlees direct snijden geeft vocht op de plank en droog vlees op het bord. 8 tot 10 minuten onder folie, ook al kookt iedereen op je. Tijdens het rusten heb je tijd voor de rucola en de plating.",
+        "Tegen de draad, lauwwarm, niet kokend: kijk naar de vezelrichting en snijd er loodrecht op in plakken van 5–7mm. Serveer tiepida — lauwwarm. De rucola mag niet verleppen, de kaas niet smelten, de balsamico niet karameliseren.",
+        "Balsamico koud en spaarzaam, nooit als saus: echte aceto balsamico tradizionale DOP (minimaal 12 jaar) of een goede condimento van Giusti, Malpighi of Manicardi. Druppel koud op het bord — hij moet als geconcentreerde zoet-zure smaakbom werken, niet als warme stroop.",
+        "Kaas in grote stroken, niet geraspt: altijd schaven met een dunschiller of kaasschaaf. Fijn raspen maakt het gerecht stoffig. Vacche Rosse (36 maanden+) is een mooie stap omhoog. Pecorino Toscano stagionato geeft een ziltiger, pittiger karakter.",
+        "Optionele variaties: enkele halve datterino-tomaatjes voor frisheid in de zomer. Licht geroosterde pijnboompitten voor crunch. In wintertruffelseizoen: dunne schaafsels witte truffel direct boven het bord — bijna onverslaanbaar."
+      ],
+      "opmaak_presentatie": "Platte witte of crèmekleurige borden, lauwwarm voorverwarmd op 60°C. Plakken vlees in een losse waaier of zachte overlappende lijn — rosé hart zichtbaar. Wilde rucola los en luchtig over en náást het vlees, nooit eronder. Parmezaan-schaafsels groot en papierdun. Balsamico als donkere amberparels, glanzend als kleine sieraden. Olijfolie maakt het bord glanzend en bindt alles visueel samen. Laatste draai grove zwarte peper en zichtbare vlokken zout. Dieprood vlees, smaragdgroene rucola, ivoorgele kaas, amber balsamico, glinsterend goud olijfolie.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chianti Classico Riserva DOCG — Toscane, Italië",
+          "druif": "Sangiovese (minimaal 80%), eventueel met Canaiolo of inheemse rassen",
+          "smaakprofiel": "Middelvol, droog, met aroma's van rijpe morellen, zwarte kers, gedroogde tomaat, leer, tabak, balsamicotonen, viooltje en mediterrane kruiden. Frisse levendige zuren, fijne maar aanwezige tannine, lange aardse finale.",
+          "omschrijving": "De Riserva-stijl wordt minimaal 24 maanden gerijpt en geeft Sangiovese tijd om zijn ruwe kantjes af te leggen. Castello di Ama, Felsina, Fontodi, Castello di Volpaia of Isole e Olena. Serveer bij 16–18°C, eventueel kort gekarafeerd.",
+          "waarom_werkt_dit": "Sangiovese zit in precies dezelfde gewichtsklasse als dit gerecht — genoeg body voor het sappige dry-aged vlees en de oude Parmezaan, niet zo zwaar dat de peperige rucola eronder verdwijnt. De hoge, frisse zuren doen twee dingen tegelijk: ze snijden door het vleesvet en spiegelen de balsamico op het bord, zodat wijn en gerecht elkaar oproepen in plaats van beconcurreren. De gerijpte tannine vindt zijn afronding in de umami van de oude kaas — een wisselwerking die alleen met voldoende rijping werkt. Een jonge Chianti zou hier met groene tannine haperen; de Riserva-status is geen luxe maar een functie."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Barbera d'Alba DOC — Piemonte, Italië",
+          "druif": "Barbera",
+          "smaakprofiel": "Middelvol, droog, sappig, met aroma's van rijpe morel, zwarte kers, pruim, viooltje, lichte zoethout en kruidige aardse ondertoon. Hoge levendige zuren, zachte fluwelige tannine.",
+          "omschrijving": "De meest aanstekelijke rode wijn van Piemonte — fris, fruitig en gastronomisch zonder de zwaarte van Barolo. Vietti, Pio Cesare, G.D. Vajra of Elvio Cogno. Kies een versie met beperkt nieuw hout. Serveer bij 15–16°C.",
+          "waarom_werkt_dit": "Barbera's grote troef bij tagliata is de combinatie van uitgesproken zuren en vrijwel geen tannine — een zeldzame combinatie die hier perfect uitpakt. De hoge zuren omarmen de balsamico zonder eraan te botsen en snijden helder door het vleesvet; de zachte tannine laat de delicate rosé plakken intact waar zwaardere wijnen ze zouden overstemmen. Het sappige rode fruit sluit aan bij de balsamico, de kruidige diepte past bij rozemarijn en zwarte peper. Toegankelijker dan Chianti Classico Riserva — gastronomisch zeker even sterk."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Brunello di Montalcino DOCG — Toscane, Italië",
+          "druif": "Sangiovese Grosso (100%)",
+          "smaakprofiel": "Vol, droog, met aroma's van geconcentreerde zwarte kers, pruim, leer, tabak, gedroogde kruiden, cederhout en aardse edele bouquet bij rijping. Hoge zuren, krachtige maar gerijpte tannine, lange minerale finale.",
+          "omschrijving": "Het topsegment van Sangiovese, minimaal vier jaar gerijpt voor release. Kies een elegante, frisse versie. Biondi-Santi, Il Poggione, Lisini of Casanova di Neri. Serveer bij 17–18°C, jongere jaargangen beslist gekarafeerd.",
+          "waarom_werkt_dit": "Dit is de luxe-stap omhoog voor wanneer het vlees de stap ook maakt — een dry-aged ribeye van topkwaliteit, een Vacche Rosse Parmezaan van 36 maanden of de truffel-upgrade. Brunello brengt meer concentratie en gravitas, maar de fluwelig gerijpte tannine omarmt het vleesvet zonder te overheersen, en de hoge Sangiovese-zuren houden de balsamico in evenwicht. Voor een bijzondere gelegenheid of als sluitstuk van een diner — overbodig voor doordeweeks, onvervangbaar voor speciaal. Een moderne wending in dezelfde gewichtsklasse: Etna Rosso van Nerello Mascalese — vulkanisch, rokerig, transparante tannine en frisse zuren."
+        }
+      ],
+      "wine": {
+        "naam": "Chianti Classico Riserva DOCG — Toscane, Italië",
+        "druif": "Sangiovese",
+        "toelichting": "Sangiovese zit in precies dezelfde gewichtsklasse als dit gerecht. De hoge zuren snijden door het vleesvet en spiegelen de balsamico, de gerijpte tannine vindt zijn afronding in de umami van oude Parmezaan. De Riserva-status is geen luxe maar een functie. Serveer op 16–18°C.",
+        "alternatief": "Barbera d'Alba DOC of Brunello di Montalcino DOCG"
+      },
+      "metadata": {
+        "bereidingstijd": "25 min + 45 min temperen + 10 min rusten",
+        "porties": "4 kleine/middelgrote porties",
+        "type_gerecht": "Klein hoofdgerecht / tussengerecht",
+        "niveau": "Makkelijk"
+      },
+      "source_recipe_number": 163,
+      "full_title_docx": "163. TAGLIATA VAN ENTRECÔTE MET RUCOLA, OUDE PARMEZAAN EN BALSAMICO"
+    },
+    {
+      "title": "Aardappelcrème met Paddenstoel, Zacht Ei, Krokante Aardappel en Balsamico",
+      "slug": "aardappelcreme-paddenstoel-zacht-ei-krokante-aardappel-balsamico",
+      "location": "Frans fine dining",
+      "time": "40 min",
+      "servings": "4 kleine/middelgrote porties",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/aardappelcreme-paddenstoel-zacht-ei-krokante-aardappel-balsamico.jpg",
+      "short_description": "Verstilde aardse compositie: fluweelzachte aardappelcrème, paddenstoelen in nootbruine boter, een zacht gepocheerd ei met vloeiende dooier, krokante pommes paille en parels oude balsamico — comfort op sterrenniveau.",
+      "description": "Een verstilde, aardse compositie waarin niets te verbergen valt. Fluweelzachte aardappelcrème als basis, daarop een mix paddenstoelen in nootbruine boter, een zacht gepocheerd ei dat zijn dooier laat lopen, krokante pommes paille voor textuur en enkele parels oude balsamico als donkere, scherpe spanning. Vier ingrediënten met overlappende umami, één tegenstem die alles in beweging zet — comfort op sterrenniveau.",
+      "full_intro": "Een verstilde, aardse compositie waarin niets te verbergen valt. Fluweelzachte aardappelcrème als basis, daarop een mix paddenstoelen in nootbruine boter, een zacht gepocheerd ei dat zijn dooier laat lopen, krokante pommes paille voor textuur en enkele parels oude balsamico als donkere, scherpe spanning. Vier ingrediënten met overlappende umami, één tegenstem die alles in beweging zet — comfort op sterrenniveau.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de aardappelcrème",
+          "ingredients": [
+            {
+              "name": "kruimige aardappel (Bintje, Eigenheimer, Yukon Gold of Russet), geschild, in gelijke blokken",
+              "amount": "450g"
+            },
+            {
+              "name": "volle melk, warm",
+              "amount": "100ml"
+            },
+            {
+              "name": "volle slagroom, warm",
+              "amount": "50ml"
+            },
+            {
+              "name": "roomboter, koud in stukjes",
+              "amount": "50g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "nootmuskaat",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de paddenstoelen",
+          "ingredients": [
+            {
+              "name": "gemengde paddenstoelen (bv. 150g kastanjechampignon + 100g shiitake of oesterzwam)",
+              "amount": "250g"
+            },
+            {
+              "name": "roomboter",
+              "amount": "1 el"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "teen knoflook, gepeld en heel",
+              "amount": "1"
+            },
+            {
+              "name": "takjes verse tijm",
+              "amount": "2"
+            },
+            {
+              "name": "fleur de sel en vers gemalen zwarte peper",
+              "amount": ""
+            },
+            {
+              "name": "droge sherry of witte wijn (optioneel, voor deglazering)",
+              "amount": "klein scheutje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het ei",
+          "ingredients": [
+            {
+              "name": "grote eieren (maat L), op kamertemperatuur",
+              "amount": "4"
+            },
+            {
+              "name": "witte wijnazijn (voor het pocheren)",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de pommes paille",
+          "ingredients": [
+            {
+              "name": "grote vastkokende aardappel (Charlotte of Nicola), geschild",
+              "amount": "200g"
+            },
+            {
+              "name": "zonnebloem- of arachideolie om te frituren",
+              "amount": "500ml"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+              "amount": "2 tl"
+            },
+            {
+              "name": "extra-vergine olijfolie (topkwaliteit, voor afwerking)",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijngeknipte bieslook",
+              "amount": "1 el"
+            },
+            {
+              "name": "kleine kruidblaadjes (peterselie, kervel of tijmtoppen)",
+              "amount": ""
+            },
+            {
+              "name": "vlokkenzout en vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de aardappelcrème",
+          "ingredients": [
+            "450g kruimige aardappel (Bintje, Eigenheimer, Yukon Gold of Russet), geschild, in gelijke blokken",
+            "100ml volle melk, warm",
+            "50ml volle slagroom, warm",
+            "50g roomboter, koud in stukjes",
+            "½ tl fijn zeezout",
+            "Snuf nootmuskaat",
+            "Vers gemalen witte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de paddenstoelen",
+          "ingredients": [
+            "250g gemengde paddenstoelen — bv. 150g kastanjechampignon + 100g shiitake of oesterzwam (of mix met cantharel/eekhoorntjesbrood in seizoen)",
+            "1 el roomboter",
+            "1 tl extra-vergine olijfolie",
+            "1 teen knoflook, gepeld en heel",
+            "2 takjes verse tijm",
+            "Fleur de sel en vers gemalen zwarte peper",
+            "Klein scheutje droge sherry of witte wijn (optioneel)"
+          ]
+        },
+        {
+          "group_name": "Voor het ei",
+          "ingredients": [
+            "4 grote eieren (maat L), op kamertemperatuur",
+            "1 el witte wijnazijn (voor het pocheren)"
+          ]
+        },
+        {
+          "group_name": "Voor de pommes paille",
+          "ingredients": [
+            "200g grote vastkokende aardappel (Charlotte of Nicola), geschild",
+            "500ml zonnebloem- of arachideolie om te frituren",
+            "Fleur de sel"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "2 tl oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+            "1 el extra-vergine olijfolie (topkwaliteit)",
+            "1 el fijngeknipte bieslook",
+            "Enkele kleine kruidblaadjes (peterselie, kervel of tijmtoppen)",
+            "Vlokkenzout en vers gemalen zwarte peper"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Pommes paille (kan vooraf)",
+          "description": "Snijd de aardappel op een mandoline in flinterdunne plakjes, dan met de hand in zeer dunne julienne van 1–2mm. Spoel grondig onder koud stromend water tot het water helder is. Dep zeer goed droog tussen schone theedoeken. Verhit de olie tot 170°C en frituur de julienne in kleine batches 2 tot 3 minuten tot diep goudbruin en krokant. Schep uit, laat uitlekken op keukenpapier en bestrooi direct met fleur de sel. Laat afkoelen op een rooster."
+        },
+        {
+          "number": 2,
+          "action": "Aardappelcrème — koken",
+          "description": "Breng een ruime pan licht gezouten water aan de kook en kook de aardappelblokken in 18–20 minuten gaar. Test met een mespunt — geen weerstand. Giet af en stoom 2 minuten droog op laag vuur, zonder deksel, met de pan kort schuddend. Droge aardappel is essentieel voor fluweel."
+        },
+        {
+          "number": 3,
+          "action": "Aardappelcrème — passeren en afwerken",
+          "description": "Pers de aardappel door een pureerpers of strijk door een fijne zeef. Doe terug in de droge pan. Klop op laag vuur achtereenvolgens de warme melk en room en daarna de koude boter klontje voor klontje erdoor tot een glanzende, fluweelzachte crème. Breng op smaak met zout, nootmuskaat en witte peper. Voor extra finesse: nogmaals door een fijne zeef strijken. Houd warm onder folie direct op het oppervlak."
+        },
+        {
+          "number": 4,
+          "action": "Paddenstoelen — droog bakken en goudbruin maken",
+          "description": "Maak de paddenstoelen schoon met een vochtige doek — niet wassen. Snijd kastanjechampignon in vieren, shiitake in halve plakken (steeltjes weg), oesterzwam scheuren. Verhit een ruime pan zonder vet op middelhoog vuur en bak 4–5 minuten tot het vocht is verdampt. Voeg dan de boter, olijfolie, hele knoflookteen en tijm toe. Bak 3 tot 4 minuten verder tot goudbruin en nootachtig geurend. Eventueel deglaceren met een scheutje droge sherry — laat volledig verdampen. Verwijder de knoflook, breng op smaak met fleur de sel en zwarte peper."
+        },
+        {
+          "number": 5,
+          "action": "Eieren pocheren",
+          "description": "Breng een ruime pan water aan een zachte kook en voeg de azijn toe. Breek elk ei in een klein kommetje. Maak een zachte draaikolk en laat het ei voorzichtig in het midden glijden. Pocheer 3 tot 3½ minuten — wit gestold, dooier vloeibaar. Schep eruit met een schuimspaan en laat uitlekken op keukenpapier. Trim eventuele losse witte sliertjes weg. Werk in batches van twee."
+        },
+        {
+          "number": 6,
+          "action": "Composeren en afwerken",
+          "description": "Lepel een royale spiegel warme aardappelcrème in elk diep bord en tik glad. Verdeel de paddenstoelen iets uit het midden in een losse hoop. Leg het gepocheerde ei centraal op of vlak naast de paddenstoelen, dooier zichtbaar. Plaats een handvol krokante pommes paille deels op de paddenstoelen, deels op de crème voor hoogte. Lepel 3 à 4 geconcentreerde druppels koude balsamico tradizionale rondom — parels, geen straal. Druppel topkwaliteit olijfolie over crème en ei. Werk af met fijngeknipte bieslook, enkele kruidblaadjes, vlokkenzout en zwarte peper. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Pommes paille (kan vooraf)",
+          "description": "Snijd de aardappel op een mandoline in flinterdunne plakjes, dan met de hand in zeer dunne julienne van 1–2mm. Spoel grondig onder koud stromend water tot het water helder is. Dep zeer goed droog tussen schone theedoeken. Verhit de olie tot 170°C en frituur de julienne in kleine batches 2 tot 3 minuten tot diep goudbruin en krokant. Schep uit, laat uitlekken op keukenpapier en bestrooi direct met fleur de sel. Laat afkoelen op een rooster."
+        },
+        {
+          "number": 2,
+          "section": "Aardappelcrème — koken",
+          "description": "Breng een ruime pan licht gezouten water aan de kook en kook de aardappelblokken in 18–20 minuten gaar. Test met een mespunt — geen weerstand. Giet af en stoom 2 minuten droog op laag vuur, zonder deksel, met de pan kort schuddend. Droge aardappel is essentieel voor fluweel."
+        },
+        {
+          "number": 3,
+          "section": "Aardappelcrème — passeren en afwerken",
+          "description": "Pers de aardappel door een pureerpers of strijk door een fijne zeef. Doe terug in de droge pan. Klop op laag vuur achtereenvolgens de warme melk en room en daarna de koude boter klontje voor klontje erdoor tot een glanzende, fluweelzachte crème. Breng op smaak met zout, nootmuskaat en witte peper. Voor extra finesse: nogmaals door een fijne zeef strijken. Houd warm onder folie direct op het oppervlak."
+        },
+        {
+          "number": 4,
+          "section": "Paddenstoelen — droog bakken en goudbruin maken",
+          "description": "Maak de paddenstoelen schoon met een vochtige doek — niet wassen. Snijd kastanjechampignon in vieren, shiitake in halve plakken (steeltjes weg), oesterzwam scheuren. Verhit een ruime pan zonder vet op middelhoog vuur en bak 4–5 minuten tot het vocht is verdampt. Voeg dan de boter, olijfolie, hele knoflookteen en tijm toe. Bak 3 tot 4 minuten verder tot goudbruin en nootachtig geurend. Eventueel deglaceren met een scheutje droge sherry — laat volledig verdampen. Verwijder de knoflook, breng op smaak met fleur de sel en zwarte peper."
+        },
+        {
+          "number": 5,
+          "section": "Eieren pocheren",
+          "description": "Breng een ruime pan water aan een zachte kook en voeg de azijn toe. Breek elk ei in een klein kommetje. Maak een zachte draaikolk en laat het ei voorzichtig in het midden glijden. Pocheer 3 tot 3½ minuten — wit gestold, dooier vloeibaar. Schep eruit met een schuimspaan en laat uitlekken op keukenpapier. Trim eventuele losse witte sliertjes weg. Werk in batches van twee."
+        },
+        {
+          "number": 6,
+          "section": "Composeren en afwerken",
+          "description": "Lepel een royale spiegel warme aardappelcrème in elk diep bord en tik glad. Verdeel de paddenstoelen iets uit het midden in een losse hoop. Leg het gepocheerde ei centraal op of vlak naast de paddenstoelen, dooier zichtbaar. Plaats een handvol krokante pommes paille deels op de paddenstoelen, deels op de crème voor hoogte. Lepel 3 à 4 geconcentreerde druppels koude balsamico tradizionale rondom — parels, geen straal. Druppel topkwaliteit olijfolie over crème en ei. Werk af met fijngeknipte bieslook, enkele kruidblaadjes, vlokkenzout en zwarte peper. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Aardappel-keuze bepaalt textuur: kruimige aardappel (Bintje, Eigenheimer, Russet) geeft de fluweelste crème. Vastkokende aardappel (Charlotte, Nicola) gebruik je voor de pommes paille. Twee verschillende variëteiten, elk voor zijn eigen rol.",
+        "Stoom droog en passeer door zeef of pers: dit is het verschil tussen brijachtig en restaurantwaardig fluweel. Een staafmixer maakt aardappel elastisch door zetmeel-activatie — gebruik altijd een pureerpers of zeef. Zeef desnoods twee keer voor echte luxe-textuur.",
+        "Geen citroen in de crème: de crème lijkt te snakken naar zuur, maar citroensap verstoort de zachte aardse balans. De balsamico is hier het zuuraccent — laat die zijn werk doen.",
+        "Paddenstoel-mix is sterker dan één soort: kastanjechampignon als basis, shiitake voor umami, oesterzwam voor textuur. In seizoen cantharel of eekhoorntjesbrood toevoegen — die tillen het gerecht naar grote hoogte. Nooit wassen, vochtige doek wel.",
+        "Droog bakken voor je vet toevoegt: paddenstoelen bevatten veel water. Eerst droog op middelhoog vuur tot het vocht is verdampt, dán boter en olie. Anders krijg je gekookte, grauwe paddenstoelen.",
+        "Drie wegen voor het ei: pocheren (3–3½ min met azijn) is de signatuurmethode. Soft-boiled ei (6 min, ijswater, halveren) is controleerbaarder. Sous-vide (63,5°C, 45 min) is ideaal voor meerdere gasten.",
+        "Pommes paille vooraf of goede chips: tot 4 uur vooraf maken, luchtdicht bewaren. Wat zachter? 2 minuten op 160°C. Geen zin in frituren? Tyrrell's, Kettle of een boutique-chip is een prima alternatief.",
+        "Balsamico koud en spaarzaam: drie tot vier druppels zijn genoeg. Niet reduceren, niet verwarmen — koud druppelen voor maximale spanning. Meer en het gerecht wordt zoet en donker.",
+        "Upgrade voor luxe-versies: een paar plakjes verse zwarte truffel direct boven het bord — perfect bij dit aardse profiel. Of de Robuchon-stijl pommes purée: aardappel-boter-room verhouding van 50/25/25 — extreem rijk, voor een speciale gelegenheid."
+      ],
+      "tips_full": [
+        "Aardappel-keuze bepaalt textuur: kruimige aardappel (Bintje, Eigenheimer, Russet) geeft de fluweelste crème. Vastkokende aardappel (Charlotte, Nicola) gebruik je voor de pommes paille. Twee verschillende variëteiten, elk voor zijn eigen rol.",
+        "Stoom droog en passeer door zeef of pers: dit is het verschil tussen brijachtig en restaurantwaardig fluweel. Een staafmixer maakt aardappel elastisch door zetmeel-activatie — gebruik altijd een pureerpers of zeef. Zeef desnoods twee keer voor echte luxe-textuur.",
+        "Geen citroen in de crème: de crème lijkt te snakken naar zuur, maar citroensap verstoort de zachte aardse balans. De balsamico is hier het zuuraccent — laat die zijn werk doen.",
+        "Paddenstoel-mix is sterker dan één soort: kastanjechampignon als basis, shiitake voor umami, oesterzwam voor textuur. In seizoen cantharel of eekhoorntjesbrood toevoegen — die tillen het gerecht naar grote hoogte. Nooit wassen, vochtige doek wel.",
+        "Droog bakken voor je vet toevoegt: paddenstoelen bevatten veel water. Eerst droog op middelhoog vuur tot het vocht is verdampt, dán boter en olie. Anders krijg je gekookte, grauwe paddenstoelen.",
+        "Drie wegen voor het ei: pocheren (3–3½ min met azijn) is de signatuurmethode. Soft-boiled ei (6 min, ijswater, halveren) is controleerbaarder. Sous-vide (63,5°C, 45 min) is ideaal voor meerdere gasten.",
+        "Pommes paille vooraf of goede chips: tot 4 uur vooraf maken, luchtdicht bewaren. Wat zachter? 2 minuten op 160°C. Geen zin in frituren? Tyrrell's, Kettle of een boutique-chip is een prima alternatief.",
+        "Balsamico koud en spaarzaam: drie tot vier druppels zijn genoeg. Niet reduceren, niet verwarmen — koud druppelen voor maximale spanning. Meer en het gerecht wordt zoet en donker.",
+        "Upgrade voor luxe-versies: een paar plakjes verse zwarte truffel direct boven het bord — perfect bij dit aardse profiel. Of de Robuchon-stijl pommes purée: aardappel-boter-room verhouding van 50/25/25 — extreem rijk, voor een speciale gelegenheid."
+      ],
+      "opmaak_presentatie": "Diepe borden of brede kommen in mat wit, lichtgrijs of zacht crème. Aardappelcrème als gladde spiegel. Paddenstoelen in losse hoop iets uit het midden — niet plat, met hoogte en nootbruine kleurschakeringen. Gepocheerd ei direct ernaast, dooier naar boven, glanzend goudgeel. Pommes paille als gestapelde krokante gouden draadjes die hoogte geven. Balsamico als donkere amberparels rondom — sober, geen plas. Olijfolie geeft glans aan crème en dooier. Bieslook strooit groene punten. Beigegoud, ivoor, donkerbruin en groen — herfstpalet met donkere amberglans als spanning.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Bourgogne Pinot Noir of Spätburgunder uit Baden of de Ahr",
+          "druif": "Pinot Noir / Spätburgunder",
+          "smaakprofiel": "Licht tot middelvol, droog, met aroma's van rode kers, framboos, aardbei, viooltje, bospaddenstoel, ondergroei, lichte specerijen en aardse mineraliteit. Frisse zuren, zachte zijdezachte tannine, slank maar geconcentreerd.",
+          "omschrijving": "Dorpsniveau Bourgogne (Marsannay, Savigny-lès-Beaune, Mercurey) of een Spätburgunder uit Baden of de Ahr. Sylvain Pataille, Joseph Drouhin, Domaine Faiveley — of Meyer-Näkel, Bernhard Huber, Friedrich Becker uit Duitsland. Serveer licht gekoeld bij 14–15°C.",
+          "waarom_werkt_dit": "Pinot Noir bij paddenstoel is een van de iconische koppelingen in de gastronomie — en dat is geen toeval. De tertiaire aroma's van gerijpte Pinot (ondergroei, bospaddenstoel, aarde) zijn een directe smaakspiegel van wat er in de pan lag. Maar de wijn doet meer dan spiegelen: de frisse zuren snijden door de boterachtige aardappelcrème en houden het gerecht licht, terwijl de zijdezachte tannine volledig langs het gepocheerde ei glijdt — waar zwaardere rode wijnen zouden haperen. Het rode fruit vindt de balsamico niet als tegenstander maar als zachte aanvulling. Kies gerijpt, sober en helder — jonge strakke Pinot of zwaar gehout stoort de delicate balans."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pouilly-Fuissé Premier Cru — Mâconnais, Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Middelvol, droog, met aroma's van rijpe peer, citrus, hazelnoot, brioche, witte bloemen, lichte vuursteenrook en kalk-mineraliteit. Frisse maar zachte zuren, fluwelen mondgevoel, lange finale.",
+          "omschrijving": "De absolute top van de Mâconnais, met officieel erkende Premier Cru-percelen. Domaine de la Soufrandière (Bret Brothers), Château des Rontets, Domaine Robert-Denogent of Olivier Merlin. Serveer bij 12–13°C.",
+          "waarom_werkt_dit": "Dit gerecht bestaat voor driekwart uit zachte, romige en aardse smaken — de aardappelcrème vraagt een wijn met genoeg gewicht om mee te kunnen, maar niet zo veel dat de delicate dooier er onder verdwijnt. Pouilly-Fuissé zit precies in dat midden. De brioche- en hazelnoottonen vormen een directe aroma-echo met paddenstoel en dooier; de frisse zuren snijden door de boter en omarmen tegelijk de balsamico. Bij de truffelupgrade wordt de combinatie regelrecht briljant — Chardonnay en truffel zijn een van de klassieke Bourgondische huwelijken."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Amontillado Sherry, droog — Jerez, Spanje",
+          "druif": "Palomino Fino",
+          "smaakprofiel": "Droog tot zeer droog, met aroma's van walnoot, hazelnoot, gedroogde paddenstoel, geroosterd brood, zoute mineraliteit, gedroogde citrusschil en lichte oxidatieve diepte. Frisse zuren, vol mondgevoel, lange ziltige finale. Alcohol ca. 17%.",
+          "omschrijving": "Een Sherry die begint als Fino onder flor en vervolgens oxidatief verder rijpt — unieke combinatie van frisheid én diepte. Lustau, Equipo Navazos, Valdespino (Tio Diego) of González Byass (Del Duque). Serveer in Copita-glazen van 60–80ml, licht gekoeld bij 12–14°C.",
+          "waarom_werkt_dit": "Dit is de meest onverwachte en misschien de opwindendste pairing van de drie. Amontillado draagt van nature aroma's van gedroogde paddenstoel, walnoot en geroosterd brood — een aroma-spiegel zo direct dat het bijna onwerkelijk voelt. Maar de wijn doet meer dan dat: de zilte mineraliteit geeft koel contrast tegen de boterzachte crème, de oxidatieve diepte trekt op met de balsamico op het bord, en het hogere alcoholgehalte geeft structuur die het volle gerecht moeiteloos draagt. Kies geen Oloroso of PX — te zwaar of te zoet. Amontillado droog, of een Palo Cortado: dat is de sleutel."
+        }
+      ],
+      "wine": {
+        "naam": "Bourgogne Pinot Noir of Spätburgunder uit Baden of de Ahr",
+        "druif": "Pinot Noir / Spätburgunder",
+        "toelichting": "De tertiaire aroma's van gerijpte Pinot spiegelen direct de bospaddenstoel. De frisse zuren snijden door de boterachtige crème, de zijdezachte tannine glijdt langs het gepocheerde ei. Kies gerijpt, sober en helder op 14–15°C.",
+        "alternatief": "Pouilly-Fuissé Premier Cru of Amontillado Sherry droog (Jerez)"
+      },
+      "metadata": {
+        "bereidingstijd": "40 min",
+        "porties": "4 kleine/middelgrote porties",
+        "type_gerecht": "Voorgerecht / tussengerecht",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 164,
+      "full_title_docx": "164. AARDAPPELCRÈME MET PADDENSTOEL, ZACHT EI, KROKANTE AARDAPPEL EN BALSAMICO"
+    },
+    {
+      "title": "Briochetoast met Eendenlever, Appel-Gember en Oude Balsamico",
+      "slug": "briochetoast-eendenlever-appel-gember-oude-balsamico",
+      "location": "Périgord / Gascogne, Frankrijk",
+      "time": "25 min",
+      "servings": "4 amuse-porties",
+      "difficulty": "Makkelijk",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/briochetoast-eendenlever-appel-gember-oude-balsamico.jpg",
+      "short_description": "Franse klassieker in geconcentreerde amuse-vorm: dikke goudbruine briochetoast met romige eendenleverpâté, frisgroene appelblokjes in gembersiroop en parels oude balsamico — rijk maar nooit log, elke hap in perfect evenwicht.",
+      "description": "Een Franse klassieker in geconcentreerde vorm. Een dikke plak goudbruin geroosterde brioche, een papierdunne plak romige eendenleverpâté, een klein hoopje frisse rauwe appelblokjes gemarineerd in zelfgemaakte gembersiroop, en enkele parels oude balsamico als donkere spanning. Rijk maar nooit log: het krokante van de toast, het zuur van de appel en de gember houden het foie gras precies in balans.",
+      "full_intro": "Een Franse klassieker in geconcentreerde vorm. Een dikke plak goudbruin geroosterde brioche, een papierdunne plak romige eendenleverpâté, een klein hoopje frisse rauwe appelblokjes gemarineerd in zelfgemaakte gembersiroop, en enkele parels oude balsamico als donkere spanning. Rijk maar nooit log: het krokante van de toast, het zuur van de appel en de gember houden het foie gras precies in balans.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de briochetoast",
+          "ingredients": [
+            {
+              "name": "dikke plakken brioche (ca. 1,5cm dik), van een goede bakker",
+              "amount": "4"
+            },
+            {
+              "name": "roomboter",
+              "amount": "25g"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de eendenlever",
+          "ingredients": [
+            {
+              "name": "eendenlever- of ganzenleverpaté/bloc uit goed blik (Rougié, Labeyrie, Goosse), goed gekoeld",
+              "amount": "120–160g"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de appel-gember",
+          "ingredients": [
+            {
+              "name": "Granny Smith appel",
+              "amount": "1"
+            },
+            {
+              "name": "water",
+              "amount": "40ml"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "25g"
+            },
+            {
+              "name": "verse gember, geschild en fijn geraspt",
+              "amount": "15g"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+              "amount": "2 tl"
+            },
+            {
+              "name": "kleine dragonblaadjes",
+              "amount": "8–12"
+            },
+            {
+              "name": "fijngehakte geroosterde hazelnoot (optioneel)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vlokkenzout (Maldon of fleur de sel)",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper, fijn",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de briochetoast",
+          "ingredients": [
+            "4 dikke plakken brioche (ca. 1,5cm dik), liefst van een goede bakker",
+            "25g roomboter",
+            "Snuf fleur de sel"
+          ]
+        },
+        {
+          "group_name": "Voor de eendenlever",
+          "ingredients": [
+            "120–160g eendenlever- of ganzenleverpaté/bloc uit goed blik (Rougié, Labeyrie, Edouard Artzner of Goosse), goed gekoeld",
+            "Fleur de sel",
+            "Vers gemalen zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de appel-gember",
+          "ingredients": [
+            "1 Granny Smith appel",
+            "40ml water",
+            "25g fijne kristalsuiker",
+            "15g verse gember, geschild en fijn geraspt",
+            "½ tl vers citroensap",
+            "Snuf fleur de sel"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "2 tl oude balsamico tradizionale di Modena (minimaal 12 jaar) — of een goede condimento",
+            "8–12 kleine dragonblaadjes",
+            "1 tl fijngehakte geroosterde hazelnoot (optioneel)",
+            "Vlokkenzout (Maldon of fleur de sel)",
+            "Vers gemalen zwarte peper, fijn"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Gembersiroop (kan ruim vooraf)",
+          "description": "Breng het water met de suiker en geraspte gember aan de kook in een klein steelpannetje. Laat 4 à 5 minuten zacht koken tot een lichte siroop. Zeef door een fijne zeef en laat volledig afkoelen. Tot een week houdbaar in de koelkast."
+        },
+        {
+          "number": 2,
+          "action": "Appelblokjes marineren",
+          "description": "Snijd de appel in zeer kleine, nette blokjes van ongeveer 3mm — met de schil eraan voor frisse groene kleur en bite. Meng direct met 1½ à 2 eetlepels gembersiroop, het citroensap en een snuf fleur de sel om verkleuring te voorkomen. Laat 10 minuten staan. Giet overtollig vocht af voor het serveren — de blokjes moeten glanzen, niet zwemmen."
+        },
+        {
+          "number": 3,
+          "action": "Brioche toasten",
+          "description": "Snijd de brioche in nette rechthoeken of rondjes. Smelt de boter in een ruime koekenpan op middelhoog vuur en bak de plakken aan beide zijden 1 tot 1½ minuut tot diep goudbruin en krokant. Bestrooi licht met fleur de sel en laat kort uitlekken op een rooster — niet op keukenpapier, daar wordt de toast slap."
+        },
+        {
+          "number": 4,
+          "action": "Eendenlever snijden",
+          "description": "Haal de paté pas vlak voor serveren uit de koelkast. Maak met een warm mes (kort in heet water, daarna afgedroogd) dunne plakjes — of vorm met een warme lepel kleine elegante quenelles. Goed gekoelde paté is essentieel: warme paté smelt en valt uit elkaar."
+        },
+        {
+          "number": 5,
+          "action": "Composeren en afwerken",
+          "description": "Leg op elk amusebordje een plak lauwwarme briochetoast iets uit het midden. Leg de plak of quenelle eendenlever direct erop — de toast moet aan de randen zichtbaar blijven. Schep een klein hoopje appel-gember tegen de lever aan. Lepel 3 à 4 geconcentreerde druppels koude balsamico tradizionale verspreid rondom — geen straal, parels. Plaats enkele kleine dragonblaadjes individueel op of naast de lever. Strooi eventueel fijngehakte geroosterde hazelnoot. Werk af met vlokkenzout direct op de lever en een fijne draai zwarte peper. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Gembersiroop (kan ruim vooraf)",
+          "description": "Breng het water met de suiker en geraspte gember aan de kook in een klein steelpannetje. Laat 4 à 5 minuten zacht koken tot een lichte siroop. Zeef door een fijne zeef en laat volledig afkoelen. Tot een week houdbaar in de koelkast."
+        },
+        {
+          "number": 2,
+          "section": "Appelblokjes marineren",
+          "description": "Snijd de appel in zeer kleine, nette blokjes van ongeveer 3mm — met de schil eraan voor frisse groene kleur en bite. Meng direct met 1½ à 2 eetlepels gembersiroop, het citroensap en een snuf fleur de sel om verkleuring te voorkomen. Laat 10 minuten staan. Giet overtollig vocht af voor het serveren — de blokjes moeten glanzen, niet zwemmen."
+        },
+        {
+          "number": 3,
+          "section": "Brioche toasten",
+          "description": "Snijd de brioche in nette rechthoeken of rondjes. Smelt de boter in een ruime koekenpan op middelhoog vuur en bak de plakken aan beide zijden 1 tot 1½ minuut tot diep goudbruin en krokant. Bestrooi licht met fleur de sel en laat kort uitlekken op een rooster — niet op keukenpapier, daar wordt de toast slap."
+        },
+        {
+          "number": 4,
+          "section": "Eendenlever snijden",
+          "description": "Haal de paté pas vlak voor serveren uit de koelkast. Maak met een warm mes (kort in heet water, daarna afgedroogd) dunne plakjes — of vorm met een warme lepel kleine elegante quenelles. Goed gekoelde paté is essentieel: warme paté smelt en valt uit elkaar."
+        },
+        {
+          "number": 5,
+          "section": "Composeren en afwerken",
+          "description": "Leg op elk amusebordje een plak lauwwarme briochetoast iets uit het midden. Leg de plak of quenelle eendenlever direct erop — de toast moet aan de randen zichtbaar blijven. Schep een klein hoopje appel-gember tegen de lever aan. Lepel 3 à 4 geconcentreerde druppels koude balsamico tradizionale verspreid rondom — geen straal, parels. Plaats enkele kleine dragonblaadjes individueel op of naast de lever. Strooi eventueel fijngehakte geroosterde hazelnoot. Werk af met vlokkenzout direct op de lever en een fijne draai zwarte peper. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Eendenleverpaté uit goed blik is hier de juiste keuze: voor amuse-formaat is paté van Rougié, Labeyrie of Goosse eleganter en stressvriendelijker dan vers bakken. Houd de portie klein — 30–40g per persoon is perfect, meer wordt zwaar.",
+        "Lever koel, mes warm: goed gekoelde paté snijdt strak in nette plakjes. Een mes kort in heet water houden en afdrogen geeft glasscherpe, glanzende snedes. Werkt ook voor quenelles: warme lepel in koude paté.",
+        "Brioche écht krokant roosteren: de lever is zacht en vet — je hebt die crunch nodig voor de balans. Diep goudbruin, knapperig buiten, zacht binnen. Goed alternatief: pain d'épices in plakken geroosterd — zoeter en kruidiger, klassieke combinatie met foie gras.",
+        "Granny Smith is hier het juiste appel: fris, strak en zuur genoeg om door het foie gras-vet te snijden. Andere appels zijn te zoet en missen de scherpe zuren. Schil eraan houden voor frisse groene kleur en bite.",
+        "Dragon is subtiel maar raak: het lichte anijs-zoethout-aroma maakt het gerecht direct gastronomischer en past klassiek bij eend, appel en gember. Bieslook is toegankelijker — dragon is mooier. Vermijd peterselie hier; te grof.",
+        "Balsamico spaarzaam, geen extra chutney: drie tot vier druppels per bord is genoeg. De appel-gember en balsamico geven samen al ruim zoet-zuur. Geen reductie van gewone balsamico — koud druppelen voor maximale spanning.",
+        "Gembersiroop ruim vooraf maken: tot een week houdbaar in de koelkast. Restant is ook fantastisch bij oude kazen, fruitdesserts, panna cotta of in cocktails.",
+        "Vegetarisch alternatief: een rijke paddenstoelen-paté (champignonduxelles met sjalot, cognac, walnoot en boter) werkt prachtig in deze combinatie — past goed bij appel-gember en balsamico."
+      ],
+      "tips_full": [
+        "Eendenleverpaté uit goed blik is hier de juiste keuze: voor amuse-formaat is paté van Rougié, Labeyrie of Goosse eleganter en stressvriendelijker dan vers bakken. Houd de portie klein — 30–40g per persoon is perfect, meer wordt zwaar.",
+        "Lever koel, mes warm: goed gekoelde paté snijdt strak in nette plakjes. Een mes kort in heet water houden en afdrogen geeft glasscherpe, glanzende snedes. Werkt ook voor quenelles: warme lepel in koude paté.",
+        "Brioche écht krokant roosteren: de lever is zacht en vet — je hebt die crunch nodig voor de balans. Diep goudbruin, knapperig buiten, zacht binnen. Goed alternatief: pain d'épices in plakken geroosterd — zoeter en kruidiger, klassieke combinatie met foie gras.",
+        "Granny Smith is hier het juiste appel: fris, strak en zuur genoeg om door het foie gras-vet te snijden. Andere appels zijn te zoet en missen de scherpe zuren. Schil eraan houden voor frisse groene kleur en bite.",
+        "Dragon is subtiel maar raak: het lichte anijs-zoethout-aroma maakt het gerecht direct gastronomischer en past klassiek bij eend, appel en gember. Bieslook is toegankelijker — dragon is mooier. Vermijd peterselie hier; te grof.",
+        "Balsamico spaarzaam, geen extra chutney: drie tot vier druppels per bord is genoeg. De appel-gember en balsamico geven samen al ruim zoet-zuur. Geen reductie van gewone balsamico — koud druppelen voor maximale spanning.",
+        "Gembersiroop ruim vooraf maken: tot een week houdbaar in de koelkast. Restant is ook fantastisch bij oude kazen, fruitdesserts, panna cotta of in cocktails.",
+        "Vegetarisch alternatief: een rijke paddenstoelen-paté (champignonduxelles met sjalot, cognac, walnoot en boter) werkt prachtig in deze combinatie — past goed bij appel-gember en balsamico."
+      ],
+      "opmaak_presentatie": "Kleine voorverwarmde amusebordjes in wit, donker keramisch of langwerpig. Briochetoast iets uit het midden — asymmetrisch. Eendenlever strak erop met scherpe randen, toast-randen rondom zichtbaar. Appelblokjes als geconcentreerd frisgroen accent tegen de lever aan. Balsamico als donkere amberparels rondom, één druppel op de lever. Dragonblaadjes individueel geplaatst — niet gestrooid. Goud, ivoor-roze, frisgroen en donker amber. Serveer direct na het beleggen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Sauternes — Bordeaux, Frankrijk",
+          "druif": "Sémillon (overwegend), Sauvignon Blanc, soms Muscadelle",
+          "smaakprofiel": "Zoet, geconcentreerd, met aroma's van gekonfijte abrikoos, perzik, honing, witte bloemen, vanille, gedroogde sinaasappelschil, gemberbeschuit en botritis-toon. Hoge zuren, vol fluwelig mondgevoel, lange complexe finale.",
+          "omschrijving": "De klassieke zoete witte wijn van Bordeaux, gemaakt van Botrytis cinerea aangetaste druiven. Château d'Yquem, Château Climens, Château Suduiraut, Château Doisy-Daëne of Château Coutet. Een halve fles (37,5cl) is meer dan genoeg voor 4 amuse-porties. Serveer goed gekoeld bij 8–10°C.",
+          "waarom_werkt_dit": "Foie gras en Sauternes is een van de oudste koppelingen in de westerse gastronomie — maar het is geen sentimenteel paar, het is een technisch perfecte combinatie. De hoge natuurlijke zuren van Sauternes snijden moeiteloos door het vet van de eendenlever, terwijl de zoetheid de balansdrager is die appel, gember en balsamico in één vloeiende lijn houdt. De honing- en gemberbeschuit-tonen vinden een directe echo in de gembersiroop van de marinade; de vanille sluit aan bij de brioche. Een goedkope zoete wijn zonder zuur zou hier juist falen — de zoetheid alléén maakt de match niet, de combinatie van zoet én scherp zuur is alles."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Tokaji Aszú 5 Puttonyos — Hongarije",
+          "druif": "Furmint (hoofdrol), Hárslevelű, Sárga Muskotály",
+          "smaakprofiel": "Zeer zoet, intens, met aroma's van gekonfijte abrikoos, dadel, vijg, sinaasappelschil, honing, saffraan, vanille, gerookte thee en uitgesproken botritis-complexiteit. Zeer hoge zuren, vol fluwelig mondgevoel, indringende lange finale.",
+          "omschrijving": "Wellicht de meest complexe zoete wijn ter wereld. Disznókő, Royal Tokaji, Oremus, Szepsy of Patricius zijn referenties. Serveer bij 10–12°C.",
+          "waarom_werkt_dit": "Tokaji brengt nog meer aromatische lagen dan Sauternes — saffraan, gerookte thee, gekonfijte sinaasappel — die de gember en balsamico in het gerecht extra dimensie geven. De legendarisch hoge zuren van Furmint snijden moeiteloos door het foie gras-vet en houden de geconcentreerde zoetheid altijd in toom. De saffraantoetsen vormen een verrassende aroma-brug met de dragonblaadjes op het bord. Een iets avontuurlijkere wending dan Sauternes, even klassiek raak — de meest feestelijke keuze van de drie."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Rosé Brut — Champagne, Frankrijk",
+          "druif": "Pinot Noir, Chardonnay, soms Pinot Meunier",
+          "smaakprofiel": "Droog, bruisend, met aroma's van rode kers, framboos, aardbei, witte bloemen, brioche, hazelnoot en fijne kalk-mineraliteit. Levendige zuren, fijne mousse, schone finale.",
+          "omschrijving": "Billecart-Salmon (de meest verfijnde rosé), Egly-Ouriet, Larmandier-Bernier of Champagne Diebolt-Vallois. Serveer bij 8–10°C in tulpglazen, niet in flûtes.",
+          "waarom_werkt_dit": "Voor wie liever droog drinkt bij foie gras — minder voor de hand liggend maar gastronomisch sterk. De fijne mousse reinigt het palet tussen de rijke happen; de hoge zuren doen het zware werk van het vet doorsnijden. Brioche- en hazelnoottonen sluiten direct aan bij de geroosterde brioche en de optionele hazelnoot op het bord, het lichte rode fruit verbindt elegant met de balsamico. De zalmroze kleur is bovendien een prachtige visuele partner voor het goud-ivoor-amber palet van het gerecht."
+        }
+      ],
+      "wine": {
+        "naam": "Sauternes — Bordeaux, Frankrijk",
+        "druif": "Sémillon, Sauvignon Blanc",
+        "toelichting": "De hoge natuurlijke zuren snijden door het vet van de eendenlever, terwijl de zoetheid appel, gember en balsamico in één lijn houdt. De honing- en gemberbeschuit-tonen vinden een directe echo in de marinade. Serveer op 8–10°C in kleine glazen.",
+        "alternatief": "Tokaji Aszú 5 Puttonyos of Champagne Rosé Brut"
+      },
+      "metadata": {
+        "bereidingstijd": "25 min",
+        "porties": "4 amuse-porties",
+        "type_gerecht": "Amuse / klein voorgerecht",
+        "niveau": "Makkelijk"
+      },
+      "source_recipe_number": 165,
+      "full_title_docx": "165. BRIOCHETOAST MET EENDENLEVER, APPEL-GEMBER EN OUDE BALSAMICO"
+    },
+    {
+      "title": "Krokante Aardappelrösti met Zure Room en Kaviaar",
+      "slug": "krokante-aardappelrosti-zure-room-kaviaar",
+      "location": "Frans fine dining / klassiek",
+      "time": "35 min",
+      "servings": "4 porties (1 rösti per persoon)",
+      "difficulty": "Makkelijk tot gemiddeld",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/krokante-aardappelrosti-zure-room-kaviaar.jpg",
+      "short_description": "De iconische luxe-amuse: goudbruine krokante aardappelrösti met een quenelle koude zure room met bieslook en citroen, gekroond met een royale lepel ziltige kaviaar — warme crunch ontmoet koude romigheid ontmoet zilt umami.",
+      "description": "Misschien wel de iconische luxe-amuse. Een strakke, goudbruine rösti van geraspte aardappel, een quenelle koude zure room met bieslook en citroen, een royale lepel ziltige kaviaar. Warme krokant ontmoet koude romigheid ontmoet zilt umami — drie tegenpolen in één hap, gedragen door slechts vier ingrediënten. Vergt niets dan goede techniek en goede inkoop.",
+      "full_intro": "Misschien wel de iconische luxe-amuse. Een strakke, goudbruine rösti van geraspte aardappel, een quenelle koude zure room met bieslook en citroen, een royale lepel ziltige kaviaar. Warme krokant ontmoet koude romigheid ontmoet zilt umami — drie tegenpolen in één hap, gedragen door slechts vier ingrediënten. Vergt niets dan goede techniek en goede inkoop.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de aardappelrösti",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappel (Charlotte of Nicola), geschild",
+              "amount": "450g"
+            },
+            {
+              "name": "roomboter, gesmolten",
+              "amount": "25g"
+            },
+            {
+              "name": "druivenpitolie of zonnebloemolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": ""
+            },
+            {
+              "name": "nootmuskaat (optioneel)",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "extra olie om in te bakken",
+              "amount": "2–3 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de zure room",
+          "ingredients": [
+            {
+              "name": "zure room (sour cream) — of crème fraîche als alternatief",
+              "amount": "120g"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijne citroenzeste (van onbespoten citroen)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zeer fijngeknipte bieslook",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de kaviaar",
+          "ingredients": [
+            {
+              "name": "Osetra of Baerii kaviaar (afhankelijk van budget en gelegenheid)",
+              "amount": "30–50g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "extra zeer fijngeknipte bieslook",
+              "amount": ""
+            },
+            {
+              "name": "kleine bieslooksprietjes voor garnituur",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper, fijn",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de aardappelrösti",
+          "ingredients": [
+            "450g vastkokende aardappel (Charlotte of Nicola), geschild",
+            "25g roomboter, gesmolten",
+            "1 el druivenpitolie of zonnebloemolie",
+            "½ tl fijn zeezout",
+            "Vers gemalen witte peper",
+            "Klein snufje nootmuskaat (optioneel)",
+            "2–3 el extra olie om in te bakken",
+            "Benodigd: metalen kookring van 5–6cm doorsnede"
+          ]
+        },
+        {
+          "group_name": "Voor de zure room",
+          "ingredients": [
+            "120g zure room (sour cream) — of crème fraîche als alternatief",
+            "1 tl vers citroensap",
+            "½ tl fijne citroenzeste (van onbespoten citroen)",
+            "1 el zeer fijngeknipte bieslook",
+            "Snuf fijn zeezout",
+            "Vers gemalen witte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de kaviaar",
+          "ingredients": [
+            "30–50g Osetra of Baerii kaviaar (bij Petrossian, Caviar House & Prunier, Imperial Heritage of Sturia)"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "Extra zeer fijngeknipte bieslook",
+            "Enkele kleine bieslooksprietjes voor garnituur",
+            "Vers gemalen zwarte peper, fijn — géén extra zout"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Kaviaar en zure room koel houden",
+          "description": "Zet de kaviaar en de afgewerkte zure room tot het laatste moment in de koelkast. Het temperatuurcontrast tussen warm-krokant en koud-zilt is het hart van dit gerecht."
+        },
+        {
+          "number": 2,
+          "action": "Zure room afmaken",
+          "description": "Roer de zure room los met het citroensap, de citroenzeste, de fijngeknipte bieslook, een snuf zout en wat witte peper. Zet afgedekt koud weg — tot een uur vooraf is geen probleem."
+        },
+        {
+          "number": 3,
+          "action": "Aardappel raspen, spoelen en uitknijpen — cruciaal",
+          "description": "Schil de aardappel en rasp grof op een mandoline of kaasrasp. Doe de raspsels in een vergiet en spoel kort onder koud stromend water tot het water bijna helder is — verwijdert overtollig zetmeel, voorkomt grijs verkleuren en geeft mooier goudbruine kleur bij het bakken. Doe daarna in een schone theedoek en knijp met flink wat kracht zoveel mogelijk vocht eruit. Dit dubbele werk — spoelen én grondig uitknijpen — is het verschil tussen restaurant-rösti en thuis-rösti."
+        },
+        {
+          "number": 4,
+          "action": "Mengsel maken en vormen",
+          "description": "Meng de uitgeknepen aardappelrasp met de gesmolten boter, de eetlepel olie, zout, witte peper en eventueel een minuscuul snufje nootmuskaat. Goed door elkaar maar luchtig — niet pletten. Verhit een dun laagje olie in een koekenpan op middelhoog vuur. Plaats een kookring van 5–6cm in de pan. Schep aardappelmengsel in de ring tot circa 1cm hoog en druk licht aan. Verwijder de ring voorzichtig zodra de rösti vorm houdt (na ca. 30 seconden)."
+        },
+        {
+          "number": 5,
+          "action": "Bakken — niet bewegen, eenmaal draaien",
+          "description": "Bak 4 tot 5 minuten op middelhoog vuur tot diep goudbruin en krokant aan de eerste kant. Draai voorzichtig om met een dunne spatel en bak nog 3 tot 4 minuten aan de tweede kant. Druk ze tijdens het bakken niet plat. Schep uit de pan en laat 1 minuut uitlekken op een rooster — niet op keukenpapier."
+        },
+        {
+          "number": 6,
+          "action": "Composeren en serveren",
+          "description": "Laat de rösti 1 minuut afkoelen voor beleggen — warm maar niet gloeiend. Leg op elk voorverwarmd amusebordje één warme rösti. Lepel een kleine dot of quenelle koude zure room centraal op de rösti, niet tot de rand — laat de gouden rand zichtbaar. Lepel met een parelmoer-, houten of bamboe-lepeltje (nooit metaal) een royale glanzende berg kaviaar bovenop de zure room. Strooi enkele fijne bieslookpunten over en rondom. Fijne draai zwarte peper, geen extra zout. Serveer letterlijk binnen 30 seconden na het beleggen."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Kaviaar en zure room koel houden",
+          "description": "Zet de kaviaar en de afgewerkte zure room tot het laatste moment in de koelkast. Het temperatuurcontrast tussen warm-krokant en koud-zilt is het hart van dit gerecht."
+        },
+        {
+          "number": 2,
+          "section": "Zure room afmaken",
+          "description": "Roer de zure room los met het citroensap, de citroenzeste, de fijngeknipte bieslook, een snuf zout en wat witte peper. Zet afgedekt koud weg — tot een uur vooraf is geen probleem."
+        },
+        {
+          "number": 3,
+          "section": "Aardappel raspen, spoelen en uitknijpen — cruciaal",
+          "description": "Schil de aardappel en rasp grof op een mandoline of kaasrasp. Doe de raspsels in een vergiet en spoel kort onder koud stromend water tot het water bijna helder is — verwijdert overtollig zetmeel, voorkomt grijs verkleuren en geeft mooier goudbruine kleur bij het bakken. Doe daarna in een schone theedoek en knijp met flink wat kracht zoveel mogelijk vocht eruit. Dit dubbele werk — spoelen én grondig uitknijpen — is het verschil tussen restaurant-rösti en thuis-rösti."
+        },
+        {
+          "number": 4,
+          "section": "Mengsel maken en vormen",
+          "description": "Meng de uitgeknepen aardappelrasp met de gesmolten boter, de eetlepel olie, zout, witte peper en eventueel een minuscuul snufje nootmuskaat. Goed door elkaar maar luchtig — niet pletten. Verhit een dun laagje olie in een koekenpan op middelhoog vuur. Plaats een kookring van 5–6cm in de pan. Schep aardappelmengsel in de ring tot circa 1cm hoog en druk licht aan. Verwijder de ring voorzichtig zodra de rösti vorm houdt (na ca. 30 seconden)."
+        },
+        {
+          "number": 5,
+          "section": "Bakken — niet bewegen, eenmaal draaien",
+          "description": "Bak 4 tot 5 minuten op middelhoog vuur tot diep goudbruin en krokant aan de eerste kant. Draai voorzichtig om met een dunne spatel en bak nog 3 tot 4 minuten aan de tweede kant. Druk ze tijdens het bakken niet plat. Schep uit de pan en laat 1 minuut uitlekken op een rooster — niet op keukenpapier."
+        },
+        {
+          "number": 6,
+          "section": "Composeren en serveren",
+          "description": "Laat de rösti 1 minuut afkoelen voor beleggen — warm maar niet gloeiend. Leg op elk voorverwarmd amusebordje één warme rösti. Lepel een kleine dot of quenelle koude zure room centraal op de rösti, niet tot de rand — laat de gouden rand zichtbaar. Lepel met een parelmoer-, houten of bamboe-lepeltje (nooit metaal) een royale glanzende berg kaviaar bovenop de zure room. Strooi enkele fijne bieslookpunten over en rondom. Fijne draai zwarte peper, geen extra zout. Serveer letterlijk binnen 30 seconden na het beleggen."
+        }
+      ],
+      "tips": [
+        "Vastkokende aardappel, niet kruimig: Charlotte, Nicola of een andere vastkokende variëteit houden hun structuur tijdens raspen en bakken. Kruimige aardappel (Bintje) wordt brij in de pan. Geen ei, geen bloem nodig — als je goed spoelt en uitknijpt houdt de rösti zichzelf bijeen.",
+        "Spoelen én uitknijpen — beide nodig: spoelen verwijdert zetmeel (mooiere goudkleur, lossere structuur); uitknijpen verwijdert water (krokant, niet stomen). De ene zonder de andere werkt niet. Spoel kort tot het water bijna helder is, knijp daarna grondig uit.",
+        "Kookring voor strakke vorm: 5–6cm voor klein voorgerecht, 4cm voor amuse-formaat (dan twee per persoon). Niet te dik — circa 1cm is ideaal: dun genoeg voor crunch, dik genoeg om aardappelstructuur te behouden.",
+        "Vooraf bakken kan probleemloos: bak de rösti's tot een uur vooraf, laat afkoelen op rooster. Warm 5 minuten op in een oven van 180°C — ze herstellen volledig hun krokant. Beleg pas daarna met zure room en kaviaar.",
+        "Temperatuurcontrast is het hart van dit gerecht: rösti warm, zure room koud, kaviaar koud. Werk en plate snel — thermische tegenstellingen maken dit bord onvergetelijk.",
+        "Géén extra zout, géén citroen direct op echte kaviaar: kaviaar levert al alle zoutigheid. Citroen in de zure room is prima — maar citroen direct op Osetra, Baerii of Sevruga verandert de delicate smaak.",
+        "Kaviaar-niveaus en alternatieven: Osetra is verfijnd-nootachtig en de gastronomische gouden middenweg. Baerii is uitstekende kwaliteit voor de helft van Osetra. Forelkuit (betaalbaar), zalmkuit of zeewier-kaviaar (Cavi-Art) zijn toegankelijke alternatieven.",
+        "Houten of parelmoer lepeltje, nooit metaal: een metalen lepel oxideert kaviaar en geeft onaangename metaalsmaak. Parelmoer (traditioneel), hout of bamboe werkt prima."
+      ],
+      "tips_full": [
+        "Vastkokende aardappel, niet kruimig: Charlotte, Nicola of een andere vastkokende variëteit houden hun structuur tijdens raspen en bakken. Kruimige aardappel (Bintje) wordt brij in de pan. Geen ei, geen bloem nodig — als je goed spoelt en uitknijpt houdt de rösti zichzelf bijeen.",
+        "Spoelen én uitknijpen — beide nodig: spoelen verwijdert zetmeel (mooiere goudkleur, lossere structuur); uitknijpen verwijdert water (krokant, niet stomen). De ene zonder de andere werkt niet. Spoel kort tot het water bijna helder is, knijp daarna grondig uit.",
+        "Kookring voor strakke vorm: 5–6cm voor klein voorgerecht, 4cm voor amuse-formaat (dan twee per persoon). Niet te dik — circa 1cm is ideaal: dun genoeg voor crunch, dik genoeg om aardappelstructuur te behouden.",
+        "Vooraf bakken kan probleemloos: bak de rösti's tot een uur vooraf, laat afkoelen op rooster. Warm 5 minuten op in een oven van 180°C — ze herstellen volledig hun krokant. Beleg pas daarna met zure room en kaviaar.",
+        "Temperatuurcontrast is het hart van dit gerecht: rösti warm, zure room koud, kaviaar koud. Werk en plate snel — thermische tegenstellingen maken dit bord onvergetelijk.",
+        "Géén extra zout, géén citroen direct op echte kaviaar: kaviaar levert al alle zoutigheid. Citroen in de zure room is prima — maar citroen direct op Osetra, Baerii of Sevruga verandert de delicate smaak.",
+        "Kaviaar-niveaus en alternatieven: Osetra is verfijnd-nootachtig en de gastronomische gouden middenweg. Baerii is uitstekende kwaliteit voor de helft van Osetra. Forelkuit (betaalbaar), zalmkuit of zeewier-kaviaar (Cavi-Art) zijn toegankelijke alternatieven.",
+        "Houten of parelmoer lepeltje, nooit metaal: een metalen lepel oxideert kaviaar en geeft onaangename metaalsmaak. Parelmoer (traditioneel), hout of bamboe werkt prima."
+      ],
+      "opmaak_presentatie": "Kleine voorverwarmde amusebordjes of donkere natuurstenen plateaus — zwart leisteen of donker keramiek geeft het diepste contrast met zwart-bruin kaviaar, goud rösti en wit zure room. Rösti centraal of asymmetrisch, genoeg negatieve ruimte rondom. Zure room-dot centraal op de rösti, klein genoeg dat de gouden rand zichtbaar blijft. Kaviaar bovenop in een gulle glanzende berg — visueel dominant. Bieslook individueel geplaatst, één verticaal sprietje voor hoogte. Fijne draai zwarte peper. Diep zwart, ivoorwit, goudbruin, frisgroen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Blanc de Blancs Brut Nature of Brut — Côte des Blancs, Frankrijk",
+          "druif": "Chardonnay (100%)",
+          "smaakprofiel": "Droog, bruisend, met aroma's van groene appel, citrus, witte bloemen, brioche, hazelnoot, gedroogd zeewier en uitgesproken kalk-mineraliteit. Knapperige hoge zuren, fijne mousse, kraakheldere finale, geen tot zeer weinig restzoet.",
+          "omschrijving": "Grand Cru-dorpen in de Côte des Blancs (Le Mesnil-sur-Oger, Cramant, Avize). Larmandier-Bernier, Agrapart, Pierre Péters, Pascal Doquet of Tarlant. Serveer goed gekoeld bij 8–10°C in tulpglazen — niet flûtes.",
+          "waarom_werkt_dit": "Dit gerecht bestaat uit drie lagen met elk hun eigen gewicht: de warme krokante rösti, de koele romige zure room, de zilte umami-rijke kaviaar. Champagne Blanc de Blancs is de enige wijn die alle drie tegelijk bedient. De mousse reinigt het palet en versterkt de crunch van de rösti; de hoge Chardonnay-zuren snijden door aardappelvet en zure room; de kalk-mineraliteit en het lichte zeewiertintje vormen een directe aroma-spiegel met de mariene umami van de kaviaar; en de brioche-hazelnoottoets sluit aan bij de goudbruine rösti. Brut Nature is technisch ideaal — elk gram restzoet zou tegen het zout van de kaviaar botsen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Muscadet Sèvre-et-Maine sur Lie — Loire, Frankrijk",
+          "druif": "Melon de Bourgogne",
+          "smaakprofiel": "Droog, lichtvoetig, met aroma's van groene appel, citrus, ziltige zeewier-mineraliteit en lichte broodachtige toets van gistlees-contact. Hoge zuren, slank mondgevoel, kraakheldere finale.",
+          "omschrijving": "Domaine de la Pépière (iconisch), Domaine Luneau-Papin, Domaine de l'Ecu of Jo Landron. Serveer goed gekoeld bij 8–10°C. Chablis Premier Cru valt in dezelfde categorie voor wie liever een bekendere naam kiest.",
+          "waarom_werkt_dit": "Muscadet sur Lie heeft decennia aan gastronomische traditie bij oesters en kaviaar — en de logica is dezelfde als bij Champagne, alleen zonder bubbels. De hoge zuren snijden door zure room en aardappelvet; de uitgesproken ziltige mineraliteit — Atlantisch, direct — spiegelt de mariene umami van de kaviaar zonder hem te overstemmen; de broodachtige sur-lie-tonen verbinden met de goudbruine rösti. Smaaktechnisch even raak als Champagne en spectaculair betaalbaar in zijn klasse. Kies altijd de sur-lie-versie — zonder dat mist de wijn de textuur die hier nodig is."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Junmai Daiginjo Sake — Japan",
+          "druif": "Geen druif — Yamada Nishiki of Omachi rijst, gepolijst tot 50% of minder",
+          "smaakprofiel": "Droog, helder, met aroma's van witte perzik, peer, witte bloemen, kokos, vers gestoomde rijst en fijne mineraliteit. Hoge umami, zachte zuren, vol fluwelig mondgevoel, lange schone finale. Alcohol ca. 15–17%.",
+          "omschrijving": "Dassai (Asahi Shuzo), Juyondai, Kokuryu, Born of Kubota Manju. Serveer goed gekoeld bij 8–12°C in een klein wijnglas — niet in een ochoko. Brut Nature Cava van Recaredo of Gramona is een toegankelijk mousserende alternatief in hetzelfde droge spectrum.",
+          "waarom_werkt_dit": "Sake heeft van nature meer umami dan vrijwel elke andere drank — en dat is hier geen tegenstem maar een directe spiegel van de kaviaar. Waar Champagne snijdt en reinigt, omarmt sake. De zachte zuren vangen de zure room op zonder erdoorheen te snijden; de gestoomde-rijst-tonen vormen een verrassende parallel met de aardappel. Het is de avontuurlijkste keuze van de drie, maar gastronomisch een van de meest logische — voor wie de Japanse tafel kent geen verrassing, voor wie hem niet kent een openbaring."
+        }
+      ],
+      "wine": {
+        "naam": "Champagne Blanc de Blancs Brut Nature of Brut — Côte des Blancs, Frankrijk",
+        "druif": "Chardonnay (100%)",
+        "toelichting": "De mousse reinigt het palet en versterkt de rösti-crunch; de kalk-mineraliteit spiegelt de mariene umami van de kaviaar; de brioche-tonen sluiten aan bij de goudbruine rösti. Brut Nature is technisch ideaal — elk gram restzoet botst met het zout van de kaviaar. Serveer op 8–10°C in tulpglazen.",
+        "alternatief": "Muscadet Sèvre-et-Maine sur Lie of Junmai Daiginjo Sake"
+      },
+      "metadata": {
+        "bereidingstijd": "35 min",
+        "porties": "4 porties (1 rösti per persoon)",
+        "type_gerecht": "Amuse / klein voorgerecht",
+        "niveau": "Makkelijk tot gemiddeld"
+      },
+      "source_recipe_number": 166,
+      "full_title_docx": "166. KROKANTE AARDAPPELRÖSTI MET ZURE ROOM EN KAVIAAR"
     }
   ]
 }
