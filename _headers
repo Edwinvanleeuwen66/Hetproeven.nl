@@ -6,8 +6,11 @@
 /recepten/*
   Cache-Control: public, max-age=3600
 
-/assets/*
+/assets/css/*
   Cache-Control: public, max-age=31536000, immutable
 
+/assets/images/*
+  Cache-Control: public, max-age=86400
+
 /data/recipes.json
-  Cache-Control: public, max-age=3600
+  Cache-Control: public, max-age=300
