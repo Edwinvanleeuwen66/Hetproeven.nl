@@ -56419,6 +56419,1028 @@
       },
       "source_recipe_number": 166,
       "full_title_docx": "166. KROKANTE AARDAPPELRÖSTI MET ZURE ROOM EN KAVIAAR"
+    },
+    {
+      "title": "Uovo in Camicia, Fonduta di Parmigiano Vecchio, Tartufo Nero e Caviale",
+      "slug": "gepocheerd-ei-fonduta-parmigiano-zwarte-truffel-kaviaar",
+      "location": "Piemonte, Italië",
+      "time": "40 min",
+      "servings": "4 amuse-porties",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/gepocheerd-ei-fonduta-parmigiano-zwarte-truffel-kaviaar.jpg",
+      "short_description": "Piemontees theatergerecht: fonduta van 36 maanden Parmigiano draagt een gepocheerd ei, bedekt door dakpannen zwarte wintertruffel, gekroond door kaviaar — bij het openbreken vloeien dooier, fonduta en kaviaar samen in vier umami-bronnen.",
+      "description": "Een Piemontees-Italiaans theatergerecht. Een spiegelgladde fonduta van 36 maanden gerijpte Parmigiano draagt een gepocheerd ei met fluweelzacht wit en vloeibare dooier. Plakken zwarte wintertruffel bedekken het geheel als overlappende dakpannen, gekroond door één geconcentreerde lepel kaviaar recht in het hart. Bij het openbreken vloeien dooier, fonduta en kaviaar samen — vier intense umami-bronnen die elkaar versterken in plaats van bestrijden. Dit is een gerecht voor één hap, één moment.",
+      "full_intro": "Een Piemontees-Italiaans theatergerecht. Een spiegelgladde fonduta van 36 maanden gerijpte Parmigiano draagt een gepocheerd ei met fluweelzacht wit en vloeibare dooier. Plakken zwarte wintertruffel bedekken het geheel als overlappende dakpannen, gekroond door één geconcentreerde lepel kaviaar recht in het hart. Bij het openbreken vloeien dooier, fonduta en kaviaar samen — vier intense umami-bronnen die elkaar versterken in plaats van bestrijden. Dit is een gerecht voor één hap, één moment.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de fonduta di Parmigiano",
+          "ingredients": [
+            {
+              "name": "volle melk",
+              "amount": "150ml"
+            },
+            {
+              "name": "volle slagroom",
+              "amount": "100ml"
+            },
+            {
+              "name": "klein sjalotje, zeer fijn gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "roomboter",
+              "amount": "10g"
+            },
+            {
+              "name": "Parmigiano Reggiano 36 maanden (Vacche Rosse als topkeuze), zeer fijn geraspt",
+              "amount": "140g"
+            },
+            {
+              "name": "grote eidooier, op kamertemperatuur",
+              "amount": "1"
+            },
+            {
+              "name": "nootmuskaat",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het gepocheerde ei",
+          "ingredients": [
+            {
+              "name": "zeer verse eieren (maat L), op kamertemperatuur",
+              "amount": "4"
+            },
+            {
+              "name": "witte wijnazijn",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de truffel",
+          "ingredients": [
+            {
+              "name": "verse zwarte wintertruffel (Tuber melanosporum), op kamertemperatuur",
+              "amount": "30g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de kaviaar",
+          "ingredients": [
+            {
+              "name": "Osetra of Baerii kaviaar",
+              "amount": "20–30g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "vers gemalen zwarte peper, zeer fijn",
+              "amount": ""
+            },
+            {
+              "name": "druppels truffeljus (optioneel)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de fonduta di Parmigiano",
+          "ingredients": [
+            "150ml volle melk",
+            "100ml volle slagroom",
+            "1 klein sjalotje, zeer fijn gesneden",
+            "10g roomboter",
+            "140g Parmigiano Reggiano 36 maanden (Vacche Rosse als topkeuze), zeer fijn geraspt",
+            "1 grote eidooier, op kamertemperatuur",
+            "Snuf nootmuskaat",
+            "Vers gemalen witte peper",
+            "Géén zout — Parmezaan en kaviaar leveren alles"
+          ]
+        },
+        {
+          "group_name": "Voor het gepocheerde ei",
+          "ingredients": [
+            "4 zeer verse eieren (maat L), op kamertemperatuur",
+            "1 el witte wijnazijn"
+          ]
+        },
+        {
+          "group_name": "Voor de truffel",
+          "ingredients": [
+            "30g verse zwarte wintertruffel (Tuber melanosporum), seizoen december–maart — op kamertemperatuur"
+          ]
+        },
+        {
+          "group_name": "Voor de kaviaar",
+          "ingredients": [
+            "20–30g Osetra of Baerii kaviaar"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "Vers gemalen zwarte peper, zeer fijn (subtiel)",
+            "Eventueel enkele druppels truffeljus"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Kaviaar en truffel temperen",
+          "description": "Kaviaar koud in de koelkast tot het allerlaatste moment. Truffel 30 minuten op kamertemperatuur voor maximale aroma-ontwikkeling. Borstel de truffel voorzichtig schoon met een zachte borstel of vochtige doek — niet wassen."
+        },
+        {
+          "number": 2,
+          "action": "Sjalot infuseren",
+          "description": "Smelt de boter in een dikbodemig steelpannetje op laag vuur. Fruit het fijngesneden sjalotje 2 minuten zachtjes zonder te kleuren. Voeg de melk en slagroom toe en verwarm rustig tot net onder het kookpunt. Laat 5 minuten heel zacht trekken. Zeef het mengsel terug in een schoon pannetje."
+        },
+        {
+          "number": 3,
+          "action": "Fonduta — kaas inroeren",
+          "description": "Verwarm het gezeefde melk-room-mengsel op zeer laag vuur tot net warm (60°C), niet koken. Voeg de fijn geraspte Parmigiano in drie delen toe, telkens met een garde rustig roerend, tot een homogeen romige massa ontstaat. Geduld — geen hoog vuur, anders schift de kaas."
+        },
+        {
+          "number": 4,
+          "action": "Fonduta — afmaken met dooier",
+          "description": "Haal de pan van het vuur en laat 1 minuut afkoelen tot circa 65°C. Klop de eidooier krachtig erdoorheen — de dooier bindt en geeft glans, maar bij te hoge temperatuur schift hij. Voeg nootmuskaat en witte peper toe. Strijk door een fijne zeef voor restaurant-fluweel. Houd warm in een bain-marie op 55–60°C met folie direct op het oppervlak."
+        },
+        {
+          "number": 5,
+          "action": "Truffel schaven",
+          "description": "Schaaf met een truffelschaaf papierdunne plakken truffel — 8 tot 10 per persoon. Bewaar afgedekt op kamertemperatuur tot serveren. Schaaf niet eerder dan 5 minuten voor opdienen — vluchtige aroma's verdampen snel."
+        },
+        {
+          "number": 6,
+          "action": "Eieren pocheren",
+          "description": "Breng een ruime pan water aan een zachte kook en voeg de azijn toe. Breek elk ei in een klein kommetje. Maak een zachte draaikolk en laat het ei voorzichtig in het midden glijden. Pocheer 3 tot 3½ minuten — wit gestold, dooier vloeibaar. Schep eruit met een schuimspaan en laat uitlekken op keukenpapier. Trim eventuele losse witte sliertjes weg. Werk in batches van twee."
+        },
+        {
+          "number": 7,
+          "action": "Composeren en serveren",
+          "description": "Lepel een royale spiegel warme fonduta in elk diep amusebordje en tik glad. Leg het gepocheerde ei centraal op de fonduta, dooier zichtbaar. Leg de geschaafde truffelplakken overlappend op en rond het ei als dakpannen — van buitenrand naar binnen, zodat het ei vrijwel volledig bedekt is, alleen het centrum van de dooier zichtbaar. Lepel met een parelmoer- of houten lepeltje een geconcentreerde berg kaviaar precies op het centrum. Minimale afwerking: een subtiele draai zwarte peper aan de rand, eventueel enkele druppels truffeljus rondom de fonduta. Geen zout. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Kaviaar en truffel temperen",
+          "description": "Kaviaar koud in de koelkast tot het allerlaatste moment. Truffel 30 minuten op kamertemperatuur voor maximale aroma-ontwikkeling. Borstel de truffel voorzichtig schoon met een zachte borstel of vochtige doek — niet wassen."
+        },
+        {
+          "number": 2,
+          "section": "Sjalot infuseren",
+          "description": "Smelt de boter in een dikbodemig steelpannetje op laag vuur. Fruit het fijngesneden sjalotje 2 minuten zachtjes zonder te kleuren. Voeg de melk en slagroom toe en verwarm rustig tot net onder het kookpunt. Laat 5 minuten heel zacht trekken. Zeef het mengsel terug in een schoon pannetje."
+        },
+        {
+          "number": 3,
+          "section": "Fonduta — kaas inroeren",
+          "description": "Verwarm het gezeefde melk-room-mengsel op zeer laag vuur tot net warm (60°C), niet koken. Voeg de fijn geraspte Parmigiano in drie delen toe, telkens met een garde rustig roerend, tot een homogeen romige massa ontstaat. Geduld — geen hoog vuur, anders schift de kaas."
+        },
+        {
+          "number": 4,
+          "section": "Fonduta — afmaken met dooier",
+          "description": "Haal de pan van het vuur en laat 1 minuut afkoelen tot circa 65°C. Klop de eidooier krachtig erdoorheen — de dooier bindt en geeft glans, maar bij te hoge temperatuur schift hij. Voeg nootmuskaat en witte peper toe. Strijk door een fijne zeef voor restaurant-fluweel. Houd warm in een bain-marie op 55–60°C met folie direct op het oppervlak."
+        },
+        {
+          "number": 5,
+          "section": "Truffel schaven",
+          "description": "Schaaf met een truffelschaaf papierdunne plakken truffel — 8 tot 10 per persoon. Bewaar afgedekt op kamertemperatuur tot serveren. Schaaf niet eerder dan 5 minuten voor opdienen — vluchtige aroma's verdampen snel."
+        },
+        {
+          "number": 6,
+          "section": "Eieren pocheren",
+          "description": "Breng een ruime pan water aan een zachte kook en voeg de azijn toe. Breek elk ei in een klein kommetje. Maak een zachte draaikolk en laat het ei voorzichtig in het midden glijden. Pocheer 3 tot 3½ minuten — wit gestold, dooier vloeibaar. Schep eruit met een schuimspaan en laat uitlekken op keukenpapier. Trim eventuele losse witte sliertjes weg. Werk in batches van twee."
+        },
+        {
+          "number": 7,
+          "section": "Composeren en serveren",
+          "description": "Lepel een royale spiegel warme fonduta in elk diep amusebordje en tik glad. Leg het gepocheerde ei centraal op de fonduta, dooier zichtbaar. Leg de geschaafde truffelplakken overlappend op en rond het ei als dakpannen — van buitenrand naar binnen, zodat het ei vrijwel volledig bedekt is, alleen het centrum van de dooier zichtbaar. Lepel met een parelmoer- of houten lepeltje een geconcentreerde berg kaviaar precies op het centrum. Minimale afwerking: een subtiele draai zwarte peper aan de rand, eventueel enkele druppels truffeljus rondom de fonduta. Geen zout. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Parmigiano-kwaliteit is hier alles: met slechts één kaas in de fonduta zit nergens een achterdeur. Vraag bij een Italiaanse delicatessenwinkel om Parmigiano Reggiano DOP van minimaal 30–36 maanden. Rasp zo fijn mogelijk — fijne rasp smelt sneller en gelijkmatiger.",
+        "Fonduta-temperatuur is geen optie, het is de techniek: de room mag niet koken (dan schift de kaas), en de dooier moet bij 60–65°C worden toegevoegd. Geen thermometer? Test met de onderarm: warm, niet heet.",
+        "Door de zeef strijken is geen pretentie maar techniek: fonduta heeft altijd kleine kaasdraadjes en eiwitsporen. Eén keer door een fijne zeef en je hebt restaurant-fluweel — het verschil tussen huis-fonduta en sterren-fonduta.",
+        "Truffel: alleen Tuber melanosporum: zwarte wintertruffel uit de Périgord, Umbrië of Spanje, seizoen december–maart. Vermijd Chinese truffel (Tuber indicum, vrijwel aromaloos) en zomertruffel (te subtiel voor dit gerecht).",
+        "Royale truffel is geen luxe maar essentie: 8 tot 10 grote plakken per persoon (7–8g pp) is minimum. Dit gerecht heet tartufo nero — niet 'vleugje truffel'. Liever overslaan dan met te weinig.",
+        "Pocheren voorbereiden — restaurant-techniek: pocheer de eieren tot een uur vooraf, koel direct af in ijswater. Vlak voor serveren 20–30 seconden onderdompelen in heet water om op te warmen. Geeft rust tijdens het composeren.",
+        "Kaviaar à la minute, geen metaal: houten of parelmoer-lepeltje. Één precieze geconcentreerde berg op het hart van het ei — niet verspreiden. Geen extra zout: kaviaar en Parmezaan doen samen al het zoutwerk.",
+        "Variatie zonder kaviaar: vervang door geconcentreerde balsamico-parels of enkele druppels truffeljus. Budget-versie zonder truffel: zeer dunne plakken cantharel of gemarineerde rauwe kastanjechampignon — ingetogener maar fonduta + ei + kaviaar staat als basis-formule."
+      ],
+      "tips_full": [
+        "Parmigiano-kwaliteit is hier alles: met slechts één kaas in de fonduta zit nergens een achterdeur. Vraag bij een Italiaanse delicatessenwinkel om Parmigiano Reggiano DOP van minimaal 30–36 maanden. Rasp zo fijn mogelijk — fijne rasp smelt sneller en gelijkmatiger.",
+        "Fonduta-temperatuur is geen optie, het is de techniek: de room mag niet koken (dan schift de kaas), en de dooier moet bij 60–65°C worden toegevoegd. Geen thermometer? Test met de onderarm: warm, niet heet.",
+        "Door de zeef strijken is geen pretentie maar techniek: fonduta heeft altijd kleine kaasdraadjes en eiwitsporen. Eén keer door een fijne zeef en je hebt restaurant-fluweel — het verschil tussen huis-fonduta en sterren-fonduta.",
+        "Truffel: alleen Tuber melanosporum: zwarte wintertruffel uit de Périgord, Umbrië of Spanje, seizoen december–maart. Vermijd Chinese truffel (Tuber indicum, vrijwel aromaloos) en zomertruffel (te subtiel voor dit gerecht).",
+        "Royale truffel is geen luxe maar essentie: 8 tot 10 grote plakken per persoon (7–8g pp) is minimum. Dit gerecht heet tartufo nero — niet 'vleugje truffel'. Liever overslaan dan met te weinig.",
+        "Pocheren voorbereiden — restaurant-techniek: pocheer de eieren tot een uur vooraf, koel direct af in ijswater. Vlak voor serveren 20–30 seconden onderdompelen in heet water om op te warmen. Geeft rust tijdens het composeren.",
+        "Kaviaar à la minute, geen metaal: houten of parelmoer-lepeltje. Één precieze geconcentreerde berg op het hart van het ei — niet verspreiden. Geen extra zout: kaviaar en Parmezaan doen samen al het zoutwerk.",
+        "Variatie zonder kaviaar: vervang door geconcentreerde balsamico-parels of enkele druppels truffeljus. Budget-versie zonder truffel: zeer dunne plakken cantharel of gemarineerde rauwe kastanjechampignon — ingetogener maar fonduta + ei + kaviaar staat als basis-formule."
+      ],
+      "opmaak_presentatie": "Ondiepe witte amusebordjes of klassieke koffieschotels — wit porselein geeft het diepste contrast met het diepzwart van truffel en kaviaar, het ivoorgeel van de fonduta en het glanzende oranje van de dooier. Bouw strak en gecentreerd. Fonduta als gladde spiegel. Ei exact in het midden. Truffel-dakpannen overlappend van buitenrand naar binnen — alleen de top van de dooier zichtbaar. Kaviaar-berg precies op het centrum. Geen druppels, geen kruiden, geen garnituur rondom. Vier ingrediënten in perfecte symmetrie: lichtgeel, donkerzwart, oranje, parelzwart. Instructie aan de gast: spaccare — openbreken in één keer.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Vintage (Millésime) Brut, gerijpt 8+ jaar — Champagne, Frankrijk",
+          "druif": "Chardonnay en Pinot Noir (assemblage), soms met Pinot Meunier",
+          "smaakprofiel": "Droog, bruisend, rijp geel fruit, gekonfijte citrusschil, brioche, geroosterde hazelnoot, walnoot, gedroogde paddenstoel, lichte truffel-anijs en kalk-mineraliteit. Fijne mousse, hoge zuren, vol fluwelig mondgevoel, lange complexe finale.",
+          "omschrijving": "Een gerijpte vintage Champagne uit één specifiek jaar, langer op gist gerijpt voor extra tertiaire complexiteit. Bollinger (La Grande Année), Dom Pérignon, Pol Roger (Sir Winston Churchill), Charles Heidsieck of Krug Vintage. Serveer bij 10–12°C in tulpglazen.",
+          "waarom_werkt_dit": "Dit gerecht is opgebouwd uit vier umami-lagen die allemaal gewicht en diepte hebben — fonduta, dooier, truffel, kaviaar. De wijn moet dat gewicht dragen én doorsnijden. Een gerijpte vintage Champagne ontwikkelt door de lange autolyse precies de tertiaire aroma's die hier nodig zijn: gedroogde paddenstoel, walnoot, brioche en subtiele truffel-anijs vormen een directe smaakspiegel met de zwarte wintertruffel. De hoge zuren snijden door de rijke fonduta en dooier, de fijne mousse reinigt het palet na elke hap en versterkt de samenvloeiing van kaviaar en dooier. Een jonge Champagne mist deze diepte volledig — rijp, complex en tertiair is de enige juiste keuze."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Franciacorta Satèn — Lombardije, Italië",
+          "druif": "Chardonnay (hoofdrol), soms met Pinot Bianco",
+          "smaakprofiel": "Mousserend, droog, zacht romig, citrus, rijp wit fruit, witte bloemen, lichte toast, brioche en verfijnde mineraliteit. Subtiele zachte mousse, verfijnde zuren, fluwelig mondgevoel.",
+          "omschrijving": "Satèn is een specifieke Franciacorta-stijl met lagere druk (4,5 atm) — een zachtere, zijdezachtere mousse dan Champagne. Ca' del Bosco, Bellavista, Ferghettina of Berlucchi. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Satèn heeft precies het gewicht om fonduta en dooier te dragen maar legt nooit druk op de delicate truffel — de zachte mousse omarmt de romige fonduta in plaats van erdoor te snijden, wat een gevoel van romigheid op romigheid geeft. De Italiaanse herkomst past bijzonder mooi bij het Piemontese karakter van dit gerecht; wie binnen de Italiaanse lijn wil blijven kiest dit. Frisser dan een stille witte, ronder dan een Brut Nature Champagne — de perfecte gastronomische middenweg."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Corton-Charlemagne Grand Cru — Côte de Beaune, Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Vol, droog, rijpe peer, gekonfijte citrus, geroosterde hazelnoot, amandel, brioche, bijenwas, witte bloemen, lichte truffel-aardsheid en uitgesproken kalk-mineraliteit. Hoge zuren, vol fluwelig mondgevoel, indrukwekkende lengte.",
+          "omschrijving": "Grand Cru uit Aloxe-Corton op de iconische kalkhellingen van de Corton-heuvel. Bonneau du Martray, Coche-Dury, Domaine Leflaive of Louis Latour. Serveer bij 13–14°C, jongere jaargangen gekarafeerd.",
+          "waarom_werkt_dit": "Voor wie geen bubbels wil bij dit gerecht: Corton-Charlemagne is de stille Grand Cru-equivalent. De geroosterde hazelnoot- en briochetonen spiegelen truffel en Parmezaan direct; de bijenwas- en honingaccenten verbinden met de dooier; de hoge zuren snijden door de fonduta. De fluwelen textuur en indrukwekkende lengte dragen het gewicht van alle vier umami-lagen moeiteloos. Voor de avontuurlijke wijnliefhebber: een Château-Chalon Vin Jaune uit de Jura heeft sotolone-aroma's die rechtstreeks met truffel rijmen — niet voor iedereen, maar voor de truffel-liefhebber een openbaring."
+        }
+      ],
+      "wine": {
+        "naam": "Champagne Vintage (Millésime) Brut, gerijpt 8+ jaar — Champagne, Frankrijk",
+        "druif": "Chardonnay en Pinot Noir",
+        "toelichting": "Een gerijpte vintage Champagne ontwikkelt door lange autolyse tertiaire aroma's van gedroogde paddenstoel, walnoot en subtiele truffel-anijs — een directe smaakspiegel met de zwarte wintertruffel. De hoge zuren snijden door fonduta en dooier, de mousse reinigt het palet na elke hap. Serveer op 10–12°C in tulpglazen.",
+        "alternatief": "Franciacorta Satèn of Corton-Charlemagne Grand Cru"
+      },
+      "metadata": {
+        "bereidingstijd": "40 min",
+        "porties": "4 amuse-porties",
+        "type_gerecht": "Tussengerecht / luxe amuse",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 167,
+      "full_title_docx": "167. UOVO IN CAMICIA, FONDUTA DI PARMIGIANO VECCHIO, TARTUFO NERO E CAVIALE"
+    },
+    {
+      "title": "Carpaccio van Coquille, Groen Tomatenwater en Olie van Gebrande Basilicum",
+      "slug": "carpaccio-coquille-groen-tomatenwater-gebrande-basilicumolie",
+      "location": "Modernistisch Italiaans",
+      "time": "40 min + 2–4 uur tomatenwater + 1–2 uur basilicumolie (kan dag vooraf)",
+      "servings": "4 kleine porties",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/carpaccio-coquille-groen-tomatenwater-gebrande-basilicumolie.jpg",
+      "short_description": "Modernistisch Italiaans op zijn helderst: papierdunne rauwe coquille drijvend in glashelder koud groen tomatenwater, met één strakke zwarte lijn gebrande basilicumolie — het lichtste, helderste gerecht in het boek.",
+      "description": "Modernistisch Italiaans op zijn helderst. Flinterdunne plakken rauwe coquille drijven in een glashelder, koud water van geperste groene tomaat. Eén strakke zwarte lijn van gebrande-basilicumolie trekt diagonaal door het wit. Drie pure elementen — zoet-zilt, scherp-vegetaal, rokerig-aromatisch — in directe ontmoeting, zonder warmte of romigheid. Het lichtste, helderste gerecht in het hele boek.",
+      "full_intro": "Modernistisch Italiaans op zijn helderst. Flinterdunne plakken rauwe coquille drijven in een glashelder, koud water van geperste groene tomaat. Eén strakke zwarte lijn van gebrande-basilicumolie trekt diagonaal door het wit. Drie pure elementen — zoet-zilt, scherp-vegetaal, rokerig-aromatisch — in directe ontmoeting, zonder warmte of romigheid. Het lichtste, helderste gerecht in het hele boek.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het groene tomatenwater",
+          "ingredients": [
+            {
+              "name": "onrijpe groene tomaten (of stevige half-rijpe rode tomaten als alternatief)",
+              "amount": "600g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "klein takje basilicum (voor subtiele infusie)",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de olie van gebrande basilicum",
+          "ingredients": [
+            {
+              "name": "verse basilicumblaadjes (van een hele bos)",
+              "amount": "25g"
+            },
+            {
+              "name": "milde extra-vergine olijfolie of neutrale olie",
+              "amount": "80ml"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de coquilles",
+          "ingredients": [
+            {
+              "name": "grote zeer verse coquilles, sashimi-kwaliteit (3 per persoon)",
+              "amount": "12"
+            },
+            {
+              "name": "milde extra-vergine olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "koud citroensap",
+              "amount": "enkele druppels"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen witte peper, zeer fijn",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "microgreens (basilicum-kresse of borage-bloempjes)",
+              "amount": ""
+            },
+            {
+              "name": "minuscule rasp van limoen of yuzu (optioneel)",
+              "amount": ""
+            },
+            {
+              "name": "vlokken zeezout (Maldon)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor het groene tomatenwater",
+          "ingredients": [
+            "600g onrijpe groene tomaten (of stevige half-rijpe rode tomaten als alternatief)",
+            "½ tl fijn zeezout",
+            "½ tl fijne kristalsuiker",
+            "1 klein takje basilicum (voor zeer subtiele infusie)"
+          ]
+        },
+        {
+          "group_name": "Voor de olie van gebrande basilicum",
+          "ingredients": [
+            "25g verse basilicumblaadjes (van een hele bos)",
+            "80ml milde extra-vergine olijfolie of neutrale olie",
+            "Snuf fleur de sel"
+          ]
+        },
+        {
+          "group_name": "Voor de coquilles",
+          "ingredients": [
+            "12 grote zeer verse coquilles, sashimi-kwaliteit (3 per persoon)",
+            "1 el milde extra-vergine olijfolie",
+            "Enkele druppels koud citroensap",
+            "Fleur de sel",
+            "Vers gemalen witte peper, zeer fijn"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "Enkele microgreens (basilicum-kresse of borage-bloempjes)",
+            "Minuscule rasp van limoen of yuzu (optioneel)",
+            "Enkele vlokken zeezout (Maldon)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Groen tomatenwater (begin minimaal 4 uur vooraf)",
+          "description": "Snijd de groene tomaten in grove stukken. Doe in een blender met het zout, de suiker en het takje basilicum. Pulseer 30 seconden — niet pureren, alleen tot een grove sappige massa. Schenk over in een fijne zeef bekleed met een passeerdoek of cheesecloth, opgehangen boven een kom in de koelkast. Laat 2 tot 4 uur rustig uitdruppen — niet persen, niet duwen. Vang ongeveer 300ml glashelder, lichtgroenig water op. Proef en corrigeer met een fractie zout, suiker of citroensap. Houd zeer koud tot serveren."
+        },
+        {
+          "number": 2,
+          "action": "Olie van gebrande basilicum — branden",
+          "description": "Verhit een droge koekenpan stevig op hoog vuur. Leg de basilicumblaadjes in de hete pan en laat 30 tot 60 seconden bakken, voorzichtig schuddend, tot ze diep gebrand en bros zijn — duidelijk donker, met sterke rookgeur. Niet tot witte as, dat wordt bitter. Schep direct over op een bord om af te koelen."
+        },
+        {
+          "number": 3,
+          "action": "Olie van gebrande basilicum — infuseren",
+          "description": "Zodra de basilicum koud is, maal in een vijzel of kleine hakmolen tot een grove poeder. Doe in een glazen pot met de olijfolie en een snuf zout. Schud goed, laat 1 tot 2 uur infuseren op kamertemperatuur. Zeef door een koffiefilter of zeer fijne zeef. De olie is asachtig donkergroen-zwart, met een complex rokerig-basilicum-aroma. Bewaar in een klein flesje of pipetfles."
+        },
+        {
+          "number": 4,
+          "action": "Coquilles aanvriezen en snijden",
+          "description": "Spoel de coquilles voorzichtig en dep grondig droog. Verwijder eventueel koraal en kraakbeen-bandjes. Leg de schoongemaakte coquilles plat naast elkaar op een bord en zet 10 tot 15 minuten in de vriezer — net steviger worden, niet bevriezen. Leg een coquille plat op een koude snijplank. Snijd met een zeer scherp dun mes horizontaal 4 tot 5 papierdunne plakjes per coquille. Bewaar op een koud bord onder folie in de koelkast tot serveren."
+        },
+        {
+          "number": 5,
+          "action": "Composeren en serveren",
+          "description": "Leg de coquille-plakjes in een losse, deels overlappende cirkel of waaier op de bodem van elk voorgekoeld diep wit bord. Bestrijk héél licht met een paar druppels milde olijfolie voor glans. Bestrooi met enkele korrels fleur de sel en een fijne draai witte peper. Druppel een paar druppels koud citroensap subtiel over de coquilles. Giet voorzichtig 60–75ml ijskoud groen tomatenwater rondom (niet over) de coquilles. Trek met een lepeltje of pipet één strakke zwarte lijn olie van gebrande basilicum dwars door het bord. Plaats enkele microgreens, eventueel een minuscule rasp van limoen of yuzu, en enkele vlokken Maldon-zeezout. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Groen tomatenwater (begin minimaal 4 uur vooraf)",
+          "description": "Snijd de groene tomaten in grove stukken. Doe in een blender met het zout, de suiker en het takje basilicum. Pulseer 30 seconden — niet pureren, alleen tot een grove sappige massa. Schenk over in een fijne zeef bekleed met een passeerdoek of cheesecloth, opgehangen boven een kom in de koelkast. Laat 2 tot 4 uur rustig uitdruppen — niet persen, niet duwen. Vang ongeveer 300ml glashelder, lichtgroenig water op. Proef en corrigeer met een fractie zout, suiker of citroensap. Houd zeer koud tot serveren."
+        },
+        {
+          "number": 2,
+          "section": "Olie van gebrande basilicum — branden",
+          "description": "Verhit een droge koekenpan stevig op hoog vuur. Leg de basilicumblaadjes in de hete pan en laat 30 tot 60 seconden bakken, voorzichtig schuddend, tot ze diep gebrand en bros zijn — duidelijk donker, met sterke rookgeur. Niet tot witte as, dat wordt bitter. Schep direct over op een bord om af te koelen."
+        },
+        {
+          "number": 3,
+          "section": "Olie van gebrande basilicum — infuseren",
+          "description": "Zodra de basilicum koud is, maal in een vijzel of kleine hakmolen tot een grove poeder. Doe in een glazen pot met de olijfolie en een snuf zout. Schud goed, laat 1 tot 2 uur infuseren op kamertemperatuur. Zeef door een koffiefilter of zeer fijne zeef. De olie is asachtig donkergroen-zwart, met een complex rokerig-basilicum-aroma. Bewaar in een klein flesje of pipetfles."
+        },
+        {
+          "number": 4,
+          "section": "Coquilles aanvriezen en snijden",
+          "description": "Spoel de coquilles voorzichtig en dep grondig droog. Verwijder eventueel koraal en kraakbeen-bandjes. Leg de schoongemaakte coquilles plat naast elkaar op een bord en zet 10 tot 15 minuten in de vriezer — net steviger worden, niet bevriezen. Leg een coquille plat op een koude snijplank. Snijd met een zeer scherp dun mes horizontaal 4 tot 5 papierdunne plakjes per coquille. Bewaar op een koud bord onder folie in de koelkast tot serveren."
+        },
+        {
+          "number": 5,
+          "section": "Composeren en serveren",
+          "description": "Leg de coquille-plakjes in een losse, deels overlappende cirkel of waaier op de bodem van elk voorgekoeld diep wit bord. Bestrijk héél licht met een paar druppels milde olijfolie voor glans. Bestrooi met enkele korrels fleur de sel en een fijne draai witte peper. Druppel een paar druppels koud citroensap subtiel over de coquilles. Giet voorzichtig 60–75ml ijskoud groen tomatenwater rondom (niet over) de coquilles. Trek met een lepeltje of pipet één strakke zwarte lijn olie van gebrande basilicum dwars door het bord. Plaats enkele microgreens, eventueel een minuscule rasp van limoen of yuzu, en enkele vlokken Maldon-zeezout. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Coquille-kwaliteit is hier alles: vraag bij een betrouwbare visboer om sashimi-grade Coquille Saint-Jacques, liefst dagvers of nog levend in schelp. Bij twijfel kort blancheren (5 seconden in zout water, direct in ijswater). Liever niet — rauw is de essentie.",
+        "Aanvriezen voor het snijden is de truc: 10 tot 15 minuten in de vriezer geeft strakkere, dunnere plakjes dan welke andere techniek ook. Niet tot hard ijs — je moet ze nog kunnen snijden.",
+        "Groene tomaten geven het karakter, niet rijpe rode: groene tomaten geven het scherpe, lichtzure, vegetaal-frisse water. Geen groene tomaten? Combineer half-rijpe rode tomaten met halve komkommer en halve Granny Smith voor extra frisheid.",
+        "Druk het tomatenwater niet uit: geduld geeft helderheid. Zodra je de massa aandrukt komt er pulp mee — troebel resultaat. Laat het uit zichzelf druppen in de koelkast.",
+        "Basilicum diep gebrand, niet tot witte as: 30 tot 60 seconden is genoeg. Volledig wit verbranden geeft onaangename bitterheid. De olie moet bitter-groen en subtiel rokerig zijn.",
+        "Milde olie voor de basilicum, geen peperige: een sterk-peperige olijfolie overstemt de coquille en concurreert met de gebrande basilicum. Kies een rondere, mildere extra-vergine of neutrale olie.",
+        "Eén lijn, niet druppels: voor restaurantgevoel trek één strakke zwarte lijn dwars over het wit met een lepel of pipet. Eén grafische beweging is sterker dan vijf willekeurige druppels.",
+        "Alles vooraf, plating à la minute: tomatenwater en basilicumolie kunnen probleemloos een dag vooraf gemaakt worden. Coquilles snijden en composeren pas vlak voor serveren. Proef het tomatenwater opnieuw voor serveren — zuren kunnen in de koelkast iets afvlakken."
+      ],
+      "tips_full": [
+        "Coquille-kwaliteit is hier alles: vraag bij een betrouwbare visboer om sashimi-grade Coquille Saint-Jacques, liefst dagvers of nog levend in schelp. Bij twijfel kort blancheren (5 seconden in zout water, direct in ijswater). Liever niet — rauw is de essentie.",
+        "Aanvriezen voor het snijden is de truc: 10 tot 15 minuten in de vriezer geeft strakkere, dunnere plakjes dan welke andere techniek ook. Niet tot hard ijs — je moet ze nog kunnen snijden.",
+        "Groene tomaten geven het karakter, niet rijpe rode: groene tomaten geven het scherpe, lichtzure, vegetaal-frisse water. Geen groene tomaten? Combineer half-rijpe rode tomaten met halve komkommer en halve Granny Smith voor extra frisheid.",
+        "Druk het tomatenwater niet uit: geduld geeft helderheid. Zodra je de massa aandrukt komt er pulp mee — troebel resultaat. Laat het uit zichzelf druppen in de koelkast.",
+        "Basilicum diep gebrand, niet tot witte as: 30 tot 60 seconden is genoeg. Volledig wit verbranden geeft onaangename bitterheid. De olie moet bitter-groen en subtiel rokerig zijn.",
+        "Milde olie voor de basilicum, geen peperige: een sterk-peperige olijfolie overstemt de coquille en concurreert met de gebrande basilicum. Kies een rondere, mildere extra-vergine of neutrale olie.",
+        "Eén lijn, niet druppels: voor restaurantgevoel trek één strakke zwarte lijn dwars over het wit met een lepel of pipet. Eén grafische beweging is sterker dan vijf willekeurige druppels.",
+        "Alles vooraf, plating à la minute: tomatenwater en basilicumolie kunnen probleemloos een dag vooraf gemaakt worden. Coquilles snijden en composeren pas vlak voor serveren. Proef het tomatenwater opnieuw voor serveren — zuren kunnen in de koelkast iets afvlakken."
+      ],
+      "opmaak_presentatie": "Diepe witte borden of brede ondiepe kommen in mat porselein — wit is hier essentieel. Koel het bord 15 minuten vooraf. Coquilles in een lichte cirkel of waaier op de bodem, deels overlappend, elke plak zichtbaar als doorschijnend ivoor-roze. Tomatenwater eromheen gegoten, niet erover — coquilles drijven deels. Één strakke zwarte lijn olie van gebrande basilicum dwars door het wit — grafisch als inkt. Microgreens en zeste individueel geplaatst, twee of drie precies geplaatste punten. Bijna leeg maar elke beweging telt. Serveer onmiddellijk.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Etna Bianco DOC — Sicilië, Italië",
+          "druif": "Carricante, vaak met een klein deel Catarratto",
+          "smaakprofiel": "Droog, vulkanisch-mineraal, citrus, groene appel, witte bloemen en een typisch zilte, licht rokerige finale. Slank, hoge zuren.",
+          "omschrijving": "Carricante van de zwarte vulkanische hellingen van de Etna. Tenuta delle Terre Nere of Pietradolce zijn archetypes. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Dit gerecht leeft van drie elementen die elk een eigen gewicht hebben: de zoet-zilte coquille vraagt een wijn die haar niet overstempt, het friszure groene tomatenwater vraagt parallelle zuurgraad, en de gebrande basilicumolie vraagt iets rokerigs terug. Etna Bianco geeft dat alles — het friszuur loopt parallel met de groene tomaat, de ziltigheid valt naast de coquille zonder erbovenop te gaan, en de rokerige vulkanische finale is een directe spiegel van de basilicum-as. Dit gerecht en deze wijn delen een verleden van vuur."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Picpoul de Pinet — Languedoc, Frankrijk",
+          "druif": "Piquepoul Blanc",
+          "smaakprofiel": "Droog, krijtig-fris, citrus, witte perzik en uitgesproken ziltige mineraliteit. Slank, hoge zuren.",
+          "omschrijving": "De klassieke witte van Pinet aan de Étang de Thau, het oester-water van de Languedoc. Domaine Félines Jourdan is het archetype. Serveer bij 8–9°C.",
+          "waarom_werkt_dit": "Eeuwen geleden ontstaan om bij de oesters uit het naburige étang te drinken — coquille en oester delen veel. De wijn heeft precies het slanke gewicht dat dit lichte, heldere gerecht vraagt: de hoge citrus-zuren ontmoeten de scherpte van de groene tomaat als oude bekenden, de krijtige mineraliteit echoot het ziltige water. Slank genoeg om de coquille te laten spreken, en spectaculair betaalbaar in zijn klasse."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Manzanilla Sherry — Sanlúcar de Barrameda, Spanje",
+          "druif": "Palomino Fino",
+          "smaakprofiel": "Zeer droog, ziltig, vers brood, witte amandel, gedroogde gist en uitgesproken zoute zeebries. Slank, frisse zuren. Alcohol 15%.",
+          "omschrijving": "Sherry gerijpt onder flor in Sanlúcar de Barrameda — letterlijk zeeluchtgerijpt. Equipo Navazos La Bota de Manzanilla is het archetype. Serveer ijskoud bij 6–8°C in een copita.",
+          "waarom_werkt_dit": "Manzanilla heeft van nature meer zoute mineraliteit dan welke andere wijn dan ook — een directe spiegel met rauwe coquille die uit dezelfde Atlantische zee komt. De broodachtige flor-aroma's geven de afronding die voorkomt dat het bord té licht wordt; de hoge alcohol draagt zonder zoet te zijn. Geen Fino, geen Oloroso — alleen Manzanilla, en dan specifiek uit Sanlúcar. Het verschil zit in dat ene woord."
+        }
+      ],
+      "wine": {
+        "naam": "Etna Bianco DOC — Sicilië, Italië",
+        "druif": "Carricante",
+        "toelichting": "Het friszuur loopt parallel met de groene tomaat, de ziltigheid valt naast de coquille, en de rokerige vulkanische finale spiegelt direct de basilicum-as. Dit gerecht en deze wijn delen een verleden van vuur. Serveer op 8–10°C.",
+        "alternatief": "Picpoul de Pinet of Manzanilla Sherry (Sanlúcar de Barrameda, ijskoud)"
+      },
+      "metadata": {
+        "bereidingstijd": "40 min + 2–4 uur tomatenwater + 1–2 uur basilicumolie",
+        "porties": "4 kleine porties",
+        "type_gerecht": "Voorgerecht / lichte amuse",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 168,
+      "full_title_docx": "168. CARPACCIO VAN COQUILLE, GROEN TOMATENWATER EN OLIE VAN GEBRANDE BASILICUM"
+    },
+    {
+      "title": "Langoustine met Vanille-Boter en Citroen, aan Tafel Geopend",
+      "slug": "langoustine-vanille-boter-citroen-aan-tafel-geopend",
+      "location": "Frans fine dining",
+      "time": "20 min + 13 min garen",
+      "servings": "4 voorgerechten (3 staarten per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/langoustine-vanille-boter-citroen-aan-tafel-geopend.jpg",
+      "short_description": "Theatergerecht op het kruispunt van techniek en emotie: langoustines garen in afgesloten zak met vanille-boter en citroen, aan tafel geopend voor de gasten — de wolk van boter, citroen en vanille ontsnapt als perfecte opening.",
+      "description": "Een theatergerecht op het kruispunt van techniek en emotie. De langoustines garen in een afgesloten zak op lage temperatuur, in hun eigen vocht, met goede vanille-boter en een schijfje citroen. Niets ontsnapt — geen geur, geen smaak, geen vocht. Aan tafel knipt de gastheer de zak open en het werk van dertien minuten ontsnapt als een wolk: eerst boter, dan citroen, dan een seconde later die warme bloemige vanillenoot. Pure techniek, pure emotie.",
+      "full_intro": "Een theatergerecht op het kruispunt van techniek en emotie. De langoustines garen in een afgesloten zak op lage temperatuur, in hun eigen vocht, met goede vanille-boter en een schijfje citroen. Niets ontsnapt — geen geur, geen smaak, geen vocht. Aan tafel knipt de gastheer de zak open en het werk van dertien minuten ontsnapt als een wolk: eerst boter, dan citroen, dan een seconde later die warme bloemige vanillenoot. Pure techniek, pure emotie.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de vanille-boter",
+          "ingredients": [
+            {
+              "name": "goede ongezouten roomboter (Beurre d'Isigny of Beurre Échiré), op kamertemperatuur",
+              "amount": "70g"
+            },
+            {
+              "name": "½ vanillestokje, alleen de uitgeschraapte zaadjes",
+              "amount": ""
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "½ tl"
+            },
+            {
+              "name": "milde extra-vergine olijfolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de langoustines",
+          "ingredients": [
+            {
+              "name": "grote zeer verse langoustines, sashimi-kwaliteit — gepelde staarten",
+              "amount": "12"
+            },
+            {
+              "name": "zeer dunne schijfjes onbespoten citroen (1 per zak)",
+              "amount": "4"
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "½ citroen — voor enkele druppels sap na garen",
+              "amount": ""
+            },
+            {
+              "name": "kleine takjes verse bieslook of citroenmelisse (optioneel)",
+              "amount": ""
+            },
+            {
+              "name": "vlokken zeezout (Maldon)",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de vanille-boter",
+          "ingredients": [
+            "70g goede ongezouten roomboter (Beurre d'Isigny of Beurre Échiré), op kamertemperatuur",
+            "½ vanillestokje, opengespleten — alleen de uitgeschraapte zaadjes",
+            "½ tl fleur de sel",
+            "1 tl milde extra-vergine olijfolie"
+          ]
+        },
+        {
+          "group_name": "Voor de langoustines",
+          "ingredients": [
+            "12 grote zeer verse langoustines (Dublin Bay prawns), sashimi-kwaliteit — gepelde staarten",
+            "4 zeer dunne schijfjes onbespoten citroen (1 per zak)",
+            "Vers gemalen witte peper"
+          ]
+        },
+        {
+          "group_name": "Benodigd",
+          "ingredients": [
+            "4 hittebestendige hersluitbare diepvrieszakken ('kookecht') of vacuümzakken",
+            "Diepe ovenschaal voor warmwaterbad",
+            "Keukenthermometer",
+            "Mooi plankje (leisteen, marmer of donker hout) + keukenschaar"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "½ citroen — voor enkele druppels sap na garen",
+            "Enkele kleine takjes verse bieslook of citroenmelisse (optioneel)",
+            "Vlokken zeezout (Maldon)",
+            "Vers gemalen witte peper"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Langoustines voorbereiden",
+          "description": "Spoel de gepelde langoustinestaarten kort onder koud stromend water en dep grondig droog. Verwijder het zwarte darmkanaal langs de bovenkant. Laat eventueel het laatste staartstukje intact voor presentatie. Bewaar koud tot serveren."
+        },
+        {
+          "number": 2,
+          "action": "Vanille-boter maken",
+          "description": "Spleet het halve vanillestokje overlangs en schraap de zwarte zaadjes eruit met de rug van het mes. Meng de zachte boter met de vanillezaadjes, het fleur de sel en de olijfolie tot een gladde, homogene vanille-boter."
+        },
+        {
+          "number": 3,
+          "action": "Bain-marie voorbereiden",
+          "description": "Verwarm de oven voor op 60°C. Vul een diepe ovenschaal met heet water van precies 60°C — gebruik een keukenthermometer. Zet de schaal in de oven om op temperatuur te blijven."
+        },
+        {
+          "number": 4,
+          "action": "Zakken vullen en lucht eruit",
+          "description": "Verdeel de langoustines over 4 zakken — 3 staarten per zak. Voeg per zak een kwart van de vanille-boter, één dun citroenschijfje en een draai witte peper toe. Dompelingstechniek: houd de zak open en dompel langzaam in koud water tot net onder de sluiting — het water duwt de lucht eruit. Sluit de zak boven het wateroppervlak."
+        },
+        {
+          "number": 5,
+          "action": "Garen in bain-marie — precies 13 minuten",
+          "description": "Leg de gevulde zakken in het waterbad in de oven. Druk onder met een omgekeerd bord zodat ze volledig ondergedompeld blijven. Sluit de oven en gaar precies 13 minuten op 60°C. Niet langer — bij langer garen wordt langoustine taai en droog."
+        },
+        {
+          "number": 6,
+          "action": "Naar tafel — het theater",
+          "description": "Haal de zakken voorzichtig uit het bain-marie. Laat 1 minuut rusten op een doek, dep kort droog en leg op het plankje. De zakken zijn opgebold door warmte en damp. Breng direct naar tafel met de schaar. Snijd aan tafel de hoek van de zak open — vraag gasten zich licht voorover te buigen. Geef de wolk van boter, citroen en vanille 5 tot 10 seconden de ruimte."
+        },
+        {
+          "number": 7,
+          "action": "Dresseren en serveren",
+          "description": "Vang de vanille-boterjus op in een lauwwarm kommetje. Voeg een paar druppels vers citroensap toe. Schep de drie langoustines uit elke zak op een warm bord in een lichte boog. Lepel de vanille-boterjus eroverheen. Eventueel één klein takje bieslook of citroenmelisse, een vlok Maldon-zout en een minuscule draai witte peper. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Langoustines voorbereiden",
+          "description": "Spoel de gepelde langoustinestaarten kort onder koud stromend water en dep grondig droog. Verwijder het zwarte darmkanaal langs de bovenkant. Laat eventueel het laatste staartstukje intact voor presentatie. Bewaar koud tot serveren."
+        },
+        {
+          "number": 2,
+          "section": "Vanille-boter maken",
+          "description": "Spleet het halve vanillestokje overlangs en schraap de zwarte zaadjes eruit met de rug van het mes. Meng de zachte boter met de vanillezaadjes, het fleur de sel en de olijfolie tot een gladde, homogene vanille-boter."
+        },
+        {
+          "number": 3,
+          "section": "Bain-marie voorbereiden",
+          "description": "Verwarm de oven voor op 60°C. Vul een diepe ovenschaal met heet water van precies 60°C — gebruik een keukenthermometer. Zet de schaal in de oven om op temperatuur te blijven."
+        },
+        {
+          "number": 4,
+          "section": "Zakken vullen en lucht eruit",
+          "description": "Verdeel de langoustines over 4 zakken — 3 staarten per zak. Voeg per zak een kwart van de vanille-boter, één dun citroenschijfje en een draai witte peper toe. Dompelingstechniek: houd de zak open en dompel langzaam in koud water tot net onder de sluiting — het water duwt de lucht eruit. Sluit de zak boven het wateroppervlak."
+        },
+        {
+          "number": 5,
+          "section": "Garen in bain-marie — precies 13 minuten",
+          "description": "Leg de gevulde zakken in het waterbad in de oven. Druk onder met een omgekeerd bord zodat ze volledig ondergedompeld blijven. Sluit de oven en gaar precies 13 minuten op 60°C. Niet langer — bij langer garen wordt langoustine taai en droog."
+        },
+        {
+          "number": 6,
+          "section": "Naar tafel — het theater",
+          "description": "Haal de zakken voorzichtig uit het bain-marie. Laat 1 minuut rusten op een doek, dep kort droog en leg op het plankje. De zakken zijn opgebold door warmte en damp. Breng direct naar tafel met de schaar. Snijd aan tafel de hoek van de zak open — vraag gasten zich licht voorover te buigen. Geef de wolk van boter, citroen en vanille 5 tot 10 seconden de ruimte."
+        },
+        {
+          "number": 7,
+          "section": "Dresseren en serveren",
+          "description": "Vang de vanille-boterjus op in een lauwwarm kommetje. Voeg een paar druppels vers citroensap toe. Schep de drie langoustines uit elke zak op een warm bord in een lichte boog. Lepel de vanille-boterjus eroverheen. Eventueel één klein takje bieslook of citroenmelisse, een vlok Maldon-zout en een minuscule draai witte peper. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Langoustine-kwaliteit is hier alles: dagverse of levende langoustines van een betrouwbare visboer. Diepgevroren alleen als sashimi-grade. Voorgekookte langoustines zijn hier absoluut niet geschikt — die worden direct droog en rubberachtig.",
+        "Gebruik géén gewone supermarkt-ziplock: die kan bij 60°C zacht worden. Diepvrieszakken (kookecht gemarkeerd) zijn hittebestendig. Geen plastic? Papillote van bakpapier dubbel ingewikkeld in aluminiumfolie werkt prima.",
+        "De onderdompelingstechniek voor lucht eruit: houd de zak open, dompel langzaam in koud water tot net onder de sluiting. Het water duwt de lucht eruit. Werkt verrassend goed zonder vacuümmachine.",
+        "Goede boter is de basis: Beurre d'Isigny, Beurre Échiré of een goede Franse boter — niet de supermarktboter. Het is letterlijk de saus van het gerecht.",
+        "Vanille subtiel doseren — meer is dessertachtig: alleen de zaadjes van een half stokje voor 12 langoustines. Meer zoetheid maakt het gerecht onbedoeld nagerecht-achtig. Echte vanille, géén vanille-aroma.",
+        "60°C bain-marie, precies 13 minuten: een minuut te lang geeft taai, droog vlees. Een minuut te kort is niet erg — glasig in het midden is restaurant-perfect. Werk met een keukenthermometer.",
+        "Openknippen aan tafel is het hele punt: wie de zak in de keuken opent gooit het theater weg. Breng de opgezwollen zak naar tafel, knip aan tafel open. Vraag gasten zich licht voorover te buigen.",
+        "Luxe upgrade: leg vlak voor serveren een kleine lepel Osetra-kaviaar op één van de drie langoustines. Verminder dan het fleur de sel in de vanille-boter tot een snufje. Geen langoustines? Grote tijgergarnalen werken met dezelfde techniek, alleen 10–11 minuten."
+      ],
+      "tips_full": [
+        "Langoustine-kwaliteit is hier alles: dagverse of levende langoustines van een betrouwbare visboer. Diepgevroren alleen als sashimi-grade. Voorgekookte langoustines zijn hier absoluut niet geschikt — die worden direct droog en rubberachtig.",
+        "Gebruik géén gewone supermarkt-ziplock: die kan bij 60°C zacht worden. Diepvrieszakken (kookecht gemarkeerd) zijn hittebestendig. Geen plastic? Papillote van bakpapier dubbel ingewikkeld in aluminiumfolie werkt prima.",
+        "De onderdompelingstechniek voor lucht eruit: houd de zak open, dompel langzaam in koud water tot net onder de sluiting. Het water duwt de lucht eruit. Werkt verrassend goed zonder vacuümmachine.",
+        "Goede boter is de basis: Beurre d'Isigny, Beurre Échiré of een goede Franse boter — niet de supermarktboter. Het is letterlijk de saus van het gerecht.",
+        "Vanille subtiel doseren — meer is dessertachtig: alleen de zaadjes van een half stokje voor 12 langoustines. Meer zoetheid maakt het gerecht onbedoeld nagerecht-achtig. Echte vanille, géén vanille-aroma.",
+        "60°C bain-marie, precies 13 minuten: een minuut te lang geeft taai, droog vlees. Een minuut te kort is niet erg — glasig in het midden is restaurant-perfect. Werk met een keukenthermometer.",
+        "Openknippen aan tafel is het hele punt: wie de zak in de keuken opent gooit het theater weg. Breng de opgezwollen zak naar tafel, knip aan tafel open. Vraag gasten zich licht voorover te buigen.",
+        "Luxe upgrade: leg vlak voor serveren een kleine lepel Osetra-kaviaar op één van de drie langoustines. Verminder dan het fleur de sel in de vanille-boter tot een snufje. Geen langoustines? Grote tijgergarnalen werken met dezelfde techniek, alleen 10–11 minuten."
+      ],
+      "opmaak_presentatie": "Lauwwarm voorverwarmde witte amusebordjes — niet heet. Vlak, ovaal of langwerpig wit bord. Drie langoustinestaarten kop-aan-staart in een lichte boog. Vanille-boterjus eromheen gelepeld in een glanzende halve maan — één royale lepel, geen swooshes. De zwarte vanillezaadjes in het geel zijn de visuele handtekening. Eén blaadje bieslook als groen accent, vlokken Maldon voor lichtreflectie. Geen kruiden, geen krokant, geen schuim — het theater zat in het openknippen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Condrieu — Noordelijke Rhône, Frankrijk",
+          "druif": "Viognier",
+          "smaakprofiel": "Droog, vol, witte abrikoos, perzik, witte bloemen (kamperfoelie, jasmijn), vanille en honing. Lage zuren, fluwelig mondgevoel, lange parfumerige finale.",
+          "omschrijving": "Viognier van de steile granietterrassen rond Condrieu. Yves Cuilleron of Domaine Georges Vernay zijn archetypes. Serveer bij 11–13°C — niet te koud, anders verdwijnt het parfum.",
+          "waarom_werkt_dit": "Dit gerecht draait om één aromabeleving: de wolk van boter, citroen en vanille die aan tafel vrijkomt. De wijn moet dat moment dragen, niet verzwakken. Viognier heeft van nature een vanille-bloemig parfum dat letterlijk lijkt op wat de gast ruikt wanneer de zak opengaat — wijn en gerecht openen tegelijk. De volle, fluweelzachte body neemt de boterjus op alsof ze samen zijn ontworpen; de lage zuren omarmen de zachte langoustine in plaats van erdoor te snijden. De abrikoos- en perziktonen versterken de natuurlijke zoetheid van het schaaldier."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Meursault Premier Cru — Côte de Beaune, Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, vol, gele appel, hazelnoot, brioche, bijenwas, vanille en fijne kalk-mineraliteit. Matige zuren, romig mondgevoel.",
+          "omschrijving": "Chardonnay van de kalkhellingen rond Meursault met fijne eikenlagering. Domaine des Comtes Lafon is het archetype. Serveer bij 12–14°C.",
+          "waarom_werkt_dit": "De klassieke Bourgogne-keuze bij langoustine en boter — drie eeuwen oud en niet zonder reden. De vanille die uit het eikenhout komt vormt een tweede aroma-spiegel met die in het gerecht; de romige body neemt de boterjus moeiteloos op; de hazelnoot-brioche-tonen sluiten aan bij het lichte karamel-effect dat 60°C boter ontwikkelt. Iets minder bloemig dan Condrieu — eerlijker bij wie de langoustine zelf het hoofdwoord wil geven."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Soave Classico Superiore — Veneto, Italië",
+          "druif": "Garganega, soms met Trebbiano di Soave",
+          "smaakprofiel": "Droog, rijp wit fruit (peer, gele appel), witte bloemen, lichte vanille van vat-rijping en typische bittere amandel-finale. Matige zuren, slank tot middelvol mondgevoel.",
+          "omschrijving": "Garganega van vulkanische bodems rond Soave Classico. Pieropan of Inama zijn archetypes. Serveer bij 10–12°C.",
+          "waarom_werkt_dit": "Lichter en betaalbaarder dan Condrieu of Meursault, maar gastronomisch raak op de plekken die er toe doen. De bittere-amandel-finale van Garganega begeleidt schaaldieren klassiek; de lichte vanille uit subtiele vat-rijping rijmt met de gerechts-vanille; de slankere body laat het langoustine-vlees voorop staan voor wie het gerecht licht en helder wil houden."
+        }
+      ],
+      "wine": {
+        "naam": "Condrieu — Noordelijke Rhône, Frankrijk",
+        "druif": "Viognier",
+        "toelichting": "Viognier heeft van nature een vanille-bloemig parfum dat letterlijk lijkt op wat de gast ruikt wanneer de zak opengaat — wijn en gerecht openen tegelijk. De volle body neemt de boterjus op alsof ze samen zijn ontworpen. Serveer op 11–13°C.",
+        "alternatief": "Meursault Premier Cru of Soave Classico Superiore"
+      },
+      "metadata": {
+        "bereidingstijd": "20 min + 13 min garen",
+        "porties": "4 voorgerechten (3 staarten per persoon)",
+        "type_gerecht": "Voorgerecht / theaterstuk",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 169,
+      "full_title_docx": "169. LANGOUSTINE MET VANILLE-BOTER EN CITROEN, AAN TAFEL GEOPEND"
+    },
+    {
+      "title": "Oester in Vermouth-Komkommergelei met Zeekraal en Oscietra-Kaviaar",
+      "slug": "oester-vermouth-komkommergelei-zeekraal-oscietra-kaviaar",
+      "location": "Modernistisch Italiaans / Frans",
+      "time": "30 min + 45 min stollen (kan vooraf)",
+      "servings": "4 amuse-porties (1 oester per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/oester-vermouth-komkommergelei-zeekraal-oscietra-kaviaar.jpg",
+      "short_description": "De zee in één hap: verse oester in zijn schelp bedekt door een parelmoer-transparante gelei van droge vermouth, komkommer en oestersap, met knapperige zeekraal en Oscietra — als een Dry Martini en een oester die elkaar elegant ontmoeten.",
+      "description": "De zee in één hap. Een verse oester ligt in zijn eigen onderschelp in zijn natuurlijke zoute vocht. Eroverheen een zachte, parelmoer-transparante gelei van droge vermouth, witte wijn, oestersap en komkommersap — net wobble, lobbig, niet stevig. Knapperende zeekraal in groene puntjes rondom, een kleine quenelle Oscietra precies op het hart. Koud, mineraal, jodium, zout, met een groene lichtheid die net iets meer dan klassiek is. Als een Dry Martini en een oester die elkaar elegant ontmoeten.",
+      "full_intro": "De zee in één hap. Een verse oester ligt in zijn eigen onderschelp in zijn natuurlijke zoute vocht. Eroverheen een zachte, parelmoer-transparante gelei van droge vermouth, witte wijn, oestersap en komkommersap — net wobble, lobbig, niet stevig. Knapperende zeekraal in groene puntjes rondom, een kleine quenelle Oscietra precies op het hart. Koud, mineraal, jodium, zout, met een groene lichtheid die net iets meer dan klassiek is. Als een Dry Martini en een oester die elkaar elegant ontmoeten.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de vermouth-komkommergelei",
+          "ingredients": [
+            {
+              "name": "droge vermouth (Noilly Prat Original Dry of Dolin Dry)",
+              "amount": "60ml"
+            },
+            {
+              "name": "droge witte wijn (Vermentino, Picpoul of Vinho Verde)",
+              "amount": "50ml"
+            },
+            {
+              "name": "vers komkommersap (van ½ komkommer)",
+              "amount": "50ml"
+            },
+            {
+              "name": "oestersap (opgevangen bij openen, gezeefd)",
+              "amount": "40ml"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "snufje"
+            },
+            {
+              "name": "gelatineblaadje (1,7g) — of 0,5g agar-agar",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de oesters",
+          "ingredients": [
+            {
+              "name": "grote zeer verse oesters (Gillardeau Spéciale, Belon of vergelijkbaar)",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de zeekraal",
+          "ingredients": [
+            {
+              "name": "verse zeekraal (Salicornia), schoongespoeld",
+              "amount": "60g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "Oscietra-kaviaar (5–7g per oester)",
+              "amount": "25–30g"
+            },
+            {
+              "name": "enkele druppels dille- of bieslookolie",
+              "amount": ""
+            },
+            {
+              "name": "enkele zeer kleine takjes verse dille (optioneel)",
+              "amount": ""
+            },
+            {
+              "name": "crushed ice of grof grijs zeezout om schelpen op te leggen",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de vermouth-komkommergelei",
+          "ingredients": [
+            "60ml droge vermouth (Noilly Prat Original Dry of Dolin Dry — geen Martini Bianco)",
+            "50ml droge witte wijn (Vermentino, Picpoul of Vinho Verde)",
+            "50ml vers komkommersap (van ½ komkommer, geraspt en uitgeknepen door fijne zeef)",
+            "40ml oestersap (opgevangen bij het openen, gezeefd door cheesecloth)",
+            "½ tl vers citroensap",
+            "½ tl fijne kristalsuiker",
+            "Snuf fleur de sel",
+            "1 gelatineblaadje (1,7g) — of 0,5g agar-agar voor steviger karakter"
+          ]
+        },
+        {
+          "group_name": "Voor de oesters",
+          "ingredients": [
+            "4 grote zeer verse oesters (Gillardeau Spéciale, Belon, of vergelijkbare grote vlezige oester)"
+          ]
+        },
+        {
+          "group_name": "Voor de zeekraal",
+          "ingredients": [
+            "60g verse zeekraal (Salicornia), schoongespoeld"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "25–30g Oscietra-kaviaar (5–7g per oester)",
+            "Enkele druppels dille- of bieslookolie",
+            "Enkele zeer kleine takjes verse dille (optioneel)",
+            "Crushed ice of grof grijs zeezout voor presentatie"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Gelatine weken",
+          "description": "Leg het gelatineblaadje 5 minuten in koud water."
+        },
+        {
+          "number": 2,
+          "action": "Oesters openen en sap opvangen",
+          "description": "Leg een oester op een dikke gevouwen handdoek met de platte kant boven. Steek een oestermes in het scharnier en draai. Glijd het mes langs de bovenste schelp, verwijder de bovenschelp en vang het sap op. Maak het oestervlees los van de onderschelp en laat de oester liggen in zijn vocht. Zeef het oestersap door een fijne zeef of koffiefilter. Bewaar de oesters gekoeld."
+        },
+        {
+          "number": 3,
+          "action": "Komkommersap en zeekraal",
+          "description": "Rasp of blend ½ komkommer, druk door een fijne zeef — vang circa 50ml sap op. Zeekraal: breng water (geen extra zout) aan de kook. Blancheer de zeekraal 20 tot 30 seconden tot helder groen, schep direct in ijswater. Dep droog, snijd in stukjes van 2cm. Bewaar koud."
+        },
+        {
+          "number": 4,
+          "action": "Vermouth-komkommergelei bereiden",
+          "description": "Verwarm 20ml vermouth zeer zachtjes — niet koken, alleen lauwwarm. Knijp het gelatineblaadje uit en los op in de warme vermouth. Voeg dan de overige 40ml vermouth, de witte wijn, het komkommersap, het oestersap, het citroensap, de suiker en de snuf zout toe. Roer goed door. Met agar-agar: strooi 0,5g agar over de koude vloeistof, klop met een garde, breng 1 minuut aan lichte kook."
+        },
+        {
+          "number": 5,
+          "action": "Gelei laten stollen",
+          "description": "Schenk in een ondiepe schaal. Zet 45 minuten in de koelkast tot net licht gestold — lobbig en zacht-vloeiend, niet gesneden in blokjes. De gelei moet glanzen en lepelen als een dikke dressing. Bij twijfel: roer met een lepel kort los voor gebruik."
+        },
+        {
+          "number": 6,
+          "action": "Composeren en serveren",
+          "description": "Koel een donker plankje 15 minuten in de koelkast. Maak een bed van grof grijs zeezout of crushed ice. Plaats de vier oesters in hun onderschelpen op het bed. Roer de zachte gelei kort los en lepel op elke oester een glanzende dot gelei — net genoeg om de oester deels te bedekken. Verdeel de zeekraalstukjes langs de randen — vier of vijf per schelp. Lepel met een parelmoer- of houten lepeltje een kleine berg kaviaar precies op het hart. Twee à drie druppels dille-olie rondom, eventueel één klein takje dille. Serveer onmiddellijk, ijskoud."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Gelatine weken",
+          "description": "Leg het gelatineblaadje 5 minuten in koud water."
+        },
+        {
+          "number": 2,
+          "section": "Oesters openen en sap opvangen",
+          "description": "Leg een oester op een dikke gevouwen handdoek met de platte kant boven. Steek een oestermes in het scharnier en draai. Glijd het mes langs de bovenste schelp, verwijder de bovenschelp en vang het sap op. Maak het oestervlees los van de onderschelp en laat de oester liggen in zijn vocht. Zeef het oestersap door een fijne zeef of koffiefilter. Bewaar de oesters gekoeld."
+        },
+        {
+          "number": 3,
+          "section": "Komkommersap en zeekraal",
+          "description": "Rasp of blend ½ komkommer, druk door een fijne zeef — vang circa 50ml sap op. Zeekraal: breng water (geen extra zout) aan de kook. Blancheer de zeekraal 20 tot 30 seconden tot helder groen, schep direct in ijswater. Dep droog, snijd in stukjes van 2cm. Bewaar koud."
+        },
+        {
+          "number": 4,
+          "section": "Vermouth-komkommergelei bereiden",
+          "description": "Verwarm 20ml vermouth zeer zachtjes — niet koken, alleen lauwwarm. Knijp het gelatineblaadje uit en los op in de warme vermouth. Voeg dan de overige 40ml vermouth, de witte wijn, het komkommersap, het oestersap, het citroensap, de suiker en de snuf zout toe. Roer goed door. Met agar-agar: strooi 0,5g agar over de koude vloeistof, klop met een garde, breng 1 minuut aan lichte kook."
+        },
+        {
+          "number": 5,
+          "section": "Gelei laten stollen",
+          "description": "Schenk in een ondiepe schaal. Zet 45 minuten in de koelkast tot net licht gestold — lobbig en zacht-vloeiend, niet gesneden in blokjes. De gelei moet glanzen en lepelen als een dikke dressing. Bij twijfel: roer met een lepel kort los voor gebruik."
+        },
+        {
+          "number": 6,
+          "section": "Composeren en serveren",
+          "description": "Koel een donker plankje 15 minuten in de koelkast. Maak een bed van grof grijs zeezout of crushed ice. Plaats de vier oesters in hun onderschelpen op het bed. Roer de zachte gelei kort los en lepel op elke oester een glanzende dot gelei — net genoeg om de oester deels te bedekken. Verdeel de zeekraalstukjes langs de randen — vier of vijf per schelp. Lepel met een parelmoer- of houten lepeltje een kleine berg kaviaar precies op het hart. Twee à drie druppels dille-olie rondom, eventueel één klein takje dille. Serveer onmiddellijk, ijskoud."
+        }
+      ],
+      "tips": [
+        "Oester-kwaliteit is hier alles: dagverse oesters van een betrouwbare visboer (Gillardeau, Belon, Spéciale de Claire). De schelp moet stevig gesloten zijn. Open ze zo laat mogelijk — kort voor serveren.",
+        "Het oestersap is essentieel voor de gelei: vang elk druppeltje op bij het openen — het levert de natuurlijke umami die de gelei van wijngelei naar zeegelei tilt. Zeef door cheesecloth.",
+        "Vermouth-keuze maakt verschil: Noilly Prat Original Dry of Dolin Dry — geen Martini Bianco. Extra Dry van Martini & Rossi kan ook. De droge vermouth geeft de kruidige complexiteit.",
+        "De gelei moet lobbig blijven, niet stevig: één gelatineblaadje op 200ml is bewust krap. Je wilt een gelei die op een lepel kan worden geschept maar in de mond direct uit elkaar valt. Liever iets te zacht dan te stevig.",
+        "Komkommersap pers zelf: de gebottelde varianten zijn vaak gepasteuriseerd en missen frisheid. Rasp of blend een halve komkommer en druk door een fijne zeef.",
+        "Géén extra zout, géén citroen direct op de kaviaar: vier zoute elementen op het bord (oester, gelei, zeekraal, kaviaar). Meer zout maakt het onaangenaam. Citroen in de gelei is prima, op de pareltjes zelf niet.",
+        "Mother-of-pearl, hout of bamboe — geen metaal voor de kaviaar: metaal oxideert kaviaar en geeft metaalsmaak.",
+        "Toegankelijke alternatieven: Baerii-kaviaar is uitstekend voor de helft van Oscietra. Forelkuit is betaalbaar en ziltig-zoet. Geen zeekraal? Zee-aster (lamsoor), kort geblancheerd, werkt vergelijkbaar."
+      ],
+      "tips_full": [
+        "Oester-kwaliteit is hier alles: dagverse oesters van een betrouwbare visboer (Gillardeau, Belon, Spéciale de Claire). De schelp moet stevig gesloten zijn. Open ze zo laat mogelijk — kort voor serveren.",
+        "Het oestersap is essentieel voor de gelei: vang elk druppeltje op bij het openen — het levert de natuurlijke umami die de gelei van wijngelei naar zeegelei tilt. Zeef door cheesecloth.",
+        "Vermouth-keuze maakt verschil: Noilly Prat Original Dry of Dolin Dry — geen Martini Bianco. Extra Dry van Martini & Rossi kan ook. De droge vermouth geeft de kruidige complexiteit.",
+        "De gelei moet lobbig blijven, niet stevig: één gelatineblaadje op 200ml is bewust krap. Je wilt een gelei die op een lepel kan worden geschept maar in de mond direct uit elkaar valt. Liever iets te zacht dan te stevig.",
+        "Komkommersap pers zelf: de gebottelde varianten zijn vaak gepasteuriseerd en missen frisheid. Rasp of blend een halve komkommer en druk door een fijne zeef.",
+        "Géén extra zout, géén citroen direct op de kaviaar: vier zoute elementen op het bord (oester, gelei, zeekraal, kaviaar). Meer zout maakt het onaangenaam. Citroen in de gelei is prima, op de pareltjes zelf niet.",
+        "Mother-of-pearl, hout of bamboe — geen metaal voor de kaviaar: metaal oxideert kaviaar en geeft metaalsmaak.",
+        "Toegankelijke alternatieven: Baerii-kaviaar is uitstekend voor de helft van Oscietra. Forelkuit is betaalbaar en ziltig-zoet. Geen zeekraal? Zee-aster (lamsoor), kort geblancheerd, werkt vergelijkbaar."
+      ],
+      "opmaak_presentatie": "Donker plankje (zwart leisteen, donker hout) of grote diepe schaal. Bed van grof grijs zeezout of zeewier als basis. Vier oesterschelpen op gelijke afstand in een lichte boog. Gelei-dot over de oester — glasachtig glanzend. Kaviaar daarboven in een kleine geconcentreerde berg. Zeekraal individueel geplaatst — vier of vijf puntjes per schelp. Dille-olie: twee tot drie donkergroene puntjes rondom. Stilte uitstralend. Geen garnering, geen overvolle presentatie — alleen de zee, gevangen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Pouilly-Fumé — Loire, Frankrijk",
+          "druif": "Sauvignon Blanc",
+          "smaakprofiel": "Droog, strak, citrus, groene appel, kruisbes, witte bloemen en uitgesproken silex-mineraliteit (rokerige vuursteen). Hoge zuren, slank mondgevoel.",
+          "omschrijving": "Sauvignon Blanc van de silex- en vuursteenbodems aan de Loire. Didier Dagueneau is het archetype. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Dit gerecht is gebouwd op drie lagen mineraliteit — oester, zeekraal en kaviaar dragen elk hun eigen vorm van ziltigheid. De wijn moet daarin meebewegen, niet doorsnijden. De silex-rokerigheid van Pouilly-Fumé versterkt het jodium-karakter van de oester en koppelt zich aan de kruidigheid van de vermouth-gelei als een directe aroma-spiegel. De hoge zuren lopen parallel met het zuur van de gelei zonder erbovenop te gaan; de kruisbes-tonen vinden de komkommer-laag terug. Geen restzoet, geen hout — beide zouden de fragiele koud-zout-mineraal-balans verstoren."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Blanc de Blancs Brut Nature — Côte des Blancs, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, bruisend, citrus, groene appel, brioche, hazelnoot, lichte zeewier-mineraliteit. Fijne mousse, hoge zuren, kraakheldere finale.",
+          "omschrijving": "Chardonnay van de kalk van Le Mesnil-sur-Oger of Cramant, zonder dosage. Larmandier-Bernier of Agrapart zijn archetypes. Serveer bij 8–10°C in tulpglazen.",
+          "waarom_werkt_dit": "Champagne en oester zijn een klassieke verbintenis van eeuwen. De mousse heft op aan de gel-textuur, de Chardonnay-zuren snijden door de gelei, de kalk-mineraliteit echoot de jodium-zilt van oester en kaviaar. Brut Nature is hier essentieel — elk gram restzoet zou tegen het zout botsen. Iets feestelijker dan Pouilly-Fumé, perfect voor een gelegenheid waar het luxe-karakter van de Oscietra naar voren mag."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Fino Sherry — Jerez, Spanje",
+          "druif": "Palomino Fino",
+          "smaakprofiel": "Zeer droog, vers brood, witte amandel, gedroogde gist, gele bloemen, lichte ziltigheid. Slank, frisse zuren, schone amandel-finale. Alcohol 15%.",
+          "omschrijving": "Sherry gerijpt onder flor in Jerez de la Frontera. Tio Pepe of Equipo Navazos La Bota de Fino zijn archetypes. Serveer ijskoud bij 6–8°C in een copita.",
+          "waarom_werkt_dit": "De gelei in dit gerecht is óók een gefortificeerde drank — vermouth — dus een gefortificeerde wijn rijmt mee met het concept. Fino's flor-broodaroma's verbinden met het natuurlijke zout-broodkarakter van de oester; de amandel-finale begeleidt schaaldieren klassiek; de ijskoude serveertemperatuur matched de koude van het gerecht. Voor wie het concept van het bord ook in het glas wil hebben: een ijskoude Dry Martini past gastronomisch verbluffend goed."
+        }
+      ],
+      "wine": {
+        "naam": "Pouilly-Fumé — Loire, Frankrijk",
+        "druif": "Sauvignon Blanc",
+        "toelichting": "De silex-rokerigheid versterkt het jodium-karakter van de oester en koppelt zich aan de kruidigheid van de vermouth-gelei. De hoge zuren lopen parallel met het gelei-zuur; de kruisbes-tonen vinden de komkommer terug. Geen restzoet, geen hout. Serveer op 8–10°C.",
+        "alternatief": "Champagne Blanc de Blancs Brut Nature of Fino Sherry (ijskoud)"
+      },
+      "metadata": {
+        "bereidingstijd": "30 min + 45 min stollen",
+        "porties": "4 amuse-porties (1 oester per persoon)",
+        "type_gerecht": "Amuse / luxe tussengerecht",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 170,
+      "full_title_docx": "170. OESTER IN VERMOUTH-KOMKOMMERGELEI MET ZEEKRAAL EN OSCIETRA-KAVIAAR"
     }
   ]
 }
