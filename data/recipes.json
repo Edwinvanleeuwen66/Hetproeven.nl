@@ -58517,58 +58517,50 @@
       "full_title_docx": "169. LANGOUSTINE MET VANILLE-BOTER EN CITROEN, AAN TAFEL GEOPEND"
     },
     {
-      "title": "Oester in Vermouth-Komkommergelei met Zeekraal en Oscietra-Kaviaar",
-      "slug": "oester-vermouth-komkommergelei-zeekraal-oscietra-kaviaar",
-      "location": "Modernistisch Italiaans / Frans",
-      "time": "30 min + 45 min stollen (kan vooraf)",
+      "title": "Zakken door het Ijs — Oester, Vermouth-Komkommerijs, Zeekraal en Oscietra",
+      "slug": "zakken-door-het-ijs-oester-vermouth-komkommerijs-zeekraal-oscietra",
+      "location": "Modernistisch / avant-garde",
+      "time": "35 min + 2–3 uur vriezen (tot 24 uur vooraf)",
       "servings": "4 amuse-porties (1 oester per persoon)",
-      "difficulty": "Gemiddeld",
+      "difficulty": "Gevorderd",
       "keuken": "Frans",
       "categorie": "vis-zeevruchten",
-      "image": "/assets/images/oester-vermouth-komkommergelei-zeekraal-oscietra-kaviaar.jpg",
-      "short_description": "De zee in één hap: verse oester in zijn schelp bedekt door een parelmoer-transparante gelei van droge vermouth, komkommer en oestersap, met knapperige zeekraal en Oscietra — als een Dry Martini en een oester die elkaar elegant ontmoeten.",
-      "description": "De zee in één hap. Een verse oester ligt in zijn eigen onderschelp in zijn natuurlijke zoute vocht. Eroverheen een zachte, parelmoer-transparante gelei van droge vermouth, witte wijn, oestersap en komkommersap — net wobble, lobbig, niet stevig. Knapperende zeekraal in groene puntjes rondom, een kleine quenelle Oscietra precies op het hart. Koud, mineraal, jodium, zout, met een groene lichtheid die net iets meer dan klassiek is. Als een Dry Martini en een oester die elkaar elegant ontmoeten.",
-      "full_intro": "De zee in één hap. Een verse oester ligt in zijn eigen onderschelp in zijn natuurlijke zoute vocht. Eroverheen een zachte, parelmoer-transparante gelei van droge vermouth, witte wijn, oestersap en komkommersap — net wobble, lobbig, niet stevig. Knapperende zeekraal in groene puntjes rondom, een kleine quenelle Oscietra precies op het hart. Koud, mineraal, jodium, zout, met een groene lichtheid die net iets meer dan klassiek is. Als een Dry Martini en een oester die elkaar elegant ontmoeten.",
+      "image": "/assets/images/zakken-door-het-ijs-oester-vermouth-komkommerijs-zeekraal-oscietra.jpg",
+      "short_description": "Theater in stilte: een laag glashelder bevroren vermouth-komkommerijs breekt als ijsschotsen over een verse oester in haar schelp, met zeekraal als onderwater-tuin en Oscietra als sneeuw op een eilandje — één koude golf van zee.",
+      "description": "Een verhaal in één hap. Op een schelp ligt een net gebroken laag glashelder ijs van vermouth en komkommer — alsof iemand er zojuist doorheen is gezakt en de scherven nog op het oppervlak zijn blijven liggen. Daaronder, half zichtbaar door de scherven heen: zeewater met de smaak van vermouth en komkommer, zeekraal in groene zilte sprietjes, en de oester die wacht. Op het grootste ijsstuk een berg Oscietra als sneeuw op een eilandje. De gast eet door alles tegelijk — koude scherf, smeltende vermouth, zeekraal, oester, zeewater. Theater in stilte, zee in koude.",
+      "full_intro": "Een verhaal in één hap. Op een schelp ligt een net gebroken laag glashelder ijs van vermouth en komkommer — alsof iemand er zojuist doorheen is gezakt en de scherven nog op het oppervlak zijn blijven liggen. Daaronder, half zichtbaar door de scherven heen: zeewater met de smaak van vermouth en komkommer, zeekraal in groene zilte sprietjes, en de oester die wacht. Op het grootste ijsstuk een berg Oscietra als sneeuw op een eilandje. Theater in stilte, zee in koude.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de vermouth-komkommergelei",
+          "group_name": "Voor het ijs en het vermouth-komkommer-zeewater",
           "ingredients": [
             {
-              "name": "droge vermouth (Noilly Prat Original Dry of Dolin Dry)",
-              "amount": "60ml"
+              "name": "droge vermouth (Noilly Prat Original Dry, Dolin Dry of Martini Extra Dry)",
+              "amount": "80ml"
             },
             {
               "name": "droge witte wijn (Vermentino, Picpoul of Vinho Verde)",
-              "amount": "50ml"
+              "amount": "70ml"
             },
             {
-              "name": "vers komkommersap (van ½ komkommer)",
-              "amount": "50ml"
-            },
-            {
-              "name": "oestersap (opgevangen bij openen, gezeefd)",
-              "amount": "40ml"
+              "name": "vers komkommersap (van ½ komkommer, geraspt en uitgeknepen)",
+              "amount": "80ml"
             },
             {
               "name": "vers citroensap",
-              "amount": "½ tl"
+              "amount": "¼ tl"
             },
             {
               "name": "fijne kristalsuiker",
-              "amount": "½ tl"
+              "amount": "1 tl"
             },
             {
               "name": "fleur de sel",
               "amount": "snufje"
-            },
-            {
-              "name": "gelatineblaadje (1,7g) — of 0,5g agar-agar",
-              "amount": "1"
             }
           ]
         },
         {
-          "group_name": "Voor de oesters",
+          "group_name": "Voor de oester",
           "ingredients": [
             {
               "name": "grote zeer verse oesters (Gillardeau Spéciale, Belon of vergelijkbaar)",
@@ -58589,8 +58581,8 @@
           "group_name": "Voor de afwerking",
           "ingredients": [
             {
-              "name": "Oscietra-kaviaar (5–7g per oester)",
-              "amount": "25–30g"
+              "name": "Oscietra-kaviaar (5–6g per oester)",
+              "amount": "20–25g"
             },
             {
               "name": "enkele druppels dille- of bieslookolie",
@@ -58601,7 +58593,7 @@
               "amount": ""
             },
             {
-              "name": "crushed ice of grof grijs zeezout om schelpen op te leggen",
+              "name": "crushed ice of grof grijs zeezout voor het bed",
               "amount": ""
             }
           ]
@@ -58609,22 +58601,21 @@
       ],
       "ingredient_groups_full": [
         {
-          "group_name": "Voor de vermouth-komkommergelei",
+          "group_name": "Voor het ijs en het vermouth-komkommer-zeewater (één basismengsel, daarna gesplitst)",
           "ingredients": [
-            "60ml droge vermouth (Noilly Prat Original Dry of Dolin Dry — geen Martini Bianco)",
-            "50ml droge witte wijn (Vermentino, Picpoul of Vinho Verde)",
-            "50ml vers komkommersap (van ½ komkommer, geraspt en uitgeknepen door fijne zeef)",
-            "40ml oestersap (opgevangen bij het openen, gezeefd door cheesecloth)",
-            "½ tl vers citroensap",
-            "½ tl fijne kristalsuiker",
-            "Snuf fleur de sel",
-            "1 gelatineblaadje (1,7g) — of 0,5g agar-agar voor steviger karakter"
+            "80ml droge vermouth (Noilly Prat Original Dry, Dolin Dry of Martini Extra Dry — geen Martini Bianco)",
+            "70ml droge witte wijn (Vermentino, Picpoul of Vinho Verde)",
+            "80ml vers komkommersap (van ½ komkommer, geraspt en uitgeknepen)",
+            "¼ tl vers citroensap",
+            "1 tl fijne kristalsuiker",
+            "Snuf fleur de sel"
           ]
         },
         {
-          "group_name": "Voor de oesters",
+          "group_name": "Voor de oester",
           "ingredients": [
-            "4 grote zeer verse oesters (Gillardeau Spéciale, Belon, of vergelijkbare grote vlezige oester)"
+            "4 grote zeer verse oesters (Gillardeau Spéciale, Belon of vergelijkbaar)",
+            "Het opgevangen oestersap gaat in de schelp, niet in het ijs"
           ]
         },
         {
@@ -58636,98 +58627,109 @@
         {
           "group_name": "Voor de afwerking",
           "ingredients": [
-            "25–30g Oscietra-kaviaar (5–7g per oester)",
+            "20–25g Oscietra-kaviaar (5–6g per oester)",
             "Enkele druppels dille- of bieslookolie",
             "Enkele zeer kleine takjes verse dille (optioneel)",
-            "Crushed ice of grof grijs zeezout voor presentatie"
+            "Crushed ice of grof grijs zeezout voor het bed",
+            "Benodigd: oestermes, vlakke bakplaat, acetate sheet of bakpapier, parelmoer- of houten lepeltje, klein lepeltje per gast"
           ]
         }
       ],
       "steps": [
         {
           "number": 1,
-          "action": "Gelatine weken",
-          "description": "Leg het gelatineblaadje 5 minuten in koud water."
+          "action": "Basismengsel maken (tot 24 uur vooraf)",
+          "description": "Rasp of blend ½ komkommer en druk het sap door een fijne zeef. Meng het komkommersap met de vermouth, witte wijn, citroensap, suiker en fleur de sel. Roer tot de suiker volledig is opgelost — circa 230ml mengsel."
         },
         {
           "number": 2,
-          "action": "Oesters openen en sap opvangen",
-          "description": "Leg een oester op een dikke gevouwen handdoek met de platte kant boven. Steek een oestermes in het scharnier en draai. Glijd het mes langs de bovenste schelp, verwijder de bovenschelp en vang het sap op. Maak het oestervlees los van de onderschelp en laat de oester liggen in zijn vocht. Zeef het oestersap door een fijne zeef of koffiefilter. Bewaar de oesters gekoeld."
+          "action": "Mengsel splitsen",
+          "description": "Schenk circa 150ml in een aparte kom — dit wordt het ijs. Houd de overige 80ml apart in de koelkast — dit wordt het vloeibare zeewater onder het ijs."
         },
         {
           "number": 3,
-          "action": "Komkommersap en zeekraal",
-          "description": "Rasp of blend ½ komkommer, druk door een fijne zeef — vang circa 50ml sap op. Zeekraal: breng water (geen extra zout) aan de kook. Blancheer de zeekraal 20 tot 30 seconden tot helder groen, schep direct in ijswater. Dep droog, snijd in stukjes van 2cm. Bewaar koud."
+          "action": "Ijs invriezen (2–3 uur, of tot 24 uur vooraf)",
+          "description": "Leg een vel acetate sheet, siliconenmat of bakpapier op een vlakke bakplaat. Schenk de 150ml in een laag van 2 tot 3mm dik op de bakplaat. Verspreid zachtjes met de bolle kant van een lepel. Zet plat in de vriezer en laat 2 tot 3 uur volledig bevriezen. Niet langer dan 3 uur — het ijs moet breekbaar zijn, niet keihard."
         },
         {
           "number": 4,
-          "action": "Vermouth-komkommergelei bereiden",
-          "description": "Verwarm 20ml vermouth zeer zachtjes — niet koken, alleen lauwwarm. Knijp het gelatineblaadje uit en los op in de warme vermouth. Voeg dan de overige 40ml vermouth, de witte wijn, het komkommersap, het oestersap, het citroensap, de suiker en de snuf zout toe. Roer goed door. Met agar-agar: strooi 0,5g agar over de koude vloeistof, klop met een garde, breng 1 minuut aan lichte kook."
+          "action": "Zeekraal blancheren",
+          "description": "Breng water (geen extra zout) aan de kook. Blancheer de zeekraal 20 tot 30 seconden tot helder groen, schep direct in ijswater. Dep droog, snijd in stukjes van 2cm. Bewaar koud."
         },
         {
           "number": 5,
-          "action": "Gelei laten stollen",
-          "description": "Schenk in een ondiepe schaal. Zet 45 minuten in de koelkast tot net licht gestold — lobbig en zacht-vloeiend, niet gesneden in blokjes. De gelei moet glanzen en lepelen als een dikke dressing. Bij twijfel: roer met een lepel kort los voor gebruik."
+          "action": "Oesters openen en schelpen vullen",
+          "description": "Leg een oester op een gevouwen handdoek met de platte kant boven. Steek het oestermes in het scharnier en draai. Vang het oestersap op in een schoon kommetje, zeef door cheesecloth. Maak het oestervlees voorzichtig los en laat de oester in de onderschelp liggen. Lepel het opgevangen oestersap terug in elke schelp samen met 1 tl vermouth-komkommer-water uit de koelkast. Dit is de geconcentreerde smaakbasis — de zee onder het ijs."
         },
         {
           "number": 6,
-          "action": "Composeren en serveren",
-          "description": "Koel een donker plankje 15 minuten in de koelkast. Maak een bed van grof grijs zeezout of crushed ice. Plaats de vier oesters in hun onderschelpen op het bed. Roer de zachte gelei kort los en lepel op elke oester een glanzende dot gelei — net genoeg om de oester deels te bedekken. Verdeel de zeekraalstukjes langs de randen — vier of vijf per schelp. Lepel met een parelmoer- of houten lepeltje een kleine berg kaviaar precies op het hart. Twee à drie druppels dille-olie rondom, eventueel één klein takje dille. Serveer onmiddellijk, ijskoud."
+          "action": "Zeekraal in de schelp en plating-bed",
+          "description": "Verdeel de zeekraalstukjes rondom de oester in elke schelp — vier of vijf per stuk, als een onderwater-tuin. Koel een donker plankje 15 minuten in de koelkast. Maak een bed van grof grijs zeezout of crushed ice. Zet de vier gevulde schelpen op het bed in een lichte boog."
+        },
+        {
+          "number": 7,
+          "action": "Ijs breken en serveren — werk snel",
+          "description": "Haal de bakplaat uit de vriezer. Werk snel: breek het ijs met je handen of de stompe kant van een mes in onregelmatige scherven van 3 tot 5cm. Leg per oester twee of drie ijsscherven bovenop en deels op de schelprand — alsof ze net door een gebroken ijslaag zijn gezakt. Lepel met een parelmoer- of houten lepeltje een berg Oscietra (5–6g) op het grootste ijsstuk, recht boven de oester. Twee à drie druppels dille-olie op het zoutbed naast de schelpen (niet op het ijs). Geef elke gast een klein lepeltje. Instructie aan tafel: breek door het ijs en eet alles in één keer. Tijdsvenster: 60 tot 90 seconden."
         }
       ],
       "steps_full": [
         {
           "number": 1,
-          "section": "Gelatine weken",
-          "description": "Leg het gelatineblaadje 5 minuten in koud water."
+          "section": "Basismengsel maken (tot 24 uur vooraf)",
+          "description": "Rasp of blend ½ komkommer en druk het sap door een fijne zeef. Meng het komkommersap met de vermouth, witte wijn, citroensap, suiker en fleur de sel. Roer tot de suiker volledig is opgelost — circa 230ml mengsel."
         },
         {
           "number": 2,
-          "section": "Oesters openen en sap opvangen",
-          "description": "Leg een oester op een dikke gevouwen handdoek met de platte kant boven. Steek een oestermes in het scharnier en draai. Glijd het mes langs de bovenste schelp, verwijder de bovenschelp en vang het sap op. Maak het oestervlees los van de onderschelp en laat de oester liggen in zijn vocht. Zeef het oestersap door een fijne zeef of koffiefilter. Bewaar de oesters gekoeld."
+          "section": "Mengsel splitsen",
+          "description": "Schenk circa 150ml in een aparte kom — dit wordt het ijs. Houd de overige 80ml apart in de koelkast — dit wordt het vloeibare zeewater onder het ijs."
         },
         {
           "number": 3,
-          "section": "Komkommersap en zeekraal",
-          "description": "Rasp of blend ½ komkommer, druk door een fijne zeef — vang circa 50ml sap op. Zeekraal: breng water (geen extra zout) aan de kook. Blancheer de zeekraal 20 tot 30 seconden tot helder groen, schep direct in ijswater. Dep droog, snijd in stukjes van 2cm. Bewaar koud."
+          "section": "Ijs invriezen (2–3 uur, of tot 24 uur vooraf)",
+          "description": "Leg een vel acetate sheet, siliconenmat of bakpapier op een vlakke bakplaat. Schenk de 150ml in een laag van 2 tot 3mm dik op de bakplaat. Verspreid zachtjes met de bolle kant van een lepel. Zet plat in de vriezer en laat 2 tot 3 uur volledig bevriezen. Niet langer dan 3 uur — het ijs moet breekbaar zijn, niet keihard."
         },
         {
           "number": 4,
-          "section": "Vermouth-komkommergelei bereiden",
-          "description": "Verwarm 20ml vermouth zeer zachtjes — niet koken, alleen lauwwarm. Knijp het gelatineblaadje uit en los op in de warme vermouth. Voeg dan de overige 40ml vermouth, de witte wijn, het komkommersap, het oestersap, het citroensap, de suiker en de snuf zout toe. Roer goed door. Met agar-agar: strooi 0,5g agar over de koude vloeistof, klop met een garde, breng 1 minuut aan lichte kook."
+          "section": "Zeekraal blancheren",
+          "description": "Breng water (geen extra zout) aan de kook. Blancheer de zeekraal 20 tot 30 seconden tot helder groen, schep direct in ijswater. Dep droog, snijd in stukjes van 2cm. Bewaar koud."
         },
         {
           "number": 5,
-          "section": "Gelei laten stollen",
-          "description": "Schenk in een ondiepe schaal. Zet 45 minuten in de koelkast tot net licht gestold — lobbig en zacht-vloeiend, niet gesneden in blokjes. De gelei moet glanzen en lepelen als een dikke dressing. Bij twijfel: roer met een lepel kort los voor gebruik."
+          "section": "Oesters openen en schelpen vullen",
+          "description": "Leg een oester op een gevouwen handdoek met de platte kant boven. Steek het oestermes in het scharnier en draai. Vang het oestersap op in een schoon kommetje, zeef door cheesecloth. Maak het oestervlees voorzichtig los en laat de oester in de onderschelp liggen. Lepel het opgevangen oestersap terug in elke schelp samen met 1 tl vermouth-komkommer-water uit de koelkast. Dit is de geconcentreerde smaakbasis — de zee onder het ijs."
         },
         {
           "number": 6,
-          "section": "Composeren en serveren",
-          "description": "Koel een donker plankje 15 minuten in de koelkast. Maak een bed van grof grijs zeezout of crushed ice. Plaats de vier oesters in hun onderschelpen op het bed. Roer de zachte gelei kort los en lepel op elke oester een glanzende dot gelei — net genoeg om de oester deels te bedekken. Verdeel de zeekraalstukjes langs de randen — vier of vijf per schelp. Lepel met een parelmoer- of houten lepeltje een kleine berg kaviaar precies op het hart. Twee à drie druppels dille-olie rondom, eventueel één klein takje dille. Serveer onmiddellijk, ijskoud."
+          "section": "Zeekraal in de schelp en plating-bed",
+          "description": "Verdeel de zeekraalstukjes rondom de oester in elke schelp — vier of vijf per stuk, als een onderwater-tuin. Koel een donker plankje 15 minuten in de koelkast. Maak een bed van grof grijs zeezout of crushed ice. Zet de vier gevulde schelpen op het bed in een lichte boog."
+        },
+        {
+          "number": 7,
+          "section": "Ijs breken en serveren — werk snel",
+          "description": "Haal de bakplaat uit de vriezer. Werk snel: breek het ijs met je handen of de stompe kant van een mes in onregelmatige scherven van 3 tot 5cm. Leg per oester twee of drie ijsscherven bovenop en deels op de schelprand — alsof ze net door een gebroken ijslaag zijn gezakt. Lepel met een parelmoer- of houten lepeltje een berg Oscietra (5–6g) op het grootste ijsstuk, recht boven de oester. Twee à drie druppels dille-olie op het zoutbed naast de schelpen (niet op het ijs). Geef elke gast een klein lepeltje. Instructie aan tafel: breek door het ijs en eet alles in één keer. Tijdsvenster: 60 tot 90 seconden."
         }
       ],
       "tips": [
-        "Oester-kwaliteit is hier alles: dagverse oesters van een betrouwbare visboer (Gillardeau, Belon, Spéciale de Claire). De schelp moet stevig gesloten zijn. Open ze zo laat mogelijk — kort voor serveren.",
-        "Het oestersap is essentieel voor de gelei: vang elk druppeltje op bij het openen — het levert de natuurlijke umami die de gelei van wijngelei naar zeegelei tilt. Zeef door cheesecloth.",
-        "Vermouth-keuze maakt verschil: Noilly Prat Original Dry of Dolin Dry — geen Martini Bianco. Extra Dry van Martini & Rossi kan ook. De droge vermouth geeft de kruidige complexiteit.",
-        "De gelei moet lobbig blijven, niet stevig: één gelatineblaadje op 200ml is bewust krap. Je wilt een gelei die op een lepel kan worden geschept maar in de mond direct uit elkaar valt. Liever iets te zacht dan te stevig.",
-        "Komkommersap pers zelf: de gebottelde varianten zijn vaak gepasteuriseerd en missen frisheid. Rasp of blend een halve komkommer en druk door een fijne zeef.",
-        "Géén extra zout, géén citroen direct op de kaviaar: vier zoute elementen op het bord (oester, gelei, zeekraal, kaviaar). Meer zout maakt het onaangenaam. Citroen in de gelei is prima, op de pareltjes zelf niet.",
-        "Mother-of-pearl, hout of bamboe — geen metaal voor de kaviaar: metaal oxideert kaviaar en geeft metaalsmaak.",
-        "Toegankelijke alternatieven: Baerii-kaviaar is uitstekend voor de helft van Oscietra. Forelkuit is betaalbaar en ziltig-zoet. Geen zeekraal? Zee-aster (lamsoor), kort geblancheerd, werkt vergelijkbaar."
+        "Oester-kwaliteit is hier alles: dagverse Gillardeau, Belon, Spéciale de Claire of Zeeuwse Creuse Hoog. Schelpen stevig gesloten — geopende wegwerpen. Open ze binnen een uur voor serveren.",
+        "Het ijs is geen saus maar een koude eerste laag: de smaak van het ijs moet fris en subtiel zijn. De echte zilte kracht komt van de oester en het oestervocht onder in de schelp. Nooit dikker ijs maken voor meer smaak — het zeewater onder de oester is de sleutel.",
+        "Ijs breken — onregelmatige scherven van 3 tot 5cm: breek met je handen of de stompe kant van een mes. Variatie in vorm is geen probleem — het is juist wat het natuurlijk maakt, als gebroken ijsschotsen op een meeroppervlak.",
+        "Ijs tot 24 uur vooraf, oesters pas vlak voor serveren: geen oestersap in het ijs-mengsel zodat je het ijs rustig de avond ervoor kunt maken. Het oestersap landt direct in de schelp als bodem-zeewater.",
+        "Niet langer dan 3 uur in de vriezer: alcohol en suiker houden het mengsel flexibel, maar bij te lang vriezen wordt het keihard. Na 2 uur testen door een hoekje aan te prikken — moet net stevig zijn.",
+        "Vermouth-keuze maakt verschil: Noilly Prat Original Dry, Dolin Dry of Martini Extra Dry. Geen Martini Bianco — die is te zoet en geeft een vlakke vriestextuur.",
+        "Het lepeltje is geen detail: een klein lepeltje per couvert is het antwoord op de onuitgesproken vraag hoe te eten én onderdeel van de presentatie. Één instructie aan tafel: breek door het ijs en eet alles in één keer.",
+        "Variatie: voor wie de timing te risicovol vindt — maak een lobbige gelei van hetzelfde mengsel met 1 gelatineblaadje. Geeft 80% van de smaakimpact zonder timing-druk, maar het breekmoment ontbreekt. Voor kaviaar: Baerii is uitstekend voor de helft van Oscietra. Geen zeekraal? Zee-aster (lamsoor) werkt vergelijkbaar."
       ],
       "tips_full": [
-        "Oester-kwaliteit is hier alles: dagverse oesters van een betrouwbare visboer (Gillardeau, Belon, Spéciale de Claire). De schelp moet stevig gesloten zijn. Open ze zo laat mogelijk — kort voor serveren.",
-        "Het oestersap is essentieel voor de gelei: vang elk druppeltje op bij het openen — het levert de natuurlijke umami die de gelei van wijngelei naar zeegelei tilt. Zeef door cheesecloth.",
-        "Vermouth-keuze maakt verschil: Noilly Prat Original Dry of Dolin Dry — geen Martini Bianco. Extra Dry van Martini & Rossi kan ook. De droge vermouth geeft de kruidige complexiteit.",
-        "De gelei moet lobbig blijven, niet stevig: één gelatineblaadje op 200ml is bewust krap. Je wilt een gelei die op een lepel kan worden geschept maar in de mond direct uit elkaar valt. Liever iets te zacht dan te stevig.",
-        "Komkommersap pers zelf: de gebottelde varianten zijn vaak gepasteuriseerd en missen frisheid. Rasp of blend een halve komkommer en druk door een fijne zeef.",
-        "Géén extra zout, géén citroen direct op de kaviaar: vier zoute elementen op het bord (oester, gelei, zeekraal, kaviaar). Meer zout maakt het onaangenaam. Citroen in de gelei is prima, op de pareltjes zelf niet.",
-        "Mother-of-pearl, hout of bamboe — geen metaal voor de kaviaar: metaal oxideert kaviaar en geeft metaalsmaak.",
-        "Toegankelijke alternatieven: Baerii-kaviaar is uitstekend voor de helft van Oscietra. Forelkuit is betaalbaar en ziltig-zoet. Geen zeekraal? Zee-aster (lamsoor), kort geblancheerd, werkt vergelijkbaar."
+        "Oester-kwaliteit is hier alles: dagverse Gillardeau, Belon, Spéciale de Claire of Zeeuwse Creuse Hoog. Schelpen stevig gesloten — geopende wegwerpen. Open ze binnen een uur voor serveren.",
+        "Het ijs is geen saus maar een koude eerste laag: de smaak van het ijs moet fris en subtiel zijn. De echte zilte kracht komt van de oester en het oestervocht onder in de schelp. Nooit dikker ijs maken voor meer smaak — het zeewater onder de oester is de sleutel.",
+        "Ijs breken — onregelmatige scherven van 3 tot 5cm: breek met je handen of de stompe kant van een mes. Variatie in vorm is geen probleem — het is juist wat het natuurlijk maakt, als gebroken ijsschotsen op een meeroppervlak.",
+        "Ijs tot 24 uur vooraf, oesters pas vlak voor serveren: geen oestersap in het ijs-mengsel zodat je het ijs rustig de avond ervoor kunt maken. Het oestersap landt direct in de schelp als bodem-zeewater.",
+        "Niet langer dan 3 uur in de vriezer: alcohol en suiker houden het mengsel flexibel, maar bij te lang vriezen wordt het keihard. Na 2 uur testen door een hoekje aan te prikken — moet net stevig zijn.",
+        "Vermouth-keuze maakt verschil: Noilly Prat Original Dry, Dolin Dry of Martini Extra Dry. Geen Martini Bianco — die is te zoet en geeft een vlakke vriestextuur.",
+        "Het lepeltje is geen detail: een klein lepeltje per couvert is het antwoord op de onuitgesproken vraag hoe te eten én onderdeel van de presentatie. Één instructie aan tafel: breek door het ijs en eet alles in één keer.",
+        "Variatie: voor wie de timing te risicovol vindt — maak een lobbige gelei van hetzelfde mengsel met 1 gelatineblaadje. Geeft 80% van de smaakimpact zonder timing-druk, maar het breekmoment ontbreekt. Voor kaviaar: Baerii is uitstekend voor de helft van Oscietra. Geen zeekraal? Zee-aster (lamsoor) werkt vergelijkbaar."
       ],
-      "opmaak_presentatie": "Donker plankje (zwart leisteen, donker hout) of grote diepe schaal. Bed van grof grijs zeezout of zeewier als basis. Vier oesterschelpen op gelijke afstand in een lichte boog. Gelei-dot over de oester — glasachtig glanzend. Kaviaar daarboven in een kleine geconcentreerde berg. Zeekraal individueel geplaatst — vier of vijf puntjes per schelp. Dille-olie: twee tot drie donkergroene puntjes rondom. Stilte uitstralend. Geen garnering, geen overvolle presentatie — alleen de zee, gevangen.",
+      "opmaak_presentatie": "Donker plankje (zwart leisteen, donker hout) met bed van grof grijs zeezout of crushed ice. Vier schelpen in lichte boog. Twee of drie onregelmatige ijsscherven per oester, deels op het oestervlees, deels op de schelprand — geen perfectie, geen symmetrie. Door de transparantie schemert het oestervlees, de groene zeekraal en het donkere oestersap vaag door. Op het grootste ijsstuk centraal een geconcentreerde berg Oscietra — glanzend als sneeuw op een eilandje. Dille-olie op het zoutbed, niet op het ijs. Tijdsvenster: 60 tot 90 seconden.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -58735,7 +58737,7 @@
           "druif": "Sauvignon Blanc",
           "smaakprofiel": "Droog, strak, citrus, groene appel, kruisbes, witte bloemen en uitgesproken silex-mineraliteit (rokerige vuursteen). Hoge zuren, slank mondgevoel.",
           "omschrijving": "Sauvignon Blanc van de silex- en vuursteenbodems aan de Loire. Didier Dagueneau is het archetype. Serveer bij 8–10°C.",
-          "waarom_werkt_dit": "Dit gerecht is gebouwd op drie lagen mineraliteit — oester, zeekraal en kaviaar dragen elk hun eigen vorm van ziltigheid. De wijn moet daarin meebewegen, niet doorsnijden. De silex-rokerigheid van Pouilly-Fumé versterkt het jodium-karakter van de oester en koppelt zich aan de kruidigheid van de vermouth-gelei als een directe aroma-spiegel. De hoge zuren lopen parallel met het zuur van de gelei zonder erbovenop te gaan; de kruisbes-tonen vinden de komkommer-laag terug. Geen restzoet, geen hout — beide zouden de fragiele koud-zout-mineraal-balans verstoren."
+          "waarom_werkt_dit": "Dit gerecht is extreem koud, extreem zout en extreem mineraal — de wijn moet daarin meebewegen zonder het te verzwaren. De silex-rokerigheid versterkt het jodium-karakter van de oester en koppelt aan de kruidigheid van het vermouth-ijs. De hoge zuren lopen parallel met het zuur in het smeltende ijs zonder erbovenop te gaan; de slanke body laat het oestervlees voorop staan. De kruisbes-tonen vinden de komkommer terug. Geen restzoet, geen hout — beide zouden de fragiele extreem-koud-zout-mineraal-balans verstoren."
         },
         {
           "type": "alternatief",
@@ -58743,31 +58745,319 @@
           "druif": "Chardonnay",
           "smaakprofiel": "Droog, bruisend, citrus, groene appel, brioche, hazelnoot, lichte zeewier-mineraliteit. Fijne mousse, hoge zuren, kraakheldere finale.",
           "omschrijving": "Chardonnay van de kalk van Le Mesnil-sur-Oger of Cramant, zonder dosage. Larmandier-Bernier of Agrapart zijn archetypes. Serveer bij 8–10°C in tulpglazen.",
-          "waarom_werkt_dit": "Champagne en oester zijn een klassieke verbintenis van eeuwen. De mousse heft op aan de gel-textuur, de Chardonnay-zuren snijden door de gelei, de kalk-mineraliteit echoot de jodium-zilt van oester en kaviaar. Brut Nature is hier essentieel — elk gram restzoet zou tegen het zout botsen. Iets feestelijker dan Pouilly-Fumé, perfect voor een gelegenheid waar het luxe-karakter van de Oscietra naar voren mag."
+          "waarom_werkt_dit": "De meest feestelijke keuze — en gastronomisch sterk. De fijne mousse heft op aan de smeltende-ijs-textuur, wat een dubbel koud-bruisend effect geeft in de mond. De Chardonnay-zuren snijden door de smeltlaag, de kalk-mineraliteit echoot de jodium-zilt van oester en kaviaar. Brut Nature is essentieel — elk gram restzoet zou botsen met het zout."
         },
         {
           "type": "alternatief",
           "naam": "Fino Sherry — Jerez, Spanje",
           "druif": "Palomino Fino",
-          "smaakprofiel": "Zeer droog, vers brood, witte amandel, gedroogde gist, gele bloemen, lichte ziltigheid. Slank, frisse zuren, schone amandel-finale. Alcohol 15%.",
-          "omschrijving": "Sherry gerijpt onder flor in Jerez de la Frontera. Tio Pepe of Equipo Navazos La Bota de Fino zijn archetypes. Serveer ijskoud bij 6–8°C in een copita.",
-          "waarom_werkt_dit": "De gelei in dit gerecht is óók een gefortificeerde drank — vermouth — dus een gefortificeerde wijn rijmt mee met het concept. Fino's flor-broodaroma's verbinden met het natuurlijke zout-broodkarakter van de oester; de amandel-finale begeleidt schaaldieren klassiek; de ijskoude serveertemperatuur matched de koude van het gerecht. Voor wie het concept van het bord ook in het glas wil hebben: een ijskoude Dry Martini past gastronomisch verbluffend goed."
+          "smaakprofiel": "Zeer droog, vers brood, witte amandel, gedroogde gist, lichte ziltigheid. Slank, frisse zuren, schone amandel-finale. Alcohol 15%.",
+          "omschrijving": "Sherry gerijpt onder flor in Jerez. Tio Pepe of Equipo Navazos La Bota de Fino zijn archetypes. Serveer ijskoud bij 6–8°C in een copita.",
+          "waarom_werkt_dit": "Voor de avontuurlijke wijnliefhebber — logisch consistent met het concept: het ijs bevat óók een gefortificeerde drank (vermouth), dus een gefortificeerde wijn rijmt mee. Fino's flor-broodaroma's verbinden met het zout-broodkarakter van de oester; de amandel-finale begeleidt schaaldieren klassiek; de ijskoude serveertemperatuur matched de extreme koude van het gebroken ijs. Een ijskoude Dry Martini in een coupe past hier ook gastronomisch verbluffend."
         }
       ],
       "wine": {
         "naam": "Pouilly-Fumé — Loire, Frankrijk",
         "druif": "Sauvignon Blanc",
-        "toelichting": "De silex-rokerigheid versterkt het jodium-karakter van de oester en koppelt zich aan de kruidigheid van de vermouth-gelei. De hoge zuren lopen parallel met het gelei-zuur; de kruisbes-tonen vinden de komkommer terug. Geen restzoet, geen hout. Serveer op 8–10°C.",
+        "toelichting": "De silex-rokerigheid versterkt het jodium van de oester en koppelt aan het vermouth-ijs. De hoge zuren lopen parallel met het smeltende ijs; de slanke body laat het oestervlees voorop. Geen restzoet, geen hout. Serveer op 8–10°C.",
         "alternatief": "Champagne Blanc de Blancs Brut Nature of Fino Sherry (ijskoud)"
       },
       "metadata": {
-        "bereidingstijd": "30 min + 45 min stollen",
+        "bereidingstijd": "35 min + 2–3 uur vriezen",
         "porties": "4 amuse-porties (1 oester per persoon)",
-        "type_gerecht": "Amuse / luxe tussengerecht",
-        "niveau": "Gemiddeld"
+        "type_gerecht": "Amuse / modernistisch luxe tussengerecht",
+        "niveau": "Gevorderd"
       },
       "source_recipe_number": 170,
-      "full_title_docx": "170. OESTER IN VERMOUTH-KOMKOMMERGELEI MET ZEEKRAAL EN OSCIETRA-KAVIAAR"
+      "full_title_docx": "170. ZAKKEN DOOR HET IJS"
+    },
+    {
+      "title": "Olie-Gegaarde Ossenhaas met Piemontese Salsa Verde en Cantabrische Ansjovis",
+      "slug": "olie-gegaarde-ossenhaas-piemontese-salsa-verde-cantabrische-ansjovis",
+      "location": "Piemonte, Italië",
+      "time": "30 min temperen + 45 min bereiding",
+      "servings": "4 kleine porties",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "vlees",
+      "image": "/assets/images/olie-gegaarde-ossenhaas-piemontese-salsa-verde-cantabrische-ansjovis.jpg",
+      "short_description": "Piemontese klassieker in verfijnde vorm: ossenhaas langzaam gegaard in olijfolie op 55°C — fluweelzacht en rosé-rood — met koude bagnetto verde van peterselie, hardgekookt ei en ansjovis, gekroond door één glanzende Cantabrische ansjovisfilet.",
+      "description": "Een klassieker uit Piemonte in zijn meest verfijnde vorm. Ossenhaas langzaam gegaard in olijfolie op 55°C — geen vacuümzak, geen sous-vide-apparaat, gewoon de oude Italiaanse manier. Het resultaat is rosé-rood van binnen, structuurzacht-fluwelig, met een hartig smaakkarakter dat alle hardheid van pan- of grillgaring mist. Ernaast een koude, frisse Piemontese salsa verde van peterselie, ansjovis, kappertjes en hardgekookt ei — scherp en kruidig. Erbovenop één hele Cantabrische ansjovis als geconcentreerde kroon. Diep en licht tegelijk.",
+      "full_intro": "Een klassieker uit Piemonte in zijn meest verfijnde vorm. Ossenhaas langzaam gegaard in olijfolie op 55°C — geen vacuümzak, geen sous-vide-apparaat, gewoon de oude Italiaanse manier. Het resultaat is rosé-rood van binnen, structuurzacht-fluwelig, met een hartig smaakkarakter dat alle hardheid van pan- of grillgaring mist. Ernaast een koude, frisse Piemontese salsa verde van peterselie, ansjovis, kappertjes en hardgekookt ei — scherp en kruidig. Erbovenop één hele Cantabrische ansjovis als geconcentreerde kroon. Diep en licht tegelijk.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de olie-gegaarde ossenhaas",
+          "ingredients": [
+            {
+              "name": "ossenhaas in één stuk uit het hart (chateaubriand-snede, ca. 5cm dik)",
+              "amount": "450g"
+            },
+            {
+              "name": "milde extra-vergine olijfolie",
+              "amount": "80ml"
+            },
+            {
+              "name": "takje verse rozemarijn",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, gekneusd maar heel",
+              "amount": "1"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            },
+            {
+              "name": "extra olijfolie om in te wrijven",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de Piemontese salsa verde (bagnetto verde)",
+          "ingredients": [
+            {
+              "name": "platte peterselie, alleen de blaadjes en fijne steeltjes",
+              "amount": "35g"
+            },
+            {
+              "name": "hardgekookt ei",
+              "amount": "1"
+            },
+            {
+              "name": "dun sneetje wittebrood (korst eraf), geweekt in 2 el witte wijnazijn en uitgeknepen",
+              "amount": "1"
+            },
+            {
+              "name": "ansjovisfilets in olie, uitgelekt",
+              "amount": "2"
+            },
+            {
+              "name": "kappertjes, gespoeld en grof gehakt",
+              "amount": "2 el"
+            },
+            {
+              "name": "klein teentje knoflook",
+              "amount": "1"
+            },
+            {
+              "name": "fijne citroenrasp",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "80ml"
+            },
+            {
+              "name": "extra witte wijnazijn (naar smaak)",
+              "amount": "1 el"
+            },
+            {
+              "name": "vers gemalen zwarte peper en snuf zout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "hele Cantabrische ansjovisfilets in olijfolie (Codaca, Don Bocarte of Lolin)",
+              "amount": "4"
+            },
+            {
+              "name": "enkele kleine peterselieblaadjes",
+              "amount": ""
+            },
+            {
+              "name": "enkele druppels garingsolie",
+              "amount": ""
+            },
+            {
+              "name": "fleur de sel (alleen indien nodig)",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de olie-gegaarde ossenhaas",
+          "ingredients": [
+            "450g ossenhaas in één stuk uit het hart (chateaubriand-snede, gelijkmatig dik ca. 5cm)",
+            "80ml milde extra-vergine olijfolie",
+            "1 takje verse rozemarijn",
+            "1 teen knoflook, gekneusd maar heel",
+            "½ tl fijn zeezout",
+            "Vers gemalen zwarte peper",
+            "1 el extra olijfolie om in te wrijven"
+          ]
+        },
+        {
+          "group_name": "Voor de Piemontese salsa verde (bagnetto verde)",
+          "ingredients": [
+            "35g platte peterselie, alleen de blaadjes en fijne steeltjes",
+            "1 hardgekookt ei",
+            "1 dun sneetje wittebrood (korst eraf), geweekt in 2 el witte wijnazijn en uitgeknepen",
+            "2 ansjovisfilets in olie, uitgelekt",
+            "2 el kappertjes, gespoeld en grof gehakt",
+            "1 klein teentje knoflook",
+            "1 tl fijne citroenrasp",
+            "½ tl vers citroensap",
+            "80ml extra-vergine olijfolie",
+            "1 el extra witte wijnazijn (proeven, naar smaak)",
+            "Vers gemalen zwarte peper + snuf zout (proeven — ansjovis en kappertjes zijn al zout)"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "4 hele Cantabrische ansjovisfilets in olijfolie (Codaca, Don Bocarte, Lolin, Maisor of Don Pedro)",
+            "Enkele kleine peterselieblaadjes",
+            "Enkele druppels garingsolie",
+            "Fleur de sel (alleen indien nodig)",
+            "Vers gemalen zwarte peper"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Vlees temperen en ei koken",
+          "description": "Haal de ossenhaas minimaal 30 minuten voor bereiding uit de koelkast en laat op kamertemperatuur komen, los afgedekt met keukenpapier. Kook tegelijk 1 ei 9 minuten in kokend water, schok direct in ijswater. Pel en houd apart."
+        },
+        {
+          "number": 2,
+          "action": "Oven en ovenschaal voorbereiden",
+          "description": "Verwarm de oven voor op 55–60°C. Kies een ovenschaal waarin het vleesstuk net past — een te grote schaal vraagt te veel olie, een te kleine werkt niet."
+        },
+        {
+          "number": 3,
+          "action": "Vlees klaarmaken en garen",
+          "description": "Dep het rundvlees grondig droog en wrijf rondom in met de extra olijfolie, het zout en vers gemalen zwarte peper. Leg in de ovenschaal. Voeg de 80ml olijfolie, het takje rozemarijn en de gekneusde knoflook toe. Steek de precisie-thermometer in het midden van het vlees. Lepel om de 8–10 minuten wat warme olie over de bovenkant. Keer halverwege. Haal eruit zodra de kerntemperatuur 55°C bereikt — exact, niet hoger."
+        },
+        {
+          "number": 4,
+          "action": "Rusten",
+          "description": "Haal het vlees voorzichtig uit de olie met een schuimspaan of twee lepels. Laat 8–10 minuten op een rooster rusten — niet langer; het vlees moet lauwwarm op het bord komen. Bewaar de garingsolie warm voor afwerking."
+        },
+        {
+          "number": 5,
+          "action": "Salsa verde maken",
+          "description": "Maal in een keukenmachine of vijzel de peterselie, het hele hardgekookte ei, het in azijn geweekte brood, ansjovis, kappertjes, knoflook, citroenrasp en citroensap tot een grove, niet te fijne pasta. Voeg de olijfolie in een dunne straal toe terwijl je blijft mengen tot een emulsie ontstaat — lepelbaar, niet vloeibaar. Proef en stel bij met extra azijn, peper, eventueel een snufje zout. Salsa verde moet pittig groen ruiken, op de tong scherp, zout en levendig. Zet 15 minuten apart om de smaken te laten verbinden."
+        },
+        {
+          "number": 6,
+          "action": "Snijden en composeren",
+          "description": "Snijd het lauwwarme vlees in plakken van 6 tot 7mm dik, recht tegen de draad in, met een lang scherp mes in één vloeiende beweging. De plakken moeten gelijkmatig rosé-rood zijn in het midden. Leg per bord 3 of 4 plakken in een rustige, deels overlappende waaier. Lepel 1 royale eetlepel salsa verde naast of gedeeltelijk over de plakken — niet eroverheen verspreid. Leg één hele Cantabrische ansjovisfilet diagonaal over de plakken of opgekruld bovenop. Druppel wat garingsolie rondom. Enkele peterselieblaadjes individueel geplaatst. Geen extra zout. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Vlees temperen en ei koken",
+          "description": "Haal de ossenhaas minimaal 30 minuten voor bereiding uit de koelkast en laat op kamertemperatuur komen, los afgedekt met keukenpapier. Kook tegelijk 1 ei 9 minuten in kokend water, schok direct in ijswater. Pel en houd apart."
+        },
+        {
+          "number": 2,
+          "section": "Oven en ovenschaal voorbereiden",
+          "description": "Verwarm de oven voor op 55–60°C. Kies een ovenschaal waarin het vleesstuk net past — een te grote schaal vraagt te veel olie, een te kleine werkt niet."
+        },
+        {
+          "number": 3,
+          "section": "Vlees klaarmaken en garen",
+          "description": "Dep het rundvlees grondig droog en wrijf rondom in met de extra olijfolie, het zout en vers gemalen zwarte peper. Leg in de ovenschaal. Voeg de 80ml olijfolie, het takje rozemarijn en de gekneusde knoflook toe. Steek de precisie-thermometer in het midden van het vlees. Lepel om de 8–10 minuten wat warme olie over de bovenkant. Keer halverwege. Haal eruit zodra de kerntemperatuur 55°C bereikt — exact, niet hoger."
+        },
+        {
+          "number": 4,
+          "section": "Rusten",
+          "description": "Haal het vlees voorzichtig uit de olie met een schuimspaan of twee lepels. Laat 8–10 minuten op een rooster rusten — niet langer; het vlees moet lauwwarm op het bord komen. Bewaar de garingsolie warm voor afwerking."
+        },
+        {
+          "number": 5,
+          "section": "Salsa verde maken",
+          "description": "Maal in een keukenmachine of vijzel de peterselie, het hele hardgekookte ei, het in azijn geweekte brood, ansjovis, kappertjes, knoflook, citroenrasp en citroensap tot een grove, niet te fijne pasta. Voeg de olijfolie in een dunne straal toe terwijl je blijft mengen tot een emulsie ontstaat — lepelbaar, niet vloeibaar. Proef en stel bij met extra azijn, peper, eventueel een snufje zout. Salsa verde moet pittig groen ruiken, op de tong scherp, zout en levendig. Zet 15 minuten apart om de smaken te laten verbinden."
+        },
+        {
+          "number": 6,
+          "section": "Snijden en composeren",
+          "description": "Snijd het lauwwarme vlees in plakken van 6 tot 7mm dik, recht tegen de draad in, met een lang scherp mes in één vloeiende beweging. De plakken moeten gelijkmatig rosé-rood zijn in het midden. Leg per bord 3 of 4 plakken in een rustige, deels overlappende waaier. Lepel 1 royale eetlepel salsa verde naast of gedeeltelijk over de plakken — niet eroverheen verspreid. Leg één hele Cantabrische ansjovisfilet diagonaal over de plakken of opgekruld bovenop. Druppel wat garingsolie rondom. Enkele peterselieblaadjes individueel geplaatst. Geen extra zout. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Het stuk vlees doet er meer toe dan de techniek: vraag de slager om een mooi stuk uit het hart van de ossenhaas — de chateaubriand-snede, 5cm dik en gelijkmatig rond. Diamanthaas is een goed alternatief met iets meer eigen rundsmaak en vaak vriendelijker geprijsd.",
+        "55°C is geen suggestie, het is de techniek: een paar graden hoger en de eiwitten denatureren sterker — het vlees verliest zijn fluweelzacht karakter. Precisie-thermometer is essentieel. Sous-vide alternatief: 55°C gedurende 45 minuten geeft hetzelfde resultaat met meer zekerheid.",
+        "Geen aanbraden achteraf: klassiek Piemontees. De textuur van olio cottura is het verkooppunt. Wie toch een korst wil: brand het vlees kort voor het olie-bedruipen op zeer hoge hitte — 10 tot 15 seconden per kant.",
+        "Salsa verde Piemontese, geen gewone salsa verde: bagnetto verde uit Turijn heeft eieren en geweekt brood — die geven zijn karakteristieke rondheid. Geen Dijonmosterd. De salsa moet grof en levendig blijven — peterselie, kappertjes en ei herkenbaar.",
+        "Cantabrische ansjovis — alleen het beste werkt: Codaca, Don Bocarte, Lolin, Maisor of Don Pedro. Geconserveerd in olijfolie na 12+ maanden zoutrijping. Goedkope ansjovis is hier vlak en te zout. Reken op €2–3 per ansjovis — gerechtvaardigde investering.",
+        "Geen extra zout — laat de ansjovis en salsa het werk doen: drie ansjovis-bronnen in één hap (ansjovis in salsa, ansjovis als kroon). Geen extra zout aan het vlees toevoegen.",
+        "Salsa verde vooraf, maar niet te lang: maak de salsa maximaal enkele uren vooraf en bewaar koel. Te lang vooraf verliest de peterselie zijn levendig groen. Voeg vlak voor serveren een klein scheutje olijfolie toe om los te maken.",
+        "Variatie: geen Cantabrische ansjovis? Goede Italiaanse ansjovis uit Cetara is een sterke tweede. Voor een lichter bord: een paar dunne plakjes rauwe venkel of een klein bos rucola ernaast — het rund blijft hoofdzaak."
+      ],
+      "tips_full": [
+        "Het stuk vlees doet er meer toe dan de techniek: vraag de slager om een mooi stuk uit het hart van de ossenhaas — de chateaubriand-snede, 5cm dik en gelijkmatig rond. Diamanthaas is een goed alternatief met iets meer eigen rundsmaak en vaak vriendelijker geprijsd.",
+        "55°C is geen suggestie, het is de techniek: een paar graden hoger en de eiwitten denatureren sterker — het vlees verliest zijn fluweelzacht karakter. Precisie-thermometer is essentieel. Sous-vide alternatief: 55°C gedurende 45 minuten geeft hetzelfde resultaat met meer zekerheid.",
+        "Geen aanbraden achteraf: klassiek Piemontees. De textuur van olio cottura is het verkooppunt. Wie toch een korst wil: brand het vlees kort voor het olie-bedruipen op zeer hoge hitte — 10 tot 15 seconden per kant.",
+        "Salsa verde Piemontese, geen gewone salsa verde: bagnetto verde uit Turijn heeft eieren en geweekt brood — die geven zijn karakteristieke rondheid. Geen Dijonmosterd. De salsa moet grof en levendig blijven — peterselie, kappertjes en ei herkenbaar.",
+        "Cantabrische ansjovis — alleen het beste werkt: Codaca, Don Bocarte, Lolin, Maisor of Don Pedro. Geconserveerd in olijfolie na 12+ maanden zoutrijping. Goedkope ansjovis is hier vlak en te zout. Reken op €2–3 per ansjovis — gerechtvaardigde investering.",
+        "Geen extra zout — laat de ansjovis en salsa het werk doen: drie ansjovis-bronnen in één hap (ansjovis in salsa, ansjovis als kroon). Geen extra zout aan het vlees toevoegen.",
+        "Salsa verde vooraf, maar niet te lang: maak de salsa maximaal enkele uren vooraf en bewaar koel. Te lang vooraf verliest de peterselie zijn levendig groen. Voeg vlak voor serveren een klein scheutje olijfolie toe om los te maken.",
+        "Variatie: geen Cantabrische ansjovis? Goede Italiaanse ansjovis uit Cetara is een sterke tweede. Voor een lichter bord: een paar dunne plakjes rauwe venkel of een klein bos rucola ernaast — het rund blijft hoofdzaak."
+      ],
+      "opmaak_presentatie": "Vlakke, lichtjes voorverwarmde witte of crèmewitte borden. Vleesplakken in een rustige deels overlappende waaier — rosé-roze midden duidelijk zichtbaar. Salsa verde als één royale lepel ernaast — tweede element, geen jus. Cantabrische ansjovis als visueel middelpunt: glanzend donker-mahoniebruin op het lichte rosé-rood. Peterselieblaadjes individueel geplaatst. Garingsolie als glans rondom. Rustig bord: rosé rund, diepgroene salsa, mahoniebruine ansjovis.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Dolcetto d'Alba — Piemonte, Italië",
+          "druif": "Dolcetto",
+          "smaakprofiel": "Droog, medium-licht, zwarte bessen, kers, pruim, lichte amandel-bitter en violet. Lage tot matige tannine, frisse zuren, sappige finale.",
+          "omschrijving": "Dolcetto van de heuvels van Alba, in het hart van Piemonte. G.D. Vajra is het archetype. Serveer bij 14–16°C.",
+          "waarom_werkt_dit": "De regio waar het gerecht vandaan komt levert zijn meest natuurlijke partner. De frisse zuren snijden door de zilt-zoute ansjovis en kappertjes zonder de delicate ossenhaas te overstemmen; de lage tannine respecteert de fluweelzachte textuur van olio cottura volledig; de subtiele amandel-bitterheid is een directe aroma-brug met de bagnetto verde. Geen Barolo hier — te krachtig en te tannineus voor dit zachte gerecht."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Langhe Nebbiolo — Piemonte, Italië",
+          "druif": "Nebbiolo",
+          "smaakprofiel": "Droog, medium-vol, rode kers, roos, gedroogde aarde, witte peper, tabak. Stevige maar fijne tannine, hoge zuren, lange minerale finale.",
+          "omschrijving": "Nebbiolo van de Langhe-heuvels, korter gerijpt en lichter van structuur dan Barolo of Barbaresco. Produttori del Barbaresco is het archetype. Serveer bij 16–18°C.",
+          "waarom_werkt_dit": "Voor wie meer structuur en aromatische diepte wil bij de ossenhaas. De tannine is fijn genoeg om het zachte vlees niet te overheersen — het gewicht van de wijn matcht het gerecht zonder het te pletten. De roos- en kerstonen vinden de salsa verde; de hoge zuren dragen de zilt-zoute ansjovis moeiteloos. Iets meer occasion-feel dan Dolcetto, gastronomisch even raak."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Barbera d'Asti — Piemonte, Italië",
+          "druif": "Barbera",
+          "smaakprofiel": "Droog, sappig, rode kers, zwarte bes, pruim, kruidige toets. Hoge zuren, lage tannine, levendige finale.",
+          "omschrijving": "Barbera van rond Asti — breder verkrijgbaar dan Barbera d'Alba en even gastronomisch. Breed beschikbaar bij elke goede slijterij. Reken op €7 tot €12. Serveer bij 14–16°C.",
+          "waarom_werkt_dit": "Barbera's hoge zuren zijn een geschenk bij salsa verde met azijn, kappertjes en ansjovis — ze lopen niet erachter aan maar parallel mee, waardoor het gerecht levendiger aanvoelt. De lage tannine respecteert de zachte ossenhaas. De huiswijn van Asti die in elke trattoria bij dit type gerecht wordt geschonken — geen uitvinding nodig, alleen vinden."
+        }
+      ],
+      "wine": {
+        "naam": "Dolcetto d'Alba — Piemonte, Italië",
+        "druif": "Dolcetto",
+        "toelichting": "De regio levert zijn meest natuurlijke partner. Frisse zuren snijden door ansjovis en kappertjes; lage tannine respecteert de fluweelzachte olio cottura; amandel-bitterheid is een directe brug met de bagnetto verde. Serveer op 14–16°C.",
+        "alternatief": "Langhe Nebbiolo of Barbera d'Asti (breed verkrijgbaar, €7–12)"
+      },
+      "metadata": {
+        "bereidingstijd": "30 min temperen + 45 min bereiding",
+        "porties": "4 kleine porties",
+        "type_gerecht": "Klein hoofdgerecht / luxe voorgerecht",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 171,
+      "full_title_docx": "171. OLIE-GEGAARDE OSSENHAAS MET PIEMONTESE SALSA VERDE EN CANTABRISCHE ANSJOVIS"
     }
   ]
 }
