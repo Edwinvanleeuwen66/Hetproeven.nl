@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+Disallow: /assets/css/
+
 Sitemap: https://www.hetproeven.nl/sitemap.xml
