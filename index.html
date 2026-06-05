@@ -233,10 +233,19 @@
     <a href="/" class="logo">Het Proeven</a>
     <div class="nav-links">
       <a href="/">Recepten</a>
-      <a href="/wijnspijs-gids.html">Wijn & Spijs</a>
-      <a href="/sterrenkok-gids.html">Sterrenkok</a>
+      <a href="/wijnspijs-gids.html" class="nav-accent">Wijnpairing</a>
+      <a href="/sterrenkok-gids.html">Van hobbykok naar sterrenkok</a>
       <a href="/over.html">Over</a>
     </div>
+    <button class="nav-hamburger" id="hamburger" aria-label="Menu openen">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+  <nav class="nav-mobile" id="nav-mobile">
+    <a href="/">Recepten</a>
+    <a href="/wijnspijs-gids.html" class="nav-accent">Wijnpairing</a>
+    <a href="/sterrenkok-gids.html">Van hobbykok naar sterrenkok</a>
+    <a href="/over.html">Over</a>
   </nav>
 
   <header class="hero">
@@ -726,5 +735,21 @@ ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
       });
     }
   </script>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const navMobile = document.getElementById('nav-mobile');
+  hamburger.addEventListener('click', () => {
+    hamburger.classList.toggle('open');
+    navMobile.classList.toggle('open');
+  });
+  // Sluit menu bij klik op link
+  navMobile.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      hamburger.classList.remove('open');
+      navMobile.classList.remove('open');
+    });
+  });
+</script>
 </body>
 </html>

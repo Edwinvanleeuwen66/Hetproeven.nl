@@ -29,9 +29,9 @@ a { color: inherit; text-decoration: none; }
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 22px 44px;
-  border-bottom: 0.5px solid var(--border);
-  background: var(--cream);
+  padding: 0 44px;
+  height: 64px;
+  background: var(--deep);
   position: sticky;
   top: 0;
   z-index: 100;
@@ -39,21 +39,103 @@ a { color: inherit; text-decoration: none; }
 
 .logo {
   font-family: var(--serif);
-  font-size: 20px;
+  font-size: 22px;
   letter-spacing: 2px;
-  color: var(--deep);
+  color: #F3EDE1;
+  flex-shrink: 0;
 }
 
-.nav-links { display: flex; gap: 28px; }
+.logo:hover { color: var(--accent); }
+
+.nav-links {
+  display: flex;
+  gap: 0;
+  align-items: center;
+}
 
 .nav-links a {
   font-size: 13px;
   letter-spacing: 0.5px;
-  color: var(--muted);
+  color: rgba(243,237,225,0.7);
   transition: color 0.15s;
+  padding: 0 18px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid transparent;
 }
 
-.nav-links a:hover { color: var(--accent); }
+.nav-links a:hover {
+  color: #F3EDE1;
+  border-bottom-color: var(--accent);
+}
+
+.nav-links a.nav-accent {
+  color: var(--accent);
+  font-weight: 400;
+}
+
+.nav-links a.nav-accent:hover {
+  color: #d47040;
+  border-bottom-color: var(--accent);
+}
+
+/* Hamburger — mobiel */
+.nav-hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  padding: 8px;
+  background: none;
+  border: none;
+}
+
+.nav-hamburger span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: #F3EDE1;
+  border-radius: 2px;
+  transition: all 0.25s;
+}
+
+.nav-hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.nav-hamburger.open span:nth-child(2) { opacity: 0; }
+.nav-hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+/* Mobiel menu */
+.nav-mobile {
+  display: none;
+  position: fixed;
+  top: 64px;
+  left: 0;
+  right: 0;
+  background: var(--deep);
+  z-index: 99;
+  padding: 12px 0 20px;
+  border-top: 0.5px solid rgba(243,237,225,0.1);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
+
+.nav-mobile.open { display: block; }
+
+.nav-mobile a {
+  display: block;
+  padding: 14px 24px;
+  font-size: 15px;
+  color: rgba(243,237,225,0.8);
+  letter-spacing: 0.5px;
+  border-bottom: 0.5px solid rgba(243,237,225,0.08);
+  transition: color 0.15s, background 0.15s;
+}
+
+.nav-mobile a:hover {
+  color: #F3EDE1;
+  background: rgba(255,255,255,0.05);
+}
+
+.nav-mobile a.nav-accent { color: var(--accent); }
 
 /* ── Hero ───────────────────────────────────── */
 /* Kleiner dan voorheen: 480px → 300px desktop, 200px mobiel */
@@ -486,7 +568,9 @@ footer a:hover { color: #8A3A10; }
 }
 
 @media (max-width: 640px) {
-  .nav { padding: 18px 20px; }
+  .nav { padding: 0 20px; }
+  .nav-links { display: none; }
+  .nav-hamburger { display: flex; }
   .hero { height: 200px; }
   .hero-content h1 { font-size: 24px; }
   .hero-content p { font-size: 12px; }
