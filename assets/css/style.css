@@ -54,7 +54,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .nav-links a {
-  font-size: 17px;
+  font-size: 20px;
   letter-spacing: 0.5px;
   color: #F3EDE1;
   transition: color 0.15s;
@@ -74,12 +74,12 @@ a { color: inherit; text-decoration: none; }
 
 
 /* ── Nav item kleuren ── */
-.nav-links a:nth-child(1) { color: #F3EDE1; }          /* Recepten — warm wit */
+.nav-links a:nth-child(1) { color: #F5D842; }          /* Recepten — geel */
 .nav-links a:nth-child(2) { color: #C4785A; }          /* Wijnpairing — terracotta */
 .nav-links a:nth-child(3) { color: #8FBCB0; }          /* Van hobbykok — salie groen */
 .nav-links a:nth-child(4) { color: #C4A882; }          /* Over — goud */
 
-.nav-links a:nth-child(1):hover { color: #fff; border-bottom-color: #F3EDE1; }
+.nav-links a:nth-child(1):hover { color: #fce96a; border-bottom-color: #F5D842; }
 .nav-links a:nth-child(2):hover { color: #d4886a; border-bottom-color: #C4785A; }
 .nav-links a:nth-child(3):hover { color: #a0ccc0; border-bottom-color: #8FBCB0; }
 .nav-links a:nth-child(4):hover { color: #d4b892; border-bottom-color: #C4A882; }
