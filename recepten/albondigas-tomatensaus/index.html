@@ -61,24 +61,27 @@
   </style>
 </head>
 <body>
-  <nav class="nav">
-    <a class="logo" href="/">Het Proeven</a>
-    <div class="nav-links">
-      <a href="/">Recepten</a>
-      <a href="/wijnspijs-gids.html" class="nav-accent">Wijnpairing</a>
-      <a href="/sterrenkok-gids.html">Van hobbykok naar sterrenkok</a>
-      <a href="/over.html">Over</a>
+  <nav style="display:flex;justify-content:space-between;align-items:center;padding:0 44px;height:68px;background:#2B1A0D;position:sticky;top:0;z-index:100;">
+    <a href="/" style="font-family:'Playfair Display',serif;font-size:22px;letter-spacing:2px;color:#F3EDE1;text-decoration:none;">Het Proeven</a>
+    <div id="nav-desktop" style="display:flex;align-items:center;">
+      <a href="/" style="font-size:18px;color:#F5D842;text-decoration:none;padding:0 18px;height:68px;display:flex;align-items:center;">Recepten</a>
+      <a href="/wijnspijs-gids.html" style="font-size:18px;color:#C4785A;text-decoration:none;padding:0 18px;height:68px;display:flex;align-items:center;">Wijnpairing</a>
+      <a href="/sterrenkok-gids.html" style="font-size:18px;color:#8FBCB0;text-decoration:none;padding:0 18px;height:68px;display:flex;align-items:center;">Van hobbykok naar sterrenkok</a>
+      <a href="/over.html" style="font-size:18px;color:#C4A882;text-decoration:none;padding:0 18px;height:68px;display:flex;align-items:center;">Over</a>
     </div>
-    <button class="nav-hamburger" id="hamburger" aria-label="Menu openen">
-      <span></span><span></span><span></span>
+    <button id="hamburger" onclick="var m=document.getElementById('nav-mobile');m.style.display=m.style.display==='block'?'none':'block'" style="display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;background:none;border:none;" aria-label="Menu">
+      <span style="display:block;width:24px;height:2px;background:#F3EDE1;border-radius:2px;"></span>
+      <span style="display:block;width:24px;height:2px;background:#F3EDE1;border-radius:2px;"></span>
+      <span style="display:block;width:24px;height:2px;background:#F3EDE1;border-radius:2px;"></span>
     </button>
   </nav>
-  <nav class="nav-mobile" id="nav-mobile">
-    <a href="/">Recepten</a>
-    <a href="/wijnspijs-gids.html" class="nav-accent">Wijnpairing</a>
-    <a href="/sterrenkok-gids.html">Van hobbykok naar sterrenkok</a>
-    <a href="/over.html">Over</a>
-  </nav>
+  <div id="nav-mobile" style="display:none;position:fixed;top:68px;left:0;right:0;background:#2B1A0D;z-index:99;padding:12px 0 20px;box-shadow:0 8px 24px rgba(0,0,0,0.3);">
+    <a href="/" style="display:block;padding:14px 24px;font-size:16px;color:#F5D842;text-decoration:none;border-bottom:0.5px solid rgba(255,255,255,0.1);">Recepten</a>
+    <a href="/wijnspijs-gids.html" style="display:block;padding:14px 24px;font-size:16px;color:#C4785A;text-decoration:none;border-bottom:0.5px solid rgba(255,255,255,0.1);">Wijnpairing</a>
+    <a href="/sterrenkok-gids.html" style="display:block;padding:14px 24px;font-size:16px;color:#8FBCB0;text-decoration:none;border-bottom:0.5px solid rgba(255,255,255,0.1);">Van hobbykok naar sterrenkok</a>
+    <a href="/over.html" style="display:block;padding:14px 24px;font-size:16px;color:#C4A882;text-decoration:none;">Over</a>
+  </div>
+  <style>@media(max-width:768px){#nav-desktop{display:none!important}#hamburger{display:flex!important}}</style>
   <a class="back-btn" href="/">← Terug naar recepten</a>
   <div class="recipe-hero" style="position:relative;overflow:hidden;height:340px;max-height:50vw;"><img src="/assets/images/albondigas-tomatensaus.jpg" alt="Albóndigas — de allerbeste gehaktballetjes in tomatensaus" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;" loading="eager" fetchpriority="high" onerror="this.style.display='none'">
     <span class="recipe-loc-tag">Spanje</span>
