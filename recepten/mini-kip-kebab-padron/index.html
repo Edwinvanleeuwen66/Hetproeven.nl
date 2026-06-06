@@ -181,8 +181,11 @@
       const amounts = [];
       document.querySelectorAll('.ing-amount').forEach((el, i) => {
         const orig = el.textContent.trim();
-        const num  = parseFloat(orig.replace(',','.'));
-        amounts.push({ el, orig, num, valid: !isNaN(num) && num > 0 });
+        // Splits getal en eenheid: "1 el" → num=1, unit=" el"
+        const numMatch = orig.match(/^(\d+[,.]?\d*)(.*)$/);
+        const num = numMatch ? parseFloat(numMatch[1].replace(',','.')) : NaN;
+        const unit = numMatch ? numMatch[2] : '';
+        amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
 
       // Originele servings tekst
@@ -201,7 +204,9 @@
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
-          a.el.textContent = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
+          // Zet getal terug met eenheid: 1.5 + " el" → "1,5 el"
+          const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
+          a.el.textContent = numStr + a.unit;
         });
       });
     })();
