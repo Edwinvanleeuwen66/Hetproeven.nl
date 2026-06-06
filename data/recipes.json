@@ -59058,6 +59058,309 @@
       },
       "source_recipe_number": 171,
       "full_title_docx": "171. OLIE-GEGAARDE OSSENHAAS MET PIEMONTESE SALSA VERDE EN CANTABRISCHE ANSJOVIS"
+    },
+    {
+      "title": "Mille-Feuille van Aardbei en Zwarte Zomertruffel met Citroencrème",
+      "slug": "mille-feuille-aardbei-zwarte-zomertruffel-citroencreme",
+      "location": "Piemonte / Frans patisserie",
+      "time": "50 min + 2 uur koelen (kan dag vooraf)",
+      "servings": "4 mille-feuilles (1 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "dessert",
+      "image": "/assets/images/mille-feuille-aardbei-zwarte-zomertruffel-citroencreme.jpg",
+      "short_description": "Een onmogelijke combinatie die op hoog niveau samenkomt: drie krokante goudbruine bladerdeeglagen met citroen-crema diplomatica en verse aardbei, gekroond door fijn geraspte zwarte zomertruffel — elegant, gewaagd en seizoensgebonden.",
+      "description": "Een onmogelijke combinatie die op hoog niveau samenkomt: zwarte zomertruffel en aardbei delen een aards-bloemig parfum dat als laatste optreden van de truffel in een seizoen — vlak voor de zomeraardbeien hun hoogtepunt bereiken — een onverwachte gastronomische schoonheid oplevert. Drie krokante laagjes goudbruin bladerdeeg, gevuld met stevige citroen-crème op tompouce-niveau, plakjes verse aardbei, en als kroon: fijn geraspte zwarte zomertruffel over de toplaag. Elegant, gewaagd, en het bewijs dat de truffel ook in de zoete keuken een huis heeft.",
+      "full_intro": "Een onmogelijke combinatie die op hoog niveau samenkomt: zwarte zomertruffel en aardbei delen een aards-bloemig parfum dat als laatste optreden van de truffel in een seizoen — vlak voor de zomeraardbeien hun hoogtepunt bereiken — een onverwachte gastronomische schoonheid oplevert. Drie krokante laagjes goudbruin bladerdeeg, gevuld met stevige citroen-crème op tompouce-niveau, plakjes verse aardbei, en als kroon: fijn geraspte zwarte zomertruffel over de toplaag. Elegant, gewaagd, en het bewijs dat de truffel ook in de zoete keuken een huis heeft.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de citroen-crème (crema diplomatica)",
+          "ingredients": [
+            {
+              "name": "volle melk",
+              "amount": "250ml"
+            },
+            {
+              "name": "fijne kristalsuiker (30g + 20g)",
+              "amount": "50g"
+            },
+            {
+              "name": "grote eidooiers",
+              "amount": "3"
+            },
+            {
+              "name": "maïszetmeel (Maizena)",
+              "amount": "20g"
+            },
+            {
+              "name": "½ vanillestokje, opengespleten, zaadjes uitgeschraapt",
+              "amount": ""
+            },
+            {
+              "name": "fijne rasp van 1 onbespoten citroen (alleen het geel)",
+              "amount": ""
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gelatineblaadjes (ca. 2,5g)",
+              "amount": "1½"
+            },
+            {
+              "name": "volle slagroom, koud",
+              "amount": "150ml"
+            },
+            {
+              "name": "poedersuiker (voor de slagroom)",
+              "amount": "10g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het bladerdeeg",
+          "ingredients": [
+            {
+              "name": "vel kant-en-klaar roomboterbladerdeeg (rol, ca. 25×35cm — Tante Fanny of Croustipate)",
+              "amount": "1"
+            },
+            {
+              "name": "fijne kristalsuiker (voor karamelisatie)",
+              "amount": "30g"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de aardbeien",
+          "ingredients": [
+            {
+              "name": "kleine geurige aardbeien (Mara des Bois of rijpe Nederlandse zomeraardbeien)",
+              "amount": "250g"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "klein snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de truffel-afwerking",
+          "ingredients": [
+            {
+              "name": "verse zwarte zomertruffel (Tuber aestivum), op kamertemperatuur",
+              "amount": "10–15g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "fijne poedersuiker om af te stoffen",
+              "amount": ""
+            },
+            {
+              "name": "enkele micro-blaadjes basilicum of citroenmelisse (optioneel)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de citroen-crème (crema diplomatica)",
+          "ingredients": [
+            "250ml volle melk",
+            "50g fijne kristalsuiker (verdeeld: 30g + 20g)",
+            "3 grote eidooiers",
+            "20g maïszetmeel (Maizena)",
+            "½ vanillestokje, opengespleten, zaadjes uitgeschraapt",
+            "Fijne rasp van 1 onbespoten citroen (alleen het geel)",
+            "1 tl vers citroensap",
+            "1½ gelatineblaadje (ca. 2,5g)",
+            "150ml volle slagroom, koud",
+            "10g poedersuiker (voor de slagroom)"
+          ]
+        },
+        {
+          "group_name": "Voor het bladerdeeg",
+          "ingredients": [
+            "1 vel kant-en-klaar roomboterbladerdeeg (rol, ca. 25×35cm — Tante Fanny, Croustipate of vergelijkbaar)",
+            "30g fijne kristalsuiker (voor karamelisatie)",
+            "Snufje zout"
+          ]
+        },
+        {
+          "group_name": "Voor de aardbeien",
+          "ingredients": [
+            "250g kleine geurige aardbeien (Mara des Bois als topkeuze; anders rijpe Nederlandse zomeraardbeien)",
+            "1 tl fijne kristalsuiker",
+            "½ tl vers citroensap",
+            "Klein snufje fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de truffel-afwerking",
+          "ingredients": [
+            "10–15g verse zwarte zomertruffel (Tuber aestivum), op kamertemperatuur"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "Fijne poedersuiker om af te stoffen",
+            "Enkele micro-blaadjes basilicum of citroenmelisse (optioneel)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Crema diplomatica — gelatine weken en basis maken",
+          "description": "Leg de gelatineblaadjes 5 minuten in koud water. Verwarm de melk met het halve vanillestokje (incl. zaadjes) en de citroenrasp tot bijna kookpunt. Haal van het vuur en laat 10 minuten infuseren. Klop de eidooiers met 30g suiker tot lichtgeel en romig. Voeg het maïszetmeel toe en klop glad."
+        },
+        {
+          "number": 2,
+          "action": "Crema diplomatica — koken en afmaken",
+          "description": "Verwijder het vanillestokje. Schenk de warme melk langzaam, al kloppend, bij het ei-mengsel. Schenk terug in de pan en breng al kloppend langzaam aan de kook. Blijf onafgebroken kloppen tot dik en glanzend. Kook 1 tot 2 minuten na. Haal van het vuur. Knijp de gelatine uit en roer met het citroensap en de overige 20g suiker door de warme room tot opgelost. Schenk over in een vlakke schaal, leg plasticfolie direct op het oppervlak en laat afkoelen. Minimaal 1 uur in de koelkast."
+        },
+        {
+          "number": 3,
+          "action": "Crema diplomatica — afmaken met slagroom",
+          "description": "Klop de koude slagroom met de poedersuiker tot stijve pieken. Roer de koude banketbakkersroom kort glad met een spatel. Spatel de slagroom in drie delen voorzichtig door de banketbakkersroom. Doe in een spuitzak. Dek af en zet minimaal 1 uur in de koelkast."
+        },
+        {
+          "number": 4,
+          "action": "Bladerdeeg persen en bakken",
+          "description": "Verwarm de oven voor op 200°C (hete lucht). Rol het bladerdeeg uit op bakpapier op een bakplaat. Prik over de hele oppervlakte. Bestrooi gelijkmatig met de 30g suiker en het snufje zout. Leg een tweede vel bakpapier erop en daarop een tweede omgekeerde bakplaat. Bak 18 tot 22 minuten tot diep goudbruin en knapperig."
+        },
+        {
+          "number": 5,
+          "action": "Bladerdeeg snijden",
+          "description": "Haal voorzichtig de bovenste bakplaat en het bovenste bakpapier weg. Snijd met een scherp mes en liniaal 12 nette rechthoeken van ca. 4×8cm — werk snel want het bladerdeeg wordt bij afkoelen brosser. Laat volledig afkoelen op een rooster. Bewaar in een luchtdichte doos op kamertemperatuur."
+        },
+        {
+          "number": 6,
+          "action": "Aardbeien voorbereiden",
+          "description": "Was kort onder zacht stromend water, dep grondig droog. Verwijder kroontjes. Snijd in plakjes van 3mm langs de lengte. Strooi de suiker, citroensap en het snufje zout erover en meng zacht. Laat maximaal 5 minuten staan — niet langer, anders worden ze slap."
+        },
+        {
+          "number": 7,
+          "action": "Assembleren en serveren",
+          "description": "Leg per bord 1 rechthoek bladerdeeg neer. Spuit 4 tot 5 nette dotjes crema in een rij over de lengte. Leg 4 of 5 aardbeiplakjes tussen de crema-dotjes. Leg de tweede bladerdeeg-rechthoek erop, druk licht aan. Herhaal met crema-dotjes en aardbeiplakjes. Leg de derde rechthoek erop. Stof af met een dun laagje poedersuiker. Schaaf de zomertruffel vlak voor opdienen in zeer dunne plakjes of fijne rasp en verdeel 2,5 tot 3g per mille-feuille over de bovenkant. Eventueel één klein blaadje basilicum of citroenmelisse. Serveer onmiddellijk."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Crema diplomatica — gelatine weken en basis maken",
+          "description": "Leg de gelatineblaadjes 5 minuten in koud water. Verwarm de melk met het halve vanillestokje (incl. zaadjes) en de citroenrasp tot bijna kookpunt. Haal van het vuur en laat 10 minuten infuseren. Klop de eidooiers met 30g suiker tot lichtgeel en romig. Voeg het maïszetmeel toe en klop glad."
+        },
+        {
+          "number": 2,
+          "section": "Crema diplomatica — koken en afmaken",
+          "description": "Verwijder het vanillestokje. Schenk de warme melk langzaam, al kloppend, bij het ei-mengsel. Schenk terug in de pan en breng al kloppend langzaam aan de kook. Blijf onafgebroken kloppen tot dik en glanzend. Kook 1 tot 2 minuten na. Haal van het vuur. Knijp de gelatine uit en roer met het citroensap en de overige 20g suiker door de warme room tot opgelost. Schenk over in een vlakke schaal, leg plasticfolie direct op het oppervlak en laat afkoelen. Minimaal 1 uur in de koelkast."
+        },
+        {
+          "number": 3,
+          "section": "Crema diplomatica — afmaken met slagroom",
+          "description": "Klop de koude slagroom met de poedersuiker tot stijve pieken. Roer de koude banketbakkersroom kort glad met een spatel. Spatel de slagroom in drie delen voorzichtig door de banketbakkersroom. Doe in een spuitzak. Dek af en zet minimaal 1 uur in de koelkast."
+        },
+        {
+          "number": 4,
+          "section": "Bladerdeeg persen en bakken",
+          "description": "Verwarm de oven voor op 200°C (hete lucht). Rol het bladerdeeg uit op bakpapier op een bakplaat. Prik over de hele oppervlakte. Bestrooi gelijkmatig met de 30g suiker en het snufje zout. Leg een tweede vel bakpapier erop en daarop een tweede omgekeerde bakplaat. Bak 18 tot 22 minuten tot diep goudbruin en knapperig."
+        },
+        {
+          "number": 5,
+          "section": "Bladerdeeg snijden",
+          "description": "Haal voorzichtig de bovenste bakplaat en het bovenste bakpapier weg. Snijd met een scherp mes en liniaal 12 nette rechthoeken van ca. 4×8cm — werk snel want het bladerdeeg wordt bij afkoelen brosser. Laat volledig afkoelen op een rooster. Bewaar in een luchtdichte doos op kamertemperatuur."
+        },
+        {
+          "number": 6,
+          "section": "Aardbeien voorbereiden",
+          "description": "Was kort onder zacht stromend water, dep grondig droog. Verwijder kroontjes. Snijd in plakjes van 3mm langs de lengte. Strooi de suiker, citroensap en het snufje zout erover en meng zacht. Laat maximaal 5 minuten staan — niet langer, anders worden ze slap."
+        },
+        {
+          "number": 7,
+          "section": "Assembleren en serveren",
+          "description": "Leg per bord 1 rechthoek bladerdeeg neer. Spuit 4 tot 5 nette dotjes crema in een rij over de lengte. Leg 4 of 5 aardbeiplakjes tussen de crema-dotjes. Leg de tweede bladerdeeg-rechthoek erop, druk licht aan. Herhaal met crema-dotjes en aardbeiplakjes. Leg de derde rechthoek erop. Stof af met een dun laagje poedersuiker. Schaaf de zomertruffel vlak voor opdienen in zeer dunne plakjes of fijne rasp en verdeel 2,5 tot 3g per mille-feuille over de bovenkant. Eventueel één klein blaadje basilicum of citroenmelisse. Serveer onmiddellijk."
+        }
+      ],
+      "tips": [
+        "Zwarte zomertruffel, niet wintertruffel: Tuber aestivum (mei–augustus) is bewust de keuze — lichter, hazelnootachtig-bloemig, past bij fruit. Wintertruffel is te krachtig en zou de aardbei overstemmen. Dit gerecht werkt het best in juni–juli wanneer beide ingrediënten op hun piek zijn.",
+        "Truffel pas op het allerlaatste moment: vluchtige aroma's vervliegen binnen minuten zodra de truffel geraspt is. Schaaf of rasp letterlijk pas vlak voor je het bord wegbrengt. Truffel die 30 minuten op kamertemperatuur is geweest geeft veel meer aroma.",
+        "Banketbakkersroompoeder is een werkbaar alternatief: Dr. Oetker of Ruf werkt prima. Gebruik 35–40g poeder per 250ml volle melk met iets minder suiker. Waardeer op met echte citroenrasp en goede vanille. Gelatine en slagroom blijven hetzelfde.",
+        "Bladerdeeg persen tussen twee bakplaten is dé techniek: onbelast bladerdeeg rijst op tot pluizige laagjes; geperst bladerdeeg geeft ultradunne krokante gekaramelliseerde lagen. Echt ander resultaat dan gewone mille-feuille.",
+        "Crema diplomatica met 1½ gelatineblaadje: stabiel en stevig zoals een tompouce. 2 blaadjes wordt rubberig; 1 blaadje te slap. Maak gerust een dag vooraf — gelatine helpt, de crema wordt stabieler.",
+        "Aardbeien kwaliteit is alles: Mara des Bois (Franse kleine bosaardbei, intens parfum) is het ideaal. Aardbeien die niet ruiken werken hier niet — het is een aroma-gerecht. Stevige aardbeien, geen zachte: die lekken vocht en maken de mille-feuille rommelig.",
+        "Doppen, geen uitgesmeerde laag: spuit de crema in nette doppen tussen de bladerdeeglagen. Doppen zijn eleganter, blijven luchtiger en geven een modernere uitstraling. Minder kans dat het bladerdeeg verzacht.",
+        "Variatie: geen zomertruffel? Witte Alba-truffel in oktober–december (dan 6–8g totaal, intenser). Of geroosterde hazelnoot als toegankelijker variant — gastronomisch coherent. Optioneel: één of twee stippen oude balsamico tradizionale op het bord naast de mille-feuille."
+      ],
+      "tips_full": [
+        "Zwarte zomertruffel, niet wintertruffel: Tuber aestivum (mei–augustus) is bewust de keuze — lichter, hazelnootachtig-bloemig, past bij fruit. Wintertruffel is te krachtig en zou de aardbei overstemmen. Dit gerecht werkt het best in juni–juli wanneer beide ingrediënten op hun piek zijn.",
+        "Truffel pas op het allerlaatste moment: vluchtige aroma's vervliegen binnen minuten zodra de truffel geraspt is. Schaaf of rasp letterlijk pas vlak voor je het bord wegbrengt. Truffel die 30 minuten op kamertemperatuur is geweest geeft veel meer aroma.",
+        "Banketbakkersroompoeder is een werkbaar alternatief: Dr. Oetker of Ruf werkt prima. Gebruik 35–40g poeder per 250ml volle melk met iets minder suiker. Waardeer op met echte citroenrasp en goede vanille. Gelatine en slagroom blijven hetzelfde.",
+        "Bladerdeeg persen tussen twee bakplaten is dé techniek: onbelast bladerdeeg rijst op tot pluizige laagjes; geperst bladerdeeg geeft ultradunne krokante gekaramelliseerde lagen. Echt ander resultaat dan gewone mille-feuille.",
+        "Crema diplomatica met 1½ gelatineblaadje: stabiel en stevig zoals een tompouce. 2 blaadjes wordt rubberig; 1 blaadje te slap. Maak gerust een dag vooraf — gelatine helpt, de crema wordt stabieler.",
+        "Aardbeien kwaliteit is alles: Mara des Bois (Franse kleine bosaardbei, intens parfum) is het ideaal. Aardbeien die niet ruiken werken hier niet — het is een aroma-gerecht. Stevige aardbeien, geen zachte: die lekken vocht en maken de mille-feuille rommelig.",
+        "Doppen, geen uitgesmeerde laag: spuit de crema in nette doppen tussen de bladerdeeglagen. Doppen zijn eleganter, blijven luchtiger en geven een modernere uitstraling. Minder kans dat het bladerdeeg verzacht.",
+        "Variatie: geen zomertruffel? Witte Alba-truffel in oktober–december (dan 6–8g totaal, intenser). Of geroosterde hazelnoot als toegankelijker variant — gastronomisch coherent. Optioneel: één of twee stippen oude balsamico tradizionale op het bord naast de mille-feuille."
+      ],
+      "opmaak_presentatie": "Vlakke langwerpige witte borden of donkere leistenen plankjes. Mille-feuille recht op de lengte-as, een derde van de breedte uit het midden. Negatieve ruimte rondom is essentieel. Geen sauzen, geen swooshes, geen extra fruit. De truffel-toplaag is het visuele middelpunt: donkere marmer-zwarte plakjes op licht goudbruin bladerdeeg en poedersuiker. Aan de zijkant zichtbare gelaagdheid: goudbruin bladerdeeg, ivoorwitte crema en rode-roze aardbei. Één blaadje basilicum of citroenmelisse op een hoek. Direct serveren — bladerdeeg verzacht na 15 minuten.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Rosé Brut, bij voorkeur vintage of gerijpt — Champagne, Frankrijk",
+          "druif": "Pinot Noir en Chardonnay (assemblage), soms met Pinot Meunier",
+          "smaakprofiel": "Droog, bruisend, rijp rood fruit (aardbei, framboos, kers), witte bloemen, brioche, hazelnoot en lichte tertiair-truffel-tonen bij gerijpte versies. Fijne mousse, hoge zuren, lange complexe finale.",
+          "omschrijving": "Champagne Rosé van Pinot Noir-dominant, met enige jaren autolyse. Billecart-Salmon Brut Rosé is het archetype. Serveer bij 8–10°C in tulpglazen.",
+          "waarom_werkt_dit": "Dit dessert heeft twee smaaklagen die elk hun eigen wijnpartner vragen: de aardbei wil rood fruit in het glas, de zomertruffel wil aardse diepte. Een gerijpte Champagne Rosé levert beide tegelijk. De aardbei-framboos-aroma's liggen letterlijk in het verlengde van de aardbei op het bord; bij gerijpte versies komen tertiaire autolyse-noten van brioche en zwarte truffel erbij die de zomertruffel subtiel spiegelen. De fijne mousse tilt de crema diplomatica op; de hoge zuren snijden door de boterige rijkdom van bladerdeeg en room."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Brachetto d'Acqui DOCG — Piemonte, Italië",
+          "druif": "Brachetto",
+          "smaakprofiel": "Licht zoet, lichtjes mousserend, intense aroma's van aardbei, framboos, rode bessen, rozen en muskaat. Lage alcohol (5,5–6%), levendige zuren, sappige korte finale.",
+          "omschrijving": "De klassieke lichte rode dessertwijn uit Acqui Terme in Piemonte. Banfi of Braida zijn archetypes. Serveer goed gekoeld bij 8–10°C.",
+          "waarom_werkt_dit": "Regionale coherentie én smaakspiegeling in één glas. Brachetto d'Acqui komt uit Piemonte — dezelfde streek als de zomertruffel — en draagt van nature aardbei- en frambozenaroma's die de aardbei in het gerecht op de meest directe manier weerspiegelen. De bloemig-rozenachtige bovenlaag verbindt met het subtiele bloemig parfum van de zomertruffel; de lage alcohol en frisse mousse houden het dessert licht en zomers. Speelser en fruitiger dan Champagne Rosé."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Moscato d'Asti DOCG — Piemonte, Italië",
+          "druif": "Moscato Bianco",
+          "smaakprofiel": "Licht zoet, lichtjes mousserend (frizzante), witte perzik, abrikoos, witte bloemen, citrusbloesem, honing en verse druif. Lage alcohol (5–6%), levendige zuren, sappige korte finale.",
+          "omschrijving": "De klassieke lichte Italiaanse dessertwijn uit Asti. Saracco of Bera zijn archetypes. Reken op €8 tot €12. Breed verkrijgbaar in elke goede slijterij of betere supermarkt. Serveer bij 6–8°C.",
+          "waarom_werkt_dit": "Moscato d'Asti is bewust ontworpen voor Italiaanse zoete afsluiters — lichte zoetheid die het dessert spiegelt, frisse mousse die de gelaagde structuur ondersteunt, lage alcohol die het diner licht houdt. De perzik- en citrusbloesem-aroma's vinden de citroencrème direct terug; de druif-frisheid past bij de aardbei. Breed verkrijgbaar en betaalbaar — dit is de toegankelijkste weg naar een geslaagde afsluiter."
+        }
+      ],
+      "wine": {
+        "naam": "Champagne Rosé Brut, gerijpt — Champagne, Frankrijk",
+        "druif": "Pinot Noir en Chardonnay",
+        "toelichting": "Aardbei-framboos in het glas spiegelt het bord direct; tertiaire autolyse-noten van gerijpte Champagne spiegelen de zomertruffel subtiel. De mousse tilt de crema op; de zuren snijden door bladerdeeg en room. Serveer op 8–10°C.",
+        "alternatief": "Brachetto d'Acqui DOCG of Moscato d'Asti DOCG (€8–12, breed verkrijgbaar)"
+      },
+      "metadata": {
+        "bereidingstijd": "50 min + 2 uur koelen",
+        "porties": "4 mille-feuilles (1 per persoon)",
+        "type_gerecht": "Dessert / luxe afsluiter",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 172,
+      "full_title_docx": "172. MILLE-FEUILLE VAN AARDBEI EN ZWARTE ZOMERTRUFFEL MET CITROENCRÈME"
     }
   ]
 }
