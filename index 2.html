@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Het Proeven — Kleine gerechtjes. Grote obsessie.</title>
+  <meta name="description" content="257 internationale recepten met wijnadvies per gerecht. Spaans, Italiaans, Japans, Indonesisch — kleine intense gerechtjes met grote smaakimpact.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Het Proeven">
+  <meta property="og:title" content="Het Proeven — Kleine gerechtjes. Grote obsessie.">
+  <meta property="og:description" content="257 internationale recepten met wijnadvies per gerecht. Spaans, Italiaans, Japans, Indonesisch — kleine intense gerechtjes met grote smaakimpact.">
+  <meta property="og:url" content="https://www.hetproeven.nl/">
+  <meta property="og:image" content="https://www.hetproeven.nl/assets/images/og-default.jpg">
+  <link rel="canonical" href="https://www.hetproeven.nl/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet" media="print" onload="this.media='all'"><noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet"></noscript>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  <style>
+    .zoek-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem 0;
+    }
+    .zoek-input-wrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .zoek-icon {
+      position: absolute;
+      left: 14px;
+      color: var(--muted);
+      font-size: 14px;
+      pointer-events: none;
+    }
+    .zoek-input {
+      width: 100%;
+      padding: 10px 36px 10px 38px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: #fff;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: var(--deep);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .zoek-input:focus { border-color: var(--accent); }
+    .zoek-input::placeholder { color: var(--muted); }
+    .zoek-clear {
+      position: absolute;
+      right: 14px;
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 16px;
+      padding: 0;
+      display: none;
+      line-height: 1;
+    }
+    .zoek-clear.zichtbaar { display: block; }
+    .zoek-resultaat {
+      font-size: 11px;
+      color: var(--muted);
+      padding: 6px 4px 0;
+      letter-spacing: 0.03em;
+    }
+  </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Nieuwste recepten — Het Proeven",
+  "description": "257 internationale recepten met wijnadvies per gerecht.",
+  "numberOfItems": 24,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "url": "https://www.hetproeven.nl/recepten/siu-mai-varkensvlees-garnaal-shiitake-kantonese-dim-sum/",
+      "name": "Siu Mai met Varkensvlees, Garnaal en Shiitake — Kantonese Dim Sum-Stijl"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "url": "https://www.hetproeven.nl/recepten/vanille-roomijs-warme-beurre-noisette-geroosterde-hazelnoot-zeezout/",
+      "name": "Vanille-Roomijs met Warme Beurre Noisette, Geroosterde Hazelnoot en Zeezout"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "url": "https://www.hetproeven.nl/recepten/citroentartelette-glas-lemon-curd-zanddeegcrumble-creme-fraiche-basilicum/",
+      "name": "Citroentartelette in Glas met Lemon Curd, Zanddeegcrumble, Crème Fraîche en Basilicum"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "url": "https://www.hetproeven.nl/recepten/gegrilde-perzik-abrikoos-yoghurtcreme-honing-pistache/",
+      "name": "Gegrilde Perzik of Abrikoos met Yoghurtcrème, Honing en Pistache"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "url": "https://www.hetproeven.nl/recepten/chocolademousse-olijfolie-fleur-de-sel-krokante-amandel/",
+      "name": "Chocolademousse met Olijfolie, Fleur de Sel en Krokante Amandel"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "url": "https://www.hetproeven.nl/recepten/mango-kokoscreme-limoen-chili-geroosterde-kokos/",
+      "name": "Mango met Kokoscrème, Limoen, Chili en Geroosterde Kokos"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "url": "https://www.hetproeven.nl/recepten/appel-tatin-deconstructed-bladerdeegcrunch-vanilleroom/",
+      "name": "Appel Tatin 'Deconstructed' met Bladerdeegcrunch en Vanilleroom"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "url": "https://www.hetproeven.nl/recepten/ayam-betutu/",
+      "name": "Ayam Betutu"
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "url": "https://www.hetproeven.nl/recepten/daging-sei-stijl-gerookt-rund-sambal-luat/",
+      "name": "Daging Se'i-Stijl: Gerookt Rund met Sambal Lu'at"
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "url": "https://www.hetproeven.nl/recepten/perkedel-jagung-luxe-krokante-maiskoekjes-limoenblad-chili/",
+      "name": "Perkedel Jagung Luxe: Krokante Maiskoekjes met Limoenblad en Chili"
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "url": "https://www.hetproeven.nl/recepten/langoustine-filodeeg-appel-gember-dragon/",
+      "name": "Langoustine in Filodeeg met Appel-Gember en Dragon"
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "url": "https://www.hetproeven.nl/recepten/zwarte-truffel-warme-vanilleroom-aardappelcrunch/",
+      "name": "Zwarte Truffel met Warme Vanilleroom en Aardappelcrunch"
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "url": "https://www.hetproeven.nl/recepten/risotto-courgette-burrata-rauwe-garnaal/",
+      "name": "Risotto met Courgette, Burrata en Rauwe Garnaal"
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "url": "https://www.hetproeven.nl/recepten/moo-ping-thaise-varkensspiesjes-nam-jim-jaew-komkommer/",
+      "name": "Moo Ping — Thaise Varkensspiesjes met Nam Jim Jaew en Komkommer"
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "url": "https://www.hetproeven.nl/recepten/zacht-gegaard-ei-pompoencreme-paddenstoel-toscaanse-kaas-culatello/",
+      "name": "Zacht Gegaard Ei met Pompoencrème, Paddenstoel, Toscaanse Kaas en Culatello"
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "url": "https://www.hetproeven.nl/recepten/tomaat-aardbei-burrata-oude-balsamico-basilicum/",
+      "name": "Tomaat, Aardbei en Burrata met Oude Balsamico en Basilicum"
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "url": "https://www.hetproeven.nl/recepten/tagliata-entrecote-rucola-oude-parmezaan-balsamico/",
+      "name": "Tagliata van Entrecôte met Rucola, Oude Parmezaan en Balsamico"
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "url": "https://www.hetproeven.nl/recepten/aardappelcreme-paddenstoel-zacht-ei-krokante-aardappel-balsamico/",
+      "name": "Aardappelcrème met Paddenstoel, Zacht Ei, Krokante Aardappel en Balsamico"
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "url": "https://www.hetproeven.nl/recepten/briochetoast-eendenlever-appel-gember-oude-balsamico/",
+      "name": "Briochetoast met Eendenlever, Appel-Gember en Oude Balsamico"
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "url": "https://www.hetproeven.nl/recepten/krokante-aardappelrosti-zure-room-kaviaar/",
+      "name": "Krokante Aardappelrösti met Zure Room en Kaviaar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "url": "https://www.hetproeven.nl/recepten/gepocheerd-ei-fonduta-parmigiano-zwarte-truffel-kaviaar/",
+      "name": "Uovo in Camicia, Fonduta di Parmigiano Vecchio, Tartufo Nero e Caviale"
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "url": "https://www.hetproeven.nl/recepten/carpaccio-coquille-groen-tomatenwater-gebrande-basilicumolie/",
+      "name": "Carpaccio van Coquille, Groen Tomatenwater en Olie van Gebrande Basilicum"
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "url": "https://www.hetproeven.nl/recepten/langoustine-vanille-boter-citroen-aan-tafel-geopend/",
+      "name": "Langoustine met Vanille-Boter en Citroen, aan Tafel Geopend"
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "url": "https://www.hetproeven.nl/recepten/oester-vermouth-komkommergelei-zeekraal-oscietra-kaviaar/",
+      "name": "Oester in Vermouth-Komkommergelei met Zeekraal en Oscietra-Kaviaar"
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+  <nav class="nav">
+    <a href="/" class="logo">Het Proeven</a>
+    <div class="nav-links">
+      <a href="/">Recepten</a>
+      <a href="/wijnspijs-gids.html" class="nav-accent">Wijnpairing</a>
+      <a href="/sterrenkok-gids.html">Van hobbykok naar sterrenkok</a>
+      <a href="/over.html">Over</a>
+    </div>
+    <button class="nav-hamburger" id="hamburger" aria-label="Menu openen">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+  <nav class="nav-mobile" id="nav-mobile">
+    <a href="/">Recepten</a>
+    <a href="/wijnspijs-gids.html" class="nav-accent">Wijnpairing</a>
+    <a href="/sterrenkok-gids.html">Van hobbykok naar sterrenkok</a>
+    <a href="/over.html">Over</a>
+  </nav>
+
+  <header class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1>Kleine gerechtjes.<br>Grote obsessie.</h1>
+      <p>Van pintxo tot saté. Van cava tot rioja. Alles draait om smaak.</p>
+    </div>
+  </header>
+
+  <div class="zoek-wrap">
+    <div class="zoek-input-wrap">
+      <span class="zoek-icon">🔍</span>
+      <input type="search" class="zoek-input" id="zoek-input" 
+             placeholder="Zoek op naam, ingrediënt of keuken…"
+             autocomplete="off" spellcheck="false">
+      <button class="zoek-clear" id="zoek-clear" title="Wis zoekopdracht">✕</button>
+    </div>
+    <div class="zoek-resultaat" id="zoek-resultaat"></div>
+  </div>
+
+  <div class="filter-wrap">
+    <div class="filter-row">
+      <span class="filter-label">Soort</span>
+      <div class="filter-bar" id="filter-categorie">
+        <button class="filter-btn active" data-filter="all">Alles</button>
+        <button class="filter-btn" data-filter="hapjes-tapas">Hapjes & Tapas</button>
+        <button class="filter-btn" data-filter="vis-zeevruchten">Vis & Zeevruchten</button>
+        <button class="filter-btn" data-filter="vlees">Vlees</button>
+        <button class="filter-btn" data-filter="groente-salade">Groente & Salade</button>
+        <button class="filter-btn" data-filter="soep">Soep</button>
+        <button class="filter-btn" data-filter="pasta-rijst">Pasta & Rijst</button>
+        <button class="filter-btn" data-filter="dessert">Dessert</button>
+      </div>
+    </div>
+
+    <div class="filter-row filter-row-keuken">
+      <span class="filter-label">Keuken</span>
+      <div class="filter-bar" id="filter-keuken">
+        <button class="filter-btn-sm active" data-filter="all">Alles</button>
+        <button class="filter-btn-sm" data-filter="Spaans">🇪🇸 Spaans</button>
+        <button class="filter-btn-sm" data-filter="Italiaans">🇮🇹 Italiaans</button>
+        <button class="filter-btn-sm" data-filter="Nederlands">🇳🇱 Nederlands</button>
+        <button class="filter-btn-sm" data-filter="Indonesisch">🇮🇩 Indonesisch</button>
+
+        <button class="filter-btn-sm" data-filter="Frans">🇫🇷 Frans</button>
+        <button class="filter-btn-sm" data-filter="Thais">🇹🇭 Thais</button>
+        <button class="filter-btn-sm" data-filter="Chinees">🇨🇳 Chinees</button>
+        <button class="filter-btn-sm" data-filter="Japans">🇯🇵 Japans</button>
+        <button class="filter-btn-sm" data-filter="Mexicaans">🇲🇽 Mexicaans</button>
+        <button class="filter-btn-sm" data-filter="Overig">🌍 Overig</button>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="filter-wrap" style="border-bottom:none;padding-bottom:0.5rem;">
+    <div class="filter-row" style="border-bottom:none;padding:0.5rem 0;">
+      <span class="filter-label">Mijn lijst</span>
+      <div class="filter-bar">
+        <button class="filter-btn" id="btn-favorieten" onclick="toggleMijnFilter('favorieten')">♥ Favorieten</button>
+        <button class="filter-btn" id="btn-vandaag" onclick="toggleMijnFilter('vandaag')">🍳 Vandaag koken</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="recipe-grid" id="recipe-grid">
+<!-- STATISCHE RECEPTEN VOOR GOOGLE — worden dynamisch bijgewerkt door JS -->
+<a href="/recepten/siu-mai-varkensvlees-garnaal-shiitake-kantonese-dim-sum/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/siu-mai-varkensvlees-garnaal-shiitake-kantonese-dim-sum.jpg" alt="Siu Mai met Varkensvlees, Garnaal en Shiitake — Kantonese Dim Sum-Stijl" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Chinees</span>
+        <h3 class="recipe-card-title">Siu Mai met Varkensvlees, Garnaal en Shiitake — Kantonese Dim Sum-Stijl</h3>
+        <p class="recipe-card-desc">Lung King Heen Hong Kong-geïnspireerde siu mai: open gestoomde dumplings van varkensvlees en garnaal (helft fijn, helft grof — dat…</p>
+        <span class="recipe-card-time">⏱ 1 uur (plus 20 min koelen)</span>
+      </div>
+    </a>
+<a href="/recepten/vanille-roomijs-warme-beurre-noisette-geroosterde-hazelnoot-zeezout/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/vanille-roomijs-warme-beurre-noisette-geroosterde-hazelnoot-zeezout.jpg" alt="Vanille-Roomijs met Warme Beurre Noisette, Geroosterde Hazelnoot en Zeezout" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Vanille-Roomijs met Warme Beurre Noisette, Geroosterde Hazelnoot en Zeezout</h3>
+        <p class="recipe-card-desc">Het meest eerlijke dessert: topkwaliteit vanille-ijs, beurre noisette aan tafel gegoten zodat het warme nootachtige botervet het k…</p>
+        <span class="recipe-card-time">⏱ 15 min</span>
+      </div>
+    </a>
+<a href="/recepten/citroentartelette-glas-lemon-curd-zanddeegcrumble-creme-fraiche-basilicum/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/citroentartelette-glas-lemon-curd-zanddeegcrumble-creme-fraiche-basilicum.jpg" alt="Citroentartelette in Glas met Lemon Curd, Zanddeegcrumble, Crème Fraîche en Basilicum" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Citroentartelette in Glas met Lemon Curd, Zanddeegcrumble, Crème Fraîche en Basilicum</h3>
+        <p class="recipe-card-desc">Tarte au citron als patisserie in glas: knapperige zanddeegcrumble, zijdezachte lemon curd, luchtige crème fraîche-room en basilic…</p>
+        <span class="recipe-card-time">⏱ 35 min (plus 1 uur koelen voor de curd)</span>
+      </div>
+    </a>
+<a href="/recepten/gegrilde-perzik-abrikoos-yoghurtcreme-honing-pistache/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/gegrilde-perzik-abrikoos-yoghurtcreme-honing-pistache.jpg" alt="Gegrilde Perzik of Abrikoos met Yoghurtcrème, Honing en Pistache" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Overig</span>
+        <h3 class="recipe-card-title">Gegrilde Perzik of Abrikoos met Yoghurtcrème, Honing en Pistache</h3>
+        <p class="recipe-card-desc">Het eenvoudigste en eerlijkste dessert: rijp steenfruit op een gloeiend hete grill tot de suikers karameliseren, op dikke yoghurtc…</p>
+        <span class="recipe-card-time">⏱ 25 min</span>
+      </div>
+    </a>
+<a href="/recepten/chocolademousse-olijfolie-fleur-de-sel-krokante-amandel/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/chocolademousse-olijfolie-fleur-de-sel-krokante-amandel.jpg" alt="Chocolademousse met Olijfolie, Fleur de Sel en Krokante Amandel" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Chocolademousse met Olijfolie, Fleur de Sel en Krokante Amandel</h3>
+        <p class="recipe-card-desc">Een donker, volwassen chocoladedessert: pure ganache-mousse met fruitige olijfolie en fleur de sel, gekarameliseerde amandelcrumbl…</p>
+        <span class="recipe-card-time">⏱ 35 min</span>
+      </div>
+    </a>
+<a href="/recepten/mango-kokoscreme-limoen-chili-geroosterde-kokos/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/mango-kokoscreme-limoen-chili-geroosterde-kokos.jpg" alt="Mango met Kokoscrème, Limoen, Chili en Geroosterde Kokos" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Thais</span>
+        <h3 class="recipe-card-title">Mango met Kokoscrème, Limoen, Chili en Geroosterde Kokos</h3>
+        <p class="recipe-card-desc">Fris tropisch dessert: rijpe mango in twee texturen met luchtige kokoscrème van palmsuiker, limoen-chili-marinade en krokante geka…</p>
+        <span class="recipe-card-time">⏱ 25 min</span>
+      </div>
+    </a>
+<a href="/recepten/appel-tatin-deconstructed-bladerdeegcrunch-vanilleroom/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/appel-tatin-deconstructed-bladerdeegcrunch-vanilleroom.jpg" alt="Appel Tatin 'Deconstructed' met Bladerdeegcrunch en Vanilleroom" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Appel Tatin 'Deconstructed' met Bladerdeegcrunch en Vanilleroom</h3>
+        <p class="recipe-card-desc">Elegante herinterpretatie van de tarte tatin: boterige karamelappel, glasachtig gekarameliseerde bladerdeegcrunch en romige vanill…</p>
+        <span class="recipe-card-time">⏱ 40 min</span>
+      </div>
+    </a>
+<a href="/recepten/ayam-betutu/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/ayam-betutu.jpg" alt="Ayam Betutu" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Indonesisch</span>
+        <h3 class="recipe-card-title">Ayam Betutu</h3>
+        <p class="recipe-card-desc">Verfijnde Balinese kipbereiding: sappige kippendij in een geconcentreerde glanzende bumbu van sjalot, galangal, kurkuma, kencur, c…</p>
+        <span class="recipe-card-time">⏱ 45 min</span>
+      </div>
+    </a>
+<a href="/recepten/daging-sei-stijl-gerookt-rund-sambal-luat/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/daging-sei-stijl-gerookt-rund-sambal-luat.jpg" alt="Daging Se'i-Stijl: Gerookt Rund met Sambal Lu'at" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Indonesisch</span>
+        <h3 class="recipe-card-title">Daging Se'i-Stijl: Gerookt Rund met Sambal Lu'at</h3>
+        <p class="recipe-card-desc">Verfijnde interpretatie van se'i sapi: dun gesneden entrecôte kort gegrild met beukenrook, lauwwarm geserveerd met sambal lu'at va…</p>
+        <span class="recipe-card-time">⏱ 35 min</span>
+      </div>
+    </a>
+<a href="/recepten/perkedel-jagung-luxe-krokante-maiskoekjes-limoenblad-chili/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/perkedel-jagung-luxe-krokante-maiskoekjes-limoenblad-chili.jpg" alt="Perkedel Jagung Luxe: Krokante Maiskoekjes met Limoenblad en Chili" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Indonesisch</span>
+        <h3 class="recipe-card-title">Perkedel Jagung Luxe: Krokante Maiskoekjes met Limoenblad en Chili</h3>
+        <p class="recipe-card-desc">Verfijnde Indonesische klassieker: zoete mais met limoenblad, seledri en bosui gebonden met rijstbloem en goudbruin gebakken tot k…</p>
+        <span class="recipe-card-time">⏱ 30 min</span>
+      </div>
+    </a>
+<a href="/recepten/langoustine-filodeeg-appel-gember-dragon/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/langoustine-filodeeg-appel-gember-dragon.jpg" alt="Langoustine in Filodeeg met Appel-Gember en Dragon" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Langoustine in Filodeeg met Appel-Gember en Dragon</h3>
+        <p class="recipe-card-desc">Verfijnd voorgerecht van contrast: langoustines spiraalsgewijs gerold in krokant filodeeg, met een brunoise van Granny Smith in ge…</p>
+        <span class="recipe-card-time">⏱ 35 min</span>
+      </div>
+    </a>
+<a href="/recepten/zwarte-truffel-warme-vanilleroom-aardappelcrunch/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/zwarte-truffel-warme-vanilleroom-aardappelcrunch.jpg" alt="Zwarte Truffel met Warme Vanilleroom en Aardappelcrunch" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Zwarte Truffel met Warme Vanilleroom en Aardappelcrunch</h3>
+        <p class="recipe-card-desc">Luxueuze amuse van drie ingrediënten: aardse wintertruffel geschaafd boven warme bloemige vanilleroom op een krokante aardappelchi…</p>
+        <span class="recipe-card-time">⏱ 30 min</span>
+      </div>
+    </a>
+<a href="/recepten/risotto-courgette-burrata-rauwe-garnaal/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/risotto-courgette-burrata-rauwe-garnaal.jpg" alt="Risotto met Courgette, Burrata en Rauwe Garnaal" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Italiaans</span>
+        <h3 class="recipe-card-title">Risotto met Courgette, Burrata en Rauwe Garnaal</h3>
+        <p class="recipe-card-desc">Fluweelzachte frisgroene Carnaroli-risotto geïnspireerd op L'Angolo Tondo in Lucca: courgette-puree in de mantecato, stracciatella…</p>
+        <span class="recipe-card-time">⏱ 45 min</span>
+      </div>
+    </a>
+<a href="/recepten/moo-ping-thaise-varkensspiesjes-nam-jim-jaew-komkommer/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/moo-ping-thaise-varkensspiesjes-nam-jim-jaew-komkommer.jpg" alt="Moo Ping — Thaise Varkensspiesjes met Nam Jim Jaew en Komkommer" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Thais</span>
+        <h3 class="recipe-card-title">Moo Ping — Thaise Varkensspiesjes met Nam Jim Jaew en Komkommer</h3>
+        <p class="recipe-card-desc">Bangkok's geliefdste straatsnack verfijnd: varkensnek gemarineerd in knoflook, korianderwortel en kokosmelk, boven houtskool gegri…</p>
+        <span class="recipe-card-time">⏱ 35 min</span>
+      </div>
+    </a>
+<a href="/recepten/zacht-gegaard-ei-pompoencreme-paddenstoel-toscaanse-kaas-culatello/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/zacht-gegaard-ei-pompoencreme-paddenstoel-toscaanse-kaas-culatello.jpg" alt="Zacht Gegaard Ei met Pompoencrème, Paddenstoel, Toscaanse Kaas en Culatello" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Italiaans</span>
+        <h3 class="recipe-card-title">Zacht Gegaard Ei met Pompoencrème, Paddenstoel, Toscaanse Kaas en Culatello</h3>
+        <p class="recipe-card-desc">Geïnspireerd op L'Angolo Tondo in Lucca: zijdezacht in het bord gegaard ei in fluweelzachte pompoencrème, gekroond met flinterdunn…</p>
+        <span class="recipe-card-time">⏱ 45 min</span>
+      </div>
+    </a>
+<a href="/recepten/tomaat-aardbei-burrata-oude-balsamico-basilicum/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/tomaat-aardbei-burrata-oude-balsamico-basilicum.jpg" alt="Tomaat, Aardbei en Burrata met Oude Balsamico en Basilicum" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Italiaans</span>
+        <h3 class="recipe-card-title">Tomaat, Aardbei en Burrata met Oude Balsamico en Basilicum</h3>
+        <p class="recipe-card-desc">Vijf zomerse ingrediënten op hun best: rijpe tomaat in meerdere variëteiten, vlezige aardbei, romige burrata, glanzende parels oud…</p>
+        <span class="recipe-card-time">⏱ 25 min</span>
+      </div>
+    </a>
+<a href="/recepten/tagliata-entrecote-rucola-oude-parmezaan-balsamico/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/tagliata-entrecote-rucola-oude-parmezaan-balsamico.jpg" alt="Tagliata van Entrecôte met Rucola, Oude Parmezaan en Balsamico" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Italiaans</span>
+        <h3 class="recipe-card-title">Tagliata van Entrecôte met Rucola, Oude Parmezaan en Balsamico</h3>
+        <p class="recipe-card-desc">De Toscaanse trattoria-klassieker: dik gebakken entrecôte, rosé gerust en dun gesneden over peperige wilde rucola, met grote schaa…</p>
+        <span class="recipe-card-time">⏱ 25 min</span>
+      </div>
+    </a>
+<a href="/recepten/aardappelcreme-paddenstoel-zacht-ei-krokante-aardappel-balsamico/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/aardappelcreme-paddenstoel-zacht-ei-krokante-aardappel-balsamico.jpg" alt="Aardappelcrème met Paddenstoel, Zacht Ei, Krokante Aardappel en Balsamico" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Aardappelcrème met Paddenstoel, Zacht Ei, Krokante Aardappel en Balsamico</h3>
+        <p class="recipe-card-desc">Verstilde aardse compositie: fluweelzachte aardappelcrème, paddenstoelen in nootbruine boter, een zacht gepocheerd ei met vloeiend…</p>
+        <span class="recipe-card-time">⏱ 40 min</span>
+      </div>
+    </a>
+<a href="/recepten/briochetoast-eendenlever-appel-gember-oude-balsamico/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/briochetoast-eendenlever-appel-gember-oude-balsamico.jpg" alt="Briochetoast met Eendenlever, Appel-Gember en Oude Balsamico" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Briochetoast met Eendenlever, Appel-Gember en Oude Balsamico</h3>
+        <p class="recipe-card-desc">Franse klassieker in geconcentreerde amuse-vorm: dikke goudbruine briochetoast met romige eendenleverpâté, frisgroene appelblokjes…</p>
+        <span class="recipe-card-time">⏱ 25 min</span>
+      </div>
+    </a>
+<a href="/recepten/krokante-aardappelrosti-zure-room-kaviaar/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/krokante-aardappelrosti-zure-room-kaviaar.jpg" alt="Krokante Aardappelrösti met Zure Room en Kaviaar" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Krokante Aardappelrösti met Zure Room en Kaviaar</h3>
+        <p class="recipe-card-desc">De iconische luxe-amuse: goudbruine krokante aardappelrösti met een quenelle koude zure room met bieslook en citroen, gekroond met…</p>
+        <span class="recipe-card-time">⏱ 35 min</span>
+      </div>
+    </a>
+<a href="/recepten/gepocheerd-ei-fonduta-parmigiano-zwarte-truffel-kaviaar/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/gepocheerd-ei-fonduta-parmigiano-zwarte-truffel-kaviaar.jpg" alt="Uovo in Camicia, Fonduta di Parmigiano Vecchio, Tartufo Nero e Caviale" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Italiaans</span>
+        <h3 class="recipe-card-title">Uovo in Camicia, Fonduta di Parmigiano Vecchio, Tartufo Nero e Caviale</h3>
+        <p class="recipe-card-desc">Piemontees theatergerecht: fonduta van 36 maanden Parmigiano draagt een gepocheerd ei, bedekt door dakpannen zwarte wintertruffel,…</p>
+        <span class="recipe-card-time">⏱ 40 min</span>
+      </div>
+    </a>
+<a href="/recepten/carpaccio-coquille-groen-tomatenwater-gebrande-basilicumolie/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/carpaccio-coquille-groen-tomatenwater-gebrande-basilicumolie.jpg" alt="Carpaccio van Coquille, Groen Tomatenwater en Olie van Gebrande Basilicum" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Italiaans</span>
+        <h3 class="recipe-card-title">Carpaccio van Coquille, Groen Tomatenwater en Olie van Gebrande Basilicum</h3>
+        <p class="recipe-card-desc">Modernistisch Italiaans op zijn helderst: papierdunne rauwe coquille drijvend in glashelder koud groen tomatenwater, met één strak…</p>
+        <span class="recipe-card-time">⏱ 40 min</span>
+      </div>
+    </a>
+<a href="/recepten/langoustine-vanille-boter-citroen-aan-tafel-geopend/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/langoustine-vanille-boter-citroen-aan-tafel-geopend.jpg" alt="Langoustine met Vanille-Boter en Citroen, aan Tafel Geopend" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Langoustine met Vanille-Boter en Citroen, aan Tafel Geopend</h3>
+        <p class="recipe-card-desc">Theatergerecht op het kruispunt van techniek en emotie: langoustines garen in afgesloten zak met vanille-boter en citroen, aan taf…</p>
+        <span class="recipe-card-time">⏱ 20 min</span>
+      </div>
+    </a>
+<a href="/recepten/oester-vermouth-komkommergelei-zeekraal-oscietra-kaviaar/" class="recipe-card">
+      <div class="recipe-card-img"><img src="/assets/images/oester-vermouth-komkommergelei-zeekraal-oscietra-kaviaar.jpg" alt="Oester in Vermouth-Komkommergelei met Zeekraal en Oscietra-Kaviaar" loading="lazy"></div>
+      <div class="recipe-card-body">
+        <span class="recipe-card-tag">Frans</span>
+        <h3 class="recipe-card-title">Oester in Vermouth-Komkommergelei met Zeekraal en Oscietra-Kaviaar</h3>
+        <p class="recipe-card-desc">De zee in één hap: verse oester in zijn schelp bedekt door een parelmoer-transparante gelei van droge vermouth, komkommer en oeste…</p>
+        <span class="recipe-card-time">⏱ 30 min</span>
+      </div>
+    </a>
+<!-- EINDE STATISCHE RECEPTEN -->
+    <div class="loading">Recepten laden…</div>
+  </div>
+
+  <footer>
+    <p>© Het Proeven</p>
+    <a href="/over.html">Over ons</a>
+  </footer>
+
+  <script>
+    let allRecipes = [];
+    let activeKeuken = 'all';
+    let activeCategorie = 'all';
+    let activeMijnFilter = null; // 'favorieten' of 'vandaag'
+
+
+    // localStorage helpers
+    function loadSet(key) {
+      try { return new Set(JSON.parse(localStorage.getItem(key) || '[]')); } catch { return new Set(); }
+    }
+    function saveSet(key, set) {
+      try { localStorage.setItem(key, JSON.stringify([...set])); } catch {}
+    }
+    let favorieten = loadSet('hp_favorieten');
+    let vandaag    = loadSet('hp_vandaag');
+
+    function toggleSlug(type, slug, btn) {
+      event.preventDefault();
+      event.stopPropagation();
+      const set = type === 'favorieten' ? favorieten : vandaag;
+      const cls = type === 'favorieten' ? 'active' : 'active-vandaag';
+      if (set.has(slug)) { set.delete(slug); btn.classList.remove(cls); }
+      else                { set.add(slug);    btn.classList.add(cls); }
+      saveSet('hp_' + type, set);
+      if (activeMijnFilter === type) renderRecipes();
+    }
+
+    function toggleMijnFilter(type) {
+      if (activeMijnFilter === type) {
+        activeMijnFilter = null;
+        document.getElementById('btn-' + type).classList.remove('active');
+      } else {
+        activeMijnFilter = type;
+        ['favorieten','vandaag'].forEach(t => {
+          document.getElementById('btn-' + t).classList.toggle('active', t === type);
+        });
+      }
+      renderRecipes();
+      initLazyBg();
+    }
+
+
+    // ── Lazy loading kaartfoto's ─────────────────────────────────
+    function initLazyBg() {
+      if (!('IntersectionObserver' in window)) {
+        // Fallback: laad alles direct
+        document.querySelectorAll('.lazy-bg[data-bg]').forEach(el => {
+          el.style.backgroundImage = 'url(' + el.dataset.bg + ')';
+        });
+        return;
+      }
+      const obs = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const el = entry.target;
+            el.style.backgroundImage = 'url(' + el.dataset.bg + ')';
+            el.classList.remove('lazy-bg');
+            obs.unobserve(el);
+          }
+        });
+      }, { rootMargin: '200px' });
+
+      document.querySelectorAll('.lazy-bg[data-bg]').forEach(el => obs.observe(el));
+    }
+
+
+    // ── Zoekfunctie ─────────────────────────────────────────────
+    let zoekQuery = '';
+
+    const zoekInput = document.getElementById('zoek-input');
+    const zoekClear = document.getElementById('zoek-clear');
+    const zoekResultaat = document.getElementById('zoek-resultaat');
+
+    function normaliseer(str) {
+      return (str || '').toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
+    function zoekFilter(r) {
+      if (!zoekQuery) return true;
+      const q = normaliseer(zoekQuery);
+      const velden = [
+        r.title, r.short_description, r.description,
+        r.location, r.keuken, r.categorie,
+        ...(r.ingredient_groups || []).flatMap(g => 
+          (g.ingredients || []).map(i => i.name)
+        )
+      ];
+      return velden.some(v => normaliseer(v).includes(q));
+    }
+
+    zoekInput.addEventListener('input', () => {
+      zoekQuery = zoekInput.value.trim();
+      zoekClear.classList.toggle('zichtbaar', zoekQuery.length > 0);
+      renderRecipes();
+      initLazyBg();
+    });
+
+    zoekClear.addEventListener('click', () => {
+      zoekInput.value = '';
+      zoekQuery = '';
+      zoekClear.classList.remove('zichtbaar');
+      zoekResultaat.textContent = '';
+      zoekInput.focus();
+      renderRecipes();
+      initLazyBg();
+    });
+
+    function renderRecipes() {
+      const grid = document.getElementById('recipe-grid');
+      let filtered = allRecipes;
+      if (activeKeuken !== 'all') filtered = filtered.filter(r => r.keuken === activeKeuken);
+      if (activeCategorie !== 'all') filtered = filtered.filter(r => r.categorie === activeCategorie);
+      if (activeMijnFilter === 'favorieten') filtered = filtered.filter(r => favorieten.has(r.slug));
+      if (activeMijnFilter === 'vandaag')    filtered = filtered.filter(r => vandaag.has(r.slug));
+      if (zoekQuery) filtered = filtered.filter(zoekFilter);
+      if (zoekQuery) {
+        zoekResultaat.textContent = filtered.length === 0
+          ? 'Geen recepten gevonden voor "' + zoekQuery + '"'
+          : filtered.length + ' recept' + (filtered.length === 1 ? '' : 'en') + ' gevonden';
+      } else {
+        zoekResultaat.textContent = '';
+      }
+      if (filtered.length === 0) {
+        grid.innerHTML = '<p class="empty">Geen recepten gevonden.</p>';
+        return;
+      }
+      grid.innerHTML = filtered.map((r, i) => {
+        const wineNaam = r.wine && typeof r.wine === 'object' ? r.wine.naam : r.wine;
+        const eager = i < 6;
+        const imgAttr = r.image
+          ? (eager ? `style="background-image:url(${r.image})"` : `data-bg="${r.image}"`)
+          : '';
+        const isFav     = favorieten.has(r.slug);
+        const isVandaag = vandaag.has(r.slug);
+        return `
+          <div class="card-wrap">
+            <a href="/recepten/${encodeURIComponent(r.slug)}" class="card">
+              <div class="card-img${eager ? '' : ' lazy-bg'}" ${imgAttr}></div>
+              <div class="card-body">
+                <div class="card-loc">${r.location || ''}</div>
+                <div class="card-title">${r.title}</div>
+                <p>${r.short_description || ''}</p>
+                <div class="tags">
+                  ${r.time ? `<span class="tag">${r.time}</span>` : ''}
+${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
+                  ${wineNaam ? `<span class="tag tag-wine">🍷 ${wineNaam}</span>` : ''}
+                </div>
+              </div>
+            </a>
+            <div class="card-actions">
+              <button class="card-action-btn${isFav ? ' active' : ''}" title="Favoriet" onclick="toggleSlug('favorieten','${r.slug}',this)">♥</button>
+              <button class="card-action-btn${isVandaag ? ' active-vandaag' : ''}" title="Vandaag koken" onclick="toggleSlug('vandaag','${r.slug}',this)">🍳</button>
+            </div>
+          </div>`;
+      }).join('');
+    }
+
+    document.querySelectorAll('#filter-categorie .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#filter-categorie .filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCategorie = btn.dataset.filter;
+        renderRecipes();
+        initLazyBg();
+      });
+    });
+
+    document.querySelectorAll('#filter-keuken .filter-btn-sm').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#filter-keuken .filter-btn-sm').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeKeuken = btn.dataset.filter;
+        renderRecipes();
+        initLazyBg();
+      });
+    });
+
+    fetch('/data/recipes.json')
+      .then(r => r.json())
+      .then(data => {
+        allRecipes = (data.recipes || []).slice().reverse();
+        renderRecipes();
+        initLazyBg();
+      })
+      .catch(() => {
+        document.getElementById('recipe-grid').innerHTML = '<p class="empty">Recepten konden niet worden geladen.</p>';
+      });
+
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; });
+      });
+    }
+  </script>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const navMobile = document.getElementById('nav-mobile');
+  hamburger.addEventListener('click', () => {
+    hamburger.classList.toggle('open');
+    navMobile.classList.toggle('open');
+  });
+  // Sluit menu bij klik op link
+  navMobile.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      hamburger.classList.remove('open');
+      navMobile.classList.remove('open');
+    });
+  });
+</script>
+</body>
+</html>

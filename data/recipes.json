@@ -39352,18 +39352,18 @@
       "full_title_docx": "103. GEPOFTE AARDAPPEL IN ZOUTKORST MET BEURRE NOISETTE EN PARMIGIANO-ESSENCE — REALE-STIJL"
     },
     {
-      "title": "\"The Crunchy Part of the Lasagna\" — krokante lasagnehoekjes met geconcentreerde ragù en Parmigiano Reggiano — Bottura-stijl",
-      "slug": "crunchy-part-lasagna-krokante-lasagnehoekjes-geconcentreerde-ragu",
+      "title": "Deconstructed Lasagne — Krokante Hoekjes, Geconcentreerde Ragù en Parmigiano — Bottura-stijl",
+      "slug": "deconstructed-lasagne-krokante-hoekjes-bottura-michelin",
       "location": "Modena",
       "time": "30 min actief + 2–3 uur ragù",
       "servings": "4 kleine voorgerechten",
       "difficulty": "Gemiddeld",
       "keuken": "Italiaans",
       "categorie": "voorgerecht",
-      "image": "/assets/images/crunchy-part-lasagna-krokante-lasagnehoekjes-geconcentreerde-ragu.jpg",
-      "short_description": "Osteria Francescana Modena — Massimo Bottura, drie Michelin-sterren, #1 ter wereld — debuteerde dit gerecht in 1995. Het beste deel van de lasagne is het krokante hoekje. Groene lasagnevellen ingesmeerd met boter en Parmigiano, gebakken tot bijna donker krokant. Een geconcentreerde ragù — bijna droog van uren sudderen.",
-      "description": "Osteria Francescana Modena — Massimo Bottura, drie Michelin-sterren, #1 ter wereld. Het idee is simpel en geniaal: het beste deel van de lasagne is het krokante hoekje. Niet de natte massa in het midden — dat randje waar de pasta bijna verbrandt en de kaas zich heeft omgezet in iets dat op een chip lijkt. Groene lasagnevellen van Barilla, gesmeerd met boter en Parmigiano, gebakken tot bijna donker krokant. Geconcentreerde ragù. Dunne béchamel. Één krokant hoekje per persoon.",
-      "full_intro": "Osteria Francescana Modena — Massimo Bottura, drie Michelin-sterren, #1 ter wereld — debuteerde dit gerecht in 1995 en het staat er nog steeds. Het idee is simpel en geniaal: het beste deel van de lasagne is het krokante hoekje. Niet de natte massa in het midden — dat randje waar de pasta bijna verbrandt en de kaas zich heeft omgezet in iets dat op een chip lijkt. Bottura maakte dat randje tot het hele gerecht. Groene lasagnevellen van Barilla, ingesmeerd met gesmolten boter en Parmigiano, gebakken tot bijna donker krokant. Een geconcentreerde ragù met pancetta — bijna droog van uren sudderen. Dunne béchamel. Één krokant hoekje per persoon. Ragù ernaast. Lasagne voor mensen die eigenlijk geen lasagne lusten.",
+      "image": "/assets/images/deconstructed-lasagne-krokante-hoekjes-bottura-michelin.jpg",
+      "short_description": "Krokante lasagnedriehoekjes van eierpasta — ingesmeerd met boter, gebakken op 220°C tot ze breken als een chip. Ernaast de lekkerste ragù die je ooit hebt gemaakt, uren gesuderd en geconcentreerd tot pure diepe vleessmaak. Gegrilde courgette als zachte tegenstem.",
+      "description": "Lasagne is altijd zompig. Altijd te zwaar. Altijd die kleffe lagen. Dit is het tegenovergestelde. Krokante driehoekjes van eierpasta — ingesmeerd met boter, gebakken op 220°C tot ze breken als een chip. Ernaast een geconcentreerde ragù van half-om-half gehakt die uren heeft gesuderd tot pure diepe vleessmaak. Gegrilde courgette en aubergine als zachte, warme tegenstem. Drie Michelin-sterren techniek. Gewone eierpasta uit de supermarkt.",
+      "full_intro": "Lasagne is altijd zompig. Altijd te zwaar. Altijd die kleffe lagen. Dit is het tegenovergestelde. Krokante driehoekjes van eierpasta — ingesmeerd met boter, gebakken op 220°C tot ze breken als een chip. Ernaast een geconcentreerde ragù van half-om-half gehakt die uren heeft gesuderd tot pure diepe vleessmaak. Gegrilde courgette en aubergine als zachte, warme tegenstem. Drie Michelin-sterren techniek. Gewone eierpasta uit de supermarkt.",
       "ingredient_groups": [
         {
           "group_name": "Voor de geconcentreerde ragù (liefst een dag eerder)",
@@ -39480,6 +39480,31 @@
               "amount": ""
             }
           ]
+        },
+        {
+          "group_name": "Voor de gegrilde groenten (optioneel maar sterk aanbevolen)",
+          "ingredients": [
+            {
+              "name": "courgette, in dunne plakken van 3mm langs de lengte",
+              "amount": "1"
+            },
+            {
+              "name": "aubergine, in dunne plakken van 3mm",
+              "amount": "½"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
         }
       ],
       "ingredient_groups_full": [
@@ -39531,6 +39556,15 @@
             "Paar druppels goede olijfolie",
             "Versgemalen zwarte peper"
           ]
+        },
+        {
+          "group_name": "Voor de gegrilde groenten (optioneel maar sterk aanbevolen)",
+          "ingredients": [
+            "1 courgette, in dunne plakken van 3mm langs de lengte",
+            "½ aubergine, in dunne plakken van 3mm",
+            "2 el extra-vergine olijfolie",
+            "Fleur de sel en vers gemalen zwarte peper"
+          ]
         }
       ],
       "steps": [
@@ -39553,33 +39587,18 @@
           "number": 12,
           "action": "Opbouwen (allerlaatst — pasta wacht op niemand)",
           "description": "Warm bord. Kleine lepel warme ragù iets uit het midden — geconcentreerd en diep. Krokante lasagnehoekjes rechtop of schuin ertegen — de donkere, krokante randen prominent zichtbaar. Dunne lepel béchamel ernaast of er licht over gedruppeld. Extra Parmigiano raspen. Druppel olijfolie. Zwarte peper. Direct serveren."
+        },
+        {
+          "number": 5,
+          "action": "Gegrilde courgette en aubergine",
+          "description": "Bestrijk de plakken courgette en aubergine aan beide kanten dun met olijfolie. Gril op een hete grillpan of koekenpan op hoog vuur — 1 tot 2 minuten per kant tot mooie grillstrepen en net gaar. Niet te lang — ze moeten nog beet hebben. Bestrooi met fleur de sel en zwarte peper. Leg naast de krokante lasagnehoekjes op het bord als warm, zacht contrast met het krokante."
         }
       ],
       "steps_full": [
         {
           "number": 1,
           "section": "Geconcentreerde ragù (liefst een dag eerder)",
-          "description": "Olijfolie en boter in een brede zware pan op middelhoog vuur. Pancetta 2 minuten uitbakken. Ui, wortel en selderij toevoegen — 8–10 minuten zacht fruiten — glazig, niet bruin."
-        },
-        {
-          "number": 2,
-          "section": "Geconcentreerde ragù (liefst een dag eerder)",
-          "description": "Runder- en varkensgehakt toevoegen. Op hoog vuur al roerend bakken tot volledig bruin en los — geen klonters."
-        },
-        {
-          "number": 3,
-          "section": "Geconcentreerde ragù (liefst een dag eerder)",
-          "description": "Tomatenpuree erdoor — 1 minuut meebakken. Wijn toevoegen — volledig laten verdampen."
-        },
-        {
-          "number": 4,
-          "section": "Geconcentreerde ragù (liefst een dag eerder)",
-          "description": "Passata toevoegen. Vuur op allerlaagste stand. Minimaal 2 uur sudderen — liefst 3. Deksel schuin erop. Elk half uur roeren. De ragù moet bijna droog en geconcentreerd worden — geen natte saus, een stevige massa die op een lepel blijft staan."
-        },
-        {
-          "number": 5,
-          "section": "Geconcentreerde ragù (liefst een dag eerder)",
-          "description": "Melk de laatste 20 minuten erdoor roeren. Op smaak met nootmuskaat, zout en peper. Eventueel paar druppels oude balsamico allerlaatst. Afkoelen en bewaren."
+          "description": "Olijfolie en boter in een brede zware pan op middelhoog vuur. Pancetta 2 minuten uitbakken. Ui, wortel en selderij toevoegen — 8–10 minuten zacht fruiten — glazig, niet bruin. Runder- en varkensgehakt toevoegen. Op hoog vuur al roerend bakken tot volledig bruin en los — geen klonters. Tomatenpuree erdoor — 1 minuut meebakken. Wijn toevoegen — volledig laten verdampen. Passata toevoegen. Vuur op allerlaagste stand. Minimaal 2 uur sudderen — liefst 3. Deksel schuin erop. Elk half uur roeren. De ragù moet bijna droog en geconcentreerd worden — geen natte saus, een stevige massa die op een lepel blijft staan. Melk de laatste 20 minuten erdoor roeren. Op smaak met nootmuskaat, zout en peper. Eventueel paar druppels oude balsamico allerlaatst. Afkoelen en bewaren."
         },
         {
           "number": 6,
@@ -39589,42 +39608,17 @@
         {
           "number": 7,
           "section": "Krokante lasagnehoekjes",
-          "description": "Oven voorverwarmen op 220°C hetelucht."
-        },
-        {
-          "number": 8,
-          "section": "Krokante lasagnehoekjes",
-          "description": "Lasagnevellen 30 seconden in kokend gezouten water blancheren. Direct in ijskoud water. Op een schone doek leggen en grondig droogdeppen — vocht is de vijand van crunch."
-        },
-        {
-          "number": 9,
-          "section": "Krokante lasagnehoekjes",
-          "description": "Vellen bestrijken met gesmolten boter gemengd met olijfolie — royaal, aan beide kanten. Parmigiano erover strooien. Snufje zout."
-        },
-        {
-          "number": 10,
-          "section": "Krokante lasagnehoekjes",
-          "description": "Snijden in onregelmatige hoekjes en rechthoeken van 8×6cm — de onregelmatige randen worden het knapperigst. Licht dubbelgevouwen of gekanteld op bakpapier leggen zodat ze hoogte en hoeken krijgen."
-        },
-        {
-          "number": 11,
-          "section": "Krokante lasagnehoekjes",
-          "description": "10–14 minuten op 220°C. De randen moeten diep goudbruin tot licht geblakerd zijn — bijna chips. Blijf erbij — Parmigiano gaat snel van perfect naar verbrand. Op een rooster laten afkoelen — worden nog krokanter."
+          "description": "Oven voorverwarmen op 220°C hetelucht. Lasagnevellen 30 seconden in kokend gezouten water blancheren. Direct in ijskoud water. Op een schone doek leggen en grondig droogdeppen — vocht is de vijand van crunch. Vellen bestrijken met gesmolten boter gemengd met olijfolie — royaal, aan beide kanten. Parmigiano erover strooien. Snufje zout. Snijden in onregelmatige hoekjes en rechthoeken van 8×6cm — de onregelmatige randen worden het knapperigst. Licht dubbelgevouwen of gekanteld op bakpapier leggen zodat ze hoogte en hoeken krijgen. 10–14 minuten op 220°C. De randen moeten diep goudbruin tot licht geblakerd zijn — bijna chips. Blijf erbij — Parmigiano gaat snel van perfect naar verbrand. Op een rooster laten afkoelen — worden nog krokanter."
         },
         {
           "number": 12,
           "section": "Opbouwen (allerlaatst — pasta wacht op niemand)",
-          "description": "Warm bord. Kleine lepel warme ragù iets uit het midden — geconcentreerd en diep."
+          "description": "Warm bord. Kleine lepel warme ragù iets uit het midden — geconcentreerd en diep. Krokante lasagnehoekjes rechtop of schuin ertegen — de donkere, krokante randen prominent zichtbaar. Dunne lepel béchamel ernaast of er licht over gedruppeld. Extra Parmigiano raspen. Druppel olijfolie. Zwarte peper. Direct serveren."
         },
         {
-          "number": 13,
-          "section": "Opbouwen (allerlaatst — pasta wacht op niemand)",
-          "description": "Krokante lasagnehoekjes rechtop of schuin ertegen — de donkere, krokante randen prominent zichtbaar."
-        },
-        {
-          "number": 14,
-          "section": "Opbouwen (allerlaatst — pasta wacht op niemand)",
-          "description": "Dunne lepel béchamel ernaast of er licht over gedruppeld. Extra Parmigiano raspen. Druppel olijfolie. Zwarte peper. Direct serveren."
+          "number": 5,
+          "section": "Gegrilde courgette en aubergine",
+          "description": "Bestrijk de plakken courgette en aubergine aan beide kanten dun met olijfolie. Gril op een hete grillpan of koekenpan op hoog vuur — 1 tot 2 minuten per kant tot mooie grillstrepen en net gaar. Niet te lang — ze moeten nog beet hebben. Bestrooi met fleur de sel en zwarte peper. Leg naast de krokante lasagnehoekjes op het bord als warm, zacht contrast met het krokante."
         }
       ],
       "tips": [
@@ -39634,7 +39628,9 @@
         "Mise en place: Pas vlak voor serveren opbouwen: Zodra ragù of béchamel tegen de pasta komt verliest hij crunch. Alles klaar — dan pas opbouwen en direct serveren.",
         "Pancetta geeft diepte: Kleine hoeveelheid maar maakt de ragù ronder en rijker dan gehakt alleen.",
         "Barilla lasagne verde: Werkt perfect voor dit gerecht. Verse groene vellen van een Italiaanse deli zijn dunner en knapperiger — mooier maar niet verplicht.",
-        "Variatie — oude balsamico: Paar druppels goede oude Aceto Balsamico di Modena door de ragù allerlaatst. Bottura's eigen stad levert de beste. Diepte zonder dat je hem proeft."
+        "Variatie — oude balsamico: Paar druppels goede oude Aceto Balsamico di Modena door de ragù allerlaatst. Bottura's eigen stad levert de beste. Diepte zonder dat je hem proeft.",
+        "Supermarktproducten werken perfect: gewone lasagnevellen van Jumbo of AH, half-om-half gehakt, gewone melk voor de béchamel. Het geheim zit in de techniek — droog bakken op hoge hitte — niet in dure ingrediënten. Dit is precies de democratisering van Michelin-koken.",
+        "Courgette en aubergine naast, niet erdoorheen: de groenten liggen los naast de krokante hoekjes als warm zacht contrast. Erdoorheen mengen maakt het gerecht weer zompig — dat is precies wat we niet willen."
       ],
       "tips_full": [
         "Ragù zo droog mogelijk: De meest gemaakte fout is een natte ragù. Hoe droger, hoe beter de pasta zijn crunch behoudt. De ragù moet bijna kunnen kruimelen.",
@@ -39643,7 +39639,9 @@
         "Mise en place: Pas vlak voor serveren opbouwen: Zodra ragù of béchamel tegen de pasta komt verliest hij crunch. Alles klaar — dan pas opbouwen en direct serveren.",
         "Pancetta geeft diepte: Kleine hoeveelheid maar maakt de ragù ronder en rijker dan gehakt alleen.",
         "Barilla lasagne verde: Werkt perfect voor dit gerecht. Verse groene vellen van een Italiaanse deli zijn dunner en knapperiger — mooier maar niet verplicht.",
-        "Variatie — oude balsamico: Paar druppels goede oude Aceto Balsamico di Modena door de ragù allerlaatst. Bottura's eigen stad levert de beste. Diepte zonder dat je hem proeft."
+        "Variatie — oude balsamico: Paar druppels goede oude Aceto Balsamico di Modena door de ragù allerlaatst. Bottura's eigen stad levert de beste. Diepte zonder dat je hem proeft.",
+        "Supermarktproducten werken perfect: gewone lasagnevellen van Jumbo of AH, half-om-half gehakt, gewone melk voor de béchamel. Het geheim zit in de techniek — droog bakken op hoge hitte — niet in dure ingrediënten. Dit is precies de democratisering van Michelin-koken.",
+        "Courgette en aubergine naast, niet erdoorheen: de groenten liggen los naast de krokante hoekjes als warm zacht contrast. Erdoorheen mengen maakt het gerecht weer zompig — dat is precies wat we niet willen."
       ],
       "opmaak_presentatie": "Warm wit bord. Een kleine lepel diepe ragù als basis. Het krokante groene lasagnehoekje er rechtop tegenaan — de bijna-verbrande randen zichtbaar als bewijs van de hitte. Dunne béchamel als wit accent. Extra Parmigiano als sneeuw. Klein, precies en volkomen Modena. Dit is het gestolen hoekje van de lasagne.",
       "wines": [
@@ -40702,6 +40700,68 @@
               "amount": ""
             }
           ]
+        },
+        {
+          "group_name": "Voor de Madrileense brava saus (zonder tomaat)",
+          "ingredients": [
+            {
+              "name": "gerookt paprikapoeder (pimentón de la Vera, picante)",
+              "amount": "2 tl"
+            },
+            {
+              "name": "mild paprikapoeder (pimentón dulce)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "bloem",
+              "amount": "1 tl"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "knoflook, fijngeraspt",
+              "amount": "1 teen"
+            },
+            {
+              "name": "kippenbouillon of water, warm",
+              "amount": "80ml"
+            },
+            {
+              "name": "sherry-azijn of witte wijnazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout en cayennepeper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de snelle dunne aioli (op basis van mayonaise)",
+          "ingredients": [
+            {
+              "name": "goede mayonaise (Hellmann's of huisgemaakt)",
+              "amount": "4 el"
+            },
+            {
+              "name": "teen knoflook, zeer fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "lauw water (om te verdunnen)",
+              "amount": "1–2 tl"
+            },
+            {
+              "name": "zout en witte peper",
+              "amount": "naar smaak"
+            }
+          ]
         }
       ],
       "ingredient_groups_full": [
@@ -40743,6 +40803,29 @@
             "Leisteenplank of houten plank",
             "Klein kommetje voor de aioli"
           ]
+        },
+        {
+          "group_name": "Voor de Madrileense brava saus (zonder tomaat)",
+          "ingredients": [
+            "2 tl gerookt paprikapoeder (pimentón de la Vera, picante)",
+            "1 tl mild paprikapoeder (pimentón dulce)",
+            "1 tl bloem",
+            "2 el olijfolie",
+            "1 teen knoflook, fijngeraspt",
+            "80ml kippenbouillon of water, warm",
+            "1 tl sherry-azijn of witte wijnazijn",
+            "Zout en cayennepeper naar smaak"
+          ]
+        },
+        {
+          "group_name": "Voor de snelle dunne aioli (op basis van mayonaise)",
+          "ingredients": [
+            "4 el goede mayonaise (Hellmann's of huisgemaakt)",
+            "1 teen knoflook, zeer fijn geraspt",
+            "½ tl vers citroensap",
+            "1–2 tl lauw water (om te verdunnen)",
+            "Zout en witte peper naar smaak"
+          ]
         }
       ],
       "steps": [
@@ -40757,14 +40840,24 @@
           "description": "Maizena, rijstmeel, actieve kool, gerookt paprikapoeder en zout mengen. Water druppelsgewijs toevoegen al roerend tot een dikke, taaie pasta — de consistentie van stevige yoghurt. Niet te dun: hij moet aan de aardappel blijven kleven. Krieltjes nog licht warm door de pasta rollen. Gebruik je handen om een ruige, onregelmatige buitenkant te vormen — net als echte riviersteentjes. Niet te glad maken. Op een met bakpapier bekleed rooster plaatsen. Oven op 80°C, 20 minuten drogen tot de mantel hard en mat is. Volledig laten afkoelen."
         },
         {
-          "number": 5,
+          "number": 3,
           "action": "Knoflookaioli (van tevoren)",
           "description": "Eidooier met mosterd en zout in een kom. Druppelsgewijs — écht druppelsgewijs de eerste helft — de zonnebloemolie erbij kloppen terwijl je constant klopt. Dan de olijfolie er langzaam bij. Knoflookpasta en citroensap allerlaatst. Proef — romig, krachtig, licht zuur. Koel bewaren."
         },
         {
-          "number": 6,
+          "number": 4,
           "action": "Opbouwen (het theatrale moment)",
-          "description": "Schone steentjes op de leisteenplank of in een ondiepe schaal verspreiden. De krieltjes onopvallend tussen de echte stenen leggen — ze moeten er niet van te onderscheiden zijn. Kommetje aioli ernaast. Niets uitleggen. Laat gasten zelf ontdekken. Dat is het gerecht."
+          "description": "Schone steentjes op de leisteenplank of in een ondiepe schaal verspreiden. De krieltjes onopvallend tussen de echte stenen leggen — ze moeten er niet van te onderscheiden zijn. Kommetje aioli ernaast. Serveer de krieltjes lauwwarm — haal ze vlak voor opdienen 2 minuten in een oven van 120°C zodat de coating droog en steenachtig blijft maar het hart warm is. Koud serveren geeft een dof en flets resultaat; te heet en de coating glanst en verraadt zichzelf. Niets uitleggen. Laat gasten zelf ontdekken. Dat is het gerecht."
+        },
+        {
+          "number": 5,
+          "action": "Madrileense brava saus (zonder tomaat)",
+          "description": "Verhit de olijfolie in een kleine steelpan op laag vuur. Fruit de knoflook 30 seconden zonder te kleuren. Voeg beide paprikapoeders en de bloem toe en roer 1 minuut mee — de bloem gaart en de paprika bloeit open. Schenk de warme bouillon er in één keer bij en klop glad. Laat 2–3 minuten zacht koken tot een dunne, gladde saus. Voeg de azijn toe en breng op smaak met zout en cayenne. Serveer warm in een klein kommetje naast de aioli. De saus is rokerig, licht pikant en heeft geen tomaat nodig — het pimentón doet alles."
+        },
+        {
+          "number": 6,
+          "action": "Snelle dunne aioli (op basis van mayonaise)",
+          "description": "Meng de mayonaise met de fijngeraspte knoflook, het citroensap en een snuf zout. Roer een paar druppels lauw water erdoor tot een dunnere, glanzende consistentie — water verdunt zonder de smaak te veranderen. Proef en corrigeer. In 2 minuten klaar. Serveer in een klein kommetje naast de brava saus."
         }
       ],
       "steps_full": [
@@ -40776,32 +40869,27 @@
         {
           "number": 2,
           "section": "Asmantel",
-          "description": "Maizena, rijstmeel, actieve kool, gerookt paprikapoeder en zout mengen. Water druppelsgewijs toevoegen al roerend tot een dikke, taaie pasta — de consistentie van stevige yoghurt. Niet te dun: hij moet aan de aardappel blijven kleven."
+          "description": "Maizena, rijstmeel, actieve kool, gerookt paprikapoeder en zout mengen. Water druppelsgewijs toevoegen al roerend tot een dikke, taaie pasta — de consistentie van stevige yoghurt. Niet te dun: hij moet aan de aardappel blijven kleven. Krieltjes nog licht warm door de pasta rollen. Gebruik je handen om een ruige, onregelmatige buitenkant te vormen — net als echte riviersteentjes. Niet te glad maken. Op een met bakpapier bekleed rooster plaatsen. Oven op 80°C, 20 minuten drogen tot de mantel hard en mat is. Volledig laten afkoelen."
         },
         {
           "number": 3,
-          "section": "Asmantel",
-          "description": "Krieltjes nog licht warm door de pasta rollen. Gebruik je handen om een ruige, onregelmatige buitenkant te vormen — net als echte riviersteentjes. Niet te glad maken."
-        },
-        {
-          "number": 4,
-          "section": "Asmantel",
-          "description": "Op een met bakpapier bekleed rooster plaatsen. Oven op 80°C, 20 minuten drogen tot de mantel hard en mat is. Volledig laten afkoelen."
-        },
-        {
-          "number": 5,
           "section": "Knoflookaioli (van tevoren)",
           "description": "Eidooier met mosterd en zout in een kom. Druppelsgewijs — écht druppelsgewijs de eerste helft — de zonnebloemolie erbij kloppen terwijl je constant klopt. Dan de olijfolie er langzaam bij. Knoflookpasta en citroensap allerlaatst. Proef — romig, krachtig, licht zuur. Koel bewaren."
         },
         {
-          "number": 6,
+          "number": 4,
           "section": "Opbouwen (het theatrale moment)",
-          "description": "Schone steentjes op de leisteenplank of in een ondiepe schaal verspreiden. De krieltjes onopvallend tussen de echte stenen leggen — ze moeten er niet van te onderscheiden zijn. Kommetje aioli ernaast."
+          "description": "Schone steentjes op de leisteenplank of in een ondiepe schaal verspreiden. De krieltjes onopvallend tussen de echte stenen leggen — ze moeten er niet van te onderscheiden zijn. Kommetje aioli ernaast. Serveer de krieltjes lauwwarm — haal ze vlak voor opdienen 2 minuten in een oven van 120°C zodat de coating droog en steenachtig blijft maar het hart warm is. Koud serveren geeft een dof en flets resultaat; te heet en de coating glanst en verraadt zichzelf. Niets uitleggen. Laat gasten zelf ontdekken. Dat is het gerecht."
         },
         {
-          "number": 7,
-          "section": "Opbouwen (het theatrale moment)",
-          "description": "Niets uitleggen. Laat gasten zelf ontdekken. Dat is het gerecht."
+          "number": 5,
+          "section": "Madrileense brava saus (zonder tomaat)",
+          "description": "Verhit de olijfolie in een kleine steelpan op laag vuur. Fruit de knoflook 30 seconden zonder te kleuren. Voeg beide paprikapoeders en de bloem toe en roer 1 minuut mee — de bloem gaart en de paprika bloeit open. Schenk de warme bouillon er in één keer bij en klop glad. Laat 2–3 minuten zacht koken tot een dunne, gladde saus. Voeg de azijn toe en breng op smaak met zout en cayenne. Serveer warm in een klein kommetje naast de aioli. De saus is rokerig, licht pikant en heeft geen tomaat nodig — het pimentón doet alles."
+        },
+        {
+          "number": 6,
+          "section": "Snelle dunne aioli (op basis van mayonaise)",
+          "description": "Meng de mayonaise met de fijngeraspte knoflook, het citroensap en een snuf zout. Roer een paar druppels lauw water erdoor tot een dunnere, glanzende consistentie — water verdunt zonder de smaak te veranderen. Proef en corrigeer. In 2 minuten klaar. Serveer in een klein kommetje naast de brava saus."
         }
       ],
       "tips": [
@@ -40811,7 +40899,10 @@
         "Licht warm coaten: Warme aardappels nemen de coating beter op dan koude.",
         "Ruig vormen: De coating mag ongelijk zijn — echte stenen zijn ook niet perfect rond. Juist de onregelmatigheid maakt het overtuigend.",
         "Echte stenen als decor: Gebruik decoratieve stenen van het tuincentrum of gevonden stenen alleen als decor rond de krieltjes, niet als losse hapklare dubbelgangers. Goed wassen en drogen. Veiligheid gaat voor theater.",
-        "Nooit vertellen: De magie zit in het moment van ontdekking. Gasten die het weten vooraf, missen het volledig."
+        "Nooit vertellen: De magie zit in het moment van ontdekking. Gasten die het weten vooraf, missen het volledig.",
+        "Lauwwarm serveren, niet koud: haal de krieltjes vlak voor opdienen 2 minuten in een oven van 120°C. Koud serveren geeft een dof resultaat en mist de geurtjes van gerookte coating. Te heet en de coating begint te glanzen — dan ziet het er niet meer als steen uit.",
+        "Brava saus zonder tomaat is de Madrileense klassieker: vergeet de rode tomaten-bravasaus die overal wordt geserveerd. De echte Madrileense versie is puur pimentón, knoflook, bloem en bouillon — dieper, rokeriger en veel authentieker. Maak hem pikant met cayenne.",
+        "Snelle aioli op basis van mayonaise: geen zin in zelf kloppen? Hellmann's + fijne knoflookrasp + citroensap + een scheutje olijfolie om te verdunnen. In 2 minuten klaar en werkt prima als de knoflook goed en vers is."
       ],
       "tips_full": [
         "Vet: Food-grade actieve kool is de sleutel tot de kleur: Geeft een perfecte steengrijze tint die kaolien niet altijd haalt. Bij elke drogist verkrijgbaar als capsules of poeder.",
@@ -40820,7 +40911,10 @@
         "Licht warm coaten: Warme aardappels nemen de coating beter op dan koude.",
         "Ruig vormen: De coating mag ongelijk zijn — echte stenen zijn ook niet perfect rond. Juist de onregelmatigheid maakt het overtuigend.",
         "Echte stenen als decor: Gebruik decoratieve stenen van het tuincentrum of gevonden stenen alleen als decor rond de krieltjes, niet als losse hapklare dubbelgangers. Goed wassen en drogen. Veiligheid gaat voor theater.",
-        "Nooit vertellen: De magie zit in het moment van ontdekking. Gasten die het weten vooraf, missen het volledig."
+        "Nooit vertellen: De magie zit in het moment van ontdekking. Gasten die het weten vooraf, missen het volledig.",
+        "Lauwwarm serveren, niet koud: haal de krieltjes vlak voor opdienen 2 minuten in een oven van 120°C. Koud serveren geeft een dof resultaat en mist de geurtjes van gerookte coating. Te heet en de coating begint te glanzen — dan ziet het er niet meer als steen uit.",
+        "Brava saus zonder tomaat is de Madrileense klassieker: vergeet de rode tomaten-bravasaus die overal wordt geserveerd. De echte Madrileense versie is puur pimentón, knoflook, bloem en bouillon — dieper, rokeriger en veel authentieker. Maak hem pikant met cayenne.",
+        "Snelle aioli op basis van mayonaise: geen zin in zelf kloppen? Hellmann's + fijne knoflookrasp + citroensap + een scheutje olijfolie om te verdunnen. In 2 minuten klaar en werkt prima als de knoflook goed en vers is."
       ],
       "opmaak_presentatie": "Leisteenplank of houten bord. Een bed van echte riviersteentjes. De krieltjes ertussen — grijs, ruw, mat. Onmogelijk te onderscheiden van de echte stenen. Klein wit kommetje aioli ernaast. Geen versiering, geen garnering, geen uitleg. Het moment van ontdekking is de presentatie.",
       "wines": [
