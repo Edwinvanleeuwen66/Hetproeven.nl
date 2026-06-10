@@ -59455,6 +59455,541 @@
       },
       "source_recipe_number": 172,
       "full_title_docx": "172. MILLE-FEUILLE VAN AARDBEI EN ZWARTE ZOMERTRUFFEL MET CITROENCRÈME"
+    },
+    {
+      "title": "De Perfecte Tompouce — HEMA-stijl met Dikke Vanilleroom, Roze Glazuur en Slagroom",
+      "slug": "perfecte-tompouce-hema-stijl-dikke-vanilleroom-roze-glazuur",
+      "location": "Nederland",
+      "time": "45 min + 2 uur koelen",
+      "servings": "6 tompouces",
+      "difficulty": "Gemiddeld",
+      "keuken": "Nederlands",
+      "categorie": "dessert",
+      "image": "/assets/images/perfecte-tompouce-hema-stijl-dikke-vanilleroom-roze-glazuur.jpg",
+      "short_description": "Het geheim van de HEMA-tompouce thuis namaken: ultradun krokant bladerdeeg gebakken tussen twee bakplaten, een dikke vanilleroom die niet wegloopt en die iconische roze glazuur. Beter dan het origineel.",
+      "description": "Iedereen kent hem. Niemand weet hoe. Die dikke, stevige vanilleroom die nooit wegzakt. Het ultradunne krokante bladerdeeg. De glanzende roze glazuur. En de slagroom bovenop. De HEMA-tompouce is een Nederlandse klassieker — en thuis te maken is hij tien keer beter dan het origineel. Het geheim zit in twee dingen: het bladerdeeg persen tussen twee bakplaten voor ultrakrokante dunne lagen, en een stevig gemaakte banketbakkersroom met gelatine die zijn vorm houdt. De rest is kinderspel.",
+      "full_intro": "Iedereen kent hem. Niemand weet hoe. Die dikke, stevige vanilleroom die nooit wegzakt. Het ultradunne krokante bladerdeeg. De glanzende roze glazuur. En de slagroom bovenop. De HEMA-tompouce is een Nederlandse klassieker — en thuis te maken is hij tien keer beter dan het origineel. Het geheim zit in twee dingen: het bladerdeeg persen tussen twee bakplaten voor ultrakrokante dunne lagen, en een stevig gemaakte banketbakkersroom met gelatine die zijn vorm houdt. De rest is kinderspel.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de banketbakkersroom",
+          "ingredients": [
+            {
+              "name": "volle melk",
+              "amount": "500ml"
+            },
+            {
+              "name": "vanillestokje (of 1½ tl vanillepasta)",
+              "amount": "1"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "90g"
+            },
+            {
+              "name": "eidooiers (ca. 4 stuks)",
+              "amount": "80g"
+            },
+            {
+              "name": "custardpoeder (Bird's of Dr. Oetker)",
+              "amount": "45g"
+            },
+            {
+              "name": "maizena",
+              "amount": "20g"
+            },
+            {
+              "name": "snuf fijn zout",
+              "amount": ""
+            },
+            {
+              "name": "roomboter in blokjes",
+              "amount": "35g"
+            },
+            {
+              "name": "gelatineblaadje (1,7–2g) — voor stevigheid",
+              "amount": "1"
+            },
+            {
+              "name": "slagroom, lobbig geklopt (voor lichte HEMA-textuur)",
+              "amount": "75ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het bladerdeeg",
+          "ingredients": [
+            {
+              "name": "kant-en-klaar roomboterbladerdeeg (rol of plakjes)",
+              "amount": "1 rol"
+            },
+            {
+              "name": "fijne kristalsuiker (voor karamelisatie)",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de roze glazuur",
+          "ingredients": [
+            {
+              "name": "poedersuiker, gezeefd",
+              "amount": "150g"
+            },
+            {
+              "name": "warm water",
+              "amount": "2–3 el"
+            },
+            {
+              "name": "rode voedingskleurstof",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de slagroom",
+          "ingredients": [
+            {
+              "name": "volle slagroom, koud",
+              "amount": "150ml"
+            },
+            {
+              "name": "poedersuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "vanillepasta of vanillesuiker",
+              "amount": "½ tl"
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de banketbakkersroom",
+          "ingredients": [
+            "500ml volle melk",
+            "1 vanillestokje (of 1½ tl vanillepasta)",
+            "90g fijne kristalsuiker",
+            "80g eidooiers (ca. 4 stuks)",
+            "45g custardpoeder (Bird's of Dr. Oetker)",
+            "20g maizena",
+            "Snuf fijn zout",
+            "35g roomboter in blokjes",
+            "1 gelatineblaadje (1,7–2g) voor stevigheid",
+            "75ml slagroom lobbig geklopt voor lichte HEMA-textuur"
+          ]
+        },
+        {
+          "group_name": "Voor het bladerdeeg",
+          "ingredients": [
+            "1 rol kant-en-klaar roomboterbladerdeeg",
+            "2 el fijne kristalsuiker voor karamelisatie"
+          ]
+        },
+        {
+          "group_name": "Voor de roze glazuur",
+          "ingredients": [
+            "150g poedersuiker, gezeefd",
+            "2–3 el warm water",
+            "Paar druppels rode voedingskleurstof"
+          ]
+        },
+        {
+          "group_name": "Voor de slagroom",
+          "ingredients": [
+            "150ml volle slagroom, koud",
+            "1 el poedersuiker",
+            "½ tl vanillepasta of vanillesuiker"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Banketbakkersroom maken (dag vooraf of ochtend van)",
+          "description": "Verwarm de melk met het vanillestokje (incl. zaadjes) tot bijna kookpunt. Laat 10 minuten infuseren. Klop de eidooiers met de helft van de suiker tot lichtgeel. Voeg het custardpoeder, de maizena en het zout toe en klop glad. Schenk de warme melk langzaam al kloppend bij het eimengsel. Terug in de pan en breng al kloppend aan de kook op middelhoog vuur. Kook 2 minuten na tot dik en glanzend. Haal van het vuur, roer de roomboter erdoor. Knijp het gelatineblaadje uit (geweekt in koud water) en roer door de warme room. Schenk in een platte schaal, plasticfolie direct op het oppervlak. Minimaal 2 uur in de koelkast. Klop vlak voor gebruik de lobbige slagroom erdoor voor de lichte HEMA-textuur."
+        },
+        {
+          "number": 2,
+          "action": "Bladerdeeg uitrollen en persen — de krokant-techniek",
+          "description": "Verwarm de oven voor op 200°C hete lucht. Rol de kant-en-klare bladerdeegplakjes licht uit tot circa 2mm dik — dunner dan uit de verpakking. GEEN gaatjes prikken. Leg op bakpapier op een bakplaat. Bestrooi licht met fijne suiker. Leg een tweede vel bakpapier erop en druk een tweede bakplaat stevig erop — dit perst het deeg plat zodat het ultradun en krokant bakt in plaats van puffig. Bak 18 tot 22 minuten tot diep goudbruin en knapperig. Haal de bovenste bakplaat en het bakpapier weg en laat volledig afkoelen op een rooster."
+        },
+        {
+          "number": 3,
+          "action": "Bladerdeeg snijden in rechthoeken",
+          "description": "Snijd het afgekoelde bladerdeeg met een scherp mes en liniaal in nette rechthoeken van 5×12cm — klassiek tompouce-formaat. Werk snel want het deeg wordt brosser bij afkoeling. Je hebt per tompouce 2 rechthoeken nodig."
+        },
+        {
+          "number": 4,
+          "action": "Roze glazuur maken",
+          "description": "Meng 150g gezeefde poedersuiker met 2 tot 3 el warm water tot een gladde, dikke maar gietbare massa. Voeg een paar druppels rode voedingskleurstof toe tot de klassieke HEMA-roze kleur. De glazuur moet dik genoeg zijn om niet weg te lopen maar dun genoeg om glad uit te strijken. Strijk met een paletmes of lepel een dunne laag over de bovenkant van de helft van de bladerdeegplakken. Laat 15 minuten opstijven."
+        },
+        {
+          "number": 5,
+          "action": "Slagroom opkloppen",
+          "description": "Klop de koude slagroom met de poedersuiker en vanillepasta stijf maar niet te strak — hij moet net pieken houden. Doe in een spuitzak met een stertule."
+        },
+        {
+          "number": 6,
+          "action": "Assembleren — vlak voor serveren",
+          "description": "Leg de onderste bladerdeegplak neer. Spuit of schep een royale laag banketbakkersroom erop — minimaal 2cm dik, tot aan de randen. Dit is de HEMA-truc: niet zuinig zijn met de vulling. Leg de bladerdeegplak met roze glazuur erop, glazuur naar boven. Spuit of schep een rij slagroom langs de voorkant van de tompouce. Serveer direct of zet maximaal 30 minuten koud — daarna wordt het bladerdeeg zacht."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Banketbakkersroom maken (dag vooraf of ochtend van)",
+          "description": "Verwarm de melk met het vanillestokje (incl. zaadjes) tot bijna kookpunt. Laat 10 minuten infuseren. Klop de eidooiers met de helft van de suiker tot lichtgeel. Voeg het custardpoeder, de maizena en het zout toe en klop glad. Schenk de warme melk langzaam al kloppend bij het eimengsel. Terug in de pan en breng al kloppend aan de kook op middelhoog vuur. Kook 2 minuten na tot dik en glanzend. Haal van het vuur, roer de roomboter erdoor. Knijp het gelatineblaadje uit (geweekt in koud water) en roer door de warme room. Schenk in een platte schaal, plasticfolie direct op het oppervlak. Minimaal 2 uur in de koelkast. Klop vlak voor gebruik de lobbige slagroom erdoor voor de lichte HEMA-textuur."
+        },
+        {
+          "number": 2,
+          "section": "Bladerdeeg uitrollen en persen — de krokant-techniek",
+          "description": "Verwarm de oven voor op 200°C hete lucht. Rol de kant-en-klare bladerdeegplakjes licht uit tot circa 2mm dik — dunner dan uit de verpakking. GEEN gaatjes prikken. Leg op bakpapier op een bakplaat. Bestrooi licht met fijne suiker. Leg een tweede vel bakpapier erop en druk een tweede bakplaat stevig erop — dit perst het deeg plat zodat het ultradun en krokant bakt in plaats van puffig. Bak 18 tot 22 minuten tot diep goudbruin en knapperig. Haal de bovenste bakplaat en het bakpapier weg en laat volledig afkoelen op een rooster."
+        },
+        {
+          "number": 3,
+          "section": "Bladerdeeg snijden in rechthoeken",
+          "description": "Snijd het afgekoelde bladerdeeg met een scherp mes en liniaal in nette rechthoeken van 5×12cm — klassiek tompouce-formaat. Werk snel want het deeg wordt brosser bij afkoeling. Je hebt per tompouce 2 rechthoeken nodig."
+        },
+        {
+          "number": 4,
+          "section": "Roze glazuur maken",
+          "description": "Meng 150g gezeefde poedersuiker met 2 tot 3 el warm water tot een gladde, dikke maar gietbare massa. Voeg een paar druppels rode voedingskleurstof toe tot de klassieke HEMA-roze kleur. De glazuur moet dik genoeg zijn om niet weg te lopen maar dun genoeg om glad uit te strijken. Strijk met een paletmes of lepel een dunne laag over de bovenkant van de helft van de bladerdeegplakken. Laat 15 minuten opstijven."
+        },
+        {
+          "number": 5,
+          "section": "Slagroom opkloppen",
+          "description": "Klop de koude slagroom met de poedersuiker en vanillepasta stijf maar niet te strak — hij moet net pieken houden. Doe in een spuitzak met een stertule."
+        },
+        {
+          "number": 6,
+          "section": "Assembleren — vlak voor serveren",
+          "description": "Leg de onderste bladerdeegplak neer. Spuit of schep een royale laag banketbakkersroom erop — minimaal 2cm dik, tot aan de randen. Dit is de HEMA-truc: niet zuinig zijn met de vulling. Leg de bladerdeegplak met roze glazuur erop, glazuur naar boven. Spuit of schep een rij slagroom langs de voorkant van de tompouce. Serveer direct of zet maximaal 30 minuten koud — daarna wordt het bladerdeeg zacht."
+        }
+      ],
+      "tips": [
+        "Geen gaatjes prikken: bij de twee-bakplaten-techniek pers je het deeg plat — gaatjes zijn voor als je wil dat het rijst. Voor tompouce wil je ultradunne krokante lagen, geen puffig deeg.",
+        "Dunner uitrollen dan de verpakking: kant-en-klare plakjes zijn vaak te dik. Even uitrollen tot 2mm geeft een veel dunner, krokanter resultaat dat lijkt op professioneel bladerdeeg.",
+        "Gelatine is het geheim van de stevige vulling: zonder gelatine zakt de room weg zodra je het bladerdeeg erop legt. Met één blaadje houdt hij zijn vorm perfect — precies zoals bij de HEMA.",
+        "Lobbige slagroom erdoor voor de lichte textuur: de banketbakkersroom alleen is te zwaar en te compact. Door lobbig geklopte slagroom erdoor te spatelen krijg je die lichte, luchtige HEMA-textuur.",
+        "Glazuur dik genoeg maar niet te dik: hij moet glad uitstrijken maar niet weglopen van het bladerdeeg. Test op een stukje deeg — als hij te dun is voeg je meer poedersuiker toe.",
+        "Assembleer vlak voor serveren: na 30 minuten wordt het bladerdeeg zacht door de vochtige room. Maak alles klaar maar zet pas op het laatste moment in elkaar.",
+        "Bewaar bladerdeeg droog: gebakken en afgekoeld bladerdeeg bewaar je in een luchtdichte doos op kamertemperatuur — nooit in de koelkast want daar wordt het zacht.",
+        "De slagroom is optioneel maar klassiek: de originele HEMA-tompouce heeft slagroom bovenop. Spuit een rij langs de voorkant met een stertule — dat geeft de herkenbare look."
+      ],
+      "tips_full": [
+        "Geen gaatjes prikken: bij de twee-bakplaten-techniek pers je het deeg plat — gaatjes zijn voor als je wil dat het rijst. Voor tompouce wil je ultradunne krokante lagen, geen puffig deeg.",
+        "Dunner uitrollen dan de verpakking: kant-en-klare plakjes zijn vaak te dik. Even uitrollen tot 2mm geeft een veel dunner, krokanter resultaat dat lijkt op professioneel bladerdeeg.",
+        "Gelatine is het geheim van de stevige vulling: zonder gelatine zakt de room weg zodra je het bladerdeeg erop legt. Met één blaadje houdt hij zijn vorm perfect — precies zoals bij de HEMA.",
+        "Lobbige slagroom erdoor voor de lichte textuur: de banketbakkersroom alleen is te zwaar en te compact. Door lobbig geklopte slagroom erdoor te spatelen krijg je die lichte, luchtige HEMA-textuur.",
+        "Glazuur dik genoeg maar niet te dik: hij moet glad uitstrijken maar niet weglopen van het bladerdeeg. Test op een stukje deeg — als hij te dun is voeg je meer poedersuiker toe.",
+        "Assembleer vlak voor serveren: na 30 minuten wordt het bladerdeeg zacht door de vochtige room. Maak alles klaar maar zet pas op het laatste moment in elkaar.",
+        "Bewaar bladerdeeg droog: gebakken en afgekoeld bladerdeeg bewaar je in een luchtdichte doos op kamertemperatuur — nooit in de koelkast want daar wordt het zacht.",
+        "De slagroom is optioneel maar klassiek: de originele HEMA-tompouce heeft slagroom bovenop. Spuit een rij langs de voorkant met een stertule — dat geeft de herkenbare look."
+      ],
+      "opmaak_presentatie": "Leg de tompouce op een vlak wit bord of leisteen plankje. De gelaagdheid moet zichtbaar zijn van opzij: goudbruin krokant bladerdeeg, dikke ivoorwitte vanilleroom, weer bladerdeeg, roze glazuur en slagroom. Niet stapelen. Serveer direct.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Moscato d'Asti DOCG — Piemonte, Italië",
+          "druif": "Moscato Bianco",
+          "smaakprofiel": "Licht zoet, frizzante, witte perzik, abrikoos, witte bloemen en honing. Lage alcohol (5–6%), levendige zuren.",
+          "omschrijving": "Saracco of Bera zijn archetypes. Serveer bij 6–8°C. Breed verkrijgbaar, €8–12.",
+          "waarom_werkt_dit": "De lichte zoetheid spiegelt de vanilleroom zonder te concurreren; de frisse mousse snijdt door de rijke room en het boterige bladerdeeg. Lage alcohol houdt het licht. De klassieke dessertwijn bij patisserie."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Demi-Sec — Champagne, Frankrijk",
+          "druif": "Chardonnay en Pinot Noir",
+          "smaakprofiel": "Licht zoet, bruisend, rijp fruit, brioche, honing. Fijne mousse, levendige zuren.",
+          "omschrijving": "Moët & Chandon Nectar Impérial of vergelijkbaar. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Demi-Sec Champagne heeft net genoeg zoetheid om bij vanilleroom te passen maar genoeg zuurgraad om het niet zwaar te maken. De brioche-tonen sluiten aan bij het boterige bladerdeeg."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Prosecco Superiore — Veneto, Italië",
+          "druif": "Glera",
+          "smaakprofiel": "Droog tot licht zoet, appel, peer, witte bloemen, lichte mousse.",
+          "omschrijving": "Conegliano Valdobbiadene DOCG. Breed verkrijgbaar, €8–15. Serveer bij 6–8°C.",
+          "waarom_werkt_dit": "Fris, licht en betaalbaar. De appel- en peertonen passen bij de vanille; de mousse maakt de mond fris na elke hap. De meest toegankelijke keuze bij dit gerecht."
+        }
+      ],
+      "wine": {
+        "naam": "Moscato d'Asti DOCG — Piemonte, Italië",
+        "druif": "Moscato Bianco",
+        "toelichting": "Lichte zoetheid spiegelt de vanilleroom; frisse mousse snijdt door room en bladerdeeg. Lage alcohol houdt het licht en zomers. Serveer op 6–8°C.",
+        "alternatief": "Champagne Demi-Sec of Prosecco Superiore (€8–15)"
+      },
+      "metadata": {
+        "bereidingstijd": "45 min + 2 uur koelen",
+        "porties": "6 tompouces",
+        "type_gerecht": "Dessert / gebak",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 174,
+      "full_title_docx": "174. DE PERFECTE TOMPOUCE — HEMA-STIJL MET DIKKE VANILLEROOM, ROZE GLAZUUR EN SLAGROOM"
+    },
+    {
+      "title": "Sushi-Kokertje met Tonijn, Gember en Wasabi",
+      "slug": "sushi-kokertje-tonijn-gember-wasabi",
+      "location": "Japan / modernistisch",
+      "time": "60 min + 30 min rijst afkoelen",
+      "servings": "4 amuse-porties (3 kokertjes per persoon)",
+      "difficulty": "Gevorderd",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/sushi-kokertje-tonijn-gember-wasabi.jpg",
+      "short_description": "Modernistische gunkan-zushi: verticale nori-kokertjes met sushirijst, fluweelzachte tonijn-vulling met verse gember en wasabi, komkommer-julienne en zwart-witte sesam — drie per persoon, te eten als bonbons.",
+      "description": "Een verfijnde modernistische gunkan-zushi in delicate vorm. Een klein verticaal kokertje van noriblad — 2,5cm doorsnede, 3cm hoog — met onderaan met de hand gevormde sushirijst en daarboven een fluweelzachte tonijn-vulling met verse gember, een hint wasabi en Japanse mayonaise. Gekroond door slierten komkommer-julienne, zwart-witte sesam en bieslook. Drie per persoon, op een klein donker plankje, te eten als bonbons — geconcentreerd, gelaagd, fris-pittig. Het thuis-blik dat we allemaal in de voorraadkast hebben staan, opgetild naar amuse-niveau door precisie en techniek.",
+      "full_intro": "Een verfijnde modernistische gunkan-zushi in delicate vorm. Een klein verticaal kokertje van noriblad — 2,5cm doorsnede, 3cm hoog — met onderaan met de hand gevormde sushirijst en daarboven een fluweelzachte tonijn-vulling met verse gember, een hint wasabi en Japanse mayonaise. Gekroond door slierten komkommer-julienne, zwart-witte sesam en bieslook. Drie per persoon, op een klein donker plankje, te eten als bonbons — geconcentreerd, gelaagd, fris-pittig.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de sushirijst",
+          "ingredients": [
+            {
+              "name": "sushirijst (Koshihikari of vergelijkbaar)",
+              "amount": "100g"
+            },
+            {
+              "name": "water",
+              "amount": "135ml"
+            },
+            {
+              "name": "rijstwijnazijn",
+              "amount": "1½ el"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tonijn-vulling",
+          "ingredients": [
+            {
+              "name": "blik tonijn in olijfolie (Rio Mare, Callipo of Ortiz), ca. 150–160g netto",
+              "amount": "1"
+            },
+            {
+              "name": "Japanse Kewpie-mayonaise",
+              "amount": "1 el"
+            },
+            {
+              "name": "wasabi-pasta (S&B)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "verse gember, zeer fijn geraspt (microplane)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "komkommer in fijne julienne (3mm dik, 2cm lang) — helft in vulling, helft garnering",
+              "amount": "¼"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de noribanden",
+          "ingredients": [
+            {
+              "name": "noribladen van goede kwaliteit (Yamamotoyama)",
+              "amount": "3"
+            },
+            {
+              "name": "mirin (om nori soepel te maken en naad te plakken)",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "zwarte sesamzaadjes",
+              "amount": "2 tl"
+            },
+            {
+              "name": "witte sesamzaadjes",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zeer fijngeknipte bieslook",
+              "amount": "1 el"
+            },
+            {
+              "name": "minuscule blaadjes gari (ingelegde sushigember), optioneel",
+              "amount": "12"
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de sushirijst",
+          "ingredients": [
+            "100g sushirijst (Japanse korte korrelrijst, Koshihikari of vergelijkbaar)",
+            "135ml water",
+            "1½ el rijstwijnazijn",
+            "1 el fijne kristalsuiker",
+            "½ tl fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de tonijn-vulling",
+          "ingredients": [
+            "1 blik tonijn in olijfolie ca. 150–160g netto (Rio Mare, Tonno Callipo Classico of Ortiz)",
+            "1 el Japanse Kewpie-mayonaise",
+            "¼ tl wasabi-pasta — delicaat, moet alleen onderhuids prikkelen",
+            "1 tl zeer fijn geraspte verse gember (microplane-rasp)",
+            "½ tl vers limoensap",
+            "¼ komkommer in zeer fijne julienne (3mm dik, 2cm lang) — helft in vulling, helft garnering"
+          ]
+        },
+        {
+          "group_name": "Voor de noribanden",
+          "ingredients": [
+            "3 noribladen van goede kwaliteit (Yamamotoyama of Japanse delicatessenwinkel)",
+            "½ tl mirin (om nori soepel te maken en naad te plakken)"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "2 tl zwarte sesamzaadjes",
+            "1 tl witte sesamzaadjes",
+            "1 el zeer fijngeknipte bieslook",
+            "12 minuscule blaadjes gari (ingelegde sushigember), optioneel"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Sushirijst spoelen en koken",
+          "description": "Spoel de sushirijst in een fijne zeef onder koud stromend water tot het water bijna helder is — 5 tot 6 keer omspoelen. Laat 15 minuten uitlekken. Doe de uitgelekte rijst met 135ml water in een steelpan met dikke bodem. Breng aan de kook, draai op laagst, dek af en gaar 12 minuten zonder de deksel op te tillen. Haal van het vuur, laat 10 minuten stomen met deksel erop — niet kijken, niet roeren."
+        },
+        {
+          "number": 2,
+          "action": "Sushirijst op smaak brengen en temperen",
+          "description": "Roer de rijstwijnazijn, suiker en zout door elkaar tot opgelost. Schep de hete rijst over in een vlakke schaal. Sprenkel het azijnmengsel erover en spatel met een houten lepel voorzichtig door — snijdende bewegingen, niet roeren. Wuif intussen om snel te koelen en de glans te ontwikkelen. Dek af met een vochtige theedoek en laat afkoelen tot kamertemperatuur. Niet in de koelkast."
+        },
+        {
+          "number": 3,
+          "action": "Tonijn-vulling maken",
+          "description": "Giet het blik tonijn af in een fijne zeef en druk lichtjes uit. Breek de tonijn met een vork in fijne vlokken. Meng met de Kewpie-mayonaise, wasabi, geraspte gember en limoensap. Voeg de helft van de komkommer-julienne toe. De vulling moet dichter zijn dan een tonijnsalade — eerder een fijn vleessmeersel. Proef: wasabi mag licht prikkelen, gember mag fris herkenbaar zijn, niets mag overheersen."
+        },
+        {
+          "number": 4,
+          "action": "Noribanden knippen en rijstcilinders vormen",
+          "description": "Snijd elk noriblad met een schaar in stroken van 3cm hoog × 8,5cm lang. Strijk met een penseeltje een dun laagje mirin aan één uiteinde (laatste 1cm) — dit wordt de naad-plakzone. Bevochtig je vingers met koud water. Schep circa 8g sushirijst in je handpalm en rol tot een cilindertje van 2,5cm doorsnede × 1,5cm hoog. Zachte druk — sushirijst houdt zichzelf bij elkaar. Herhaal voor alle 12."
+        },
+        {
+          "number": 5,
+          "action": "Kokertjes assembleren en garneren",
+          "description": "Wikkel een noristrook strak om een rijstcilinder met de mirin-naad als afsluiting aan de achterkant. De nori steekt 1,5cm boven de rijst uit. Lepel circa 8–10g tonijn-vulling in het bovenste deel van elk kokertje. Bouw een klein bol dakje dat 2 à 3mm boven de norirand uitsteekt. Verdeel de overgebleven komkommer-julienne in 12 mini-bosjes en plaats op elk kokertje. Strooi zwarte en witte sesam rondom. Voeg bieslookpuntjes toe. Eventueel één blaadje gari als accent. Serveer direct op een donker plankje — drie per persoon in een driehoekje of strakke rij."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Sushirijst spoelen en koken",
+          "description": "Spoel de sushirijst in een fijne zeef onder koud stromend water tot het water bijna helder is — 5 tot 6 keer omspoelen. Laat 15 minuten uitlekken. Doe de uitgelekte rijst met 135ml water in een steelpan met dikke bodem. Breng aan de kook, draai op laagst, dek af en gaar 12 minuten zonder de deksel op te tillen. Haal van het vuur, laat 10 minuten stomen met deksel erop — niet kijken, niet roeren."
+        },
+        {
+          "number": 2,
+          "section": "Sushirijst op smaak brengen en temperen",
+          "description": "Roer de rijstwijnazijn, suiker en zout door elkaar tot opgelost. Schep de hete rijst over in een vlakke schaal. Sprenkel het azijnmengsel erover en spatel met een houten lepel voorzichtig door — snijdende bewegingen, niet roeren. Wuif intussen om snel te koelen en de glans te ontwikkelen. Dek af met een vochtige theedoek en laat afkoelen tot kamertemperatuur. Niet in de koelkast."
+        },
+        {
+          "number": 3,
+          "section": "Tonijn-vulling maken",
+          "description": "Giet het blik tonijn af in een fijne zeef en druk lichtjes uit. Breek de tonijn met een vork in fijne vlokken. Meng met de Kewpie-mayonaise, wasabi, geraspte gember en limoensap. Voeg de helft van de komkommer-julienne toe. De vulling moet dichter zijn dan een tonijnsalade — eerder een fijn vleessmeersel. Proef: wasabi mag licht prikkelen, gember mag fris herkenbaar zijn, niets mag overheersen."
+        },
+        {
+          "number": 4,
+          "section": "Noribanden knippen en rijstcilinders vormen",
+          "description": "Snijd elk noriblad met een schaar in stroken van 3cm hoog × 8,5cm lang. Strijk met een penseeltje een dun laagje mirin aan één uiteinde (laatste 1cm) — dit wordt de naad-plakzone. Bevochtig je vingers met koud water. Schep circa 8g sushirijst in je handpalm en rol tot een cilindertje van 2,5cm doorsnede × 1,5cm hoog. Zachte druk — sushirijst houdt zichzelf bij elkaar. Herhaal voor alle 12."
+        },
+        {
+          "number": 5,
+          "section": "Kokertjes assembleren en garneren",
+          "description": "Wikkel een noristrook strak om een rijstcilinder met de mirin-naad als afsluiting aan de achterkant. De nori steekt 1,5cm boven de rijst uit. Lepel circa 8–10g tonijn-vulling in het bovenste deel van elk kokertje. Bouw een klein bol dakje dat 2 à 3mm boven de norirand uitsteekt. Verdeel de overgebleven komkommer-julienne in 12 mini-bosjes en plaats op elk kokertje. Strooi zwarte en witte sesam rondom. Voeg bieslookpuntjes toe. Eventueel één blaadje gari als accent. Serveer direct op een donker plankje — drie per persoon in een driehoekje of strakke rij."
+        }
+      ],
+      "tips": [
+        "Goede kwaliteit blik-tonijn is belangrijker dan je denkt: kies tonijn in olijfolie, geen water. Rio Mare, Callipo of Ortiz. Goedkope huismerk-tonijn in water geeft een vlakke droge smaak — de tonijn moet vlezig en glanzend zijn uit het blik.",
+        "Voor extra luxe — Cantabrische ventresca: vervang de gewone blik door Ortiz Bonito del Norte of Don Bocarte (€15–25). Fluweelzacht buikvlees van witte tonijn. Selecteer intacte vlokken als kroon op het kokertje in plaats van komkommer-julienne.",
+        "Wasabi is een verfraaiing, geen smaakmaker: ¼ tl op een hele tonijnvulling is genoeg — moet alleen onderhuids prikkelen. Bij twijfel: minder. Kies S&B wasabi-pasta.",
+        "Verse gember, geen poeder: gebruik een microplane-rasp voor een frisse citroenachtige peper-aroma. Gemberpoeder is te aards-droog, gemberolie te dominant.",
+        "Cilinders met natte handen — sushi-chef-techniek: kommetje koud water bij de hand, vingers bevochtigen tussen elk cilindertje. Zachte druk — te hard wordt brei. De eerste twee zijn nooit perfect, vanaf de derde vindt je hand het ritme.",
+        "De vulling moet dichter zijn dan een tonijnsalade: slechts 1 el mayo voor 150g tonijn. Eerder droger dan natter — bij naar omhoog werken vloeit nat altijd uit.",
+        "Noriband instrijken met mirin: droge nori plakt niet. Mirin maakt hem kleverig én geeft zijdeglans. Werkt beter dan water als plakmiddel.",
+        "Direct-serveer-gerecht: rijst en vulling kunnen vooraf, maar kokertjes assembleren pas binnen 10 minuten van serveren. Na 10 minuten verzacht de nori en verliest het gerecht zijn knapperigheid.",
+        "Forelkuit als luxe-optie: 4 of 5 roze-oranje pareltjes forelkuit op de top in plaats van komkommer. Geeft kleur, zilte spanning en blijft betaalbaar (€15–25 per pot bij Sligro of Hanos).",
+        "Kewpie-mayonaise is geen smaakvoorkeur maar techniek: hogere zuurte en diepere ei-smaak dan Nederlandse mayo. Toko of online. Hellmann's is te zoet en te vlak."
+      ],
+      "tips_full": [
+        "Goede kwaliteit blik-tonijn is belangrijker dan je denkt: kies tonijn in olijfolie, geen water. Rio Mare, Callipo of Ortiz. Goedkope huismerk-tonijn in water geeft een vlakke droge smaak — de tonijn moet vlezig en glanzend zijn uit het blik.",
+        "Voor extra luxe — Cantabrische ventresca: vervang de gewone blik door Ortiz Bonito del Norte of Don Bocarte (€15–25). Fluweelzacht buikvlees van witte tonijn. Selecteer intacte vlokken als kroon op het kokertje in plaats van komkommer-julienne.",
+        "Wasabi is een verfraaiing, geen smaakmaker: ¼ tl op een hele tonijnvulling is genoeg — moet alleen onderhuids prikkelen. Bij twijfel: minder. Kies S&B wasabi-pasta.",
+        "Verse gember, geen poeder: gebruik een microplane-rasp voor een frisse citroenachtige peper-aroma. Gemberpoeder is te aards-droog, gemberolie te dominant.",
+        "Cilinders met natte handen — sushi-chef-techniek: kommetje koud water bij de hand, vingers bevochtigen tussen elk cilindertje. Zachte druk — te hard wordt brei. De eerste twee zijn nooit perfect, vanaf de derde vindt je hand het ritme.",
+        "De vulling moet dichter zijn dan een tonijnsalade: slechts 1 el mayo voor 150g tonijn. Eerder droger dan natter — bij naar omhoog werken vloeit nat altijd uit.",
+        "Noriband instrijken met mirin: droge nori plakt niet. Mirin maakt hem kleverig én geeft zijdeglans. Werkt beter dan water als plakmiddel.",
+        "Direct-serveer-gerecht: rijst en vulling kunnen vooraf, maar kokertjes assembleren pas binnen 10 minuten van serveren. Na 10 minuten verzacht de nori en verliest het gerecht zijn knapperigheid.",
+        "Forelkuit als luxe-optie: 4 of 5 roze-oranje pareltjes forelkuit op de top in plaats van komkommer. Geeft kleur, zilte spanning en blijft betaalbaar (€15–25 per pot bij Sligro of Hanos).",
+        "Kewpie-mayonaise is geen smaakvoorkeur maar techniek: hogere zuurte en diepere ei-smaak dan Nederlandse mayo. Toko of online. Hellmann's is te zoet en te vlak."
+      ],
+      "opmaak_presentatie": "Kleine donkere plankjes (zwart leisteen, donker hout). Drie kokertjes per persoon verticaal — in een driehoekje of strakke rij, nooit liggend. Negatieve ruimte rondom essentieel. Bovenkant van elk kokertje is het visuele middelpunt: bol dakje tonijn-vulling, komkommer-julienne, zwart-witte sesam, bieslook, eventueel gari. Direct serveren — nori verzacht na 10 minuten.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Blanc de Blancs Brut — Champagne, Frankrijk",
+          "druif": "Chardonnay (100%)",
+          "smaakprofiel": "Droog, groene appel, citrusrasp, witte bloemen, brioche, krijt en zilte zeebries. Fijne mousse, hoge zuren, kraakheldere mineraliteit.",
+          "omschrijving": "Champagne van uitsluitend Chardonnay uit de Côte des Blancs. Pierre Péters of Henri Giraud Esprit zijn archetypes. Serveer bij 8–10°C in tulpglazen.",
+          "waarom_werkt_dit": "Dit gerecht heeft drie smaaklagen die elk een eigen wijnpartner vragen: de zilte nori, de umami-rijke tonijn en de fris-pittige wasabi-gember. Blanc de Blancs Champagne geeft alle drie tegelijk — de krijt-mineraliteit echoot de nori, de citrus-zuren vinden de wasabi-prik zonder hem te overstemmen, de brioche-toets verbindt met de tonijn. De fijne mousse tilt de delicate structuur van het kokertje op zonder zwaar te worden. De klassieke pairing van Champagne en sushi op zijn meest verfijnde niveau."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Albariño Rías Baixas — Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, witte perzik, limoen, witte bloemen, lichte ziltigheid en mineraliteit. Hoge zuren, slank mondgevoel, sappige finale.",
+          "omschrijving": "De klassieke witte van Galicië aan de Spaanse Atlantische kust. Pazo de Señorans of Do Ferreiro zijn archetypes. Jong, fris en niet houtgerijpt. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Albariño heeft van nature een zilte, oceanische ondertoon die direct aansluit bij de nori en de tonijn. De limoen- en groene appel-tonen verbinden met het limoensap in de vulling en de wasabi-prik; de hoge zuren snijden door de Kewpie-mayo. Iets fruitiger en toegankelijker dan Champagne maar gastronomisch even raak."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Junmai Sake — Japan",
+          "druif": "Geen druif — gepolijste rijst met koji en gist",
+          "smaakprofiel": "Droog tot half-droog, gestoomde rijst, peer, witte bloemen, lichte umami. Zachte zuren, vol mondgevoel. Alcohol ca. 15%.",
+          "omschrijving": "Sho Chiku Bai, Hakushika of Tyku Junmai. Breed verkrijgbaar in slijterijen. Reken op €10–18. Serveer gekoeld bij 8–12°C in een klein wijnglas.",
+          "waarom_werkt_dit": "Sake bij sushirijst en nori is de eeuwen-oude Japanse pairing. Junmai's umami-rijke karakter vindt de tonijn en nori in een natuurlijke aroma-spiegel; de gestoomde-rijst-tonen verbinden met de shari onderin het kokertje. Waar wijn contrasteert sluit sake naadloos aan — coherentie in plaats van contrast."
+        }
+      ],
+      "wine": {
+        "naam": "Champagne Blanc de Blancs Brut — Champagne, Frankrijk",
+        "druif": "Chardonnay (100%)",
+        "toelichting": "De krijt-mineraliteit echoot de nori, citrus-zuren vinden de wasabi-prik, brioche verbindt met de tonijn. Fijne mousse tilt het delicate kokertje op. Serveer op 8–10°C.",
+        "alternatief": "Albariño Rías Baixas of Junmai Sake (€10–18, breed verkrijgbaar)"
+      },
+      "metadata": {
+        "bereidingstijd": "60 min + 30 min rijst afkoelen",
+        "porties": "4 amuse-porties (3 kokertjes per persoon)",
+        "type_gerecht": "Amuse / luxe voorgerecht",
+        "niveau": "Gevorderd"
+      },
+      "source_recipe_number": 175,
+      "full_title_docx": "175. SUSHI-KOKERTJE MET TONIJN, GEMBER EN WASABI"
     }
   ]
 }
