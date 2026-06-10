@@ -306,20 +306,10 @@
         document.getElementById('rvdd-link').href = '/recepten/' + r.slug + '/';
       }
       // Wacht tot allRecipes geladen is
-      var interval = setInterval(function(){
-        if(window.allRecipes && window.allRecipes.length){
-          clearInterval(interval);
-          initRvdd(window.allRecipes);
-        }
-      }, 200);
-      // Fallback na 3 seconden via fetch
-      setTimeout(function(){
-        if(!window.allRecipes || !window.allRecipes.length){
-          fetch('/data/recipes.json')
-            .then(function(r){return r.json();})
-            .then(function(data){initRvdd(data.recipes);});
-        }
-      }, 3000);
+      // Direct laden via fetch — geen wachten op allRecipes
+      fetch('/data/recipes.json')
+        .then(function(r){return r.json();})
+        .then(function(data){initRvdd(data.recipes);});
     })();
   </script>
   <!-- Einde recept van de dag -->
@@ -840,8 +830,8 @@ ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
       if (cards.length >= 3) {
         const newsletterDiv = document.createElement('div');
         newsletterDiv.innerHTML = `<div style="grid-column:1/-1;background:#2B1A0D;padding:40px 44px;text-align:center;border-radius:4px;margin:8px 0;">
-      <p style="font-family:'Playfair Display',serif;font-size:20px;color:#F3EDE1;margin:0 0 6px;letter-spacing:1px;">Nieuw recept in je inbox?</p>
-      <p style="font-size:13px;color:rgba(243,237,225,0.6);margin:0 0 20px;">Ontvang elk nieuw recept direct. Geen reclame, geen gedoe.</p>
+      <p style="font-family:'Playfair Display',serif;font-size:20px;color:#F3EDE1;margin:0 0 6px;letter-spacing:1px;">Nieuw Wil jij elk nieuwste recept als eerste?</p>
+      <p style="font-size:13px;color:rgba(243,237,225,0.6);margin:0 0 20px;">Elke week één gerecht — met techniek, wijnadvies en de obsessie die erbij hoort.</p>
       <form action="https://hetproeven.us14.list-manage.com/subscribe/post?u=66783d7de4f083c6e26856f4d&amp;id=60525c9392&amp;f_id=00192ae1f0" method="post" target="_blank" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
         <input type="email" name="EMAIL" placeholder="jouw@email.nl" required style="padding:12px 18px;font-size:14px;border:none;border-radius:4px;width:260px;background:#F3EDE1;color:#2B1A0D;outline:none;">
         <div style="position:absolute;left:-5000px;" aria-hidden="true"><input type="text" name="b_66783d7de4f083c6e26856f4d_60525c9392" tabindex="-1" value=""></div>
