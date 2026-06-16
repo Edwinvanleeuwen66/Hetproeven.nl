@@ -60511,6 +60511,1159 @@
       },
       "source_recipe_number": 177,
       "full_title_docx": "177. OSSENHAAS REVERSE SEAR MET PADDENSTOELENJUS EN POMMES ANNA"
+    },
+    {
+      "title": "Saté-Boter met Warm Platbrood, Komkommerzuur en Krokante Uitjes",
+      "slug": "sate-boter-warm-platbrood-komkommerzuur-krokante-uitjes",
+      "location": "Indonesisch / Indo-Nederlands",
+      "time": "45 min + 20 min rust",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/sate-boter-warm-platbrood-komkommerzuur-krokante-uitjes.jpg",
+      "short_description": "Huisgemaakte saté-boter van zelfgeroosterde pinda's, ketjap manis, palmsuiker en limoenblad — geserveerd met vers gebakken mini-platbroodjes, fris komkommerzuur en zelfgemaakte krokante sjalotjes. Borrelhap-de-luxe die een diner opent.",
+      "description": "Een eerbetoon aan de Indo-Nederlandse traditie in zijn meest verfijnde vorm. Een royale veeg huisgemaakte saté-boter — fluweelzacht, van zelfgeroosterde pinda's, sjalot, ketjap manis, palmsuiker, tamarinde en limoenblad — geserveerd met vers in de pan gebakken mini-platbroodjes, fris komkommerzuur en zelfgemaakte krokante sjalotjes. Gast doopt het warme brood door de smeltende boter, voegt een krul pickle toe en bijt door de crunch. Wat op straat naar een snackbar ruikt, wordt hier de verfijnde borrelhap die een diner opent — eerlijk, gelaagd, gastvrij.",
+      "full_intro": "Een eerbetoon aan de Indo-Nederlandse traditie in zijn meest verfijnde vorm. Een royale veeg huisgemaakte saté-boter van zelfgeroosterde pinda's, sjalot, ketjap manis, palmsuiker, tamarinde en limoenblad — met vers gebakken mini-platbroodjes, fris komkommerzuur en zelfgemaakte krokante sjalotjes. Wat op straat naar een snackbar ruikt, wordt hier de verfijnde borrelhap die een diner opent.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de saté-boter (compound butter, ca. 225g)",
+          "ingredients": [
+            {
+              "name": "rauwe ongezouten pinda's",
+              "amount": "100g"
+            },
+            {
+              "name": "ongezouten roomboter, op kamertemperatuur",
+              "amount": "125g"
+            },
+            {
+              "name": "middelgrote sjalot, zeer fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "kleine teen knoflook, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "½ tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1 el"
+            },
+            {
+              "name": "palmsuiker (geraspt) of bruine basterdsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "tamarinde-pasta",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rasp van ½ limoen",
+              "amount": ""
+            },
+            {
+              "name": "verse limoenblaadjes, zeer fijn gehakt (of 3 gedroogde)",
+              "amount": "2"
+            },
+            {
+              "name": "plantaardige olie om in te bakken",
+              "amount": "1 el"
+            },
+            {
+              "name": "snufje fijn zeezout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de mini-platbroodjes (4 stuks van ca. 10cm)",
+          "ingredients": [
+            {
+              "name": "bloem voor witbrood (Type 405)",
+              "amount": "150g"
+            },
+            {
+              "name": "volle Griekse yoghurt",
+              "amount": "75g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "bakpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "lauwwarm water (naar behoefte)",
+              "amount": "2–3 el"
+            },
+            {
+              "name": "boter voor het bakken",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het komkommerzuur (snel-pickle)",
+          "ingredients": [
+            {
+              "name": "komkommer (Hollandse kasvariëteit), in lintjes of dunne halve maantjes",
+              "amount": "½"
+            },
+            {
+              "name": "rijstwijnazijn",
+              "amount": "3 el"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers limoenblad",
+              "amount": "1"
+            },
+            {
+              "name": "rode peper in flinterdunne ringen (optioneel)",
+              "amount": "½"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de krokante uitjes",
+          "ingredients": [
+            {
+              "name": "middelgrote sjalotten, in flinterdunne ringen op mandoline (ca. 1mm)",
+              "amount": "3"
+            },
+            {
+              "name": "zonnebloem- of arachide-olie om te frituren",
+              "amount": "300ml"
+            },
+            {
+              "name": "snufje fijn zeezout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterde pinda's, grof gehakt (apart van de saté-boter)",
+              "amount": "1 el"
+            },
+            {
+              "name": "kleine korianderblaadjes",
+              "amount": ""
+            },
+            {
+              "name": "rasp van ½ limoen",
+              "amount": ""
+            },
+            {
+              "name": "ketjap manis voor glans (optioneel)",
+              "amount": ""
+            },
+            {
+              "name": "vers limoenblad in zeer fijne julienne (optioneel)",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de saté-boter",
+          "ingredients": [
+            "100g rauwe ongezouten pinda's",
+            "125g ongezouten roomboter op kamertemperatuur",
+            "1 middelgrote sjalot zeer fijn gehakt",
+            "1 kleine teen knoflook fijn geraspt",
+            "½ tl verse gember fijn geraspt",
+            "½ tl sambal oelek",
+            "1 el ketjap manis",
+            "1 tl palmsuiker (geraspt) of bruine basterdsuiker",
+            "½ tl tamarinde-pasta",
+            "1 tl vers limoensap",
+            "Rasp van ½ limoen",
+            "2 verse limoenblaadjes zeer fijn gehakt (of 3 gedroogde)",
+            "1 el plantaardige olie",
+            "Snufje fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de mini-platbroodjes",
+          "ingredients": [
+            "150g bloem voor witbrood",
+            "75g volle Griekse yoghurt",
+            "1 el olijfolie",
+            "½ tl bakpoeder",
+            "½ tl fijn zeezout",
+            "½ tl fijne kristalsuiker",
+            "2–3 el lauwwarm water",
+            "1 el boter voor het bakken"
+          ]
+        },
+        {
+          "group_name": "Voor het komkommerzuur",
+          "ingredients": [
+            "½ komkommer in lintjes of dunne halve maantjes",
+            "3 el rijstwijnazijn",
+            "1 el fijne kristalsuiker",
+            "½ tl fijn zeezout",
+            "1 tl vers limoensap",
+            "1 vers limoenblad",
+            "½ rode peper in flinterdunne ringen (optioneel)"
+          ]
+        },
+        {
+          "group_name": "Voor de krokante uitjes",
+          "ingredients": [
+            "3 middelgrote sjalotten in flinterdunne ringen op mandoline",
+            "300ml zonnebloem- of arachide-olie",
+            "Snufje fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "1 el geroosterde pinda's grof gehakt",
+            "Kleine korianderblaadjes",
+            "Rasp van ½ limoen",
+            "Ketjap manis voor glans (optioneel)",
+            "1 vers limoenblad in zeer fijne julienne (optioneel)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Komkommerzuur maken (15–30 min vooraf)",
+          "description": "Roer rijstwijnazijn, suiker, zout en limoensap in een schaaltje tot opgelost. Voeg het limoenblad toe en laat 2 minuten infuseren. Trek met een dunschiller of mandoline lange flinterdunne lintjes van de halve komkommer, of snijd in zeer dunne halve maantjes — stop bij de zaadkern. Voeg eventueel de rode peper toe. Druk de komkommer zachtjes onder de vloeistof. Laat 15 tot 30 minuten marineren op kamertemperatuur. Niet langer — anders wordt de komkommer slap."
+        },
+        {
+          "number": 2,
+          "action": "Krokante uitjes maken (kan een week vooraf)",
+          "description": "Leg de flinterdunne sjalotringen 15 minuten op keukenpapier en dep grondig droog. Verhit de olie in een klein pannetje tot 160°C. Voeg sjalotringen in 2 of 3 porties toe en frituur al roerend 3 à 4 minuten tot lichtgoudbruin — let op: ze worden donker na koeling, haal ze net voor de gewenste eindkleur uit de olie. Schep met een schuimspaan op keukenpapier en strooi direct een snufje zout erover. Volledig laten afkoelen. Blijven tot een week krokant in een luchtdichte doos."
+        },
+        {
+          "number": 3,
+          "action": "Pinda's roosteren",
+          "description": "Verhit een droge pan op middelhoog vuur. Voeg de 100 g pinda's toe en rooster 6 à 8 minuten al schuddend tot gelijkmatig goudbruin en heerlijk geurig. Houd 1 eetlepel pinda's apart voor de afwerking. Laat de rest afkoelen."
+        },
+        {
+          "number": 4,
+          "action": "Aromaten fruiten en saté-pasta mixen",
+          "description": "Verhit de olie in een klein pannetje op middelhoog vuur. Fruit de sjalot 2 à 3 minuten tot zacht en doorzichtig. Voeg knoflook, gember en sambal toe en bak nog 1 minuut tot geurig — niet bruinen. Haal van het vuur en laat lichtjes afkoelen. Doe de geroosterde pinda's (90 g) in een hakmolen en mix tot grove kruimels — niet tot pasta. Voeg het sjalot-mengsel, ketjap manis, palmsuiker, tamarinde-pasta, limoensap en limoenrasp toe. Mix tot een dichte, grove pasta met karakter — mag iets korrelig blijven."
+        },
+        {
+          "number": 5,
+          "action": "Compound butter maken en laten rusten",
+          "description": "Laat de saté-pasta volledig afkoelen tot kamertemperatuur. Klop de zachte boter met een mixer of garde licht en romig. Spatel de saté-pasta er in drie delen door tot homogeen. Roer ten slotte de fijngehakte limoenblaadjes erdoor. De boter moet smeerbaar en zacht zijn, naar saté ruiken, met zichtbare pinda-stukjes — geen gladde mayonaise-textuur. Dek af en zet 30 minuten in de koelkast. Haal 30 minuten vóór serveren eruit voor smeerbaarheid."
+        },
+        {
+          "number": 6,
+          "action": "Mini-platbroodjes maken",
+          "description": "Meng bloem, bakpoeder, zout en suiker. Voeg yoghurt en olijfolie toe en kneed lichtjes. Voeg water lepel voor lepel toe tot een zacht, soepel deeg — niet plakkerig. Kneed 2 minuten tot glad. Dek af met een vochtige theedoek en laat 20 minuten rusten. Verdeel in 4 gelijke stukken en rol elk uit tot een ronde van 10 cm doorsnede en 3 mm dik. Verhit een koekenpan op middelhoog vuur zonder olie. Bak elk broodje 1 à 2 minuten per zijde tot lichtgouden blaartjes. Voeg tegen het einde een klontje boter toe. Stapel de broodjes onder een vochtige theedoek — bak en serveer binnen 5 minuten."
+        },
+        {
+          "number": 7,
+          "action": "Plating en serveren",
+          "description": "Lepel per persoon een royale dot saté-boter op een klein donker bord. Strijk met de bolle kant van een lepel uit tot een mooie veeg — bobbelig, niet glad. Schep komkommerlintjes (eerst uitlekken op keukenpapier) en drapeer deels op de boter, deels naast — met hoogte en beweging. Strooi een royale eetlepel krokante sjalot en gehakte pinda's deels op de boter, deels los. Scheur de warme platbroodjes in 3 of 4 grove stukken en leg direct naast de saté-boter. Plaats 4 à 5 korianderblaadjes individueel, voeg een fijne rasp limoen toe boven het hele bord. Optioneel: één of twee druppels ketjap manis op de saté-boter voor extra glans. Direct serveren — gast doopt het warme brood door de smeltende boter."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Komkommerzuur maken (15–30 min vooraf)",
+          "description": "Roer rijstwijnazijn, suiker, zout en limoensap in een schaaltje tot opgelost. Voeg het limoenblad toe en laat 2 minuten infuseren. Trek met een dunschiller of mandoline lange flinterdunne lintjes van de halve komkommer, of snijd in zeer dunne halve maantjes — stop bij de zaadkern. Voeg eventueel de rode peper toe. Druk de komkommer zachtjes onder de vloeistof. Laat 15 tot 30 minuten marineren op kamertemperatuur. Niet langer — anders wordt de komkommer slap."
+        },
+        {
+          "number": 2,
+          "section": "Krokante uitjes maken (kan een week vooraf)",
+          "description": "Leg de flinterdunne sjalotringen 15 minuten op keukenpapier en dep grondig droog. Verhit de olie in een klein pannetje tot 160°C. Voeg sjalotringen in 2 of 3 porties toe en frituur al roerend 3 à 4 minuten tot lichtgoudbruin — let op: ze worden donker na koeling, haal ze net voor de gewenste eindkleur uit de olie. Schep met een schuimspaan op keukenpapier en strooi direct een snufje zout erover. Volledig laten afkoelen. Blijven tot een week krokant in een luchtdichte doos."
+        },
+        {
+          "number": 3,
+          "section": "Pinda's roosteren",
+          "description": "Verhit een droge pan op middelhoog vuur. Voeg de 100 g pinda's toe en rooster 6 à 8 minuten al schuddend tot gelijkmatig goudbruin en heerlijk geurig. Houd 1 eetlepel pinda's apart voor de afwerking. Laat de rest afkoelen."
+        },
+        {
+          "number": 4,
+          "section": "Aromaten fruiten en saté-pasta mixen",
+          "description": "Verhit de olie in een klein pannetje op middelhoog vuur. Fruit de sjalot 2 à 3 minuten tot zacht en doorzichtig. Voeg knoflook, gember en sambal toe en bak nog 1 minuut tot geurig — niet bruinen. Haal van het vuur en laat lichtjes afkoelen. Doe de geroosterde pinda's (90 g) in een hakmolen en mix tot grove kruimels — niet tot pasta. Voeg het sjalot-mengsel, ketjap manis, palmsuiker, tamarinde-pasta, limoensap en limoenrasp toe. Mix tot een dichte, grove pasta met karakter — mag iets korrelig blijven."
+        },
+        {
+          "number": 5,
+          "section": "Compound butter maken en laten rusten",
+          "description": "Laat de saté-pasta volledig afkoelen tot kamertemperatuur. Klop de zachte boter met een mixer of garde licht en romig. Spatel de saté-pasta er in drie delen door tot homogeen. Roer ten slotte de fijngehakte limoenblaadjes erdoor. De boter moet smeerbaar en zacht zijn, naar saté ruiken, met zichtbare pinda-stukjes — geen gladde mayonaise-textuur. Dek af en zet 30 minuten in de koelkast. Haal 30 minuten vóór serveren eruit voor smeerbaarheid."
+        },
+        {
+          "number": 6,
+          "section": "Mini-platbroodjes maken",
+          "description": "Meng bloem, bakpoeder, zout en suiker. Voeg yoghurt en olijfolie toe en kneed lichtjes. Voeg water lepel voor lepel toe tot een zacht, soepel deeg — niet plakkerig. Kneed 2 minuten tot glad. Dek af met een vochtige theedoek en laat 20 minuten rusten. Verdeel in 4 gelijke stukken en rol elk uit tot een ronde van 10 cm doorsnede en 3 mm dik. Verhit een koekenpan op middelhoog vuur zonder olie. Bak elk broodje 1 à 2 minuten per zijde tot lichtgouden blaartjes. Voeg tegen het einde een klontje boter toe. Stapel de broodjes onder een vochtige theedoek — bak en serveer binnen 5 minuten."
+        },
+        {
+          "number": 7,
+          "section": "Plating en serveren",
+          "description": "Lepel per persoon een royale dot saté-boter op een klein donker bord. Strijk met de bolle kant van een lepel uit tot een mooie veeg — bobbelig, niet glad. Schep komkommerlintjes (eerst uitlekken op keukenpapier) en drapeer deels op de boter, deels naast — met hoogte en beweging. Strooi een royale eetlepel krokante sjalot en gehakte pinda's deels op de boter, deels los. Scheur de warme platbroodjes in 3 of 4 grove stukken en leg direct naast de saté-boter. Plaats 4 à 5 korianderblaadjes individueel, voeg een fijne rasp limoen toe boven het hele bord. Optioneel: één of twee druppels ketjap manis op de saté-boter voor extra glans. Direct serveren — gast doopt het warme brood door de smeltende boter."
+        }
+      ],
+      "tips": [
+        "Pinda's zelf roosteren is geen detail: rauwe ongezouten pinda's geroosterd in een droge pan tot diepgoudbruin geven exponentieel meer aroma dan pindakaas of voorgeroosterde pinda's. Dit is voor 50% het verschil tussen huis-saté-boter en restaurant-saté-boter.",
+        "Snelroute met pindakaas: vervang de 90g geroosterde pinda's door 3 à 4 el naturel pindakaas van goede kwaliteit (100% pinda, Calvé of Hak Naturel) en meng direct met de aromaten. Resultaat is 75% van de zelfgeroosterde versie.",
+        "Compound butter minimaal 30 min van tevoren maken, liefst 24 uur: de aroma's van limoenblad, ketjap en pinda hebben tijd nodig om in de boter te trekken. Een verse boter smaakt los; een nacht in de koelkast smaakt geïntegreerd.",
+        "Krokante uitjes zelf maken versus supermarkt: Albert Heijn-bakuitjes zijn vlak en frituurolie-smakend. Zelf gefrituurde sjalot heeft eigen zoete sjalot-smaak en verse aroma. Of kant-en-klaar bawang goreng uit een toko (Conimex) als toegankelijke middenweg.",
+        "Komkommerzuur niet te lang: 15 tot 30 minuten in de pickle is genoeg. Langer maakt de komkommer slap en waterig. Altijd kort uitlekken op keukenpapier vóór op het bord.",
+        "Warm brood is essentieel: lauw geworden platbrood maakt het gerecht 50% minder. Bak de broodjes pas vlak voor serveren — maximaal 3 minuten tussen pan en bord.",
+        "Variatie pittiger of milder: ½ tl sambal oelek is mild en gebalanceerd. Voor pittiger: 1 tl tot 1 el. Voor milder: laat sambal weg, voeg ½ tl gerookte paprikapoeder toe. Voor extra umami: een halve theelepel terasi toevoegen aan de aromaten.",
+        "Limoenrasp helemaal aan het eind raspen: vluchtige aroma's vervliegen binnen minuten. Een fijne rasp boven het bord geeft een vluchtig frisaroma bij de eerste hap.",
+        "Als echte amuse: serveer per persoon één klein lepeltje saté-boter met één scheurstukje warm platbrood en één krul komkommerzuur — perfect als opening van een meergangenmenu.",
+        "Vegan variant: vervang boter door plantaardige boter (Becel of Italiaanse vegan boter zoals Vio Vita) voor een volledig plantaardige versie."
+      ],
+      "tips_full": [
+        "Pinda's zelf roosteren is geen detail: rauwe ongezouten pinda's geroosterd in een droge pan tot diepgoudbruin geven exponentieel meer aroma dan pindakaas of voorgeroosterde pinda's. Dit is voor 50% het verschil tussen huis-saté-boter en restaurant-saté-boter.",
+        "Snelroute met pindakaas: vervang de 90g geroosterde pinda's door 3 à 4 el naturel pindakaas van goede kwaliteit (100% pinda, Calvé of Hak Naturel) en meng direct met de aromaten. Resultaat is 75% van de zelfgeroosterde versie.",
+        "Compound butter minimaal 30 min van tevoren maken, liefst 24 uur: de aroma's van limoenblad, ketjap en pinda hebben tijd nodig om in de boter te trekken. Een verse boter smaakt los; een nacht in de koelkast smaakt geïntegreerd.",
+        "Krokante uitjes zelf maken versus supermarkt: Albert Heijn-bakuitjes zijn vlak en frituurolie-smakend. Zelf gefrituurde sjalot heeft eigen zoete sjalot-smaak en verse aroma. Of kant-en-klaar bawang goreng uit een toko (Conimex) als toegankelijke middenweg.",
+        "Komkommerzuur niet te lang: 15 tot 30 minuten in de pickle is genoeg. Langer maakt de komkommer slap en waterig. Altijd kort uitlekken op keukenpapier vóór op het bord.",
+        "Warm brood is essentieel: lauw geworden platbrood maakt het gerecht 50% minder. Bak de broodjes pas vlak voor serveren — maximaal 3 minuten tussen pan en bord.",
+        "Variatie pittiger of milder: ½ tl sambal oelek is mild en gebalanceerd. Voor pittiger: 1 tl tot 1 el. Voor milder: laat sambal weg, voeg ½ tl gerookte paprikapoeder toe. Voor extra umami: een halve theelepel terasi toevoegen aan de aromaten.",
+        "Limoenrasp helemaal aan het eind raspen: vluchtige aroma's vervliegen binnen minuten. Een fijne rasp boven het bord geeft een vluchtig frisaroma bij de eerste hap.",
+        "Als echte amuse: serveer per persoon één klein lepeltje saté-boter met één scheurstukje warm platbrood en één krul komkommerzuur — perfect als opening van een meergangenmenu.",
+        "Vegan variant: vervang boter door plantaardige boter (Becel of Italiaanse vegan boter zoals Vio Vita) voor een volledig plantaardige versie."
+      ],
+      "opmaak_presentatie": "Kleine donkere borden (zwart-mat keramiek, donker hout, leisteen). Royale veeg saté-boter als visueel middelpunt — bobbelig, glanzend, gul. Komkommerlintjes deels op boter, deels ernaast — gefronsd met hoogte. Krokante sjalot en pinda's als losse puntjes en kluitjes, niet gelijkmatig gestrooid. Warme platbroodjes in grove gescheurde stukken naast de boter. Koriander individueel geplaatst, limoenrasp luchtig boven het bord gewreven. Direct serveren — de boter begint te smelten bij contact met het warme brood.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Riesling Kabinett Halbtrocken — Mosel, Duitsland",
+          "druif": "Riesling",
+          "smaakprofiel": "Lichtjes zoet (15–30 g/L restsuiker), groene appel, rijpe peer, perzik, limoenrasp, witte bloemen en leisteen-mineraliteit. Hoge zuren, slank, lage alcohol (8–9%).",
+          "omschrijving": "Joh. Jos. Prüm, Selbach-Oster of Dr. Loosen zijn archetypes. Reken op €15–25. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Voor Indo-Aziatisch pittig-zout-zoet is dit letterlijk de wijn waarvoor dat smaakprofiel werd uitgevonden. De lichte restzoet vangt de pittige sambal en zoete ketjap zonder de hitte te versterken; de hoge zuren snijden door de boterige rijkdom; de citrus-aroma's vinden het limoenblad en de tamarinde. Klassiek bij Indo-Aziatische sterrenrestaurants zoals Blauw in Amsterdam."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Brut Blanc de Blancs — Côte des Blancs, Frankrijk",
+          "druif": "Chardonnay (100%)",
+          "smaakprofiel": "Droog, bruisend, groene appel, citrusrasp, brioche, krijt en zilte zeebries. Fijne mousse, hoge zuren, lange mineralefinale.",
+          "omschrijving": "Pierre Péters of Pol Roger BdB zijn archetypes. Voor toegankelijker: Crémant de Loire of Crémant d'Alsace. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "De fijne mousse verfrist het palet tussen de happen door. De hoge zuren snijden door de boter-pinda-rijkdom; de brioche-toets verbindt met het warme platbrood. Feestelijker en chiquer dan Riesling — voor wie dit als occasion-amuse wil presenteren. Werkt minder goed bij veel sambal; perfect bij milde versies."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Grüner Veltliner — Niederösterreich, Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Droog, fris, groene appel, citrus, witte peper en kruidige ondertonen. Hoge zuren, slank tot middelvol mondgevoel.",
+          "omschrijving": "Hirsch, Bründlmayer of Salomon Undhof. Reken op €10–15. Breed verkrijgbaar bij AH, Gall & Gall. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Grüner Veltliner's typische witte peper-toets is een natuurlijke match voor pittig-zout Aziatische gerechten. De hoge zuren snijden door de boter-textuur; de groene appel raakt het komkommerzuur; de kruidige ondertoon vindt de koriander en het limoenblad."
+        }
+      ],
+      "wine": {
+        "naam": "Riesling Kabinett Halbtrocken — Mosel, Duitsland",
+        "druif": "Riesling",
+        "toelichting": "De lichte restzoet vangt de pittige sambal en ketjap; hoge zuren snijden door de boterige rijkdom; citrus-aroma's vinden het limoenblad en tamarinde. Serveer op 8–10°C.",
+        "alternatief": "Champagne Blanc de Blancs of Grüner Veltliner (€10–15, breed verkrijgbaar)"
+      },
+      "metadata": {
+        "bereidingstijd": "45 min + 20 min rust",
+        "porties": "4 personen",
+        "type_gerecht": "Borrelhap-de-luxe / amuse",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 178,
+      "full_title_docx": "178. SATÉ-BOTER MET WARM PLATBROOD, KOMKOMMERZUUR EN KROKANTE UITJES"
+    },
+    {
+      "title": "Krokante Aardappeltegel met Huzarensalade, Geraspt Ei en Amsterdamse Uitjes",
+      "slug": "krokante-aardappeltegel-huzarensalade-geraspt-ei",
+      "location": "Nederlands / modernistisch",
+      "time": "60 min hands-on",
+      "servings": "4 amuse-porties (3 mini-tegels per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/krokante-aardappeltegel-huzarensalade-geraspt-ei.jpg",
+      "short_description": "Ultra-krokante mini-tegels van dakpansgewijs gerangschikte aardappelplakjes — Pommes Anna-stijl — als basis voor een frisse huzarensaladecrème en een twee-toon sneeuw van geraspt eiwit en eidooier. Alles wat huzarensalade ooit was, nu strak in een sterrenrestaurant-amuse.",
+      "description": "Een eerbetoon aan de Hollandse keuken in zijn meest verfijnde vorm. Twaalf ultra-krokante mini-tegels van dakpansgewijs gerangschikte aardappelplakjes — Pommes Anna-stijl, gebakken tussen twee bakplaten tot diepgoudbruin en glasachtig — als basis voor een frisse huzarensaladecrème met aardappel, wortel, doperwten, appel-dille en bieslook. Daarboven een sneeuwlaag van eerst geraspt eiwit, dan eidooier voor het twee-toon-effect. Afgewerkt met mini-blokjes Amsterdamse uitjes. Drie hapjes per persoon, te eten als bonbons — alles wat huzarensalade ooit was, nu strak in een sterrenrestaurant-amuse.",
+      "full_intro": "Een eerbetoon aan de Hollandse keuken in zijn meest verfijnde vorm. Ultra-krokante mini-tegels van dakpansgewijs gerangschikte aardappelplakjes — Pommes Anna-stijl — als basis voor een frisse huzarensaladecrème en een twee-toon sneeuw van geraspt eiwit en eidooier. Alles wat huzarensalade ooit was, nu strak in een sterrenrestaurant-amuse.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de krokante aardappeltegels (12 stuks van 4×4cm)",
+          "ingredients": [
+            {
+              "name": "grote vastkokende aardappels (Bintje of Nicola, ca. 500g)",
+              "amount": "3"
+            },
+            {
+              "name": "geklaarde boter, gesmolten (of normale roomboter)",
+              "amount": "30g"
+            },
+            {
+              "name": "plantaardige olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout en vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de huzarensaladecrème",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappel (Bintje of Nicola), geschild",
+              "amount": "200g"
+            },
+            {
+              "name": "kleine wortel (ca. 50g), geschild",
+              "amount": "1"
+            },
+            {
+              "name": "doperwten (vers geblancheerd of ontdooid)",
+              "amount": "1 el"
+            },
+            {
+              "name": "klein stukje appel (Elstar of Cox, ca. 20g), in mini-blokjes van 2mm",
+              "amount": ""
+            },
+            {
+              "name": "mayonaise van goede kwaliteit (Calvé of zelfgemaakt)",
+              "amount": "30g"
+            },
+            {
+              "name": "crème fraîche (volle, 40% vet)",
+              "amount": "30g"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vocht van Amsterdamse uitjes (uit de pot)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "bieslook, zeer fijn geknipt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zeezout en vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het geraspt ei",
+          "ingredients": [
+            {
+              "name": "hardgekookte eieren (10 minuten gekookt, in ijswater geschokt, gepeld)",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "Amsterdamse uitjes (zoetzure cocktailuitjes), in mini-blokjes van 1–2mm",
+              "amount": "4–5"
+            },
+            {
+              "name": "bieslook in fijne reepjes (5mm lang)",
+              "amount": "1 el"
+            },
+            {
+              "name": "doperwten extra voor groen accent (optioneel)",
+              "amount": "1 el"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            },
+            {
+              "name": "enkele druppels goede olijfolie voor glans (optioneel)",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de krokante aardappeltegels",
+          "ingredients": [
+            "3 grote vastkokende aardappels (Bintje of Nicola, ca. 500g)",
+            "30g geklaarde boter gesmolten",
+            "1 el plantaardige olie",
+            "Fijn zeezout en vers gemalen zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de huzarensaladecrème",
+          "ingredients": [
+            "200g vastkokende aardappel geschild",
+            "1 kleine wortel (ca. 50g) geschild",
+            "1 el doperwten vers geblancheerd of ontdooid",
+            "Ca. 20g appel (Elstar of Cox) in mini-blokjes van 2mm",
+            "30g mayonaise van goede kwaliteit",
+            "30g crème fraîche (40% vet)",
+            "1 tl Dijon-mosterd",
+            "1 tl vocht van Amsterdamse uitjes",
+            "½ tl vers citroensap",
+            "1 tl bieslook zeer fijn geknipt",
+            "Fijn zeezout en vers gemalen zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor het geraspt ei",
+          "ingredients": [
+            "2 hardgekookte eieren (10 minuten gekookt in ijswater geschokt gepeld)"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "4–5 Amsterdamse uitjes in mini-blokjes van 1–2mm",
+            "1 el bieslook in fijne reepjes (5mm lang)",
+            "1 el doperwten extra voor groen accent (optioneel)",
+            "Vers gemalen zwarte peper",
+            "Enkele druppels goede olijfolie voor glans (optioneel)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Krokante aardappeltegels maken (kan een uur vooraf)",
+          "description": "Verwarm de oven op 200°C hetelucht. Schil de 3 grote aardappels en snijd met een mandoline in flinterdunne plakjes van 1mm — niet in water leggen, het zetmeel houdt de tegels samen. Meng de gesmolten geklaarde boter met de olie en zout-peper. Dompel elke aardappelplak in het botermengsel of bestrijk met een kwastje en leg dakpansgewijs in vierkanten van 4×4cm — 4 of 5 plakjes per tegel, mooi overlappend. Totaal 12 tegels. Leg een tweede vel bakpapier over de tegels en een tweede bakplaat erop. Bak 18 tot 22 minuten geperst. Verwijder de bovenste bakplaat en bak nog 5 tot 8 minuten tot diepgoudbruin en glasachtig knapperig. Voorzichtig overzetten op een rooster — nog buigzaam direct uit de oven, krokant na 2 minuten afkoelen."
+        },
+        {
+          "number": 2,
+          "action": "Huzarensaladecrème maken (kan een paar uur vooraf)",
+          "description": "Kook de 200g aardappel en de kleine wortel in zoutwater tot net gaar — aardappel 15–20 min, wortel 10–15 min. Niet overkoken. Giet af en laat afkoelen. Kook parallel 2 eieren precies 10 minuten, schok in ijswater, laat afkoelen en pel. Prak de lauwwarme aardappel met een vork in kleine korreltjes — niet glad. Snijd de wortel in mini-blokjes van 2mm. Voeg aan de aardappel toe: gehakte wortel, doperwten, appel-mini-blokjes, mayonaise, crème fraîche, Dijonmosterd, vocht van Amsterdamse uitjes, citroensap en bieslook. Roer voorzichtig door. De crème moet smeerbaar maar dicht zijn — niet vloeibaar. Breng op smaak met zout en peper. Tot 4 uur vooraf bewaarbaar in koelkast."
+        },
+        {
+          "number": 3,
+          "action": "Plating — vlak voor serveren",
+          "description": "Verwarm de tegels indien nodig kort (3 min op 150°C). Leg 3 mini-tegels per bord in een driehoek of strakke rij met negatieve ruimte ertussen. Lepel of spuit een dunne dichte laag huzarensaladecrème op elke tegel — circa 4mm dik, tot 2mm van de randen. De gouden tegels moeten aan de randen zichtbaar blijven. Rasp het hardgekookte eiwit op een microplane boven de tegels als wit-fluwelig sneeuw. Rasp daarna de eidooier eroverheen als gele sneeuw — dit twee-toon-effect is het restaurant-signaal. Strooi fijne mini-blokjes Amsterdamse uitjes verspreid over de ei-sneeuw. Plaats 3 of 4 bieslook-reepjes individueel per tegel. Voeg 1 of 2 doperwten als groen accent toe. Eén draai vers gemalen zwarte peper boven het bord. Direct serveren — assembleren tot opdienen mag niet meer dan 5 minuten duren."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Krokante aardappeltegels maken (kan een uur vooraf)",
+          "description": "Verwarm de oven op 200°C hetelucht. Schil de 3 grote aardappels en snijd met een mandoline in flinterdunne plakjes van 1mm — niet in water leggen, het zetmeel houdt de tegels samen. Meng de gesmolten geklaarde boter met de olie en zout-peper. Dompel elke aardappelplak in het botermengsel of bestrijk met een kwastje en leg dakpansgewijs in vierkanten van 4×4cm — 4 of 5 plakjes per tegel, mooi overlappend. Totaal 12 tegels. Leg een tweede vel bakpapier over de tegels en een tweede bakplaat erop. Bak 18 tot 22 minuten geperst. Verwijder de bovenste bakplaat en bak nog 5 tot 8 minuten tot diepgoudbruin en glasachtig knapperig. Voorzichtig overzetten op een rooster — nog buigzaam direct uit de oven, krokant na 2 minuten afkoelen."
+        },
+        {
+          "number": 2,
+          "section": "Huzarensaladecrème maken (kan een paar uur vooraf)",
+          "description": "Kook de 200g aardappel en de kleine wortel in zoutwater tot net gaar — aardappel 15–20 min, wortel 10–15 min. Niet overkoken. Giet af en laat afkoelen. Kook parallel 2 eieren precies 10 minuten, schok in ijswater, laat afkoelen en pel. Prak de lauwwarme aardappel met een vork in kleine korreltjes — niet glad. Snijd de wortel in mini-blokjes van 2mm. Voeg aan de aardappel toe: gehakte wortel, doperwten, appel-mini-blokjes, mayonaise, crème fraîche, Dijonmosterd, vocht van Amsterdamse uitjes, citroensap en bieslook. Roer voorzichtig door. De crème moet smeerbaar maar dicht zijn — niet vloeibaar. Breng op smaak met zout en peper. Tot 4 uur vooraf bewaarbaar in koelkast."
+        },
+        {
+          "number": 3,
+          "section": "Plating — vlak voor serveren",
+          "description": "Verwarm de tegels indien nodig kort (3 min op 150°C). Leg 3 mini-tegels per bord in een driehoek of strakke rij met negatieve ruimte ertussen. Lepel of spuit een dunne dichte laag huzarensaladecrème op elke tegel — circa 4mm dik, tot 2mm van de randen. De gouden tegels moeten aan de randen zichtbaar blijven. Rasp het hardgekookte eiwit op een microplane boven de tegels als wit-fluwelig sneeuw. Rasp daarna de eidooier eroverheen als gele sneeuw — dit twee-toon-effect is het restaurant-signaal. Strooi fijne mini-blokjes Amsterdamse uitjes verspreid over de ei-sneeuw. Plaats 3 of 4 bieslook-reepjes individueel per tegel. Voeg 1 of 2 doperwten als groen accent toe. Eén draai vers gemalen zwarte peper boven het bord. Direct serveren — assembleren tot opdienen mag niet meer dan 5 minuten duren."
+        }
+      ],
+      "tips": [
+        "Pommes Anna-techniek is dé sleutel: dunne plakjes dakpansgewijs gerangschikt, royaal met geklaarde boter bestreken, geperst tussen twee bakplaten. Het zetmeel uit de aardappelplakjes is de natuurlijke lijm — daarom niet in water leggen voor het snijden.",
+        "Geklaarde boter geeft meer karakter dan gewone boter: brandt minder snel en geeft een diepere goudkleur. Mengsel van geklaarde boter en olie (1 deel olie op 3 delen boter) geeft optimale rooster-karakter.",
+        "Aardappeltegels kunnen vooraf maar niet te lang: tot een uur op kamertemperatuur. Daarna verzachten ze door luchtvocht. Herwarm 3 min op 150°C om het krokant te herstellen.",
+        "Twee-tonige ei-rasp: eiwit eerst als wit-fluwelige basis-sneeuw, dooier daarna als gele toplaag. Vooraf gemengd raspen verliest deze visuele gradatie — het twee-toon-effect is wat het van huzarensalade naar sterrenhap verheft.",
+        "Wortel zeer fijn snijden, niet pureren: 2mm blokjes geven textuur zonder de crème oranje te kleuren. Pureren maakt de crème dof.",
+        "Appel heel subtiel doseren: meer dan 20g maakt het naar zoete fruitsalade trekken. Liever te weinig dan te veel. Elstar of Cox geeft de juiste frisheid.",
+        "Amsterdamse uitjes versus zilveruitjes: Amsterdamse uitjes zijn kruidiger met laurier, peperkorrels en mosterdzaad — geven meer karakter en nostalgische Hollandse smaak.",
+        "Voor extra luxe: forelkuit of Oscietra-kaviaar bovenop de ei-sneeuw — verheft het direct naar sterrenniveau.",
+        "Variatie met Hollandse garnalen: leg één lepeltje verse Hollandse Noordzee-garnalen bovenop de ei-sneeuw voor een echte zee-amuse. Pas het wijnadvies aan naar Muscadet Sèvre et Maine sur lie.",
+        "Direct serveren: de tegel verliest na 5 minuten zijn maximale knapperigheid door contact met de crème — assembleren tot opdienen binnen 5 minuten."
+      ],
+      "tips_full": [
+        "Pommes Anna-techniek is dé sleutel: dunne plakjes dakpansgewijs gerangschikt, royaal met geklaarde boter bestreken, geperst tussen twee bakplaten. Het zetmeel uit de aardappelplakjes is de natuurlijke lijm — daarom niet in water leggen voor het snijden.",
+        "Geklaarde boter geeft meer karakter dan gewone boter: brandt minder snel en geeft een diepere goudkleur. Mengsel van geklaarde boter en olie (1 deel olie op 3 delen boter) geeft optimale rooster-karakter.",
+        "Aardappeltegels kunnen vooraf maar niet te lang: tot een uur op kamertemperatuur. Daarna verzachten ze door luchtvocht. Herwarm 3 min op 150°C om het krokant te herstellen.",
+        "Twee-tonige ei-rasp: eiwit eerst als wit-fluwelige basis-sneeuw, dooier daarna als gele toplaag. Vooraf gemengd raspen verliest deze visuele gradatie — het twee-toon-effect is wat het van huzarensalade naar sterrenhap verheft.",
+        "Wortel zeer fijn snijden, niet pureren: 2mm blokjes geven textuur zonder de crème oranje te kleuren. Pureren maakt de crème dof.",
+        "Appel heel subtiel doseren: meer dan 20g maakt het naar zoete fruitsalade trekken. Liever te weinig dan te veel. Elstar of Cox geeft de juiste frisheid.",
+        "Amsterdamse uitjes versus zilveruitjes: Amsterdamse uitjes zijn kruidiger met laurier, peperkorrels en mosterdzaad — geven meer karakter en nostalgische Hollandse smaak.",
+        "Voor extra luxe: forelkuit of Oscietra-kaviaar bovenop de ei-sneeuw — verheft het direct naar sterrenniveau.",
+        "Variatie met Hollandse garnalen: leg één lepeltje verse Hollandse Noordzee-garnalen bovenop de ei-sneeuw voor een echte zee-amuse. Pas het wijnadvies aan naar Muscadet Sèvre et Maine sur lie.",
+        "Direct serveren: de tegel verliest na 5 minuten zijn maximale knapperigheid door contact met de crème — assembleren tot opdienen binnen 5 minuten."
+      ],
+      "opmaak_presentatie": "Kleine donkere borden (zwart-mat keramiek of leisteen) van 16–18cm. Drie mini-tegels in driehoek of rij met negatieve ruimte. Crème-laag gelijkmatig maar niet steriel-perfect — gouden tegels zichtbaar aan de randen. Ei-sneeuw als visueel middelpunt: wit-fluwelig eiwit als basis, gele eidooier als toplaag. Amsterdamse uitjes-blokjes als precieze stippen. Bieslook individueel geplaatst. Direct serveren binnen 5 minuten na assembleren.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Brut Nature of Extra Brut Blanc de Blancs — Champagne, Frankrijk",
+          "druif": "Chardonnay (100%)",
+          "smaakprofiel": "Volledig droog tot zeer droog (0–6 g/L restsuiker), bruisend, groene appel, citrusrasp, brioche, hazelnoot, krijt en zilte zeebries. Hoge zuren, lange complexe finale.",
+          "omschrijving": "Tarlant Zero, Drappier Brut Nature of Pierre Péters Cuvée de Réserve zijn archetypes. Serveer bij 8–10°C in tulpglazen.",
+          "waarom_werkt_dit": "Brut Nature is gastronomisch ontworpen voor hartige amuses waar zoetheid de smaakbalans zou ruïneren. De fijne mousse verfrist het palet en tilt de krokante tegel op; de hoge zuren snijden door de mayo-en-ei-rijkdom; de krijt-mineraliteit verbindt met de aardappel-tegel; de brioche-toets is een aroma-brug met het hardgekookt ei. Bij een Hollandse luxe-amuse is Champagne een visueel én smakelijk statement."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Sancerre — Loire, Frankrijk",
+          "druif": "Sauvignon Blanc",
+          "smaakprofiel": "Droog, gras, kruisbessen, citrus, grapefruit, witte bloemen en vuursteen-mineraliteit. Hoge zuren, slank en levendig mondgevoel.",
+          "omschrijving": "Henri Bourgeois, Pascal Jolivet of Domaine Vacheron zijn archetypes. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "De groene kruidigheid verbindt direct met de bieslook en doperwten; de hoge zuren snijden door mayo en ei; de vuursteen-mineraliteit raakt de aardappel-tegel. Sancerre met Hollandse augurk-uitjes en bieslook is eerlijk en gastronomisch raak."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Muscadet Sèvre et Maine sur lie — Loire, Frankrijk",
+          "druif": "Melon de Bourgogne",
+          "smaakprofiel": "Droog, groene appel, citrus, zee-bries, witte bloemen en vleugje gistige brioche door sur lie-rijping. Hoge zuren, ziltige mineralefinale.",
+          "omschrijving": "Domaine de la Pépière, Domaine Luneau-Papin of Château Thébaud. Reken op €8–14. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "De ziltigheid raakt de Amsterdamse uitjes en mayonaise; de groene appel verbindt met de appel in de huzarencrème; de sur lie-textuur is een natuurlijke partner voor het hardgekookt ei. Bij de variatie met Hollandse garnalen is dit de absolute beste pairing — Atlantische witte wijn met Noordzee-garnaal."
+        }
+      ],
+      "wine": {
+        "naam": "Champagne Brut Nature Blanc de Blancs — Champagne, Frankrijk",
+        "druif": "Chardonnay (100%)",
+        "toelichting": "Gastronomisch ontworpen voor hartige amuses. Mousse verfrist palet; hoge zuren snijden door mayo-ei-rijkdom; brioche-toets verbindt met het ei. Serveer op 8–10°C.",
+        "alternatief": "Sancerre (Sauvignon Blanc) of Muscadet sur lie (€8–14, breed verkrijgbaar)"
+      },
+      "metadata": {
+        "bereidingstijd": "60 min hands-on",
+        "porties": "4 amuse-porties (3 per persoon)",
+        "type_gerecht": "Amuse / luxe borrelhap",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 179,
+      "full_title_docx": "179. KROKANTE AARDAPPELTEGEL MET HUZARENSALADE, GERASPT EI EN AMSTERDAMSE UITJES"
+    },
+    {
+      "title": "Geflambeerde Peperaardbeien met Vanille-Ijs",
+      "slug": "geflambeerde-peperaardbeien-vanille-ijs",
+      "location": "Frans / klassiek",
+      "time": "10 min mise en place + 6 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "dessert",
+      "image": "/assets/images/geflambeerde-peperaardbeien-vanille-ijs.jpg",
+      "short_description": "Verse zomeraardbeien zachtjes gebakken in boter en karamel, bestrooid met vers gemalen zwarte peper en geflambeerd in Cointreau — direct over koud vanille-ijs gegoten. Het hete-koude contrast, de sinaasappel-frisheid en de onverwachte diepte van peper maken dit van een huiselijk dessert een serieuze sterrenrestaurant-finale.",
+      "description": "Een dessert dat begint als wonderlijke fruitsalade en eindigt als gastronomisch theater. Verse zomeraardbeien zachtjes gebakken in boter en lichte karamel, dan royaal bestrooid met vers gemalen zwarte peper en geflambeerd in Cointreau. Direct uit de hete pan gegoten over koud vanille-ijs in een doorzichtige bowl — het hete-koude contrast, de oranje-zoete sinaasappel-frisheid van de Cointreau en de onverwachte aromatische diepte van peper veranderen wat een huiselijk dessert lijkt in een serieuze sterrenrestaurant-finale. Zwarte peper en aardbei delen aromatische verbindingen die elkaar wederzijds versterken — een gastronomische waarheid die in Pierre Hermé's macarons en Heston Blumenthal's sorbets al lang bekend is.",
+      "full_intro": "Verse zomeraardbeien geflambeerd in Cointreau met vers gemalen zwarte peper, direct over koud vanille-ijs gegoten. Het hete-koude contrast en de onverwachte peper-diepte maken dit van een huiselijk dessert een serieuze sterrenrestaurant-finale.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de geflambeerde aardbeien",
+          "ingredients": [
+            {
+              "name": "rijpe geurige aardbeien (Mara des Bois ideaal; anders Hollandse zomeraardbeien op piek)",
+              "amount": "500g"
+            },
+            {
+              "name": "ongezouten roomboter",
+              "amount": "35g"
+            },
+            {
+              "name": "lichtbruine basterdsuiker of rietsuiker",
+              "amount": "35g"
+            },
+            {
+              "name": "½ vanillestokje, opengespleten, zaadjes uitgeschraapt (optioneel)",
+              "amount": ""
+            },
+            {
+              "name": "vers gemalen zwarte peper — royaal, dit is het signature-element",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "Cointreau (40% alcohol)",
+              "amount": "60ml"
+            },
+            {
+              "name": "klein snufje fijn zeezout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de basis",
+          "ingredients": [
+            {
+              "name": "royale bollen vanille-ijs van goede kwaliteit (Häagen-Dazs, Carte d'Or Madagascar of artisanale ijssalon)",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "verse aardbeien, gehalveerd",
+              "amount": "4"
+            },
+            {
+              "name": "muntblaadjes of basilicumblaadjes",
+              "amount": "4"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de geflambeerde aardbeien",
+          "ingredients": [
+            "500g rijpe geurige aardbeien (Mara des Bois ideaal)",
+            "35g ongezouten roomboter",
+            "35g lichtbruine basterdsuiker of rietsuiker",
+            "½ vanillestokje opengespleten zaadjes uitgeschraapt (optioneel)",
+            "1½ tl vers gemalen zwarte peper",
+            "60ml Cointreau (40% alcohol)",
+            "Klein snufje fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de basis",
+          "ingredients": [
+            "4 royale bollen vanille-ijs van goede kwaliteit (Häagen-Dazs, Carte d'Or Madagascar of artisanale ijssalon)"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            "4 verse aardbeien gehalveerd",
+            "4 muntblaadjes of basilicumblaadjes",
+            "Vers gemalen zwarte peper"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Vanille-ijs in glazen zetten en mise en place",
+          "description": "Schep 1 royale bol vanille-ijs in elk van de 4 doorzichtige cocktail-bowls of glazen. Zet direct terug in de vriezer tot het allerlaatste moment — het ijs moet steenkoud zijn als de hete saus erop komt. Was de aardbeien voorzichtig en dep grondig droog. Verwijder kroontjes. Halveer kleine aardbeien; vierdeel grotere. Houd 4 garnerings-aardbeien apart. Meet de 60ml Cointreau vooraf af in een klein glaasje — nooit rechtstreeks uit de fles in een hete pan. Zet alles klaar naast het fornuis: boter, suiker, aardbeien, vanillezaadjes, pepermolen, Cointreau, lange aansteker."
+        },
+        {
+          "number": 2,
+          "action": "Boterkaramel en aardbeien bakken",
+          "description": "Zet de afzuigkap UIT — cruciaal bij flamberen, vlammen worden anders omhoog getrokken in het filter. Verhit de sauteerpan op middelhoog vuur. Voeg de boter toe en laat schuimen — niet bruinen. Strooi de basterdsuiker erover en roer kort. Laat 30 à 45 seconden zachtjes oplossen tot een lichte boterkaramel — niet te donker, anders bitter. Voeg eventueel de vanillezaadjes toe. Schud de aardbeien in de pan en draai voorzichtig 1 à 2 minuten door de karamel — warm en glanzend, maar nog stevig en herkenbaar. Voeg het snufje zout toe."
+        },
+        {
+          "number": 3,
+          "action": "Zwarte peper toevoegen en flamberen",
+          "description": "Draai krachtig vers gemalen zwarte peper boven de pan — circa 1½ tl. Roer kort door. Dit is het signature-moment: durf flink peper te gebruiken. Giet de afgemeten Cointreau in één vloeiende beweging in de pan. Laat 3 à 5 seconden warm worden. Houd de pan licht schuin en steek de damp aan met de lange aansteker — steek aan boven de pan, niet er direct in. Vlammen springen direct op, kunnen 30cm hoog gaan — normaal en theatraal. Schud de pan zachtjes. Wacht rustig tot de vlammen doven (5 tot 15 seconden) — de alcohol brandt vanzelf op. Roer kort door zodra de vlammen weg zijn."
+        },
+        {
+          "number": 4,
+          "action": "Direct serveren en afwerken",
+          "description": "Haal de 4 koude glazen-met-ijs uit de vriezer. Schep onmiddellijk de hete aardbei-saus over het koude vanille-ijs in elk glas. Het sissen van hete saus op koud ijs is hoorbaar — een onderdeel van de presentatie. Vliegensvlug afwerken: één gehalveerde verse aardbei op de top, één muntblaadje of basilicumblaadje, één extra fijne grind zwarte peper over elk dessert. Direct opdienen. De magie is dat tijdelijke moment van hot-meets-cold — het ijs smelt snel."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Vanille-ijs in glazen zetten en mise en place",
+          "description": "Schep 1 royale bol vanille-ijs in elk van de 4 doorzichtige cocktail-bowls of glazen. Zet direct terug in de vriezer tot het allerlaatste moment — het ijs moet steenkoud zijn als de hete saus erop komt. Was de aardbeien voorzichtig en dep grondig droog. Verwijder kroontjes. Halveer kleine aardbeien; vierdeel grotere. Houd 4 garnerings-aardbeien apart. Meet de 60ml Cointreau vooraf af in een klein glaasje — nooit rechtstreeks uit de fles in een hete pan. Zet alles klaar naast het fornuis: boter, suiker, aardbeien, vanillezaadjes, pepermolen, Cointreau, lange aansteker."
+        },
+        {
+          "number": 2,
+          "section": "Boterkaramel en aardbeien bakken",
+          "description": "Zet de afzuigkap UIT — cruciaal bij flamberen, vlammen worden anders omhoog getrokken in het filter. Verhit de sauteerpan op middelhoog vuur. Voeg de boter toe en laat schuimen — niet bruinen. Strooi de basterdsuiker erover en roer kort. Laat 30 à 45 seconden zachtjes oplossen tot een lichte boterkaramel — niet te donker, anders bitter. Voeg eventueel de vanillezaadjes toe. Schud de aardbeien in de pan en draai voorzichtig 1 à 2 minuten door de karamel — warm en glanzend, maar nog stevig en herkenbaar. Voeg het snufje zout toe."
+        },
+        {
+          "number": 3,
+          "section": "Zwarte peper toevoegen en flamberen",
+          "description": "Draai krachtig vers gemalen zwarte peper boven de pan — circa 1½ tl. Roer kort door. Dit is het signature-moment: durf flink peper te gebruiken. Giet de afgemeten Cointreau in één vloeiende beweging in de pan. Laat 3 à 5 seconden warm worden. Houd de pan licht schuin en steek de damp aan met de lange aansteker — steek aan boven de pan, niet er direct in. Vlammen springen direct op, kunnen 30cm hoog gaan — normaal en theatraal. Schud de pan zachtjes. Wacht rustig tot de vlammen doven (5 tot 15 seconden) — de alcohol brandt vanzelf op. Roer kort door zodra de vlammen weg zijn."
+        },
+        {
+          "number": 4,
+          "section": "Direct serveren en afwerken",
+          "description": "Haal de 4 koude glazen-met-ijs uit de vriezer. Schep onmiddellijk de hete aardbei-saus over het koude vanille-ijs in elk glas. Het sissen van hete saus op koud ijs is hoorbaar — een onderdeel van de presentatie. Vliegensvlug afwerken: één gehalveerde verse aardbei op de top, één muntblaadje of basilicumblaadje, één extra fijne grind zwarte peper over elk dessert. Direct opdienen. De magie is dat tijdelijke moment van hot-meets-cold — het ijs smelt snel."
+        }
+      ],
+      "tips": [
+        "Aardbei-kwaliteit is alles: wateraardbeien werken niet. Mara des Bois (kleine bosstrawberry, intens parfum, juni–juli) is het ideaal. Aardbeien die niet ruiken in de winkel zijn niet rijp genoeg. Rijp maar nog stevig — te zachte aardbeien worden jam in de pan.",
+        "Aardbeien grondig drogen vóór het bakken: water in de pan verdunt de boterkaramel. Dep grondig droog op keukenpapier voor het halveren.",
+        "Zwarte peper royaal — durf: 1½ tl op 500g aardbeien is precies wat het maakt. Vers gemalen, grof gemalen — niet voorvermalen. Tellicherry-peper voor extra aroma-complexiteit.",
+        "Flamberen veilig — afzuigkap UIT en Cointreau vooraf afmeten: afzuigkap moet uit zijn. Cointreau vooraf afmeten in een glaasje, nooit rechtstreeks uit de fles in de hete pan. Lange BBQ-aansteker of lange lucifer is veiliger.",
+        "Aardbeien niet overkoken: 1 à 2 minuten in de pan is genoeg. Bij langer koken zakken ze in elkaar en worden ze jam.",
+        "Snufje zout is geen detail: haalt aardbei, boter en Cointreau omhoog zonder dat je zout proeft — klassieke chef-techniek bij fruit-desserts.",
+        "Vanille-ijs van topkwaliteit: kies een merk met zichtbare zwarte vanille-stippels. Häagen-Dazs Vanilla, Carte d'Or Madagascar of artisanale ijssalon. Geen huismerk met aroma's.",
+        "Cointreau-alternatieven: Grand Marnier (ronder en dieper), Triple Sec (eenvoudiger), witte rum (meer karamel, minder citrus — Strawberries Foster-stijl). Alcoholvrij: 60ml verse sinaasappelsap + ½ tl oranjebloesemwater.",
+        "Geen slagroom erbij: het smeltende vanille-ijs ís de roomsaus — precies de juiste hoeveelheid romige koude tegenpool. Slagroom zou de hot-cold-magie verstoren.",
+        "Timing is essentieel: aardbeien snijden vóór het hoofdgerecht, glazen-met-ijs in de vriezer tijdens het hoofdgerecht, bereiding direct na de hoofdgang. Maximum 30 seconden tussen vlam doven en glazen op tafel."
+      ],
+      "tips_full": [
+        "Aardbei-kwaliteit is alles: wateraardbeien werken niet. Mara des Bois (kleine bosstrawberry, intens parfum, juni–juli) is het ideaal. Aardbeien die niet ruiken in de winkel zijn niet rijp genoeg. Rijp maar nog stevig — te zachte aardbeien worden jam in de pan.",
+        "Aardbeien grondig drogen vóór het bakken: water in de pan verdunt de boterkaramel. Dep grondig droog op keukenpapier voor het halveren.",
+        "Zwarte peper royaal — durf: 1½ tl op 500g aardbeien is precies wat het maakt. Vers gemalen, grof gemalen — niet voorvermalen. Tellicherry-peper voor extra aroma-complexiteit.",
+        "Flamberen veilig — afzuigkap UIT en Cointreau vooraf afmeten: afzuigkap moet uit zijn. Cointreau vooraf afmeten in een glaasje, nooit rechtstreeks uit de fles in de hete pan. Lange BBQ-aansteker of lange lucifer is veiliger.",
+        "Aardbeien niet overkoken: 1 à 2 minuten in de pan is genoeg. Bij langer koken zakken ze in elkaar en worden ze jam.",
+        "Snufje zout is geen detail: haalt aardbei, boter en Cointreau omhoog zonder dat je zout proeft — klassieke chef-techniek bij fruit-desserts.",
+        "Vanille-ijs van topkwaliteit: kies een merk met zichtbare zwarte vanille-stippels. Häagen-Dazs Vanilla, Carte d'Or Madagascar of artisanale ijssalon. Geen huismerk met aroma's.",
+        "Cointreau-alternatieven: Grand Marnier (ronder en dieper), Triple Sec (eenvoudiger), witte rum (meer karamel, minder citrus — Strawberries Foster-stijl). Alcoholvrij: 60ml verse sinaasappelsap + ½ tl oranjebloesemwater.",
+        "Geen slagroom erbij: het smeltende vanille-ijs ís de roomsaus — precies de juiste hoeveelheid romige koude tegenpool. Slagroom zou de hot-cold-magie verstoren.",
+        "Timing is essentieel: aardbeien snijden vóór het hoofdgerecht, glazen-met-ijs in de vriezer tijdens het hoofdgerecht, bereiding direct na de hoofdgang. Maximum 30 seconden tussen vlam doven en glazen op tafel."
+      ],
+      "opmaak_presentatie": "Doorzichtige cocktail-bowls of korte dessertglazen van 8–10cm doorsnede — transparantie is essentieel voor het visuele drama. De gast ziet de gelaagdheid: ivoor-wit vanille-ijs onderaan, rode-roze geflambeerde aardbeien rondom en op de top, glimmend van de Cointreau-saus, met zichtbare zwarte peper-puntjes. Gehalveerde verse aardbei op de top, één muntblaadje als groen accent, extra grind zwarte peper vlak voor opdienen. Donker bord eronder als contrast. Direct serveren — de magie is in de eerste minuut.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Asti Spumante DOCG — Piemonte, Italië",
+          "druif": "Moscato Bianco (100%)",
+          "smaakprofiel": "Licht zoet, volledig mousserend, witte perzik, abrikoos, sinaasappelbloesem, honing, gemberkoek. Hoge zuren, lage alcohol (7–9%).",
+          "omschrijving": "Martini, Riccadonna of Saracco zijn archetypes. Serveer ijskoud bij 6–8°C in fluten of tulpglazen.",
+          "waarom_werkt_dit": "De lichte zoetheid spiegelt de gekarameliseerde aardbei-saus; de mousse tilt de hot-cold-textuur op en verfrist tussen happen door; de sinaasappelbloesem-aroma's vinden direct de Cointreau. De hoge zuren snijden door de boterige saus; de honing- en gemberkoek-tonen ontvangen zelfs de zwarte peper zonder te botsen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Banyuls Rimage — Roussillon, Frankrijk",
+          "druif": "Grenache Noir (min. 75%)",
+          "smaakprofiel": "Zoet, vol, donker rood-paars, zwarte kers, framboos, gedroogde aardbei, cacao, peperkorrel. Stevige body, zachte tannine. Alcohol 16–17%.",
+          "omschrijving": "Domaine de la Rectorie, Domaine du Mas Blanc of M. Chapoutier. Reken op €18–30 per 50cl. Serveer bij 14–16°C in kleine glaasjes.",
+          "waarom_werkt_dit": "De peperkorrel-aroma's in de wijn spiegelen direct de zwarte peper in het gerecht — geen botsing maar versterking. De donkere kers en cacao vinden de gekarameliseerde aardbeien; de versterkte alcohol kan de Cointreau-warmte aan. Maakt het dessert bijna chocoladeachtig. Voor wijnliefhebbers die bij dessert iets diepers zoeken."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Prosecco Extra Dry of Demi-Sec — Veneto, Italië",
+          "druif": "Glera",
+          "smaakprofiel": "Licht zoet, mousserend, groene appel, peer, sinaasappelbloesem, lichte amandel. Frisse zuren, lage alcohol (10–11%).",
+          "omschrijving": "Bisol, Mionetto Prestige of Nino Franco zijn archetypes. Reken op €8–14. Serveer bij 6–8°C. Kies Extra Dry of Demi-Sec — niet Brut.",
+          "waarom_werkt_dit": "In elke supermarkt en slijterij verkrijgbaar. De lichte zoetheid past bij de gekarameliseerde aardbeien; mousse en groene appel verfrissen tussen hete-koude happen; sinaasappelbloesem verbindt met de Cointreau. Niet zo gastronomisch precies als Asti maar voor een spontaan moment uitstekend."
+        }
+      ],
+      "wine": {
+        "naam": "Asti Spumante DOCG — Piemonte, Italië",
+        "druif": "Moscato Bianco (100%)",
+        "toelichting": "Lichte zoetheid spiegelt de gekarameliseerde aardbei; mousse verfrist tussen hot-cold happen; sinaasappelbloesem vindt de Cointreau direct. Serveer op 6–8°C.",
+        "alternatief": "Banyuls Rimage (voor diepere pairing) of Prosecco Extra Dry (€8–14, breed verkrijgbaar)"
+      },
+      "metadata": {
+        "bereidingstijd": "10 min mise en place + 6 min bereiding",
+        "porties": "4 personen",
+        "type_gerecht": "Dessert / theatraal afsluiter",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 180,
+      "full_title_docx": "180. GEFLAMBEERDE PEPERAARDBEIEN MET VANILLE-IJS"
+    },
+    {
+      "title": "Roggebrood met Gerookte Zalm, Appel-Dille en Warme Mosterdboter",
+      "slug": "roggebrood-gerookte-zalm-appel-dille-warme-mosterdboter",
+      "location": "Scandinavisch / smørrebrød",
+      "time": "30 min hands-on",
+      "servings": "4 amuse-porties (3 mini-hapjes per persoon)",
+      "difficulty": "Makkelijk",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/roggebrood-gerookte-zalm-appel-dille-warme-mosterdboter.jpg",
+      "short_description": "Donker Fries roggebrood als basis voor een citroen-mierikswortelcrème, een geplooid satijn-lint gerookte zalm en frisse appel-dille brunoise — afgewerkt met een paar druppels warme mosterdboter over de koude zalm. Het warm-koud contrast is de twist die dit van klassiek zalmtoastje tilt naar een serieuze restaurant-amuse.",
+      "description": "Een eerbetoon aan het Scandinavische smørrebrød in zijn meest verfijnde vorm. Donker Fries of Deens roggebrood als basis voor een citroen-mierikswortelcrème, een geplooid satijn-lint gerookte zalm en frisse appel-dille brunoise. Vlak voor serveren een paar druppels warme mosterdboter over de koude zalm: dat warm-koud contrast met zijn boter-mosterd-citroen-aroma is de twist die dit van klassiek zalmtoastje tilt naar een serieuze restaurant-amuse. Geen brunchhap, maar een Scandinavische borrelklassieker die de keuken van een sterrenrestaurant is binnengelopen.",
+      "full_intro": "Donker roggebrood met citroen-mierikswortelcrème, geplooid satijn-lint gerookte zalm en frisse appel-dille brunoise — afgewerkt met warme mosterdboter. De twist die dit van klassiek zalmtoastje naar restaurant-amuse tilt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de roggebrood-basis (12 stuks van 3×6cm)",
+          "ingredients": [
+            {
+              "name": "dunne sneden goed donker roggebrood (Fries roggebrood, Deens rugbrød, Pumpernickel of Schwarzbrot — geen fitness-rogge met zaadjes en rozijnen)",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de citroen-mierikswortelcrème",
+          "ingredients": [
+            {
+              "name": "volle crème fraîche (40% vet)",
+              "amount": "100g"
+            },
+            {
+              "name": "verse mierikswortel, fijn geraspt (microplane) of goede mierikswortel-pasta",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijne rasp van ½ onbespoten citroen",
+              "amount": ""
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "snufje fijn zeezout en vers gemalen witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de appel-dille brunoise",
+          "ingredients": [
+            {
+              "name": "Granny Smith appel, geschild",
+              "amount": "½"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "milde olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse dille, zeer fijn gehakt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "snufje fijn zeezout en vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de warme mosterdboter",
+          "ingredients": [
+            {
+              "name": "ongezouten roomboter",
+              "amount": "35g"
+            },
+            {
+              "name": "grove mosterd (moutarde à l'ancienne, zichtbare mosterdzaadjes)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "honing",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": ""
+            },
+            {
+              "name": "snufje fijn zeezout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gerookte zalm en afwerking",
+          "ingredients": [
+            {
+              "name": "gerookte zalm van goede kwaliteit (Schotse of Noorse koud-gerookte zalm, Foppen Royal)",
+              "amount": "180g"
+            },
+            {
+              "name": "dille-puntjes (kleine pluimpjes)",
+              "amount": "12"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            },
+            {
+              "name": "forelkuit of kaviaar (optioneel, voor extra ziltigheid)",
+              "amount": "30g"
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de roggebrood-basis",
+          "ingredients": [
+            "4 dunne sneden goed donker roggebrood (Fries roggebrood, Deens rugbrød, Pumpernickel of Schwarzbrot)"
+          ]
+        },
+        {
+          "group_name": "Voor de citroen-mierikswortelcrème",
+          "ingredients": [
+            "100g volle crème fraîche (40% vet)",
+            "½ tl verse mierikswortel fijn geraspt of goede mierikswortel-pasta",
+            "Fijne rasp van ½ onbespoten citroen",
+            "½ tl vers citroensap",
+            "Snufje fijn zeezout en vers gemalen witte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de appel-dille brunoise",
+          "ingredients": [
+            "½ Granny Smith appel geschild",
+            "1 tl vers citroensap",
+            "1 tl milde olijfolie",
+            "1 tl verse dille zeer fijn gehakt",
+            "Snufje fijn zeezout en vers gemalen zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de warme mosterdboter",
+          "ingredients": [
+            "35g ongezouten roomboter",
+            "1 tl grove mosterd (moutarde à l'ancienne)",
+            "½ tl honing",
+            "Paar druppels vers citroensap",
+            "Snufje fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de gerookte zalm en afwerking",
+          "ingredients": [
+            "180g gerookte zalm van goede kwaliteit (Schotse of Noorse koud-gerookt, Foppen Royal)",
+            "12 dille-puntjes",
+            "Vers gemalen zwarte peper",
+            "30g forelkuit of kaviaar (optioneel)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Citroen-mierikswortelcrème maken (kan een paar uur vooraf)",
+          "description": "Roer in een schaaltje crème fraîche, vers geraspte mierikswortel (of goede mierikswortel-pasta), citroenrasp, citroensap, zout en witte peper tot homogeen. Proef en stel af — de crème moet fris en licht prikkelend zijn van de mierikswortel, maar niet domineren. Hij is de brug tussen rogge en zalm. Dek af en zet koud tot gebruik."
+        },
+        {
+          "number": 2,
+          "action": "Appel-dille brunoise maken (max 30 min vooraf)",
+          "description": "Schil de halve Granny Smith en snijd in plakjes van 2–3mm, dan in dunne reepjes, dan kruisig in mini-blokjes van 2–3mm. Klein is essentieel — grote blokjes voelen grof. Meng direct met citroensap, olijfolie, dille, zout en zwarte peper. Het citroensap voorkomt bruining. Niet meer dan 30 minuten vooraf maken — anders verliest de appel zijn knapperigheid."
+        },
+        {
+          "number": 3,
+          "action": "Warme mosterdboter maken (vlak voor serveren)",
+          "description": "Smelt de boter rustig in een klein pannetje op laag vuur — eventueel heel licht nootachtig maar absoluut niet bruin-donker. Roer grove mosterd, honing, citroensap en zout door de gesmolten boter. Niet meer koken — alleen warm houden. Zet op zeer laag vuur of in een waterbad. Roer af en toe — de mosterd kan uitzakken, even doorroeren herstelt de emulsie."
+        },
+        {
+          "number": 4,
+          "action": "Roggebrood snijden en zalm plooien",
+          "description": "Snijd de 4 sneden donker roggebrood met een scherp kartelmes in nette rechthoeken van 3×6cm — per snede 3 stukjes, totaal 12. Geen bakken of toasting. Snijd vlak voor plating. Snijd de gerookte zalm in linten van circa 2×5cm. Vouw of plooi elk lint losjes — geen platte plak, dat ziet er uit als catering. Een geplooid lint geeft beweging, satijnglans en luxe-uitstraling."
+        },
+        {
+          "number": 5,
+          "action": "Plating en serveren",
+          "description": "Leg per bord 3 roggebrood-rechthoeken in een nette rij of driehoek met negatieve ruimte. Lepel of spuit een dunne dichte laag citroen-mierikswortelcrème over elk stukje — circa 3mm dik, de donkere roggebrood-randen moeten zichtbaar blijven. Plooi een satijn-lint zalm op elk hapje met enige hoogte. Lepel een klein hoopje appel-dille-brunoise naast of deels op de zalm — circa ½ tl per hapje. Druppel 3 à 4 druppels warme mosterdboter precies over de zalm. Optioneel: 3 à 5 pareltjes forelkuit of kaviaar per hapje. Zet één dille-puntje verticaal in elk hapje, draai een fijne grind zwarte peper boven het bord. Direct serveren op een donker bord of licht houten plankje."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Citroen-mierikswortelcrème maken (kan een paar uur vooraf)",
+          "description": "Roer in een schaaltje crème fraîche, vers geraspte mierikswortel (of goede mierikswortel-pasta), citroenrasp, citroensap, zout en witte peper tot homogeen. Proef en stel af — de crème moet fris en licht prikkelend zijn van de mierikswortel, maar niet domineren. Hij is de brug tussen rogge en zalm. Dek af en zet koud tot gebruik."
+        },
+        {
+          "number": 2,
+          "section": "Appel-dille brunoise maken (max 30 min vooraf)",
+          "description": "Schil de halve Granny Smith en snijd in plakjes van 2–3mm, dan in dunne reepjes, dan kruisig in mini-blokjes van 2–3mm. Klein is essentieel — grote blokjes voelen grof. Meng direct met citroensap, olijfolie, dille, zout en zwarte peper. Het citroensap voorkomt bruining. Niet meer dan 30 minuten vooraf maken — anders verliest de appel zijn knapperigheid."
+        },
+        {
+          "number": 3,
+          "section": "Warme mosterdboter maken (vlak voor serveren)",
+          "description": "Smelt de boter rustig in een klein pannetje op laag vuur — eventueel heel licht nootachtig maar absoluut niet bruin-donker. Roer grove mosterd, honing, citroensap en zout door de gesmolten boter. Niet meer koken — alleen warm houden. Zet op zeer laag vuur of in een waterbad. Roer af en toe — de mosterd kan uitzakken, even doorroeren herstelt de emulsie."
+        },
+        {
+          "number": 4,
+          "section": "Roggebrood snijden en zalm plooien",
+          "description": "Snijd de 4 sneden donker roggebrood met een scherp kartelmes in nette rechthoeken van 3×6cm — per snede 3 stukjes, totaal 12. Geen bakken of toasting. Snijd vlak voor plating. Snijd de gerookte zalm in linten van circa 2×5cm. Vouw of plooi elk lint losjes — geen platte plak, dat ziet er uit als catering. Een geplooid lint geeft beweging, satijnglans en luxe-uitstraling."
+        },
+        {
+          "number": 5,
+          "section": "Plating en serveren",
+          "description": "Leg per bord 3 roggebrood-rechthoeken in een nette rij of driehoek met negatieve ruimte. Lepel of spuit een dunne dichte laag citroen-mierikswortelcrème over elk stukje — circa 3mm dik, de donkere roggebrood-randen moeten zichtbaar blijven. Plooi een satijn-lint zalm op elk hapje met enige hoogte. Lepel een klein hoopje appel-dille-brunoise naast of deels op de zalm — circa ½ tl per hapje. Druppel 3 à 4 druppels warme mosterdboter precies over de zalm. Optioneel: 3 à 5 pareltjes forelkuit of kaviaar per hapje. Zet één dille-puntje verticaal in elk hapje, draai een fijne grind zwarte peper boven het bord. Direct serveren op een donker bord of licht houten plankje."
+        }
+      ],
+      "tips": [
+        "Goed donker roggebrood is de basis: Friese roggebrood, Deens rugbrød, Pumpernickel of Schwarzbrot — dicht, kruidig, lichtjes zuur. Geen fitness-rogge met zonnebloempitten of rozijnen. Bij goede bakker, Albert Heijn, Lidl Deluxe of een Duits-Scandinavische delicatessenwinkel.",
+        "Niet bakken — laat het roggebrood zoals het is: goed donker roggebrood heeft de juiste dichte textuur. Bakken maakt het kunstmatig crunchy en haalt de smørrebrød-ziel eruit.",
+        "Verse mierikswortel maakt een groot verschil: schil en rasp op microplane vlak voor gebruik. Geen verse mierikswortel? Goede mierikswortel-pasta uit glas (alleen mierikswortel, azijn, zout). Vermijd horseradish-cream of -sauce — te zoet.",
+        "Geen roomkaas in de crème: roomkaas maakt het log en standaard. Crème fraîche met citroen en mierikswortel is frisser, scherper en eleganter.",
+        "Warme mosterdboter is de signature — niet weglaten: het verschil tussen smørrebrød en restaurant-amuse. 3 à 4 druppels per hapje — niet meer, anders wordt het zwaar.",
+        "Zalm in plooi-lint, niet plat: een geplooid lint geeft hoogte en restaurant-uitstraling. Een platte plak ziet eruit als beleg.",
+        "Appel extreem klein snijden — brunoise van 2mm: grote blokjes voelen grof. Vlak voor plating maken, anders bruint de appel.",
+        "Gerookte zalm kwaliteit: Schotse of Noorse koud-gerookte zalm (Foppen Royal of goede vishandel). Vermijd smoked salmon trimmings. Zijdezacht en glanzend — niet stug of droog.",
+        "Variatie met gerookte forel: 1-op-1 inwisselbaar. Smaakprofiel iets milder. Friese forel of IJsselmeer-forel uit goede vishandel.",
+        "Voor extra Scandinavische coherentie: serveer een klein shotglas ijskoude aquavit erbij — het eeuwen-oude Scandinavische ritueel bij gerookte vis. Skål!"
+      ],
+      "tips_full": [
+        "Goed donker roggebrood is de basis: Friese roggebrood, Deens rugbrød, Pumpernickel of Schwarzbrot — dicht, kruidig, lichtjes zuur. Geen fitness-rogge met zonnebloempitten of rozijnen. Bij goede bakker, Albert Heijn, Lidl Deluxe of een Duits-Scandinavische delicatessenwinkel.",
+        "Niet bakken — laat het roggebrood zoals het is: goed donker roggebrood heeft de juiste dichte textuur. Bakken maakt het kunstmatig crunchy en haalt de smørrebrød-ziel eruit.",
+        "Verse mierikswortel maakt een groot verschil: schil en rasp op microplane vlak voor gebruik. Geen verse mierikswortel? Goede mierikswortel-pasta uit glas (alleen mierikswortel, azijn, zout). Vermijd horseradish-cream of -sauce — te zoet.",
+        "Geen roomkaas in de crème: roomkaas maakt het log en standaard. Crème fraîche met citroen en mierikswortel is frisser, scherper en eleganter.",
+        "Warme mosterdboter is de signature — niet weglaten: het verschil tussen smørrebrød en restaurant-amuse. 3 à 4 druppels per hapje — niet meer, anders wordt het zwaar.",
+        "Zalm in plooi-lint, niet plat: een geplooid lint geeft hoogte en restaurant-uitstraling. Een platte plak ziet eruit als beleg.",
+        "Appel extreem klein snijden — brunoise van 2mm: grote blokjes voelen grof. Vlak voor plating maken, anders bruint de appel.",
+        "Gerookte zalm kwaliteit: Schotse of Noorse koud-gerookte zalm (Foppen Royal of goede vishandel). Vermijd smoked salmon trimmings. Zijdezacht en glanzend — niet stug of droog.",
+        "Variatie met gerookte forel: 1-op-1 inwisselbaar. Smaakprofiel iets milder. Friese forel of IJsselmeer-forel uit goede vishandel.",
+        "Voor extra Scandinavische coherentie: serveer een klein shotglas ijskoude aquavit erbij — het eeuwen-oude Scandinavische ritueel bij gerookte vis. Skål!"
+      ],
+      "opmaak_presentatie": "Kleine donkere borden (zwart-mat keramiek, donker hout, leisteen) van 16–18cm. Drie mini-hapjes in rij of driehoekje met negatieve ruimte. Zalm als visueel middelpunt: geplooid als satijn, niet plat. Appel-dille brunoise als klein groen-wit accent (1 tl per hapje). Mosterdboter-druppels glanzen mosterd-gouden op de roze zalm — visueel statement. Forelkuit als precieze stippen. Dille-puntjes verticaal voor hoogte. Direct serveren — de warme mosterdboter mag nog lichtjes warm zijn als het op tafel komt.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Riesling Trocken — Mosel of Rheingau, Duitsland",
+          "druif": "Riesling (100%)",
+          "smaakprofiel": "Volledig droog, groene appel, rijpe peer, limoenrasp, witte bloemen, leisteen-mineraliteit en lichte petroleum-toets. Hoge zuren, slank, lange minerale finale.",
+          "omschrijving": "Selbach-Oster Trocken, Dr. Loosen Dry of Künstler Riesling Trocken zijn archetypes. Reken op €12–20. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Riesling Trocken bij gerookte vis is een van de meest beproefde pairings in de Europese keuken. De hoge zuren snijden door de vetheid van de zalm én de warme mosterdboter; de leisteen-mineraliteit verbindt met de mierikswortel-pit; de groene appel vindt de Granny Smith brunoise; de limoenrasp raakt de citroen in de crème en mosterdboter. Droogheid is hier essentieel — restsuiker zou de zilte zalm en mierikswortel verstoren."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Blanc Alsace — Elzas, Frankrijk",
+          "druif": "Pinot Blanc",
+          "smaakprofiel": "Droog, witte peer, gele appel, witte bloemen, hazelnoot, lichte vetheid en kruidige mineraliteit. Middelvol mondgevoel, frisse zuren, ronde finale.",
+          "omschrijving": "Trimbach, Domaine Weinbach of Pierre Sparr zijn archetypes. Reken op €10–15. Serveer bij 10–12°C.",
+          "waarom_werkt_dit": "Voor wie minder van Riesling's strakke scherpte houdt. Pinot Blanc heeft genoeg vetheid om de gerookte zalm met respect te ontmoeten; de hazelnoot- en kruidigheid vinden de mosterd en mierikswortel; de frisse zuren snijden door de crème fraîche en mosterdboter. Iets voller dan Riesling — mooi voor wie het amuse als volledig voorgerecht wil presenteren."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Aquavit, ijskoud — Scandinavië",
+          "druif": "Gedistilleerde graanjenever met karwij, anijszaad, dille en koriander",
+          "smaakprofiel": "Sterk, helder, karwij (dominant), anijs, dille, koriander, citrus. Alcohol 38–45%.",
+          "omschrijving": "Aalborg Aquavit (Denemarken), Linie Aquavit (Noorwegen) of Skåne Aquavit (Zweden). Reken op €18–30. Serveer ijskoud in kleine borrel-glaasjes (2–3cl per persoon).",
+          "waarom_werkt_dit": "Aquavit is in Scandinavië de geboren partner van gerookte vis en smørrebrød. De karwij- en dille-aroma's spiegelen de dille in het gerecht direct; de anijs verbindt met de Granny Smith-frisheid; de hoge alcohol spoelt het palet schoon. De Scandinavische eet-traditie wil dat je aquavit in één teug drinkt — geeft het amuse-moment een ritueel-karakter."
+        }
+      ],
+      "wine": {
+        "naam": "Riesling Trocken — Mosel of Rheingau, Duitsland",
+        "druif": "Riesling (100%)",
+        "toelichting": "Hoge zuren snijden door zalm en mosterdboter; leisteen-mineraliteit verbindt met mierikswortel; groene appel vindt de Granny Smith brunoise. Serveer op 8–10°C.",
+        "alternatief": "Pinot Blanc Alsace (€10–15) of Aquavit ijskoud (Scandinavisch ritueel bij gerookte vis)"
+      },
+      "metadata": {
+        "bereidingstijd": "30 min hands-on",
+        "porties": "4 amuse-porties (3 per persoon)",
+        "type_gerecht": "Amuse / luxe borrelhap",
+        "niveau": "Makkelijk"
+      },
+      "source_recipe_number": 181,
+      "full_title_docx": "181. ROGGEBROOD MET GEROOKTE ZALM, APPEL-DILLE EN WARME MOSTERDBOTER"
     }
   ]
 }
