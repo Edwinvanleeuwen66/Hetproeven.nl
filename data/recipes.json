@@ -26576,7 +26576,7 @@
       "time": "15 min",
       "servings": "8–10 rolletjes (4 personen als amuse)",
       "difficulty": "Makkelijk",
-      "keuken": "Italiaans",
+      "keuken": "Frans",
       "categorie": "amuse",
       "image": "/assets/images/mangorolletje-krabsalade-limoen-piment-espelette.jpg",
       "short_description": "Eén van de vrolijkste amuses van dit boek. Een flinterdun plakje rijpe maar stevige mango strak opgerold rond een frisse krabsalade van de visboer met limoen, bieslook en piment d'Espelette. Schuin doorgesneden zodat de krabvulling zichtbaar is.",
@@ -43025,7 +43025,7 @@
       "time": "40 min",
       "servings": "2 royale porties",
       "difficulty": "Gemiddeld",
-      "keuken": "Spaans",
+      "keuken": "Frans",
       "categorie": "vlees",
       "image": "/assets/images/entrecote-sauce-espelette-rouge-sjalottenjus.jpg",
       "short_description": "De saus is het gerecht. Niet de biefstuk — die is het voertuig. Een sauce Espelette rouge: langzaam gesmolten sjalotten, rode wijn, sherryazijn, kalfsfond, geroosterde rode papr...",
@@ -47518,7 +47518,7 @@
       "time": "45 min (plus 1 uur invriezen)",
       "servings": "4 personen (3–4 ravioli pp als amuse)",
       "difficulty": "Gemiddeld",
-      "keuken": "Spaans",
+      "keuken": "Italiaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/transparante-pesto-ravioli-parmigiano-saus-disfrutar.jpg",
       "short_description": "Disfrutar's avant-garde techniekdemo: een doorzichtige rijstpapier-ravioli gevuld met bevroren pesto die je in warme Parmigiano-saus dipt — één hap, de pesto explodeert vrij in je mond.",
@@ -61664,6 +61664,328 @@
       },
       "source_recipe_number": 181,
       "full_title_docx": "181. ROGGEBROOD MET GEROOKTE ZALM, APPEL-DILLE EN WARME MOSTERDBOTER"
+    },
+    {
+      "title": "Mosselen à la Chalaca met Ají Amarillo-Crème",
+      "slug": "mosselen-chalaca-aji-amarillo-creme",
+      "location": "Peru / kust-keuken",
+      "time": "40 min hands-on + 30 min koeltijd",
+      "servings": "4 personen (3 mosselen per persoon, totaal 12)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mosselen-chalaca-aji-amarillo-creme.jpg",
+      "short_description": "Koude Zeeuwse mosselen in hun schelp, bedekt met een glanzend oranje harnas van ají amarillo-crème en afgewerkt met een frisse salsa Chalaca. Wat bekend is als pan-mosselen-met-friet krijgt hier de Peruaanse upgrade naar koude sterren-amuse.",
+      "description": "Een eerbetoon aan de Peruaanse kust-keuken in zijn meest verfijnde amuse-vorm. Drie koude Zeeuwse mosselen, één voor één in hun eigen halve schelp gepresenteerd op een bedje van grof zeezout of paars zeewier, bedekt met een glanzend oranje harnas van fluweelzachte ají amarillo-crème — Peruaanse gele chili met mayonaise, crème fraîche, limoen, knoflook en een hint sinaasappel. Daarop een fijne salsa Chalaca van rode ui, tomaat, rode peper en koriander, vlak voor serveren met limoensap aangezet. Drie per persoon op een klein donker plankje — koud, zilt, fris, lichtjes pittig en fel oranje.",
+      "full_intro": "Koude Zeeuwse mosselen bedekt met een glanzend oranje harnas van ají amarillo-crème en een frisse salsa Chalaca — de Peruaanse upgrade van pan-mosselen-met-friet naar koude sterren-amuse.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de mosselen",
+          "ingredients": [
+            {
+              "name": "verse Zeeuwse mosselen (in seizoen, augustus–april)",
+              "amount": "1kg"
+            },
+            {
+              "name": "droge witte wijn (Albariño, Sauvignon Blanc) of water",
+              "amount": "100ml"
+            },
+            {
+              "name": "sjalot, grof gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, gekneusd",
+              "amount": "1"
+            },
+            {
+              "name": "verse koriander (of peterselie)",
+              "amount": "enkele takjes"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de ají amarillo-crème",
+          "ingredients": [
+            {
+              "name": "ají amarillo-pasta (Inca's Food, Doña Isabel of Goya)",
+              "amount": "2 el"
+            },
+            {
+              "name": "goede mayonaise (Calvé, zelfgemaakt of Kewpie)",
+              "amount": "2 el"
+            },
+            {
+              "name": "volle crème fraîche",
+              "amount": "1 el"
+            },
+            {
+              "name": "gezeefd mosselvocht (uit de kookpan)",
+              "amount": "1 el"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijne limoenrasp",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijne sinaasappelrasp",
+              "amount": "½ tl"
+            },
+            {
+              "name": "kleine teen knoflook, zeer fijn geraspt",
+              "amount": "½"
+            },
+            {
+              "name": "honing",
+              "amount": "½ tl"
+            },
+            {
+              "name": "snufje fijn zeezout en vers gemalen witte peper",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de salsa Chalaca",
+          "ingredients": [
+            {
+              "name": "kleine rode ui, in zeer fijne brunoise (2mm)",
+              "amount": "½"
+            },
+            {
+              "name": "kleine rijpe tomaat, ontveld, ontpit, in zeer fijne brunoise (2mm)",
+              "amount": "1"
+            },
+            {
+              "name": "rode peper (rawit of milde Spaanse peper, zonder zaden), in zeer fijne brunoise",
+              "amount": "½"
+            },
+            {
+              "name": "verse korianderblaadjes, zeer fijn gehakt",
+              "amount": "1 el"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "goede milde olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "snufje fijn zeezout",
+              "amount": ""
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking en het serveer-bord",
+          "ingredients": [
+            {
+              "name": "micro-blaadjes verse koriander",
+              "amount": "12"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": ""
+            },
+            {
+              "name": "goede olijfolie voor glans (optioneel)",
+              "amount": "enkele druppels"
+            },
+            {
+              "name": "fijne rasp van ½ limoen (optioneel)",
+              "amount": ""
+            },
+            {
+              "name": "grof zeezout, crushed ice of schoon paars zeewier",
+              "amount": "200g"
+            },
+            {
+              "name": "dunne krokante crackers (Carr's Table Water Crackers, optioneel)",
+              "amount": "4–8"
+            }
+          ]
+        }
+      ],
+      "ingredient_groups_full": [
+        {
+          "group_name": "Voor de mosselen",
+          "ingredients": [
+            "1kg verse Zeeuwse mosselen",
+            "100ml droge witte wijn (Albariño, Sauvignon Blanc) of water",
+            "1 sjalot grof gehakt",
+            "1 teen knoflook gekneusd",
+            "Enkele takjes verse koriander",
+            "Vers gemalen zwarte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de ají amarillo-crème",
+          "ingredients": [
+            "2 el ají amarillo-pasta",
+            "2 el goede mayonaise",
+            "1 el volle crème fraîche",
+            "1 el gezeefd mosselvocht",
+            "1 tl vers limoensap",
+            "½ tl fijne limoenrasp",
+            "½ tl fijne sinaasappelrasp",
+            "½ kleine teen knoflook zeer fijn geraspt",
+            "½ tl honing",
+            "Snufje fijn zeezout en vers gemalen witte peper"
+          ]
+        },
+        {
+          "group_name": "Voor de salsa Chalaca",
+          "ingredients": [
+            "½ kleine rode ui in zeer fijne brunoise (2mm)",
+            "1 kleine rijpe tomaat ontveld ontpit in brunoise",
+            "½ rode peper zonder zaden in brunoise",
+            "1 el verse koriander zeer fijn gehakt",
+            "1 el vers limoensap",
+            "1 tl goede milde olijfolie",
+            "Snufje fijn zeezout"
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking en het serveer-bord",
+          "ingredients": [
+            "12 micro-blaadjes verse koriander",
+            "Vers gemalen zwarte peper",
+            "Enkele druppels goede olijfolie (optioneel)",
+            "Fijne rasp van ½ limoen (optioneel)",
+            "200g grof zeezout, crushed ice of schoon paars zeewier",
+            "4–8 dunne krokante crackers (optioneel)"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "action": "Mosselen reinigen en koken (kan een paar uur vooraf)",
+          "description": "Spoel de mosselen onder koud stromend water, verwijder eventuele baarden. Gooi mosselen weg die open staan en niet sluiten bij een tik, of met gebroken schelpen. Doe de witte wijn (of water), sjalot, gekneusde knoflook, koriandertakjes en wat peper in een ruime pan en breng aan de kook. Gooi de mosselen erbij, deksel erop, schud krachtig en kook 3 à 5 minuten tot alle mosselen open zijn — schud halverwege één keer. Net open is genoeg; overkoken maakt het mosselvlees taai."
+        },
+        {
+          "number": 2,
+          "action": "Schelpen scheiden en koelen",
+          "description": "Haal de mosselen onmiddellijk uit de pan met een schuimspaan — niet laten nadoorgaren. Laat 2 minuten lichtjes afkoelen. Verwijder van elke mossel één helft van de schelp; laat het mosselvlees in de mooiste halve schelp zitten. Selecteer de 12 mooiste, gelijkmatig-gevormde schelpen. Zeef het kookvocht door een fijne zeef; houd 1 eetlepel apart voor de saus. Plaats de halve schelpen met mosselvlees op een bord, dek af en koel minimaal 30 minuten — maximaal 4 uur vooraf."
+        },
+        {
+          "number": 3,
+          "action": "Ají amarillo-crème maken (kan een dag vooraf)",
+          "description": "Doe in een schaaltje ají amarillo-pasta, mayonaise, crème fraîche, mosselvocht, limoensap, limoenrasp, sinaasappelrasp, knoflook en honing. Roer tot egaal en homogeen — de saus moet helder oranje zijn, glanzend en dik genoeg om als laag op een mossel te blijven hangen, niet vloeibaar. Test: lepel een dotje op een bord — moet zijn vorm houden. Te dik? Iets mosselvocht toevoegen. Te scherp? Extra honing en crème fraîche. Proef en stel af met zout, witte peper en eventueel meer limoensap. Dek af en koel minimaal 30 minuten — tot 24 uur vooraf maakbaar."
+        },
+        {
+          "number": 4,
+          "action": "Salsa Chalaca maken (maximaal 30 min vooraf)",
+          "description": "Snijd rode ui, ontvelde en ontpitte tomaat en rode peper in zeer fijne brunoise van ongeveer 2mm. Combineer in een schaaltje. Voeg de fijngehakte koriander, limoensap, olijfolie en zout toe. Roer voorzichtig door. Niet eerder dan 30 minuten vooraf maken — langer in pickle maakt de tomaat slap en de ui scherper."
+        },
+        {
+          "number": 5,
+          "action": "Plating en serveren",
+          "description": "Verdeel grof zeezout, crushed ice of schoon paars zeewier over 4 kleine donkere plankjes — een handvol per plankje als zee-bedje. Zet 3 halve schelpen met mossel per plankje neer in een driehoek of strakke rij, druk lichtjes in het zout zodat ze stevig staan. Lepel of spuit een royale dot ají amarillo-crème over elke mossel — als een glanzend oranje harnas dat de mossel bijna geheel bedekt, ongeveer 1 grote koffielepel per mossel. Lepel een klein hoopje (½ tl) salsa Chalaca geconcentreerd op de top van elke saus-laag. Plaats één micro-blaadje koriander op of naast de topping. Eén draai vers gemalen zwarte peper boven het plankje, eventueel een druppel olijfolie of fijne limoenrasp. Direct serveren — koud, eventueel met dunne crackers ernaast."
+        }
+      ],
+      "steps_full": [
+        {
+          "number": 1,
+          "section": "Mosselen reinigen en koken (kan een paar uur vooraf)",
+          "description": "Spoel de mosselen onder koud stromend water, verwijder eventuele baarden. Gooi mosselen weg die open staan en niet sluiten bij een tik, of met gebroken schelpen. Doe de witte wijn (of water), sjalot, gekneusde knoflook, koriandertakjes en wat peper in een ruime pan en breng aan de kook. Gooi de mosselen erbij, deksel erop, schud krachtig en kook 3 à 5 minuten tot alle mosselen open zijn — schud halverwege één keer. Net open is genoeg; overkoken maakt het mosselvlees taai."
+        },
+        {
+          "number": 2,
+          "section": "Schelpen scheiden en koelen",
+          "description": "Haal de mosselen onmiddellijk uit de pan met een schuimspaan — niet laten nadoorgaren. Laat 2 minuten lichtjes afkoelen. Verwijder van elke mossel één helft van de schelp; laat het mosselvlees in de mooiste halve schelp zitten. Selecteer de 12 mooiste, gelijkmatig-gevormde schelpen. Zeef het kookvocht door een fijne zeef; houd 1 eetlepel apart voor de saus. Plaats de halve schelpen met mosselvlees op een bord, dek af en koel minimaal 30 minuten — maximaal 4 uur vooraf."
+        },
+        {
+          "number": 3,
+          "section": "Ají amarillo-crème maken (kan een dag vooraf)",
+          "description": "Doe in een schaaltje ají amarillo-pasta, mayonaise, crème fraîche, mosselvocht, limoensap, limoenrasp, sinaasappelrasp, knoflook en honing. Roer tot egaal en homogeen — de saus moet helder oranje zijn, glanzend en dik genoeg om als laag op een mossel te blijven hangen, niet vloeibaar. Test: lepel een dotje op een bord — moet zijn vorm houden. Te dik? Iets mosselvocht toevoegen. Te scherp? Extra honing en crème fraîche. Proef en stel af met zout, witte peper en eventueel meer limoensap. Dek af en koel minimaal 30 minuten — tot 24 uur vooraf maakbaar."
+        },
+        {
+          "number": 4,
+          "section": "Salsa Chalaca maken (maximaal 30 min vooraf)",
+          "description": "Snijd rode ui, ontvelde en ontpitte tomaat en rode peper in zeer fijne brunoise van ongeveer 2mm. Combineer in een schaaltje. Voeg de fijngehakte koriander, limoensap, olijfolie en zout toe. Roer voorzichtig door. Niet eerder dan 30 minuten vooraf maken — langer in pickle maakt de tomaat slap en de ui scherper."
+        },
+        {
+          "number": 5,
+          "section": "Plating en serveren",
+          "description": "Verdeel grof zeezout, crushed ice of schoon paars zeewier over 4 kleine donkere plankjes — een handvol per plankje als zee-bedje. Zet 3 halve schelpen met mossel per plankje neer in een driehoek of strakke rij, druk lichtjes in het zout zodat ze stevig staan. Lepel of spuit een royale dot ají amarillo-crème over elke mossel — als een glanzend oranje harnas dat de mossel bijna geheel bedekt, ongeveer 1 grote koffielepel per mossel. Lepel een klein hoopje (½ tl) salsa Chalaca geconcentreerd op de top van elke saus-laag. Plaats één micro-blaadje koriander op of naast de topping. Eén draai vers gemalen zwarte peper boven het plankje, eventueel een druppel olijfolie of fijne limoenrasp. Direct serveren — koud, eventueel met dunne crackers ernaast."
+        }
+      ],
+      "tips": [
+        "Verse mosselen, geen vacuüm voorgekookte: voor een goed amuse heb je verse Zeeuwse mosselen nodig (in seizoen aug–apr). Vacuüm voorgekookte mosselen zijn taai en mistig in textuur — beste kwaliteit is jumbo-Zeeuwse mossel.",
+        "Mosselen koken kort en krachtig: 3–5 minuten op hoog vuur tot ze net open zijn. Direct uit de pan halen, niet laten nadoorgaren. Koud opslaan minimaal 30 minuten — dit is een puur koud gerecht.",
+        "Ají amarillo-pasta is dé sleutel: verse aji amarillo-chili is zelden te krijgen in Nederland, maar de pasta in glas is breed verkrijgbaar online (Tokoshop) of bij Latijns-Amerikaanse winkels. Inca's Food, Doña Isabel of Goya. Reken op €4–6 per glas.",
+        "Geen ají amarillo? De gele paprika-shortcut: pureer 1 geroosterde gele paprika uit een pot met ½ tl sambal oelek en een snufje kurkuma voor de fel-gele kleur. Gebruik 2 à 3 el van deze puree in plaats van de aji-pasta.",
+        "De saus moet dik genoeg zijn om als harnas te blijven liggen: test met een dotje op een bord — blijft hij zijn vorm houden? Zo niet, voeg een halve theelepel extra mayonaise toe.",
+        "Sinaasappelrasp is de geheime Peruaanse signature: een halve theelepel fijne sinaasappelrasp geeft een fruitig-zoete ronding die de aji-pit balanceert — niet weglaten, ook al lijkt het klein.",
+        "Honing in de saus is geen vergissing: het vangt de scherpe pit van de aji op en geeft extra glans — klassieke chef-techniek, geen poging om het zoet te maken.",
+        "Tomaat ontvellen en ontpitten voor de salsa: snijd een kruis in de top, dompel 30 seconden in kokend water, dan in ijswater — het vel laat los. Ontpit met een theelepel.",
+        "Bedje-keuze: grof zeezout (Maldon-vlokken) is het meest praktisch en visueel klassiek. Crushed ice is theatraler maar smelt snel — alleen binnen 10 minuten serveren. Voor de gemiddelde thuiskok is grof zeezout de winnaar.",
+        "Variatie en feestelijke uitbreidingen: voor extra Peruaanse coherentie een paar korrels gekookte choclo (Peruaanse witte mais) op elke mossel. Voor extra luxe: forelkuit of zwarte kaviaar op de top voor zilte glans tegen de oranje saus."
+      ],
+      "tips_full": [
+        "Verse mosselen, geen vacuüm voorgekookte: voor een goed amuse heb je verse Zeeuwse mosselen nodig (in seizoen aug–apr). Vacuüm voorgekookte mosselen zijn taai en mistig in textuur — beste kwaliteit is jumbo-Zeeuwse mossel.",
+        "Mosselen koken kort en krachtig: 3–5 minuten op hoog vuur tot ze net open zijn. Direct uit de pan halen, niet laten nadoorgaren. Koud opslaan minimaal 30 minuten — dit is een puur koud gerecht.",
+        "Ají amarillo-pasta is dé sleutel: verse aji amarillo-chili is zelden te krijgen in Nederland, maar de pasta in glas is breed verkrijgbaar online (Tokoshop) of bij Latijns-Amerikaanse winkels. Inca's Food, Doña Isabel of Goya. Reken op €4–6 per glas.",
+        "Geen ají amarillo? De gele paprika-shortcut: pureer 1 geroosterde gele paprika uit een pot met ½ tl sambal oelek en een snufje kurkuma voor de fel-gele kleur. Gebruik 2 à 3 el van deze puree in plaats van de aji-pasta.",
+        "De saus moet dik genoeg zijn om als harnas te blijven liggen: test met een dotje op een bord — blijft hij zijn vorm houden? Zo niet, voeg een halve theelepel extra mayonaise toe.",
+        "Sinaasappelrasp is de geheime Peruaanse signature: een halve theelepel fijne sinaasappelrasp geeft een fruitig-zoete ronding die de aji-pit balanceert — niet weglaten, ook al lijkt het klein.",
+        "Honing in de saus is geen vergissing: het vangt de scherpe pit van de aji op en geeft extra glans — klassieke chef-techniek, geen poging om het zoet te maken.",
+        "Tomaat ontvellen en ontpitten voor de salsa: snijd een kruis in de top, dompel 30 seconden in kokend water, dan in ijswater — het vel laat los. Ontpit met een theelepel.",
+        "Bedje-keuze: grof zeezout (Maldon-vlokken) is het meest praktisch en visueel klassiek. Crushed ice is theatraler maar smelt snel — alleen binnen 10 minuten serveren. Voor de gemiddelde thuiskok is grof zeezout de winnaar.",
+        "Variatie en feestelijke uitbreidingen: voor extra Peruaanse coherentie een paar korrels gekookte choclo (Peruaanse witte mais) op elke mossel. Voor extra luxe: forelkuit of zwarte kaviaar op de top voor zilte glans tegen de oranje saus."
+      ],
+      "opmaak_presentatie": "Kleine donkere plankjes (zwart leisteen, donker hout) van 16–18cm. Bedje van grof zeezout, crushed ice of paars zeewier als fundamenteel onderdeel van de plating, niet als garnering. Drie mosselschelpen per persoon in driehoek of strakke rij. Het visuele middelpunt: het glanzend oranje harnas van ají-crème dat elke mossel bijna geheel bedekt — als een dikke laag vloeibare zon op een grijze schelp. Op de top: het frisrode-groene-witte mozaïek van de salsa Chalaca als geconcentreerde dot. Eén micro-blaadje koriander als verticaal accent. Direct serveren, koud — maximaal 5 minuten tussen plating en opdienen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Torrontés — Cafayate, Argentinië",
+          "druif": "Torrontés Riojano",
+          "smaakprofiel": "Droog tot off-dry, witte bloemen (jasmijn, oranjebloesem), perzik, lychee, citrus, lichte muskaat. Frisse zuren, slank tot middelvol mondgevoel, sappige finale.",
+          "omschrijving": "Bodega Colomé, El Esteco, Domingo Molina of Susana Balbo zijn archetypes. Reken op €10–18. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Torrontés is gastronomisch ontworpen voor Latijns-Amerikaanse keuken — bloemig en aromatisch genoeg om de ají amarillo-pit te ontvangen. De jasmijn- en oranjebloesem-aroma's vinden de sinaasappelrasp in de crème; de perzik en lychee verbinden met de fruitige aji-tonen. Een Argentijnse wijn bij een Peruaans gerecht is Zuid-Amerikaans-regionaal coherent — dezelfde Andes-gastronomische taal."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pisco Sour — Peruaanse cocktail",
+          "druif": "Pisco (druivenbrandewijn)",
+          "smaakprofiel": "Fris, zoet-zuur, romig-schuimig door het eiwit, limoen, druif en lichte bittere ondertonen. Alcohol ca. 15–17%.",
+          "omschrijving": "6cl pisco, 3cl verse limoensap, 2cl suikersiroop, ½ eiwit, ijs, 2 druppels angostura bitters. Pisco kost €25–35 per fles van 70cl.",
+          "waarom_werkt_dit": "De meest cultureel-coherente keuze — een Peruaans gerecht bij een Peruaanse cocktail is een statement. De limoen spiegelt de salsa Chalaca; het eiwitschuim verzacht de aji-pit. Serveer in kleine 4cl-glaasjes per persoon vanwege de hoge alcohol."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Verdejo Rueda — Castilla y León, Spanje",
+          "druif": "Verdejo (100%)",
+          "smaakprofiel": "Droog, citrus, groene appel, venkel, groene kruiden, lichte tropische toets (passievrucht) en amandel-bitter-finale. Frisse zuren, frisse mineraliteit.",
+          "omschrijving": "Pago de Carraovejas, Marqués de Riscal, José Pariente of Naia. Reken op €8–14. Breed verkrijgbaar bij AH, Gall & Gall. Serveer bij 8–10°C.",
+          "waarom_werkt_dit": "Verdejo heeft een kruidige citrus-en-venkel-spanning die direct werkt bij chili, koriander en limoen. De amandel-bitterheid houdt de romige aji-crème strak; de tropische toets sluit aan bij de aji amarillo en sinaasappelrasp. Breder verkrijgbaar en toegankelijker dan Torrontés."
+        }
+      ],
+      "wine": {
+        "naam": "Torrontés — Cafayate, Argentinië",
+        "druif": "Torrontés Riojano",
+        "toelichting": "Bloemig en aromatisch genoeg om de aji-pit te ontvangen; jasmijn en oranjebloesem vinden de sinaasappelrasp. Serveer op 8–10°C.",
+        "alternatief": "Pisco Sour (Peruaans, cultureel coherent) of Verdejo Rueda (€8–14, breed verkrijgbaar)"
+      },
+      "metadata": {
+        "bereidingstijd": "40 min hands-on + 30 min koeltijd",
+        "porties": "4 personen (12 mosselen)",
+        "type_gerecht": "Amuse / koud voorgerecht",
+        "niveau": "Gemiddeld"
+      },
+      "source_recipe_number": 182,
+      "full_title_docx": "182. MOSSELEN À LA CHALACA MET AJÍ AMARILLO-CRÈME"
     }
   ]
 }
