@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Hong Kong</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Suan Rong Fen Si Shan Bei — Kantonese gestoomde coquilles met gouden knoflook, gember en glasnoedels</h1>
-      <p class="recipe-intro">Het meest spectaculaire dim sum gerecht van de Kantonese keuken. Coquilles in de halve schelp op een bedje van zijdezachte glasnoedels die alle sappen opzuigen. De twee-knoflooktechniek: driekwart goudbruin gebakken, een kwart rauw.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min + 20 min weken glasnoedels</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten (2 coquilles pp)</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Suan Rong Fen Si Shan Bei — Kantonese gestoomde coquilles met gouden knoflook, gember en glasnoedels</div>
+  <div class="recipe-desc">Het meest spectaculaire dim sum gerecht van de Kantonese keuken. Coquilles in de halve schelp op een bedje van zijdezachte glasnoedels die alle sappen opzuigen. De twee-knoflooktechniek: driekwart goudbruin gebakken, een kwart rauw.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min + 20 min weken glasnoedels</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de coquilles</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8">8</span><span class="ing-name">grote verse coquilles in de halve schelp</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">Shaoxing rijstwijn</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">maizena (voor het reinigen)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf zeezout + witte peper</span></li></ul><h3 class="ing-group-title">Voor de glasnoedels</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="50 g">50 g</span><span class="ing-name">glazen mungboonvermicelli (cellophane noodles — transparant na weken)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">geroosterde sesamolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf witte peper</span></li></ul><h3 class="ing-group-title">Voor de gouden knoflook-gemberolie (vóór het stomen)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">teentjes knoflook, zo fijn mogelijk gehakt (verdeeld: ¾ voor bakken + ¼ rauw)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, zeer fijn geraspt</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">neutrale olie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">geroosterde sesamolie</span></li></ul><h3 class="ing-group-title">Voor de saus (ná het stomen)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">oestersaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">warm water</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Shaoxing rijstwijn</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijne suiker</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">paar druppels sesamolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf witte peper</span></li></ul><h3 class="ing-group-title">Voor de lin you finishing</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">neutrale olie (gloeiend heet — allerlaatst)</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">lente-uitjes, in flinterdunne julienne (alleen groen deel)</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">rode chili, zonder zaadjes, in flinterdunne ringen</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: paar blaadjes koriander of shiso</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Coquilles reinigen en marineren</strong><p>Coquilles in een kom. Bestrooi met maizena. Voorzichtig masseren — het zetmeel trekt zand en onzuiverheden eruit. Spoelen onder koud water tot helder. Droogdeppen. Bewaar de oranje roe — het smaakvolste deel. Bedruppelen met Shaoxing wijn. Snuf zout en witte peper. 5 minuten rusten.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Glasnoedels voorbereiden</strong><p>Glasnoedels 20 minuten weken in koud water tot transparant en soepel. Dan 30 seconden in kokend water. Direct afkoelen onder koud water. Goed uitlekken. Met een schaar doorsnijden in kortere lengtes zodat ze op de schelp passen. Glasnoedels voorzichtig mengen met lichte sojasaus, sesamolie en witte peper. Opzij zetten.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Gouden knoflook-gemberolie (twee-knoflooktechniek)</strong><p>Verhit 3 el neutrale olie in een kleine pan op laag tot middelhoog vuur. Voeg ¾ van de knoflook toe. Bak langzaam en geduldig — 2–3 minuten al roerend tot goudblond, nooit donkerbruin. Van het vuur halen. Resterende ¼ rauwe knoflook + geraspte gember + sesamolie direct erdoor roeren. De restwarmte maakt de rauwe elementen licht maar behoudt hun frisheid en scherpte.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">De saus mengen</strong><p>Alle sausingrediënten mengen tot een gladde, licht zoet-zoute mix. Opzij zetten — gaat pas na het stomen eroverheen.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Opbouwen in de schelpen</strong><p>Leg de schelpen stabiel op een hittebestendige schaal: zet ze op een dun laagje grof zeezout of kleine steentjes zodat ze niet verschuiven tijdens het stomen. Draai een nestje glasnoedels in elke schelp. Leg elke coquille erop. Schep een royale theelepel knoflook-gemberolie over elke coquille.</p></div></div><div class="step"><div class="step-num">10</div><div class="step-body"><strong class="step-action">Stomen</strong><p>Water krachtig aan de kook. Schelpen in het stoommandje of -oven. 4–6 minuten stomen op hoog vuur — 4 min voor middelgrote, 6 min voor grote coquilles. Klaar wanneer net ondoorzichtig en stevig maar nog zacht. Nooit langer — elke seconde te veel = rubber.</p></div></div><div class="step"><div class="step-num">11</div><div class="step-body"><strong class="step-action">Saus + Lin you finishing</strong><p>Direct na het stomen: schep een klein lepeltje saus over elke warme coquille. Leg de lente-ui julienne en chiliringen er losjes op. Verhit 3 el neutrale olie in een klein steelpannetje tot gloeiend heet — tot het rookpunt. Schep onmiddellijk 1 theelepel gloeiend hete olie over elke coquille. De lente-ui sist en de aromaten exploderen. Dit is de lin you-techniek van elk Hong Kong-sterrenrestaurant. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Twee-knoflooktechniek:</strong> Twee-knoflooktechniek is het hart: Gebakken knoflook geeft nootachtige zoetheid, rauw geeft pittige frisheid, gember geeft diepte. De drie samen zijn het geheim van elke Kantonese seafoodrestaurant.</div><div class="tip-item"><strong>Saus na het stomen:</strong> De sojasaus verliest zijn helderheid en frisheid door de hitte. Altijd pas na het stomen erover.</div><div class="tip-item"><strong>Stomen — nooit te lang:</strong> 4–6 minuten is genoeg. De meest gemaakte fout. Rubberachtige coquilles zijn onredbaar.</div><div class="tip-item"><strong>Lin you gloeiend heet:</strong> De olie moet echt tot het rookpunt verhit zijn — niet &quot;warm&quot; maar gloeiend. Alleen dan explodeert de lente-ui aromatisch zoals het hoort.</div><div class="tip-item"><strong>Roe bewaren:</strong> De oranje roe naast de coquille is het smaakvolste deel. Altijd meestomen.</div><div class="tip-item"><strong>Variatie — XO-saus:</strong> Voeg een kleine druppel XO-saus toe over de coquille direct na het stomen voor een intense, luxe umami-boost. De meest verfijnde upgrade.</div><div class="tip-item"><strong>Variatie:</strong> Variatie — limoensap als finish: Een paar druppels limoen vlak voor serveren geeft extra frisheid en tilt de zoetheid van de coquille op.</div><div class="tip-item"><strong>Alternatief zonder schelp:</strong> Gebruik kleine porselein-lepels, ramekins of schelpjes van andere oesters als je geen coquilleschelpen hebt.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de coquilles</div><div class="ing-row"><span>grote verse coquilles in de halve schelp</span><span class="ing-amount" data-basis="8">8</span></div><div class="ing-row"><span>Shaoxing rijstwijn</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>maizena (voor het reinigen)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>snuf zeezout + witte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de glasnoedels</div><div class="ing-row"><span>glazen mungboonvermicelli (cellophane noodles — transparant na weken)</span><span class="ing-amount" data-basis="50 g">50 g</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>snuf witte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de gouden knoflook-gemberolie (vóór het stomen)</div><div class="ing-row"><span>teentjes knoflook, zo fijn mogelijk gehakt (verdeeld: ¾ voor bakken + ¼ rauw)</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>verse gember, zeer fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-cat">Voor de saus (ná het stomen)</div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>warm water</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Shaoxing rijstwijn</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>paar druppels sesamolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>snuf witte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de lin you finishing</div><div class="ing-row"><span>neutrale olie (gloeiend heet — allerlaatst)</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>lente-uitjes, in flinterdunne julienne (alleen groen deel)</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>rode chili, zonder zaadjes, in flinterdunne ringen</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>eventueel: paar blaadjes koriander of shiso</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Coquilles reinigen en marineren</strong><br>Coquilles in een kom. Bestrooi met maizena. Voorzichtig masseren — het zetmeel trekt zand en onzuiverheden eruit. Spoelen onder koud water tot helder. Droogdeppen. Bewaar de oranje roe — het smaakvolste deel. Bedruppelen met Shaoxing wijn. Snuf zout en witte peper. 5 minuten rusten.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Glasnoedels voorbereiden</strong><br>Glasnoedels 20 minuten weken in koud water tot transparant en soepel. Dan 30 seconden in kokend water. Direct afkoelen onder koud water. Goed uitlekken. Met een schaar doorsnijden in kortere lengtes zodat ze op de schelp passen. Glasnoedels voorzichtig mengen met lichte sojasaus, sesamolie en witte peper. Opzij zetten.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Gouden knoflook-gemberolie (twee-knoflooktechniek)</strong><br>Verhit 3 el neutrale olie in een kleine pan op laag tot middelhoog vuur. Voeg ¾ van de knoflook toe. Bak langzaam en geduldig — 2–3 minuten al roerend tot goudblond, nooit donkerbruin. Van het vuur halen. Resterende ¼ rauwe knoflook + geraspte gember + sesamolie direct erdoor roeren. De restwarmte maakt de rauwe elementen licht maar behoudt hun frisheid en scherpte.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>De saus mengen</strong><br>Alle sausingrediënten mengen tot een gladde, licht zoet-zoute mix. Opzij zetten — gaat pas na het stomen eroverheen.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Opbouwen in de schelpen</strong><br>Leg de schelpen stabiel op een hittebestendige schaal: zet ze op een dun laagje grof zeezout of kleine steentjes zodat ze niet verschuiven tijdens het stomen. Draai een nestje glasnoedels in elke schelp. Leg elke coquille erop. Schep een royale theelepel knoflook-gemberolie over elke coquille.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Stomen</strong><br>Water krachtig aan de kook. Schelpen in het stoommandje of -oven. 4–6 minuten stomen op hoog vuur — 4 min voor middelgrote, 6 min voor grote coquilles. Klaar wanneer net ondoorzichtig en stevig maar nog zacht. Nooit langer — elke seconde te veel = rubber.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Saus + Lin you finishing</strong><br>Direct na het stomen: schep een klein lepeltje saus over elke warme coquille. Leg de lente-ui julienne en chiliringen er losjes op. Verhit 3 el neutrale olie in een klein steelpannetje tot gloeiend heet — tot het rookpunt. Schep onmiddellijk 1 theelepel gloeiend hete olie over elke coquille. De lente-ui sist en de aromaten exploderen. Dit is de lin you-techniek van elk Hong Kong-sterrenrestaurant. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Twee-knoflooktechniek:</strong> Twee-knoflooktechniek is het hart: Gebakken knoflook geeft nootachtige zoetheid, rauw geeft pittige frisheid, gember geeft diepte. De drie samen zijn het geheim van elke Kantonese seafoodrestaurant.</p><p><strong>Saus na het stomen:</strong> De sojasaus verliest zijn helderheid en frisheid door de hitte. Altijd pas na het stomen erover.</p><p><strong>Stomen — nooit te lang:</strong> 4–6 minuten is genoeg. De meest gemaakte fout. Rubberachtige coquilles zijn onredbaar.</p><p><strong>Lin you gloeiend heet:</strong> De olie moet echt tot het rookpunt verhit zijn — niet &quot;warm&quot; maar gloeiend. Alleen dan explodeert de lente-ui aromatisch zoals het hoort.</p><p><strong>Roe bewaren:</strong> De oranje roe naast de coquille is het smaakvolste deel. Altijd meestomen.</p><p><strong>Variatie — XO-saus:</strong> Voeg een kleine druppel XO-saus toe over de coquille direct na het stomen voor een intense, luxe umami-boost. De meest verfijnde upgrade.</p><p><strong>Variatie:</strong> Variatie — limoensap als finish: Een paar druppels limoen vlak voor serveren geeft extra frisheid en tilt de zoetheid van de coquille op.</p><p><strong>Alternatief zonder schelp:</strong> Gebruik kleine porselein-lepels, ramekins of schelpjes van andere oesters als je geen coquilleschelpen hebt.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Pouilly-Fumé AOC — Loire, Frankrijk</div>
-        <div class="wine-druif">Sauvignon Blanc</div>
-        <p class="wine-toe">Droog, elegant, mineraal, vuursteentoon, citrus, lichte kruidigheid De verfijnste Sauvignon Blanc van de Loire — mineraler en strakker dan Sancerre. De vuursteentoon spiegelt de zeeachtige zoetheid van de coquille. De frisse citrusnoten snijden door de knoflooksaus en sesamolie. De mineraliteit ondersteunt de delicate schelpdierensmaak zonder te domineren.</p>
-        <div class="wine-alt">Alternatief: Chablis Premier Cru AOC — Bourgogne, Frankrijk — Chardonnay. Droog, strak, uitgesproken mineraal, citrus, krijtige afdronk, lichte ziltige toon Meer diepte dan de gewone Chablis — rijker maar even precies. De minerale ziltigheid spiegelt de oceaanzoetheid. Strak genoeg om door de sesamolie en gemberknoflook te snijden. Onbetwistbaar elegant bij schelpdieren. | Albariño Rias Baixas DO — Galicië, Spanje — Albariño. Droog, fris, levendig, citrus, witte perzik, licht ziltig De regionale wijn bij schelpdieren bij uitstek — van de Atlantische kust. Lichte ziltigheid en frisse citrusnoten zijn perfecte partners voor de zoete coquille. Laag in alcohol zodat de delicate smaken spreken. Onbetwistbaar passend bij alles uit de zee. Goed. Snel vergeleken — ChatGPT heeft vijf concrete verbeteringen. Dijonmosterd i.p.v. gewone mosterd: verfijnder. Overnemen Nootmuskaat: de typische Hollandse gehaktbalsmaak. Overnemen Uienpoeder optioneel: extra ui-diepte. Overnemen als optioneel Platter schijven methode: ChatGPT maakt direct platte schijven i.p.v. hele ballen draaien — praktischer en gelijkmatiger gaar. Echter: de originele boektechniek (ballen → aanbraden → sudderen → koelen → snijden) is authentieker en geeft meer smaak door de Maillard-reactie. Origineel behouden Presentatie — pindasaus in streep eronder: coating blijft krokant. Overnemen Gebakken uitjes als garnering: typisch Hollands accent. Overnemen</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Pouilly-Fumé AOC — Loire, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Sauvignon Blanc</span>
     </div>
+    <p class="wine-toelichting">Droog, elegant, mineraal, vuursteentoon, citrus, lichte kruidigheid De verfijnste Sauvignon Blanc van de Loire — mineraler en strakker dan Sancerre. De vuursteentoon spiegelt de zeeachtige zoetheid van de coquille. De frisse citrusnoten snijden door de knoflooksaus en sesamolie. De mineraliteit ondersteunt de delicate schelpdierensmaak zonder te domineren.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Chablis Premier Cru AOC — Bourgogne, Frankrijk — Chardonnay. Droog, strak, uitgesproken mineraal, citrus, krijtige afdronk, lichte ziltige toon Meer diepte dan de gewone Chablis — rijker maar even precies. De minerale ziltigheid spiegelt de oceaanzoetheid. Strak genoeg om door de sesamolie en gemberknoflook te snijden. Onbetwistbaar elegant bij schelpdieren. | Albariño Rias Baixas DO — Galicië, Spanje — Albariño. Droog, fris, levendig, citrus, witte perzik, licht ziltig De regionale wijn bij schelpdieren bij uitstek — van de Atlantische kust. Lichte ziltigheid en frisse citrusnoten zijn perfecte partners voor de zoete coquille. Laag in alcohol zodat de delicate smaken spreken. Onbetwistbaar passend bij alles uit de zee. Goed. Snel vergeleken — ChatGPT heeft vijf concrete verbeteringen. Dijonmosterd i.p.v. gewone mosterd: verfijnder. Overnemen Nootmuskaat: de typische Hollandse gehaktbalsmaak. Overnemen Uienpoeder optioneel: extra ui-diepte. Overnemen als optioneel Platter schijven methode: ChatGPT maakt direct platte schijven i.p.v. hele ballen draaien — praktischer en gelijkmatiger gaar. Echter: de originele boektechniek (ballen → aanbraden → sudderen → koelen → snijden) is authentieker en geeft meer smaak door de Maillard-reactie. Origineel behouden Presentatie — pindasaus in streep eronder: coating blijft krokant. Overnemen Gebakken uitjes als garnering: typisch Hollands accent. Overnemen</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten (2 coquilles pp)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

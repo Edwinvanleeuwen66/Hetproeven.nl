@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Kanton</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Tja Lak Kai — krokante kip in zoet-pittige laksaus</h1>
-      <p class="recipe-intro">Krokante kipdij gelakt in een rode zoet-pittige saus met ketchup, ketjap, sambal en sesamolie.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 35 min + 20 min marineren</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Tja Lak Kai — krokante kip in zoet-pittige laksaus</div>
+  <div class="recipe-desc">Krokante kipdij gelakt in een rode zoet-pittige saus met ketchup, ketjap, sambal en sesamolie.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 35 min + 20 min marineren</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Kip</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="450 g">450 g</span><span class="ing-name">kipdijfilet, in hapklare stukken</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Shaoxing rijstwijn of droge sherry</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">witte peper</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">knoflookteen, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">eiwit</span></li><li><span class="ing-amount" data-basis="4 el">4 el</span><span class="ing-name">maizena</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">bloem</span></li><li><span class="ing-amount" data-basis="royaal">royaal</span><span class="ing-name">zonnebloemolie om te bakken</span></li></ul><h3 class="ing-group-title">Groenten</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">rode paprika, in ruiten</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">groene paprika, in ruiten</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ui, in partjes</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, in schuine stukken</span></li></ul><h3 class="ing-group-title">Zoet-pittige laksaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200 ml">200 ml</span><span class="ing-name">kippenbouillon</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">ketchup</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">tomatenpuree</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">ketjap manis</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">rijstazijn</span></li><li><span class="ing-amount" data-basis="1–2 tl">1–2 tl</span><span class="ing-name">sambal oelek</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">knoflookteen, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">maizena, gemengd met 2 el koud water</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">sesamolie</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-ui, in ringetjes</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geroosterde sesam</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">komkommerlinten</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Marineren</strong><p>marineer de kip met sojasaus, rijstwijn, witte peper, knoflook en gember. Meng daarna met eiwit, maizena en bloem tot elk stuk een dun laagje heeft.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Kip bakken</strong><p>bak of frituur de kip goudbruin en krokant. Laat uitlekken op keukenpapier.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus en groenten</strong><p>wok paprika en ui kort op hoog vuur. Voeg alle sausingrediënten toe behalve maizena en sesamolie. Laat kort koken en bind met maizena tot een glanzende laksaus. Roer sesamolie erdoor.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Samenstellen en serveren</strong><p>schep de krokante kip pas vlak voor het serveren door de saus. Leg paprika, ui en saus als basis op het bord en stapel de gelakte kip erop. Werk af met lente-ui, sesam en komkommerlinten.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">zet alles klaar voor je begint — de saus en groenten kant-en-klaar, want de kip gaat er op het allerlaatste moment door en dat duurt maar 30 seconden.</div><div class="tip-item"><strong>Techniek:</strong> schep de kip pas op het allerlaatste moment door de saus — elk minuut eerder kost knapperigheid. Het gerecht moet direct worden geserveerd.</div><div class="tip-item"><strong>Presentatie:</strong> leg paprika, ui en saus als glanzende basis op het bord en stapel de gelakte kipstukjes erop zodat de krokante buitenkant zichtbaar blijft.</div><div class="tip-item"><strong>Variatie:</strong> bouw de sambal rustig op — het gerecht moet zoet-pittig zijn, niet brandend heet. Begin met 1 tl en proef voor je meer toevoegt.</div><div class="tip-item"><strong>Alternatief:</strong> geen kipdijfilet? Gebruik kipfilet maar voeg een extra el olie toe aan de marinade — droge filet profiteert van extra vet bij het frituren.</div><div class="tip-item"><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item"><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Kip</div><div class="ing-row"><span>kipdijfilet, in hapklare stukken</span><span class="ing-amount" data-basis="450 g">450 g</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Shaoxing rijstwijn of droge sherry</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>knoflookteen, fijn geraspt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>eiwit</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>maizena</span><span class="ing-amount" data-basis="4 el">4 el</span></div><div class="ing-row"><span>bloem</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>zonnebloemolie om te bakken</span><span class="ing-amount" data-basis="royaal">royaal</span></div><div class="ing-cat">Groenten</div><div class="ing-row"><span>rode paprika, in ruiten</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>groene paprika, in ruiten</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>ui, in partjes</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>lente-uitjes, in schuine stukken</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-cat">Zoet-pittige laksaus</div><div class="ing-row"><span>kippenbouillon</span><span class="ing-amount" data-basis="200 ml">200 ml</span></div><div class="ing-row"><span>ketchup</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>tomatenpuree</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>ketjap manis</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>rijstazijn</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>sambal oelek</span><span class="ing-amount" data-basis="1–2 tl">1–2 tl</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>knoflookteen, fijn geraspt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>maizena, gemengd met 2 el koud water</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>lente-ui, in ringetjes</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>geroosterde sesam</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>komkommerlinten</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Marineren</strong><br>marineer de kip met sojasaus, rijstwijn, witte peper, knoflook en gember. Meng daarna met eiwit, maizena en bloem tot elk stuk een dun laagje heeft.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Kip bakken</strong><br>bak of frituur de kip goudbruin en krokant. Laat uitlekken op keukenpapier.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus en groenten</strong><br>wok paprika en ui kort op hoog vuur. Voeg alle sausingrediënten toe behalve maizena en sesamolie. Laat kort koken en bind met maizena tot een glanzende laksaus. Roer sesamolie erdoor.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Samenstellen en serveren</strong><br>schep de krokante kip pas vlak voor het serveren door de saus. Leg paprika, ui en saus als basis op het bord en stapel de gelakte kip erop. Werk af met lente-ui, sesam en komkommerlinten.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>zet alles klaar voor je begint — de saus en groenten kant-en-klaar, want de kip gaat er op het allerlaatste moment door en dat duurt maar 30 seconden.</p><p><strong>Techniek:</strong> schep de kip pas op het allerlaatste moment door de saus — elk minuut eerder kost knapperigheid. Het gerecht moet direct worden geserveerd.</p><p><strong>Presentatie:</strong> leg paprika, ui en saus als glanzende basis op het bord en stapel de gelakte kipstukjes erop zodat de krokante buitenkant zichtbaar blijft.</p><p><strong>Variatie:</strong> bouw de sambal rustig op — het gerecht moet zoet-pittig zijn, niet brandend heet. Begin met 1 tl en proef voor je meer toevoegt.</p><p><strong>Alternatief:</strong> geen kipdijfilet? Gebruik kipfilet maar voeg een extra el olie toe aan de marinade — droge filet profiteert van extra vet bij het frituren.</p><p><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Gewürztraminer</div>
-        <div class="wine-druif">Gewürztraminer</div>
-        <p class="wine-toe">De lichte zoetheid en uitgesproken aromatische kracht van een Elzasser Gewürztraminer — met tonen van lychee, rozenwater en gember — tempert de sambal in de laksaus en spiegelt de zoetzure tonen van de ketchup en ketjap. De lage zuurgraad van de Gewürztraminer past bij het gekaramelliseerde karakter van de saus; de lichte rondheid buffert de capsaïcine. Dit is een van de weinige wijnen die zowel zoet als pittig tegelijk kan begeleiden — en hij doet het moeiteloos. Serveer ijskoud op 8°C.</p>
-        <div class="wine-alt">Alternatief: Off-dry Chenin Blanc Spätlese — de residuele zoetheid dempt de hitte terwijl de hoge zuurgraad de saus doorsnijdt</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Gewürztraminer</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Gewürztraminer</span>
     </div>
+    <p class="wine-toelichting">De lichte zoetheid en uitgesproken aromatische kracht van een Elzasser Gewürztraminer — met tonen van lychee, rozenwater en gember — tempert de sambal in de laksaus en spiegelt de zoetzure tonen van de ketchup en ketjap. De lage zuurgraad van de Gewürztraminer past bij het gekaramelliseerde karakter van de saus; de lichte rondheid buffert de capsaïcine. Dit is een van de weinige wijnen die zowel zoet als pittig tegelijk kan begeleiden — en hij doet het moeiteloos. Serveer ijskoud op 8°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Off-dry Chenin Blanc Spätlese — de residuele zoetheid dempt de hitte terwijl de hoge zuurgraad de saus doorsnijdt</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

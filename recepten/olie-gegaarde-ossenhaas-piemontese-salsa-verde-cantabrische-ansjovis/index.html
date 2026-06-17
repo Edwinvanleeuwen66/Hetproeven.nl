@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Piemonte, Italië</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Olie-Gegaarde Ossenhaas met Piemontese Salsa Verde en Cantabrische Ansjovis</h1>
-      <p class="recipe-intro">Piemontese klassieker in verfijnde vorm: ossenhaas langzaam gegaard in olijfolie op 55°C — fluweelzacht en rosé-rood — met koude bagnetto verde van peterselie, hardgekookt ei en ansjovis, gekroond door één glanzende Cantabrische ansjovisfilet.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min temperen + 45 min bereiding</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kleine porties</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Olie-Gegaarde Ossenhaas met Piemontese Salsa Verde en Cantabrische Ansjovis</div>
+  <div class="recipe-desc">Piemontese klassieker in verfijnde vorm: ossenhaas langzaam gegaard in olijfolie op 55°C — fluweelzacht en rosé-rood — met koude bagnetto verde van peterselie, hardgekookt ei en ansjovis, gekroond door één glanzende Cantabrische ansjovisfilet.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min temperen + 45 min bereiding</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de olie-gegaarde ossenhaas</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="450g">450g</span><span class="ing-name">ossenhaas in één stuk uit het hart (chateaubriand-snede, ca. 5cm dik)</span></li><li><span class="ing-amount" data-basis="80ml">80ml</span><span class="ing-name">milde extra-vergine olijfolie</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">takje verse rozemarijn</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">teen knoflook, gekneusd maar heel</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">vers gemalen zwarte peper</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">extra olijfolie om in te wrijven</span></li></ul><h3 class="ing-group-title">Voor de Piemontese salsa verde (bagnetto verde)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="35g">35g</span><span class="ing-name">platte peterselie, alleen de blaadjes en fijne steeltjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">hardgekookt ei</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">dun sneetje wittebrood (korst eraf), geweekt in 2 el witte wijnazijn en uitgeknepen</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">ansjovisfilets in olie, uitgelekt</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">kappertjes, gespoeld en grof gehakt</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">klein teentje knoflook</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijne citroenrasp</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">vers citroensap</span></li><li><span class="ing-amount" data-basis="80ml">80ml</span><span class="ing-name">extra-vergine olijfolie</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">extra witte wijnazijn (naar smaak)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">vers gemalen zwarte peper en snuf zout</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">hele Cantabrische ansjovisfilets in olijfolie (Codaca, Don Bocarte of Lolin)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">enkele kleine peterselieblaadjes</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">enkele druppels garingsolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fleur de sel (alleen indien nodig)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">vers gemalen zwarte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Vlees temperen en ei koken</strong><p>Haal de ossenhaas minimaal 30 minuten voor bereiding uit de koelkast en laat op kamertemperatuur komen, los afgedekt met keukenpapier. Kook tegelijk 1 ei 9 minuten in kokend water, schok direct in ijswater. Pel en houd apart.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Oven en ovenschaal voorbereiden</strong><p>Verwarm de oven voor op 55–60°C. Kies een ovenschaal waarin het vleesstuk net past — een te grote schaal vraagt te veel olie, een te kleine werkt niet.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Vlees klaarmaken en garen</strong><p>Dep het rundvlees grondig droog en wrijf rondom in met de extra olijfolie, het zout en vers gemalen zwarte peper. Leg in de ovenschaal. Voeg de 80ml olijfolie, het takje rozemarijn en de gekneusde knoflook toe. Steek de precisie-thermometer in het midden van het vlees. Lepel om de 8–10 minuten wat warme olie over de bovenkant. Keer halverwege. Haal eruit zodra de kerntemperatuur 55°C bereikt — exact, niet hoger.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Rusten</strong><p>Haal het vlees voorzichtig uit de olie met een schuimspaan of twee lepels. Laat 8–10 minuten op een rooster rusten — niet langer; het vlees moet lauwwarm op het bord komen. Bewaar de garingsolie warm voor afwerking.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Salsa verde maken</strong><p>Maal in een keukenmachine of vijzel de peterselie, het hele hardgekookte ei, het in azijn geweekte brood, ansjovis, kappertjes, knoflook, citroenrasp en citroensap tot een grove, niet te fijne pasta. Voeg de olijfolie in een dunne straal toe terwijl je blijft mengen tot een emulsie ontstaat — lepelbaar, niet vloeibaar. Proef en stel bij met extra azijn, peper, eventueel een snufje zout. Salsa verde moet pittig groen ruiken, op de tong scherp, zout en levendig. Zet 15 minuten apart om de smaken te laten verbinden.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Snijden en composeren</strong><p>Snijd het lauwwarme vlees in plakken van 6 tot 7mm dik, recht tegen de draad in, met een lang scherp mes in één vloeiende beweging. De plakken moeten gelijkmatig rosé-rood zijn in het midden. Leg per bord 3 of 4 plakken in een rustige, deels overlappende waaier. Lepel 1 royale eetlepel salsa verde naast of gedeeltelijk over de plakken — niet eroverheen verspreid. Leg één hele Cantabrische ansjovisfilet diagonaal over de plakken of opgekruld bovenop. Druppel wat garingsolie rondom. Enkele peterselieblaadjes individueel geplaatst. Geen extra zout. Serveer onmiddellijk.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Het stuk vlees doet er meer toe dan de techniek:</strong> vraag de slager om een mooi stuk uit het hart van de ossenhaas — de chateaubriand-snede, 5cm dik en gelijkmatig rond. Diamanthaas is een goed alternatief met iets meer eigen rundsmaak en vaak vriendelijker geprijsd.</div><div class="tip-item"><strong>55°C is geen suggestie, het is de techniek:</strong> een paar graden hoger en de eiwitten denatureren sterker — het vlees verliest zijn fluweelzacht karakter. Precisie-thermometer is essentieel. Sous-vide alternatief: 55°C gedurende 45 minuten geeft hetzelfde resultaat met meer zekerheid.</div><div class="tip-item"><strong>Geen aanbraden achteraf:</strong> klassiek Piemontees. De textuur van olio cottura is het verkooppunt. Wie toch een korst wil: brand het vlees kort voor het olie-bedruipen op zeer hoge hitte — 10 tot 15 seconden per kant.</div><div class="tip-item"><strong>Salsa verde Piemontese, geen gewone salsa verde:</strong> bagnetto verde uit Turijn heeft eieren en geweekt brood — die geven zijn karakteristieke rondheid. Geen Dijonmosterd. De salsa moet grof en levendig blijven — peterselie, kappertjes en ei herkenbaar.</div><div class="tip-item"><strong>Cantabrische ansjovis — alleen het beste werkt:</strong> Codaca, Don Bocarte, Lolin, Maisor of Don Pedro. Geconserveerd in olijfolie na 12+ maanden zoutrijping. Goedkope ansjovis is hier vlak en te zout. Reken op €2–3 per ansjovis — gerechtvaardigde investering.</div><div class="tip-item"><strong>Geen extra zout — laat de ansjovis en salsa het werk doen:</strong> drie ansjovis-bronnen in één hap (ansjovis in salsa, ansjovis als kroon). Geen extra zout aan het vlees toevoegen.</div><div class="tip-item"><strong>Salsa verde vooraf, maar niet te lang:</strong> maak de salsa maximaal enkele uren vooraf en bewaar koel. Te lang vooraf verliest de peterselie zijn levendig groen. Voeg vlak voor serveren een klein scheutje olijfolie toe om los te maken.</div><div class="tip-item"><strong>Variatie:</strong> geen Cantabrische ansjovis? Goede Italiaanse ansjovis uit Cetara is een sterke tweede. Voor een lichter bord: een paar dunne plakjes rauwe venkel of een klein bos rucola ernaast — het rund blijft hoofdzaak.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de olie-gegaarde ossenhaas</div><div class="ing-row"><span>ossenhaas in één stuk uit het hart (chateaubriand-snede, ca. 5cm dik)</span><span class="ing-amount" data-basis="450g">450g</span></div><div class="ing-row"><span>milde extra-vergine olijfolie</span><span class="ing-amount" data-basis="80ml">80ml</span></div><div class="ing-row"><span>takje verse rozemarijn</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>teen knoflook, gekneusd maar heel</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>vers gemalen zwarte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>extra olijfolie om in te wrijven</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-cat">Voor de Piemontese salsa verde (bagnetto verde)</div><div class="ing-row"><span>platte peterselie, alleen de blaadjes en fijne steeltjes</span><span class="ing-amount" data-basis="35g">35g</span></div><div class="ing-row"><span>hardgekookt ei</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>dun sneetje wittebrood (korst eraf), geweekt in 2 el witte wijnazijn en uitgeknepen</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>ansjovisfilets in olie, uitgelekt</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>kappertjes, gespoeld en grof gehakt</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>klein teentje knoflook</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>fijne citroenrasp</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>vers citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>extra-vergine olijfolie</span><span class="ing-amount" data-basis="80ml">80ml</span></div><div class="ing-row"><span>extra witte wijnazijn (naar smaak)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>vers gemalen zwarte peper en snuf zout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>hele Cantabrische ansjovisfilets in olijfolie (Codaca, Don Bocarte of Lolin)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>enkele kleine peterselieblaadjes</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>enkele druppels garingsolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fleur de sel (alleen indien nodig)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>vers gemalen zwarte peper</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Vlees temperen en ei koken</strong><br>Haal de ossenhaas minimaal 30 minuten voor bereiding uit de koelkast en laat op kamertemperatuur komen, los afgedekt met keukenpapier. Kook tegelijk 1 ei 9 minuten in kokend water, schok direct in ijswater. Pel en houd apart.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Oven en ovenschaal voorbereiden</strong><br>Verwarm de oven voor op 55–60°C. Kies een ovenschaal waarin het vleesstuk net past — een te grote schaal vraagt te veel olie, een te kleine werkt niet.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Vlees klaarmaken en garen</strong><br>Dep het rundvlees grondig droog en wrijf rondom in met de extra olijfolie, het zout en vers gemalen zwarte peper. Leg in de ovenschaal. Voeg de 80ml olijfolie, het takje rozemarijn en de gekneusde knoflook toe. Steek de precisie-thermometer in het midden van het vlees. Lepel om de 8–10 minuten wat warme olie over de bovenkant. Keer halverwege. Haal eruit zodra de kerntemperatuur 55°C bereikt — exact, niet hoger.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Rusten</strong><br>Haal het vlees voorzichtig uit de olie met een schuimspaan of twee lepels. Laat 8–10 minuten op een rooster rusten — niet langer; het vlees moet lauwwarm op het bord komen. Bewaar de garingsolie warm voor afwerking.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Salsa verde maken</strong><br>Maal in een keukenmachine of vijzel de peterselie, het hele hardgekookte ei, het in azijn geweekte brood, ansjovis, kappertjes, knoflook, citroenrasp en citroensap tot een grove, niet te fijne pasta. Voeg de olijfolie in een dunne straal toe terwijl je blijft mengen tot een emulsie ontstaat — lepelbaar, niet vloeibaar. Proef en stel bij met extra azijn, peper, eventueel een snufje zout. Salsa verde moet pittig groen ruiken, op de tong scherp, zout en levendig. Zet 15 minuten apart om de smaken te laten verbinden.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Snijden en composeren</strong><br>Snijd het lauwwarme vlees in plakken van 6 tot 7mm dik, recht tegen de draad in, met een lang scherp mes in één vloeiende beweging. De plakken moeten gelijkmatig rosé-rood zijn in het midden. Leg per bord 3 of 4 plakken in een rustige, deels overlappende waaier. Lepel 1 royale eetlepel salsa verde naast of gedeeltelijk over de plakken — niet eroverheen verspreid. Leg één hele Cantabrische ansjovisfilet diagonaal over de plakken of opgekruld bovenop. Druppel wat garingsolie rondom. Enkele peterselieblaadjes individueel geplaatst. Geen extra zout. Serveer onmiddellijk.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Het stuk vlees doet er meer toe dan de techniek:</strong> vraag de slager om een mooi stuk uit het hart van de ossenhaas — de chateaubriand-snede, 5cm dik en gelijkmatig rond. Diamanthaas is een goed alternatief met iets meer eigen rundsmaak en vaak vriendelijker geprijsd.</p><p><strong>55°C is geen suggestie, het is de techniek:</strong> een paar graden hoger en de eiwitten denatureren sterker — het vlees verliest zijn fluweelzacht karakter. Precisie-thermometer is essentieel. Sous-vide alternatief: 55°C gedurende 45 minuten geeft hetzelfde resultaat met meer zekerheid.</p><p><strong>Geen aanbraden achteraf:</strong> klassiek Piemontees. De textuur van olio cottura is het verkooppunt. Wie toch een korst wil: brand het vlees kort voor het olie-bedruipen op zeer hoge hitte — 10 tot 15 seconden per kant.</p><p><strong>Salsa verde Piemontese, geen gewone salsa verde:</strong> bagnetto verde uit Turijn heeft eieren en geweekt brood — die geven zijn karakteristieke rondheid. Geen Dijonmosterd. De salsa moet grof en levendig blijven — peterselie, kappertjes en ei herkenbaar.</p><p><strong>Cantabrische ansjovis — alleen het beste werkt:</strong> Codaca, Don Bocarte, Lolin, Maisor of Don Pedro. Geconserveerd in olijfolie na 12+ maanden zoutrijping. Goedkope ansjovis is hier vlak en te zout. Reken op €2–3 per ansjovis — gerechtvaardigde investering.</p><p><strong>Geen extra zout — laat de ansjovis en salsa het werk doen:</strong> drie ansjovis-bronnen in één hap (ansjovis in salsa, ansjovis als kroon). Geen extra zout aan het vlees toevoegen.</p><p><strong>Salsa verde vooraf, maar niet te lang:</strong> maak de salsa maximaal enkele uren vooraf en bewaar koel. Te lang vooraf verliest de peterselie zijn levendig groen. Voeg vlak voor serveren een klein scheutje olijfolie toe om los te maken.</p><p><strong>Variatie:</strong> geen Cantabrische ansjovis? Goede Italiaanse ansjovis uit Cetara is een sterke tweede. Voor een lichter bord: een paar dunne plakjes rauwe venkel of een klein bos rucola ernaast — het rund blijft hoofdzaak.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Dolcetto d&#x27;Alba — Piemonte, Italië</div>
-        <div class="wine-druif">Dolcetto</div>
-        <p class="wine-toe">De regio levert zijn meest natuurlijke partner. Frisse zuren snijden door ansjovis en kappertjes; lage tannine respecteert de fluweelzachte olio cottura; amandel-bitterheid is een directe brug met de bagnetto verde. Serveer op 14–16°C.</p>
-        <div class="wine-alt">Alternatief: Langhe Nebbiolo of Barbera d&#x27;Asti (breed verkrijgbaar, €7–12)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Dolcetto d&#x27;Alba — Piemonte, Italië</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Dolcetto</span>
     </div>
+    <p class="wine-toelichting">De regio levert zijn meest natuurlijke partner. Frisse zuren snijden door ansjovis en kappertjes; lage tannine respecteert de fluweelzachte olio cottura; amandel-bitterheid is een directe brug met de bagnetto verde. Serveer op 14–16°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Langhe Nebbiolo of Barbera d&#x27;Asti (breed verkrijgbaar, €7–12)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kleine porties');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

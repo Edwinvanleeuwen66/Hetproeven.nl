@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Java</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Indonesisch soepje met Zeeuwse mosselen, kokos en sambal</h1>
-      <p class="recipe-intro">Een licht Indonesisch soepje met Zeeuwse mosselen in een geurige, romige kokos-citroengrasboullion — opgekookt met verse sambalpasta, kaffir limoen en het eigen mosselvocht. Fris, licht pittig en zacht romig.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 40 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Indonesisch</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Indonesisch soepje met Zeeuwse mosselen, kokos en sambal</div>
+  <div class="recipe-desc">Een licht Indonesisch soepje met Zeeuwse mosselen in een geurige, romige kokos-citroengrasboullion — opgekookt met verse sambalpasta, kaffir limoen en het eigen mosselvocht. Fris, licht pittig en zacht romig.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 40 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Indonesisch</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de mosselen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="500 g">500 g</span><span class="ing-name">Zeeuwse mosselen, schoongemaakt</span></li><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">kokkels (optioneel)</span></li><li><span class="ing-amount" data-basis="100 ml + 1">100 ml + 1</span><span class="ing-name">droge witte wijn + sjalot grof gesneden</span></li></ul><h3 class="ing-group-title">Voor de verse sambalpasta</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 + 1 + 1">1 + 1 + 1</span><span class="ing-name">rode chilipeper + teentje knoflook + kleine sjalot</span></li><li><span class="ing-amount" data-basis="1 tl + 1 tl">1 tl + 1 tl</span><span class="ing-name">tomatenpuree + geraspte gember</span></li><li><span class="ing-amount" data-basis="1 tl + 1 el">1 tl + 1 el</span><span class="ing-name">rijstazijn + rasp van ½ limoen + neutrale olie + snuf zout</span></li></ul><h3 class="ing-group-title">Voor de kokos-citroengrassoep</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 el + 2">1 el + 2</span><span class="ing-name">neutrale olie + sjalotten fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="2 cm + 2 + 3">2 cm + 2 + 3</span><span class="ing-name">verse gember geraspt + stengels citroengras gekneusd + kaffir limoenblaadjes</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">verse sambalpasta</span></li><li><span class="ing-amount" data-basis="300 ml + 150 ml + 100 ml">300 ml + 150 ml + 100 ml</span><span class="ing-name">lichte kippenbouillon + volle kokosmelk + slagroom</span></li><li><span class="ing-amount" data-basis="100 ml">100 ml</span><span class="ing-name">gezeefd mosselvocht</span></li><li><span class="ing-amount" data-basis="1 tl + 1 tl + 1 tl">1 tl + 1 tl + 1 tl</span><span class="ing-name">lichte sojasaus + rijstazijn + limoensap (aan het einde)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en witte peper</span></li></ul><h3 class="ing-group-title">Voor het groentennestje</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½ + 1">½ + 1</span><span class="ing-name">prei in zeer fijne ringen + kleine wortel in fijne julienne</span></li><li><span class="ing-amount" data-basis="100 g + 1">100 g + 1</span><span class="ing-name">verse taugé + lente-ui in schuine ringen</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">verse korianderblaadjes, fijne limoenzeste, eventueel dunne ringen rode prik</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Sambalpasta</strong><p>blend chilipeper, knoflook, sjalot, tomatenpuree, gember, rijstazijn, limoenrasp, olie en zout tot grove geuriger pasta.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Mosselen stomen</strong><p>witte wijn + sjalot in grote pan aan de kook. Mosselen (en kokkels) toevoegen. 2–3 minuten stomen tot net open. Eruit scheppen. Kookvocht zeven — 100 ml bewaren. Mosselen uit de schelpen halen. Paar mooie schelpen bewaren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Soep</strong><p>olie op middelhoog vuur. Sjalotten, gember, citroengras en kaffir limoenblaadjes 2 minuten fruiten. Sambalpasta toevoegen. 1 minuut meebakken.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Bouillon</strong><p>kippenbouillon, kokosmelk, slagroom en mosselvocht toevoegen. Zachtjes aan de kook. 10 minuten rustig trekken — niet hard koken. Door fijne zeef zeven. Sojasaus, rijstazijn en limoensap toevoegen. Op smaak brengen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Groentennestje</strong><p>prei, wortel en taugé 30 sec blancheren. Direct koud spoelen. Of rauw en fijn gesneden gebruiken.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Schuim</strong><p>soep vlak voor serveren tot net onder kookpunt verhitten. Staafmixer schuin aan oppervlak houden. 20–30 seconden krachtig blenderen. Mosselen en kokkels in warme soep — 30–60 sec opwarmen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Opbouw</strong><p>groentennestje in midden van warm diep bord. Mosselen en kokkels erop. Hete soep PAS OP HET ALLERLAATSTE MOMENT rondomheen schenken. Schuim erop. Garneren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Mosselvocht is goud:</strong> nooit weggooien — het geeft de soep zijn diepte en zilte karakter.</div><div class="tip-item"><strong>Mosselen nooit te lang:</strong> zodra ze opengaan zijn ze klaar. Opwarmen in soep: maximaal 60 seconden.</div><div class="tip-item"><strong>Sambalpasta doseren:</strong> begin met 1 el in de soep. Proef en voeg meer toe. Zo houd je controle over pit en zoutigheid.</div><div class="tip-item"><strong>Schuim op het laatste moment:</strong> altijd direct voor serveren opschuimen.</div><div class="tip-item"><strong>Tip — voorgekookte mosselen:</strong> vacuumverpakte of diepgevroren voorgekookte mosselen. Alleen opwarmen. Mosselvocht vervangen door kippenbouillon + 1 tl vissaus.</div><div class="tip-item"><strong>Variatie:</strong> vervang kokkels door kleine vongole voor extra zilte elegantie.</div><div class="tip-item"><strong>Alternatief groenten:</strong> fijne soepgroente + taugé apart toegevoegd voor frisheid.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de mosselen</div><div class="ing-row"><span>Zeeuwse mosselen, schoongemaakt</span><span class="ing-amount" data-basis="500 g">500 g</span></div><div class="ing-row"><span>kokkels (optioneel)</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>droge witte wijn + sjalot grof gesneden</span><span class="ing-amount" data-basis="100 ml + 1">100 ml + 1</span></div><div class="ing-cat">Voor de verse sambalpasta</div><div class="ing-row"><span>rode chilipeper + teentje knoflook + kleine sjalot</span><span class="ing-amount" data-basis="1 + 1 + 1">1 + 1 + 1</span></div><div class="ing-row"><span>tomatenpuree + geraspte gember</span><span class="ing-amount" data-basis="1 tl + 1 tl">1 tl + 1 tl</span></div><div class="ing-row"><span>rijstazijn + rasp van ½ limoen + neutrale olie + snuf zout</span><span class="ing-amount" data-basis="1 tl + 1 el">1 tl + 1 el</span></div><div class="ing-cat">Voor de kokos-citroengrassoep</div><div class="ing-row"><span>neutrale olie + sjalotten fijn gesnipperd</span><span class="ing-amount" data-basis="1 el + 2">1 el + 2</span></div><div class="ing-row"><span>verse gember geraspt + stengels citroengras gekneusd + kaffir limoenblaadjes</span><span class="ing-amount" data-basis="2 cm + 2 + 3">2 cm + 2 + 3</span></div><div class="ing-row"><span>verse sambalpasta</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>lichte kippenbouillon + volle kokosmelk + slagroom</span><span class="ing-amount" data-basis="300 ml + 150 ml + 100 ml">300 ml + 150 ml + 100 ml</span></div><div class="ing-row"><span>gezeefd mosselvocht</span><span class="ing-amount" data-basis="100 ml">100 ml</span></div><div class="ing-row"><span>lichte sojasaus + rijstazijn + limoensap (aan het einde)</span><span class="ing-amount" data-basis="1 tl + 1 tl + 1 tl">1 tl + 1 tl + 1 tl</span></div><div class="ing-row"><span>zout en witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor het groentennestje</div><div class="ing-row"><span>prei in zeer fijne ringen + kleine wortel in fijne julienne</span><span class="ing-amount" data-basis="½ + 1">½ + 1</span></div><div class="ing-row"><span>verse taugé + lente-ui in schuine ringen</span><span class="ing-amount" data-basis="100 g + 1">100 g + 1</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>verse korianderblaadjes, fijne limoenzeste, eventueel dunne ringen rode prik</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Sambalpasta</strong><br>blend chilipeper, knoflook, sjalot, tomatenpuree, gember, rijstazijn, limoenrasp, olie en zout tot grove geuriger pasta.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Mosselen stomen</strong><br>witte wijn + sjalot in grote pan aan de kook. Mosselen (en kokkels) toevoegen. 2–3 minuten stomen tot net open. Eruit scheppen. Kookvocht zeven — 100 ml bewaren. Mosselen uit de schelpen halen. Paar mooie schelpen bewaren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Soep</strong><br>olie op middelhoog vuur. Sjalotten, gember, citroengras en kaffir limoenblaadjes 2 minuten fruiten. Sambalpasta toevoegen. 1 minuut meebakken.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Bouillon</strong><br>kippenbouillon, kokosmelk, slagroom en mosselvocht toevoegen. Zachtjes aan de kook. 10 minuten rustig trekken — niet hard koken. Door fijne zeef zeven. Sojasaus, rijstazijn en limoensap toevoegen. Op smaak brengen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Groentennestje</strong><br>prei, wortel en taugé 30 sec blancheren. Direct koud spoelen. Of rauw en fijn gesneden gebruiken.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Schuim</strong><br>soep vlak voor serveren tot net onder kookpunt verhitten. Staafmixer schuin aan oppervlak houden. 20–30 seconden krachtig blenderen. Mosselen en kokkels in warme soep — 30–60 sec opwarmen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Opbouw</strong><br>groentennestje in midden van warm diep bord. Mosselen en kokkels erop. Hete soep PAS OP HET ALLERLAATSTE MOMENT rondomheen schenken. Schuim erop. Garneren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Mosselvocht is goud:</strong> nooit weggooien — het geeft de soep zijn diepte en zilte karakter.</p><p><strong>Mosselen nooit te lang:</strong> zodra ze opengaan zijn ze klaar. Opwarmen in soep: maximaal 60 seconden.</p><p><strong>Sambalpasta doseren:</strong> begin met 1 el in de soep. Proef en voeg meer toe. Zo houd je controle over pit en zoutigheid.</p><p><strong>Schuim op het laatste moment:</strong> altijd direct voor serveren opschuimen.</p><p><strong>Tip — voorgekookte mosselen:</strong> vacuumverpakte of diepgevroren voorgekookte mosselen. Alleen opwarmen. Mosselvocht vervangen door kippenbouillon + 1 tl vissaus.</p><p><strong>Variatie:</strong> vervang kokkels door kleine vongole voor extra zilte elegantie.</p><p><strong>Alternatief groenten:</strong> fijne soepgroente + taugé apart toegevoegd voor frisheid.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Viognier — Pays d&#x27;Oc</div>
-        <div class="wine-druif">Viognier</div>
-        <p class="wine-toe">Vol, aromatisch, abrikoos, witte bloesem, tropische tonen, zachte zuren. Tropische tonen sluiten aan op kokosmelk, citroengras en kaffir limoen. Zachte zuren spiegelen limoensap. Vol genoeg voor romige bouillon.</p>
-        <div class="wine-alt">Alternatief: Gewurztraminer d&#x27;Alsace of Vermentino</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Viognier — Pays d&#x27;Oc</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Viognier</span>
     </div>
+    <p class="wine-toelichting">Vol, aromatisch, abrikoos, witte bloesem, tropische tonen, zachte zuren. Tropische tonen sluiten aan op kokosmelk, citroengras en kaffir limoen. Zachte zuren spiegelen limoensap. Vol genoeg voor romige bouillon.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Gewurztraminer d&#x27;Alsace of Vermentino</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Shanghai</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Foe Yong Hai Royale met beenham, prei en fluwelen tomatensaus</h1>
-      <p class="recipe-intro">Luchtige goudbruine Chinese omelet met beenham, prei en taugé — op een spiegel van zoetzure tomatensaus.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Foe Yong Hai Royale met beenham, prei en fluwelen tomatensaus</div>
+  <div class="recipe-desc">Luchtige goudbruine Chinese omelet met beenham, prei en taugé — op een spiegel van zoetzure tomatensaus.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Omelet</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">eieren</span></li><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">beenham of achterham, in fijne reepjes</span></li><li><span class="ing-amount" data-basis="100 g">100 g</span><span class="ing-name">taugé</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine prei, alleen het lichte deel, zeer dun gesneden</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, fijn gesneden</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">rode paprika, zeer fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">sjalot, fijngesnipperd</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">sesamolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">witte peper</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">maizena, losgeroerd met 1 el water</span></li><li><span class="ing-amount" data-basis="royaal">royaal</span><span class="ing-name">zonnebloemolie om te bakken</span></li></ul><h3 class="ing-group-title">Fluwelen tomatensaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="250 ml">250 ml</span><span class="ing-name">kippenbouillon</span></li><li><span class="ing-amount" data-basis="4 el">4 el</span><span class="ing-name">ketchup</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">tomatenpuree</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">rijstazijn</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">verse gember, fijn geraspt</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">knoflookteen, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">maizena, gemengd met 2 el koud water</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">sesamolie</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="50 g">50 g</span><span class="ing-name">flinterdunne hamreepjes, kort krokant gebakken</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-ui, in ringetjes</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geroosterde sesam</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Groenten kort aanbakken</strong><p>bak sjalot, prei en paprika kort aan tot ze net zachter worden. Laat iets afkoelen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Omeletmengsel maken</strong><p>klop de eieren los met sojasaus, sesamolie, witte peper en het maizenapapje. Meng ham, taugé, lente-ui en de gebakken groenten erdoor.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Bakken</strong><p>bak twee kleinere omeletten in een royale laag olie op middelhoog vuur — goudbruin van buiten, zacht van binnen. Snijd in mooie punten.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus maken</strong><p>verwarm bouillon, ketchup, tomatenpuree, suiker, azijn, sojasaus, gember en knoflook. Bind licht met maizena. Roer sesamolie erdoor.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveren</strong><p>maak een spiegel van tomatensaus op het bord. Leg een punt foe yong hai erop en lepel een beetje saus over het midden — laat de goudbruine rand zichtbaar. Werk af met krokante hamreepjes, lente-ui en sesam.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">fruit de prei en sjalot van tevoren en laat afkoelen — hete groenten in het eimengsel stollen de eieren gedeeltelijk voor het bakken.</div><div class="tip-item"><strong>Techniek:</strong> bak twee kleinere omeletten in plaats van één grote — makkelijker te draaien, gelijkmatiger gegaard en mooier van presentatie. Gebruik een royale laag olie voor de krokante rand.</div><div class="tip-item"><strong>Presentatie:</strong> laat de goudbruine rand altijd zichtbaar — de saus gaat als spiegel op het bord, de omelet erop, een lepel saus over het midden. Niet alles bedekken.</div><div class="tip-item"><strong>Variatie:</strong> voeg krokante hamreepjes toe als topping — kort gebakken in een droge pan — voor extra textuur en zoutheid die het gerecht direct culinairder maakt.</div><div class="tip-item"><strong>Alternatief:</strong> geen goede ham? Gebruik gerookte zalm in dunne reepjes — geeft een heel andere maar even elegante foe yong hai met een meer delicate, rokerige smaak.</div><div class="tip-item"><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item"><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Omelet</div><div class="ing-row"><span>eieren</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>beenham of achterham, in fijne reepjes</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>taugé</span><span class="ing-amount" data-basis="100 g">100 g</span></div><div class="ing-row"><span>kleine prei, alleen het lichte deel, zeer dun gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>lente-uitjes, fijn gesneden</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>rode paprika, zeer fijn gesneden</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>sjalot, fijngesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>maizena, losgeroerd met 1 el water</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zonnebloemolie om te bakken</span><span class="ing-amount" data-basis="royaal">royaal</span></div><div class="ing-cat">Fluwelen tomatensaus</div><div class="ing-row"><span>kippenbouillon</span><span class="ing-amount" data-basis="250 ml">250 ml</span></div><div class="ing-row"><span>ketchup</span><span class="ing-amount" data-basis="4 el">4 el</span></div><div class="ing-row"><span>tomatenpuree</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>rijstazijn</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>knoflookteen, fijn geraspt</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>maizena, gemengd met 2 el koud water</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>flinterdunne hamreepjes, kort krokant gebakken</span><span class="ing-amount" data-basis="50 g">50 g</span></div><div class="ing-row"><span>lente-ui, in ringetjes</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>geroosterde sesam</span><span class="ing-amount" data-basis="1 el">1 el</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Groenten kort aanbakken</strong><br>bak sjalot, prei en paprika kort aan tot ze net zachter worden. Laat iets afkoelen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Omeletmengsel maken</strong><br>klop de eieren los met sojasaus, sesamolie, witte peper en het maizenapapje. Meng ham, taugé, lente-ui en de gebakken groenten erdoor.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Bakken</strong><br>bak twee kleinere omeletten in een royale laag olie op middelhoog vuur — goudbruin van buiten, zacht van binnen. Snijd in mooie punten.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus maken</strong><br>verwarm bouillon, ketchup, tomatenpuree, suiker, azijn, sojasaus, gember en knoflook. Bind licht met maizena. Roer sesamolie erdoor.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveren</strong><br>maak een spiegel van tomatensaus op het bord. Leg een punt foe yong hai erop en lepel een beetje saus over het midden — laat de goudbruine rand zichtbaar. Werk af met krokante hamreepjes, lente-ui en sesam.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>fruit de prei en sjalot van tevoren en laat afkoelen — hete groenten in het eimengsel stollen de eieren gedeeltelijk voor het bakken.</p><p><strong>Techniek:</strong> bak twee kleinere omeletten in plaats van één grote — makkelijker te draaien, gelijkmatiger gegaard en mooier van presentatie. Gebruik een royale laag olie voor de krokante rand.</p><p><strong>Presentatie:</strong> laat de goudbruine rand altijd zichtbaar — de saus gaat als spiegel op het bord, de omelet erop, een lepel saus over het midden. Niet alles bedekken.</p><p><strong>Variatie:</strong> voeg krokante hamreepjes toe als topping — kort gebakken in een droge pan — voor extra textuur en zoutheid die het gerecht direct culinairder maakt.</p><p><strong>Alternatief:</strong> geen goede ham? Gebruik gerookte zalm in dunne reepjes — geeft een heel andere maar even elegante foe yong hai met een meer delicate, rokerige smaak.</p><p><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Pinot Blanc</div>
-        <div class="wine-druif">Pinot Blanc</div>
-        <p class="wine-toe">De zachte neutraliteit, lichte frisheid en subtiele appel- en perentonen van een Elzasser Pinot Blanc laten de zoetzure tomatensaus en de romige omelet volledig schitteren zonder er tegenin te gaan. De wijn heeft genoeg body voor het ei maar is nooit zo dominant dat hij de delicate hamreepjes en prei overstemmt. Pinot Blanc is de meest bescheiden maar veelzijdige witte Elzas-wijn — perfect bij gerechten waar de balans van smaken centraal staat. De lage zuurgraad zorgt dat het ei zacht blijft aanvoelen op het gehemelte. Serveer op 11°C.</p>
-        <div class="wine-alt">Alternatief: Droge Chablis — mineralerder en frisser, werkt als de tomatensaus erg zoet is</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Pinot Blanc</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Pinot Blanc</span>
     </div>
+    <p class="wine-toelichting">De zachte neutraliteit, lichte frisheid en subtiele appel- en perentonen van een Elzasser Pinot Blanc laten de zoetzure tomatensaus en de romige omelet volledig schitteren zonder er tegenin te gaan. De wijn heeft genoeg body voor het ei maar is nooit zo dominant dat hij de delicate hamreepjes en prei overstemmt. Pinot Blanc is de meest bescheiden maar veelzijdige witte Elzas-wijn — perfect bij gerechten waar de balans van smaken centraal staat. De lage zuurgraad zorgt dat het ei zacht blijft aanvoelen op het gehemelte. Serveer op 11°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Droge Chablis — mineralerder en frisser, werkt als de tomatensaus erg zoet is</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

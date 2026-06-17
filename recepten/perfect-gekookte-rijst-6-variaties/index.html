@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Azië</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Perfect gekookte rijst — basisrecept met 6 variaties</h1>
-      <p class="recipe-intro">Rijst is de stille basis van elke Aziatische maaltijd. Luchtig, licht plakkerig en aromatisch — plus zes variaties.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 25 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">2</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Japans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="2" step="1">
-      </div>
+  <div class="recipe-title">Perfect gekookte rijst — basisrecept met 6 variaties</div>
+  <div class="recipe-desc">Rijst is de stille basis van elke Aziatische maaltijd. Luchtig, licht plakkerig en aromatisch — plus zes variaties.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 25 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">2</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Japans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Basisingrediënten</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">jasmijnrijst OF pandanrijst</span></li><li><span class="ing-amount" data-basis="300 ml">300 ml</span><span class="ing-name">koud water</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">fijn zout (optioneel)</span></li></ul><h3 class="ing-group-title">Variatie 1 — Japanse rijst met rauw ei, mirin en furikake (jasmijnrijst)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 pp">1 pp</span><span class="ing-name">rauw eidooier</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">mirin</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">furikake</span></li></ul><h3 class="ing-group-title">Variatie 2 — Pandanrijst met kaffir limoen, citroengras en gember (pandanrijst)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">kaffir limoenblaadjes, gekneusd</span></li><li><span class="ing-amount" data-basis="1 stengel">1 stengel</span><span class="ing-name">citroengras, gekneusd</span></li><li><span class="ing-amount" data-basis="2–3">2–3</span><span class="ing-name">dunne plakjes gember</span></li></ul><h3 class="ing-group-title">Variatie 3 — Kokos-pandanrijst (pandanrijst)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="220 ml">220 ml</span><span class="ing-name">water</span></li><li><span class="ing-amount" data-basis="80 ml">80 ml</span><span class="ing-name">volle kokosmelk</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Variatie 4 — Knoflookrijst met sesam en lente-ui (jasmijnrijst)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 teen">1 teen</span><span class="ing-name">knoflook, in flinterdunne plakjes</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">olie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">sesamolie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">geroosterd sesamzaad</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">lente-ui, in ringen</span></li></ul><h3 class="ing-group-title">Variatie 5 — Boter-soja rijst met nori (jasmijnrijst)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">koude roomboter</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">nori-reepjes</span></li></ul><h3 class="ing-group-title">Variatie 6 — Kurkuma-gemberrijst met limoen (jasmijnrijst)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">kurkuma</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">geraspte gember</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vers limoensap</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">kerriepoeder (OPTIONEEL)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Spoelen</strong><p>rijst in zeef onder koud water tot bijna helder — 1–2 minuten.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Uitlekken</strong><p>5 minuten in de zeef laten uitlekken. Maakt waterverhouding betrouwbaarder.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Opzetten (pan)</strong><p>rijst + 300 ml water + eventueel zout in pan met dikke bodem. Op middelhoog vuur zonder deksel aan de kook.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Koken</strong><p>zodra het kookt — vuur LAAGSTE stand, deksel erop. 12–15 minuten. NOOIT roeren. NOOIT deksel optillen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rusten</strong><p>vuur uit. 10 minuten DEKSEL EROP. Stoom verdeelt zich gelijkmatig.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Losscheppen</strong><p>rijstspatel in luchtige bewegingen van buiten naar binnen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rijstkoker</strong><p>BEREIDING RIJSTKOKER: spoelen en 5 min uitlekken. In rijstkoker met 300 ml water (of tot de streep). Rijststand inschakelen. Na klaarsignaal 10 min rusten op warmhoudstand — niet openen. Losscheppen en direct serveren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Variatie 1 — Japanse rijst</strong><p>dampende rijst in kom, kuiltje in midden, eidooier erin, soja + mirin erover, furikake bestrooien. Aan tafel door roeren — eidooier gaart door de warmte.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Variatie 2 — Pandanrijst kaffir limoen</strong><p>kaffir limoenblaadjes, citroengras en gember toevoegen aan kookwater bij stap 3. Verwijderen na rusttijd. Geurig, licht en aromatisch.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Variatie 3 — Kokos-pandanrijst</strong><p>220 ml water + 80 ml volle kokosmelk (samen 300 ml) + snuf zout + ½ tl suiker. Koken zoals basisrecept. Rijker, romiger, licht zoet.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Variatie 4 — Knoflookrijst</strong><p>1 tl olie verhitten. 1 teen knoflook in flinterdunne plakjes langzaam goudbruin bakken (2 min). Gare rijst in pan, ½ tl sesamolie, 1 tl soja erdoor. Bestrooien met 1 tl geroosterd sesamzaad en 1 lente-ui in ringen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Variatie 5 — Boter-soja rijst met nori</strong><p>15 g koude roomboter + 1 tl lichte sojasaus door hete losgeschepte rijst mengen tot glanst. Nori-reepjes vlak voor serveren erop — zo blijven ze licht krokant.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Variatie 6 — Kurkuma-gemberrijst</strong><p>½ tl kurkuma + 1 tl geraspte gember toevoegen aan kookwater. Rijst kleurt goudgeel. Na rusten losscheppen en besprenkelen met 1 tl vers limoensap. OPTIONEEL: snufje kerriepoeder (¼ tl) voor meer warmte en complexiteit.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Spoelen:</strong> Spoelen is altijd verplicht. 5 min uitlekken maakt waterverhouding betrouwbaarder.</div><div class="tip-item"><strong>Nooit roeren, nooit kijken:</strong> stoom die ontsnapt geeft droge, harde korrels.</div><div class="tip-item"><strong>Rusttijd:</strong> Rusttijd 10 min is verplicht — geen luxe maar essentieel.</div><div class="tip-item"><strong>Kokosrijst extra variaties:</strong> krokante gebakken sjalot bovenop, pandanblad meekoken, of klein rood chilipepertje.</div><div class="tip-item"><strong>Kurkuma + kerrie:</strong> ¼ tl kerriepoeder toevoegen bij variatie 6 voor warmere, complexere smaak.</div><div class="tip-item"><strong>Pandanblad:</strong> toevoegen aan variatie 2 naast kaffir limoen voor extra bloemigheid.</div><div class="tip-item"><strong>Alternatief:</strong> geen pandanrijst? Jasmijnrijst werkt voor alle 6 variaties.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Basisingrediënten</div><div class="ing-row"><span>jasmijnrijst OF pandanrijst</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>koud water</span><span class="ing-amount" data-basis="300 ml">300 ml</span></div><div class="ing-row"><span>fijn zout (optioneel)</span><span class="ing-amount" data-basis="snuf">snuf</span></div><div class="ing-cat">Variatie 1 — Japanse rijst met rauw ei, mirin en furikake (jasmijnrijst)</div><div class="ing-row"><span>rauw eidooier</span><span class="ing-amount" data-basis="1 pp">1 pp</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>mirin</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>furikake</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Variatie 2 — Pandanrijst met kaffir limoen, citroengras en gember (pandanrijst)</div><div class="ing-row"><span>kaffir limoenblaadjes, gekneusd</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>citroengras, gekneusd</span><span class="ing-amount" data-basis="1 stengel">1 stengel</span></div><div class="ing-row"><span>dunne plakjes gember</span><span class="ing-amount" data-basis="2–3">2–3</span></div><div class="ing-cat">Variatie 3 — Kokos-pandanrijst (pandanrijst)</div><div class="ing-row"><span>water</span><span class="ing-amount" data-basis="220 ml">220 ml</span></div><div class="ing-row"><span>volle kokosmelk</span><span class="ing-amount" data-basis="80 ml">80 ml</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snuf">snuf</span></div><div class="ing-cat">Variatie 4 — Knoflookrijst met sesam en lente-ui (jasmijnrijst)</div><div class="ing-row"><span>knoflook, in flinterdunne plakjes</span><span class="ing-amount" data-basis="1 teen">1 teen</span></div><div class="ing-row"><span>olie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>geroosterd sesamzaad</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>lente-ui, in ringen</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Variatie 5 — Boter-soja rijst met nori (jasmijnrijst)</div><div class="ing-row"><span>koude roomboter</span><span class="ing-amount" data-basis="15 g">15 g</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>nori-reepjes</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Variatie 6 — Kurkuma-gemberrijst met limoen (jasmijnrijst)</div><div class="ing-row"><span>kurkuma</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>geraspte gember</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>vers limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>kerriepoeder (OPTIONEEL)</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Spoelen</strong><br>rijst in zeef onder koud water tot bijna helder — 1–2 minuten.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Uitlekken</strong><br>5 minuten in de zeef laten uitlekken. Maakt waterverhouding betrouwbaarder.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Opzetten (pan)</strong><br>rijst + 300 ml water + eventueel zout in pan met dikke bodem. Op middelhoog vuur zonder deksel aan de kook.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Koken</strong><br>zodra het kookt — vuur LAAGSTE stand, deksel erop. 12–15 minuten. NOOIT roeren. NOOIT deksel optillen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Rusten</strong><br>vuur uit. 10 minuten DEKSEL EROP. Stoom verdeelt zich gelijkmatig.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Losscheppen</strong><br>rijstspatel in luchtige bewegingen van buiten naar binnen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Rijstkoker</strong><br>BEREIDING RIJSTKOKER: spoelen en 5 min uitlekken. In rijstkoker met 300 ml water (of tot de streep). Rijststand inschakelen. Na klaarsignaal 10 min rusten op warmhoudstand — niet openen. Losscheppen en direct serveren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Variatie 1 — Japanse rijst</strong><br>dampende rijst in kom, kuiltje in midden, eidooier erin, soja + mirin erover, furikake bestrooien. Aan tafel door roeren — eidooier gaart door de warmte.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Variatie 2 — Pandanrijst kaffir limoen</strong><br>kaffir limoenblaadjes, citroengras en gember toevoegen aan kookwater bij stap 3. Verwijderen na rusttijd. Geurig, licht en aromatisch.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Variatie 3 — Kokos-pandanrijst</strong><br>220 ml water + 80 ml volle kokosmelk (samen 300 ml) + snuf zout + ½ tl suiker. Koken zoals basisrecept. Rijker, romiger, licht zoet.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Variatie 4 — Knoflookrijst</strong><br>1 tl olie verhitten. 1 teen knoflook in flinterdunne plakjes langzaam goudbruin bakken (2 min). Gare rijst in pan, ½ tl sesamolie, 1 tl soja erdoor. Bestrooien met 1 tl geroosterd sesamzaad en 1 lente-ui in ringen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Variatie 5 — Boter-soja rijst met nori</strong><br>15 g koude roomboter + 1 tl lichte sojasaus door hete losgeschepte rijst mengen tot glanst. Nori-reepjes vlak voor serveren erop — zo blijven ze licht krokant.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Variatie 6 — Kurkuma-gemberrijst</strong><br>½ tl kurkuma + 1 tl geraspte gember toevoegen aan kookwater. Rijst kleurt goudgeel. Na rusten losscheppen en besprenkelen met 1 tl vers limoensap. OPTIONEEL: snufje kerriepoeder (¼ tl) voor meer warmte en complexiteit.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Spoelen:</strong> Spoelen is altijd verplicht. 5 min uitlekken maakt waterverhouding betrouwbaarder.</p><p><strong>Nooit roeren, nooit kijken:</strong> stoom die ontsnapt geeft droge, harde korrels.</p><p><strong>Rusttijd:</strong> Rusttijd 10 min is verplicht — geen luxe maar essentieel.</p><p><strong>Kokosrijst extra variaties:</strong> krokante gebakken sjalot bovenop, pandanblad meekoken, of klein rood chilipepertje.</p><p><strong>Kurkuma + kerrie:</strong> ¼ tl kerriepoeder toevoegen bij variatie 6 voor warmere, complexere smaak.</p><p><strong>Pandanblad:</strong> toevoegen aan variatie 2 naast kaffir limoen voor extra bloemigheid.</p><p><strong>Alternatief:</strong> geen pandanrijst? Jasmijnrijst werkt voor alle 6 variaties.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Afhankelijk van het hoofdgerecht</div>
-        <div class="wine-druif">Zie toelichting</div>
-        <p class="wine-toe">Bij variaties 1 en 5 (Japans, umami): droge sake of strakke Chenin Blanc. Bij variaties 2 en 3 (Thais, kokos): Pinot Gris of Viognier. Bij variatie 6 (kurkuma, gember): Grüner Veltliner of Verdejo.</p>
-        <div class="wine-alt">Alternatief: Junmai sake koel geserveerd — meest universele begeleider</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Afhankelijk van het hoofdgerecht</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Zie toelichting</span>
     </div>
+    <p class="wine-toelichting">Bij variaties 1 en 5 (Japans, umami): droge sake of strakke Chenin Blanc. Bij variaties 2 en 3 (Thais, kokos): Pinot Gris of Viognier. Bij variatie 6 (kurkuma, gember): Grüner Veltliner of Verdejo.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Junmai sake koel geserveerd — meest universele begeleider</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('2 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

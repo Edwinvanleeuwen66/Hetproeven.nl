@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">België</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Crudo van zeebaars — rauwe zeebaars met venkel-jalapeño bouillon, Conference peer, jalapeño-crème en Oscietra kaviaar</h1>
-      <p class="recipe-intro">Geïnspireerd op Belgische Michelin-stijl. Puur rauwe zeebaars — paperdun gesneden, ongerept — op een bevroren bord met drie elementen die alles samenbrengen: een dot koude jalapeño-crème, fijne peer met champagneazijn, paperdunne venkel uit ijswater.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min + 30 min koelen bouillon</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten</div>
-        <div class="tag">📊 Gevorderd</div>
-        <div class="tag">🌍 Frans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Crudo van zeebaars — rauwe zeebaars met venkel-jalapeño bouillon, Conference peer, jalapeño-crème en Oscietra kaviaar</div>
+  <div class="recipe-desc">Geïnspireerd op Belgische Michelin-stijl. Puur rauwe zeebaars — paperdun gesneden, ongerept — op een bevroren bord met drie elementen die alles samenbrengen: een dot koude jalapeño-crème, fijne peer met champagneazijn, paperdunne venkel uit ijswater.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min + 30 min koelen bouillon</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gevorderd</div>
+    <div class="tag tag-acc">🌍 Frans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de vis</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="280 g">280 g</span><span class="ing-name">zeebaars (bar/loup de mer — altijd sashimi-kwaliteit, vraag expliciet aan de visboer)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">alternatief: dorade royale</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">paar druppels milde extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fleur de sel</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fijne limoenrasp</span></li></ul><h3 class="ing-group-title">Voor de jalapeño-crème (geconcentreerde hitte-dot)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">groene jalapeños</span></li><li><span class="ing-amount" data-basis="80 g">80 g</span><span class="ing-name">crème double of volle crème fraîche</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vers limoensap</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de venkel-jalapeño-bouillon (aan tafel ingeschonken)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine venkelknol, fijngesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine sjalot, fijngesneden</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">groene jalapeño, zonder zaadjes</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">milde olijfolie</span></li><li><span class="ing-amount" data-basis="60 ml">60 ml</span><span class="ing-name">droge witte wijn</span></li><li><span class="ing-amount" data-basis="250 ml">250 ml</span><span class="ing-name">lichte groente- of visbouillon</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vers limoensap</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">champagneazijn (of witte balsamico)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">honing</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">venkeltopjes (allerlaatst — aromaat)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en witte peper</span></li></ul><h3 class="ing-group-title">Voor de peer</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">stevige Conference- of Doyenné-peer (niet te rijp — fris-zoet en strak)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vers limoensap</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">champagneazijn</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de venkel</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine venkelknol</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">ijswater + 1 tl citroensap</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">venkeltopjes (als garnering)</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20–24 g">20–24 g</span><span class="ing-name">oscietra kaviaar</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">micro-cress (shiso cress, borage cress of Vene Cress)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fijne limoenrasp</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Jalapeño-crème (van tevoren)</strong><p>Jalapeños roosteren direct op gasvlam of onder de grill tot de schil zwart geblakerd is. In een kom afdekken met plasticfolie — 5 minuten stomen. Schil afpellen. Zaadjes verwijderen. Geroosterde jalapeños blenden met crème double, limoensap en zout. Door een fijne zeef wrijven — de crème moet absoluut glad zijn. Koel bewaren in een spuitzak.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">De koude venkel-jalapeño-bouillon (minimaal 30 min van tevoren)</strong><p>Verhit olijfolie in een kleine pan. Venkel en sjalot 3–4 minuten zachtjes fruiten — glazig, niet gekleurd. Witte wijn toevoegen. Inkoken tot de helft. Bouillon toevoegen. 8 minuten zacht laten trekken. Jalapeño en venkeltopjes toevoegen. 2 minuten mee laten trekken. Blenden met limoensap, champagneazijn, honing, zout en witte peper. Door een fijne zeef persen. Volledig laten afkoelen. Dan minimaal 30 minuten in de koelkast.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Venkel uit ijswater</strong><p>Venkelknol paperdun schaven op mandoline. Direct in ijskoud water met citroensap — 10 minuten. Daarna goed uitlekken en voorzichtig droogdeppen.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Peer</strong><p>Peer schillen. In fijne brunoise van 2mm of paperdunne halve plakjes. Direct mengen met limoensap, champagneazijn en zout. Koel bewaren.</p></div></div><div class="step"><div class="step-num">9</div><div class="step-body"><strong class="step-action">De vis (vlak voor serveren)</strong><p>20 minuten in de vriezer — de vis firmt op en is makkelijker paperdun te snijden. Met een scherp japans mes dwars op de vezels in plakjes van 2–3mm snijden.</p></div></div><div class="step"><div class="step-num">11</div><div class="step-body"><strong class="step-action">Opbouwen (bevroren borden — altijd)</strong><p>Borden 30 minuten in de vriezer. Kleine dots jalapeño-crème op het bord. Visplakjes elegant overlappend in een losse halve cirkel. Druppels olijfolie. Limoenrasp. Fleur de sel. Peer fijn verdeeld. Venkelkrullen luchtig eroverheen. Oscietra kaviaar als kleine, precieze quenelles op 3–4 punten. Micro-cress en venkeltopjes. Tableside: de ijskoude venkel-jalapeño-bouillon voorzichtig rondom de vis ingeschonken.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Inkopen:</strong> Sashimi-kwaliteit is niet onderhandelbaar: Vraag expliciet aan de visboer of de vis rauw gegeten kan worden.</div><div class="tip-item"><strong>Bevroren borden:</strong> De meest onderschatte stap. Koude borden houden de vis koud.</div><div class="tip-item"><strong>Bouillon echt koud serveren:</strong> IJskoud geeft spanning en verfijning.</div><div class="tip-item"><strong>Jalapeño:</strong> Jalapeño subtiel in de bouillon: Zaadjes altijd verwijderen, nooit te lang laten trekken.</div><div class="tip-item"><strong>Variatie — licht gecuurd:</strong> Bestrooi de vis 5–10 min voor het snijden met zeezout + limoensap. Dep droog. Steviger van textuur.</div><div class="tip-item"><strong>Alternatief kaviaar:</strong> Zalm-roe of foreleitjes als toegankelijker alternatief.</div><div class="tip-item"><strong>Vis ijskoud snijden:</strong> Leg de zeebaars 15–20 minuten in de vriezer voordat je snijdt. De vis wordt steviger, waardoor je dunner en strakker kunt werken zonder de structuur te beschadigen.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de vis</div><div class="ing-row"><span>zeebaars (bar/loup de mer — altijd sashimi-kwaliteit, vraag expliciet aan de visboer)</span><span class="ing-amount" data-basis="280 g">280 g</span></div><div class="ing-row"><span>alternatief: dorade royale</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>paar druppels milde extra vergine olijfolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>fijne limoenrasp</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de jalapeño-crème (geconcentreerde hitte-dot)</div><div class="ing-row"><span>groene jalapeños</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>crème double of volle crème fraîche</span><span class="ing-amount" data-basis="80 g">80 g</span></div><div class="ing-row"><span>vers limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>snuf fijn zeezout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de venkel-jalapeño-bouillon (aan tafel ingeschonken)</div><div class="ing-row"><span>kleine venkelknol, fijngesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>kleine sjalot, fijngesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>groene jalapeño, zonder zaadjes</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>milde olijfolie</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>droge witte wijn</span><span class="ing-amount" data-basis="60 ml">60 ml</span></div><div class="ing-row"><span>lichte groente- of visbouillon</span><span class="ing-amount" data-basis="250 ml">250 ml</span></div><div class="ing-row"><span>vers limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>champagneazijn (of witte balsamico)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>honing</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>venkeltopjes (allerlaatst — aromaat)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>zout en witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de peer</div><div class="ing-row"><span>stevige Conference- of Doyenné-peer (niet te rijp — fris-zoet en strak)</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>vers limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>champagneazijn</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>snuf fijn zeezout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de venkel</div><div class="ing-row"><span>kleine venkelknol</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>ijswater + 1 tl citroensap</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>venkeltopjes (als garnering)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>oscietra kaviaar</span><span class="ing-amount" data-basis="20–24 g">20–24 g</span></div><div class="ing-row"><span>micro-cress (shiso cress, borage cress of Vene Cress)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>fijne limoenrasp</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Jalapeño-crème (van tevoren)</strong><br>Jalapeños roosteren direct op gasvlam of onder de grill tot de schil zwart geblakerd is. In een kom afdekken met plasticfolie — 5 minuten stomen. Schil afpellen. Zaadjes verwijderen. Geroosterde jalapeños blenden met crème double, limoensap en zout. Door een fijne zeef wrijven — de crème moet absoluut glad zijn. Koel bewaren in een spuitzak.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>De koude venkel-jalapeño-bouillon (minimaal 30 min van tevoren)</strong><br>Verhit olijfolie in een kleine pan. Venkel en sjalot 3–4 minuten zachtjes fruiten — glazig, niet gekleurd. Witte wijn toevoegen. Inkoken tot de helft. Bouillon toevoegen. 8 minuten zacht laten trekken. Jalapeño en venkeltopjes toevoegen. 2 minuten mee laten trekken. Blenden met limoensap, champagneazijn, honing, zout en witte peper. Door een fijne zeef persen. Volledig laten afkoelen. Dan minimaal 30 minuten in de koelkast.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Venkel uit ijswater</strong><br>Venkelknol paperdun schaven op mandoline. Direct in ijskoud water met citroensap — 10 minuten. Daarna goed uitlekken en voorzichtig droogdeppen.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Peer</strong><br>Peer schillen. In fijne brunoise van 2mm of paperdunne halve plakjes. Direct mengen met limoensap, champagneazijn en zout. Koel bewaren.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>De vis (vlak voor serveren)</strong><br>20 minuten in de vriezer — de vis firmt op en is makkelijker paperdun te snijden. Met een scherp japans mes dwars op de vezels in plakjes van 2–3mm snijden.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Opbouwen (bevroren borden — altijd)</strong><br>Borden 30 minuten in de vriezer. Kleine dots jalapeño-crème op het bord. Visplakjes elegant overlappend in een losse halve cirkel. Druppels olijfolie. Limoenrasp. Fleur de sel. Peer fijn verdeeld. Venkelkrullen luchtig eroverheen. Oscietra kaviaar als kleine, precieze quenelles op 3–4 punten. Micro-cress en venkeltopjes. Tableside: de ijskoude venkel-jalapeño-bouillon voorzichtig rondom de vis ingeschonken.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Inkopen:</strong> Sashimi-kwaliteit is niet onderhandelbaar: Vraag expliciet aan de visboer of de vis rauw gegeten kan worden.</p><p><strong>Bevroren borden:</strong> De meest onderschatte stap. Koude borden houden de vis koud.</p><p><strong>Bouillon echt koud serveren:</strong> IJskoud geeft spanning en verfijning.</p><p><strong>Jalapeño:</strong> Jalapeño subtiel in de bouillon: Zaadjes altijd verwijderen, nooit te lang laten trekken.</p><p><strong>Variatie — licht gecuurd:</strong> Bestrooi de vis 5–10 min voor het snijden met zeezout + limoensap. Dep droog. Steviger van textuur.</p><p><strong>Alternatief kaviaar:</strong> Zalm-roe of foreleitjes als toegankelijker alternatief.</p><p><strong>Vis ijskoud snijden:</strong> Leg de zeebaars 15–20 minuten in de vriezer voordat je snijdt. De vis wordt steviger, waardoor je dunner en strakker kunt werken zonder de structuur te beschadigen.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Champagne Blanc de Blancs Extra Brut AOC — Champagne, Frankrijk</div>
-        <div class="wine-druif">Chardonnay</div>
-        <p class="wine-toe">Droog, strak, mineraal, citrus, fijne mousse, lichte brioche, geen restsui-ker De meest precieze en feestelijke keuze bij rauwe vis en kaviaar. De mousse ruimt het mondgevoel op. De mineraliteit versterkt het zilte karakter van vis en kaviaar. De citrusnoten sluiten aan op limoen en champagneazijn.</p>
-        <div class="wine-alt">Alternatief: Albariño Rias Baixas DO — Galicië, Spanje — Albariño. Droog, fris, licht ziltig, citrus, witte perzik, levendig De meest elegante stille wijnkeuze bij koude visgerechten. De ziltigheid spiegelt de vis en kaviaar. De citrusfrisheid sluit aan op de bouillon en limoen. | Chablis Premier Cru AOC — Bourgogne, Frankrijk — Chardonnay. Droog, mineraal, citrus, groene appel, krijtige spanning, strak Strakker en stiller dan Champagne — klassiek Frans. De krijtige mineraliteit is de klassieke match bij rauwe vis en kaviaar.</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Champagne Blanc de Blancs Extra Brut AOC — Champagne, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Chardonnay</span>
     </div>
+    <p class="wine-toelichting">Droog, strak, mineraal, citrus, fijne mousse, lichte brioche, geen restsui-ker De meest precieze en feestelijke keuze bij rauwe vis en kaviaar. De mousse ruimt het mondgevoel op. De mineraliteit versterkt het zilte karakter van vis en kaviaar. De citrusnoten sluiten aan op limoen en champagneazijn.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Albariño Rias Baixas DO — Galicië, Spanje — Albariño. Droog, fris, licht ziltig, citrus, witte perzik, levendig De meest elegante stille wijnkeuze bij koude visgerechten. De ziltigheid spiegelt de vis en kaviaar. De citrusfrisheid sluit aan op de bouillon en limoen. | Chablis Premier Cru AOC — Bourgogne, Frankrijk — Chardonnay. Droog, mineraal, citrus, groene appel, krijtige spanning, strak Strakker en stiller dan Champagne — klassiek Frans. De krijtige mineraliteit is de klassieke match bij rauwe vis en kaviaar.</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

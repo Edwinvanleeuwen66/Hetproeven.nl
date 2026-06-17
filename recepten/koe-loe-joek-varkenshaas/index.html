@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Kanton</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Koe Loe Joek van varkenshaas met zoetzure ananassaus</h1>
-      <p class="recipe-intro">Krokante blokjes varkenshaas gelakt in een glanzende zoetzure ananassaus met paprika en ui.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 40 min + 30 min marineren</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Koe Loe Joek van varkenshaas met zoetzure ananassaus</div>
+  <div class="recipe-desc">Krokante blokjes varkenshaas gelakt in een glanzende zoetzure ananassaus met paprika en ui.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 40 min + 30 min marineren</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Vlees</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="600 g">600 g</span><span class="ing-name">varkenshaas, in blokjes van 3 cm</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">Shaoxing rijstwijn of droge sherry</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">sesamolie</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">knoflookteen, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, fijn geraspt</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en witte peper</span></li></ul><h3 class="ing-group-title">Krokant laagje</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">eiwit</span></li><li><span class="ing-amount" data-basis="5 el">5 el</span><span class="ing-name">maizena</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">bloem</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">bakpoeder</span></li><li><span class="ing-amount" data-basis="2–3 el">2–3 el</span><span class="ing-name">ijskoud water</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Zoetzure ananassaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200 ml">200 ml</span><span class="ing-name">ananassap</span></li><li><span class="ing-amount" data-basis="75 ml">75 ml</span><span class="ing-name">rijstazijn</span></li><li><span class="ing-amount" data-basis="4 el">4 el</span><span class="ing-name">ketchup</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">tomatenpuree</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, fijn geraspt</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">knoflookteen, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">maizena, gemengd met 2 el koud water</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">sesamolie</span></li></ul><h3 class="ing-group-title">Groenten en afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">rode paprika, in grove ruiten</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">groene paprika, in grove ruiten</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ui, in partjes</span></li><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">ananasstukjes</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-ui, in ringetjes</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geroosterde sesam</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Marineren</strong><p>meng sojasaus, rijstwijn, sesamolie, knoflook, gember, zout en peper. Marineer de varkenshaas 20–30 minuten.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Beslag en frituren</strong><p>meng eiwit, maizena, bloem, bakpoeder, zout en ijskoud water tot een beslag. Haal het vlees erdoor. Frituur de blokjes goudbruin. Laat uitlekken en frituur vlak voor het serveren een tweede keer kort — zo wordt het korstje echt krokant.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus maken</strong><p>kook ananassap, azijn, ketchup, suiker, sojasaus, tomatenpuree, gember en knoflook. Bind licht met maizena en roer sesamolie erdoor.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Samenstellen en serveren</strong><p>wok paprika, ui en ananas kort op hoog vuur. Voeg de saus toe. Schep het krokante vlees er pas vlak voor het serveren door. Leg op het bord met lente-ui en sesam.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">marineer de varkenshaas minstens 20 minuten. Maak de saus van tevoren klaar zodat alles bij het samenstellen snel gaat.</div><div class="tip-item"><strong>Techniek:</strong> twee keer frituren is geen overdrijving — de eerste keer gaart het vlees, de tweede keer maakt het krokant. Sla de tweede frituurbeurt nooit over.</div><div class="tip-item"><strong>Presentatie:</strong> schep de krokante varkenshaas pas op het allerlaatste moment door de saus — elk minuut eerder kost knapperigheid. Stapel het vlees boven op de groenten zodat het zichtbaar is.</div><div class="tip-item"><strong>Variatie:</strong> voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas voor een meer delicate zoetheid.</div><div class="tip-item"><strong>Alternatief:</strong> geen ananassap? Gebruik sinaasappelsap — minder tropisch maar geeft dezelfde zoet-zure sausbalans die dit gerecht zijn karakter geeft.</div><div class="tip-item"><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item"><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Vlees</div><div class="ing-row"><span>varkenshaas, in blokjes van 3 cm</span><span class="ing-amount" data-basis="600 g">600 g</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Shaoxing rijstwijn of droge sherry</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>knoflookteen, fijn geraspt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zout en witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Krokant laagje</div><div class="ing-row"><span>eiwit</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>maizena</span><span class="ing-amount" data-basis="5 el">5 el</span></div><div class="ing-row"><span>bloem</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>bakpoeder</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>ijskoud water</span><span class="ing-amount" data-basis="2–3 el">2–3 el</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snuf">snuf</span></div><div class="ing-cat">Zoetzure ananassaus</div><div class="ing-row"><span>ananassap</span><span class="ing-amount" data-basis="200 ml">200 ml</span></div><div class="ing-row"><span>rijstazijn</span><span class="ing-amount" data-basis="75 ml">75 ml</span></div><div class="ing-row"><span>ketchup</span><span class="ing-amount" data-basis="4 el">4 el</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>tomatenpuree</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>knoflookteen, fijn geraspt</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>maizena, gemengd met 2 el koud water</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Groenten en afwerking</div><div class="ing-row"><span>rode paprika, in grove ruiten</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>groene paprika, in grove ruiten</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>ui, in partjes</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>ananasstukjes</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>lente-ui, in ringetjes</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>geroosterde sesam</span><span class="ing-amount" data-basis="1 el">1 el</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Marineren</strong><br>meng sojasaus, rijstwijn, sesamolie, knoflook, gember, zout en peper. Marineer de varkenshaas 20–30 minuten.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Beslag en frituren</strong><br>meng eiwit, maizena, bloem, bakpoeder, zout en ijskoud water tot een beslag. Haal het vlees erdoor. Frituur de blokjes goudbruin. Laat uitlekken en frituur vlak voor het serveren een tweede keer kort — zo wordt het korstje echt krokant.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus maken</strong><br>kook ananassap, azijn, ketchup, suiker, sojasaus, tomatenpuree, gember en knoflook. Bind licht met maizena en roer sesamolie erdoor.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Samenstellen en serveren</strong><br>wok paprika, ui en ananas kort op hoog vuur. Voeg de saus toe. Schep het krokante vlees er pas vlak voor het serveren door. Leg op het bord met lente-ui en sesam.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>marineer de varkenshaas minstens 20 minuten. Maak de saus van tevoren klaar zodat alles bij het samenstellen snel gaat.</p><p><strong>Techniek:</strong> twee keer frituren is geen overdrijving — de eerste keer gaart het vlees, de tweede keer maakt het krokant. Sla de tweede frituurbeurt nooit over.</p><p><strong>Presentatie:</strong> schep de krokante varkenshaas pas op het allerlaatste moment door de saus — elk minuut eerder kost knapperigheid. Stapel het vlees boven op de groenten zodat het zichtbaar is.</p><p><strong>Variatie:</strong> voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas voor een meer delicate zoetheid.</p><p><strong>Alternatief:</strong> geen ananassap? Gebruik sinaasappelsap — minder tropisch maar geeft dezelfde zoet-zure sausbalans die dit gerecht zijn karakter geeft.</p><p><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Vouvray sec of demi-sec — Loire, Frankrijk</div>
-        <div class="wine-druif">Chenin Blanc</div>
-        <p class="wine-toe">De fruitige frisheid en lichte residuele zoetheid van een Loire Chenin Blanc Kabinett sluiten naadloos aan op de zoetzure ananassaus — de appel- en perziktonen van de Chenin Blanc resoneren met het ananassap. De hoge zuurgraad snijdt door het gefrituurde beslag en reinigt de mond na elke vette hap. De lage alcohol (7-9%) maakt het licht en drinkbaar bij een uitgebreide Chinese maaltijd. Een Kabinett heeft net genoeg residuele suiker om de zuurheid van de saus te balanceren zonder te zoet te worden. Serveer gekoeld op 9°C.</p>
-        <div class="wine-alt">Alternatief: Droge Prosecco — de bellen snijden door het frituurvet, de lichte zoetheid past bij de ananassaus</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Vouvray sec of demi-sec — Loire, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Chenin Blanc</span>
     </div>
+    <p class="wine-toelichting">De fruitige frisheid en lichte residuele zoetheid van een Loire Chenin Blanc Kabinett sluiten naadloos aan op de zoetzure ananassaus — de appel- en perziktonen van de Chenin Blanc resoneren met het ananassap. De hoge zuurgraad snijdt door het gefrituurde beslag en reinigt de mond na elke vette hap. De lage alcohol (7-9%) maakt het licht en drinkbaar bij een uitgebreide Chinese maaltijd. Een Kabinett heeft net genoeg residuele suiker om de zuurheid van de saus te balanceren zonder te zoet te worden. Serveer gekoeld op 9°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Droge Prosecco — de bellen snijden door het frituurvet, de lichte zoetheid past bij de ananassaus</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Madrid</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Bladerdeegbakje met foie gras, vijgenconfiture en Pedro Ximénez</h1>
-      <p class="recipe-intro">Knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel zoete sherry.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Bladerdeegbakje met foie gras, vijgenconfiture en Pedro Ximénez</div>
+  <div class="recipe-desc">Knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel zoete sherry.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Bakjes</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 rol">1 rol</span><span class="ing-name">kant-en-klaar bladerdeeg</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ei voor het bestrijken</span></li></ul><h3 class="ing-group-title">Vulling</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">foie gras mousse of foie gras terrine</span></li><li><span class="ing-amount" data-basis="60 g">60 g</span><span class="ing-name">vijgenconfiture</span></li><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">Pedro Ximénez sherry</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">fleur de sel</span></li><li><span class="ing-amount" data-basis="15">15</span><span class="ing-name">verse tijmblaadjes</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rondjes uitsteken</strong><p>verwarm oven op 200°C. Rol bladerdeeg uit en steek rondjes uit van 6-7 cm doorsnede.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Vormen en blind bakken</strong><p>druk elk rondje in een minimuffinvorm. Prik de bodem in met een vork. Leg bakpapier erin, vul met droge rijst. Bak 10 minuten op 200°C.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Afbakken</strong><p>verwijder bakpapier en rijst. Bestrijk met ei. Bak nog 5 minuten tot goudbruin. Laat 5 minuten afkoelen en verwijder uit de vormpjes.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Vullen en serveren</strong><p>schep een kleine quenelle foie gras in elk bakje. Leg een dot vijgenconfiture erop. Druppel Pedro Ximénez erover. Bestrooi met fleur de sel en tijmblaadjes. Serveer direct.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">de bladerdeeg-bakjes een dag van tevoren maken en op kamertemperatuur bewaren in een luchtdichte doos. Vul pas vlak voor serveren zodat het deeg krokant blijft.</div><div class="tip-item"><strong>Techniek:</strong> foie gras moet zo koud mogelijk zijn — snijd direct uit de koelkast. Gebruik een dun, vochtig mes voor schone snijvlakken zonder scheuren.</div><div class="tip-item"><strong>Presentatie:</strong> leg een klein blaadje microkers of waterkers bovenop als finishing — het groene accent geeft visueel contrast bij de goudgele foie gras.</div><div class="tip-item"><strong>Variatie:</strong> vervang vijgencompote door truffelgelei of porto-reductie voor een ander luxe karakter, of gebruik peer in plaats van vijg voor een frissere, lichtere combinatie.</div><div class="tip-item"><strong>Alternatief:</strong> geen foie gras? Gebruik parfait de volaille (kippenlever parfait) — minder luxe maar even romig en elegant bij vijg en bladerdeeg.</div><div class="tip-item"><strong>Snijden:</strong> Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</div><div class="tip-item"><strong>Balans:</strong> proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Bakjes</div><div class="ing-row"><span>kant-en-klaar bladerdeeg</span><span class="ing-amount" data-basis="1 rol">1 rol</span></div><div class="ing-row"><span>ei voor het bestrijken</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Vulling</div><div class="ing-row"><span>foie gras mousse of foie gras terrine</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>vijgenconfiture</span><span class="ing-amount" data-basis="60 g">60 g</span></div><div class="ing-row"><span>Pedro Ximénez sherry</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis="snuf">snuf</span></div><div class="ing-row"><span>verse tijmblaadjes</span><span class="ing-amount" data-basis="15">15</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Rondjes uitsteken</strong><br>verwarm oven op 200°C. Rol bladerdeeg uit en steek rondjes uit van 6-7 cm doorsnede.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Vormen en blind bakken</strong><br>druk elk rondje in een minimuffinvorm. Prik de bodem in met een vork. Leg bakpapier erin, vul met droge rijst. Bak 10 minuten op 200°C.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Afbakken</strong><br>verwijder bakpapier en rijst. Bestrijk met ei. Bak nog 5 minuten tot goudbruin. Laat 5 minuten afkoelen en verwijder uit de vormpjes.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Vullen en serveren</strong><br>schep een kleine quenelle foie gras in elk bakje. Leg een dot vijgenconfiture erop. Druppel Pedro Ximénez erover. Bestrooi met fleur de sel en tijmblaadjes. Serveer direct.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>de bladerdeeg-bakjes een dag van tevoren maken en op kamertemperatuur bewaren in een luchtdichte doos. Vul pas vlak voor serveren zodat het deeg krokant blijft.</p><p><strong>Techniek:</strong> foie gras moet zo koud mogelijk zijn — snijd direct uit de koelkast. Gebruik een dun, vochtig mes voor schone snijvlakken zonder scheuren.</p><p><strong>Presentatie:</strong> leg een klein blaadje microkers of waterkers bovenop als finishing — het groene accent geeft visueel contrast bij de goudgele foie gras.</p><p><strong>Variatie:</strong> vervang vijgencompote door truffelgelei of porto-reductie voor een ander luxe karakter, of gebruik peer in plaats van vijg voor een frissere, lichtere combinatie.</p><p><strong>Alternatief:</strong> geen foie gras? Gebruik parfait de volaille (kippenlever parfait) — minder luxe maar even romig en elegant bij vijg en bladerdeeg.</p><p><strong>Snijden:</strong> Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</p><p><strong>Balans:</strong> proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Sauternes</div>
-        <div class="wine-druif">Sémillon, Sauvignon Blanc, Muscadelle</div>
-        <p class="wine-toe">De honingzoete, geconcentreerde Sauternes — gemaakt van druiven aangetast door edele rotting — heeft tonen van abrikoos, mango, rozijn en een lichte botrytistoon die direct resoneert met de rijke vettigheid van de foie gras. De zoete zuurgraad van de wijn snijdt door het vet terwijl de zoetheid de vijgencompote spiegelt. Dit is een van de meest klassieke en bewezen wijn-spijscombinaties ter wereld. Serveer gekoeld op 10°C in een klein wijnglas.</p>
-        <div class="wine-alt">Alternatief: Jurançon Moelleux — Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen; Coteaux du Layon — Loire, Frankrijk — Zoet maar fris, honing, abrikoos, kweepeer, hoge zuren</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Sauternes</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Sémillon, Sauvignon Blanc, Muscadelle</span>
     </div>
+    <p class="wine-toelichting">De honingzoete, geconcentreerde Sauternes — gemaakt van druiven aangetast door edele rotting — heeft tonen van abrikoos, mango, rozijn en een lichte botrytistoon die direct resoneert met de rijke vettigheid van de foie gras. De zoete zuurgraad van de wijn snijdt door het vet terwijl de zoetheid de vijgencompote spiegelt. Dit is een van de meest klassieke en bewezen wijn-spijscombinaties ter wereld. Serveer gekoeld op 10°C in een klein wijnglas.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Jurançon Moelleux — Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen; Coteaux du Layon — Loire, Frankrijk — Zoet maar fris, honing, abrikoos, kweepeer, hoge zuren</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

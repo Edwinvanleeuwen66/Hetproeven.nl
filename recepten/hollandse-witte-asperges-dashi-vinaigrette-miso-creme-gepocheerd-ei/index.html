@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Tokyo</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Hollandse witte asperges met dashi-vinaigrette, witte miso-crème en gepocheerd ei — Sézanne-stijl</h1>
-      <p class="recipe-intro">Sézanne Tokyo — Chef Daniel Calvert, #7 ter wereld — is het meest perfecte voorbeeld van wat er gebeurt als Franse precisie en Japanse ziel samenkomen. Hollandse witte asperges gestoomd tot zacht en boterachtig. Een dunne smeer witte miso-crème. Dashi-vinaigrette rondom ingeschonken. En katsuobushi die danst over het warme ei.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 40 min actief + 30 min kombu weken</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Japans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Hollandse witte asperges met dashi-vinaigrette, witte miso-crème en gepocheerd ei — Sézanne-stijl</div>
+  <div class="recipe-desc">Sézanne Tokyo — Chef Daniel Calvert, #7 ter wereld — is het meest perfecte voorbeeld van wat er gebeurt als Franse precisie en Japanse ziel samenkomen. Hollandse witte asperges gestoomd tot zacht en boterachtig. Een dunne smeer witte miso-crème. Dashi-vinaigrette rondom ingeschonken. En katsuobushi die danst over het warme ei.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 40 min actief + 30 min kombu weken</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Japans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de witte asperges</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 kg">1 kg</span><span class="ing-name">dikke Hollandse witte asperges (4–5 pp)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">klontje roomboter + snuf zout + snuf suiker (voor de stoomoven)</span></li></ul><h3 class="ing-group-title">Voor de dashi</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="600 ml">600 ml</span><span class="ing-name">koud water</span></li><li><span class="ing-amount" data-basis="10 g">10 g</span><span class="ing-name">gedroogde kombu (bij de toko)</span></li><li><span class="ing-amount" data-basis="10 g">10 g</span><span class="ing-name">katsuobushi (gedroogde bonito flakes — bij de toko)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snelle dashi-alternatief: 1 tl dashi-poeder (hondashi) oplossen in 600ml heet water</span></li></ul><h3 class="ing-group-title">Voor de dashi-vinaigrette</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="150 ml">150 ml</span><span class="ing-name">dashi</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">rijstazijn</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">shoyu (Japanse sojasaus)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">honing</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">rijstkiemolie of milde olijfolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">eventueel: yuzu-sap (bij de toko) of vervang door extra ½ tl citroensap + ½ tl limoensap</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">witte peper</span></li></ul><h3 class="ing-group-title">Voor de witte miso-crème</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">witte miso (shiro miso — bij de toko, Ekoplaza of AH)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">volle crème fraîche</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">dashi</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap</span></li></ul><h3 class="ing-group-title">Voor de gepocheerde eieren</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">zeer verse eieren</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">witte wijnazijn</span></li></ul><h3 class="ing-group-title">Voor de beurre noisette</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">ongezouten roomboter</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">katsuobushi (bonito flakes — voor de dans over het warme ei)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">bieslook, in fijne ringetjes</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">versgemalen zwarte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Dashi trekken (15 min van tevoren)</strong><p>Kombu 30 minuten weken in 600ml koud water. Dan langzaam verwarmen tot 60°C — niet hoger, niet laten koken. Kombu eruit halen. Katsuobushi toevoegen. 2–3 minuten op 60°C laten trekken zonder te roeren. Zeven door een fijne zeef — druk de katsuobushi niet uit, laat gewoon druipen. Bewaar de heldere, goudkleurige dashi.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Witte asperges in de stoomoven</strong><p>Asperges zorgvuldig schillen — van net onder het topje tot de onderkant, rondom en grondig. Witte asperges hebben een dikkere schil dan groene; onvoldoende schillen = draderig en bitter. Onderkant 2–3cm afsnijden. Asperges in een ovenschaal. Klein klontje roomboter, snuf zout en snuf suiker erover. Stoomoven op 95–100°C, 15–20 minuten afhankelijk van dikte. Test met een prikker: zachte weerstand, nooit slap. In de schaal warmhouden tot serveren.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Witte miso-crème</strong><p>Witte miso, crème fraîche, dashi en citroensap mengen tot een gladde, romige crème. Proef — subtiel, umami, licht fris. De miso geeft diepte, niet zoutheid. Koel bewaren.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Dashi-vinaigrette</strong><p>Dashi, rijstazijn, shoyu, honing, olie, citroensap en eventueel yuzu mengen. Goed kloppen tot een lichte emulsie. Proef — umami, fris, licht zilt. Warmhouden.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Beurre noisette</strong><p>Smelt 20g roomboter in een kleine pan op middelhoog vuur al roerend tot de boter goudbruin kleurt en nootachtig ruikt — 2–3 minuten. Direct van het vuur. Een dunne druppel over de warme asperges.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Gepocheerde eieren (vlak voor serveren)</strong><p>Ruim water in een diepe pan met witte wijnazijn aan de kook. Terug naar zacht pruttelen — nooit hard koken. Elk ei apart breken in een kleine kom. Draaikolk in het water maken. Ei voorzichtig erin glijden. 3 minuten voor een vloeibare dooier. Schep op keukenpapier. Herhaal voor alle vier. Warm houden in lauwwarm water.</p></div></div><div class="step"><div class="step-num">9</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Verwarmde borden. Dunne smeer witte miso-crème op elk bord. Asperges voorzichtig droogdeppen. In een elegante waaier op de miso leggen — 4–5 speren pp. Gepocheerd ei erbovenop of ernaast. Druppel beurre noisette over de asperges. Dashi-vinaigrette royaal rondom ingeschonken. Katsuobushi allerlaatst over het warme ei — de flakes dansen. Bieslookringetjes. Zwarte peper. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Stoomoven is de beste methode:</strong> Geen smaakverlies in kookwater, vol van smaak, perfecte garing. Geen stoomoven? Kook ze klassiek: 5 min in water met boter, suiker en zout, dan vuur uit en 8–12 min laten nagaren in het warme vocht.</div><div class="tip-item"><strong>Royaal schillen:</strong> De meest gemaakte fout bij witte asperges. Liever te veel dan te weinig — draderige resten verpesten het bord.</div><div class="tip-item"><strong>Alternatief:</strong> Zachtgekookt ei als alternatief: Pocheren is mooi maar vraagt oefening. Een zachtgekookt ei van 6½ minuut, gehalveerd, is even lekker en betrouwbaarder.</div><div class="tip-item"><strong>Dashi zelf trekken:</strong> Het verschil met hondashi-poeder is groot. 15 minuten werk, levenslang verschil.</div><div class="tip-item"><strong>Katsuobushi allerlaatst:</strong> Ze dansen maar 10–15 seconden — direct serveren na het leggen.</div><div class="tip-item"><strong>Yuzu:</strong> Geeft een toon die citroen niet kan evenaren. Steeds beter verkrijgbaar bij Japanse supermarkten of online.</div><div class="tip-item"><strong>Variatie:</strong> Variatie — foreleitjes of kaviaar: Een kleine dot foreleitjes of oscietra kaviaar naast het ei geeft een extra zilte, luxe dimensie die prachtig aansluit op de dashi-umami.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de witte asperges</div><div class="ing-row"><span>dikke Hollandse witte asperges (4–5 pp)</span><span class="ing-amount" data-basis="1 kg">1 kg</span></div><div class="ing-row"><span>klontje roomboter + snuf zout + snuf suiker (voor de stoomoven)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de dashi</div><div class="ing-row"><span>koud water</span><span class="ing-amount" data-basis="600 ml">600 ml</span></div><div class="ing-row"><span>gedroogde kombu (bij de toko)</span><span class="ing-amount" data-basis="10 g">10 g</span></div><div class="ing-row"><span>katsuobushi (gedroogde bonito flakes — bij de toko)</span><span class="ing-amount" data-basis="10 g">10 g</span></div><div class="ing-row"><span>snelle dashi-alternatief: 1 tl dashi-poeder (hondashi) oplossen in 600ml heet water</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de dashi-vinaigrette</div><div class="ing-row"><span>dashi</span><span class="ing-amount" data-basis="150 ml">150 ml</span></div><div class="ing-row"><span>rijstazijn</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>shoyu (Japanse sojasaus)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>honing</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>rijstkiemolie of milde olijfolie</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>eventueel: yuzu-sap (bij de toko) of vervang door extra ½ tl citroensap + ½ tl limoensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de witte miso-crème</div><div class="ing-row"><span>witte miso (shiro miso — bij de toko, Ekoplaza of AH)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>volle crème fraîche</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>dashi</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-cat">Voor de gepocheerde eieren</div><div class="ing-row"><span>zeer verse eieren</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>witte wijnazijn</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-cat">Voor de beurre noisette</div><div class="ing-row"><span>ongezouten roomboter</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>katsuobushi (bonito flakes — voor de dans over het warme ei)</span><span class="ing-amount" data-basis="15 g">15 g</span></div><div class="ing-row"><span>bieslook, in fijne ringetjes</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>versgemalen zwarte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Dashi trekken (15 min van tevoren)</strong><br>Kombu 30 minuten weken in 600ml koud water. Dan langzaam verwarmen tot 60°C — niet hoger, niet laten koken. Kombu eruit halen. Katsuobushi toevoegen. 2–3 minuten op 60°C laten trekken zonder te roeren. Zeven door een fijne zeef — druk de katsuobushi niet uit, laat gewoon druipen. Bewaar de heldere, goudkleurige dashi.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Witte asperges in de stoomoven</strong><br>Asperges zorgvuldig schillen — van net onder het topje tot de onderkant, rondom en grondig. Witte asperges hebben een dikkere schil dan groene; onvoldoende schillen = draderig en bitter. Onderkant 2–3cm afsnijden. Asperges in een ovenschaal. Klein klontje roomboter, snuf zout en snuf suiker erover. Stoomoven op 95–100°C, 15–20 minuten afhankelijk van dikte. Test met een prikker: zachte weerstand, nooit slap. In de schaal warmhouden tot serveren.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Witte miso-crème</strong><br>Witte miso, crème fraîche, dashi en citroensap mengen tot een gladde, romige crème. Proef — subtiel, umami, licht fris. De miso geeft diepte, niet zoutheid. Koel bewaren.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Dashi-vinaigrette</strong><br>Dashi, rijstazijn, shoyu, honing, olie, citroensap en eventueel yuzu mengen. Goed kloppen tot een lichte emulsie. Proef — umami, fris, licht zilt. Warmhouden.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Beurre noisette</strong><br>Smelt 20g roomboter in een kleine pan op middelhoog vuur al roerend tot de boter goudbruin kleurt en nootachtig ruikt — 2–3 minuten. Direct van het vuur. Een dunne druppel over de warme asperges.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Gepocheerde eieren (vlak voor serveren)</strong><br>Ruim water in een diepe pan met witte wijnazijn aan de kook. Terug naar zacht pruttelen — nooit hard koken. Elk ei apart breken in een kleine kom. Draaikolk in het water maken. Ei voorzichtig erin glijden. 3 minuten voor een vloeibare dooier. Schep op keukenpapier. Herhaal voor alle vier. Warm houden in lauwwarm water.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Opbouwen</strong><br>Verwarmde borden. Dunne smeer witte miso-crème op elk bord. Asperges voorzichtig droogdeppen. In een elegante waaier op de miso leggen — 4–5 speren pp. Gepocheerd ei erbovenop of ernaast. Druppel beurre noisette over de asperges. Dashi-vinaigrette royaal rondom ingeschonken. Katsuobushi allerlaatst over het warme ei — de flakes dansen. Bieslookringetjes. Zwarte peper. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Stoomoven is de beste methode:</strong> Geen smaakverlies in kookwater, vol van smaak, perfecte garing. Geen stoomoven? Kook ze klassiek: 5 min in water met boter, suiker en zout, dan vuur uit en 8–12 min laten nagaren in het warme vocht.</p><p><strong>Royaal schillen:</strong> De meest gemaakte fout bij witte asperges. Liever te veel dan te weinig — draderige resten verpesten het bord.</p><p><strong>Alternatief:</strong> Zachtgekookt ei als alternatief: Pocheren is mooi maar vraagt oefening. Een zachtgekookt ei van 6½ minuut, gehalveerd, is even lekker en betrouwbaarder.</p><p><strong>Dashi zelf trekken:</strong> Het verschil met hondashi-poeder is groot. 15 minuten werk, levenslang verschil.</p><p><strong>Katsuobushi allerlaatst:</strong> Ze dansen maar 10–15 seconden — direct serveren na het leggen.</p><p><strong>Yuzu:</strong> Geeft een toon die citroen niet kan evenaren. Steeds beter verkrijgbaar bij Japanse supermarkten of online.</p><p><strong>Variatie:</strong> Variatie — foreleitjes of kaviaar: Een kleine dot foreleitjes of oscietra kaviaar naast het ei geeft een extra zilte, luxe dimensie die prachtig aansluit op de dashi-umami.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Chablis Premier Cru AOC — Bourgogne, Frankrijk</div>
-        <div class="wine-druif">Chardonnay</div>
-        <p class="wine-toe">Droog, uitgesproken mineraal, citrus, groene appel, krijtige spanning, strak De meest minerale Chardonnay ter wereld — de klassieke match bij witte asperges in de Franse fijne keuken. De krijtige mineraliteit is de meest klassieke match bij witte asperges. De frisse zuren sluiten aan op de rijstazijn en yuzu in de vinaigrette. De terughoudendheid van Chablis laat de delicate asperge en de dashi volledig spreken.</p>
-        <div class="wine-alt">Alternatief: Silvaner — Franken, Duitsland — Silvaner. Droog, zacht, mineraal, groene kruiden, milde zuren, lichte kruidigheid De klassieke Duitse match bij witte asperges — minder expressief dan Grüner, maar daardoor precies elegant genoeg. Silvaner en witte asperges zijn in Duitsland een onverbrekelijk paar. De zachte mineraliteit en milde kruidigheid sluiten aan op de dashi-umami zonder te concurreren. De meest inhoudelijk klassieke keuze bij dit gerecht. | Dassai 45 Junmai Daiginjo — Yamaguchi, Japan (licht gekoeld op 10°C) — n.v.t. — rijstwijn. Droog, zijdezacht, rijstachtig, licht fruitig, zachte umami, fris en clean Een van de meest toegankelijke premium sakes van Japan — elegant, fris en breed verkrijgbaar in Nederland. Dashi, miso en shoyu zijn de smaaktaal van sake. De zachte umami van de Dassai omhult de witte asperge zonder te concurreren. De rijsttonen sluiten naadloos aan op de Japanse ziel van dit gerecht. De meest verrassende en inhoudelijk perfecte keuze.</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Chablis Premier Cru AOC — Bourgogne, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Chardonnay</span>
     </div>
+    <p class="wine-toelichting">Droog, uitgesproken mineraal, citrus, groene appel, krijtige spanning, strak De meest minerale Chardonnay ter wereld — de klassieke match bij witte asperges in de Franse fijne keuken. De krijtige mineraliteit is de meest klassieke match bij witte asperges. De frisse zuren sluiten aan op de rijstazijn en yuzu in de vinaigrette. De terughoudendheid van Chablis laat de delicate asperge en de dashi volledig spreken.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Silvaner — Franken, Duitsland — Silvaner. Droog, zacht, mineraal, groene kruiden, milde zuren, lichte kruidigheid De klassieke Duitse match bij witte asperges — minder expressief dan Grüner, maar daardoor precies elegant genoeg. Silvaner en witte asperges zijn in Duitsland een onverbrekelijk paar. De zachte mineraliteit en milde kruidigheid sluiten aan op de dashi-umami zonder te concurreren. De meest inhoudelijk klassieke keuze bij dit gerecht. | Dassai 45 Junmai Daiginjo — Yamaguchi, Japan (licht gekoeld op 10°C) — n.v.t. — rijstwijn. Droog, zijdezacht, rijstachtig, licht fruitig, zachte umami, fris en clean Een van de meest toegankelijke premium sakes van Japan — elegant, fris en breed verkrijgbaar in Nederland. Dashi, miso en shoyu zijn de smaaktaal van sake. De zachte umami van de Dassai omhult de witte asperge zonder te concurreren. De rijsttonen sluiten naadloos aan op de Japanse ziel van dit gerecht. De meest verrassende en inhoudelijk perfecte keuze.</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

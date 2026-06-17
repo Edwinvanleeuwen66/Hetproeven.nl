@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Hong Kong</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Chinese wontonsoep met varkensgehaktvulling, koolreepjes en ijsbergsla</h1>
-      <p class="recipe-intro">Het meest troostende gerecht van de Chinese keuken — en toch licht. Sappige varkensgehaktwontons in een heldere, aromatische bouillon van gember, knoflook en sesamolie. Flinterdunne reepjes Chinese kool en ijsbergsla die op het allerlaatste moment erin gaan.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 40 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> lichte voorgerechten of 2 lichte maaltijden (–5 wontons pp)</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Chinese wontonsoep met varkensgehaktvulling, koolreepjes en ijsbergsla</div>
+  <div class="recipe-desc">Het meest troostende gerecht van de Chinese keuken — en toch licht. Sappige varkensgehaktwontons in een heldere, aromatische bouillon van gember, knoflook en sesamolie. Flinterdunne reepjes Chinese kool en ijsbergsla die op het allerlaatste moment erin gaan.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 40 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de wontonvulling (ca. 20 stuks)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="250 g">250 g</span><span class="ing-name">varkensgehakt (15–20% vet)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, zo fijn mogelijk gesneden</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, fijn geraspt</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">teentjes knoflook, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">oestersaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Shaoxing rijstwijn of droge sherry</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">geroosterde sesamolie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">maizena</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijne suiker</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">versgemalen witte peper</span></li></ul><h3 class="ing-group-title">Voor de wontons</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20">20</span><span class="ing-name">kant-en-klare wontonvellen (vierkant, 8x8cm — bij de toko)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">klein kommetje koud water</span></li></ul><h3 class="ing-group-title">Voor de bouillon</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 l">1 l</span><span class="ing-name">goede kippenbouillon</span></li><li><span class="ing-amount" data-basis="300 ml">300 ml</span><span class="ing-name">water</span></li><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">plakken verse gember, gekneusd</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">teentjes knoflook, gekneusd</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, in grove stukken (alleen voor de trek — gaan er weer uit)</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">oestersaus</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">geroosterde sesamolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en witte peper</span></li></ul><h3 class="ing-group-title">Voor de groenten (flinterdun gesneden — niet grof)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">Chinese kool (napa kool) of spitskool, in flinterdunne reepjes van 2–3mm (als tagliatelle)</span></li><li><span class="ing-amount" data-basis="100 g">100 g</span><span class="ing-name">ijsbergsla, in flinterdunne reepjes (allerlaatst — 20 seconden)</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">lente-uitjes, in schuine dunne ringen</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">druppel geroosterde sesamolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: druppel chiliolie apart</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">versgemalen witte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">De wontonvulling</strong><p>Alle vullingingrediënten in een kom. Roer krachtig in één richting 2–3 minuten tot het mengsel plakkerig samenhangt als een pasta. Dit geeft de wonton zijn sappigheid en stevigheid.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">De wontons vouwen</strong><p>Leg een wontonvel als ruit voor je (punt omhoog). Leg 1 kleine theelepel vulling in het midden — niet meer, anders scheuren ze. Bevochtig de randen met een vinger in koud water. Vouw de onderste punt omhoog tot een driehoek. Randen stevig dichtdrukken — geen lucht erin. Klassieke vouw: Bevochtig één punt van de driehoek. Breng de twee onderste punten naar elkaar toe, overlappend. Stevig aandrukken. Leg op licht bebloemd werkblad onder vochtige doek.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">De bouillon</strong><p>Bouillon + water in een ruime pan. Gekneusd gember, knoflook en lente-ui toevoegen. 10 minuten zachtjes laten trekken op laag vuur — niet koken. Aromaten eruit vissen of zeven. Sojasaus, oestersaus, sesamolie, suiker, zout en witte peper toevoegen. Proef — warm, diep, licht zout, aromatisch. Warm houden op laagste stand.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Wontons koken (ALTIJD apart — nooit in de bouillon)</strong><p>Ruime pan met water aan de kook. Wontons voorzichtig erin. 4–5 minuten — ze zijn klaar wanneer ze drijven en nog 30 seconden doorstomen. Met een schuimspaan eruit.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Groenten en opbouwen</strong><p>Chinese kool in de warme bouillon — 1–2 minuten op laag vuur. De reepjes moeten zacht worden maar nog een bite houden. Allerlaatst — ijsbergsla erbij: 20–30 seconden maximaal. Ze worden warm maar blijven knapperig en fris. Opbouwen: 4–5 wontons per persoon in warme diepe kommen. Bouillon met groenten eroverheen scheppen. Groenten mooi verdelen: koolreepjes rondom, ijsbergsla losjes bovenop. Lente-uiringen erop. Druppel sesamolie. Witte peper. Chiliolie apart.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Wontons:</strong> Wontons nooit in de bouillon koken: Zetmeel maakt de bouillon troebel en plakkerig. Altijd apart koken, dan overbrengen.</div><div class="tip-item"><strong>De bouillon is alles:</strong> Goede kippenbouillon is de basis. Neem een kwaliteitscarton of zelfgemaakt. Tien minuten trekken met gember en knoflook maakt het verschil.</div><div class="tip-item"><strong>Groenten flinterdun snijden:</strong> Reepjes van 2–3mm snijden de soep elegant en eten verfijnd — grove brokken horen hier niet in.</div><div class="tip-item"><strong>IJsbergsla allerlaatst:</strong> 20–30 seconden. Niet langer — ze wordt slap en verliest haar karakter.</div><div class="tip-item"><strong>Niet:</strong> Niet te veel vulling per wonton: Eén kleine theelepel. Te vol = scheuren.</div><div class="tip-item"><strong>Variatie — taugé:</strong> Voeg een handvol taugé toe tegelijk met de ijsbergsla. Knapperig, typisch Chinees en geeft extra textuur zonder de soep zwaar te maken.</div><div class="tip-item"><strong>Variatie:</strong> Variatie — garnalen in de vulling: 80g fijngehakte rauwe garnalen door het gehakt voor een rijkere, Hong Kong-stijl wonton.</div><div class="tip-item"><strong>Invriezen:</strong> Rauwe gevormde wontons direct invriezen op een bakplaat, daarna in een zak. Vanuit de vriezer koken: 5–6 minuten.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de wontonvulling (ca. 20 stuks)</div><div class="ing-row"><span>varkensgehakt (15–20% vet)</span><span class="ing-amount" data-basis="250 g">250 g</span></div><div class="ing-row"><span>lente-uitjes, zo fijn mogelijk gesneden</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>teentjes knoflook, fijn geraspt</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>Shaoxing rijstwijn of droge sherry</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>maizena</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>versgemalen witte peper</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-cat">Voor de wontons</div><div class="ing-row"><span>kant-en-klare wontonvellen (vierkant, 8x8cm — bij de toko)</span><span class="ing-amount" data-basis="20">20</span></div><div class="ing-row"><span>klein kommetje koud water</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de bouillon</div><div class="ing-row"><span>goede kippenbouillon</span><span class="ing-amount" data-basis="1 l">1 l</span></div><div class="ing-row"><span>water</span><span class="ing-amount" data-basis="300 ml">300 ml</span></div><div class="ing-row"><span>plakken verse gember, gekneusd</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>teentjes knoflook, gekneusd</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>lente-uitjes, in grove stukken (alleen voor de trek — gaan er weer uit)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>zout en witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de groenten (flinterdun gesneden — niet grof)</div><div class="ing-row"><span>Chinese kool (napa kool) of spitskool, in flinterdunne reepjes van 2–3mm (als tagliatelle)</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>ijsbergsla, in flinterdunne reepjes (allerlaatst — 20 seconden)</span><span class="ing-amount" data-basis="100 g">100 g</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>lente-uitjes, in schuine dunne ringen</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>druppel geroosterde sesamolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>eventueel: druppel chiliolie apart</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>versgemalen witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>De wontonvulling</strong><br>Alle vullingingrediënten in een kom. Roer krachtig in één richting 2–3 minuten tot het mengsel plakkerig samenhangt als een pasta. Dit geeft de wonton zijn sappigheid en stevigheid.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>De wontons vouwen</strong><br>Leg een wontonvel als ruit voor je (punt omhoog). Leg 1 kleine theelepel vulling in het midden — niet meer, anders scheuren ze. Bevochtig de randen met een vinger in koud water. Vouw de onderste punt omhoog tot een driehoek. Randen stevig dichtdrukken — geen lucht erin. Klassieke vouw: Bevochtig één punt van de driehoek. Breng de twee onderste punten naar elkaar toe, overlappend. Stevig aandrukken. Leg op licht bebloemd werkblad onder vochtige doek.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>De bouillon</strong><br>Bouillon + water in een ruime pan. Gekneusd gember, knoflook en lente-ui toevoegen. 10 minuten zachtjes laten trekken op laag vuur — niet koken. Aromaten eruit vissen of zeven. Sojasaus, oestersaus, sesamolie, suiker, zout en witte peper toevoegen. Proef — warm, diep, licht zout, aromatisch. Warm houden op laagste stand.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Wontons koken (ALTIJD apart — nooit in de bouillon)</strong><br>Ruime pan met water aan de kook. Wontons voorzichtig erin. 4–5 minuten — ze zijn klaar wanneer ze drijven en nog 30 seconden doorstomen. Met een schuimspaan eruit.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Groenten en opbouwen</strong><br>Chinese kool in de warme bouillon — 1–2 minuten op laag vuur. De reepjes moeten zacht worden maar nog een bite houden. Allerlaatst — ijsbergsla erbij: 20–30 seconden maximaal. Ze worden warm maar blijven knapperig en fris. Opbouwen: 4–5 wontons per persoon in warme diepe kommen. Bouillon met groenten eroverheen scheppen. Groenten mooi verdelen: koolreepjes rondom, ijsbergsla losjes bovenop. Lente-uiringen erop. Druppel sesamolie. Witte peper. Chiliolie apart.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Wontons:</strong> Wontons nooit in de bouillon koken: Zetmeel maakt de bouillon troebel en plakkerig. Altijd apart koken, dan overbrengen.</p><p><strong>De bouillon is alles:</strong> Goede kippenbouillon is de basis. Neem een kwaliteitscarton of zelfgemaakt. Tien minuten trekken met gember en knoflook maakt het verschil.</p><p><strong>Groenten flinterdun snijden:</strong> Reepjes van 2–3mm snijden de soep elegant en eten verfijnd — grove brokken horen hier niet in.</p><p><strong>IJsbergsla allerlaatst:</strong> 20–30 seconden. Niet langer — ze wordt slap en verliest haar karakter.</p><p><strong>Niet:</strong> Niet te veel vulling per wonton: Eén kleine theelepel. Te vol = scheuren.</p><p><strong>Variatie — taugé:</strong> Voeg een handvol taugé toe tegelijk met de ijsbergsla. Knapperig, typisch Chinees en geeft extra textuur zonder de soep zwaar te maken.</p><p><strong>Variatie:</strong> Variatie — garnalen in de vulling: 80g fijngehakte rauwe garnalen door het gehakt voor een rijkere, Hong Kong-stijl wonton.</p><p><strong>Invriezen:</strong> Rauwe gevormde wontons direct invriezen op een bakplaat, daarna in een zak. Vanuit de vriezer koken: 5–6 minuten.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Soave Classico DOC — Veneto, Italië</div>
-        <div class="wine-druif">Garganega</div>
-        <p class="wine-toe">Droog, licht, mineraal, amandel, witte bloesem, subtiele citrus Een elegante, lichte Italiaanse witte wijn — clean en verfijnd zonder ooit te overheersen. De lichte mineraliteit spiegelt de heldere, pure bouillon. De subtiele amandeltoon sluit aan op de sesamolie. Licht genoeg om de delicate wontonvulling volledig te laten spreken.</p>
-        <div class="wine-alt">Alternatief: Mâcon-Villages (ronder, toegankelijker) of Grüner Veltliner Federspiel (licht kruidig — mooi bij gember en lente-ui). — .</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Soave Classico DOC — Veneto, Italië</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Garganega</span>
     </div>
+    <p class="wine-toelichting">Droog, licht, mineraal, amandel, witte bloesem, subtiele citrus Een elegante, lichte Italiaanse witte wijn — clean en verfijnd zonder ooit te overheersen. De lichte mineraliteit spiegelt de heldere, pure bouillon. De subtiele amandeltoon sluit aan op de sesamolie. Licht genoeg om de delicate wontonvulling volledig te laten spreken.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Mâcon-Villages (ronder, toegankelijker) of Grüner Veltliner Federspiel (licht kruidig — mooi bij gember en lente-ui). — .</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 lichte voorgerechten of 2 lichte maaltijden (4–5 wontons pp)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

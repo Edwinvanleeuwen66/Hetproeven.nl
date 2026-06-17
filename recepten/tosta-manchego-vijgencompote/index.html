@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Spanje</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Tosta met manchego, vijgencompote en walnoot</h1>
-      <p class="recipe-intro">Geroosterd brood met gesmolten manchego, zelfgemaakte vijgencompote en knapperige walnoten.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 20 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Tosta met manchego, vijgencompote en walnoot</div>
+  <div class="recipe-desc">Geroosterd brood met gesmolten manchego, zelfgemaakte vijgencompote en knapperige walnoten.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 20 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Vijgencompote</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">gedroogde of verse vijgen, in stukjes</span></li><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">honing</span></li><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">rode wijnazijn</span></li><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">water</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">takje rozemarijn</span></li></ul><h3 class="ing-group-title">Tosta</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8">8</span><span class="ing-name">sneetjes stokbrood</span></li><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">manchego, dun gesneden</span></li><li><span class="ing-amount" data-basis="60 g">60 g</span><span class="ing-name">walnoten, grof gehakt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">zwarte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Vijgencompote</strong><p>doe vijgen in een pan met honing, azijn, water en rozemarijn. Kook 10 minuten tot ingedikte compote. Verwijder rozemarijn.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Walnoten</strong><p>rooster droog in een pan 2-3 minuten tot geurig.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Brood en manchego</strong><p>rooster brood in een grillpan. Leg manchego erop en zet kort onder de grill tot de kaas net begint te smelten.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Beleg en serveer</strong><p>lepel warme vijgencompote op de gesmolten manchego. Strooi walnoten erop en maal peper erover. Serveer direct.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">vijgencompote is een week houdbaar in de koelkast. Maak een grote batch en gebruik de rest bij kaasplanken of als begeleider bij vleeswaren.</div><div class="tip-item"><strong>Techniek:</strong> rooster het brood tot het krokant maar niet droog is — een licht goudbruine tosta draagt de manchego en compote beter dan een te hard of te zacht exemplaar.</div><div class="tip-item"><strong>Presentatie:</strong> leg een dunne plak manchego schuin op de tosta zodat de compote deels zichtbaar blijft — dat geeft meer diepte aan de presentatie.</div><div class="tip-item"><strong>Variatie:</strong> gebruik verse vijgen in het seizoen in plaats van compote — snijd ze dun en besprenkel met honing. Sneller, frisser en even lekker.</div><div class="tip-item"><strong>Alternatief:</strong> geen manchego? Gebruik Idiazábal (gerookte schapenkaas uit het Baskenland) of Roncal — beide geven een andere maar even interessante combinatie met vijg.</div><div class="tip-item"><strong>Snijden:</strong> Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</div><div class="tip-item"><strong>Balans:</strong> proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Vijgencompote</div><div class="ing-row"><span>gedroogde of verse vijgen, in stukjes</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>honing</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>rode wijnazijn</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>water</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>takje rozemarijn</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Tosta</div><div class="ing-row"><span>sneetjes stokbrood</span><span class="ing-amount" data-basis="8">8</span></div><div class="ing-row"><span>manchego, dun gesneden</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>walnoten, grof gehakt</span><span class="ing-amount" data-basis="60 g">60 g</span></div><div class="ing-row"><span>zwarte peper</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Vijgencompote</strong><br>doe vijgen in een pan met honing, azijn, water en rozemarijn. Kook 10 minuten tot ingedikte compote. Verwijder rozemarijn.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Walnoten</strong><br>rooster droog in een pan 2-3 minuten tot geurig.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Brood en manchego</strong><br>rooster brood in een grillpan. Leg manchego erop en zet kort onder de grill tot de kaas net begint te smelten.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Beleg en serveer</strong><br>lepel warme vijgencompote op de gesmolten manchego. Strooi walnoten erop en maal peper erover. Serveer direct.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>vijgencompote is een week houdbaar in de koelkast. Maak een grote batch en gebruik de rest bij kaasplanken of als begeleider bij vleeswaren.</p><p><strong>Techniek:</strong> rooster het brood tot het krokant maar niet droog is — een licht goudbruine tosta draagt de manchego en compote beter dan een te hard of te zacht exemplaar.</p><p><strong>Presentatie:</strong> leg een dunne plak manchego schuin op de tosta zodat de compote deels zichtbaar blijft — dat geeft meer diepte aan de presentatie.</p><p><strong>Variatie:</strong> gebruik verse vijgen in het seizoen in plaats van compote — snijd ze dun en besprenkel met honing. Sneller, frisser en even lekker.</p><p><strong>Alternatief:</strong> geen manchego? Gebruik Idiazábal (gerookte schapenkaas uit het Baskenland) of Roncal — beide geven een andere maar even interessante combinatie met vijg.</p><p><strong>Snijden:</strong> Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.</p><p><strong>Balans:</strong> proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Amontillado Sherry</div>
-        <div class="wine-druif">Palomino Fino</div>
-        <p class="wine-toe">Amontillado is droog, nootachtig en krachtig genoeg voor rijpe manchego, walnoot en warme vijgencompote zonder het hapje log of dessertachtig te maken. De walnoot- en karameltonen sluiten aan op de kaas en de vijg, terwijl de droge afdronk de zoetheid strak houdt. Serveer licht gekoeld op 12°C.</p>
-        <div class="wine-alt">Alternatief: Pedro Ximénez — alleen kiezen als je de vijgencompote echt als zoet accent centraal wilt zetten; schenk dan een heel klein glaasje.</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Amontillado Sherry</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Palomino Fino</span>
     </div>
+    <p class="wine-toelichting">Amontillado is droog, nootachtig en krachtig genoeg voor rijpe manchego, walnoot en warme vijgencompote zonder het hapje log of dessertachtig te maken. De walnoot- en karameltonen sluiten aan op de kaas en de vijg, terwijl de droge afdronk de zoetheid strak houdt. Serveer licht gekoeld op 12°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Pedro Ximénez — alleen kiezen als je de vijgencompote echt als zoet accent centraal wilt zetten; schenk dan een heel klein glaasje.</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

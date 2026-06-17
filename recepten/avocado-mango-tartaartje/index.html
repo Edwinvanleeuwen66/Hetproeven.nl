@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Spanje</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Avocado-mango tartaartje met rode ui, chili en limoen</h1>
-      <p class="recipe-intro">Fris tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 20 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Avocado-mango tartaartje met rode ui, chili en limoen</div>
+  <div class="recipe-desc">Fris tartaartje van avocado en mango met rode ui, koriander en een pittige limoendressing.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 20 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Tartaar</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">rijpe avocado&#x27;s, in kleine blokjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">rijpe mango, in kleine blokjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">rode ui, zeer fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">rode chili, fijn gehakt</span></li><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">verse koriander of peterselie, fijngehakt</span></li></ul><h3 class="ing-group-title">Limoendressing</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">limoenen, sap en rasp</span></li><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">olijfolie extra vierge</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en peper</span></li></ul><h3 class="ing-group-title">Brood</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8">8</span><span class="ing-name">sneetjes stokbrood of toast</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rode ui weken</strong><p>leg fijn gesnipperde rode ui 10 minuten in koud water. Goed afgieten.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Limoendressing</strong><p>meng limoensap en -rasp met olijfolie, zout en peper.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Tartaar mengen</strong><p>voeg avocado, mango, uitgelekte ui, chili en koriander toe aan de dressing. Schep voorzichtig om.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveer</strong><p>rooster het brood kort. Schep het tartaartje erop en serveer direct.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">gebruik een rijpe maar stevige avocado. Voeg het limoensap pas op het laatste moment toe — het vertraagt bruining maar stopt hem niet.</div><div class="tip-item"><strong>Techniek:</strong> snijd avocado en mango in identieke blokjes van 1 cm — gelijke maat geeft een strakker tartaartje en zorgt dat elke hap alle smaken bevat.</div><div class="tip-item"><strong>Presentatie:</strong> gebruik een kleine ronde steker of een leeg blikje als mal — zo krijg je een strak cilindervormig tartaartje dat direct restaurant-waardig oogt.</div><div class="tip-item"><strong>Variatie:</strong> voeg een dot wasabi-mayonaise toe als finishing voor een Japanse twist, of bestrooi met geroosterd sesamzaad voor extra textuur.</div><div class="tip-item"><strong>Alternatief:</strong> geen mango? Gebruik rijpe papaja of nectarine — dezelfde tropische zoetheid die de rijkdom van de avocado in balans brengt.</div><div class="tip-item"><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</div><div class="tip-item"><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Tartaar</div><div class="ing-row"><span>rijpe avocado&#x27;s, in kleine blokjes</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>rijpe mango, in kleine blokjes</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>rode ui, zeer fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>rode chili, fijn gehakt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>verse koriander of peterselie, fijngehakt</span><span class="ing-amount" data-basis="15 g">15 g</span></div><div class="ing-cat">Limoendressing</div><div class="ing-row"><span>limoenen, sap en rasp</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>olijfolie extra vierge</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>zout en peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Brood</div><div class="ing-row"><span>sneetjes stokbrood of toast</span><span class="ing-amount" data-basis="8">8</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Rode ui weken</strong><br>leg fijn gesnipperde rode ui 10 minuten in koud water. Goed afgieten.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Limoendressing</strong><br>meng limoensap en -rasp met olijfolie, zout en peper.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Tartaar mengen</strong><br>voeg avocado, mango, uitgelekte ui, chili en koriander toe aan de dressing. Schep voorzichtig om.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveer</strong><br>rooster het brood kort. Schep het tartaartje erop en serveer direct.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>gebruik een rijpe maar stevige avocado. Voeg het limoensap pas op het laatste moment toe — het vertraagt bruining maar stopt hem niet.</p><p><strong>Techniek:</strong> snijd avocado en mango in identieke blokjes van 1 cm — gelijke maat geeft een strakker tartaartje en zorgt dat elke hap alle smaken bevat.</p><p><strong>Presentatie:</strong> gebruik een kleine ronde steker of een leeg blikje als mal — zo krijg je een strak cilindervormig tartaartje dat direct restaurant-waardig oogt.</p><p><strong>Variatie:</strong> voeg een dot wasabi-mayonaise toe als finishing voor een Japanse twist, of bestrooi met geroosterd sesamzaad voor extra textuur.</p><p><strong>Alternatief:</strong> geen mango? Gebruik rijpe papaja of nectarine — dezelfde tropische zoetheid die de rijkdom van de avocado in balans brengt.</p><p><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Sauvignon Blanc</div>
-        <div class="wine-druif">Sauvignon Blanc</div>
-        <p class="wine-toe">De frisse, groenachtige tonen van citrusgras, kruisbes en limoen in Sauvignon Blanc weerspiegelen de limoendressing van het tartaartje en versterken de tropische mango. De hoge zuurgraad snijdt door de romige vettigheid van de avocado — zonder dat frisheid zou het gerecht zwaar aanvoelen. Een Rueda Sauvignon Blanc of een Loire-versie (Sancerre, Pouilly-Fumé) werkt uitstekend. Vermijd houtgerijpte Sauvignon — de vanilletonen overstemmen de frisse avocadosmaak. Serveer ijskoud op 8°C.</p>
-        <div class="wine-alt">Alternatief: Albariño — vergelijkbare citrusfrisheid met extra mineraliteit die de mango mooi aanvult</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Sauvignon Blanc</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Sauvignon Blanc</span>
     </div>
+    <p class="wine-toelichting">De frisse, groenachtige tonen van citrusgras, kruisbes en limoen in Sauvignon Blanc weerspiegelen de limoendressing van het tartaartje en versterken de tropische mango. De hoge zuurgraad snijdt door de romige vettigheid van de avocado — zonder dat frisheid zou het gerecht zwaar aanvoelen. Een Rueda Sauvignon Blanc of een Loire-versie (Sancerre, Pouilly-Fumé) werkt uitstekend. Vermijd houtgerijpte Sauvignon — de vanilletonen overstemmen de frisse avocadosmaak. Serveer ijskoud op 8°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Albariño — vergelijkbare citrusfrisheid met extra mineraliteit die de mango mooi aanvult</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

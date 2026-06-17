@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Beijing</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Shī Zì Tóu — Beijing leeuwenkoppen met Chinese kool en rode braadsaus</h1>
-      <p class="recipe-intro">De meest feestelijke gehaktbal van de Chinese keuken. Een enorme, zijdezachte varkensgehaktbal — groter dan een tennisbal, zo mals dat hij smelt op de tong. Gemaakt in de keukenmachine met gember-bosui water erdoor geklopt voor elasticiteit.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min actief + 45–60 min braiseren</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten of 2 hoofdgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Shī Zì Tóu — Beijing leeuwenkoppen met Chinese kool en rode braadsaus</div>
+  <div class="recipe-desc">De meest feestelijke gehaktbal van de Chinese keuken. Een enorme, zijdezachte varkensgehaktbal — groter dan een tennisbal, zo mals dat hij smelt op de tong. Gemaakt in de keukenmachine met gember-bosui water erdoor geklopt voor elasticiteit.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min actief + 45–60 min braiseren</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de leeuwenkoppen (keukenmachine-methode)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="350 g">350 g</span><span class="ing-name">varkensschouder of procureur (mager gedeelte)</span></li><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">varkensspek of buikspek (vetgedeelte — 60/40 verhouding)</span></li><li><span class="ing-amount" data-basis="80 g">80 g</span><span class="ing-name">waterkastanje uit blik, goed uitgelekt</span></li><li><span class="ing-amount" data-basis="3 cm">3 cm</span><span class="ing-name">verse gember + 3 lente-uitjes (voor het aromatische weekwater)</span></li><li><span class="ing-amount" data-basis="80 ml">80 ml</span><span class="ing-name">warm water (voor het gember-bosui water)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ei</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">donkere sojasaus (voor kleur)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">oestersaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">Shaoxing rijstwijn</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">geroosterde sesamolie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijne suiker</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">maizena</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">versgemalen witte peper</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">neutrale olie (voor het aanbraden)</span></li></ul><h3 class="ing-group-title">Voor de braadsaus en bouillon</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="750 ml">750 ml</span><span class="ing-name">kippenbouillon</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">donkere sojasaus</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">Shaoxing rijstwijn</span></li><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">roksuiker of bruine basterdsuiker</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">steranijs</span></li><li><span class="ing-amount" data-basis="3 cm">3 cm</span><span class="ing-name">verse gember, in plakken</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, in grove stukken</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">geroosterde sesamolie (allerlaatst)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">maizena + 2 el water (alleen indien saus te dun)</span></li></ul><h3 class="ing-group-title">Voor de Chinese kool</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="600 g">600 g</span><span class="ing-name">napa kool (Chinese kool), in grote stukken van 5–6cm</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf zout</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, in fijne ringen</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fijne gemberjulienne (vers — elegante Michelin-finishing)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: druppel sesamolie of lente-ui-olie</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Gember-bosui water (aromatisch geheim)</strong><p>Gember en lente-ui grof snijden. In een kom met 80ml warm water. 20 minuten laten weken. Zeven — het aromatische water bewaren, de vaste stukken weggooien. Dit geeft de bal zijn diepe aroma zonder stukjes.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Gehakt maken in de keukenmachine</strong><p>Snijd het varkensspek in blokjes van 1cm. In de keukenmachine: 3–4 keer pulseren tot stukjes van 3–4mm — niet gladblenden. Voeg de varkensschouder toe. 5–6 keer pulseren tot een grof mengsel met textuur. Niet langer — een gladde pasta geeft een rubberachtig gevoel. Waterkastanje met een mes fijn hakken (niet in de machine — anders verlies je de crunch).</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Samenstelling en slagmethode</strong><p>Vlees in een grote kom. Ei, lichte sojasaus, donkere sojasaus, oestersaus, Shaoxing wijn, sesamolie, suiker, maizena, zout en witte peper toevoegen. Gember-bosui water in 4–5 porties toevoegen al krachtig roerend in één richting — tot elke portie volledig opgenomen is. Het vlees wordt progressief plakkeriger. Waterkastanje voorzichtig erdoor spatelen. Verdeel in 4 gelijke porties van ca. 130–150g. Maak met natte handen grote ronde ballen. Gooi elke bal 20–30 keer zachtjes van de ene hand naar de andere (handen 5cm uit elkaar) — dit geeft de elasticiteit die de bal bij elkaar houdt.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Chinese kool voorbereiden</strong><p>Grote stukken napa kool 2 minuten blancheren in gezouten kokend water. Afgieten. Als een compact nest in een brede braadpan of Dutch oven schikken.</p></div></div><div class="step"><div class="step-num">9</div><div class="step-body"><strong class="step-action">Ballen aanbraden</strong><p>Neutrale olie in een brede pan op middelhoog vuur. Ballen voorzichtig aanbraden aan alle kanten — gebruik twee spatels, de ballen zijn zacht. Doel: lichte goudbruine korst voor smaak en stevigheid. Niet volledig garen.</p></div></div><div class="step"><div class="step-num">10</div><div class="step-body"><strong class="step-action">Braiseren</strong><p>Ballen voorzichtig op de kool leggen. Bouillon, lichte sojasaus, donkere sojasaus, Shaoxing wijn, roksuiker, steranijs, gember en lente-ui mengen. Over de ballen gieten tot ze driekwart onderstaan. Aan de kook brengen, dan vuur laag. Deksel op de pan. 45–60 minuten zacht braiseren op laagste stand. Halverwege voorzichtig omdraaien. Ballen voorzichtig eruit tillen. Kool apart houden. Braadvocht 3–4 minuten inkoken op hoog vuur. Sesamolie erdoor. Eventueel maizena-slurry voor een licht gebonden saus.</p></div></div><div class="step"><div class="step-num">13</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Chinese kool als compact nest op warme borden of in een diepe kom schikken. Leeuwenkop centraal bovenop — groots en indrukwekkend. Glanzende saus royaal erover scheppen. Lente-uiringen. Fijne gemberjulienne als elegante finishing.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>60/40:</strong> 60/40 verhouding is niet onderhandelbaar: Te mager geeft droge, compacte ballen. Het vet is de textuur, de sappigheid en het karakter.</div><div class="tip-item"><strong>Apparatuur:</strong> Keukenmachine pulseren — niet blenden: Grof en met zichtbare textuur. Een gladde pasta geeft een rubberen gevoel.</div><div class="tip-item"><strong>Gember-bosui water:</strong> De slimste techniek — alle aroma van de aromaten zonder ongewenste stukjes in de bal.</div><div class="tip-item"><strong>Slagmethode van hand tot hand:</strong> De elasticiteit die de bal bij elkaar houdt tijdens het lange braiseren. Niet overslaan.</div><div class="tip-item"><strong>Snijden:</strong> Waterkastanje altijd met mes hakken: De keukenmachine maakt ze te fijn en te nat. Kleine knapperige stukjes geven de bal zijn karakter.</div><div class="tip-item"><strong>Variatie:</strong> Variatie — gestoomde versie (qing dun): De puurste Michelin-waardige versie. Ballen niet aanbraden maar direct op kool in een stoommandje. 45 minuten stomen. Serveren in heldere gemberbouillon. Wit, delicaat en verbluffend elegant.</div><div class="tip-item"><strong>Variatie — garnalen:</strong> Vervang 100g varkensschouder door fijngehakte rauwe garnalen voor een lichtere, meer umami-rijke bal.</div><div class="tip-item"><strong>Alternatief waterkastanje:</strong> Fijn gesneden en aangebakken shiitake geeft een aardse umami-variant.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de leeuwenkoppen (keukenmachine-methode)</div><div class="ing-row"><span>varkensschouder of procureur (mager gedeelte)</span><span class="ing-amount" data-basis="350 g">350 g</span></div><div class="ing-row"><span>varkensspek of buikspek (vetgedeelte — 60/40 verhouding)</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>waterkastanje uit blik, goed uitgelekt</span><span class="ing-amount" data-basis="80 g">80 g</span></div><div class="ing-row"><span>verse gember + 3 lente-uitjes (voor het aromatische weekwater)</span><span class="ing-amount" data-basis="3 cm">3 cm</span></div><div class="ing-row"><span>warm water (voor het gember-bosui water)</span><span class="ing-amount" data-basis="80 ml">80 ml</span></div><div class="ing-row"><span>ei</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>donkere sojasaus (voor kleur)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Shaoxing rijstwijn</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne suiker</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>maizena</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>versgemalen witte peper</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>neutrale olie (voor het aanbraden)</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-cat">Voor de braadsaus en bouillon</div><div class="ing-row"><span>kippenbouillon</span><span class="ing-amount" data-basis="750 ml">750 ml</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>donkere sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Shaoxing rijstwijn</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>roksuiker of bruine basterdsuiker</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>steranijs</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>verse gember, in plakken</span><span class="ing-amount" data-basis="3 cm">3 cm</span></div><div class="ing-row"><span>lente-uitjes, in grove stukken</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>geroosterde sesamolie (allerlaatst)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>maizena + 2 el water (alleen indien saus te dun)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Voor de Chinese kool</div><div class="ing-row"><span>napa kool (Chinese kool), in grote stukken van 5–6cm</span><span class="ing-amount" data-basis="600 g">600 g</span></div><div class="ing-row"><span>snuf zout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>lente-uitjes, in fijne ringen</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>fijne gemberjulienne (vers — elegante Michelin-finishing)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>eventueel: druppel sesamolie of lente-ui-olie</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Gember-bosui water (aromatisch geheim)</strong><br>Gember en lente-ui grof snijden. In een kom met 80ml warm water. 20 minuten laten weken. Zeven — het aromatische water bewaren, de vaste stukken weggooien. Dit geeft de bal zijn diepe aroma zonder stukjes.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Gehakt maken in de keukenmachine</strong><br>Snijd het varkensspek in blokjes van 1cm. In de keukenmachine: 3–4 keer pulseren tot stukjes van 3–4mm — niet gladblenden. Voeg de varkensschouder toe. 5–6 keer pulseren tot een grof mengsel met textuur. Niet langer — een gladde pasta geeft een rubberachtig gevoel. Waterkastanje met een mes fijn hakken (niet in de machine — anders verlies je de crunch).</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Samenstelling en slagmethode</strong><br>Vlees in een grote kom. Ei, lichte sojasaus, donkere sojasaus, oestersaus, Shaoxing wijn, sesamolie, suiker, maizena, zout en witte peper toevoegen. Gember-bosui water in 4–5 porties toevoegen al krachtig roerend in één richting — tot elke portie volledig opgenomen is. Het vlees wordt progressief plakkeriger. Waterkastanje voorzichtig erdoor spatelen. Verdeel in 4 gelijke porties van ca. 130–150g. Maak met natte handen grote ronde ballen. Gooi elke bal 20–30 keer zachtjes van de ene hand naar de andere (handen 5cm uit elkaar) — dit geeft de elasticiteit die de bal bij elkaar houdt.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Chinese kool voorbereiden</strong><br>Grote stukken napa kool 2 minuten blancheren in gezouten kokend water. Afgieten. Als een compact nest in een brede braadpan of Dutch oven schikken.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Ballen aanbraden</strong><br>Neutrale olie in een brede pan op middelhoog vuur. Ballen voorzichtig aanbraden aan alle kanten — gebruik twee spatels, de ballen zijn zacht. Doel: lichte goudbruine korst voor smaak en stevigheid. Niet volledig garen.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Braiseren</strong><br>Ballen voorzichtig op de kool leggen. Bouillon, lichte sojasaus, donkere sojasaus, Shaoxing wijn, roksuiker, steranijs, gember en lente-ui mengen. Over de ballen gieten tot ze driekwart onderstaan. Aan de kook brengen, dan vuur laag. Deksel op de pan. 45–60 minuten zacht braiseren op laagste stand. Halverwege voorzichtig omdraaien. Ballen voorzichtig eruit tillen. Kool apart houden. Braadvocht 3–4 minuten inkoken op hoog vuur. Sesamolie erdoor. Eventueel maizena-slurry voor een licht gebonden saus.</div></div><div class="step"><div class="step-num">13</div><div class="step-text"><strong>Opbouwen</strong><br>Chinese kool als compact nest op warme borden of in een diepe kom schikken. Leeuwenkop centraal bovenop — groots en indrukwekkend. Glanzende saus royaal erover scheppen. Lente-uiringen. Fijne gemberjulienne als elegante finishing.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>60/40:</strong> 60/40 verhouding is niet onderhandelbaar: Te mager geeft droge, compacte ballen. Het vet is de textuur, de sappigheid en het karakter.</p><p><strong>Apparatuur:</strong> Keukenmachine pulseren — niet blenden: Grof en met zichtbare textuur. Een gladde pasta geeft een rubberen gevoel.</p><p><strong>Gember-bosui water:</strong> De slimste techniek — alle aroma van de aromaten zonder ongewenste stukjes in de bal.</p><p><strong>Slagmethode van hand tot hand:</strong> De elasticiteit die de bal bij elkaar houdt tijdens het lange braiseren. Niet overslaan.</p><p><strong>Snijden:</strong> Waterkastanje altijd met mes hakken: De keukenmachine maakt ze te fijn en te nat. Kleine knapperige stukjes geven de bal zijn karakter.</p><p><strong>Variatie:</strong> Variatie — gestoomde versie (qing dun): De puurste Michelin-waardige versie. Ballen niet aanbraden maar direct op kool in een stoommandje. 45 minuten stomen. Serveren in heldere gemberbouillon. Wit, delicaat en verbluffend elegant.</p><p><strong>Variatie — garnalen:</strong> Vervang 100g varkensschouder door fijngehakte rauwe garnalen voor een lichtere, meer umami-rijke bal.</p><p><strong>Alternatief waterkastanje:</strong> Fijn gesneden en aangebakken shiitake geeft een aardse umami-variant.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Pinot Noir AOC — Bourgogne, Frankrijk</div>
-        <div class="wine-druif">Pinot Noir</div>
-        <p class="wine-toe">Droog, sappig, rood fruit, subtiele aardse tonen, fijne zuren, zachte tannines, elegante structuur Een verfijnde Bourgogne Pinot Noir — niet te zwaar, niet te licht, precies de middenweg die dit verfijnde Huaiyang-gerecht vraagt. De fijne zuren houden het gerecht levendig naast de rijke braadsaus. Het rode fruit verzacht de umami van de soja. De subtiele aardse tonen sluiten prachtig aan bij de gestoofde kool en de gember. Elegant genoeg voor de zijdezachte textuur van de leeuwenkoppen.</p>
-        <div class="wine-alt">Alternatief: Barbera d&#x27;Asti DOCG — Piëmont, Italië — Barbera. Droog, levendige frisse zuren, rijp donker rood fruit, kers, pruim, medium body, zachte tannines Een sappige, directe Piëmontese rode wijn — nooit te zwaar, altijd met genoeg fruitigheid. De levendige zuren snijden door de rijkdom van het varkensvlees en de zoete braadsaus. De pruim- en kersfruitigheid sluit aan op de donkere sojasaus en roksuiker. Iets toegankelijker dan de Bourgogne maar even passend. | Morgon AOC — Beaujolais, Frankrijk — Gamay. Licht tot medium rood, kersenrood, aardse tonen, lichte kruidigheid, frisse zuren, verrassende diepte De meest serieuze Beaujolais Cru — meer structuur en aardse diepte dan gewone Beaujolais. De lichte aardse tonen spiegelen de steranijs en gember in de braadsaus. Fris genoeg voor de zoete sojasaus, diep genoeg voor het vette varkensvlees. Licht gekoeld op 14°C serveren.</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Pinot Noir AOC — Bourgogne, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Pinot Noir</span>
     </div>
+    <p class="wine-toelichting">Droog, sappig, rood fruit, subtiele aardse tonen, fijne zuren, zachte tannines, elegante structuur Een verfijnde Bourgogne Pinot Noir — niet te zwaar, niet te licht, precies de middenweg die dit verfijnde Huaiyang-gerecht vraagt. De fijne zuren houden het gerecht levendig naast de rijke braadsaus. Het rode fruit verzacht de umami van de soja. De subtiele aardse tonen sluiten prachtig aan bij de gestoofde kool en de gember. Elegant genoeg voor de zijdezachte textuur van de leeuwenkoppen.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Barbera d&#x27;Asti DOCG — Piëmont, Italië — Barbera. Droog, levendige frisse zuren, rijp donker rood fruit, kers, pruim, medium body, zachte tannines Een sappige, directe Piëmontese rode wijn — nooit te zwaar, altijd met genoeg fruitigheid. De levendige zuren snijden door de rijkdom van het varkensvlees en de zoete braadsaus. De pruim- en kersfruitigheid sluit aan op de donkere sojasaus en roksuiker. Iets toegankelijker dan de Bourgogne maar even passend. | Morgon AOC — Beaujolais, Frankrijk — Gamay. Licht tot medium rood, kersenrood, aardse tonen, lichte kruidigheid, frisse zuren, verrassende diepte De meest serieuze Beaujolais Cru — meer structuur en aardse diepte dan gewone Beaujolais. De lichte aardse tonen spiegelen de steranijs en gember in de braadsaus. Fris genoeg voor de zoete sojasaus, diep genoeg voor het vette varkensvlees. Licht gekoeld op 14°C serveren.</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten of 2 hoofdgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

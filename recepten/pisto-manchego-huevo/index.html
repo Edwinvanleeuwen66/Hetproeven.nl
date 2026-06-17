@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Madrid</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Pisto manchego con huevo — Spaanse ratatouille met gebroken ei</h1>
-      <p class="recipe-intro">Langzaam gestoofde Spaanse ratatouille met courgette, paprika en tomaat, afgewerkt met een gebroken ei.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Pisto manchego con huevo — Spaanse ratatouille met gebroken ei</div>
+  <div class="recipe-desc">Langzaam gestoofde Spaanse ratatouille met courgette, paprika en tomaat, afgewerkt met een gebroken ei.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Pisto</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">courgette, in kleine blokjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">rode paprika, in kleine blokjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">groene paprika, in kleine blokjes</span></li><li><span class="ing-amount" data-basis="400 g">400 g</span><span class="ing-name">gepelde tomaten uit blik</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ui, fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">knoflookteentjes, fijn gehakt</span></li><li><span class="ing-amount" data-basis="45 ml">45 ml</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">pimentón dulce</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en peper</span></li></ul><h3 class="ing-group-title">Eieren</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">eieren</span></li><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">olijfolie om eieren in te bakken</span></li><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">platte peterselie, fijngehakt</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Ui en paprika bakken</strong><p>bak ui glazig in olijfolie. Voeg knoflook en paprika toe en bak 8 minuten tot zacht.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Courgette en tomaat sudderen</strong><p>voeg courgette toe en bak 5 minuten. Voeg tomaten en pimentón toe. Laat 25 minuten sudderen tot een rijke dikke saus.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Eieren bakken</strong><p>bak de eieren met vloeibare dooier in olijfolie.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveer</strong><p>schep de warme pisto in kleine schaaltjes. Leg een gebakken ei erop. Breek de dooier aan tafel. Bestrooi met peterselie en serveer direct.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">de pisto heeft tijd nodig — minstens 25 minuten sudderen. Maak de pisto van tevoren en warm op. Hij wordt de volgende dag nog lekkerder.</div><div class="tip-item"><strong>Techniek:</strong> snijd alle groenten in gelijke blokjes van 1 cm — ongelijke stukken garen niet gelijkmatig. Laat elke groente apart even aanfruiten voor je de volgende toevoegt.</div><div class="tip-item"><strong>Presentatie:</strong> maak een kuiltje in de pisto voor het ei — zo blijft het ei mooi op zijn plek en wordt de presentatie strakker dan een ei dat alle kanten opglidt.</div><div class="tip-item"><strong>Variatie:</strong> voeg een blokje manchego toe in het kuiltje naast het ei voor extra romigheid, of vervang het gebakken ei door een gepocheerd ei voor een elegantere versie.</div><div class="tip-item"><strong>Alternatief:</strong> geen verse tomaten? Gebruik gepelde Roma-tomaten uit blik — minder vers maar intensere smaak, werkt uitstekend in een gestoofde pisto.</div><div class="tip-item"><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</div><div class="tip-item"><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Pisto</div><div class="ing-row"><span>courgette, in kleine blokjes</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>rode paprika, in kleine blokjes</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>groene paprika, in kleine blokjes</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>gepelde tomaten uit blik</span><span class="ing-amount" data-basis="400 g">400 g</span></div><div class="ing-row"><span>ui, fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>knoflookteentjes, fijn gehakt</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="45 ml">45 ml</span></div><div class="ing-row"><span>pimentón dulce</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zout en peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Eieren</div><div class="ing-row"><span>eieren</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>olijfolie om eieren in te bakken</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>platte peterselie, fijngehakt</span><span class="ing-amount" data-basis="15 g">15 g</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Ui en paprika bakken</strong><br>bak ui glazig in olijfolie. Voeg knoflook en paprika toe en bak 8 minuten tot zacht.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Courgette en tomaat sudderen</strong><br>voeg courgette toe en bak 5 minuten. Voeg tomaten en pimentón toe. Laat 25 minuten sudderen tot een rijke dikke saus.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Eieren bakken</strong><br>bak de eieren met vloeibare dooier in olijfolie.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveer</strong><br>schep de warme pisto in kleine schaaltjes. Leg een gebakken ei erop. Breek de dooier aan tafel. Bestrooi met peterselie en serveer direct.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>de pisto heeft tijd nodig — minstens 25 minuten sudderen. Maak de pisto van tevoren en warm op. Hij wordt de volgende dag nog lekkerder.</p><p><strong>Techniek:</strong> snijd alle groenten in gelijke blokjes van 1 cm — ongelijke stukken garen niet gelijkmatig. Laat elke groente apart even aanfruiten voor je de volgende toevoegt.</p><p><strong>Presentatie:</strong> maak een kuiltje in de pisto voor het ei — zo blijft het ei mooi op zijn plek en wordt de presentatie strakker dan een ei dat alle kanten opglidt.</p><p><strong>Variatie:</strong> voeg een blokje manchego toe in het kuiltje naast het ei voor extra romigheid, of vervang het gebakken ei door een gepocheerd ei voor een elegantere versie.</p><p><strong>Alternatief:</strong> geen verse tomaten? Gebruik gepelde Roma-tomaten uit blik — minder vers maar intensere smaak, werkt uitstekend in een gestoofde pisto.</p><p><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Garnacha</div>
-        <div class="wine-druif">Garnacha (Grenache)</div>
-        <p class="wine-toe">De frisse, licht kruidige Garnacha met zijn rode vruchten en zachte tannines is de perfecte begeleider bij pisto — het gerecht heeft de eenvoud en eerlijkheid die om een even direct, toegankelijke wijn vraagt. De tomatige zuurgraad in de pisto wordt gespiegeld door de levendige zuren in de Garnacha; de lichte peperkruid in de wijn sluit aan op de paprika en courgette. Garnacha uit Campo de Borja of Cariñena is de meest toegankelijke keuze — drinkbaar, fruitig en nooit overweldigend. Serveer licht gekoeld op 14°C.</p>
-        <div class="wine-alt">Alternatief: Rioja Joven — even fris en direct, werkt als het gebakken ei de hoofdrol heeft</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Garnacha</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Garnacha (Grenache)</span>
     </div>
+    <p class="wine-toelichting">De frisse, licht kruidige Garnacha met zijn rode vruchten en zachte tannines is de perfecte begeleider bij pisto — het gerecht heeft de eenvoud en eerlijkheid die om een even direct, toegankelijke wijn vraagt. De tomatige zuurgraad in de pisto wordt gespiegeld door de levendige zuren in de Garnacha; de lichte peperkruid in de wijn sluit aan op de paprika en courgette. Garnacha uit Campo de Borja of Cariñena is de meest toegankelijke keuze — drinkbaar, fruitig en nooit overweldigend. Serveer licht gekoeld op 14°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Rioja Joven — even fris en direct, werkt als het gebakken ei de hoofdrol heeft</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

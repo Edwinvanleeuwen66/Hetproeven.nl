@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Bali, Indonesië</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Ayam Betutu</h1>
-      <p class="recipe-intro">Verfijnde Balinese kipbereiding: sappige kippendij in een geconcentreerde glanzende bumbu van sjalot, galangal, kurkuma, kencur, citroengras en kemiri, met rauwe sambal matah als frisse tegenstem.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min + 45–60 min garen</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kleine/middelgrote porties</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Indonesisch</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Ayam Betutu</div>
+  <div class="recipe-desc">Verfijnde Balinese kipbereiding: sappige kippendij in een geconcentreerde glanzende bumbu van sjalot, galangal, kurkuma, kencur, citroengras en kemiri, met rauwe sambal matah als frisse tegenstem.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min + 45–60 min garen</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Indonesisch</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de kip</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="600g">600g</span><span class="ing-name">kippendijfilet, zonder bot en vel</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">limoensap</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">neutrale olie of kokosolie</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">stengels citroengras, gekneusd</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">limoenblaadjes (djeruk purut), gekneusd</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">salambladeren (of 1 laurierblad)</span></li><li><span class="ing-amount" data-basis="100ml">100ml</span><span class="ing-name">lichte kippenbouillon of water</span></li><li><span class="ing-amount" data-basis="1 stuk">1 stuk</span><span class="ing-name">pisangblad, kort boven gasvlam soepel gemaakt (optioneel)</span></li></ul><h3 class="ing-group-title">Voor de bumbu (basa gede)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8">8</span><span class="ing-name">sjalotten, grof gesneden</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">tenen knoflook</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">rode Spaanse pepers (lombok), zonder zaadlijst</span></li><li><span class="ing-amount" data-basis="1–2">1–2</span><span class="ing-name">rode bird&#x27;s eye-chilies (rawit), naar smaak</span></li><li><span class="ing-amount" data-basis="25g">25g</span><span class="ing-name">verse gember, geschild</span></li><li><span class="ing-amount" data-basis="25g">25g</span><span class="ing-name">verse galangal (laos), geschild</span></li><li><span class="ing-amount" data-basis="15g">15g</span><span class="ing-name">verse kurkuma, of 1½ tl kurkumapoeder</span></li><li><span class="ing-amount" data-basis="10g">10g</span><span class="ing-name">verse kencur, of ½ tl kencurpoeder</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">stengels citroengras, alleen het zachte witte deel, fijn gesneden</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">limoenblaadjes (djeruk purut), middennerf eruit, fijn gesneden</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">kemiri-noten (of macadamia/cashew), kort geroosterd</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">korianderzaad</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">komijnzaad</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">terasi (trassi), kort geroosterd in droge pan</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">palmsuiker (gula merah), fijn geraspt</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">witte peper</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de sambal matah</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">sjalotten, flinterdun gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">stengel citroengras, alleen wit deel, flinterdun</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">limoenblaadjes (djeruk purut), middennerf eruit, flinterdun</span></li><li><span class="ing-amount" data-basis="2–3">2–3</span><span class="ing-name">rode bird&#x27;s eye-chilies, flinterdun</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">terasi, geroosterd</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">kokosolie, lauwwarm</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">limoensap</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">krokant gebakken uitjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">limoen, in partjes</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">fijngesneden lente-ui</span></li><li><span class="ing-amount" data-basis="handje">handje</span><span class="ing-name">korianderblad of Thaise basilicum</span></li><li><span class="ing-amount" data-basis="300g">300g</span><span class="ing-name">gekookte jasmijnrijst of pandanrijst</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Bumbu maken</strong><p>Rooster het korianderzaad, komijnzaad en de kemiri kort in een droge pan tot ze geuren. Doe over in een hakmolen of vijzel. Voeg alle overige bumbu-ingrediënten toe en maal tot een grove, samenhangende pasta. Wat textuur in de bumbu mag — het hoeft geen babyvoeding te zijn.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Kip marineren</strong><p>Snijd de kippendijfilet in grote stukken van ongeveer 4–5cm. Meng met limoensap en zout en laat 15 minuten staan.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Bumbu aanfruiten en kip stoven</strong><p>Verhit de olie in een ruime, brede pan op middelhoog vuur. Voeg de bumbu toe en bak 10–15 minuten rustig aan tot hij donkerder wordt, glanst, intens geurig is en de olie zich aan de rand begint te scheiden. Roer regelmatig — deze stap is cruciaal. Voeg het gekneusde citroengras, de limoenblaadjes en salambladeren toe en bak 1 minuut mee. Voeg de kip toe en schep grondig om tot alle stukken volledig met bumbu zijn bedekt. Bak 4–5 minuten mee. Schenk de bouillon erbij en breng zachtjes aan de kook. Leg eventueel het pisangblad direct op de kip. Doe de deksel op de pan en laat 45–60 minuten heel zacht garen tot de kip mals is en de saus dik en geconcentreerd rond de stukken hangt.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Sambal matah maken</strong><p>Meng alle sambal matah-ingrediënten in een kom, knijp lichtjes met je vingers om de aroma&#x27;s vrij te laten komen en laat 10 minuten rusten.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Afwerking en serveren</strong><p>Verwijder pisangblad, citroengras en salambladeren uit de pan. Proef en corrigeer met zout, limoensap of een snuf palmsuiker. Serveer per bord: een compacte schep rijst iets uit het midden, 3–4 stukken glanzende kip met bumbu ernaast, een lepel sambal matah, krokante uitjes, koriander of Thaise basilicum, lente-ui en een partje limoen.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Bumbu echt gaar bakken — niet inkorten:</strong> de smaak van betutu staat of valt met deze stap. De olie moet zichtbaar uittreden en de pasta moet donker, glanzend en diep geurig zijn. Te kort gebakken bumbu blijft scherp en rauw.</div><div class="tip-item"><strong>Kencur is karakteristiek, maar lastig verkrijgbaar:</strong> deze typisch Balinese wortel heeft een kamfer-achtige frisse kruidigheid. Verse kencur of kencurpoeder bij de Aziatische toko — laat desnoods weg, maar gebruik geen vervanger.</div><div class="tip-item"><strong>Kemiri vervangen kan probleemloos:</strong> geen kemiri-noten? Macadamia of ongezouten cashew geven dezelfde rijke, romige textuur aan de bumbu.</div><div class="tip-item"><strong>Trassi geroosterd, niet rauw:</strong> wikkel het stukje terasi in folie of leg het kort in een droge pan tot het rookt en nootachtig ruikt. Dan ontstaat de diepe umami.</div><div class="tip-item"><strong>Pisangblad is mooi, maar niet verplicht:</strong> geeft een subtiel grasachtig aroma tijdens het stoven. Diepvries bij de toko. Niet in huis? Laat weg.</div><div class="tip-item"><strong>Sambal matah is geen optie, maar bijna noodzakelijk:</strong> de rauwe, knapperige frisheid is het noodzakelijke tegenwicht voor de rijke geconcentreerde kip.</div><div class="tip-item"><strong>Kant-en-klare gebakken uitjes zijn hier perfect:</strong> goede Aziatische krokante sjalot uit een potje geeft precies de juiste crunch — zelf frituren is onnodig.</div><div class="tip-item"><strong>Variatie:</strong> hele kip of eend voor traditioneel: wrijf in met de bumbu, wikkel in pisangblad, stoom 1,5–2 uur en rooster 30 minuten af in de oven op 180°C.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de kip</div><div class="ing-row"><span>kippendijfilet, zonder bot en vel</span><span class="ing-amount" data-basis="600g">600g</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>neutrale olie of kokosolie</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>stengels citroengras, gekneusd</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>limoenblaadjes (djeruk purut), gekneusd</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>salambladeren (of 1 laurierblad)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>lichte kippenbouillon of water</span><span class="ing-amount" data-basis="100ml">100ml</span></div><div class="ing-row"><span>pisangblad, kort boven gasvlam soepel gemaakt (optioneel)</span><span class="ing-amount" data-basis="1 stuk">1 stuk</span></div><div class="ing-cat">Voor de bumbu (basa gede)</div><div class="ing-row"><span>sjalotten, grof gesneden</span><span class="ing-amount" data-basis="8">8</span></div><div class="ing-row"><span>tenen knoflook</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>rode Spaanse pepers (lombok), zonder zaadlijst</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>rode bird&#x27;s eye-chilies (rawit), naar smaak</span><span class="ing-amount" data-basis="1–2">1–2</span></div><div class="ing-row"><span>verse gember, geschild</span><span class="ing-amount" data-basis="25g">25g</span></div><div class="ing-row"><span>verse galangal (laos), geschild</span><span class="ing-amount" data-basis="25g">25g</span></div><div class="ing-row"><span>verse kurkuma, of 1½ tl kurkumapoeder</span><span class="ing-amount" data-basis="15g">15g</span></div><div class="ing-row"><span>verse kencur, of ½ tl kencurpoeder</span><span class="ing-amount" data-basis="10g">10g</span></div><div class="ing-row"><span>stengels citroengras, alleen het zachte witte deel, fijn gesneden</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>limoenblaadjes (djeruk purut), middennerf eruit, fijn gesneden</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>kemiri-noten (of macadamia/cashew), kort geroosterd</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>korianderzaad</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>komijnzaad</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>terasi (trassi), kort geroosterd in droge pan</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>palmsuiker (gula merah), fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Voor de sambal matah</div><div class="ing-row"><span>sjalotten, flinterdun gesneden</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>stengel citroengras, alleen wit deel, flinterdun</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>limoenblaadjes (djeruk purut), middennerf eruit, flinterdun</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>rode bird&#x27;s eye-chilies, flinterdun</span><span class="ing-amount" data-basis="2–3">2–3</span></div><div class="ing-row"><span>terasi, geroosterd</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kokosolie, lauwwarm</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>krokant gebakken uitjes</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>limoen, in partjes</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>fijngesneden lente-ui</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>korianderblad of Thaise basilicum</span><span class="ing-amount" data-basis="handje">handje</span></div><div class="ing-row"><span>gekookte jasmijnrijst of pandanrijst</span><span class="ing-amount" data-basis="300g">300g</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Bumbu maken</strong><br>Rooster het korianderzaad, komijnzaad en de kemiri kort in een droge pan tot ze geuren. Doe over in een hakmolen of vijzel. Voeg alle overige bumbu-ingrediënten toe en maal tot een grove, samenhangende pasta. Wat textuur in de bumbu mag — het hoeft geen babyvoeding te zijn.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Kip marineren</strong><br>Snijd de kippendijfilet in grote stukken van ongeveer 4–5cm. Meng met limoensap en zout en laat 15 minuten staan.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Bumbu aanfruiten en kip stoven</strong><br>Verhit de olie in een ruime, brede pan op middelhoog vuur. Voeg de bumbu toe en bak 10–15 minuten rustig aan tot hij donkerder wordt, glanst, intens geurig is en de olie zich aan de rand begint te scheiden. Roer regelmatig — deze stap is cruciaal. Voeg het gekneusde citroengras, de limoenblaadjes en salambladeren toe en bak 1 minuut mee. Voeg de kip toe en schep grondig om tot alle stukken volledig met bumbu zijn bedekt. Bak 4–5 minuten mee. Schenk de bouillon erbij en breng zachtjes aan de kook. Leg eventueel het pisangblad direct op de kip. Doe de deksel op de pan en laat 45–60 minuten heel zacht garen tot de kip mals is en de saus dik en geconcentreerd rond de stukken hangt.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Sambal matah maken</strong><br>Meng alle sambal matah-ingrediënten in een kom, knijp lichtjes met je vingers om de aroma&#x27;s vrij te laten komen en laat 10 minuten rusten.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Afwerking en serveren</strong><br>Verwijder pisangblad, citroengras en salambladeren uit de pan. Proef en corrigeer met zout, limoensap of een snuf palmsuiker. Serveer per bord: een compacte schep rijst iets uit het midden, 3–4 stukken glanzende kip met bumbu ernaast, een lepel sambal matah, krokante uitjes, koriander of Thaise basilicum, lente-ui en een partje limoen.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Bumbu echt gaar bakken — niet inkorten:</strong> de smaak van betutu staat of valt met deze stap. De olie moet zichtbaar uittreden en de pasta moet donker, glanzend en diep geurig zijn. Te kort gebakken bumbu blijft scherp en rauw.</p><p><strong>Kencur is karakteristiek, maar lastig verkrijgbaar:</strong> deze typisch Balinese wortel heeft een kamfer-achtige frisse kruidigheid. Verse kencur of kencurpoeder bij de Aziatische toko — laat desnoods weg, maar gebruik geen vervanger.</p><p><strong>Kemiri vervangen kan probleemloos:</strong> geen kemiri-noten? Macadamia of ongezouten cashew geven dezelfde rijke, romige textuur aan de bumbu.</p><p><strong>Trassi geroosterd, niet rauw:</strong> wikkel het stukje terasi in folie of leg het kort in een droge pan tot het rookt en nootachtig ruikt. Dan ontstaat de diepe umami.</p><p><strong>Pisangblad is mooi, maar niet verplicht:</strong> geeft een subtiel grasachtig aroma tijdens het stoven. Diepvries bij de toko. Niet in huis? Laat weg.</p><p><strong>Sambal matah is geen optie, maar bijna noodzakelijk:</strong> de rauwe, knapperige frisheid is het noodzakelijke tegenwicht voor de rijke geconcentreerde kip.</p><p><strong>Kant-en-klare gebakken uitjes zijn hier perfect:</strong> goede Aziatische krokante sjalot uit een potje geeft precies de juiste crunch — zelf frituren is onnodig.</p><p><strong>Variatie:</strong> hele kip of eend voor traditioneel: wrijf in met de bumbu, wikkel in pisangblad, stoom 1,5–2 uur en rooster 30 minuten af in de oven op 180°C.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Gewürztraminer Alsace, droog tot licht off-dry</div>
-        <div class="wine-druif">Gewürztraminer</div>
-        <p class="wine-toe">Gewürztraminer heeft van nature een exotisch, kruidig parfum dat naadloos aansluit bij sereh, limoenblad, gember en galangal. De lichte restzoetheid tempert de chili-hitte en het volle mondgevoel draagt de geconcentreerde bumbu moeiteloos. Serveer op 8–10°C.</p>
-        <div class="wine-alt">Alternatief: Vouvray Demi-Sec AOC of Pinot Gris Alsace (licht off-dry)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Gewürztraminer Alsace, droog tot licht off-dry</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Gewürztraminer</span>
     </div>
+    <p class="wine-toelichting">Gewürztraminer heeft van nature een exotisch, kruidig parfum dat naadloos aansluit bij sereh, limoenblad, gember en galangal. De lichte restzoetheid tempert de chili-hitte en het volle mondgevoel draagt de geconcentreerde bumbu moeiteloos. Serveer op 8–10°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Vouvray Demi-Sec AOC of Pinot Gris Alsace (licht off-dry)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kleine/middelgrote porties');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

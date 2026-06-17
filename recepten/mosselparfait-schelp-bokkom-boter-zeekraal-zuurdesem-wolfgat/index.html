@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Paternoster, Westkaap, Zuid-Afrika</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Mosselparfait in de Schelp met Bokkom-Boter, Zeekraal en Zuurdesem — Wolfgat-Stijl</h1>
-      <p class="recipe-intro">Wolfgat&#x27;s strandveld-signatuur: mosselparfait in eigen schelp met ansjovisboter (bokkom-stijl), zeekraal en krokant zuurdesemtoast — sober, zilt en zeeachtig.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 1 uur actief (plus minimaal 4 uur koelen)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen (3 schelpen pp als amuse)</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Mosselparfait in de Schelp met Bokkom-Boter, Zeekraal en Zuurdesem — Wolfgat-Stijl</div>
+  <div class="recipe-desc">Wolfgat&#x27;s strandveld-signatuur: mosselparfait in eigen schelp met ansjovisboter (bokkom-stijl), zeekraal en krokant zuurdesemtoast — sober, zilt en zeeachtig.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 1 uur actief (plus minimaal 4 uur koelen)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de mosselparfait</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1kg">1kg</span><span class="ing-name">verse mosselen (Zeeuwse zijn perfect)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">sjalot, fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="100ml">100ml</span><span class="ing-name">droge witte wijn</span></li><li><span class="ing-amount" data-basis="50ml">50ml</span><span class="ing-name">muscadel, zoete sherry of zoete witte port</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">cognac of brandy</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">eierdooiers</span></li><li><span class="ing-amount" data-basis="120ml">120ml</span><span class="ing-name">volle slagroom</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vers citroensap</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">witte peper + zout (voorzichtig — mosselvocht is al zilt)</span></li></ul><h3 class="ing-group-title">Voor de bokkom-boter (ansjovis-stijl)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="150g">150g</span><span class="ing-name">ongezouten roomboter, op kamertemperatuur</span></li><li><span class="ing-amount" data-basis="2–3">2–3</span><span class="ing-name">ansjovisfilets in olie, fijngewreven tot pasta</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijne citroenrasp</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">verse tijmblaadjes</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">witte peper + snuf vlokkenzout</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn geraspte bottarga (optioneel — extra zeediepte)</span></li></ul><h3 class="ing-group-title">Voor het brood en de zeegroenten</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">zuurdesembrood, in dunne sneden</span></li><li><span class="ing-amount" data-basis="80g">80g</span><span class="ing-name">zeekraal (salicornia/samphire — bij visboer of groenteboer)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">klein handje postelein</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">druppels citroensap + olijfolie</span></li></ul><h3 class="ing-group-title">Presentatie</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="12">12</span><span class="ing-name">mooie mosselschelpen (bewaard en schoongewassen)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">grof zeezout en kleine schone strandkiezels (fundament op het bord)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Mosselen koken en schelpen bewaren</strong><p>Sjalot kort fruiten in een klontje boter. Witte wijn, muscadel en cognac toevoegen. Aan de kook brengen. Mosselen erin, deksel erop. 3–4 minuten op hoog vuur al schuddend tot alle mosselen openstaan. Niet-geopende weggooien. Mosselen eruit halen. Kookvocht door een fijne zeef met kaasdoek zeven — grondig, zand verpest dit gerecht. Mosselenvlees uit de schelpen halen. 12 mooiste schelpen bewaren, grondig uitwassen en drogen.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Mosselparfait (bain-marie garing)</strong><p>Mosselenvlees + 100ml gezeefd mosselvocht + eierdooiers + room + citroensap + witte peper in blender. 2 minuten op hoogste stand tot volkomen glad. Door een fijne zeef wrijven. Proef — mosselvocht is al zilt, alleen zouten als het echt nodig is. Massa in kleine ramekins gieten. In een ovenschaal met heet water (bain-marie). 120°C, 25–35 minuten tot de parfait net gestold is maar nog zacht trilt. Volledig laten afkoelen, minimaal 4 uur in de koelkast. Vlak voor serveren: kleine quenelles parfait in de mosselschelpen scheppen.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Bokkom-boter</strong><p>Zachte boter mengen met fijngewreven ansjovis, citroenrasp, citroensap, tijmblaadjes, witte peper en vlokkenzout. Eventueel bottarga of heel klein beetje gerookte sprot toevoegen — uiterst spaarzaam, anders te dominant. Oprollen in bakpapier tot een cilinder. Minimaal 1 uur koud zetten. Vlak voor serveren snijden in elegante plakjes van 5–6mm.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Toast, zeekraal en opbouwen</strong><p>Dunne sneden zuurdesembrood krokant roosteren — goudbruin maar niet keihard. In kleine rechthoekige repen snijden. Zeekraal kort spoelen (niet koken — al zout genoeg), mengen met druppel citroensap en olijfolie. Grof zeezout en strandkiezels op een lei of rustieke plank. Gevulde mosselschelpen erop, licht gekanteld. Plakje bokkom-boter op of naast elke schelp. Klein plukje zeekraal en postelein. Zuurdesemtoastrepen ernaast.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Mosselvocht grondig zeven:</strong> Zand of gruis verpest dit gerecht direct. Altijd door fijne zeef met kaasdoek of keukenpapier.</div><div class="tip-item"><strong>Bain-marie garing is essentieel:</strong> Geeft een zachte, romige parfait. Direct in de oven wordt hij rubberig. Zodra hij net gestold is en nog zacht trilt — eruit.</div><div class="tip-item"><strong>Ansjovis is de bokkom-vervanger:</strong> Bokkom (gedroogde gezouten harders uit Langebaan) is in Nederland niet te krijgen. Kwalitatieve ansjovis geeft dezelfde zilte fermentatie-diepte. Begin met weinig — proef — het moet naar zee en boter smaken, niet naar ansjovispasta.</div><div class="tip-item"><strong>Bottarga als luxe upgrade:</strong> Een zweem fijn geraspte bottarga in de boter geeft een extra oceaandiepte. Bij Italiaanse delicatessen.</div><div class="tip-item"><strong>Gerookte sprot als rookalternatief:</strong> Geeft een bokkom-achtige rooksmaak. Uiterst spaarzaam — 1 theelepel voor 150g boter is het maximum.</div><div class="tip-item"><strong>Zeekraal niet zouten:</strong> Van nature zilt genoeg. Alleen citroensap en olijfolie.</div><div class="tip-item"><strong>Serveer klein:</strong> Dit is een amuse. Te veel parfait en boter wordt zwaar — klein is krachtig. Twee à drie schelpen per persoon is genoeg.</div><div class="tip-item"><strong>Voorbereiding:</strong> Parfait en boter een dag eerder maken. Toast en zeekraal vlak voor serveren.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de mosselparfait</div><div class="ing-row"><span>verse mosselen (Zeeuwse zijn perfect)</span><span class="ing-amount" data-basis="1kg">1kg</span></div><div class="ing-row"><span>sjalot, fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>droge witte wijn</span><span class="ing-amount" data-basis="100ml">100ml</span></div><div class="ing-row"><span>muscadel, zoete sherry of zoete witte port</span><span class="ing-amount" data-basis="50ml">50ml</span></div><div class="ing-row"><span>cognac of brandy</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>eierdooiers</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>volle slagroom</span><span class="ing-amount" data-basis="120ml">120ml</span></div><div class="ing-row"><span>vers citroensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>witte peper + zout (voorzichtig — mosselvocht is al zilt)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de bokkom-boter (ansjovis-stijl)</div><div class="ing-row"><span>ongezouten roomboter, op kamertemperatuur</span><span class="ing-amount" data-basis="150g">150g</span></div><div class="ing-row"><span>ansjovisfilets in olie, fijngewreven tot pasta</span><span class="ing-amount" data-basis="2–3">2–3</span></div><div class="ing-row"><span>fijne citroenrasp</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>verse tijmblaadjes</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>witte peper + snuf vlokkenzout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fijn geraspte bottarga (optioneel — extra zeediepte)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-cat">Voor het brood en de zeegroenten</div><div class="ing-row"><span>zuurdesembrood, in dunne sneden</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>zeekraal (salicornia/samphire — bij visboer of groenteboer)</span><span class="ing-amount" data-basis="80g">80g</span></div><div class="ing-row"><span>klein handje postelein</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>druppels citroensap + olijfolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Presentatie</div><div class="ing-row"><span>mooie mosselschelpen (bewaard en schoongewassen)</span><span class="ing-amount" data-basis="12">12</span></div><div class="ing-row"><span>grof zeezout en kleine schone strandkiezels (fundament op het bord)</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Mosselen koken en schelpen bewaren</strong><br>Sjalot kort fruiten in een klontje boter. Witte wijn, muscadel en cognac toevoegen. Aan de kook brengen. Mosselen erin, deksel erop. 3–4 minuten op hoog vuur al schuddend tot alle mosselen openstaan. Niet-geopende weggooien. Mosselen eruit halen. Kookvocht door een fijne zeef met kaasdoek zeven — grondig, zand verpest dit gerecht. Mosselenvlees uit de schelpen halen. 12 mooiste schelpen bewaren, grondig uitwassen en drogen.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Mosselparfait (bain-marie garing)</strong><br>Mosselenvlees + 100ml gezeefd mosselvocht + eierdooiers + room + citroensap + witte peper in blender. 2 minuten op hoogste stand tot volkomen glad. Door een fijne zeef wrijven. Proef — mosselvocht is al zilt, alleen zouten als het echt nodig is. Massa in kleine ramekins gieten. In een ovenschaal met heet water (bain-marie). 120°C, 25–35 minuten tot de parfait net gestold is maar nog zacht trilt. Volledig laten afkoelen, minimaal 4 uur in de koelkast. Vlak voor serveren: kleine quenelles parfait in de mosselschelpen scheppen.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Bokkom-boter</strong><br>Zachte boter mengen met fijngewreven ansjovis, citroenrasp, citroensap, tijmblaadjes, witte peper en vlokkenzout. Eventueel bottarga of heel klein beetje gerookte sprot toevoegen — uiterst spaarzaam, anders te dominant. Oprollen in bakpapier tot een cilinder. Minimaal 1 uur koud zetten. Vlak voor serveren snijden in elegante plakjes van 5–6mm.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Toast, zeekraal en opbouwen</strong><br>Dunne sneden zuurdesembrood krokant roosteren — goudbruin maar niet keihard. In kleine rechthoekige repen snijden. Zeekraal kort spoelen (niet koken — al zout genoeg), mengen met druppel citroensap en olijfolie. Grof zeezout en strandkiezels op een lei of rustieke plank. Gevulde mosselschelpen erop, licht gekanteld. Plakje bokkom-boter op of naast elke schelp. Klein plukje zeekraal en postelein. Zuurdesemtoastrepen ernaast.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Mosselvocht grondig zeven:</strong> Zand of gruis verpest dit gerecht direct. Altijd door fijne zeef met kaasdoek of keukenpapier.</p><p><strong>Bain-marie garing is essentieel:</strong> Geeft een zachte, romige parfait. Direct in de oven wordt hij rubberig. Zodra hij net gestold is en nog zacht trilt — eruit.</p><p><strong>Ansjovis is de bokkom-vervanger:</strong> Bokkom (gedroogde gezouten harders uit Langebaan) is in Nederland niet te krijgen. Kwalitatieve ansjovis geeft dezelfde zilte fermentatie-diepte. Begin met weinig — proef — het moet naar zee en boter smaken, niet naar ansjovispasta.</p><p><strong>Bottarga als luxe upgrade:</strong> Een zweem fijn geraspte bottarga in de boter geeft een extra oceaandiepte. Bij Italiaanse delicatessen.</p><p><strong>Gerookte sprot als rookalternatief:</strong> Geeft een bokkom-achtige rooksmaak. Uiterst spaarzaam — 1 theelepel voor 150g boter is het maximum.</p><p><strong>Zeekraal niet zouten:</strong> Van nature zilt genoeg. Alleen citroensap en olijfolie.</p><p><strong>Serveer klein:</strong> Dit is een amuse. Te veel parfait en boter wordt zwaar — klein is krachtig. Twee à drie schelpen per persoon is genoeg.</p><p><strong>Voorbereiding:</strong> Parfait en boter een dag eerder maken. Toast en zeekraal vlak voor serveren.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Chenin Blanc — Swartland of Stellenbosch, Zuid-Afrika</div>
-        <div class="wine-druif">Chenin Blanc</div>
-        <p class="wine-toe">De wijn van Wolfgat&#x27;s eigen regio heeft de frisheid en lichte ronding voor zowel de rijke mosselparfait als de zilte bokkom-boter. De subtiele honingtoon sluit aan op de muscadel. Regionaal de sterkste keuze. Serveer op 10–12°C.</p>
-        <div class="wine-alt">Alternatief: Champagne Extra Brut AOC of Manzanilla DO (ijskoud)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Chenin Blanc — Swartland of Stellenbosch, Zuid-Afrika</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Chenin Blanc</span>
     </div>
+    <p class="wine-toelichting">De wijn van Wolfgat&#x27;s eigen regio heeft de frisheid en lichte ronding voor zowel de rijke mosselparfait als de zilte bokkom-boter. De subtiele honingtoon sluit aan op de muscadel. Regionaal de sterkste keuze. Serveer op 10–12°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Champagne Extra Brut AOC of Manzanilla DO (ijskoud)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen (3 schelpen pp als amuse)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

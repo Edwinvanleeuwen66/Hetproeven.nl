@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Mediterraan</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Bloedsinaasappel met Earl Grey, Grand Marnier, Gemberroom en Amandelkrokant</h1>
-      <p class="recipe-intro">Sappige bloedsinaasappelpartjes gemarineerd in Earl Grey-vanillesiroop met Grand Marnier, in een wijnglas gelaagd met luchtige gemberroom en glasachtig amandelkrokant — fris, licht bitter, zacht romig en subtiel kruidig.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min (plus 1 uur marineren)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Frans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Bloedsinaasappel met Earl Grey, Grand Marnier, Gemberroom en Amandelkrokant</div>
+  <div class="recipe-desc">Sappige bloedsinaasappelpartjes gemarineerd in Earl Grey-vanillesiroop met Grand Marnier, in een wijnglas gelaagd met luchtige gemberroom en glasachtig amandelkrokant — fris, licht bitter, zacht romig en subtiel kruidig.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min (plus 1 uur marineren)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Frans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de bloedsinaasappel en Earl Grey-siroop</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">bloedsinaasappels (in seizoen: jan-mrt; buiten seizoen: Cara Cara of rode navel)</span></li><li><span class="ing-amount" data-basis="150ml">150ml</span><span class="ing-name">sterke Earl Grey-thee (4-5 min gezet, gezeefd)</span></li><li><span class="ing-amount" data-basis="60g">60g</span><span class="ing-name">fijne kristalsuiker</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">vanillestokje (merg + stokje)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">Grand Marnier (of Cointreau)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis="klein snufje">klein snufje</span><span class="ing-name">fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de gemberroom</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200ml">200ml</span><span class="ing-name">volle slagroom (koud)</span></li><li><span class="ing-amount" data-basis="80g">80g</span><span class="ing-name">crème fraîche (geeft body; geen mascarpone)</span></li><li><span class="ing-amount" data-basis="20g">20g</span><span class="ing-name">poedersuiker</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">verse gember, zeer fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">kant-en-klare gembersiroop</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijn geraspte schil van ¼ citroen</span></li><li><span class="ing-amount" data-basis="klein snufje">klein snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Voor het amandelkrokant</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="50g">50g</span><span class="ing-name">amandelschilfers</span></li><li><span class="ing-amount" data-basis="35g">35g</span><span class="ing-name">fijne kristalsuiker</span></li><li><span class="ing-amount" data-basis="20g">20g</span><span class="ing-name">ongezouten roomboter</span></li><li><span class="ing-amount" data-basis="10g">10g</span><span class="ing-name">bloem (geeft structuur)</span></li><li><span class="ing-amount" data-basis="15ml">15ml</span><span class="ing-name">volle melk</span></li><li><span class="ing-amount" data-basis="klein snufje">klein snufje</span><span class="ing-name">zeezout</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">kleine blaadjes munt of citroenmelisse</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne bloedsinaasappelrasp (optioneel)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">druppel goede extra vergine olijfolie per glas (optioneel — modern gastronomisch accent)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Earl Grey-siroop</strong><p>Earl Grey thee sterk zetten: 2 zakjes in 150ml heet water, 4-5 minuten laten trekken. Niet langer — anders wordt hij wrang. Theezakjes verwijderen en thee zeven. Thee, suiker en vanillestokje (merg + stokje) in een kleine pan. Zacht aan de kook brengen al roerend. 4-5 minuten licht inkoken tot een dunne siroop. Van het vuur: Grand Marnier, citroensap en snufje zout erdoor roeren. Volledig laten afkoelen. Vanillestokje verwijderen.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Bloedsinaasappels a vif snijden en marineren</strong><p>Boven- en onderkant van de bloedsinaasappels afsnijden. A vif schillen: schil en wit vlies volledig wegsnijden. Dan partjes tussen de vliezen uitsnijden. Sap opvangen. Partjes + sap mengen met de afgekoelde Earl Grey-siroop. Minimaal 1 uur marineren in de koelkast.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Amandelkrokant</strong><p>Oven op 170°C hetelucht. Bakpapier op een bakplaat. Boter, suiker en melk in een kleine pan smelten op laag vuur. Van het vuur: bloem, zeezout en amandelschilfers erdoor roeren tot een egaal mengsel. In een flinterdunne laag uitspreiden op het bakpapier. 8-12 minuten bakken tot diepgoudbruin. Volledig laten afkoelen. In elegante onregelmatige scherven breken. Droog bewaren.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Gemberroom</strong><p>Koude slagroom, crème fraîche, poedersuiker, verse gember, gembersiroop, citroenrasp en zout samen opkloppen tot zachte pieken — soepel en luchtig, niet stijf. Koel bewaren.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Opbouwen en serveren</strong><p>Grote elegante wijnglazen. Eerste laag: bloedsinaasappelpartjes + siroop. Tweede laag: nogmaals partjes. Gemberroom als zachte quenelle of royale lepel, iets schuin tegen de binnenwand. Een of twee amandelkrokantscherven in de room steken voor hoogte. Klein blaadje munt of citroenmelisse. Eventueel fijne bloedsinaasappelrasp. Optioneel: een druppel olijfolie over de citrus.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Earl Grey niet te lang laten trekken:</strong> 4-5 minuten is perfect — bloemig en verfijnd. Langer geeft bitterheid.</div><div class="tip-item"><strong>Sinaasappel echt a vif snijden:</strong> al het witte vlies weg. Dat bittere vlies maakt het dessert ruw.</div><div class="tip-item"><strong>Marineer minstens 1 uur:</strong> de siroop trekt in de citrus en het sap van de sinaasappel verrijkt de siroop.</div><div class="tip-item"><strong>Gemberroom niet te stijf kloppen:</strong> hij moet soepel en luchtig blijven.</div><div class="tip-item"><strong>Gembersiroop kant-en-klaar:</strong> die kleine potjes zijn goud waard. Bij de supermarkt of toko.</div><div class="tip-item"><strong>Amandelkrokant flinterdun:</strong> hoe dunner, hoe eleganter het breekt.</div><div class="tip-item"><strong>Groot wijnglas maakt echt verschil:</strong> in een mooi glas oogt het dessert lichter, feestelijker en moderner.</div><div class="tip-item"><strong>De olijfolie-tip:</strong> een druppel goede olijfolie over de citrus geeft een subtiele rondheid en diepte.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de bloedsinaasappel en Earl Grey-siroop</div><div class="ing-row"><span>bloedsinaasappels (in seizoen: jan-mrt; buiten seizoen: Cara Cara of rode navel)</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>sterke Earl Grey-thee (4-5 min gezet, gezeefd)</span><span class="ing-amount" data-basis="150ml">150ml</span></div><div class="ing-row"><span>fijne kristalsuiker</span><span class="ing-amount" data-basis="60g">60g</span></div><div class="ing-row"><span>vanillestokje (merg + stokje)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>Grand Marnier (of Cointreau)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="klein snufje">klein snufje</span></div><div class="ing-cat">Voor de gemberroom</div><div class="ing-row"><span>volle slagroom (koud)</span><span class="ing-amount" data-basis="200ml">200ml</span></div><div class="ing-row"><span>crème fraîche (geeft body; geen mascarpone)</span><span class="ing-amount" data-basis="80g">80g</span></div><div class="ing-row"><span>poedersuiker</span><span class="ing-amount" data-basis="20g">20g</span></div><div class="ing-row"><span>verse gember, zeer fijn geraspt</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>kant-en-klare gembersiroop</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijn geraspte schil van ¼ citroen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="klein snufje">klein snufje</span></div><div class="ing-cat">Voor het amandelkrokant</div><div class="ing-row"><span>amandelschilfers</span><span class="ing-amount" data-basis="50g">50g</span></div><div class="ing-row"><span>fijne kristalsuiker</span><span class="ing-amount" data-basis="35g">35g</span></div><div class="ing-row"><span>ongezouten roomboter</span><span class="ing-amount" data-basis="20g">20g</span></div><div class="ing-row"><span>bloem (geeft structuur)</span><span class="ing-amount" data-basis="10g">10g</span></div><div class="ing-row"><span>volle melk</span><span class="ing-amount" data-basis="15ml">15ml</span></div><div class="ing-row"><span>zeezout</span><span class="ing-amount" data-basis="klein snufje">klein snufje</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>kleine blaadjes munt of citroenmelisse</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fijne bloedsinaasappelrasp (optioneel)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>druppel goede extra vergine olijfolie per glas (optioneel — modern gastronomisch accent)</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Earl Grey-siroop</strong><br>Earl Grey thee sterk zetten: 2 zakjes in 150ml heet water, 4-5 minuten laten trekken. Niet langer — anders wordt hij wrang. Theezakjes verwijderen en thee zeven. Thee, suiker en vanillestokje (merg + stokje) in een kleine pan. Zacht aan de kook brengen al roerend. 4-5 minuten licht inkoken tot een dunne siroop. Van het vuur: Grand Marnier, citroensap en snufje zout erdoor roeren. Volledig laten afkoelen. Vanillestokje verwijderen.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Bloedsinaasappels a vif snijden en marineren</strong><br>Boven- en onderkant van de bloedsinaasappels afsnijden. A vif schillen: schil en wit vlies volledig wegsnijden. Dan partjes tussen de vliezen uitsnijden. Sap opvangen. Partjes + sap mengen met de afgekoelde Earl Grey-siroop. Minimaal 1 uur marineren in de koelkast.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Amandelkrokant</strong><br>Oven op 170°C hetelucht. Bakpapier op een bakplaat. Boter, suiker en melk in een kleine pan smelten op laag vuur. Van het vuur: bloem, zeezout en amandelschilfers erdoor roeren tot een egaal mengsel. In een flinterdunne laag uitspreiden op het bakpapier. 8-12 minuten bakken tot diepgoudbruin. Volledig laten afkoelen. In elegante onregelmatige scherven breken. Droog bewaren.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Gemberroom</strong><br>Koude slagroom, crème fraîche, poedersuiker, verse gember, gembersiroop, citroenrasp en zout samen opkloppen tot zachte pieken — soepel en luchtig, niet stijf. Koel bewaren.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Opbouwen en serveren</strong><br>Grote elegante wijnglazen. Eerste laag: bloedsinaasappelpartjes + siroop. Tweede laag: nogmaals partjes. Gemberroom als zachte quenelle of royale lepel, iets schuin tegen de binnenwand. Een of twee amandelkrokantscherven in de room steken voor hoogte. Klein blaadje munt of citroenmelisse. Eventueel fijne bloedsinaasappelrasp. Optioneel: een druppel olijfolie over de citrus.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Earl Grey niet te lang laten trekken:</strong> 4-5 minuten is perfect — bloemig en verfijnd. Langer geeft bitterheid.</p><p><strong>Sinaasappel echt a vif snijden:</strong> al het witte vlies weg. Dat bittere vlies maakt het dessert ruw.</p><p><strong>Marineer minstens 1 uur:</strong> de siroop trekt in de citrus en het sap van de sinaasappel verrijkt de siroop.</p><p><strong>Gemberroom niet te stijf kloppen:</strong> hij moet soepel en luchtig blijven.</p><p><strong>Gembersiroop kant-en-klaar:</strong> die kleine potjes zijn goud waard. Bij de supermarkt of toko.</p><p><strong>Amandelkrokant flinterdun:</strong> hoe dunner, hoe eleganter het breekt.</p><p><strong>Groot wijnglas maakt echt verschil:</strong> in een mooi glas oogt het dessert lichter, feestelijker en moderner.</p><p><strong>De olijfolie-tip:</strong> een druppel goede olijfolie over de citrus geeft een subtiele rondheid en diepte.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Moscato d&#x27;Asti DOCG — Piëmont, Italië (licht gekoeld)</div>
-        <div class="wine-druif">Moscato Bianco</div>
-        <p class="wine-toe">De lichte zoetheid vangt het frisse en licht bittere karakter van bloedsinaasappel op. Het aromatische profiel sluit aan op de bergamot van Earl Grey. Licht, fris en aromatisch — de perfecte begeleider bij dit citrusdessert.</p>
-        <div class="wine-alt">Alternatief: Demi-sec Champagne AOC of Muscat de Beaumes-de-Venise AOC</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Moscato d&#x27;Asti DOCG — Piëmont, Italië (licht gekoeld)</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Moscato Bianco</span>
     </div>
+    <p class="wine-toelichting">De lichte zoetheid vangt het frisse en licht bittere karakter van bloedsinaasappel op. Het aromatische profiel sluit aan op de bergamot van Earl Grey. Licht, fris en aromatisch — de perfecte begeleider bij dit citrusdessert.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Demi-sec Champagne AOC of Muscat de Beaumes-de-Venise AOC</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

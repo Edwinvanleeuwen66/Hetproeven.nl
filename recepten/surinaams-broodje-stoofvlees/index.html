@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Paramaribo</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Surinaams broodje stoofvlees met ketjap, piment en peperzuur</h1>
-      <p class="recipe-intro">Riblappen gemarineerd in ketjap, piment en komijn, donker aangebraden en gestoofd tot draadjesmals — met glanzende saus op een knapperig Surinaams puntje.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min + 2½ uur stoven + 2 uur rijzen (puntje)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Indonesisch</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Surinaams broodje stoofvlees met ketjap, piment en peperzuur</div>
+  <div class="recipe-desc">Riblappen gemarineerd in ketjap, piment en komijn, donker aangebraden en gestoofd tot draadjesmals — met glanzende saus op een knapperig Surinaams puntje.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min + 2½ uur stoven + 2 uur rijzen (puntje)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Indonesisch</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Surinaamse puntjes (zelfgebakken)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="500 g">500 g</span><span class="ing-name">tarwebloem (11–12% eiwit)</span></li><li><span class="ing-amount" data-basis="300 ml">300 ml</span><span class="ing-name">water, kamertemperatuur</span></li><li><span class="ing-amount" data-basis="8 g">8 g</span><span class="ing-name">droge gist</span></li><li><span class="ing-amount" data-basis="18 g">18 g</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="8 g">8 g</span><span class="ing-name">zout</span></li><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">neutrale olie of zachte boter</span></li><li><span class="ing-amount" data-basis="1 handvol">1 handvol</span><span class="ing-name">fijn griesmeel of semola om in te rollen</span></li></ul><h3 class="ing-group-title">Stoofvlees en marinade</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="800 g">800 g</span><span class="ing-name">riblappen of sucadelappen, in stukken van 4 cm</span></li><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">knoflookteentjes, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">zwarte peper, grof gemalen</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">komijn</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">piment, gemalen</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">ketjap manis</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">neutrale olie</span></li></ul><h3 class="ing-group-title">Stoofbasis</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">grote ui, fijngesnipperd</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">tomatenpuree</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">bruine suiker</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">laurierblad</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">runderbouillonblokje</span></li><li><span class="ing-amount" data-basis="350 ml">350 ml</span><span class="ing-name">heet water</span></li></ul><h3 class="ing-group-title">Serveren</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">Surinaamse puntjes of kleine stokbroodjes</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">komkommer atjar of peperzuur</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Puntjes bakken</strong><p>meng bloem en water, dek af en laat 20 minuten rusten (autolyse). Kneed dan met gist, suiker, zout en olie tot soepel elastisch deeg — ±10 minuten. Laat 60–75 minuten rijzen. Verdeel in 8 bolletjes van ±100 g, rol ovaal en draai strak op tot een puntje, naad goed dichtknippen. Maak een lengtegleuf. Tweede rijs: 30–40 minuten. Bak op 230°C met stoom (kommetje heet water onderin de oven) — 8 minuten, dan terugdraaien naar 205°C nog 8–10 minuten tot lichtgoud. Direct op rooster afkoelen, nooit afdekken.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Marineren</strong><p>meng het vlees met knoflook, peper, komijn, piment, 1 el ketjap en zout. Dek af en laat minimaal 2 uur marineren in de koelkast — langer geeft merkbaar meer diepte. Dit is de Surinaamse basis.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Vlees aanbraden</strong><p>verhit olie in een zware pan op hoog vuur. Bak het vlees in porties donkerbruin — niet te veel tegelijk. Neem de tijd: dit is de smaak. Haal het vlees eruit en zet apart.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Ui en tomatenpuree</strong><p>fruit de ui in dezelfde pan tot goudbruin. Voeg tomatenpuree toe en bak 2 minuten mee — dit haalt de rauwe scherpte eraf. Voeg de resterende ketjap en suiker toe en laat licht karamelliseren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Stoven</strong><p>doe het vlees terug in de pan. Voeg laurierblad, bouillonblokje en het hete water toe tot het vlees nét niet helemaal onderstaat. Breng aan de kook, draai het vuur laag en laat 2–2,5 uur zacht sudderen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus inkoken</strong><p>verwijder de deksel in de laatste 20–30 minuten. Laat de saus inkoken tot hij donker, stroperig en glanzend is. Test: leg een stukje vlees op keukenpapier — een lichte vlek is perfect, een natte kring is te nat.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveren</strong><p>warm het puntje op. Leg het stoofvlees royaal op het brood. Schep een lepel saus erover. Leg zuurgoed of peperzuur erbij. Geen mayo, geen kaas, geen sla — dit is straateten.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">maak het stoofvlees een dag eerder — na een nacht in de koelkast smelt de saus en het vlees samen tot iets wat vers nooit wordt.</div><div class="tip-item"><strong>Techniek:</strong> bak het vlees in porties donkerbruin — een volle pan geeft stoom. Neem de tijd voor de aanbraadstap: die karamelisatie is de basis van de donkere smaakdiepte.</div><div class="tip-item"><strong>Presentatie:</strong> schep een lepel saus royaal over het vlees — de glanzende, donkere saus op het knapperige puntje is het straateten-statement van dit gerecht.</div><div class="tip-item"><strong>Variatie:</strong> voeg een mespuntje piment (allspice) toe aan de marinade voor een warm, Caribisch karakter dat typisch is voor de Surinaamse keuken.</div><div class="tip-item"><strong>Alternatief:</strong> geen riblappen? Gebruik sukadelap of schouderkarbonade — beide hebben voldoende vet en bindweefsel om na 2,5 uur stoven draadjesmals te worden.</div><div class="tip-item"><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item"><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Surinaamse puntjes (zelfgebakken)</div><div class="ing-row"><span>tarwebloem (11–12% eiwit)</span><span class="ing-amount" data-basis="500 g">500 g</span></div><div class="ing-row"><span>water, kamertemperatuur</span><span class="ing-amount" data-basis="300 ml">300 ml</span></div><div class="ing-row"><span>droge gist</span><span class="ing-amount" data-basis="8 g">8 g</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="18 g">18 g</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="8 g">8 g</span></div><div class="ing-row"><span>neutrale olie of zachte boter</span><span class="ing-amount" data-basis="15 g">15 g</span></div><div class="ing-row"><span>fijn griesmeel of semola om in te rollen</span><span class="ing-amount" data-basis="1 handvol">1 handvol</span></div><div class="ing-cat">Stoofvlees en marinade</div><div class="ing-row"><span>riblappen of sucadelappen, in stukken van 4 cm</span><span class="ing-amount" data-basis="800 g">800 g</span></div><div class="ing-row"><span>knoflookteentjes, fijn geraspt</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>zwarte peper, grof gemalen</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>komijn</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>piment, gemalen</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>ketjap manis</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-cat">Stoofbasis</div><div class="ing-row"><span>grote ui, fijngesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>tomatenpuree</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>bruine suiker</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>laurierblad</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>runderbouillonblokje</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>heet water</span><span class="ing-amount" data-basis="350 ml">350 ml</span></div><div class="ing-cat">Serveren</div><div class="ing-row"><span>Surinaamse puntjes of kleine stokbroodjes</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>komkommer atjar of peperzuur</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Puntjes bakken</strong><br>meng bloem en water, dek af en laat 20 minuten rusten (autolyse). Kneed dan met gist, suiker, zout en olie tot soepel elastisch deeg — ±10 minuten. Laat 60–75 minuten rijzen. Verdeel in 8 bolletjes van ±100 g, rol ovaal en draai strak op tot een puntje, naad goed dichtknippen. Maak een lengtegleuf. Tweede rijs: 30–40 minuten. Bak op 230°C met stoom (kommetje heet water onderin de oven) — 8 minuten, dan terugdraaien naar 205°C nog 8–10 minuten tot lichtgoud. Direct op rooster afkoelen, nooit afdekken.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Marineren</strong><br>meng het vlees met knoflook, peper, komijn, piment, 1 el ketjap en zout. Dek af en laat minimaal 2 uur marineren in de koelkast — langer geeft merkbaar meer diepte. Dit is de Surinaamse basis.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Vlees aanbraden</strong><br>verhit olie in een zware pan op hoog vuur. Bak het vlees in porties donkerbruin — niet te veel tegelijk. Neem de tijd: dit is de smaak. Haal het vlees eruit en zet apart.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Ui en tomatenpuree</strong><br>fruit de ui in dezelfde pan tot goudbruin. Voeg tomatenpuree toe en bak 2 minuten mee — dit haalt de rauwe scherpte eraf. Voeg de resterende ketjap en suiker toe en laat licht karamelliseren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Stoven</strong><br>doe het vlees terug in de pan. Voeg laurierblad, bouillonblokje en het hete water toe tot het vlees nét niet helemaal onderstaat. Breng aan de kook, draai het vuur laag en laat 2–2,5 uur zacht sudderen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus inkoken</strong><br>verwijder de deksel in de laatste 20–30 minuten. Laat de saus inkoken tot hij donker, stroperig en glanzend is. Test: leg een stukje vlees op keukenpapier — een lichte vlek is perfect, een natte kring is te nat.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveren</strong><br>warm het puntje op. Leg het stoofvlees royaal op het brood. Schep een lepel saus erover. Leg zuurgoed of peperzuur erbij. Geen mayo, geen kaas, geen sla — dit is straateten.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>maak het stoofvlees een dag eerder — na een nacht in de koelkast smelt de saus en het vlees samen tot iets wat vers nooit wordt.</p><p><strong>Techniek:</strong> bak het vlees in porties donkerbruin — een volle pan geeft stoom. Neem de tijd voor de aanbraadstap: die karamelisatie is de basis van de donkere smaakdiepte.</p><p><strong>Presentatie:</strong> schep een lepel saus royaal over het vlees — de glanzende, donkere saus op het knapperige puntje is het straateten-statement van dit gerecht.</p><p><strong>Variatie:</strong> voeg een mespuntje piment (allspice) toe aan de marinade voor een warm, Caribisch karakter dat typisch is voor de Surinaamse keuken.</p><p><strong>Alternatief:</strong> geen riblappen? Gebruik sukadelap of schouderkarbonade — beide hebben voldoende vet en bindweefsel om na 2,5 uur stoven draadjesmals te worden.</p><p><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Malbec</div>
-        <div class="wine-druif">Malbec</div>
-        <p class="wine-toe">De rijpe pruimige vruchten, ronde tannines en lichte kruidigheid van een Mendoza Malbec sluiten naadloos aan bij de ketjap en het langzaam gestoofde rundvlees. De donkere vruchtinkt van de Malbec — bramen, pruim, violette bloesem — resoneert met de geconcentreerde ketjapsaus. Krachtig genoeg om de piment en komijn in de marinade bij te houden, maar nooit zo hard dat het de eerlijke, streetfood-sfeer van het gerecht breekt. Malbec is ook rijk genoeg voor de suddersaus die over het puntje loopt. Serveer op 17°C.</p>
-        <div class="wine-alt">Alternatief: Jonge Zinfandel — fruitiger en speelser, werkt uitstekend bij de zoet-hartige stoofvleessaus</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Malbec</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Malbec</span>
     </div>
+    <p class="wine-toelichting">De rijpe pruimige vruchten, ronde tannines en lichte kruidigheid van een Mendoza Malbec sluiten naadloos aan bij de ketjap en het langzaam gestoofde rundvlees. De donkere vruchtinkt van de Malbec — bramen, pruim, violette bloesem — resoneert met de geconcentreerde ketjapsaus. Krachtig genoeg om de piment en komijn in de marinade bij te houden, maar nooit zo hard dat het de eerlijke, streetfood-sfeer van het gerecht breekt. Malbec is ook rijk genoeg voor de suddersaus die over het puntje loopt. Serveer op 17°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Jonge Zinfandel — fruitiger en speelser, werkt uitstekend bij de zoet-hartige stoofvleessaus</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

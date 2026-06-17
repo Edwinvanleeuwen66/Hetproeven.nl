@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Engeland</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">The Ultimate Fish and Chips — Beer &amp; Vodka Battered Cod met Triple-Cooked Chips</h1>
-      <p class="recipe-intro">Heston Blumenthal&#x27;s meest iconische bijdrage aan de Britse keuken. De triple-cooked chips: eerst gekookt, bevroren, dan twee keer gebakken voor een glasachtige korst en een fluffy, wollig binnenste. De vodka-bier batter: rijstmeel, maizena en vodka die bij 78°C verdampen voor een poreuze, luchtige korst.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min actief + 1+ uur invriezen chips</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> hoofdgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Overig</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">The Ultimate Fish and Chips — Beer &amp; Vodka Battered Cod met Triple-Cooked Chips</div>
+  <div class="recipe-desc">Heston Blumenthal&#x27;s meest iconische bijdrage aan de Britse keuken. De triple-cooked chips: eerst gekookt, bevroren, dan twee keer gebakken voor een glasachtige korst en een fluffy, wollig binnenste. De vodka-bier batter: rijstmeel, maizena en vodka die bij 78°C verdampen voor een poreuze, luchtige korst.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min actief + 1+ uur invriezen chips</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Overig</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de kabeljauw (korte cure)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">dikke kabeljauwlenden van elk 180–200g (vers, nooit diepvries)</span></li><li><span class="ing-amount" data-basis="6 g">6 g</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="3 g">3 g</span><span class="ing-name">fijne suiker</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne rasp van ½ citroen</span></li><li><span class="ing-amount" data-basis="60 g">60 g</span><span class="ing-name">rijstmeel (voor het bestuiven — meer crunch dan gewone bloem)</span></li></ul><h3 class="ing-group-title">Voor de vodka-bier batter (vlak voor frituren maken)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="130 g">130 g</span><span class="ing-name">bloem</span></li><li><span class="ing-amount" data-basis="130 g">130 g</span><span class="ing-name">rijstmeel</span></li><li><span class="ing-amount" data-basis="35 g">35 g</span><span class="ing-name">maizena (extra knapperigheid)</span></li><li><span class="ing-amount" data-basis="2 tl">2 tl</span><span class="ing-name">bakingpoeder</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">honing (helpt bij goudbruine kleuring)</span></li><li><span class="ing-amount" data-basis="250 ml">250 ml</span><span class="ing-name">ijskoude vodka</span></li><li><span class="ing-amount" data-basis="250 ml">250 ml</span><span class="ing-name">ijskoude lager (licht bier — geen donker)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: kleine snuf kurkuma (voor extra goudgele kleur)</span></li></ul><h3 class="ing-group-title">Voor de triple-cooked chips (dag ervoor)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">grote bloemige aardappelen (Maris Piper, King Edward of Eigenheimer)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">zout (kookwater)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">neutrale olie (minimaal 2L)</span></li></ul><h3 class="ing-group-title">Voor de zelfgemaakte tartaarsaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">goede zelfgemaakte of artisanale mayonaise</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">volle crème fraîche (maakt de saus lichter en frisser)</span></li><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">cornichons, zeer fijn gehakt</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">kleine kappertjes, grof gehakt</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine sjalot, extreem fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">bieslook + platte peterselie, fijn gesneden</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Dijonmosterd</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne rasp en sap van ½ citroen</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en versgemalen zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de groene erwtenpuree</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="300 g">300 g</span><span class="ing-name">diepvries doperwten</span></li><li><span class="ing-amount" data-basis="30 g">30 g</span><span class="ing-name">ongezouten roomboter</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">volle crème fraîche</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">verse munt, fijn gehakt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vers citroensap</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en witte peper</span></li></ul><h3 class="ing-group-title">Voor het serveren</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">malt vinegar (aan tafel — altijd)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fleur de sel</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">citroenen, in partjes</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Dag ervoor — Triple-cooked chips</strong><p>Aardappelen schillen. In dikke batons van 1,5×1,5×8cm snijden. Afspoelen tot water helder is.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Dag ervoor — Eerste frituur</strong><p>Olie op 130°C. Chips in kleine batches 5–7 minuten frituren tot gaar maar niet gekleurd. Uitlekken op rooster. Dan minimaal 1 uur in de vriezer — het invriezen creëert stoomzakjes voor een nog luchtiger binnenste. Tweede frituur: pas vlak voor serveren.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Vis cureren en drogen (60 min voor het frituren)</strong><p>Zout, suiker en citroenrasp mengen. Vis aan alle kanten licht bestrooien. 20 minuten onafgedekt in de koelkast. Dan grondig droogdeppen met keukenpapier. Daarna nog 15–20 minuten onafgedekt in de koelkast drogen.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Tartaarsaus en erwtenpuree (van tevoren)</strong><p>Tartaarsaus: alle ingrediënten mengen. Proef — romig, fris, kruidig en licht zuur. Koel bewaren. Erwtenpuree: erwten 2 minuten blancheren in gezouten water. Direct in ijswater. Blenden of grof pureren met boter, crème fraîche, munt en citroensap. Op smaak. Warmhouden.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">De batter (vlak voor frituren — nooit eerder)</strong><p>Bloem, rijstmeel, maizena, bakingpoeder, zout en eventueel kurkuma mengen. Honing door de vodka roeren. Vodka toevoegen aan droge ingrediënten — roeren. Dan ijskoude lager erbij. Minimaal mengen — klontjes zijn prima. Direct gebruiken.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Tweede frituur chips</strong><p>Olie op 190°C. Bevroren chips in kleine batches 4–5 minuten tot diep goudbruin met glasachtige korst. Op rooster. Direct zout.</p></div></div><div class="step"><div class="step-num">9</div><div class="step-body"><strong class="step-action">Vis frituren (alles klaar — vis wacht op niemand)</strong><p>Olie op 180°C. Gedroogde vis door rijstmeel halen — klop overtollig af. Door de koude batter trekken. De &quot;holding&quot; techniek: Vis halverwege in de hete olie houden gedurende 3–4 seconden — de batter zet onmiddellijk vast als een schil. Dan loslaten. Frituren 6–8 minuten tot diep goudbruin. Uitlekken op rooster — nooit keukenpapier. Direct bestrooien met fleur de sel.</p></div></div><div class="step"><div class="step-num">12</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Warm bord. Erwtenpuree als swoosh. Chips strak neergelegd. Vis schuin ertegen. Tartaarsaus in een klein keramisch potje. Citroenpartje. Malt vinegar aan tafel.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>De cure is het geheim:</strong> Zout + suiker + citroenrasp firmt de vis op en haalt vocht weg. Daarna twee keer drogen — in de koelkast na het deppen. Droge vis = perfecte grip voor de batter.</div><div class="tip-item"><strong>Rijstmeel is alles:</strong> Minder gluten = lichter, knapperiger batter. Altijd rijstmeel gebruiken — zowel in de batter als voor het bestuiven.</div><div class="tip-item"><strong>Vodka is wetenschap:</strong> Kookpunt 78°C vs water 100°C — verdampt sneller in de hete olie en maakt de korst poreuzer en lichter.</div><div class="tip-item"><strong>Batter NOOIT van tevoren:</strong> De carbonatie verdwijnt. Altijd vlak voor het frituren mengen en direct gebruiken.</div><div class="tip-item"><strong>Rooster — nooit papier:</strong> Papier houdt stoom vast en maakt de onderkant zacht. Altijd op een rooster uitlekken.</div><div class="tip-item"><strong>&quot;Holding&quot; techniek:</strong> Halverwege 3–4 seconden houden voor het loslaten — nooit overslaan. De batter zet vast voor hij de pan raakt.</div><div class="tip-item"><strong>Variatie — schelvis:</strong> Iets sappiger dan kabeljauw en traditioneler Brits. Zelfde techniek.</div><div class="tip-item"><strong>Variatie — zonder alcohol:</strong> Vervang vodka en bier door ijskoud bruiswater. Iets minder complex maar nog steeds uitstekend.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de kabeljauw (korte cure)</div><div class="ing-row"><span>dikke kabeljauwlenden van elk 180–200g (vers, nooit diepvries)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="6 g">6 g</span></div><div class="ing-row"><span>fijne suiker</span><span class="ing-amount" data-basis="3 g">3 g</span></div><div class="ing-row"><span>fijne rasp van ½ citroen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>rijstmeel (voor het bestuiven — meer crunch dan gewone bloem)</span><span class="ing-amount" data-basis="60 g">60 g</span></div><div class="ing-cat">Voor de vodka-bier batter (vlak voor frituren maken)</div><div class="ing-row"><span>bloem</span><span class="ing-amount" data-basis="130 g">130 g</span></div><div class="ing-row"><span>rijstmeel</span><span class="ing-amount" data-basis="130 g">130 g</span></div><div class="ing-row"><span>maizena (extra knapperigheid)</span><span class="ing-amount" data-basis="35 g">35 g</span></div><div class="ing-row"><span>bakingpoeder</span><span class="ing-amount" data-basis="2 tl">2 tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>honing (helpt bij goudbruine kleuring)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>ijskoude vodka</span><span class="ing-amount" data-basis="250 ml">250 ml</span></div><div class="ing-row"><span>ijskoude lager (licht bier — geen donker)</span><span class="ing-amount" data-basis="250 ml">250 ml</span></div><div class="ing-row"><span>eventueel: kleine snuf kurkuma (voor extra goudgele kleur)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de triple-cooked chips (dag ervoor)</div><div class="ing-row"><span>grote bloemige aardappelen (Maris Piper, King Edward of Eigenheimer)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>zout (kookwater)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>neutrale olie (minimaal 2L)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de zelfgemaakte tartaarsaus</div><div class="ing-row"><span>goede zelfgemaakte of artisanale mayonaise</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>volle crème fraîche (maakt de saus lichter en frisser)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>cornichons, zeer fijn gehakt</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>kleine kappertjes, grof gehakt</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>kleine sjalot, extreem fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>bieslook + platte peterselie, fijn gesneden</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Dijonmosterd</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne rasp en sap van ½ citroen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>zout en versgemalen zwarte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de groene erwtenpuree</div><div class="ing-row"><span>diepvries doperwten</span><span class="ing-amount" data-basis="300 g">300 g</span></div><div class="ing-row"><span>ongezouten roomboter</span><span class="ing-amount" data-basis="30 g">30 g</span></div><div class="ing-row"><span>volle crème fraîche</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>verse munt, fijn gehakt</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>vers citroensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zout en witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor het serveren</div><div class="ing-row"><span>malt vinegar (aan tafel — altijd)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>citroenen, in partjes</span><span class="ing-amount" data-basis="2">2</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Dag ervoor — Triple-cooked chips</strong><br>Aardappelen schillen. In dikke batons van 1,5×1,5×8cm snijden. Afspoelen tot water helder is.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Dag ervoor — Eerste frituur</strong><br>Olie op 130°C. Chips in kleine batches 5–7 minuten frituren tot gaar maar niet gekleurd. Uitlekken op rooster. Dan minimaal 1 uur in de vriezer — het invriezen creëert stoomzakjes voor een nog luchtiger binnenste. Tweede frituur: pas vlak voor serveren.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Vis cureren en drogen (60 min voor het frituren)</strong><br>Zout, suiker en citroenrasp mengen. Vis aan alle kanten licht bestrooien. 20 minuten onafgedekt in de koelkast. Dan grondig droogdeppen met keukenpapier. Daarna nog 15–20 minuten onafgedekt in de koelkast drogen.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Tartaarsaus en erwtenpuree (van tevoren)</strong><br>Tartaarsaus: alle ingrediënten mengen. Proef — romig, fris, kruidig en licht zuur. Koel bewaren. Erwtenpuree: erwten 2 minuten blancheren in gezouten water. Direct in ijswater. Blenden of grof pureren met boter, crème fraîche, munt en citroensap. Op smaak. Warmhouden.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>De batter (vlak voor frituren — nooit eerder)</strong><br>Bloem, rijstmeel, maizena, bakingpoeder, zout en eventueel kurkuma mengen. Honing door de vodka roeren. Vodka toevoegen aan droge ingrediënten — roeren. Dan ijskoude lager erbij. Minimaal mengen — klontjes zijn prima. Direct gebruiken.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Tweede frituur chips</strong><br>Olie op 190°C. Bevroren chips in kleine batches 4–5 minuten tot diep goudbruin met glasachtige korst. Op rooster. Direct zout.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Vis frituren (alles klaar — vis wacht op niemand)</strong><br>Olie op 180°C. Gedroogde vis door rijstmeel halen — klop overtollig af. Door de koude batter trekken. De &quot;holding&quot; techniek: Vis halverwege in de hete olie houden gedurende 3–4 seconden — de batter zet onmiddellijk vast als een schil. Dan loslaten. Frituren 6–8 minuten tot diep goudbruin. Uitlekken op rooster — nooit keukenpapier. Direct bestrooien met fleur de sel.</div></div><div class="step"><div class="step-num">12</div><div class="step-text"><strong>Opbouwen</strong><br>Warm bord. Erwtenpuree als swoosh. Chips strak neergelegd. Vis schuin ertegen. Tartaarsaus in een klein keramisch potje. Citroenpartje. Malt vinegar aan tafel.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>De cure is het geheim:</strong> Zout + suiker + citroenrasp firmt de vis op en haalt vocht weg. Daarna twee keer drogen — in de koelkast na het deppen. Droge vis = perfecte grip voor de batter.</p><p><strong>Rijstmeel is alles:</strong> Minder gluten = lichter, knapperiger batter. Altijd rijstmeel gebruiken — zowel in de batter als voor het bestuiven.</p><p><strong>Vodka is wetenschap:</strong> Kookpunt 78°C vs water 100°C — verdampt sneller in de hete olie en maakt de korst poreuzer en lichter.</p><p><strong>Batter NOOIT van tevoren:</strong> De carbonatie verdwijnt. Altijd vlak voor het frituren mengen en direct gebruiken.</p><p><strong>Rooster — nooit papier:</strong> Papier houdt stoom vast en maakt de onderkant zacht. Altijd op een rooster uitlekken.</p><p><strong>&quot;Holding&quot; techniek:</strong> Halverwege 3–4 seconden houden voor het loslaten — nooit overslaan. De batter zet vast voor hij de pan raakt.</p><p><strong>Variatie — schelvis:</strong> Iets sappiger dan kabeljauw en traditioneler Brits. Zelfde techniek.</p><p><strong>Variatie — zonder alcohol:</strong> Vervang vodka en bier door ijskoud bruiswater. Iets minder complex maar nog steeds uitstekend.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Manzanilla DO — Sanlúcar de Barrameda, Spanje (ijskoud)</div>
-        <div class="wine-druif">Palomino</div>
-        <p class="wine-toe">De ziltigheid spiegelt de verse kabeljauw. De droge scherpte snijdt door de vette batter. De amandelachtige flor-toon complementeert het goudbruine korstje.</p>
-        <div class="wine-alt">Alternatief: English Sparkling Brut — Sussex of Kent, Engeland — Droog, citrus, appel, fijne mousse, krijtige mineraliteit; Picpoul de Pinet AOC — Languedoc, Frankrijk — Droog, strak, citrus, licht ziltig, fris, mineraal</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Manzanilla DO — Sanlúcar de Barrameda, Spanje (ijskoud)</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Palomino</span>
     </div>
+    <p class="wine-toelichting">De ziltigheid spiegelt de verse kabeljauw. De droge scherpte snijdt door de vette batter. De amandelachtige flor-toon complementeert het goudbruine korstje.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> English Sparkling Brut — Sussex of Kent, Engeland — Droog, citrus, appel, fijne mousse, krijtige mineraliteit; Picpoul de Pinet AOC — Languedoc, Frankrijk — Droog, strak, citrus, licht ziltig, fris, mineraal</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 hoofdgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

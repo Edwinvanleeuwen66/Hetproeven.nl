@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Barcelona</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Gegrilde watermeloen met geroosterde tomaat en basilicumolie</h1>
-      <p class="recipe-intro">Dikke plakken watermeloen gegrild tot ze karameliseren, met langzaam geroosterde cherrytomaatjes en basilicumolie.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 1 uur</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Gegrilde watermeloen met geroosterde tomaat en basilicumolie</div>
+  <div class="recipe-desc">Dikke plakken watermeloen gegrild tot ze karameliseren, met langzaam geroosterde cherrytomaatjes en basilicumolie.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 1 uur</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Watermeloen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="800 g">800 g</span><span class="ing-name">watermeloen, in dikke plakken van 3 cm zonder schil</span></li></ul><h3 class="ing-group-title">Geroosterde tomaat</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="300 g">300 g</span><span class="ing-name">cherrytomaatjes</span></li><li><span class="ing-amount" data-basis="45 ml">45 ml</span><span class="ing-name">olijfolie extra vierge</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">knoflookteentjes, geplet</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">takje tijm</span></li></ul><h3 class="ing-group-title">Basilicumolie en afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="30 g">30 g</span><span class="ing-name">verse basilicum</span></li><li><span class="ing-amount" data-basis="80 ml">80 ml</span><span class="ing-name">olijfolie extra vierge</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">fleur de sel</span></li><li><span class="ing-amount" data-basis="20 ml">20 ml</span><span class="ing-name">balsamicoazijn</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Basilicumolie</strong><p>blancheer basilicum 10 seconden in kokend water, dan in ijswater. Dep droog en mix met olijfolie tot heldere groene olie. Zeef. Zet koud.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Tomaten roosteren</strong><p>verwarm oven op 140°C. Leg cherrytomaatjes op een bakplaat met olijfolie, knoflook en tijm. Rooster 45 minuten langzaam.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Watermeloen grillen</strong><p>verhit grillpan op heel hoog vuur. Dep watermeloenschijven droog. Grill zonder olie 1-2 minuten per kant tot grillstrepen en lichte karamelisatie.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Opmaken en serveren</strong><p>leg gegrilde watermeloen op een schaal. Schik geroosterde tomaatjes erop. Druppel basilicumolie en balsamicoazijn erover. Bestrooi met fleur de sel. Serveer onmiddellijk.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">gebruik een gloeiend hete droge grillpan — geen olie. Dep de watermeloenplakken droog voordat ze de pan in gaan.</div><div class="tip-item"><strong>Techniek:</strong> grill maximaal 1-2 minuten per kant — de watermeloen moet warm en licht geroosterd zijn maar niet papperig worden. Een thermometer is hier niet nodig: vertrouw op je ogen.</div><div class="tip-item"><strong>Presentatie:</strong> leg de gegrilde watermeloen en tomaat afwisselend op het bord in een strak patroon — rood naast roze geeft een visueel opvallende presentatie.</div><div class="tip-item"><strong>Variatie:</strong> voeg een dot Kalamata-olijventapenade toe voor umami-diepte, of bestrooi met grof zeezout en gerookte paprika voor een Spaans tintje.</div><div class="tip-item"><strong>Alternatief:</strong> geen grillpan? Gebruik een gewone hete pan of de oven op grilstand — de roostertekens ontbreken maar de smaak is vergelijkbaar.</div><div class="tip-item"><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</div><div class="tip-item"><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Watermeloen</div><div class="ing-row"><span>watermeloen, in dikke plakken van 3 cm zonder schil</span><span class="ing-amount" data-basis="800 g">800 g</span></div><div class="ing-cat">Geroosterde tomaat</div><div class="ing-row"><span>cherrytomaatjes</span><span class="ing-amount" data-basis="300 g">300 g</span></div><div class="ing-row"><span>olijfolie extra vierge</span><span class="ing-amount" data-basis="45 ml">45 ml</span></div><div class="ing-row"><span>knoflookteentjes, geplet</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>takje tijm</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Basilicumolie en afwerking</div><div class="ing-row"><span>verse basilicum</span><span class="ing-amount" data-basis="30 g">30 g</span></div><div class="ing-row"><span>olijfolie extra vierge</span><span class="ing-amount" data-basis="80 ml">80 ml</span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis="snuf">snuf</span></div><div class="ing-row"><span>balsamicoazijn</span><span class="ing-amount" data-basis="20 ml">20 ml</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Basilicumolie</strong><br>blancheer basilicum 10 seconden in kokend water, dan in ijswater. Dep droog en mix met olijfolie tot heldere groene olie. Zeef. Zet koud.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Tomaten roosteren</strong><br>verwarm oven op 140°C. Leg cherrytomaatjes op een bakplaat met olijfolie, knoflook en tijm. Rooster 45 minuten langzaam.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Watermeloen grillen</strong><br>verhit grillpan op heel hoog vuur. Dep watermeloenschijven droog. Grill zonder olie 1-2 minuten per kant tot grillstrepen en lichte karamelisatie.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Opmaken en serveren</strong><br>leg gegrilde watermeloen op een schaal. Schik geroosterde tomaatjes erop. Druppel basilicumolie en balsamicoazijn erover. Bestrooi met fleur de sel. Serveer onmiddellijk.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>gebruik een gloeiend hete droge grillpan — geen olie. Dep de watermeloenplakken droog voordat ze de pan in gaan.</p><p><strong>Techniek:</strong> grill maximaal 1-2 minuten per kant — de watermeloen moet warm en licht geroosterd zijn maar niet papperig worden. Een thermometer is hier niet nodig: vertrouw op je ogen.</p><p><strong>Presentatie:</strong> leg de gegrilde watermeloen en tomaat afwisselend op het bord in een strak patroon — rood naast roze geeft een visueel opvallende presentatie.</p><p><strong>Variatie:</strong> voeg een dot Kalamata-olijventapenade toe voor umami-diepte, of bestrooi met grof zeezout en gerookte paprika voor een Spaans tintje.</p><p><strong>Alternatief:</strong> geen grillpan? Gebruik een gewone hete pan of de oven op grilstand — de roostertekens ontbreken maar de smaak is vergelijkbaar.</p><p><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Cava Brut Rosé</div>
-        <div class="wine-druif">Garnacha, Monastrell, Pinot Noir</div>
-        <p class="wine-toe">De lichte roodvruchtentonen van een Cava Brut Rosé — aardbeien, framboos, wilde kers — sluiten mooi aan op de gegrilde watermeloen en de rijpe zomertomaat. De droge bellen reinigen de mond na elke sappige hap en de friszuurheid balanceert de lichte zoetheid van de watermeloen. Een Cava Rosé is zomers, licht en toegankelijk — precies de juiste toon bij dit frisse, kleurrijke gerecht. Serveer ijskoud op 7°C.</p>
-        <div class="wine-alt">Alternatief: Provence Rosé — droger en eleganter, werkt als de feta de hoofdrol speelt</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Cava Brut Rosé</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Garnacha, Monastrell, Pinot Noir</span>
     </div>
+    <p class="wine-toelichting">De lichte roodvruchtentonen van een Cava Brut Rosé — aardbeien, framboos, wilde kers — sluiten mooi aan op de gegrilde watermeloen en de rijpe zomertomaat. De droge bellen reinigen de mond na elke sappige hap en de friszuurheid balanceert de lichte zoetheid van de watermeloen. Een Cava Rosé is zomers, licht en toegankelijk — precies de juiste toon bij dit frisse, kleurrijke gerecht. Serveer ijskoud op 7°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Provence Rosé — droger en eleganter, werkt als de feta de hoofdrol speelt</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

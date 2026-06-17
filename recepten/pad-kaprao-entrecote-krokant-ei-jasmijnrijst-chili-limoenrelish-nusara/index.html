@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Bangkok, Thailand</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Pad Kaprao van Entrecote met Krokant Ei, Jasmijnrijst en Chili-Limoenrelish — Nusara-Stijl</h1>
-      <p class="recipe-intro">Nusara Bangkok&#x27;s luxe streetfood: entrecote-reepjes in gloeiend hete wok met heilige basilicum, krokant kai dao-ei bovenop en een felle chili-limoenrelish ernaast.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 35 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Thais</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Pad Kaprao van Entrecote met Krokant Ei, Jasmijnrijst en Chili-Limoenrelish — Nusara-Stijl</div>
+  <div class="recipe-desc">Nusara Bangkok&#x27;s luxe streetfood: entrecote-reepjes in gloeiend hete wok met heilige basilicum, krokant kai dao-ei bovenop en een felle chili-limoenrelish ernaast.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 35 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Thais</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de pad kaprao</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="500–600g">500–600g</span><span class="ing-name">entrecote of rib-eye in reepjes van 4×1cm (20 min in de vriezer maakt snijden makkelijker)</span></li><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">teentjes knoflook</span></li><li><span class="ing-amount" data-basis="4–8">4–8</span><span class="ing-name">Thaise vogeltjespepers (bird&#x27;s eye chili — rode/groene mix)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">sjalotten</span></li><li><span class="ing-amount" data-basis="2 handen">2 handen</span><span class="ing-name">groot bos heilige basilicum (bai krapao — bij Aziatische supermarkt; alternatief: Thaise zoete basilicum)</span></li></ul><h3 class="ing-group-title">Voor de saus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">oestersaus</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">donkere sojasaus (voor kleur)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">vissaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">palmsuiker (alternatief: bruine suiker)</span></li></ul><h3 class="ing-group-title">Voor de kai dao (Thais krokant ei)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">verse eieren (of 8 kwarteleitjes voor fine-dining versie)</span></li><li><span class="ing-amount" data-basis="4–6 el">4–6 el</span><span class="ing-name">neutrale olie (veel olie is de techniek)</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Voor de chili-limoenrelish</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">vissaus</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">vers limoensap</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">palmsuiker</span></li><li><span class="ing-amount" data-basis="1–2">1–2</span><span class="ing-name">vogeltjespepers, fijngehakt</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">teentje knoflook, fijngewreven</span></li></ul><h3 class="ing-group-title">Erbij</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">gekookte jasmijnrijst</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">limoenpartjes</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">neutrale olie met hoog rookpunt (voor de wok)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Mise-en-place</strong><p>Vlees in reepjes van 4×1cm snijden. Grondig droogdeppen — vochtig vlees stoomt in plaats van searren. Knoflook, vogeltjespepers en sjalotten in een vijzel stampen tot een grove, ruwe pasta — niet blenderen, te fijn en te waterig. Sausmengsel klaarmaken: oestersaus, lichte sojasaus, donkere sojasaus, vissaus en palmsuiker mengen. Chili-limoenrelish mengen: vissaus, limoensap, palmsuiker, pepers en knoflook — zout, zuur, zoet en scherp moeten alle vier duidelijk aanwezig zijn. Koud wegzetten.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Wok hei</strong><p>Wok op hoogst mogelijke vuur. 3–4 minuten leeg verwarmen tot de wok rookt. Olie erin, opnieuw wachten tot de olie rookt. Knoflook-peper-pasta toevoegen — 15–20 seconden roerbakken. De geur explodeert.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Vlees in twee batches</strong><p>Eerste batch (250–300g): vlees in de wok. Niet roeren de eerste 30 seconden — laten contacteren. Dan kort omscheppen, totaal 60–75 seconden. Uitscheppen. Wok opnieuw op temperatuur, tweede batch hetzelfde. Beide batches terug. Sausmengsel erbij. 30–45 seconden al roerend op hoogste vuur tot de saus inkookt en het vlees glanst.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Heilige basilicum</strong><p>Vuur uit. Heilige basilicum in één keer erin. Omscheppen tot de blaadjes net beginnen te slinken — 20–30 seconden. Niet langer, het aroma verdwijnt snel.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Kai dao (krokant Thais gebakken ei)</strong><p>Aparte koekenpan op hoog vuur. 4–6 el olie — royaal, meer dan normaal. Wachten tot de olie heet is en licht rookt. Ei erin. 45–60 seconden bakken zonder deksel. Het eiwit schuimt en krijgt krokante bruine randjes. De dooier blijft vloeibaar. Niet omdraaien. Uit de pan op keukenpapier, licht zout.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Warme diepe borden. Jasmijnrijst compact opgeschept — quenelle of kommetje aan de zijkant. Pad kaprao ernaast of eroverheen. Kai dao bovenop — krokante witte randjes zichtbaar, dooier goudgeel. Chili-limoenrelish in een klein apart kommetje. Limoenpartje.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Vlees droogdeppen is niet optioneel:</strong> Elk druppeltje vocht verlaagt de pantemperatuur en maakt het verschil tussen searren en stomen.</div><div class="tip-item"><strong>Twee batches:</strong> Meer dan 300g per keer koelt de wok te snel. Geduld — twee batches geven wok hei, één grote batch geeft gestoofde reepjes.</div><div class="tip-item"><strong>Wok hei thuis:</strong> Verhit de wok 3–4 minuten leeg op het hoogste gas. Gebruik een carbon steel wok — warmt sneller op dan gietijzer. Kleine batches, voedsel droog, wok kantelen zodat de vlam de zijkant raakt.</div><div class="tip-item"><strong>Heilige basilicum vs. Thaise zoete basilicum:</strong> Holy basil (bai krapao) heeft een peperige, kruidnagel-achtige toon. Thaise zoete basilicum (bai horapa) is zoeter — minder authentiek maar goed beschikbaar. Nooit gewone Italiaanse basilicum.</div><div class="tip-item"><strong>Chili-limoenrelish is verplicht:</strong> Dit kleine bakje is de Thaise manier om het gerecht naar eigen smaak af te stellen. Elke hap mag een dipje.</div><div class="tip-item"><strong>Vissaus in de saus én in de relish:</strong> In de saus geeft het umami-diepte die oestersaus alleen niet geeft. In de relish geeft het de zoutzure Thaise basisbalans.</div><div class="tip-item"><strong>Palmsuiker:</strong> Geeft rondere zoetheid dan kristalsuiker. Bij de toko. Bruine basterdsuiker is het beste alternatief.</div><div class="tip-item"><strong>Blue swimming crab curry als Nusara-variant:</strong> Ton serveert naast zijn pad kaprao een kleine portie milde krabcurry. Een klein lepeltje rode curry met krabvlees naast het bord als luxe accent.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de pad kaprao</div><div class="ing-row"><span>entrecote of rib-eye in reepjes van 4×1cm (20 min in de vriezer maakt snijden makkelijker)</span><span class="ing-amount" data-basis="500–600g">500–600g</span></div><div class="ing-row"><span>teentjes knoflook</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>Thaise vogeltjespepers (bird&#x27;s eye chili — rode/groene mix)</span><span class="ing-amount" data-basis="4–8">4–8</span></div><div class="ing-row"><span>sjalotten</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>groot bos heilige basilicum (bai krapao — bij Aziatische supermarkt; alternatief: Thaise zoete basilicum)</span><span class="ing-amount" data-basis="2 handen">2 handen</span></div><div class="ing-cat">Voor de saus</div><div class="ing-row"><span>oestersaus</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>donkere sojasaus (voor kleur)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>vissaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>palmsuiker (alternatief: bruine suiker)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Voor de kai dao (Thais krokant ei)</div><div class="ing-row"><span>verse eieren (of 8 kwarteleitjes voor fine-dining versie)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>neutrale olie (veel olie is de techniek)</span><span class="ing-amount" data-basis="4–6 el">4–6 el</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Voor de chili-limoenrelish</div><div class="ing-row"><span>vissaus</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>vers limoensap</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>palmsuiker</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>vogeltjespepers, fijngehakt</span><span class="ing-amount" data-basis="1–2">1–2</span></div><div class="ing-row"><span>teentje knoflook, fijngewreven</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-cat">Erbij</div><div class="ing-row"><span>gekookte jasmijnrijst</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>limoenpartjes</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>neutrale olie met hoog rookpunt (voor de wok)</span><span class="ing-amount" data-basis="3 el">3 el</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Mise-en-place</strong><br>Vlees in reepjes van 4×1cm snijden. Grondig droogdeppen — vochtig vlees stoomt in plaats van searren. Knoflook, vogeltjespepers en sjalotten in een vijzel stampen tot een grove, ruwe pasta — niet blenderen, te fijn en te waterig. Sausmengsel klaarmaken: oestersaus, lichte sojasaus, donkere sojasaus, vissaus en palmsuiker mengen. Chili-limoenrelish mengen: vissaus, limoensap, palmsuiker, pepers en knoflook — zout, zuur, zoet en scherp moeten alle vier duidelijk aanwezig zijn. Koud wegzetten.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Wok hei</strong><br>Wok op hoogst mogelijke vuur. 3–4 minuten leeg verwarmen tot de wok rookt. Olie erin, opnieuw wachten tot de olie rookt. Knoflook-peper-pasta toevoegen — 15–20 seconden roerbakken. De geur explodeert.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Vlees in twee batches</strong><br>Eerste batch (250–300g): vlees in de wok. Niet roeren de eerste 30 seconden — laten contacteren. Dan kort omscheppen, totaal 60–75 seconden. Uitscheppen. Wok opnieuw op temperatuur, tweede batch hetzelfde. Beide batches terug. Sausmengsel erbij. 30–45 seconden al roerend op hoogste vuur tot de saus inkookt en het vlees glanst.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Heilige basilicum</strong><br>Vuur uit. Heilige basilicum in één keer erin. Omscheppen tot de blaadjes net beginnen te slinken — 20–30 seconden. Niet langer, het aroma verdwijnt snel.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Kai dao (krokant Thais gebakken ei)</strong><br>Aparte koekenpan op hoog vuur. 4–6 el olie — royaal, meer dan normaal. Wachten tot de olie heet is en licht rookt. Ei erin. 45–60 seconden bakken zonder deksel. Het eiwit schuimt en krijgt krokante bruine randjes. De dooier blijft vloeibaar. Niet omdraaien. Uit de pan op keukenpapier, licht zout.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Opbouwen</strong><br>Warme diepe borden. Jasmijnrijst compact opgeschept — quenelle of kommetje aan de zijkant. Pad kaprao ernaast of eroverheen. Kai dao bovenop — krokante witte randjes zichtbaar, dooier goudgeel. Chili-limoenrelish in een klein apart kommetje. Limoenpartje.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Vlees droogdeppen is niet optioneel:</strong> Elk druppeltje vocht verlaagt de pantemperatuur en maakt het verschil tussen searren en stomen.</p><p><strong>Twee batches:</strong> Meer dan 300g per keer koelt de wok te snel. Geduld — twee batches geven wok hei, één grote batch geeft gestoofde reepjes.</p><p><strong>Wok hei thuis:</strong> Verhit de wok 3–4 minuten leeg op het hoogste gas. Gebruik een carbon steel wok — warmt sneller op dan gietijzer. Kleine batches, voedsel droog, wok kantelen zodat de vlam de zijkant raakt.</p><p><strong>Heilige basilicum vs. Thaise zoete basilicum:</strong> Holy basil (bai krapao) heeft een peperige, kruidnagel-achtige toon. Thaise zoete basilicum (bai horapa) is zoeter — minder authentiek maar goed beschikbaar. Nooit gewone Italiaanse basilicum.</p><p><strong>Chili-limoenrelish is verplicht:</strong> Dit kleine bakje is de Thaise manier om het gerecht naar eigen smaak af te stellen. Elke hap mag een dipje.</p><p><strong>Vissaus in de saus én in de relish:</strong> In de saus geeft het umami-diepte die oestersaus alleen niet geeft. In de relish geeft het de zoutzure Thaise basisbalans.</p><p><strong>Palmsuiker:</strong> Geeft rondere zoetheid dan kristalsuiker. Bij de toko. Bruine basterdsuiker is het beste alternatief.</p><p><strong>Blue swimming crab curry als Nusara-variant:</strong> Ton serveert naast zijn pad kaprao een kleine portie milde krabcurry. Een klein lepeltje rode curry met krabvlees naast het bord als luxe accent.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Riesling Kabinett Feinherb of Spätlese — Mosel of Rheingau, Duitsland</div>
-        <div class="wine-druif">Riesling</div>
-        <p class="wine-toe">Off-dry Riesling is de sterkste keuze bij pad kaprao: de restzoetheid tempert de vogeltjespepers, de hoge zuren snijden door oestersaus en palmsuiker, en de leisteen-mineraliteit sluit aan op vissaus en heilige basilicum. Serveer op 9–11°C.</p>
-        <div class="wine-alt">Alternatief: Gewurztraminer d&#x27;Alsace AOC of Chenin Blanc Demi-sec (Vouvray)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Riesling Kabinett Feinherb of Spätlese — Mosel of Rheingau, Duitsland</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Riesling</span>
     </div>
+    <p class="wine-toelichting">Off-dry Riesling is de sterkste keuze bij pad kaprao: de restzoetheid tempert de vogeltjespepers, de hoge zuren snijden door oestersaus en palmsuiker, en de leisteen-mineraliteit sluit aan op vissaus en heilige basilicum. Serveer op 9–11°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Gewurztraminer d&#x27;Alsace AOC of Chenin Blanc Demi-sec (Vouvray)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

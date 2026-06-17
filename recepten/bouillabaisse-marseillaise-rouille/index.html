@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Marseille</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Bouillabaisse à la Marseillaise — met diepe visbouillon, rouille en krokante stokbroodschijfjes</h1>
-      <p class="recipe-intro">De koningin van de Provençaalse keuken met werkelijk diepe smaak. Aangebakken visgraten, Pastis, gekaramelliseerde tomatenpuree en sinaasappelschil. Saffraan in twee fasen. Aan tafel ingeschonken.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 90 min actief + 50 min bouillon</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> hoofdgerechten</div>
-        <div class="tag">📊 Meesterkok</div>
-        <div class="tag">🌍 Frans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Bouillabaisse à la Marseillaise — met diepe visbouillon, rouille en krokante stokbroodschijfjes</div>
+  <div class="recipe-desc">De koningin van de Provençaalse keuken met werkelijk diepe smaak. Aangebakken visgraten, Pastis, gekaramelliseerde tomatenpuree en sinaasappelschil. Saffraan in twee fasen. Aan tafel ingeschonken.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 90 min actief + 50 min bouillon</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Meesterkok</div>
+    <div class="tag tag-acc">🌍 Frans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de diepe bouillon</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 kg">1 kg</span><span class="ing-name">visgraten en -koppen</span></li><li><span class="ing-amount" data-basis="300 g">300 g</span><span class="ing-name">soepvis of kleine rotsvis (optioneel)</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ui</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">prei</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">venkelknol</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">venkelzaad</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">teentjes knoflook</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">tomatenpuree</span></li><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">rijpe vleestomaten</span></li><li><span class="ing-amount" data-basis="80 ml">80 ml</span><span class="ing-name">Pastis</span></li><li><span class="ing-amount" data-basis="150 ml">150 ml</span><span class="ing-name">droge witte wijn</span></li><li><span class="ing-amount" data-basis="1,5 l">1,5 l</span><span class="ing-name">koud water</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">sinaasappelschil + laurier + tijm + peterseliesteeltjes + peperkorrels</span></li><li><span class="ing-amount" data-basis="8–10 draadjes">8–10 draadjes</span><span class="ing-name">saffraan fase 1</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">snuf cayennepeper + zout</span></li></ul><h3 class="ing-group-title">Vis en schaaldieren</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="350 g">350 g</span><span class="ing-name">zeeduivel, in stukken van 4 cm</span></li><li><span class="ing-amount" data-basis="300 g">300 g</span><span class="ing-name">zeebaars of rode poon, in stukken</span></li><li><span class="ing-amount" data-basis="250 g">250 g</span><span class="ing-name">kabeljauw of heek</span></li><li><span class="ing-amount" data-basis="12">12</span><span class="ing-name">gambas, half gepeld</span></li><li><span class="ing-amount" data-basis="400 g">400 g</span><span class="ing-name">Zeeuwse mosselen</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">kleine vastkokende aardappelen, in schijfjes</span></li></ul><h3 class="ing-group-title">Saffraan fase 2</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8–10 draadjes">8–10 draadjes</span><span class="ing-name">saffraan</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">citroensap + olijfolie + venkelgroen</span></li></ul><h3 class="ing-group-title">Rouille</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">aardappel, gaargekookt</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">knoflookteentjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">eidooier</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Dijonmosterd</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">harissa</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">saffraan</span></li><li><span class="ing-amount" data-basis="120 ml">120 ml</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Stokbroodschijfjes</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">stokbrood, schuin gesneden</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">teentje knoflook (inwrijven)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Visgraten aanbakken</strong><p>visgraten 6–8 min AANBAKKEN op hoog vuur. Maillard-reactie = smaakdiepte.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Aromaten</strong><p>aromaten + tomatenpuree karamelliseren. Pastis 2 min inkoken.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Bouillon trekken</strong><p>witte wijn inkoken. Tomaten + kruiden + saffraan fase 1 + water toevoegen. 45–50 min ZONDER DEKSEL trekken.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Blenden en zeven</strong><p>GROF BLENDEN voor het zeven (15–20 sec). Dan krachtig door zeef persen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Inkoken en aardappelen</strong><p>10–15 min inkoken voor concentratie. Aardappelen 12–15 min garen. Bewaren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rouille maken</strong><p>aardappel + knoflook + eidooier + mosterd + harissa + saffraan stampen. Olijfolie druppelsgewijs toevoegen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Stokbrood</strong><p>schijfjes op 200°C 8–10 min. Knoflook inwrijven na het bakken.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Vis pocheren</strong><p>bouillon TEGEN de kook. Saffraan fase 2. Zeeduivel 4 min. Zeebaars + gambas 2–3 min. Mosselen 2 min.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveren</strong><p>vis in warme borden. Bouillon AAN TAFEL ingeschonken vanuit terrine. Stokbrood + rouille apart.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Grof blenden voor zeven:</strong> de grootste verbetering die thuiskoks missen.</div><div class="tip-item"><strong>Saffraan in twee fasen:</strong> helft in bouillon voor kleur, helft vlak voor serveren voor aroma.</div><div class="tip-item"><strong>Pastis gedoseerd:</strong> 80 ml geeft diepte zonder dat het gerecht naar drank smaakt.</div><div class="tip-item"><strong>Vis pocheren, niet koken:</strong> bouillon TEGEN de kook, niet rollend.</div><div class="tip-item"><strong>Variatie — langoustines:</strong> vervang gambas door langoustines voor luxere versie.</div><div class="tip-item"><strong>Alternatief zonder Pastis:</strong> extra venkelzaad + 1 tl venkelpoeder.</div><div class="tip-item"><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de diepe bouillon</div><div class="ing-row"><span>visgraten en -koppen</span><span class="ing-amount" data-basis="1 kg">1 kg</span></div><div class="ing-row"><span>soepvis of kleine rotsvis (optioneel)</span><span class="ing-amount" data-basis="300 g">300 g</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>ui</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>prei</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>venkelknol</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>venkelzaad</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>teentjes knoflook</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>tomatenpuree</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>rijpe vleestomaten</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>Pastis</span><span class="ing-amount" data-basis="80 ml">80 ml</span></div><div class="ing-row"><span>droge witte wijn</span><span class="ing-amount" data-basis="150 ml">150 ml</span></div><div class="ing-row"><span>koud water</span><span class="ing-amount" data-basis="1,5 l">1,5 l</span></div><div class="ing-row"><span>sinaasappelschil + laurier + tijm + peterseliesteeltjes + peperkorrels</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>saffraan fase 1</span><span class="ing-amount" data-basis="8–10 draadjes">8–10 draadjes</span></div><div class="ing-row"><span>snuf cayennepeper + zout</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Vis en schaaldieren</div><div class="ing-row"><span>zeeduivel, in stukken van 4 cm</span><span class="ing-amount" data-basis="350 g">350 g</span></div><div class="ing-row"><span>zeebaars of rode poon, in stukken</span><span class="ing-amount" data-basis="300 g">300 g</span></div><div class="ing-row"><span>kabeljauw of heek</span><span class="ing-amount" data-basis="250 g">250 g</span></div><div class="ing-row"><span>gambas, half gepeld</span><span class="ing-amount" data-basis="12">12</span></div><div class="ing-row"><span>Zeeuwse mosselen</span><span class="ing-amount" data-basis="400 g">400 g</span></div><div class="ing-row"><span>kleine vastkokende aardappelen, in schijfjes</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-cat">Saffraan fase 2</div><div class="ing-row"><span>saffraan</span><span class="ing-amount" data-basis="8–10 draadjes">8–10 draadjes</span></div><div class="ing-row"><span>citroensap + olijfolie + venkelgroen</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Rouille</div><div class="ing-row"><span>aardappel, gaargekookt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>knoflookteentjes</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>eidooier</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>Dijonmosterd</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>harissa</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>saffraan</span><span class="ing-amount" data-basis="snuf">snuf</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="120 ml">120 ml</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Stokbroodschijfjes</div><div class="ing-row"><span>stokbrood, schuin gesneden</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>teentje knoflook (inwrijven)</span><span class="ing-amount" data-basis="1">1</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Visgraten aanbakken</strong><br>visgraten 6–8 min AANBAKKEN op hoog vuur. Maillard-reactie = smaakdiepte.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Aromaten</strong><br>aromaten + tomatenpuree karamelliseren. Pastis 2 min inkoken.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Bouillon trekken</strong><br>witte wijn inkoken. Tomaten + kruiden + saffraan fase 1 + water toevoegen. 45–50 min ZONDER DEKSEL trekken.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Blenden en zeven</strong><br>GROF BLENDEN voor het zeven (15–20 sec). Dan krachtig door zeef persen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Inkoken en aardappelen</strong><br>10–15 min inkoken voor concentratie. Aardappelen 12–15 min garen. Bewaren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Rouille maken</strong><br>aardappel + knoflook + eidooier + mosterd + harissa + saffraan stampen. Olijfolie druppelsgewijs toevoegen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Stokbrood</strong><br>schijfjes op 200°C 8–10 min. Knoflook inwrijven na het bakken.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Vis pocheren</strong><br>bouillon TEGEN de kook. Saffraan fase 2. Zeeduivel 4 min. Zeebaars + gambas 2–3 min. Mosselen 2 min.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveren</strong><br>vis in warme borden. Bouillon AAN TAFEL ingeschonken vanuit terrine. Stokbrood + rouille apart.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Grof blenden voor zeven:</strong> de grootste verbetering die thuiskoks missen.</p><p><strong>Saffraan in twee fasen:</strong> helft in bouillon voor kleur, helft vlak voor serveren voor aroma.</p><p><strong>Pastis gedoseerd:</strong> 80 ml geeft diepte zonder dat het gerecht naar drank smaakt.</p><p><strong>Vis pocheren, niet koken:</strong> bouillon TEGEN de kook, niet rollend.</p><p><strong>Variatie — langoustines:</strong> vervang gambas door langoustines voor luxere versie.</p><p><strong>Alternatief zonder Pastis:</strong> extra venkelzaad + 1 tl venkelpoeder.</p><p><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Cassis Blanc AOC — Provence</div>
-        <div class="wine-druif">Marsanne, Clairette, Ugni Blanc</div>
-        <p class="wine-toe">Droog, mediterraan, fris, licht kruidig, mineraal en ziltig. De klassieke wijn bij bouillabaisse uit de kleine appellation vlak naast Marseille. Droge mineraliteit en kruidige tonen sluiten aan op de rijke visbouillon en de Provençaalse aromaten. Serveer gekoeld op 10°C.</p>
-        <div class="wine-alt">Alternatief: Bandol Rosé of Vermentino di Corsica</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Cassis Blanc AOC — Provence</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Marsanne, Clairette, Ugni Blanc</span>
     </div>
+    <p class="wine-toelichting">Droog, mediterraan, fris, licht kruidig, mineraal en ziltig. De klassieke wijn bij bouillabaisse uit de kleine appellation vlak naast Marseille. Droge mineraliteit en kruidige tonen sluiten aan op de rijke visbouillon en de Provençaalse aromaten. Serveer gekoeld op 10°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Bandol Rosé of Vermentino di Corsica</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 hoofdgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

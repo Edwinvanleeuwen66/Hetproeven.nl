@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Kanazawa</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Kobujime van zeebaars met verse gember en witte soja</h1>
-      <p class="recipe-intro">Rauwe zeebaars 2–3 uur geperst tussen kombu — de glutamaten trekken langzaam in de vis en geven diepere, ziltere umami. Gesneden als sashimi met gember en witte soja.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 15 min + 2–3 uur persen</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Japans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Kobujime van zeebaars met verse gember en witte soja</div>
+  <div class="recipe-desc">Rauwe zeebaars 2–3 uur geperst tussen kombu — de glutamaten trekken langzaam in de vis en geven diepere, ziltere umami. Gesneden als sashimi met gember en witte soja.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 15 min + 2–3 uur persen</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Japans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Kobujime</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="250 g">250 g</span><span class="ing-name">zeebaarsfilet, sashimi-kwaliteit, zonder vel en graten</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">grote vellen gedroogde kombu</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">sake of rijstazijn om kombu te bevochtigen</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">fijn zeezout</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">verse gember, in flinterdunne julienne (2–3 sliertjes per bord)</span></li><li><span class="ing-amount" data-basis="3–4 druppels per bord">3–4 druppels per bord</span><span class="ing-name">shiro shoyu (witte soja)</span></li><li><span class="ing-amount" data-basis="snuf">snuf</span><span class="ing-name">fleur de sel</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Kombu voorbereiden</strong><p>veeg de kombu aan beide kanten af met een vochtige doek — nooit wassen. Het witte poeder is glutamaat. Bevochtig licht met sake of rijstazijn zodat hij soepel wordt.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Vis inleggen</strong><p>dep de zeebaars droog. Bestrooi licht met zeezout, laat 5 minuten staan en dep opnieuw droog. Leg de vis tussen twee kombu-vellen. Wikkel strak in plasticfolie. Leg een licht gewicht erop. 2–3 uur in de koelkast — niet langer.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Snijden en serveren</strong><p>haal de vis voorzichtig van de kombu en dep droog. Snijd met een vlijmscherp, koud mes in plakken van ±5 mm. Veeg het mes na elke snede schoon. Leg 3 plakken per koud bord. Gembersliertjes ernaast. 3–4 druppels witte soja langs de vis — niet erover.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Kombu niet wassen:</strong> witte poeder is glutamaat — het hart van de techniek.</div><div class="tip-item"><strong>Inkopen:</strong> Sashimi-kwaliteit is non-negotiable: vraag de visboer expliciet. Bij twijfel niet rauw serveren.</div><div class="tip-item"><strong>Gekoelde bordjes:</strong> minimaal 15 minuten voor serveren in koelkast.</div><div class="tip-item"><strong>Tijd bewaken:</strong> 2–3 uur is optimaal. Langer dan 3 uur maakt de vis te stevig en te zeewierig — zet een timer.</div><div class="tip-item"><strong>Variatie:</strong> kobujime werkt prachtig met dorade, heilbot of tong — altijd witte, magere vis. Vette vis zoals zalm absorbeert de umami minder goed.</div><div class="tip-item"><strong>Alternatief:</strong> als kombu niet beschikbaar is, gebruik dan extra verse gember en een druppel dashi-gelei als umami-accent — geeft een ander maar elegant resultaat.</div><div class="tip-item"><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Kobujime</div><div class="ing-row"><span>zeebaarsfilet, sashimi-kwaliteit, zonder vel en graten</span><span class="ing-amount" data-basis="250 g">250 g</span></div><div class="ing-row"><span>grote vellen gedroogde kombu</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>sake of rijstazijn om kombu te bevochtigen</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="snuf">snuf</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>verse gember, in flinterdunne julienne (2–3 sliertjes per bord)</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>shiro shoyu (witte soja)</span><span class="ing-amount" data-basis="3–4 druppels per bord">3–4 druppels per bord</span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis="snuf">snuf</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Kombu voorbereiden</strong><br>veeg de kombu aan beide kanten af met een vochtige doek — nooit wassen. Het witte poeder is glutamaat. Bevochtig licht met sake of rijstazijn zodat hij soepel wordt.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Vis inleggen</strong><br>dep de zeebaars droog. Bestrooi licht met zeezout, laat 5 minuten staan en dep opnieuw droog. Leg de vis tussen twee kombu-vellen. Wikkel strak in plasticfolie. Leg een licht gewicht erop. 2–3 uur in de koelkast — niet langer.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Snijden en serveren</strong><br>haal de vis voorzichtig van de kombu en dep droog. Snijd met een vlijmscherp, koud mes in plakken van ±5 mm. Veeg het mes na elke snede schoon. Leg 3 plakken per koud bord. Gembersliertjes ernaast. 3–4 druppels witte soja langs de vis — niet erover.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Kombu niet wassen:</strong> witte poeder is glutamaat — het hart van de techniek.</p><p><strong>Inkopen:</strong> Sashimi-kwaliteit is non-negotiable: vraag de visboer expliciet. Bij twijfel niet rauw serveren.</p><p><strong>Gekoelde bordjes:</strong> minimaal 15 minuten voor serveren in koelkast.</p><p><strong>Tijd bewaken:</strong> 2–3 uur is optimaal. Langer dan 3 uur maakt de vis te stevig en te zeewierig — zet een timer.</p><p><strong>Variatie:</strong> kobujime werkt prachtig met dorade, heilbot of tong — altijd witte, magere vis. Vette vis zoals zalm absorbeert de umami minder goed.</p><p><strong>Alternatief:</strong> als kombu niet beschikbaar is, gebruik dan extra verse gember en een druppel dashi-gelei als umami-accent — geeft een ander maar elegant resultaat.</p><p><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Chablis Premier Cru</div>
-        <div class="wine-druif">Chardonnay</div>
-        <p class="wine-toe">Droog, strak, hoge zuurgraad, krijtige mineraliteit, lichte citrus. Austere, kalkachtige Chablis zonder houtinvloed. Krijtige mineraliteit resoneert met zilte umami van kombu-behandelde vis.</p>
-        <div class="wine-alt">Alternatief: Albariño, droge Chenin Blanc Kabinett of Blanc de Blancs Crémant.</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Chablis Premier Cru</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Chardonnay</span>
     </div>
+    <p class="wine-toelichting">Droog, strak, hoge zuurgraad, krijtige mineraliteit, lichte citrus. Austere, kalkachtige Chablis zonder houtinvloed. Krijtige mineraliteit resoneert met zilte umami van kombu-behandelde vis.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Albariño, droge Chenin Blanc Kabinett of Blanc de Blancs Crémant.</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

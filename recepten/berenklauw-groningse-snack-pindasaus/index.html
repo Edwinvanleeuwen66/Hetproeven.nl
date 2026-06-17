@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Groningen</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Berenklauw — Groningse snack met pindasaus</h1>
-      <p class="recipe-intro">Uitgevonden door cafetariahouder Apple Dokter uit Groningen — de berenklauw is Nederland&#x27;s meest onderschatte snack. Een sappige, gekruide gehaktbal met ketjap, sambal en nootmuskaat: aangebakken, gegaard, afgekoeld en dan in vijf schijven gesneden die als een klauw uitwaaieren op een satéprikker.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min + minimaal 1 uur koelen</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> berenklauwen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Nederlands</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Berenklauw — Groningse snack met pindasaus</div>
+  <div class="recipe-desc">Uitgevonden door cafetariahouder Apple Dokter uit Groningen — de berenklauw is Nederland&#x27;s meest onderschatte snack. Een sappige, gekruide gehaktbal met ketjap, sambal en nootmuskaat: aangebakken, gegaard, afgekoeld en dan in vijf schijven gesneden die als een klauw uitwaaieren op een satéprikker.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min + minimaal 1 uur koelen</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Nederlands</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de berenklauwen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="350 g">350 g</span><span class="ing-name">half-om-half gehakt</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ei</span></li><li><span class="ing-amount" data-basis="35 g">35 g</span><span class="ing-name">fijn paneermeel</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">ketjap manis</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Dijonmosterd</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">sambal oelek</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">nootmuskaat (de typische gehaktbalsmaak)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">uienpoeder (optioneel — extra diepte)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">versgemalen zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de ui</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">middelgrote gele uien — bewaar van elke ui de middelste vier stevige ringen (het mooiste deel)</span></li></ul><h3 class="ing-group-title">Voor het frituren</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="75 g">75 g</span><span class="ing-name">bloem (voor het bestuiven)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">neutrale olie</span></li></ul><h3 class="ing-group-title">Voor de snelle berenklauw-pindasaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4 el">4 el</span><span class="ing-name">crunchy of gladde pindakaas</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">ketjap manis</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">sambal oelek (of naar smaak)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">teentje knoflook, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">citroensap of limoensap</span></li><li><span class="ing-amount" data-basis="70–80 ml">70–80 ml</span><span class="ing-name">warm water</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf zout</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">gebakken uitjes (uit een zakje — typisch Hollands accent)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: fijn gesneden lente-ui</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: druppel sambal</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">4 stevige satéprikkers</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Uien voorbereiden</strong><p>Snijd elke ui in dikke plakken van 1–1,5cm. Bewaar van elke ui de vier middelste mooiste ringen — groot, stevig en perfect rond. De resterende ui-eindjes fijn snijden en bewaren.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Het gehakt</strong><p>Meng gehakt, ei, paneermeel, fijngesneden ui-eindjes, ketjap manis, Dijonmosterd, sambal, nootmuskaat, uienpoeder, zout en peper in een kom. Kneed 1–2 minuten goed maar niet te lang — te veel kneden maakt het compact. Het mengsel moet samenhangen. Verdeel in 4 gelijke ballen van ca. 80–90g. Rol ze strak.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Aanbraden en garen</strong><p>Verhit 2 el olie in een braadpan op middelhoog vuur. Bak de ballen rondom goudbruin — ca. 3–4 minuten al draaiend. Vuur laag. Deksel schuin op de pan. Laat de ballen 20 minuten sudderen op laag vuur, regelmatig draaien. De ballen zijn gaar wanneer een prikker er schoon uitkomt.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Koelen (essentieel)</strong><p>Ballen uit de pan. Laten afkoelen op keukenpapier. Dan minimaal 1 uur in de koelkast — de ballen moeten door en door koud zijn. Koud = makkelijker snijden en betere vorm behouden in de frituur.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">De pindasaus</strong><p>Pindakaas, ketjap, sambal, knoflook en citroensap in een klein steelpannetje. Warm water al roerend toevoegen. Verwarmen op laag vuur tot een dikke, glanzende saus. Iets dikker dan normale satésaus — hij moet aan de berenklauw blijven hangen. Op smaak brengen.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">De klauw vormen</strong><p>Elke koude bal in 5 gelijke schijven snijden met een scherp mes. Per satéprikker: 4 schijven gehakt afgewisseld met 4 uienringen oprijgen. Begin en eindig met gehakt. De schijven iets uitwaaieren als een klauw — de berenklauwvorm. Voorzichtig aandrukken zonder te vervormen.</p></div></div><div class="step"><div class="step-num">10</div><div class="step-body"><strong class="step-action">Frituren</strong><p>Verhit de olie tot 175°C. Bestuif de berenklauwen licht met bloem — klop overtollige bloem af. Frituur 3–4 minuten tot goudbruin. Draai halfweg voorzichtig om. Uitlekken op keukenpapier. Direct serveren — de berenklauw wacht op niemand.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Uur:</strong> Een uur koelen is niet onderhandelbaar: Warme ballen vervormen in de frituur en vallen uit elkaar. Koud = stabiel = mooie klauwvorm.</div><div class="tip-item"><strong>Bloem dun bestuiven:</strong> Een dunne, droge bloemlaag geeft een krokant korstje. Te dik = deegachtige coating.</div><div class="tip-item"><strong>175°C — niet heter:</strong> Bij hogere temperatuur kleurt de buitenkant snel maar blijft de ui soms te rauw en het gehakt onregelmatig gaar.</div><div class="tip-item"><strong>Pindasaus iets dikker maken:</strong> Voor de berenklauw dikker dan normale satésaus — hij moet hangen, niet druipen.</div><div class="tip-item"><strong>Satéprikkers bijknippen:</strong> Als de prikkers te ver uitsteken, knip ze bij tot 2cm boven de berenklauw. Ziet er strakker uit.</div><div class="tip-item"><strong>Variatie — ketjap-sambaldip:</strong> Meng 2 el ketjap manis + 1 tl sambal + 1 tl limoensap voor een snelle pittige alternatieve dipsaus.</div><div class="tip-item"><strong>Variatie:</strong> Variatie — koriander door het gehakt: Fijn gesneden koriander door het gehaktmengsel voor een licht Indisch karakter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de berenklauwen</div><div class="ing-row"><span>half-om-half gehakt</span><span class="ing-amount" data-basis="350 g">350 g</span></div><div class="ing-row"><span>ei</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>fijn paneermeel</span><span class="ing-amount" data-basis="35 g">35 g</span></div><div class="ing-row"><span>ketjap manis</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Dijonmosterd</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>sambal oelek</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>nootmuskaat (de typische gehaktbalsmaak)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>uienpoeder (optioneel — extra diepte)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>versgemalen zwarte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de ui</div><div class="ing-row"><span>middelgrote gele uien — bewaar van elke ui de middelste vier stevige ringen (het mooiste deel)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-cat">Voor het frituren</div><div class="ing-row"><span>bloem (voor het bestuiven)</span><span class="ing-amount" data-basis="75 g">75 g</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de snelle berenklauw-pindasaus</div><div class="ing-row"><span>crunchy of gladde pindakaas</span><span class="ing-amount" data-basis="4 el">4 el</span></div><div class="ing-row"><span>ketjap manis</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>sambal oelek (of naar smaak)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>teentje knoflook, fijn geraspt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>citroensap of limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>warm water</span><span class="ing-amount" data-basis="70–80 ml">70–80 ml</span></div><div class="ing-row"><span>snuf zout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>gebakken uitjes (uit een zakje — typisch Hollands accent)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>eventueel: fijn gesneden lente-ui</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>eventueel: druppel sambal</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>4 stevige satéprikkers</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Uien voorbereiden</strong><br>Snijd elke ui in dikke plakken van 1–1,5cm. Bewaar van elke ui de vier middelste mooiste ringen — groot, stevig en perfect rond. De resterende ui-eindjes fijn snijden en bewaren.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Het gehakt</strong><br>Meng gehakt, ei, paneermeel, fijngesneden ui-eindjes, ketjap manis, Dijonmosterd, sambal, nootmuskaat, uienpoeder, zout en peper in een kom. Kneed 1–2 minuten goed maar niet te lang — te veel kneden maakt het compact. Het mengsel moet samenhangen. Verdeel in 4 gelijke ballen van ca. 80–90g. Rol ze strak.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Aanbraden en garen</strong><br>Verhit 2 el olie in een braadpan op middelhoog vuur. Bak de ballen rondom goudbruin — ca. 3–4 minuten al draaiend. Vuur laag. Deksel schuin op de pan. Laat de ballen 20 minuten sudderen op laag vuur, regelmatig draaien. De ballen zijn gaar wanneer een prikker er schoon uitkomt.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Koelen (essentieel)</strong><br>Ballen uit de pan. Laten afkoelen op keukenpapier. Dan minimaal 1 uur in de koelkast — de ballen moeten door en door koud zijn. Koud = makkelijker snijden en betere vorm behouden in de frituur.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>De pindasaus</strong><br>Pindakaas, ketjap, sambal, knoflook en citroensap in een klein steelpannetje. Warm water al roerend toevoegen. Verwarmen op laag vuur tot een dikke, glanzende saus. Iets dikker dan normale satésaus — hij moet aan de berenklauw blijven hangen. Op smaak brengen.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>De klauw vormen</strong><br>Elke koude bal in 5 gelijke schijven snijden met een scherp mes. Per satéprikker: 4 schijven gehakt afgewisseld met 4 uienringen oprijgen. Begin en eindig met gehakt. De schijven iets uitwaaieren als een klauw — de berenklauwvorm. Voorzichtig aandrukken zonder te vervormen.</div></div><div class="step"><div class="step-num">10</div><div class="step-text"><strong>Frituren</strong><br>Verhit de olie tot 175°C. Bestuif de berenklauwen licht met bloem — klop overtollige bloem af. Frituur 3–4 minuten tot goudbruin. Draai halfweg voorzichtig om. Uitlekken op keukenpapier. Direct serveren — de berenklauw wacht op niemand.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Uur:</strong> Een uur koelen is niet onderhandelbaar: Warme ballen vervormen in de frituur en vallen uit elkaar. Koud = stabiel = mooie klauwvorm.</p><p><strong>Bloem dun bestuiven:</strong> Een dunne, droge bloemlaag geeft een krokant korstje. Te dik = deegachtige coating.</p><p><strong>175°C — niet heter:</strong> Bij hogere temperatuur kleurt de buitenkant snel maar blijft de ui soms te rauw en het gehakt onregelmatig gaar.</p><p><strong>Pindasaus iets dikker maken:</strong> Voor de berenklauw dikker dan normale satésaus — hij moet hangen, niet druipen.</p><p><strong>Satéprikkers bijknippen:</strong> Als de prikkers te ver uitsteken, knip ze bij tot 2cm boven de berenklauw. Ziet er strakker uit.</p><p><strong>Variatie — ketjap-sambaldip:</strong> Meng 2 el ketjap manis + 1 tl sambal + 1 tl limoensap voor een snelle pittige alternatieve dipsaus.</p><p><strong>Variatie:</strong> Variatie — koriander door het gehakt: Fijn gesneden koriander door het gehaktmengsel voor een licht Indisch karakter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Beaujolais-Villages AOC — Beaujolais, Frankrijk (licht gekoeld)</div>
-        <div class="wine-druif">Gamay</div>
-        <p class="wine-toe">Sappig rood fruit, weinig tannine, fris, soepel, licht kruidig Een licht, sappig en onpretentieus rood — precies het juiste borrelgezelschap. De sappige fruitigheid sluit aan op de ketjap manis en sambal. De lichte tannines botsen niet met het gefrituurde gehakt. Fris genoeg om het vet weg te wassen. Eerlijk bij een eerlijke snack.</p>
-        <div class="wine-alt">Alternatief: Droge Grenache Rosé — Rhône of Provence, Frankrijk — Grenache. Droog, fris, rood fruit, licht kruidig Een zonnige, droge rosé die elke snack borrelwaardig maakt. Rosé past uitstekend bij gefrituurde snacks en licht zoete pindasaus. Houdt alles fris en zonnig. | Goed koud glas Heineken, Amstel of Grolsch — . Fris, licht bitter, dorstlessend Laten we eerlijk zijn. Een ijskoude Nederlandse pils spoelt vet, sambal en pindasaus schoon en houdt de berenklauw precies wat hij moet zijn — de lekkerste Hollandse snack ter wereld.</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Beaujolais-Villages AOC — Beaujolais, Frankrijk (licht gekoeld)</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Gamay</span>
     </div>
+    <p class="wine-toelichting">Sappig rood fruit, weinig tannine, fris, soepel, licht kruidig Een licht, sappig en onpretentieus rood — precies het juiste borrelgezelschap. De sappige fruitigheid sluit aan op de ketjap manis en sambal. De lichte tannines botsen niet met het gefrituurde gehakt. Fris genoeg om het vet weg te wassen. Eerlijk bij een eerlijke snack.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Droge Grenache Rosé — Rhône of Provence, Frankrijk — Grenache. Droog, fris, rood fruit, licht kruidig Een zonnige, droge rosé die elke snack borrelwaardig maakt. Rosé past uitstekend bij gefrituurde snacks en licht zoete pindasaus. Houdt alles fris en zonnig. | Goed koud glas Heineken, Amstel of Grolsch — . Fris, licht bitter, dorstlessend Laten we eerlijk zijn. Een ijskoude Nederlandse pils spoelt vet, sambal en pindasaus schoon en houdt de berenklauw precies wat hij moet zijn — de lekkerste Hollandse snack ter wereld.</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 berenklauwen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

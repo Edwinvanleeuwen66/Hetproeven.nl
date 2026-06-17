@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Hong Kong</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Ha Kau met zelfgemaakt doorschijnend deeg en gember-sojadip</h1>
-      <p class="recipe-intro">De koningin van de dim sum — en de maatstaf van elke Kantonese keuken. Een doorschijnend, zijdezacht velletje van tarwezetmeel en tapiocazetmeel gemaakt met kokend water, gevuld met sappige garnalen, bamboescheuten en een vleugje sesam.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 60 min actief + 30 min koelen vulling</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">16</span> –18 stuks (4–6 als dim sum gerecht)</div>
-        <div class="tag">📊 Gevorderd</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="16" step="1">
-      </div>
+  <div class="recipe-title">Ha Kau met zelfgemaakt doorschijnend deeg en gember-sojadip</div>
+  <div class="recipe-desc">De koningin van de dim sum — en de maatstaf van elke Kantonese keuken. Een doorschijnend, zijdezacht velletje van tarwezetmeel en tapiocazetmeel gemaakt met kokend water, gevuld met sappige garnalen, bamboescheuten en een vleugje sesam.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 60 min actief + 30 min koelen vulling</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">16</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gevorderd</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor het ha kau-deeg (tarwezetmeel is verplicht)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="120 g">120 g</span><span class="ing-name">tarwezetmeel (wheat starch / tang meen — bij de toko, niet vervangbaar door gewone bloem)</span></li><li><span class="ing-amount" data-basis="40 g">40 g</span><span class="ing-name">tapiocazetmeel (geeft rekbaarheid)</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="160 ml">160 ml</span><span class="ing-name">kokend water (net van het kookpunt — kouder water = mislukt deeg)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">neutrale olie</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">extra tapiocazetmeel (voor het uitrollen)</span></li></ul><h3 class="ing-group-title">Voor de garnalenvulling (puur — garnaal is alles)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="350 g">350 g</span><span class="ing-name">rauwe garnalen, gepeld en ontdarmd</span></li><li><span class="ing-amount" data-basis="40 g">40 g</span><span class="ing-name">bamboescheuten uit blik, goed uitgelekt en zeer fijn gehakt (geeft klassieke crunch)</span></li><li><span class="ing-amount" data-basis="25 g">25 g</span><span class="ing-name">reuzel of varkensspek, zeer fijn gehakt (optioneel — geeft sappigheid)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">lente-ui, alleen het lichte deel, superfijn gesneden</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">lichte sojasaus (niet meer — de vulling moet puur naar garnaal smaken)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Shaoxing rijstwijn of droge sherry (optioneel)</span></li><li><span class="ing-amount" data-basis="¾ tl">¾ tl</span><span class="ing-name">geroosterde sesamolie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">neutrale olie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">maizena</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijne suiker</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">versgemalen witte peper</span></li></ul><h3 class="ing-group-title">Voor de gember-sojadip</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">rijstazijn</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Chinkiang-azijn (optioneel — geeft meer diepte)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">verse gember, fijn geraspt of in flinterdunne julienne</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">sesamolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fijne lente-uiringen</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: druppel chiliolie</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">De garnalenvulling (30 min van tevoren)</strong><p>Garnalen grondig droogdeppen. Verdeel de garnalen: - 230g: zo fijn mogelijk hakken — bijna pasta, voor binding - 120g: in stukjes van ½–1cm, voor de herkenbare bite Alle vullingingrediënten mengen: garnalenpasta, garnaalstukjes, bamboescheuten, reuzel, lente-ui, gember, sojasaus, Shaoxing wijn, sesamolie, neutrale olie, maizena, suiker, zout en witte peper. Roer 1–2 minuten in één richting tot licht plakkerig. Afdekken. 30 minuten koelen.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Het deeg</strong><p>Tarwezetmeel, tapiocazetmeel en zout mengen in een hittebestendige kom. Giet het kokende water er in één keer bij al roerend met eetstokjes tot grove, doorschijnende klonten. Kom 2 minuten afdekken zodat het zetmeel volledig kan garen. Olie toevoegen. Zodra hanteerbaar: 3–5 minuten kneden tot glad, soepel en licht glanzend. Direct afdekken met vochtige theedoek — dit deeg droogt razendsnel uit. Rol tot een lange worst. Snijd in 16–18 gelijke stukken. Rest altijd afgedekt houden.</p></div></div><div class="step"><div class="step-num">9</div><div class="step-body"><strong class="step-action">De vellen maken met tortillapers + deegroller</strong><p>Rol een stuk deeg tot een balletje. Leg tussen twee vellen licht ingeolied bakpapier of een doorgesneden ziplock-bag. Druk plat met de tortillapers voor de eerste dunne schijf. Verwijder het bovenste papier. Rol met de deegroller de randen nog dunner uit. Doel: ca. 8–9 cm diameter, dunner dan 1mm — bijna doorschijnend. Pel voorzichtig van het papier. Direct vullen — het deeg droogt snel.</p></div></div><div class="step"><div class="step-num">12</div><div class="step-body"><strong class="step-action">De ha kau vouwen</strong><p>Leg een vel in je linkerhand. Schep een kleine theelepel vulling in het midden — niet te veel. Vouw het vel dubbel tot een halvemaan. Sluit op één punt aan de rechterkant. Maak 7–10 kleine plooitjes op de bovenste rand van rechts naar links, druk elk plooitje tegen de gladde achterkant aan. Zorg dat elk plooitje goed gesloten is. Zet op een klein stukje bakpapier in het bamboestoommandje.</p></div></div><div class="step"><div class="step-num">16</div><div class="step-body"><strong class="step-action">Stomen</strong><p>Water krachtig aan de kook. Bamboestoommandje erop. 5–6 minuten stomen op hoog vuur — niet langer. Klaar wanneer de vellen doorschijnend en glanzend zijn en de garnalen roze en ondoorzichtig. Direct serveren — bamboestoommandje direct op tafel.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Tarwezetmeel is niet optioneel:</strong> Gewone bloem geeft een witte, opake wrapper. Alleen tarwezetmeel geeft het kristaleffect. Laat bij de toko de Chinese tekens zien.</div><div class="tip-item"><strong>Kokend:</strong> Kokend water — net van het kookpunt: Laat het nooit 30 seconden staan — het deeg mislukt dan. Direct van de ketel in de kom.</div><div class="tip-item"><strong>2 minuten:</strong> 2 minuten afdekken na het water: Laat het zetmeel volledig garen voor je kneedt — geeft een egaler, soepeler deeg.</div><div class="tip-item"><strong>Deeg altijd afgedekt:</strong> Werkt met één vel tegelijk, rest altijd onder vochtige doek.</div><div class="tip-item"><strong>Tortillapers als startpunt:</strong> Pers geeft het eerste rondje — altijd daarna verder uitrollen met deegroller voor de juiste transparantie.</div><div class="tip-item"><strong>Ha kau is puur:</strong> Geen knoflook, geen oestersaus, geen zware smaken. De garnaal moet spreken. Elke extra smaak concurreert.</div><div class="tip-item"><strong>Plooitjes hoeven niet perfect:</strong> Bij je eerste ha kau is goed gesloten het belangrijkste. De techniek komt met oefening — smaak en dun deeg zijn altijd meteen goed.</div><div class="tip-item"><strong>Variatie — luxe:</strong> Voeg een klein stukje coquille door de vulling voor een feestelijke versie. Garnaal blijft de hoofdrol.</div><div class="tip-item"><strong>Variatie — dipsaus simpel:</strong> Veel Kantonezen eten ha kau puur met alleen lichte sojasaus — de vulling is zo delicaat dat meer saus afleidt.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor het ha kau-deeg (tarwezetmeel is verplicht)</div><div class="ing-row"><span>tarwezetmeel (wheat starch / tang meen — bij de toko, niet vervangbaar door gewone bloem)</span><span class="ing-amount" data-basis="120 g">120 g</span></div><div class="ing-row"><span>tapiocazetmeel (geeft rekbaarheid)</span><span class="ing-amount" data-basis="40 g">40 g</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>kokend water (net van het kookpunt — kouder water = mislukt deeg)</span><span class="ing-amount" data-basis="160 ml">160 ml</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>extra tapiocazetmeel (voor het uitrollen)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de garnalenvulling (puur — garnaal is alles)</div><div class="ing-row"><span>rauwe garnalen, gepeld en ontdarmd</span><span class="ing-amount" data-basis="350 g">350 g</span></div><div class="ing-row"><span>bamboescheuten uit blik, goed uitgelekt en zeer fijn gehakt (geeft klassieke crunch)</span><span class="ing-amount" data-basis="40 g">40 g</span></div><div class="ing-row"><span>reuzel of varkensspek, zeer fijn gehakt (optioneel — geeft sappigheid)</span><span class="ing-amount" data-basis="25 g">25 g</span></div><div class="ing-row"><span>lente-ui, alleen het lichte deel, superfijn gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>verse gember, fijn geraspt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>lichte sojasaus (niet meer — de vulling moet puur naar garnaal smaken)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>Shaoxing rijstwijn of droge sherry (optioneel)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount" data-basis="¾ tl">¾ tl</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>maizena</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>versgemalen witte peper</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-cat">Voor de gember-sojadip</div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>rijstazijn</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Chinkiang-azijn (optioneel — geeft meer diepte)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>verse gember, fijn geraspt of in flinterdunne julienne</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>fijne lente-uiringen</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>eventueel: druppel chiliolie</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>De garnalenvulling (30 min van tevoren)</strong><br>Garnalen grondig droogdeppen. Verdeel de garnalen: - 230g: zo fijn mogelijk hakken — bijna pasta, voor binding - 120g: in stukjes van ½–1cm, voor de herkenbare bite Alle vullingingrediënten mengen: garnalenpasta, garnaalstukjes, bamboescheuten, reuzel, lente-ui, gember, sojasaus, Shaoxing wijn, sesamolie, neutrale olie, maizena, suiker, zout en witte peper. Roer 1–2 minuten in één richting tot licht plakkerig. Afdekken. 30 minuten koelen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Het deeg</strong><br>Tarwezetmeel, tapiocazetmeel en zout mengen in een hittebestendige kom. Giet het kokende water er in één keer bij al roerend met eetstokjes tot grove, doorschijnende klonten. Kom 2 minuten afdekken zodat het zetmeel volledig kan garen. Olie toevoegen. Zodra hanteerbaar: 3–5 minuten kneden tot glad, soepel en licht glanzend. Direct afdekken met vochtige theedoek — dit deeg droogt razendsnel uit. Rol tot een lange worst. Snijd in 16–18 gelijke stukken. Rest altijd afgedekt houden.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>De vellen maken met tortillapers + deegroller</strong><br>Rol een stuk deeg tot een balletje. Leg tussen twee vellen licht ingeolied bakpapier of een doorgesneden ziplock-bag. Druk plat met de tortillapers voor de eerste dunne schijf. Verwijder het bovenste papier. Rol met de deegroller de randen nog dunner uit. Doel: ca. 8–9 cm diameter, dunner dan 1mm — bijna doorschijnend. Pel voorzichtig van het papier. Direct vullen — het deeg droogt snel.</div></div><div class="step"><div class="step-num">12</div><div class="step-text"><strong>De ha kau vouwen</strong><br>Leg een vel in je linkerhand. Schep een kleine theelepel vulling in het midden — niet te veel. Vouw het vel dubbel tot een halvemaan. Sluit op één punt aan de rechterkant. Maak 7–10 kleine plooitjes op de bovenste rand van rechts naar links, druk elk plooitje tegen de gladde achterkant aan. Zorg dat elk plooitje goed gesloten is. Zet op een klein stukje bakpapier in het bamboestoommandje.</div></div><div class="step"><div class="step-num">16</div><div class="step-text"><strong>Stomen</strong><br>Water krachtig aan de kook. Bamboestoommandje erop. 5–6 minuten stomen op hoog vuur — niet langer. Klaar wanneer de vellen doorschijnend en glanzend zijn en de garnalen roze en ondoorzichtig. Direct serveren — bamboestoommandje direct op tafel.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Tarwezetmeel is niet optioneel:</strong> Gewone bloem geeft een witte, opake wrapper. Alleen tarwezetmeel geeft het kristaleffect. Laat bij de toko de Chinese tekens zien.</p><p><strong>Kokend:</strong> Kokend water — net van het kookpunt: Laat het nooit 30 seconden staan — het deeg mislukt dan. Direct van de ketel in de kom.</p><p><strong>2 minuten:</strong> 2 minuten afdekken na het water: Laat het zetmeel volledig garen voor je kneedt — geeft een egaler, soepeler deeg.</p><p><strong>Deeg altijd afgedekt:</strong> Werkt met één vel tegelijk, rest altijd onder vochtige doek.</p><p><strong>Tortillapers als startpunt:</strong> Pers geeft het eerste rondje — altijd daarna verder uitrollen met deegroller voor de juiste transparantie.</p><p><strong>Ha kau is puur:</strong> Geen knoflook, geen oestersaus, geen zware smaken. De garnaal moet spreken. Elke extra smaak concurreert.</p><p><strong>Plooitjes hoeven niet perfect:</strong> Bij je eerste ha kau is goed gesloten het belangrijkste. De techniek komt met oefening — smaak en dun deeg zijn altijd meteen goed.</p><p><strong>Variatie — luxe:</strong> Voeg een klein stukje coquille door de vulling voor een feestelijke versie. Garnaal blijft de hoofdrol.</p><p><strong>Variatie — dipsaus simpel:</strong> Veel Kantonezen eten ha kau puur met alleen lichte sojasaus — de vulling is zo delicaat dat meer saus afleidt.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Muscadet Sèvre-et-Maine sur Lie AOC — Loire, Frankrijk</div>
-        <div class="wine-druif">Melon de Bourgogne</div>
-        <p class="wine-toe">De ziltigheid spiegelt de zoetheid van de garnalen. De frisse mineraliteit reinigt het mondgevoel. Licht genoeg om de delicate, pure garnaalvulling volledig te laten spreken.</p>
-        <div class="wine-alt">Alternatief: Junmai Daiginjo sake — Japan — Droog, zijdezacht, rijstachtig, lichte umami, clean; Chablis AOC — Bourgogne, Frankrijk — Droog, mineraal, strak, citrus, groene appel</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Muscadet Sèvre-et-Maine sur Lie AOC — Loire, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Melon de Bourgogne</span>
     </div>
+    <p class="wine-toelichting">De ziltigheid spiegelt de zoetheid van de garnalen. De frisse mineraliteit reinigt het mondgevoel. Licht genoeg om de delicate, pure garnaalvulling volledig te laten spreken.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Junmai Daiginjo sake — Japan — Droog, zijdezacht, rijstachtig, lichte umami, clean; Chablis AOC — Bourgogne, Frankrijk — Droog, mineraal, strak, citrus, groene appel</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('16–18 stuks (4–6 als dim sum gerecht)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

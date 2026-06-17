@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Andalusië</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Paprika&#x27;s met knoflook, honing en amandelen</h1>
-      <p class="recipe-intro">Gegrilde paprika&#x27;s uit blik met knoflook-honingdressing en geschaafde amandelen.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 15 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">6</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="6" step="1">
-      </div>
+  <div class="recipe-title">Paprika&#x27;s met knoflook, honing en amandelen</div>
+  <div class="recipe-desc">Gegrilde paprika&#x27;s uit blik met knoflook-honingdressing en geschaafde amandelen.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 15 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">6</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Paprika</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="800 g">800 g</span><span class="ing-name">gegrilde rode paprika uit blik, uitgelekt</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">knoflookteentjes, zeer fijn gehakt</span></li><li><span class="ing-amount" data-basis="30 g">30 g</span><span class="ing-name">geschaafde amandelen</span></li><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">verse peterselie, fijngehakt</span></li></ul><h3 class="ing-group-title">Knoflook-honingdressing</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="45 ml">45 ml</span><span class="ing-name">olijfolie extra vierge</span></li><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">vloeibare honing</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Paprika bereiden</strong><p>dep de paprika&#x27;s goed droog en snijd in grove stukken. Leg in een mooie schaal.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Dressing maken</strong><p>meng olijfolie met knoflook, honing, zout en peper.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Mengen en serveer</strong><p>giet de dressing over de paprika&#x27;s en schep om. Strooi amandelen erover. Bestrooi met peterselie. Serveer op kamertemperatuur.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">dep de paprika&#x27;s goed droog voor gebruik. Dit gerecht kan een dag van tevoren gemaakt worden — de smaken trekken dan samen.</div><div class="tip-item"><strong>Techniek:</strong> rooster de amandelen droog in een hete pan — constant bewegen en goed opletten, want amandelen verbranden snel. Zodra ze geurig zijn: van het vuur.</div><div class="tip-item"><strong>Presentatie:</strong> leg de paprika&#x27;s als waaiervorm op het bord met de vulling zichtbaar — de kleuren goud, rood en wit geven een visueel rijke presentatie.</div><div class="tip-item"><strong>Variatie:</strong> vervang amandelen door pijnboompitten voor een Mediterrane twist, of voeg een dot geitenkaas toe voor extra romige zuurheid naast de honing.</div><div class="tip-item"><strong>Alternatief:</strong> geen geroosterde paprika&#x27;s? Gebruik piquillo-pepers uit een pot — al geroosterd en gepeld, uitstekend tijdbesparend alternatief met dezelfde zachte zoetheid.</div><div class="tip-item"><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</div><div class="tip-item"><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Paprika</div><div class="ing-row"><span>gegrilde rode paprika uit blik, uitgelekt</span><span class="ing-amount" data-basis="800 g">800 g</span></div><div class="ing-row"><span>knoflookteentjes, zeer fijn gehakt</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>geschaafde amandelen</span><span class="ing-amount" data-basis="30 g">30 g</span></div><div class="ing-row"><span>verse peterselie, fijngehakt</span><span class="ing-amount" data-basis="15 g">15 g</span></div><div class="ing-cat">Knoflook-honingdressing</div><div class="ing-row"><span>olijfolie extra vierge</span><span class="ing-amount" data-basis="45 ml">45 ml</span></div><div class="ing-row"><span>vloeibare honing</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>zout en peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Paprika bereiden</strong><br>dep de paprika&#x27;s goed droog en snijd in grove stukken. Leg in een mooie schaal.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Dressing maken</strong><br>meng olijfolie met knoflook, honing, zout en peper.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Mengen en serveer</strong><br>giet de dressing over de paprika&#x27;s en schep om. Strooi amandelen erover. Bestrooi met peterselie. Serveer op kamertemperatuur.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>dep de paprika&#x27;s goed droog voor gebruik. Dit gerecht kan een dag van tevoren gemaakt worden — de smaken trekken dan samen.</p><p><strong>Techniek:</strong> rooster de amandelen droog in een hete pan — constant bewegen en goed opletten, want amandelen verbranden snel. Zodra ze geurig zijn: van het vuur.</p><p><strong>Presentatie:</strong> leg de paprika&#x27;s als waaiervorm op het bord met de vulling zichtbaar — de kleuren goud, rood en wit geven een visueel rijke presentatie.</p><p><strong>Variatie:</strong> vervang amandelen door pijnboompitten voor een Mediterrane twist, of voeg een dot geitenkaas toe voor extra romige zuurheid naast de honing.</p><p><strong>Alternatief:</strong> geen geroosterde paprika&#x27;s? Gebruik piquillo-pepers uit een pot — al geroosterd en gepeld, uitstekend tijdbesparend alternatief met dezelfde zachte zoetheid.</p><p><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Amontillado Sherry</div>
-        <div class="wine-druif">Palomino Fino</div>
-        <p class="wine-toe">De nootachtige tonen van een Amontillado — walnoot, hazelnoot, gedroogd fruit — weerspiegelen de geroosterde amandelen perfect. De Amontillado is begonnen als Fino onder flor maar heeft daarna geoxideerd tot een amberkleurige complexiteit met tonen van hazelnoot, karamel en een droge, licht bittere afdronk. Die bitterheid balanceert de honing in het gerecht; de nootachtigheid versterkt de amandelen. De halfdroge stijl geeft net genoeg zoetheid om bij de honingglaze aan te sluiten. Serveer op kamertemperatuur of licht gekoeld op 12°C.</p>
-        <div class="wine-alt">Alternatief: Oloroso Seco — droger en voller dan Amontillado, werkt als de paprika de hoofdrol heeft</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Amontillado Sherry</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Palomino Fino</span>
     </div>
+    <p class="wine-toelichting">De nootachtige tonen van een Amontillado — walnoot, hazelnoot, gedroogd fruit — weerspiegelen de geroosterde amandelen perfect. De Amontillado is begonnen als Fino onder flor maar heeft daarna geoxideerd tot een amberkleurige complexiteit met tonen van hazelnoot, karamel en een droge, licht bittere afdronk. Die bitterheid balanceert de honing in het gerecht; de nootachtigheid versterkt de amandelen. De halfdroge stijl geeft net genoeg zoetheid om bij de honingglaze aan te sluiten. Serveer op kamertemperatuur of licht gekoeld op 12°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Oloroso Seco — droger en voller dan Amontillado, werkt als de paprika de hoofdrol heeft</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('6 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

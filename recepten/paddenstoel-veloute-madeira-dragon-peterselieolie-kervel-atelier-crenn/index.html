@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">San Francisco, Californië</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Paddenstoel-Velouté met Madeira, Dragon-Peterselieolie en Kervel — Atelier Crenn-Stijl</h1>
-      <p class="recipe-intro">Atelier Crenn&#x27;s bosspiegel: spiegelgladde paddenstoel-velouté van geroosterde kastanjechampignons, shiitake en oesterzwam met druppels felgroene dragon-peterselieolie.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 55 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kleine voorgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Frans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Paddenstoel-Velouté met Madeira, Dragon-Peterselieolie en Kervel — Atelier Crenn-Stijl</div>
+  <div class="recipe-desc">Atelier Crenn&#x27;s bosspiegel: spiegelgladde paddenstoel-velouté van geroosterde kastanjechampignons, shiitake en oesterzwam met druppels felgroene dragon-peterselieolie.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 55 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Frans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de paddenstoel-velouté</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="250g">250g</span><span class="ing-name">kastanjechampignons, grof gesneden</span></li><li><span class="ing-amount" data-basis="150g">150g</span><span class="ing-name">shiitake, steeltjes verwijderd</span></li><li><span class="ing-amount" data-basis="100g">100g</span><span class="ing-name">oesterzwam of girolles (vers of bevroren)</span></li><li><span class="ing-amount" data-basis="15g">15g</span><span class="ing-name">gedroogde porcini (optioneel — weekwater bewaren)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">sjalot, fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">prei (alleen wit en lichtgroen), fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine teen knoflook, gekneusd</span></li><li><span class="ing-amount" data-basis="30g">30g</span><span class="ing-name">ongezouten roomboter</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="100ml">100ml</span><span class="ing-name">droge Madeira (eerste keuze; alternatief: fino sherry)</span></li><li><span class="ing-amount" data-basis="600ml">600ml</span><span class="ing-name">paddenstoelbouillon of lichte groentebouillon (+ 50ml porcini-weekwater)</span></li><li><span class="ing-amount" data-basis="60ml">60ml</span><span class="ing-name">volle room</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">klein takje tijm + laurierblaadje</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">lichte sojasaus (optioneel — geeft umami-diepte)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">citroensap, nootmuskaat, zout + zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de dragon-peterselieolie</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20g">20g</span><span class="ing-name">verse dragon (alleen blaadjes)</span></li><li><span class="ing-amount" data-basis="10g">10g</span><span class="ing-name">platte peterselie</span></li><li><span class="ing-amount" data-basis="80ml">80ml</span><span class="ing-name">druivenpitolie of milde neutrale olie</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Garnering</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4–6">4–6</span><span class="ing-name">kleine kastanjechampignons (flinterdun op mandoline) of kleine girolles</span></li><li><span class="ing-amount" data-basis="paar">paar</span><span class="ing-name">blaadjes kervel</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">druppel olijfolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">geroosterd hazelnootkruim (optioneel — 5g grof gehakt en droog geroosterd)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Porcini weken</strong><p>Porcini 15 minuten weken in 80ml warm water. Uitknijpen. Weekwater door kaasdoek bewaren.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Paddenstoelen droog roosteren</strong><p>Kastanjechampignons, shiitake en oesterzwam in een droge pan op hoog vuur — geen vet. 6–8 minuten tot ze hun vocht volledig hebben losgelaten en donkerbruin kleuren. Niet roeren de eerste 3 minuten. Olijfolie en 15g boter toevoegen, 2–3 minuten omscheppend tot de paddenstoelen diep nootachtig ruiken. Uitscheppen.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Groentebasis en Madeira</strong><p>Vuur lager. Resterende 15g boter. Sjalot, prei en knoflook 6–8 minuten zacht fruiten — glazig, nooit bruin. Paddenstoelen terug in de pan. Madeira erbij — volledig laten verdampen. De alcohol trekt weg, de diepte blijft.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Velouté trekken</strong><p>Bouillon, porcini-weekwater, tijm en laurier toevoegen. 15–20 minuten zacht laten pruttelen. Tijm en laurier eruit halen. Room toevoegen.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Blenden, zeven en dragon-peterselieolie</strong><p>Geheel blenden op hoogste stand 2 minuten tot volkomen glad. Door een fijne zeef wrijven — dit geeft de spiegelkwaliteit. Op smaak: zout, peper, nootmuskaat, optioneel sojasaus en citroensap. Voor de dragon-peterselieolie: dragon en peterselie 20–30 seconden blancheren in kokend water, direct in ijskoud water. Goed uitknijpen. Blenden met olie en zout 45 seconden op hoogste stand. Door fijne zeef — fluorescentgroen.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Warme diepe donkere kommen. Velouté ingieten — dun en glad als een spiegel. Dragon-peterselieolie in kleine organische druppels — laten drijven, niet mengen. Flinterdunne champignonplakjes (mandoline) of kleine girollecluster in het midden. Kervelblaadjes, eventueel hazelnootkruim, druppel olijfolie, zwarte peper. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Paddenstoelen echt donker roosteren:</strong> Bleke paddenstoelen geven brave soep. Diepbruin tot bijna geblakerd geeft de melancholische diepte die Crenn zoekt.</div><div class="tip-item"><strong>Madeira als eerste keuze:</strong> Geeft notige, oxidatieve warmte — ronder en dieper dan fino sherry. Sherry werkt ook maar is droger en zilter.</div><div class="tip-item"><strong>Dragon + peterselie:</strong> Alleen dragon blenden geeft een lichtere groene tint. Peterselie boosted de felgroene kleur zonder de dragonsmaak te overstemmen.</div><div class="tip-item"><strong>Blancheren 20–30 seconden exact:</strong> Minder geeft onvoldoende kleurfix. Meer geeft gare kruiden met verlies van aroma. Dit is het exacte window.</div><div class="tip-item"><strong>Room beperkt houden:</strong> 60ml voor 750ml soep. Dit is geen roomsoep — de paddenstoelen zijn de hoofdrol.</div><div class="tip-item"><strong>Zeef voor spiegelkwaliteit:</strong> Niet overslaan. Paddenstoelenvezels geven een textuur die de spiegel breekt.</div><div class="tip-item"><strong>Hazelnootkruim als accent:</strong> Geroosterde hazelnoten grof hakken — heel klein beetje — geeft een nootachtige bite die past bij Madeira en dragon.</div><div class="tip-item"><strong>Lichte sojasaus:</strong> ½ tl verdiept de umami zonder herkenbaar naar soja te smaken. Optioneel maar slim.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de paddenstoel-velouté</div><div class="ing-row"><span>kastanjechampignons, grof gesneden</span><span class="ing-amount" data-basis="250g">250g</span></div><div class="ing-row"><span>shiitake, steeltjes verwijderd</span><span class="ing-amount" data-basis="150g">150g</span></div><div class="ing-row"><span>oesterzwam of girolles (vers of bevroren)</span><span class="ing-amount" data-basis="100g">100g</span></div><div class="ing-row"><span>gedroogde porcini (optioneel — weekwater bewaren)</span><span class="ing-amount" data-basis="15g">15g</span></div><div class="ing-row"><span>sjalot, fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>prei (alleen wit en lichtgroen), fijn gesneden</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>kleine teen knoflook, gekneusd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>ongezouten roomboter</span><span class="ing-amount" data-basis="30g">30g</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>droge Madeira (eerste keuze; alternatief: fino sherry)</span><span class="ing-amount" data-basis="100ml">100ml</span></div><div class="ing-row"><span>paddenstoelbouillon of lichte groentebouillon (+ 50ml porcini-weekwater)</span><span class="ing-amount" data-basis="600ml">600ml</span></div><div class="ing-row"><span>volle room</span><span class="ing-amount" data-basis="60ml">60ml</span></div><div class="ing-row"><span>klein takje tijm + laurierblaadje</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>lichte sojasaus (optioneel — geeft umami-diepte)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>citroensap, nootmuskaat, zout + zwarte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de dragon-peterselieolie</div><div class="ing-row"><span>verse dragon (alleen blaadjes)</span><span class="ing-amount" data-basis="20g">20g</span></div><div class="ing-row"><span>platte peterselie</span><span class="ing-amount" data-basis="10g">10g</span></div><div class="ing-row"><span>druivenpitolie of milde neutrale olie</span><span class="ing-amount" data-basis="80ml">80ml</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Garnering</div><div class="ing-row"><span>kleine kastanjechampignons (flinterdun op mandoline) of kleine girolles</span><span class="ing-amount" data-basis="4–6">4–6</span></div><div class="ing-row"><span>blaadjes kervel</span><span class="ing-amount" data-basis="paar">paar</span></div><div class="ing-row"><span>druppel olijfolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>geroosterd hazelnootkruim (optioneel — 5g grof gehakt en droog geroosterd)</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Porcini weken</strong><br>Porcini 15 minuten weken in 80ml warm water. Uitknijpen. Weekwater door kaasdoek bewaren.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Paddenstoelen droog roosteren</strong><br>Kastanjechampignons, shiitake en oesterzwam in een droge pan op hoog vuur — geen vet. 6–8 minuten tot ze hun vocht volledig hebben losgelaten en donkerbruin kleuren. Niet roeren de eerste 3 minuten. Olijfolie en 15g boter toevoegen, 2–3 minuten omscheppend tot de paddenstoelen diep nootachtig ruiken. Uitscheppen.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Groentebasis en Madeira</strong><br>Vuur lager. Resterende 15g boter. Sjalot, prei en knoflook 6–8 minuten zacht fruiten — glazig, nooit bruin. Paddenstoelen terug in de pan. Madeira erbij — volledig laten verdampen. De alcohol trekt weg, de diepte blijft.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Velouté trekken</strong><br>Bouillon, porcini-weekwater, tijm en laurier toevoegen. 15–20 minuten zacht laten pruttelen. Tijm en laurier eruit halen. Room toevoegen.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Blenden, zeven en dragon-peterselieolie</strong><br>Geheel blenden op hoogste stand 2 minuten tot volkomen glad. Door een fijne zeef wrijven — dit geeft de spiegelkwaliteit. Op smaak: zout, peper, nootmuskaat, optioneel sojasaus en citroensap. Voor de dragon-peterselieolie: dragon en peterselie 20–30 seconden blancheren in kokend water, direct in ijskoud water. Goed uitknijpen. Blenden met olie en zout 45 seconden op hoogste stand. Door fijne zeef — fluorescentgroen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Opbouwen</strong><br>Warme diepe donkere kommen. Velouté ingieten — dun en glad als een spiegel. Dragon-peterselieolie in kleine organische druppels — laten drijven, niet mengen. Flinterdunne champignonplakjes (mandoline) of kleine girollecluster in het midden. Kervelblaadjes, eventueel hazelnootkruim, druppel olijfolie, zwarte peper. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Paddenstoelen echt donker roosteren:</strong> Bleke paddenstoelen geven brave soep. Diepbruin tot bijna geblakerd geeft de melancholische diepte die Crenn zoekt.</p><p><strong>Madeira als eerste keuze:</strong> Geeft notige, oxidatieve warmte — ronder en dieper dan fino sherry. Sherry werkt ook maar is droger en zilter.</p><p><strong>Dragon + peterselie:</strong> Alleen dragon blenden geeft een lichtere groene tint. Peterselie boosted de felgroene kleur zonder de dragonsmaak te overstemmen.</p><p><strong>Blancheren 20–30 seconden exact:</strong> Minder geeft onvoldoende kleurfix. Meer geeft gare kruiden met verlies van aroma. Dit is het exacte window.</p><p><strong>Room beperkt houden:</strong> 60ml voor 750ml soep. Dit is geen roomsoep — de paddenstoelen zijn de hoofdrol.</p><p><strong>Zeef voor spiegelkwaliteit:</strong> Niet overslaan. Paddenstoelenvezels geven een textuur die de spiegel breekt.</p><p><strong>Hazelnootkruim als accent:</strong> Geroosterde hazelnoten grof hakken — heel klein beetje — geeft een nootachtige bite die past bij Madeira en dragon.</p><p><strong>Lichte sojasaus:</strong> ½ tl verdiept de umami zonder herkenbaar naar soja te smaken. Optioneel maar slim.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Saint-Aubin Premier Cru AOC of Montagny Premier Cru AOC — Bourgogne, Frankrijk</div>
-        <div class="wine-druif">Chardonnay</div>
-        <p class="wine-toe">De nootachtige botertoon spiegelt de geroosterde paddenstoelen en Madeira, terwijl de mineraliteit de rijke velouté fris houdt. Subtiel genoeg om de dragon-peterselieolie niet te overstemmen. Serveer op 12–14°C.</p>
-        <div class="wine-alt">Alternatief: Savagnin Ouillé (Jura) of Champagne Extra Brut AOC</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Saint-Aubin Premier Cru AOC of Montagny Premier Cru AOC — Bourgogne, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Chardonnay</span>
     </div>
+    <p class="wine-toelichting">De nootachtige botertoon spiegelt de geroosterde paddenstoelen en Madeira, terwijl de mineraliteit de rijke velouté fris houdt. Subtiel genoeg om de dragon-peterselieolie niet te overstemmen. Serveer op 12–14°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Savagnin Ouillé (Jura) of Champagne Extra Brut AOC</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kleine voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

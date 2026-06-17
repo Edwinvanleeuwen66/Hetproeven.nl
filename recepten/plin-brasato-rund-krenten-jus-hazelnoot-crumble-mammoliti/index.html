@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Serralunga d&#x27;Alba, Piëmont</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Plin met Brasato-Rund, Krenten-Jus en Hazelnoot-Crumble — Mammoliti-Stijl</h1>
-      <p class="recipe-intro">La Rei Natura&#x27;s handtekening uit Piëmont: handgevouwen plin gevuld met langzaam gestoofd rund in een donkere krentenjus van Barolo, balsamico en geroosterde hazelnoot-crumble.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 3½ uur (1 uur actief)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten of 2 royale hoofdgerechten</div>
-        <div class="tag">📊 Gevorderd</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Plin met Brasato-Rund, Krenten-Jus en Hazelnoot-Crumble — Mammoliti-Stijl</div>
+  <div class="recipe-desc">La Rei Natura&#x27;s handtekening uit Piëmont: handgevouwen plin gevuld met langzaam gestoofd rund in een donkere krentenjus van Barolo, balsamico en geroosterde hazelnoot-crumble.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 3½ uur (1 uur actief)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gevorderd</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor het pasta-deeg</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200g">200g</span><span class="ing-name">tipo 00-bloem</span></li><li><span class="ing-amount" data-basis="80g">80g</span><span class="ing-name">semola rimacinata (fijn gemalen durum — bij Italiaanse deli)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">hele eieren</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">extra eierdooiers</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">olijfolie (als het deeg te droog is — optioneel)</span></li></ul><h3 class="ing-group-title">Voor de brasato-vulling</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="400g">400g</span><span class="ing-name">runderwang (bij de slager; alternatief: sukade)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ui, fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine wortel, fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">stengel bleekselderij, fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">teentje knoflook, gekneusd</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geconcentreerde tomatenpuree</span></li><li><span class="ing-amount" data-basis="350ml">350ml</span><span class="ing-name">Barolo, Nebbiolo, Barbera of stevige Italiaanse rode wijn</span></li><li><span class="ing-amount" data-basis="200ml">200ml</span><span class="ing-name">runderbouillon</span></li><li><span class="ing-amount" data-basis="1 elk">1 elk</span><span class="ing-name">laurierblad + takje rozemarijn + takje tijm</span></li><li><span class="ing-amount" data-basis="30g">30g</span><span class="ing-name">Parmigiano Reggiano, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">eidooier</span></li></ul><h3 class="ing-group-title">Voor de krenten-brasatojus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">gezeefde en gereduceerde braadvocht (ca. 180–200ml)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">krenten of kleine rozijnen</span></li><li><span class="ing-amount" data-basis="30ml">30ml</span><span class="ing-name">rode wijn of Marsala (om de krenten in te weken)</span></li><li><span class="ing-amount" data-basis="20g">20g</span><span class="ing-name">ijskoude roomboter (montage)</span></li><li><span class="ing-amount" data-basis="paar druppels">paar druppels</span><span class="ing-name">rode wijnazijn of balsamico</span></li></ul><h3 class="ing-group-title">Voor de hazelnoot-crumble</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="60g">60g</span><span class="ing-name">hazelnoten (Tonda Gentile delle Langhe IGP bij delicatessen)</span></li><li><span class="ing-amount" data-basis="15g">15g</span><span class="ing-name">tipo 00-bloem</span></li><li><span class="ing-amount" data-basis="15g">15g</span><span class="ing-name">koude ongezouten roomboter</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zeezout</span></li></ul><h3 class="ing-group-title">Afwerking (mantecatura)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="30g">30g</span><span class="ing-name">ijskoude ongezouten roomboter, in blokjes</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">verse tijmblaadjes</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Parmigiano Reggiano, vers geraspt</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Brasato (dag eerder of 3 uur vooruit)</strong><p>Runderwang rondom droogdeppen. Royaal aanbraden in olijfolie op hoog vuur — alle kanten diepbruin. Apart leggen. In dezelfde pan ui, wortel, selderij en knoflook — 8–10 minuten zacht fruiten. Tomatenpuree erbij, 2 minuten meebakken. Vlees terug. Wijn + bouillon + laurier + rozemarijn + tijm. Aan de kook, deksel erop. Oven 140°C, 2½ uur (sukade: 3 uur) tot het vlees uit elkaar valt.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Vulling maken</strong><p>Vlees eruit halen, laten afkoelen. Met twee vorken tot fijne draadjes trekken — niet tot puree hakken, de textuur is belangrijk. Braadvocht door een fijne zeef. In een kleine pan inkoken tot ca. 180–200ml — donker, glanzend en stroperig. Vleesdraadjes mengen met 3–4 el ingekookte jus, Parmigiano en eidooier. Op smaak. 30 minuten koud zetten.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Pasta-deeg en hazelnoot-crumble</strong><p>Deeg: bloem en semola mengen met zout. Kuil in het midden. Eieren en dooiers erin. 8–10 minuten kneden tot glad en elastisch. In folie, 30 minuten rusten. Crumble: hazelnoten 8–10 minuten roosteren op 170°C, vellen eraf wrijven, grof hakken. Bloem, koude boter, zout en eventueel Parmigiano tot grove kruimels wrijven. Hazelnoten erdoor. Op bakpapier, 160°C, 10–12 minuten tot goudbruin.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Plin vouwen</strong><p>Deeg uitrollen op pastamachine tot stand 7–8 — zo dun dat je er vaag doorheen kunt kijken. Kleine bolletjes vulling van ½–1 tl in een rechte rij, 2cm tussenruimte, op de onderste helft van de deegstrook. Bovenste helft erover vouwen. Lucht eruit drukken. Tussen elke bolletje stevig knijpen met duim en wijsvinger — dit is de &#x27;plin&#x27;, de knijp. Snijden met pastawieltje. Op bebloem bakplaat bewaren.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Krenten-brasatojus</strong><p>Krenten 10 minuten weken in rode wijn of Marsala. Krenten + weekvocht toevoegen aan de ingekookte brasatojus. 3–4 minuten zacht laten trekken. Van het vuur: ijskoude boterblokjes één voor één erdoor kloppen (monter au beurre). Paar druppels rodewijnazijn of balsamico, zwarte peper. De jus moet donker, wijnachtig en licht zoet zijn.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Koken en mantecatura</strong><p>Plin 2–3 minuten koken in royaal gezouten water tot ze drijven. 3 el kookwater bewaren. Tegelijk: 30g boter smelten met tijm in een brede pan. Paar lepels krentenjus toevoegen. Plin direct uit het water in de pan — niet afspoelen. 30–45 seconden al bewegend wentelen, pastawater toevoegen voor zijdezachte consistentie. Warme diepe kommen. Plin opscheppen. Krentenjus eromheen. Hazelnoot-crumble in kleine hoopjes. Parmigiano raspen. Tijmblaadjes.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Krenten als finishing, niet als stoofingredient:</strong> Weken in wijn en allerlaatst door de ingekookte jus — dan behouden ze hun vorm en geven ze een subtiele zoet-zure echo. Lang meekoken geeft rozijnenpap.</div><div class="tip-item"><strong>Runderwang vs. sukade:</strong> Runderwang is gelatinerijker en geeft een romigere vulling. Sukade is makkelijker te vinden. Beiden werken uitstekend.</div><div class="tip-item"><strong>Barolo hoeft niet per se:</strong> Gebruik liever een goede Barbera of Nebbiolo die je lekker vindt dan een dure Barolo die je liever drinkt. De kooktijd haalt de beste kwaliteiten weg.</div><div class="tip-item"><strong>Plin zijn klein:</strong> Één elegante hap, twee centimeter breedte is het maximum. Te groot wordt het gewone ravioli.</div><div class="tip-item"><strong>Mantecatura:</strong> Al bewegend emulsioneren van pasta + jus + pastawater is het verschil tussen een natte pasta en een zijdezachte saus die kleeft.</div><div class="tip-item"><strong>Hazelnoot-crumble doseren:</strong> Krachtig van smaak. Gebruik als accent voor crunch en geur — niet als deklaag. Een klein hoopje per bord.</div><div class="tip-item"><strong>Invriezen:</strong> Plin in één laag bevriezen op bebloem bakplaat. Na 2 uur in zakje. Direct bevroren koken — 1 minuut extra.</div><div class="tip-item"><strong>Piemontese hazelnoten:</strong> Tonda Gentile delle Langhe IGP — bij Italiaanse delicatessen of online. De smaak is merkbaar beter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor het pasta-deeg</div><div class="ing-row"><span>tipo 00-bloem</span><span class="ing-amount" data-basis="200g">200g</span></div><div class="ing-row"><span>semola rimacinata (fijn gemalen durum — bij Italiaanse deli)</span><span class="ing-amount" data-basis="80g">80g</span></div><div class="ing-row"><span>hele eieren</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>extra eierdooiers</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-row"><span>olijfolie (als het deeg te droog is — optioneel)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Voor de brasato-vulling</div><div class="ing-row"><span>runderwang (bij de slager; alternatief: sukade)</span><span class="ing-amount" data-basis="400g">400g</span></div><div class="ing-row"><span>ui, fijn gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>kleine wortel, fijn gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>stengel bleekselderij, fijn gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>teentje knoflook, gekneusd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>geconcentreerde tomatenpuree</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Barolo, Nebbiolo, Barbera of stevige Italiaanse rode wijn</span><span class="ing-amount" data-basis="350ml">350ml</span></div><div class="ing-row"><span>runderbouillon</span><span class="ing-amount" data-basis="200ml">200ml</span></div><div class="ing-row"><span>laurierblad + takje rozemarijn + takje tijm</span><span class="ing-amount" data-basis="1 elk">1 elk</span></div><div class="ing-row"><span>Parmigiano Reggiano, fijn geraspt</span><span class="ing-amount" data-basis="30g">30g</span></div><div class="ing-row"><span>eidooier</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Voor de krenten-brasatojus</div><div class="ing-row"><span>gezeefde en gereduceerde braadvocht (ca. 180–200ml)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>krenten of kleine rozijnen</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>rode wijn of Marsala (om de krenten in te weken)</span><span class="ing-amount" data-basis="30ml">30ml</span></div><div class="ing-row"><span>ijskoude roomboter (montage)</span><span class="ing-amount" data-basis="20g">20g</span></div><div class="ing-row"><span>rode wijnazijn of balsamico</span><span class="ing-amount" data-basis="paar druppels">paar druppels</span></div><div class="ing-cat">Voor de hazelnoot-crumble</div><div class="ing-row"><span>hazelnoten (Tonda Gentile delle Langhe IGP bij delicatessen)</span><span class="ing-amount" data-basis="60g">60g</span></div><div class="ing-row"><span>tipo 00-bloem</span><span class="ing-amount" data-basis="15g">15g</span></div><div class="ing-row"><span>koude ongezouten roomboter</span><span class="ing-amount" data-basis="15g">15g</span></div><div class="ing-row"><span>zeezout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Afwerking (mantecatura)</div><div class="ing-row"><span>ijskoude ongezouten roomboter, in blokjes</span><span class="ing-amount" data-basis="30g">30g</span></div><div class="ing-row"><span>verse tijmblaadjes</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>Parmigiano Reggiano, vers geraspt</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Brasato (dag eerder of 3 uur vooruit)</strong><br>Runderwang rondom droogdeppen. Royaal aanbraden in olijfolie op hoog vuur — alle kanten diepbruin. Apart leggen. In dezelfde pan ui, wortel, selderij en knoflook — 8–10 minuten zacht fruiten. Tomatenpuree erbij, 2 minuten meebakken. Vlees terug. Wijn + bouillon + laurier + rozemarijn + tijm. Aan de kook, deksel erop. Oven 140°C, 2½ uur (sukade: 3 uur) tot het vlees uit elkaar valt.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Vulling maken</strong><br>Vlees eruit halen, laten afkoelen. Met twee vorken tot fijne draadjes trekken — niet tot puree hakken, de textuur is belangrijk. Braadvocht door een fijne zeef. In een kleine pan inkoken tot ca. 180–200ml — donker, glanzend en stroperig. Vleesdraadjes mengen met 3–4 el ingekookte jus, Parmigiano en eidooier. Op smaak. 30 minuten koud zetten.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Pasta-deeg en hazelnoot-crumble</strong><br>Deeg: bloem en semola mengen met zout. Kuil in het midden. Eieren en dooiers erin. 8–10 minuten kneden tot glad en elastisch. In folie, 30 minuten rusten. Crumble: hazelnoten 8–10 minuten roosteren op 170°C, vellen eraf wrijven, grof hakken. Bloem, koude boter, zout en eventueel Parmigiano tot grove kruimels wrijven. Hazelnoten erdoor. Op bakpapier, 160°C, 10–12 minuten tot goudbruin.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Plin vouwen</strong><br>Deeg uitrollen op pastamachine tot stand 7–8 — zo dun dat je er vaag doorheen kunt kijken. Kleine bolletjes vulling van ½–1 tl in een rechte rij, 2cm tussenruimte, op de onderste helft van de deegstrook. Bovenste helft erover vouwen. Lucht eruit drukken. Tussen elke bolletje stevig knijpen met duim en wijsvinger — dit is de &#x27;plin&#x27;, de knijp. Snijden met pastawieltje. Op bebloem bakplaat bewaren.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Krenten-brasatojus</strong><br>Krenten 10 minuten weken in rode wijn of Marsala. Krenten + weekvocht toevoegen aan de ingekookte brasatojus. 3–4 minuten zacht laten trekken. Van het vuur: ijskoude boterblokjes één voor één erdoor kloppen (monter au beurre). Paar druppels rodewijnazijn of balsamico, zwarte peper. De jus moet donker, wijnachtig en licht zoet zijn.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Koken en mantecatura</strong><br>Plin 2–3 minuten koken in royaal gezouten water tot ze drijven. 3 el kookwater bewaren. Tegelijk: 30g boter smelten met tijm in een brede pan. Paar lepels krentenjus toevoegen. Plin direct uit het water in de pan — niet afspoelen. 30–45 seconden al bewegend wentelen, pastawater toevoegen voor zijdezachte consistentie. Warme diepe kommen. Plin opscheppen. Krentenjus eromheen. Hazelnoot-crumble in kleine hoopjes. Parmigiano raspen. Tijmblaadjes.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Krenten als finishing, niet als stoofingredient:</strong> Weken in wijn en allerlaatst door de ingekookte jus — dan behouden ze hun vorm en geven ze een subtiele zoet-zure echo. Lang meekoken geeft rozijnenpap.</p><p><strong>Runderwang vs. sukade:</strong> Runderwang is gelatinerijker en geeft een romigere vulling. Sukade is makkelijker te vinden. Beiden werken uitstekend.</p><p><strong>Barolo hoeft niet per se:</strong> Gebruik liever een goede Barbera of Nebbiolo die je lekker vindt dan een dure Barolo die je liever drinkt. De kooktijd haalt de beste kwaliteiten weg.</p><p><strong>Plin zijn klein:</strong> Één elegante hap, twee centimeter breedte is het maximum. Te groot wordt het gewone ravioli.</p><p><strong>Mantecatura:</strong> Al bewegend emulsioneren van pasta + jus + pastawater is het verschil tussen een natte pasta en een zijdezachte saus die kleeft.</p><p><strong>Hazelnoot-crumble doseren:</strong> Krachtig van smaak. Gebruik als accent voor crunch en geur — niet als deklaag. Een klein hoopje per bord.</p><p><strong>Invriezen:</strong> Plin in één laag bevriezen op bebloem bakplaat. Na 2 uur in zakje. Direct bevroren koken — 1 minuut extra.</p><p><strong>Piemontese hazelnoten:</strong> Tonda Gentile delle Langhe IGP — bij Italiaanse delicatessen of online. De smaak is merkbaar beter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Barolo DOCG — Serralunga d&#x27;Alba of La Morra, Piëmont, Italië</div>
-        <div class="wine-druif">Nebbiolo</div>
-        <p class="wine-toe">De Barolo die in de brasato zat past ook het best bij de krentenjus en de hazelnoot-crumble. De stevige tannines geven structuur, de roos- en kerentoon spiegelt de krenten. De wijn in het gerecht én in het glas. Serveer op 18°C.</p>
-        <div class="wine-alt">Alternatief: Barbaresco DOCG (Nebbiolo) of Dolcetto d&#x27;Alba DOC</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Barolo DOCG — Serralunga d&#x27;Alba of La Morra, Piëmont, Italië</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Nebbiolo</span>
     </div>
+    <p class="wine-toelichting">De Barolo die in de brasato zat past ook het best bij de krentenjus en de hazelnoot-crumble. De stevige tannines geven structuur, de roos- en kerentoon spiegelt de krenten. De wijn in het gerecht én in het glas. Serveer op 18°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Barbaresco DOCG (Nebbiolo) of Dolcetto d&#x27;Alba DOC</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten of 2 royale hoofdgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

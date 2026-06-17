@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Jakarta</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Gamba met sambal toatjo — dunne sambalsaus, fris komkommeraccent en citrusolie</h1>
-      <p class="recipe-intro">Sappige pan-seared gambas op een dunne, glanzende sambal toatjo-saus van gefermenteerde sojabonen, ketjap manis en kippenbouillon. Licht, hartig, licht pittig en vol umami. Fris komkommeraccent met lente-ui en koriander als tegenwicht.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 35 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten (3 gambas pp)</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Indonesisch</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Gamba met sambal toatjo — dunne sambalsaus, fris komkommeraccent en citrusolie</div>
+  <div class="recipe-desc">Sappige pan-seared gambas op een dunne, glanzende sambal toatjo-saus van gefermenteerde sojabonen, ketjap manis en kippenbouillon. Licht, hartig, licht pittig en vol umami. Fris komkommeraccent met lente-ui en koriander als tegenwicht.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 35 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Indonesisch</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de gambas</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="12">12</span><span class="ing-name">grote rauwe gambas (gepeld, ontdarmd, staartje aan)</span></li><li><span class="ing-amount" data-basis="1 el + 15 g">1 el + 15 g</span><span class="ing-name">neutrale olie + roomboter (aan het einde) + zout en witte peper</span></li></ul><h3 class="ing-group-title">Voor de dunne sambal toatjo-saus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">neutrale olie</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">sjalot, zeer fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="1 + 1 tl">1 + 1 tl</span><span class="ing-name">teentje knoflook, fijn gehakt + geraspte verse gember</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">taotjo (gefermenteerde gele sojabonen — toko of Aziatische supermarkt), fijn gehakt</span></li><li><span class="ing-amount" data-basis="1 tl + 1 tl">1 tl + 1 tl</span><span class="ing-name">sambal oelek + tomatenpuree</span></li><li><span class="ing-amount" data-basis="150 ml">150 ml</span><span class="ing-name">lichte kippenbouillon</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">ketjap manis (essentieel — geeft zoet-hartige Indonesische diepte)</span></li><li><span class="ing-amount" data-basis="1 tl + ½ tl + 1 tl">1 tl + ½ tl + 1 tl</span><span class="ing-name">lichte sojasaus + suiker + limoensap (aan het einde)</span></li><li><span class="ing-amount" data-basis="½ tl in 1 tl">½ tl in 1 tl</span><span class="ing-name">eventueel: maizena in koud water voor heel lichte binding</span></li></ul><h3 class="ing-group-title">Voor het frisse komkommeraccent</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">komkommer (zaadjes verwijderd, in dunne linten of halve maantjes)</span></li><li><span class="ing-amount" data-basis="2 + 1">2 + 1</span><span class="ing-name">lente-uitjes in schuine ringen + rode prik in dunne ringen</span></li><li><span class="ing-amount" data-basis="enkele + 1 tl">enkele + 1 tl</span><span class="ing-name">verse korianderblaadjes + rijstazijn + snuf zout en suiker</span></li></ul><h3 class="ing-group-title">Voor de citrusolie</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3 el + ½ tl">3 el + ½ tl</span><span class="ing-name">sap en rasp van 1 limoen + neutrale/milde olijfolie + suiker + snuf zout</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">microgreens of waterkers, extra limoenzeste, eventueel druppels chiliolie</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus</strong><p>olie in pan. Sjalot, knoflook en gember 1–2 minuten fruiten. Taotjo, sambal en tomatenpuree toevoegen. 1 minuut meebakken. Bouillon, ketjap, sojasaus en suiker toevoegen. 5–6 minuten zacht trekken. Limoensap als allerlaatste. Op smaak brengen. Eventueel licht binden.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Komkommeraccent</strong><p>komkommer + rijstazijn + zout + suiker mengen. Lente-ui, rode prik en koriander toevoegen. 15 minuten marineren in koelkast.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Citrusolie</strong><p>limoensap + limoenrasp + olie + suiker + zout kloppen tot lichte aromatische dressing.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Gambas bakken</strong><p>grondig droogdeppen. Op smaak met zout en witte peper. Pan op hoog vuur. Olie erin. Gambas 45–60 SECONDEN per kant — exact. Boter toevoegen de laatste 15 seconden. Direct uit pan.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Opbouw</strong><p>dunne laag warme saus op bord. 3 gambas erop. Komkommeraccent naast de gambas. Citrusolie rondom druppelen. Microgreens, limoenzeste en chiliolie als finishing.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>45–60 seconden per kant:</strong> de enige regel voor gambas. Verschil tussen sappig en rubberig is letterlijk één minuut.</div><div class="tip-item"><strong>Taotjo-balans:</strong> taotjo is zout en gefermenteerd. Begin met minder en voeg meer toe. Te veel maakt de saus zwaar en dominant.</div><div class="tip-item"><strong>Saus dun houden:</strong> de saus is een hartige bouillonachtige drager — geen dikke sambalsaus. Gambas zijn de hoofdrol.</div><div class="tip-item"><strong>Komkommer is essentieel:</strong> het frisse knapperige accent tilt het zoute en pittige van de saus omhoog.</div><div class="tip-item"><strong>Variatie — kokosmelk:</strong> voeg 2 el kokosmelk toe voor een zachtere, romigere versie. Minder puur maar lekker in de winter.</div><div class="tip-item"><strong>Variatie — langoustines:</strong> vervang gambas door langoustines voor een luxere, verfijndere versie.</div><div class="tip-item"><strong>Alternatief taotjo:</strong> 2 el shiro miso + 1 el lichte sojasaus. Minder complex maar vergelijkbare fermentatie-umami.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de gambas</div><div class="ing-row"><span>grote rauwe gambas (gepeld, ontdarmd, staartje aan)</span><span class="ing-amount" data-basis="12">12</span></div><div class="ing-row"><span>neutrale olie + roomboter (aan het einde) + zout en witte peper</span><span class="ing-amount" data-basis="1 el + 15 g">1 el + 15 g</span></div><div class="ing-cat">Voor de dunne sambal toatjo-saus</div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>sjalot, zeer fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>teentje knoflook, fijn gehakt + geraspte verse gember</span><span class="ing-amount" data-basis="1 + 1 tl">1 + 1 tl</span></div><div class="ing-row"><span>taotjo (gefermenteerde gele sojabonen — toko of Aziatische supermarkt), fijn gehakt</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>sambal oelek + tomatenpuree</span><span class="ing-amount" data-basis="1 tl + 1 tl">1 tl + 1 tl</span></div><div class="ing-row"><span>lichte kippenbouillon</span><span class="ing-amount" data-basis="150 ml">150 ml</span></div><div class="ing-row"><span>ketjap manis (essentieel — geeft zoet-hartige Indonesische diepte)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>lichte sojasaus + suiker + limoensap (aan het einde)</span><span class="ing-amount" data-basis="1 tl + ½ tl + 1 tl">1 tl + ½ tl + 1 tl</span></div><div class="ing-row"><span>eventueel: maizena in koud water voor heel lichte binding</span><span class="ing-amount" data-basis="½ tl in 1 tl">½ tl in 1 tl</span></div><div class="ing-cat">Voor het frisse komkommeraccent</div><div class="ing-row"><span>komkommer (zaadjes verwijderd, in dunne linten of halve maantjes)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>lente-uitjes in schuine ringen + rode prik in dunne ringen</span><span class="ing-amount" data-basis="2 + 1">2 + 1</span></div><div class="ing-row"><span>verse korianderblaadjes + rijstazijn + snuf zout en suiker</span><span class="ing-amount" data-basis="enkele + 1 tl">enkele + 1 tl</span></div><div class="ing-cat">Voor de citrusolie</div><div class="ing-row"><span>sap en rasp van 1 limoen + neutrale/milde olijfolie + suiker + snuf zout</span><span class="ing-amount" data-basis="3 el + ½ tl">3 el + ½ tl</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>microgreens of waterkers, extra limoenzeste, eventueel druppels chiliolie</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus</strong><br>olie in pan. Sjalot, knoflook en gember 1–2 minuten fruiten. Taotjo, sambal en tomatenpuree toevoegen. 1 minuut meebakken. Bouillon, ketjap, sojasaus en suiker toevoegen. 5–6 minuten zacht trekken. Limoensap als allerlaatste. Op smaak brengen. Eventueel licht binden.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Komkommeraccent</strong><br>komkommer + rijstazijn + zout + suiker mengen. Lente-ui, rode prik en koriander toevoegen. 15 minuten marineren in koelkast.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Citrusolie</strong><br>limoensap + limoenrasp + olie + suiker + zout kloppen tot lichte aromatische dressing.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Gambas bakken</strong><br>grondig droogdeppen. Op smaak met zout en witte peper. Pan op hoog vuur. Olie erin. Gambas 45–60 SECONDEN per kant — exact. Boter toevoegen de laatste 15 seconden. Direct uit pan.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Opbouw</strong><br>dunne laag warme saus op bord. 3 gambas erop. Komkommeraccent naast de gambas. Citrusolie rondom druppelen. Microgreens, limoenzeste en chiliolie als finishing.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>45–60 seconden per kant:</strong> de enige regel voor gambas. Verschil tussen sappig en rubberig is letterlijk één minuut.</p><p><strong>Taotjo-balans:</strong> taotjo is zout en gefermenteerd. Begin met minder en voeg meer toe. Te veel maakt de saus zwaar en dominant.</p><p><strong>Saus dun houden:</strong> de saus is een hartige bouillonachtige drager — geen dikke sambalsaus. Gambas zijn de hoofdrol.</p><p><strong>Komkommer is essentieel:</strong> het frisse knapperige accent tilt het zoute en pittige van de saus omhoog.</p><p><strong>Variatie — kokosmelk:</strong> voeg 2 el kokosmelk toe voor een zachtere, romigere versie. Minder puur maar lekker in de winter.</p><p><strong>Variatie — langoustines:</strong> vervang gambas door langoustines voor een luxere, verfijndere versie.</p><p><strong>Alternatief taotjo:</strong> 2 el shiro miso + 1 el lichte sojasaus. Minder complex maar vergelijkbare fermentatie-umami.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Assyrtiko — Santorini</div>
-        <div class="wine-druif">Assyrtiko</div>
-        <p class="wine-toe">Droog, hoge zuurgraad, vulkanisch mineraal, licht ziltig, citrus. Vulkanische mineraliteit en hoge zuren snijden door rijkdom van taotjo-saus en boter. Zilte karakter resoneert direct met de gamba.</p>
-        <div class="wine-alt">Alternatief: Picpoul de Pinet of Godello (Galicië)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Assyrtiko — Santorini</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Assyrtiko</span>
     </div>
+    <p class="wine-toelichting">Droog, hoge zuurgraad, vulkanisch mineraal, licht ziltig, citrus. Vulkanische mineraliteit en hoge zuren snijden door rijkdom van taotjo-saus en boter. Zilte karakter resoneert direct met de gamba.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Picpoul de Pinet of Godello (Galicië)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten (3 gambas pp)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

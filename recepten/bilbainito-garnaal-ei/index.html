@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Bilbao</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Bilbainito — garnaal en ei op tandenstoker</h1>
-      <p class="recipe-intro">De iconische Bilbao-pintxo uit de jaren &#x27;60 — garnaal en hardgekookt ei op een tandenstoker met mayo en geraspt ei.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 25 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">6</span> pintxos</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="6" step="1">
-      </div>
+  <div class="recipe-title">Bilbainito — garnaal en ei op tandenstoker</div>
+  <div class="recipe-desc">De iconische Bilbao-pintxo uit de jaren &#x27;60 — garnaal en hardgekookt ei op een tandenstoker met mayo en geraspt ei.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 25 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">6</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Pintxo</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">grote garnalen, gepeld en gekookt</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">hardgekookte eieren</span></li></ul><h3 class="ing-group-title">Mayonaise</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">ei, kamertemperatuur</span></li><li><span class="ing-amount" data-basis="180 ml">180 ml</span><span class="ing-name">zonnebloemolie</span></li><li><span class="ing-amount" data-basis="10 ml">10 ml</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">zout</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Eieren koken</strong><p>kook de eieren 12 minuten op zacht vuur. Koel direct af. Pel 3 eieren en snijd in de lengte doormidden. Het 4e ei rasp je later.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Garnalen koken</strong><p>kook de garnalen 2 minuten in zwaar gezouten water. Direct in ijsbad. Laat afkoelen en pel.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Mayo maken</strong><p>mix ei, citroensap en zout in een hoge beker. Voeg langzaam olie toe met staafmixer tot dikke mayo. Zet koud.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Prik en garneer</strong><p>prik met een tandenstoker eerst een garnaal en dan een half ei. Spuit mayonaise erop. Rasp het overgebleven ei fijn over alle pintxos. Serveer koel of op kamertemperatuur.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">de mayonaise een dag van tevoren maken — hij wordt ronder en steviger. Bewaar koud en roer kort los voor gebruik.</div><div class="tip-item"><strong>Techniek:</strong> gebruik een spuitzak met gekarteld mondstuk voor de mayo — dat geeft elk bilbainito een retro maar strak gepresenteerd uiterlijk.</div><div class="tip-item"><strong>Presentatie:</strong> serveer op een licht bevroren leisteen of marmeren plaat — de kou houdt de garnalen en mayo koel en maakt de presentatie visueel indrukwekkend.</div><div class="tip-item"><strong>Variatie:</strong> vervang de mayonaise door sriracha-mayo voor een modern Japanse twist, of voeg foreleitjes toe bovenop voor een luxe upgrade.</div><div class="tip-item"><strong>Alternatief:</strong> geen verse garnalen? Gebruik diepvriesgarnalen — volledig ontdooien in de koelkast, droogdeppen en koud houden tot serveren.</div><div class="tip-item"><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div><div class="tip-item"><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Pintxo</div><div class="ing-row"><span>grote garnalen, gepeld en gekookt</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>hardgekookte eieren</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-cat">Mayonaise</div><div class="ing-row"><span>ei, kamertemperatuur</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>zonnebloemolie</span><span class="ing-amount" data-basis="180 ml">180 ml</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="10 ml">10 ml</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Eieren koken</strong><br>kook de eieren 12 minuten op zacht vuur. Koel direct af. Pel 3 eieren en snijd in de lengte doormidden. Het 4e ei rasp je later.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Garnalen koken</strong><br>kook de garnalen 2 minuten in zwaar gezouten water. Direct in ijsbad. Laat afkoelen en pel.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Mayo maken</strong><br>mix ei, citroensap en zout in een hoge beker. Voeg langzaam olie toe met staafmixer tot dikke mayo. Zet koud.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Prik en garneer</strong><br>prik met een tandenstoker eerst een garnaal en dan een half ei. Spuit mayonaise erop. Rasp het overgebleven ei fijn over alle pintxos. Serveer koel of op kamertemperatuur.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>de mayonaise een dag van tevoren maken — hij wordt ronder en steviger. Bewaar koud en roer kort los voor gebruik.</p><p><strong>Techniek:</strong> gebruik een spuitzak met gekarteld mondstuk voor de mayo — dat geeft elk bilbainito een retro maar strak gepresenteerd uiterlijk.</p><p><strong>Presentatie:</strong> serveer op een licht bevroren leisteen of marmeren plaat — de kou houdt de garnalen en mayo koel en maakt de presentatie visueel indrukwekkend.</p><p><strong>Variatie:</strong> vervang de mayonaise door sriracha-mayo voor een modern Japanse twist, of voeg foreleitjes toe bovenop voor een luxe upgrade.</p><p><strong>Alternatief:</strong> geen verse garnalen? Gebruik diepvriesgarnalen — volledig ontdooien in de koelkast, droogdeppen en koud houden tot serveren.</p><p><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p><p><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Rode vermout (Marianito)</div>
-        <div class="wine-druif">Blend</div>
-        <p class="wine-toe">In Bilbao drinken ze bij de bilbainito traditioneel een Marianito — een glas rode vermout met ijs, een schijfje sinaasappel en een olijf. De licht zoete, kruidige bitterheid van rode vermout sluit aan bij de cocktailsaus en de rijke mayo, terwijl de citrusnoten de garnalen opfrissen. Het is geen wijnkeuze maar een culturele keuze — en dat maakt het authentiek. De bitterheid van de vermout reinigt de mond perfect na elk hapje. Serveer op ijs met een schijfje sinaasappel.</p>
-        <div class="wine-alt">Alternatief: Cava Brut Rosé — de fijne bellen en lichte roodfruit spiegelen de cocktailsaus</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Rode vermout (Marianito)</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Blend</span>
     </div>
+    <p class="wine-toelichting">In Bilbao drinken ze bij de bilbainito traditioneel een Marianito — een glas rode vermout met ijs, een schijfje sinaasappel en een olijf. De licht zoete, kruidige bitterheid van rode vermout sluit aan bij de cocktailsaus en de rijke mayo, terwijl de citrusnoten de garnalen opfrissen. Het is geen wijnkeuze maar een culturele keuze — en dat maakt het authentiek. De bitterheid van de vermout reinigt de mond perfect na elk hapje. Serveer op ijs met een schijfje sinaasappel.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Cava Brut Rosé — de fijne bellen en lichte roodfruit spiegelen de cocktailsaus</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('6 pintxos');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Madrid</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Huevos rotos con jamón — gebroken eieren met ham</h1>
-      <p class="recipe-intro">Krokante aardappelschijfjes met gebakken eieren die je breekt zodat de dooier over alles stroomt, met Ibérico ham.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 25 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Huevos rotos con jamón — gebroken eieren met ham</div>
+  <div class="recipe-desc">Krokante aardappelschijfjes met gebakken eieren die je breekt zodat de dooier over alles stroomt, met Ibérico ham.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 25 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Aardappelen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="600 g">600 g</span><span class="ing-name">vastkokende aardappelen, in dunne schijfjes</span></li><li><span class="ing-amount" data-basis="500 ml">500 ml</span><span class="ing-name">zonnebloemolie voor frituren</span></li><li><span class="ing-amount" data-basis="2 tl">2 tl</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Eieren en ham</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8">8</span><span class="ing-name">verse eieren</span></li><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">Ibérico ham of Jamón serrano, flinterdun gesneden</span></li><li><span class="ing-amount" data-basis="45 ml">45 ml</span><span class="ing-name">olijfolie om eieren in te bakken</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Aardappelen frituren</strong><p>verhit olie op 160°C. Frituur de aardappelschijfjes 5-6 minuten tot gaar en licht goudgeel. Schep op keukenpapier en bestrooi met zout.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Eieren bakken</strong><p>bak de eieren in olijfolie op middelhoog vuur — eiwit gestold maar dooier volledig vloeibaar.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveer en breek</strong><p>verdeel warme aardappelschijfjes over diepe borden. Leg gebakken eieren erop. Leg ham erover. Breek de eieren direct aan tafel met een vork. Serveer direct.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">leg de ham koud op het hete gerecht — die warmt vanzelf op en wordt licht krokant zonder uit te drogen.</div><div class="tip-item"><strong>Techniek:</strong> het geheim van huevos rotos is timing — de patatas moeten gloeiend heet zijn als het ei erbovenop breekt zodat het eigeel direct begint te garen aan het oppervlak.</div><div class="tip-item"><strong>Presentatie:</strong> breek het ei spectaculair aan tafel — dat is onderdeel van de ervaring en maakt het gerecht interactief en memorabel.</div><div class="tip-item"><strong>Variatie:</strong> vervang jamon serrano door chorizo fresco voor een pittigere versie, of voeg een dot trufficrème toe voor luxe diepte.</div><div class="tip-item"><strong>Alternatief:</strong> geen verse aardappels? Gebruik kant-en-klare chips — leg ze dik in een laag, schenk er hete olie over en bak het ei erop. Niet hetzelfde maar verrassend goed.</div><div class="tip-item"><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item"><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Aardappelen</div><div class="ing-row"><span>vastkokende aardappelen, in dunne schijfjes</span><span class="ing-amount" data-basis="600 g">600 g</span></div><div class="ing-row"><span>zonnebloemolie voor frituren</span><span class="ing-amount" data-basis="500 ml">500 ml</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="2 tl">2 tl</span></div><div class="ing-cat">Eieren en ham</div><div class="ing-row"><span>verse eieren</span><span class="ing-amount" data-basis="8">8</span></div><div class="ing-row"><span>Ibérico ham of Jamón serrano, flinterdun gesneden</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>olijfolie om eieren in te bakken</span><span class="ing-amount" data-basis="45 ml">45 ml</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Aardappelen frituren</strong><br>verhit olie op 160°C. Frituur de aardappelschijfjes 5-6 minuten tot gaar en licht goudgeel. Schep op keukenpapier en bestrooi met zout.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Eieren bakken</strong><br>bak de eieren in olijfolie op middelhoog vuur — eiwit gestold maar dooier volledig vloeibaar.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveer en breek</strong><br>verdeel warme aardappelschijfjes over diepe borden. Leg gebakken eieren erop. Leg ham erover. Breek de eieren direct aan tafel met een vork. Serveer direct.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>leg de ham koud op het hete gerecht — die warmt vanzelf op en wordt licht krokant zonder uit te drogen.</p><p><strong>Techniek:</strong> het geheim van huevos rotos is timing — de patatas moeten gloeiend heet zijn als het ei erbovenop breekt zodat het eigeel direct begint te garen aan het oppervlak.</p><p><strong>Presentatie:</strong> breek het ei spectaculair aan tafel — dat is onderdeel van de ervaring en maakt het gerecht interactief en memorabel.</p><p><strong>Variatie:</strong> vervang jamon serrano door chorizo fresco voor een pittigere versie, of voeg een dot trufficrème toe voor luxe diepte.</p><p><strong>Alternatief:</strong> geen verse aardappels? Gebruik kant-en-klare chips — leg ze dik in een laag, schenk er hete olie over en bak het ei erop. Niet hetzelfde maar verrassend goed.</p><p><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Rioja Joven</div>
-        <div class="wine-druif">Tempranillo</div>
-        <p class="wine-toe">Een jonge, frisse Rioja Joven is de klassieke begeleider bij huevos rotos — het meest Madrileense gerecht dat er bestaat. De levendige rode vruchttonen van kers en braam sluiten aan op de licht gekarameliseerde aardappels; de frisse zuurgraad snijdt door de rijkdom van het eigeel. Zonder houtrijping behoudt de Joven zijn directe, drinkbare karakter — perfect bij dit eerlijke, hartige straateten. In Madrid wordt dit gerecht zelden zonder wijn besteld. Serveer licht gekoeld op 14°C.</p>
-        <div class="wine-alt">Alternatief: Garnacha uit Navarra — fruitiger en ronder, werkt als het gerecht extra pittige ham heeft</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Rioja Joven</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Tempranillo</span>
     </div>
+    <p class="wine-toelichting">Een jonge, frisse Rioja Joven is de klassieke begeleider bij huevos rotos — het meest Madrileense gerecht dat er bestaat. De levendige rode vruchttonen van kers en braam sluiten aan op de licht gekarameliseerde aardappels; de frisse zuurgraad snijdt door de rijkdom van het eigeel. Zonder houtrijping behoudt de Joven zijn directe, drinkbare karakter — perfect bij dit eerlijke, hartige straateten. In Madrid wordt dit gerecht zelden zonder wijn besteld. Serveer licht gekoeld op 14°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Garnacha uit Navarra — fruitiger en ronder, werkt als het gerecht extra pittige ham heeft</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Rome, Italië</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Flinterdunne Krokante Pizza — Scrocchiarella-Stijl — Seu/TAC-Inspiratie</h1>
-      <p class="recipe-intro">Pier Daniele Seu&#x27;s scrocchiarella uit Rome: flinterdun, glasachtig krokant deeg met lage hydratatie, olijfolie als breker en een deegroller — bij elke hap krak-krak-krak.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min actief (plus 24 uur fermentatie aanbevolen; zelfde-dagversie ca. 5 uur totaal)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">2</span> grote pizza&#x27;s van 3-34cm</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="2" step="1">
-      </div>
+  <div class="recipe-title">Flinterdunne Krokante Pizza — Scrocchiarella-Stijl — Seu/TAC-Inspiratie</div>
+  <div class="recipe-desc">Pier Daniele Seu&#x27;s scrocchiarella uit Rome: flinterdun, glasachtig krokant deeg met lage hydratatie, olijfolie als breker en een deegroller — bij elke hap krak-krak-krak.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min actief (plus 24 uur fermentatie aanbevolen; zelfde-dagversie ca. 5 uur totaal)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">2</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Versie 1 — 24 uur koelkast (aanbevolen)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="300g">300g</span><span class="ing-name">tipo 0 of tipo 00 bloem (liefst W 240-280)</span></li><li><span class="ing-amount" data-basis="165g">165g</span><span class="ing-name">koud water (hydratatie 55%)</span></li><li><span class="ing-amount" data-basis="7g">7g</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="11g">11g</span><span class="ing-name">extra vergine olijfolie (3,5%)</span></li><li><span class="ing-amount" data-basis="0,6g">0,6g</span><span class="ing-name">droge gist (of 2g verse gist)</span></li></ul><h3 class="ing-group-title">Versie 2 — Zelfde dag</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="300g">300g</span><span class="ing-name">tipo 0 of tipo 00 bloem</span></li><li><span class="ing-amount" data-basis="168g">168g</span><span class="ing-name">koud water (hydratatie 56%)</span></li><li><span class="ing-amount" data-basis="7g">7g</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="11g">11g</span><span class="ing-name">extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis="1,2g">1,2g</span><span class="ing-name">droge gist (of 4g verse gist)</span></li></ul><h3 class="ing-group-title">Voor beide versies</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">semola rimacinata (voor het uitrollen)</span></li></ul><h3 class="ing-group-title">Topping 1 — Flinterdunne margherita-crunch</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="60-75g">60-75g</span><span class="ing-name">passata of San Marzano-tomaat (goed uitgelekt, dun uitgestreken) — per pizza</span></li><li><span class="ing-amount" data-basis="80-100g">80-100g</span><span class="ing-name">fior di latte mozzarella (goed uitgelekt) — per pizza</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">basilicum (na het bakken — nooit tijdens)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">extra vergine olijfolie (na het bakken)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fleur de sel</span></li></ul><h3 class="ing-group-title">Topping 2 — Mortadella e pistache (Seu-stijl)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">bovenstaande tomatenbasis</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">dunne plakjes mortadella di Bologna (na het bakken)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijngehakte groene pistache</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">druppel olijfolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne citroenrasp (optioneel)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Deeg maken — Versie 1 (24 uur koelkast, aanbevolen)</strong><p>Bloem, water en gist kort mengen tot er geen droge bloem meer zichtbaar is. 20 minuten rusten. Zout toevoegen. 4-5 minuten kneden tot het deeg samenkomt. Olijfolie in drie porties toevoegen — telkens kneden tot volledig opgenomen. 5-7 minuten tot glad en iets steviger dan Napolitaans deeg. 1 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. In licht ingeoliede bakjes. 18-24 uur in de koelkast op 4°C. Bollen 2 uur voor bakken uit de koelkast.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Deeg maken — Versie 2 (zelfde dag)</strong><p>Bloem, water en gist mengen. 15-20 minuten rusten. Zout toevoegen. 4-5 minuten kneden. Olijfolie toevoegen. Kneden tot glad. 2 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. Afdekken. Nog 2-3 uur rijzen op kamertemperatuur.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Vormen</strong><p>Royaal semola op het werkblad. Deegbol platdrukken. Deegroller — van midden naar buiten rollen, regelmatig draaien. Doel: 32-34cm diameter. Midden en rand bijna even dun. Geen Napolitaanse rand. Als het deeg terugveert — even rusten, dan opnieuw rollen. Op pizzaschep of bakpapier leggen.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Bakken in pizzaoven</strong><p>Vloer op 340-360°C — vlam rustig, niet agressief. Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 60-90 seconden voorbakken. Mozzarella goed droogdeppen. In kleine stukken scheuren. Verdelen over de pizza. Nog 3-4 minuten afbakken tot de bodem droog, dun en krokant is. Als de pizza opblaast: prik met een vork in de luchtbel. Direct na de oven: 1 minuut op een rooster. Basilicum, olijfolie, fleur de sel na het bakken.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Bakken in gewone oven</strong><p>Pizzasteen of pizzastaal hoog in de oven plaatsen. Minimaal 45 minuten voorverwarmen op maximale stand (275-300°C). Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 4-5 minuten voorbakken. Mozzarella droogdeppen en toevoegen. Nog 4-6 minuten afbakken tot de bodem stevig en krokant is. 1 minuut op een rooster — ook in de gewone oven verplicht. Basilicum, olijfolie, fleur de sel na het bakken.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Lage hydratatie is de basis:</strong> 55% water vs 65%+ bij Napels. Minder water = minder stoom = krokant. Het deeg voelt iets stijver — dat is correct.</div><div class="tip-item"><strong>Olijfolie als breker:</strong> de olie verzwakt de glutenstructuur net genoeg zodat het deeg als een cracker breekt. Niet weglaten.</div><div class="tip-item"><strong>Deegroller is verplicht:</strong> bij Napels verboden — hier de enige juiste techniek. De roller perst de lucht eruit en geeft een gelijkmatig dunne plaat.</div><div class="tip-item"><strong>Versie 1 is beter:</strong> 24 uur koelkast geeft meer smaak en een droger, beter uitrolbaar deeg. Versie 2 wordt iets broodachtiger maar is nog steeds krokant.</div><div class="tip-item"><strong>Mozzarella de dag ervoor uitlekken:</strong> natte mozzarella geeft stoom en maakt de bodem slap. Dag ervoor in een zeef, voor gebruik droogdeppen.</div><div class="tip-item"><strong>Tomaat spaarzaam:</strong> 60-75g per pizza is genoeg. Te veel tomaat geeft vocht.</div><div class="tip-item"><strong>Voorbakken met tomaat:</strong> de basis droogt in terwijl de korst vormt. Niet overslaan.</div><div class="tip-item"><strong>Rooster na het bakken is niet optioneel:</strong> condensatie op een bord maakt de onderkant slap in 30 seconden.</div><div class="tip-item"><strong>Mortadella en burrata altijd na het bakken:</strong> nooit in de oven — ze verliezen textuur bij hitte.</div><div class="tip-item"><strong>Bak lager en langer:</strong> 500°C is te heet voor dit deeg. 340-360°C is de juiste temperatuur.</div><div class="tip-item"><strong>Definitieve keuze voor maximale krokantheid:</strong> 24 uur fermentatie — 55% water — 3,5% olijfolie — deegroller — 340-360°C pizzaoven — voorbakken met tomaat — na bakken op rooster.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Versie 1 — 24 uur koelkast (aanbevolen)</div><div class="ing-row"><span>tipo 0 of tipo 00 bloem (liefst W 240-280)</span><span class="ing-amount" data-basis="300g">300g</span></div><div class="ing-row"><span>koud water (hydratatie 55%)</span><span class="ing-amount" data-basis="165g">165g</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="7g">7g</span></div><div class="ing-row"><span>extra vergine olijfolie (3,5%)</span><span class="ing-amount" data-basis="11g">11g</span></div><div class="ing-row"><span>droge gist (of 2g verse gist)</span><span class="ing-amount" data-basis="0,6g">0,6g</span></div><div class="ing-cat">Versie 2 — Zelfde dag</div><div class="ing-row"><span>tipo 0 of tipo 00 bloem</span><span class="ing-amount" data-basis="300g">300g</span></div><div class="ing-row"><span>koud water (hydratatie 56%)</span><span class="ing-amount" data-basis="168g">168g</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="7g">7g</span></div><div class="ing-row"><span>extra vergine olijfolie</span><span class="ing-amount" data-basis="11g">11g</span></div><div class="ing-row"><span>droge gist (of 4g verse gist)</span><span class="ing-amount" data-basis="1,2g">1,2g</span></div><div class="ing-cat">Voor beide versies</div><div class="ing-row"><span>semola rimacinata (voor het uitrollen)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Topping 1 — Flinterdunne margherita-crunch</div><div class="ing-row"><span>passata of San Marzano-tomaat (goed uitgelekt, dun uitgestreken) — per pizza</span><span class="ing-amount" data-basis="60-75g">60-75g</span></div><div class="ing-row"><span>fior di latte mozzarella (goed uitgelekt) — per pizza</span><span class="ing-amount" data-basis="80-100g">80-100g</span></div><div class="ing-row"><span>basilicum (na het bakken — nooit tijdens)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>extra vergine olijfolie (na het bakken)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Topping 2 — Mortadella e pistache (Seu-stijl)</div><div class="ing-row"><span>bovenstaande tomatenbasis</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>dunne plakjes mortadella di Bologna (na het bakken)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fijngehakte groene pistache</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>druppel olijfolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fijne citroenrasp (optioneel)</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Deeg maken — Versie 1 (24 uur koelkast, aanbevolen)</strong><br>Bloem, water en gist kort mengen tot er geen droge bloem meer zichtbaar is. 20 minuten rusten. Zout toevoegen. 4-5 minuten kneden tot het deeg samenkomt. Olijfolie in drie porties toevoegen — telkens kneden tot volledig opgenomen. 5-7 minuten tot glad en iets steviger dan Napolitaans deeg. 1 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. In licht ingeoliede bakjes. 18-24 uur in de koelkast op 4°C. Bollen 2 uur voor bakken uit de koelkast.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Deeg maken — Versie 2 (zelfde dag)</strong><br>Bloem, water en gist mengen. 15-20 minuten rusten. Zout toevoegen. 4-5 minuten kneden. Olijfolie toevoegen. Kneden tot glad. 2 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. Afdekken. Nog 2-3 uur rijzen op kamertemperatuur.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Vormen</strong><br>Royaal semola op het werkblad. Deegbol platdrukken. Deegroller — van midden naar buiten rollen, regelmatig draaien. Doel: 32-34cm diameter. Midden en rand bijna even dun. Geen Napolitaanse rand. Als het deeg terugveert — even rusten, dan opnieuw rollen. Op pizzaschep of bakpapier leggen.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Bakken in pizzaoven</strong><br>Vloer op 340-360°C — vlam rustig, niet agressief. Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 60-90 seconden voorbakken. Mozzarella goed droogdeppen. In kleine stukken scheuren. Verdelen over de pizza. Nog 3-4 minuten afbakken tot de bodem droog, dun en krokant is. Als de pizza opblaast: prik met een vork in de luchtbel. Direct na de oven: 1 minuut op een rooster. Basilicum, olijfolie, fleur de sel na het bakken.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Bakken in gewone oven</strong><br>Pizzasteen of pizzastaal hoog in de oven plaatsen. Minimaal 45 minuten voorverwarmen op maximale stand (275-300°C). Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 4-5 minuten voorbakken. Mozzarella droogdeppen en toevoegen. Nog 4-6 minuten afbakken tot de bodem stevig en krokant is. 1 minuut op een rooster — ook in de gewone oven verplicht. Basilicum, olijfolie, fleur de sel na het bakken.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Lage hydratatie is de basis:</strong> 55% water vs 65%+ bij Napels. Minder water = minder stoom = krokant. Het deeg voelt iets stijver — dat is correct.</p><p><strong>Olijfolie als breker:</strong> de olie verzwakt de glutenstructuur net genoeg zodat het deeg als een cracker breekt. Niet weglaten.</p><p><strong>Deegroller is verplicht:</strong> bij Napels verboden — hier de enige juiste techniek. De roller perst de lucht eruit en geeft een gelijkmatig dunne plaat.</p><p><strong>Versie 1 is beter:</strong> 24 uur koelkast geeft meer smaak en een droger, beter uitrolbaar deeg. Versie 2 wordt iets broodachtiger maar is nog steeds krokant.</p><p><strong>Mozzarella de dag ervoor uitlekken:</strong> natte mozzarella geeft stoom en maakt de bodem slap. Dag ervoor in een zeef, voor gebruik droogdeppen.</p><p><strong>Tomaat spaarzaam:</strong> 60-75g per pizza is genoeg. Te veel tomaat geeft vocht.</p><p><strong>Voorbakken met tomaat:</strong> de basis droogt in terwijl de korst vormt. Niet overslaan.</p><p><strong>Rooster na het bakken is niet optioneel:</strong> condensatie op een bord maakt de onderkant slap in 30 seconden.</p><p><strong>Mortadella en burrata altijd na het bakken:</strong> nooit in de oven — ze verliezen textuur bij hitte.</p><p><strong>Bak lager en langer:</strong> 500°C is te heet voor dit deeg. 340-360°C is de juiste temperatuur.</p><p><strong>Definitieve keuze voor maximale krokantheid:</strong> 24 uur fermentatie — 55% water — 3,5% olijfolie — deegroller — 340-360°C pizzaoven — voorbakken met tomaat — na bakken op rooster.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Verdicchio dei Castelli di Jesi Classico Superiore DOC — Le Marche, Italië</div>
-        <div class="wine-druif">Verdicchio</div>
-        <p class="wine-toe">Verdicchio&#x27;s frisse zuren snijden door de olijfolie en mozzarella. De subtiele bitterheid spiegelt de licht verkoolde rand. De zilte mineraliteit past bij de pure, eenvoudige toppings. Regionaal en inhoudelijk de sterkste keuze bij de scrocchiarella.</p>
-        <div class="wine-alt">Alternatief: Frascati Superiore DOC of Cerasuolo d&#x27;Abruzzo DOC (gekoeld)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Verdicchio dei Castelli di Jesi Classico Superiore DOC — Le Marche, Italië</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Verdicchio</span>
     </div>
+    <p class="wine-toelichting">Verdicchio&#x27;s frisse zuren snijden door de olijfolie en mozzarella. De subtiele bitterheid spiegelt de licht verkoolde rand. De zilte mineraliteit past bij de pure, eenvoudige toppings. Regionaal en inhoudelijk de sterkste keuze bij de scrocchiarella.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Frascati Superiore DOC of Cerasuolo d&#x27;Abruzzo DOC (gekoeld)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('2 grote pizza&#x27;s van 32-34cm');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

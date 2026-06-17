@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Murcia</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Ensalada murciana — tomaat, ui, tonijn en ei</h1>
-      <p class="recipe-intro">Frisse Spaanse salade van rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 20 min + 15 min rusten</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Ensalada murciana — tomaat, ui, tonijn en ei</div>
+  <div class="recipe-desc">Frisse Spaanse salade van rijpe tomaten, zoete ui, tonijn, hardgekookt ei en zwarte olijven.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 20 min + 15 min rusten</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Salade</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">rijpe vleestomaten, in partjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">rode ui, flinterdun gesneden</span></li><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">tonijn op olijfolie uit blik, uitgelekt</span></li><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">hardgekookte eieren, in partjes</span></li><li><span class="ing-amount" data-basis="80 g">80 g</span><span class="ing-name">zwarte olijven zonder pit</span></li><li><span class="ing-amount" data-basis="30 g">30 g</span><span class="ing-name">kappertjes</span></li><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">platte peterselie, fijngehakt</span></li></ul><h3 class="ing-group-title">Vinaigrette</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="45 ml">45 ml</span><span class="ing-name">olijfolie extra vierge</span></li><li><span class="ing-amount" data-basis="20 ml">20 ml</span><span class="ing-name">sherry-azijn of rode wijnazijn</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Eieren koken</strong><p>kook de eieren 10 minuten. Koel direct af. Pel en snijd in partjes.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rode ui weken</strong><p>leg flinterdun gesneden rode ui 10 minuten in koud water — zo wordt de smaak milder. Goed afgieten.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Schik de salade</strong><p>leg tomaten op een schaal. Verdeel ui erover. Leg tonijn in het midden. Schik eieren, olijven en kappertjes eromheen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Dressing en rusten</strong><p>meng olijfolie met azijn, zout en peper. Druppel over de salade. Bestrooi met peterselie. Laat 15 minuten rusten.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">de salade minstens 30 minuten voor serveren aanmaken — de tomaten en olijfolie trekken samen tot een natuurlijke saus.</div><div class="tip-item"><strong>Techniek:</strong> gebruik de rijpste tomaten die je kunt vinden — dit gerecht staat of valt met de tomatenkwaliteit. In het seizoen zijn trostomaten of vleestomaten het beste.</div><div class="tip-item"><strong>Presentatie:</strong> snijd alles in gelijke blokjes van 1,5 cm — dat is het verschil tussen een rommelige salade en een strak gepresenteerde ensalada.</div><div class="tip-item"><strong>Variatie:</strong> voeg een handvol kappertjes toe voor extra zilte pit, of een gepeld hardgekookt ei in blokjes voor meer textuur en vulling.</div><div class="tip-item"><strong>Alternatief:</strong> geen tonijn op olijfolie? Gebruik ingelegde tonijn op water en voeg zelf een goede scheut olijfolie toe — het resultaat is vergelijkbaar maar nooit helemaal hetzelfde.</div><div class="tip-item"><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div><div class="tip-item"><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Salade</div><div class="ing-row"><span>rijpe vleestomaten, in partjes</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>rode ui, flinterdun gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>tonijn op olijfolie uit blik, uitgelekt</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>hardgekookte eieren, in partjes</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>zwarte olijven zonder pit</span><span class="ing-amount" data-basis="80 g">80 g</span></div><div class="ing-row"><span>kappertjes</span><span class="ing-amount" data-basis="30 g">30 g</span></div><div class="ing-row"><span>platte peterselie, fijngehakt</span><span class="ing-amount" data-basis="15 g">15 g</span></div><div class="ing-cat">Vinaigrette</div><div class="ing-row"><span>olijfolie extra vierge</span><span class="ing-amount" data-basis="45 ml">45 ml</span></div><div class="ing-row"><span>sherry-azijn of rode wijnazijn</span><span class="ing-amount" data-basis="20 ml">20 ml</span></div><div class="ing-row"><span>zout en peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Eieren koken</strong><br>kook de eieren 10 minuten. Koel direct af. Pel en snijd in partjes.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Rode ui weken</strong><br>leg flinterdun gesneden rode ui 10 minuten in koud water — zo wordt de smaak milder. Goed afgieten.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Schik de salade</strong><br>leg tomaten op een schaal. Verdeel ui erover. Leg tonijn in het midden. Schik eieren, olijven en kappertjes eromheen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Dressing en rusten</strong><br>meng olijfolie met azijn, zout en peper. Druppel over de salade. Bestrooi met peterselie. Laat 15 minuten rusten.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>de salade minstens 30 minuten voor serveren aanmaken — de tomaten en olijfolie trekken samen tot een natuurlijke saus.</p><p><strong>Techniek:</strong> gebruik de rijpste tomaten die je kunt vinden — dit gerecht staat of valt met de tomatenkwaliteit. In het seizoen zijn trostomaten of vleestomaten het beste.</p><p><strong>Presentatie:</strong> snijd alles in gelijke blokjes van 1,5 cm — dat is het verschil tussen een rommelige salade en een strak gepresenteerde ensalada.</p><p><strong>Variatie:</strong> voeg een handvol kappertjes toe voor extra zilte pit, of een gepeld hardgekookt ei in blokjes voor meer textuur en vulling.</p><p><strong>Alternatief:</strong> geen tonijn op olijfolie? Gebruik ingelegde tonijn op water en voeg zelf een goede scheut olijfolie toe — het resultaat is vergelijkbaar maar nooit helemaal hetzelfde.</p><p><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p><p><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Jumilla Monastrell Rosado</div>
-        <div class="wine-druif">Monastrell</div>
-        <p class="wine-toe">Een stevige rosé uit Jumilla (Murcia) — de regio waar dit gerecht vandaan komt — gemaakt van de dikhuidige Monastrell-druif die gedijt in het hete, droge Levantijnse klimaat. De wijn heeft meer body en diepte dan de gemiddelde rosé, met tonen van rijp rood fruit, een lichte peper en een mooie droge afdronk. Die body is nodig voor de tonijn en olijven; de frisheid past bij de tomaat en de zilte Spaanse olijfolie. Een terroir-authentieke combinatie. Serveer gekoeld op 10°C.</p>
-        <div class="wine-alt">Alternatief: Rioja Rosado — lichter en eleganter, werkt als de tomaat de hoofdrol heeft</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Jumilla Monastrell Rosado</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Monastrell</span>
     </div>
+    <p class="wine-toelichting">Een stevige rosé uit Jumilla (Murcia) — de regio waar dit gerecht vandaan komt — gemaakt van de dikhuidige Monastrell-druif die gedijt in het hete, droge Levantijnse klimaat. De wijn heeft meer body en diepte dan de gemiddelde rosé, met tonen van rijp rood fruit, een lichte peper en een mooie droge afdronk. Die body is nodig voor de tonijn en olijven; de frisheid past bij de tomaat en de zilte Spaanse olijfolie. Een terroir-authentieke combinatie. Serveer gekoeld op 10°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Rioja Rosado — lichter en eleganter, werkt als de tomaat de hoofdrol heeft</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

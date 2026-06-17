@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Kopenhagen</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">&quot;Plastic Soep&quot; — coquille, komkommerwater, zeekraal, dilleolie en rijstpapier</h1>
-      <p class="recipe-intro">Een Alchemist-theatraal gerecht dat thuis simpel te maken is. Het bord ziet eruit als de oceaan — maar het is het puurste gerecht van dit boek. De &#x27;plastic&#x27; is krokant rijstpapier. Het &#x27;water&#x27; is kristalhelder komkommerwater met limoen, dille en witte balsamico.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min + 30 min koelen komkommerwater</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten (1 coquille pp, flinterdun gesneden)</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Overig</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">&quot;Plastic Soep&quot; — coquille, komkommerwater, zeekraal, dilleolie en rijstpapier</div>
+  <div class="recipe-desc">Een Alchemist-theatraal gerecht dat thuis simpel te maken is. Het bord ziet eruit als de oceaan — maar het is het puurste gerecht van dit boek. De &#x27;plastic&#x27; is krokant rijstpapier. Het &#x27;water&#x27; is kristalhelder komkommerwater met limoen, dille en witte balsamico.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min + 30 min koelen komkommerwater</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Overig</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de coquilles</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">grote verse coquilles (zo vers mogelijk — dit gerecht is rauw en puur)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">paar druppels milde extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fleur de sel</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fijne limoenrasp</span></li></ul><h3 class="ing-group-title">Voor het komkommerwater (de oceaan)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">grote komkommers, grof gesneden</span></li><li><span class="ing-amount" data-basis="40 g">40 g</span><span class="ing-name">Granny Smith appel, geschild en grof gesneden</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">vers limoensap</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">klein handje verse dille</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">witte balsamico (of champagneazijn — geeft de spanning)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">kleine snuf fijn zeezout</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">ijsblokjes (houd het water koel tijdens blenden)</span></li></ul><h3 class="ing-group-title">Voor de dilleolie (fluo-groen)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">verse dille</span></li><li><span class="ing-amount" data-basis="150 ml">150 ml</span><span class="ing-name">neutrale olie</span></li></ul><h3 class="ing-group-title">Voor de zeekraal</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="60 g">60 g</span><span class="ing-name">verse zeekraal</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vers citroensap</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">milde olijfolie</span></li></ul><h3 class="ing-group-title">Voor het rijstpapier (het plastic)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">vellen gedroogd rijstpapier, in onregelmatige stukken gescheurd (5–8cm)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">neutrale olie (180°C)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">verse dilletakjes</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: kleine komkommerbrunoise (2mm — extra textuur)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Dilleolie (van tevoren)</strong><p>Dille 30 seconden blancheren in kokend water. Direct in ijskoud water. Uitknijpen. Blenden met olie op hoogste stand 2 minuten. Door fijne zeef. Koel bewaren.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Komkommerwater (minimaal 30 min van tevoren)</strong><p>Komkommer, groene appel, limoensap, dille, witte balsamico, zeezout en ijsblokjes krachtig blenden tot alles volledig gebroken is. Gieten in een fijne zeef bekleed met kaasdoek of schone doek. Rustig laten druipen zonder te drukken — minimaal 30 minuten in de koelkast. Proef — fris, licht zilt, subtiel groen. IJskoud bewaren.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Zeekraal</strong><p>Zeekraal 10 seconden blancheren in kokend water. Direct in ijskoud water. Uitlekken en droogdeppen. Vlak voor serveren mengen met citroensap en olijfolie.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Rijstpapier</strong><p>Olie op 180°C. Stukjes rijstpapier voorzichtig erin — ze blazen onmiddellijk op in 5–10 seconden. Uitlekken op keukenpapier. Fijn zeezout. Droog bewaren.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Coquilles (vlak voor serveren)</strong><p>Coquilles goed droogdeppen. Met een scherp mes flinterdun snijden (2–3mm). Koud bewaren. Vlak voor serveren: fleur de sel, limoensap, limoenrasp en paar druppels olijfolie.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Opbouwen (borden uit de vriezer — alles koud)</strong><p>Donkere diepe kommen uit de vriezer. Coquilleplakjes elegant op de bodem. Zeekraalstengels losjes ertussen. Dilletakjes. Rijstpapier allerlaatst luchtig bovenop of schuin ertegen. Tableside: ijskoud komkommerwater voorzichtig rondom de coquille ingeschonken — niet erover als saus, maar als een golf die de kom binnenstroomt. Druppels dilleolie druppelen.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Komkommerwater niet persen:</strong> Alleen laten druipen voor maximale helderheid.</div><div class="tip-item"><strong>Rijstpapier allerlaatst:</strong> Binnen 30 seconden in vochtige omgeving verliest het zijn crunch.</div><div class="tip-item"><strong>Witte balsamico is de spanning:</strong> Het water smaakt zonder azijn plat.</div><div class="tip-item"><strong>Komkommerwater aan tafel:</strong> Dit is het theatrale moment.</div><div class="tip-item"><strong>Variatie:</strong> Variatie — dashi of oestervocht: Paar druppels lichte dashi door het komkommerwater voor een diepere oceaansmaak.</div><div class="tip-item"><strong>Rijstpapier pas op het laatst:</strong> Rijstpapier wordt snel slap zodra het vocht raakt. Leg het vlak voor serveren op of naast het gerecht zodat het transparante, fragiele effect behouden blijft.</div><div class="tip-item"><strong>Komkommerwater ijskoud houden:</strong> Koud geserveerd blijft het gerecht strak, fris en maritiem. Lauw komkommerwater maakt coquille en zeekraal vlakker van smaak.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de coquilles</div><div class="ing-row"><span>grote verse coquilles (zo vers mogelijk — dit gerecht is rauw en puur)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>paar druppels milde extra vergine olijfolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>fijne limoenrasp</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor het komkommerwater (de oceaan)</div><div class="ing-row"><span>grote komkommers, grof gesneden</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>Granny Smith appel, geschild en grof gesneden</span><span class="ing-amount" data-basis="40 g">40 g</span></div><div class="ing-row"><span>vers limoensap</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>klein handje verse dille</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>witte balsamico (of champagneazijn — geeft de spanning)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>kleine snuf fijn zeezout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>ijsblokjes (houd het water koel tijdens blenden)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-cat">Voor de dilleolie (fluo-groen)</div><div class="ing-row"><span>verse dille</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis="150 ml">150 ml</span></div><div class="ing-cat">Voor de zeekraal</div><div class="ing-row"><span>verse zeekraal</span><span class="ing-amount" data-basis="60 g">60 g</span></div><div class="ing-row"><span>vers citroensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>milde olijfolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Voor het rijstpapier (het plastic)</div><div class="ing-row"><span>vellen gedroogd rijstpapier, in onregelmatige stukken gescheurd (5–8cm)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>neutrale olie (180°C)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>verse dilletakjes</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>eventueel: kleine komkommerbrunoise (2mm — extra textuur)</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Dilleolie (van tevoren)</strong><br>Dille 30 seconden blancheren in kokend water. Direct in ijskoud water. Uitknijpen. Blenden met olie op hoogste stand 2 minuten. Door fijne zeef. Koel bewaren.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Komkommerwater (minimaal 30 min van tevoren)</strong><br>Komkommer, groene appel, limoensap, dille, witte balsamico, zeezout en ijsblokjes krachtig blenden tot alles volledig gebroken is. Gieten in een fijne zeef bekleed met kaasdoek of schone doek. Rustig laten druipen zonder te drukken — minimaal 30 minuten in de koelkast. Proef — fris, licht zilt, subtiel groen. IJskoud bewaren.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Zeekraal</strong><br>Zeekraal 10 seconden blancheren in kokend water. Direct in ijskoud water. Uitlekken en droogdeppen. Vlak voor serveren mengen met citroensap en olijfolie.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Rijstpapier</strong><br>Olie op 180°C. Stukjes rijstpapier voorzichtig erin — ze blazen onmiddellijk op in 5–10 seconden. Uitlekken op keukenpapier. Fijn zeezout. Droog bewaren.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Coquilles (vlak voor serveren)</strong><br>Coquilles goed droogdeppen. Met een scherp mes flinterdun snijden (2–3mm). Koud bewaren. Vlak voor serveren: fleur de sel, limoensap, limoenrasp en paar druppels olijfolie.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Opbouwen (borden uit de vriezer — alles koud)</strong><br>Donkere diepe kommen uit de vriezer. Coquilleplakjes elegant op de bodem. Zeekraalstengels losjes ertussen. Dilletakjes. Rijstpapier allerlaatst luchtig bovenop of schuin ertegen. Tableside: ijskoud komkommerwater voorzichtig rondom de coquille ingeschonken — niet erover als saus, maar als een golf die de kom binnenstroomt. Druppels dilleolie druppelen.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Komkommerwater niet persen:</strong> Alleen laten druipen voor maximale helderheid.</p><p><strong>Rijstpapier allerlaatst:</strong> Binnen 30 seconden in vochtige omgeving verliest het zijn crunch.</p><p><strong>Witte balsamico is de spanning:</strong> Het water smaakt zonder azijn plat.</p><p><strong>Komkommerwater aan tafel:</strong> Dit is het theatrale moment.</p><p><strong>Variatie:</strong> Variatie — dashi of oestervocht: Paar druppels lichte dashi door het komkommerwater voor een diepere oceaansmaak.</p><p><strong>Rijstpapier pas op het laatst:</strong> Rijstpapier wordt snel slap zodra het vocht raakt. Leg het vlak voor serveren op of naast het gerecht zodat het transparante, fragiele effect behouden blijft.</p><p><strong>Komkommerwater ijskoud houden:</strong> Koud geserveerd blijft het gerecht strak, fris en maritiem. Lauw komkommerwater maakt coquille en zeekraal vlakker van smaak.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Corpinnat Brut Nature — Penedès, Spanje</div>
-        <div class="wine-druif">Xarel·lo, Macabeo en/of Parellada</div>
-        <p class="wine-toe">De droge mousse reinigt coquille en rijstpapier, de zilt-minerale toon sluit aan op zeekraal en komkommerwater.</p>
-        <div class="wine-alt">Alternatief: Albariño Rias Baixas DO — Galicië, Spanje — Droog, fris, licht ziltig, citrus, witte perzik, levendig; Muscadet Sèvre-et-Maine sur Lie AOC — Loire, Frankrijk — Droog, licht ziltig, citrus, licht gistig, fris en strak</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Corpinnat Brut Nature — Penedès, Spanje</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Xarel·lo, Macabeo en/of Parellada</span>
     </div>
+    <p class="wine-toelichting">De droge mousse reinigt coquille en rijstpapier, de zilt-minerale toon sluit aan op zeekraal en komkommerwater.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Albariño Rias Baixas DO — Galicië, Spanje — Droog, fris, licht ziltig, citrus, witte perzik, levendig; Muscadet Sèvre-et-Maine sur Lie AOC — Loire, Frankrijk — Droog, licht ziltig, citrus, licht gistig, fris en strak</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten (1 coquille pp, flinterdun gesneden)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

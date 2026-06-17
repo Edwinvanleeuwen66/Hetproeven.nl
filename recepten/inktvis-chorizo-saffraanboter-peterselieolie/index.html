@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Spanje</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Inktvis met Chorizo, Saffraanboter en Peterselieolie</h1>
-      <p class="recipe-intro">Mediterrane klassieker: inktvis 45-60 seconden op gloeiend hete pan met gekruist ruitpatroon zodat hij opkruilt als een bloem, op goudgele saffraanboter met krokante chorizo-kaantjes en felgroene peterselieolie.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 35 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kleine voorgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Inktvis met Chorizo, Saffraanboter en Peterselieolie</div>
+  <div class="recipe-desc">Mediterrane klassieker: inktvis 45-60 seconden op gloeiend hete pan met gekruist ruitpatroon zodat hij opkruilt als een bloem, op goudgele saffraanboter met krokante chorizo-kaantjes en felgroene peterselieolie.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 35 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de inktvis</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="600g">600g</span><span class="ing-name">schoongemaakt inktvis (bij de visboer; of diepvries — volledig ontdooien, grondig droogdeppen)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">witte peper</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">rasp van ½ citroen (in de marinade)</span></li></ul><h3 class="ing-group-title">Voor de chorizo-kaantjes</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="80g">80g</span><span class="ing-name">droge Spaanse chorizo, in blokjes van 3-4mm (niet in plakjes — kleine blokjes geven krokante kaantjes)</span></li></ul><h3 class="ing-group-title">Voor de saffraanboter</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="klein plukje">klein plukje</span><span class="ing-name">saffraandraadjes (kneuzen tussen vingers voor het weken)</span></li><li><span class="ing-amount" data-basis="60ml">60ml</span><span class="ing-name">droge witte wijn (saffraan hierin weken)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine sjalot, zeer fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="40ml">40ml</span><span class="ing-name">visbouillon of lichte kippenbouillon</span></li><li><span class="ing-amount" data-basis="100g">100g</span><span class="ing-name">ijskoude ongezouten roomboter, in blokjes</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">witte peper + zout (voorzichtig — chorizo brengt al zout)</span></li></ul><h3 class="ing-group-title">Voor de peterselieolie</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 flinke hand">1 flinke hand</span><span class="ing-name">platte peterselie (alleen blaadjes)</span></li><li><span class="ing-amount" data-basis="4 el">4 el</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">kleine teen knoflook (optioneel)</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">extra platte peterselie, fijn gesneden</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">citroenpartjes (tableside)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">dunne ringetjes lente-ui (optioneel)</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">gerookt paprikapoeder (optioneel)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fleur de sel</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Saffraanboter opbouwen</strong><p>Saffraandraadjes kneuzen tussen de vingers. In de 60ml witte wijn leggen. 5 minuten weken — de wijn kleurt diepgoud. Sjalot in een klein klontje boter op laag vuur 2 minuten zacht fruiten. Saffraan-wijn + bouillon toevoegen. Inkoken tot ca. 2-3 eetlepels goudgele reductie. Vuur op allerlaagst. Boterblokjes een voor een erdoor kloppen. 1-2 tl chorizo-vet erdoor roeren voor extra diepte. Citroensap. Zout en witte peper voorzichtig. Warmhouden op laag vuur of bain-marie (max 65°C — niet koken).</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Chorizo-kaantjes uitbakken</strong><p>Chorizoblokjes in een droge koekenpan op middelhoog vuur langzaam uitbakken — 3-4 minuten tot ze krokant zijn en het rode vet vrijkomt. Uitscheppen op keukenpapier. Chorizo-vet in de pan bewaren voor de saffraanboter.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Peterselieolie</strong><p>Peterselie, olijfolie, citroensap, eventueel knoflook en zout 1 minuut blenden. Eventueel door een fijne zeef voor een strakkere olie. Felgroen en aromatisch bewaren.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Inktvis voorbereiden en grillen</strong><p>Inktvislichaam opentrekken tot een vlak stuk. Met een scherp mes de binnenkant kruislings inkrassen in een ruitpatroon (1cm tussenruimte, niet doorsnijden) — de binnenkant inkrassen, niet de buitenkant, geeft de mooie opkrul. Tentakels intact laten. Grondig droogdeppen — twee keer. Mengen met olijfolie, zout, witte peper en citroenrasp. 10 minuten marineren. Gietijzeren pan of grillpan op maximaal vuur — 3-4 minuten leeg voorverwarmen. Inktvis (ruitpatroon naar beneden) in de pan. Niet bewegen. 45-60 seconden — de inktvis kruilt en kleurt. Omdraaien. Nog 20-30 seconden. Direct uit de pan. Rubber begint bij ca. 1,5 minuut totaal. Tentakels: 45-60 seconden al omdraaiend. Liever twee batches — volle pan = stomen.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Opbouwen en serveren</strong><p>Warme borden. Saffraanboter als goudgele spiegel. Inktvis erop. Krokante chorizo-kaantjes spaarzaam eroverheen. Peterselieolie in kleine groene stippen door de saffraanboter druppelen. Extra peterselie. Lente-ui. Fleur de sel. Eventueel gerookt paprikapoeder. Citroen ernaast. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Inktvis:</strong> of heel kort of heel lang: voor dit gerecht 45-60 seconden eerste kant, 20-30 seconden tweede kant. Rubber begint bij ca. 1,5 minuut totaal.</div><div class="tip-item"><strong>Binnenkant inkrassen, niet buitenkant:</strong> de gladde binnenzijde van de tube inkrassen geeft het mooiste opkrul-effect als de inktvis het hete metaal raakt.</div><div class="tip-item"><strong>Droogdeppen is verplicht:</strong> natte inktvis stoomt en kleurt niet. Twee keer herhalen.</div><div class="tip-item"><strong>10 minuten marineren:</strong> de citroenrasp en olie dringen in het vlees en geven extra smaak en zachtheid.</div><div class="tip-item"><strong>Chorizo heel klein snijden:</strong> 3-4mm blokjes. Grote stukken nemen het gerecht over.</div><div class="tip-item"><strong>Chorizo-vet in de saffraanboter:</strong> het paprika-rode vet geeft de boter een extra laag diepte.</div><div class="tip-item"><strong>Saffraan kneuzen en niet overdoseren:</strong> een klein plukje is genoeg. Te veel geeft medicinale bitterheid.</div><div class="tip-item"><strong>Peterselie is geen decoratie:</strong> de frisheid tilt vet, chorizo en saffraan op. Zonder groen wordt het gerecht te zwaar.</div><div class="tip-item"><strong>Luxe variant:</strong> kokkels of scheermesjes kort opgestoomd erbij voor extra zee-diepte.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de inktvis</div><div class="ing-row"><span>schoongemaakt inktvis (bij de visboer; of diepvries — volledig ontdooien, grondig droogdeppen)</span><span class="ing-amount" data-basis="600g">600g</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>rasp van ½ citroen (in de marinade)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de chorizo-kaantjes</div><div class="ing-row"><span>droge Spaanse chorizo, in blokjes van 3-4mm (niet in plakjes — kleine blokjes geven krokante kaantjes)</span><span class="ing-amount" data-basis="80g">80g</span></div><div class="ing-cat">Voor de saffraanboter</div><div class="ing-row"><span>saffraandraadjes (kneuzen tussen vingers voor het weken)</span><span class="ing-amount" data-basis="klein plukje">klein plukje</span></div><div class="ing-row"><span>droge witte wijn (saffraan hierin weken)</span><span class="ing-amount" data-basis="60ml">60ml</span></div><div class="ing-row"><span>kleine sjalot, zeer fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>visbouillon of lichte kippenbouillon</span><span class="ing-amount" data-basis="40ml">40ml</span></div><div class="ing-row"><span>ijskoude ongezouten roomboter, in blokjes</span><span class="ing-amount" data-basis="100g">100g</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>witte peper + zout (voorzichtig — chorizo brengt al zout)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de peterselieolie</div><div class="ing-row"><span>platte peterselie (alleen blaadjes)</span><span class="ing-amount" data-basis="1 flinke hand">1 flinke hand</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="4 el">4 el</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kleine teen knoflook (optioneel)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>extra platte peterselie, fijn gesneden</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>citroenpartjes (tableside)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>dunne ringetjes lente-ui (optioneel)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>gerookt paprikapoeder (optioneel)</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Saffraanboter opbouwen</strong><br>Saffraandraadjes kneuzen tussen de vingers. In de 60ml witte wijn leggen. 5 minuten weken — de wijn kleurt diepgoud. Sjalot in een klein klontje boter op laag vuur 2 minuten zacht fruiten. Saffraan-wijn + bouillon toevoegen. Inkoken tot ca. 2-3 eetlepels goudgele reductie. Vuur op allerlaagst. Boterblokjes een voor een erdoor kloppen. 1-2 tl chorizo-vet erdoor roeren voor extra diepte. Citroensap. Zout en witte peper voorzichtig. Warmhouden op laag vuur of bain-marie (max 65°C — niet koken).</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Chorizo-kaantjes uitbakken</strong><br>Chorizoblokjes in een droge koekenpan op middelhoog vuur langzaam uitbakken — 3-4 minuten tot ze krokant zijn en het rode vet vrijkomt. Uitscheppen op keukenpapier. Chorizo-vet in de pan bewaren voor de saffraanboter.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Peterselieolie</strong><br>Peterselie, olijfolie, citroensap, eventueel knoflook en zout 1 minuut blenden. Eventueel door een fijne zeef voor een strakkere olie. Felgroen en aromatisch bewaren.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Inktvis voorbereiden en grillen</strong><br>Inktvislichaam opentrekken tot een vlak stuk. Met een scherp mes de binnenkant kruislings inkrassen in een ruitpatroon (1cm tussenruimte, niet doorsnijden) — de binnenkant inkrassen, niet de buitenkant, geeft de mooie opkrul. Tentakels intact laten. Grondig droogdeppen — twee keer. Mengen met olijfolie, zout, witte peper en citroenrasp. 10 minuten marineren. Gietijzeren pan of grillpan op maximaal vuur — 3-4 minuten leeg voorverwarmen. Inktvis (ruitpatroon naar beneden) in de pan. Niet bewegen. 45-60 seconden — de inktvis kruilt en kleurt. Omdraaien. Nog 20-30 seconden. Direct uit de pan. Rubber begint bij ca. 1,5 minuut totaal. Tentakels: 45-60 seconden al omdraaiend. Liever twee batches — volle pan = stomen.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Opbouwen en serveren</strong><br>Warme borden. Saffraanboter als goudgele spiegel. Inktvis erop. Krokante chorizo-kaantjes spaarzaam eroverheen. Peterselieolie in kleine groene stippen door de saffraanboter druppelen. Extra peterselie. Lente-ui. Fleur de sel. Eventueel gerookt paprikapoeder. Citroen ernaast. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Inktvis:</strong> of heel kort of heel lang: voor dit gerecht 45-60 seconden eerste kant, 20-30 seconden tweede kant. Rubber begint bij ca. 1,5 minuut totaal.</p><p><strong>Binnenkant inkrassen, niet buitenkant:</strong> de gladde binnenzijde van de tube inkrassen geeft het mooiste opkrul-effect als de inktvis het hete metaal raakt.</p><p><strong>Droogdeppen is verplicht:</strong> natte inktvis stoomt en kleurt niet. Twee keer herhalen.</p><p><strong>10 minuten marineren:</strong> de citroenrasp en olie dringen in het vlees en geven extra smaak en zachtheid.</p><p><strong>Chorizo heel klein snijden:</strong> 3-4mm blokjes. Grote stukken nemen het gerecht over.</p><p><strong>Chorizo-vet in de saffraanboter:</strong> het paprika-rode vet geeft de boter een extra laag diepte.</p><p><strong>Saffraan kneuzen en niet overdoseren:</strong> een klein plukje is genoeg. Te veel geeft medicinale bitterheid.</p><p><strong>Peterselie is geen decoratie:</strong> de frisheid tilt vet, chorizo en saffraan op. Zonder groen wordt het gerecht te zwaar.</p><p><strong>Luxe variant:</strong> kokkels of scheermesjes kort opgestoomd erbij voor extra zee-diepte.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Godello Valdeorras DO — Galicië, Spanje</div>
-        <div class="wine-druif">Godello</div>
-        <p class="wine-toe">Godello heeft genoeg ronding voor de saffraanboter en chorizo, maar ook genoeg zuren en mineraliteit om het gerecht licht te houden. Meer body dan Albariño maar strak genoeg voor zeevruchten — ideaal bij saffraanboter en chorizo.</p>
-        <div class="wine-alt">Alternatief: Albariño Rías Baixas DO of Manzanilla Pasada DO (ijskoud)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Godello Valdeorras DO — Galicië, Spanje</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Godello</span>
     </div>
+    <p class="wine-toelichting">Godello heeft genoeg ronding voor de saffraanboter en chorizo, maar ook genoeg zuren en mineraliteit om het gerecht licht te houden. Meer body dan Albariño maar strak genoeg voor zeevruchten — ideaal bij saffraanboter en chorizo.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Albariño Rías Baixas DO of Manzanilla Pasada DO (ijskoud)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kleine voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

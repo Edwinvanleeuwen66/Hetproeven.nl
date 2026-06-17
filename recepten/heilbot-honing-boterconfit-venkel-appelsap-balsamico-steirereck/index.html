@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Wenen</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Heilbot In Honing-Boterconfit Met Venkel, Appelsap En Balsamico — Steirereck-Stijl</h1>
-      <p class="recipe-intro">Steirereck*** Wenen — Chef Heinz Reitbauer, drie Michelin-sterren — is de tempel van de moderne Oostenrijkse keuken. Zijn beroemdste techniek: vis gegaard in bijenwas aan tafel,...</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min actief (plus 35 min voor de venkel)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Overig</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Heilbot In Honing-Boterconfit Met Venkel, Appelsap En Balsamico — Steirereck-Stijl</div>
+  <div class="recipe-desc">Steirereck*** Wenen — Chef Heinz Reitbauer, drie Michelin-sterren — is de tempel van de moderne Oostenrijkse keuken. Zijn beroemdste techniek: vis gegaard in bijenwas aan tafel,...</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min actief (plus 35 min voor de venkel)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Overig</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de heilbot</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">dikke stukken heilbotfilet (à 130–150g — zo dik mogelijk; dikke rugstukken)</span></li><li><span class="ing-amount" data-basis="Snuf">Snuf</span><span class="ing-name">fijn zeezout + witte peper</span></li></ul><h3 class="ing-group-title">Voor de honing-boterconfit</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="300g">300g</span><span class="ing-name">geklaarde boter (of roomboter zachtjes gesmolten en schuim afgeschept)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">1½ el bloemenhoning of lindehoning (vloeibaar)</span></li><li><span class="ing-amount" data-basis="1 takje">1 takje</span><span class="ing-name">verse tijm</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">laurierblad</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">dun stukje citroenschil (alleen het geel — geeft aromatische citrusdiepte aan de boter)</span></li></ul><h3 class="ing-group-title">Voor de geroosterde venkel</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">venkelknollen (in dikke wiggen van 1,5cm — venkelgroen bewaren)</span></li><li><span class="ing-amount" data-basis="150ml">150ml</span><span class="ing-name">vers appelsap</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">honing</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">witte balsamico of appelazijn (voor de venkel — subtiele zuurbalans)</span></li></ul><h3 class="ing-group-title">Zout + witte peper</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Voor de crème fraîche</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="100g">100g</span><span class="ing-name">volle crème fraîche of zure room</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">honing</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis="Snuf">Snuf</span><span class="ing-name">zeezout + witte peper</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Oude Aceto Balsamico di Modena (de dikke, stroperige — 2–3 microdruppels per bord als finishing, nooit in de venkel)</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">geroosterd boekweit</span></li><li><span class="ing-amount" data-basis="1–2 tl">1–2 tl</span><span class="ing-name">bijenpollen (drogist of online — de conceptuele Steirereck-verwijzing)</span></li></ul><h3 class="ing-group-title">Venkelgroen (kleine takjes)</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Fijne citroenrasp</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Fleur de sel</h3><ul class="ing-list"></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Venkel roosteren (van tevoren)</strong><p>Oven voorverwarmen op 200°C hetelucht. Venkelwiggen mengen met olijfolie, honing, zout en witte peper. In een ovenschaal. 25–30 minuten roosteren tot licht goudbruin aan de randen maar nog bite in het hart. Appelsap erover gieten. Terug in de oven — nog 8–10 minuten tot het appelsap licht inkookt en de venkel glanst. Uit de oven. Witte balsamico of appelazijn erdoor mengen. Warm of lauwwarm bewaren.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Boekweit roosteren</strong><p>Boekweit in een droge pan op middelhoog vuur 3 minuten al schudend tot licht goudbruin en nootachtig geurend. Op een koud bord. Bewaar droog.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Crème fraîche</strong><p>Crème fraîche los kloppen met honing, citroensap, zout en witte peper. Proef — zacht, licht zuur, subtiel zoet. Koel bewaren.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Honing-boterconfit klaarmaken</strong><p>Geklaarde boter in een brede, lage pan smelten. Honing, tijm, laurier en citroenschil toevoegen. Op heel laag vuur verwarmen tot 60–62°C — gebruik een thermometer. De boter moet stil zijn: geen bruisen, geen borrelen.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Heilbot confiture (vlak voor serveren)</strong><p>Heilbotfilets licht bestrooien met zeezout en witte peper. Voorzichtig in de honing-boter leggen — vis moet grotendeels onderstaan. 10–14 minuten confiture op 60–62°C — het vuur mag nooit hoger. De heilbot is klaar als hij volledig opaak is, veert op een vinger en fluweelzacht aanvoelt. Niet droog, niet schilferend. Voorzichtig uitnemen en kort laten uitlekken.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Warme borden. Kleine veeg crème fraîche iets uit het midden. Venkelwiggen erbij — 2–3 per persoon. Heilbot voorzichtig op of naast de venkel. Een paar druppels honing-boter uit de confit-pan erover — geen sausbad. 2–3 druppels Aceto Balsamico di Modena op het bord rondom — niet over de vis. Geroosterd boekweit strooien. Bijenpollen. Venkelgroen. Fijne citroenrasp. Fleur de sel. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>60–62°C is het betere getal voor heilbot:</strong> Bij 65°C zit je bij heilbot sneller op droog en vlokkerig. 60–62°C geeft het echte sashimi-fluweel — glazig, zacht en net gaar.</div><div class="tip-item"><strong>Thermometer is niet optioneel:</strong> Een graad te warm en de textuur verandert volledig. Investeer in een goede keukenthermometer.</div><div class="tip-item"><strong>Zwarte balsamico alleen als finishing:</strong> Jouw Aceto Balsamico di Modena past prachtig, maar alleen in microdruppels op het bord. In de venkel zou hij te donker en te dominant worden — gebruik daarvoor witte balsamico of appelazijn.</div><div class="tip-item"><strong>Bijenpollen zijn conceptueel:</strong> Ze verwijzen direct aan Steirereck&#x27;s bijenwas-techniek. Bloemig, licht korrelig, subtiel — en breed verkrijgbaar bij de drogist of online.</div><div class="tip-item"><strong>Venkel is hier sterker dan pastinaak:</strong> Pastinaak is lekker maar venkel geeft meer frisheid, spanning en anijsachtige elegantie bij honing, boter en witvis.</div><div class="tip-item"><strong>Venkel van tevoren:</strong> De venkel kan een uur voor serveren worden gemaakt. De confit doe je vlak voor serveren.</div><div class="tip-item"><strong>Honing-boter niet weggooien:</strong> Zeef hem en bewaar voor een volgende confit, als braadboter voor groenten, of als saus.</div><div class="tip-item"><strong>Variatie — appel naast venkel:</strong> Dunne plakjes Granny Smith even gekleurd in honing-boter. Heel Oostenrijks en verrassend goed bij heilbot.</div><div class="tip-item"><strong>Tarbot of griet:</strong> Werkt ook uitstekend met deze techniek. Kabeljauwhaas is toegankelijker maar kwetsbaarder bij confiteren.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de heilbot</div><div class="ing-row"><span>dikke stukken heilbotfilet (à 130–150g — zo dik mogelijk; dikke rugstukken)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>fijn zeezout + witte peper</span><span class="ing-amount" data-basis="Snuf">Snuf</span></div><div class="ing-cat">Voor de honing-boterconfit</div><div class="ing-row"><span>geklaarde boter (of roomboter zachtjes gesmolten en schuim afgeschept)</span><span class="ing-amount" data-basis="300g">300g</span></div><div class="ing-row"><span>1½ el bloemenhoning of lindehoning (vloeibaar)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>verse tijm</span><span class="ing-amount" data-basis="1 takje">1 takje</span></div><div class="ing-row"><span>laurierblad</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>dun stukje citroenschil (alleen het geel — geeft aromatische citrusdiepte aan de boter)</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Voor de geroosterde venkel</div><div class="ing-row"><span>venkelknollen (in dikke wiggen van 1,5cm — venkelgroen bewaren)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>vers appelsap</span><span class="ing-amount" data-basis="150ml">150ml</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>honing</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>witte balsamico of appelazijn (voor de venkel — subtiele zuurbalans)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Zout + witte peper</div><div class="ing-cat">Voor de crème fraîche</div><div class="ing-row"><span>volle crème fraîche of zure room</span><span class="ing-amount" data-basis="100g">100g</span></div><div class="ing-row"><span>honing</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>zeezout + witte peper</span><span class="ing-amount" data-basis="Snuf">Snuf</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>Oude Aceto Balsamico di Modena (de dikke, stroperige — 2–3 microdruppels per bord als finishing, nooit in de venkel)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>geroosterd boekweit</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>bijenpollen (drogist of online — de conceptuele Steirereck-verwijzing)</span><span class="ing-amount" data-basis="1–2 tl">1–2 tl</span></div><div class="ing-cat">Venkelgroen (kleine takjes)</div><div class="ing-cat">Fijne citroenrasp</div><div class="ing-cat">Fleur de sel</div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Venkel roosteren (van tevoren)</strong><br>Oven voorverwarmen op 200°C hetelucht. Venkelwiggen mengen met olijfolie, honing, zout en witte peper. In een ovenschaal. 25–30 minuten roosteren tot licht goudbruin aan de randen maar nog bite in het hart. Appelsap erover gieten. Terug in de oven — nog 8–10 minuten tot het appelsap licht inkookt en de venkel glanst. Uit de oven. Witte balsamico of appelazijn erdoor mengen. Warm of lauwwarm bewaren.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Boekweit roosteren</strong><br>Boekweit in een droge pan op middelhoog vuur 3 minuten al schudend tot licht goudbruin en nootachtig geurend. Op een koud bord. Bewaar droog.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Crème fraîche</strong><br>Crème fraîche los kloppen met honing, citroensap, zout en witte peper. Proef — zacht, licht zuur, subtiel zoet. Koel bewaren.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Honing-boterconfit klaarmaken</strong><br>Geklaarde boter in een brede, lage pan smelten. Honing, tijm, laurier en citroenschil toevoegen. Op heel laag vuur verwarmen tot 60–62°C — gebruik een thermometer. De boter moet stil zijn: geen bruisen, geen borrelen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Heilbot confiture (vlak voor serveren)</strong><br>Heilbotfilets licht bestrooien met zeezout en witte peper. Voorzichtig in de honing-boter leggen — vis moet grotendeels onderstaan. 10–14 minuten confiture op 60–62°C — het vuur mag nooit hoger. De heilbot is klaar als hij volledig opaak is, veert op een vinger en fluweelzacht aanvoelt. Niet droog, niet schilferend. Voorzichtig uitnemen en kort laten uitlekken.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Opbouwen</strong><br>Warme borden. Kleine veeg crème fraîche iets uit het midden. Venkelwiggen erbij — 2–3 per persoon. Heilbot voorzichtig op of naast de venkel. Een paar druppels honing-boter uit de confit-pan erover — geen sausbad. 2–3 druppels Aceto Balsamico di Modena op het bord rondom — niet over de vis. Geroosterd boekweit strooien. Bijenpollen. Venkelgroen. Fijne citroenrasp. Fleur de sel. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>60–62°C is het betere getal voor heilbot:</strong> Bij 65°C zit je bij heilbot sneller op droog en vlokkerig. 60–62°C geeft het echte sashimi-fluweel — glazig, zacht en net gaar.</p><p><strong>Thermometer is niet optioneel:</strong> Een graad te warm en de textuur verandert volledig. Investeer in een goede keukenthermometer.</p><p><strong>Zwarte balsamico alleen als finishing:</strong> Jouw Aceto Balsamico di Modena past prachtig, maar alleen in microdruppels op het bord. In de venkel zou hij te donker en te dominant worden — gebruik daarvoor witte balsamico of appelazijn.</p><p><strong>Bijenpollen zijn conceptueel:</strong> Ze verwijzen direct aan Steirereck&#x27;s bijenwas-techniek. Bloemig, licht korrelig, subtiel — en breed verkrijgbaar bij de drogist of online.</p><p><strong>Venkel is hier sterker dan pastinaak:</strong> Pastinaak is lekker maar venkel geeft meer frisheid, spanning en anijsachtige elegantie bij honing, boter en witvis.</p><p><strong>Venkel van tevoren:</strong> De venkel kan een uur voor serveren worden gemaakt. De confit doe je vlak voor serveren.</p><p><strong>Honing-boter niet weggooien:</strong> Zeef hem en bewaar voor een volgende confit, als braadboter voor groenten, of als saus.</p><p><strong>Variatie — appel naast venkel:</strong> Dunne plakjes Granny Smith even gekleurd in honing-boter. Heel Oostenrijks en verrassend goed bij heilbot.</p><p><strong>Tarbot of griet:</strong> Werkt ook uitstekend met deze techniek. Kabeljauwhaas is toegankelijker maar kwetsbaarder bij confiteren.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Grüner Veltliner Smaragd — Wachau, Oostenrijk</div>
-        <div class="wine-druif">Grüner Veltliner</div>
-        <p class="wine-toe">De witte pepernoot sluit prachtig aan bij de venkel en de tijm in de confit. De rijpe citrusnoten complementeren het appelsap en de balsamico. Vol genoeg voor de rijke honing-boterconfit zonder de heilbot te overstemmen.</p>
-        <div class="wine-alt">Alternatief: Vouvray Sec AOC — Loire, Frankrijk — Droog, fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren; Puligny-Montrachet AOC of Meursault AOC — Bourgogne, Frankrijk (elegante, niet te houte stijl) — Droog, mineraal, witte perzik, citrus, subtiele botertoon, lange afdronk</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Grüner Veltliner Smaragd — Wachau, Oostenrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Grüner Veltliner</span>
     </div>
+    <p class="wine-toelichting">De witte pepernoot sluit prachtig aan bij de venkel en de tijm in de confit. De rijpe citrusnoten complementeren het appelsap en de balsamico. Vol genoeg voor de rijke honing-boterconfit zonder de heilbot te overstemmen.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Vouvray Sec AOC — Loire, Frankrijk — Droog, fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren; Puligny-Montrachet AOC of Meursault AOC — Bourgogne, Frankrijk (elegante, niet te houte stijl) — Droog, mineraal, witte perzik, citrus, subtiele botertoon, lange afdronk</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

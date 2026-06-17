@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Java</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Tumis Buncis Kecap — hartige roerbakboontjes</h1>
-      <p class="recipe-intro">Knapperige sperziebonen met knoflook en een zuinige scheut ketjap — hartig, licht, klaar in een kwartier.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 15 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Indonesisch</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Tumis Buncis Kecap — hartige roerbakboontjes</div>
+  <div class="recipe-desc">Knapperige sperziebonen met knoflook en een zuinige scheut ketjap — hartig, licht, klaar in een kwartier.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 15 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Indonesisch</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Groenten</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="500 g">500 g</span><span class="ing-name">sperziebonen, schoongemaakt</span></li><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">knoflookteentjes, flinterdun gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine sjalot, in ringen</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">neutrale olie</span></li></ul><h3 class="ing-group-title">Smaakmakers</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1½–2 el">1½–2 el</span><span class="ing-name">ketjap manis</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">witte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Bonen blancheren</strong><p>breng een pan gezouten water aan de kook. Blancheer de sperziebonen 2–3 minuten — knapperig, niet gaar. Afgieten en direct koud spoelen om de kleur te bewaren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Knoflook en sjalot bakken</strong><p>verhit de olie in een hete wok of koekenpan. Bak knoflook en sjalot tot lichtgoud — niet donker, anders wordt het bitter.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Bonen roerbakken</strong><p>voeg de sperziebonen toe en schud goed om op hoog vuur.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Afmaken</strong><p>voeg sojasaus en ketjap manis toe. Laat direct verdampen op hoog vuur — de pan moet droog eindigen, niet nat. Breng op smaak met witte peper. Proef en serveer meteen.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">blancheer de sperziebonen van tevoren en koel direct af in ijswater — zo blijven ze felgroen en knapperig en is de wok-stap snel en gecontroleerd.</div><div class="tip-item"><strong>Techniek:</strong> gebruik maximaal 2 el ketjap op 4 personen — meer en je overstemt de knapperige bonen. De pan moet droog eindigen: dit is roerbakken, geen smoren.</div><div class="tip-item"><strong>Presentatie:</strong> serveer in een kleine, warme schaal als rijsttafelbijgerecht naast het hoofdgerecht — de knapperige textuur en de goudbruine knoflookchips zijn het visuele contrast.</div><div class="tip-item"><strong>Variatie:</strong> voeg een mespuntje witte peper en een theelepel sesamolie toe als finishing voor extra diepte, of een handvol krokante gebakken sjalotjes bovenop.</div><div class="tip-item"><strong>Alternatief:</strong> geen sperziebonen? Gebruik haricots verts (fijne Franse sperziebonen) — dunner, knapperiger en garen nog sneller in de wok.</div><div class="tip-item"><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</div><div class="tip-item"><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Groenten</div><div class="ing-row"><span>sperziebonen, schoongemaakt</span><span class="ing-amount" data-basis="500 g">500 g</span></div><div class="ing-row"><span>knoflookteentjes, flinterdun gesneden</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>kleine sjalot, in ringen</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>neutrale olie</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-cat">Smaakmakers</div><div class="ing-row"><span>ketjap manis</span><span class="ing-amount" data-basis="1½–2 el">1½–2 el</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Bonen blancheren</strong><br>breng een pan gezouten water aan de kook. Blancheer de sperziebonen 2–3 minuten — knapperig, niet gaar. Afgieten en direct koud spoelen om de kleur te bewaren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Knoflook en sjalot bakken</strong><br>verhit de olie in een hete wok of koekenpan. Bak knoflook en sjalot tot lichtgoud — niet donker, anders wordt het bitter.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Bonen roerbakken</strong><br>voeg de sperziebonen toe en schud goed om op hoog vuur.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Afmaken</strong><br>voeg sojasaus en ketjap manis toe. Laat direct verdampen op hoog vuur — de pan moet droog eindigen, niet nat. Breng op smaak met witte peper. Proef en serveer meteen.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>blancheer de sperziebonen van tevoren en koel direct af in ijswater — zo blijven ze felgroen en knapperig en is de wok-stap snel en gecontroleerd.</p><p><strong>Techniek:</strong> gebruik maximaal 2 el ketjap op 4 personen — meer en je overstemt de knapperige bonen. De pan moet droog eindigen: dit is roerbakken, geen smoren.</p><p><strong>Presentatie:</strong> serveer in een kleine, warme schaal als rijsttafelbijgerecht naast het hoofdgerecht — de knapperige textuur en de goudbruine knoflookchips zijn het visuele contrast.</p><p><strong>Variatie:</strong> voeg een mespuntje witte peper en een theelepel sesamolie toe als finishing voor extra diepte, of een handvol krokante gebakken sjalotjes bovenop.</p><p><strong>Alternatief:</strong> geen sperziebonen? Gebruik haricots verts (fijne Franse sperziebonen) — dunner, knapperiger en garen nog sneller in de wok.</p><p><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Pinot Gris</div>
-        <div class="wine-druif">Pinot Gris</div>
-        <p class="wine-toe">De zachte textuur en lichte zoetheid van een Elzasser Pinot Gris gaan mee met de ketjap zonder de knapperige bonen te overstemmen. De rijpe peer- en perziktonen van de wijn sluiten aan op de licht karamelachtige zoetheid van de ketjap manis, terwijl de zuurgraad de knoflook en de witte peper ondersteunt. Pinot Gris heeft genoeg body om een rijsttafel bij te houden maar is nooit zo zwaar dat hij de lichte groentesmaak verdrinkt. De ideale wijn voor een gerecht dat draagt zonder op te vallen. Serveer op 12°C.</p>
-        <div class="wine-alt">Alternatief: Droge Grüner Veltliner — frisser en kruidiger, werkt uitstekend als de bonen centraal staan</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Pinot Gris</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Pinot Gris</span>
     </div>
+    <p class="wine-toelichting">De zachte textuur en lichte zoetheid van een Elzasser Pinot Gris gaan mee met de ketjap zonder de knapperige bonen te overstemmen. De rijpe peer- en perziktonen van de wijn sluiten aan op de licht karamelachtige zoetheid van de ketjap manis, terwijl de zuurgraad de knoflook en de witte peper ondersteunt. Pinot Gris heeft genoeg body om een rijsttafel bij te houden maar is nooit zo zwaar dat hij de lichte groentesmaak verdrinkt. De ideale wijn voor een gerecht dat draagt zonder op te vallen. Serveer op 12°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Droge Grüner Veltliner — frisser en kruidiger, werkt uitstekend als de bonen centraal staan</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

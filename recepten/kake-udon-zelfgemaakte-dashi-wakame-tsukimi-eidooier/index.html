@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Japan</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Kake Udon — udonnoedelsoep met zelfgemaakte dashi, wakame en tsukimi-eidooier</h1>
-      <p class="recipe-intro">De puurste soep van de Japanse keuken. Dikke, elastische udonnoedels in een kristalheldere, gouden dashi-bouillon — zacht, zilt en diep van umami. De tsukimi-eidooier drijft als een gele maan boven de noedels en stolt langzaam in de hete bouillon.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min (waarvan 30 min dashi trekken)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kommen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Japans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Kake Udon — udonnoedelsoep met zelfgemaakte dashi, wakame en tsukimi-eidooier</div>
+  <div class="recipe-desc">De puurste soep van de Japanse keuken. Dikke, elastische udonnoedels in een kristalheldere, gouden dashi-bouillon — zacht, zilt en diep van umami. De tsukimi-eidooier drijft als een gele maan boven de noedels en stolt langzaam in de hete bouillon.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min (waarvan 30 min dashi trekken)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Japans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de zelfgemaakte dashi</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1,2 l">1,2 l</span><span class="ing-name">koud water</span></li><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">kombu (gedroogde zeewierplaten — bij de toko)</span></li><li><span class="ing-amount" data-basis="25 g">25 g</span><span class="ing-name">katsuobushi (gedroogde bonitovlokken — bij de toko)</span></li></ul><h3 class="ing-group-title">Voor de kakejiru-bouillon (verhouding 8:1:1)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="800 ml">800 ml</span><span class="ing-name">zelfgemaakte dashi</span></li><li><span class="ing-amount" data-basis="100 ml">100 ml</span><span class="ing-name">usukuchi shoyu (lichte Japanse sojasaus — houdt de bouillon kristalhelder en goudgeel)</span></li><li><span class="ing-amount" data-basis="100 ml">100 ml</span><span class="ing-name">mirin</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">sake</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijne suiker (balans)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">dunne plakjes verse gember (optioneel — subtiele warmte)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf zout naar smaak</span></li></ul><h3 class="ing-group-title">Voor de udonnoedels</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">porties dikke udonnoedels (diepvries Sanuki udon = beste elastische bite; verse of gedroogde werkt ook)</span></li></ul><h3 class="ing-group-title">Voor de toppings</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="10 g">10 g</span><span class="ing-name">gedroogde wakame (5 min weken in koud water)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">vel nori, in dunne reepjes van 1×5cm geknipt</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">verse eidooiers (tsukimi-stijl — elk apart bewaren in een klein kommetje)</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">lente-uitjes, in flinterdunne schuine ringen</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geroosterd sesamzaad</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">paar druppels geroosterde sesamolie (finishing)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: tenkasu/tempurakruim (krokant accent)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">shichimi togarashi (aan tafel)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Zelfgemaakte dashi</strong><p>Kombu koud weken: Leg de kombu in 1,2 l koud water. 30 minuten laten staan — koud water trekt de umami langzaam en helder eruit. Breng op laag vuur tot 60–70°C — het water begint net te bewegen maar nooit te koken. Kombu 15 minuten laten trekken. Eruit halen. Vuur hoger tot 80–85°C. Katsuobushi toevoegen. 30–40 seconden laten zinken zonder te roeren. Pan van het vuur. 3 minuten trekken. Zeven door een fijne zeef. Nooit uitknijpen — dat maakt de dashi bitter. Resultaat: kristalheldere, goudkleurige bouillon.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Kakejiru-bouillon</strong><p>800ml dashi in een pan met usukuchi shoyu, mirin, sake, suiker en eventueel gember. Rustig aan de kook brengen — nooit hard laten koken. Proef — warm, zacht zoet-zout en diep umami. Warmhouden.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Toppings voorbereiden</strong><p>Wakame 5 minuten weken in koud water. Uitknijpen. Nori in dunne reepjes knippen. Lente-ui fijn snijden. Sesamzaad roosteren in een droge pan.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Udonnoedels koken</strong><p>Ruim water aan de kook (geen zout). Udon koken: diepvries 1 min, vers 2–3 min, gedroogd 8–10 min. Afgieten. Direct afspoelen onder koud stromend water — verwijdert zetmeel en geeft de noedels hun elastische bite. Dan 30 seconden opwarmen in vers kokend water. Goed laten uitlekken.</p></div></div><div class="step"><div class="step-num">9</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Kommen voorverwarmen — giet kokend water erin, wacht 30 seconden, leeggieten. Udonnoedels in de warme kommen. Wakame er losjes bij. Nori-reepjes aan één kant. Lente-ui erop. Sesamzaad strooien. Gloeiend hete bouillon royaal over de noedels schenken. Tsukimi-eidooier: Eén rauwe eidooier voorzichtig in het midden leggen — als een gele maan boven de bouillon. Druppel sesamolie. Direct serveren. Shichimi togarashi aan tafel.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Usukuchi:</strong> Usukuchi shoyu is essentieel voor kleur: Lichte sojasaus houdt de bouillon goudhelder. Gewone donkere soja maakt hem troebel bruin.</div><div class="tip-item"><strong>Kombu nooit laten koken:</strong> Bij kookpunt worden slijmstoffen actief — dashi wordt bitter en glad. Maximaal 70°C.</div><div class="tip-item"><strong>Katsuobushi nooit uitknijpen:</strong> Uitknijpen brengt bitterheid. Alleen laten zakken en voorzichtig zeven.</div><div class="tip-item"><strong>Noedels:</strong> Noedels nooit in de bouillon koken: Het vrijkomende zetmeel maakt de mooie heldere dashi direct troebel en slap.</div><div class="tip-item"><strong>Kommen voorverwarmen:</strong> De meest onderschatte stap — een warme kom houdt de soep veel langer op temperatuur.</div><div class="tip-item"><strong>Tsukimi — de maan in je kom:</strong> Roer de eidooier pas door vlak voor de laatste hap — romig, warm en ongelooflijk.</div><div class="tip-item"><strong>Alternatief eidooier:</strong> Wil je geen rauwe dooier? Gebruik een zachtgekookt ei van 6½ minuten — wit gestold, dooier nog vloeibaar en romig. Halveer en leg in de kom.</div><div class="tip-item"><strong>Variatie — kitsune udon:</strong> Aburaage (gefrituurde tofu in sojasaus + mirin + suiker gemarineerd) bovenop voor de meest geliefde udon-variante in Japan.</div><div class="tip-item"><strong>Alternatief dashi:</strong> Geen tijd? Dashi-sachets (teabag-vorm) 5 min in heet water = uitstekend alternatief. Shirodashi of kant-en-klare tsuyu verdund als snelle optie.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de zelfgemaakte dashi</div><div class="ing-row"><span>koud water</span><span class="ing-amount" data-basis="1,2 l">1,2 l</span></div><div class="ing-row"><span>kombu (gedroogde zeewierplaten — bij de toko)</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>katsuobushi (gedroogde bonitovlokken — bij de toko)</span><span class="ing-amount" data-basis="25 g">25 g</span></div><div class="ing-cat">Voor de kakejiru-bouillon (verhouding 8:1:1)</div><div class="ing-row"><span>zelfgemaakte dashi</span><span class="ing-amount" data-basis="800 ml">800 ml</span></div><div class="ing-row"><span>usukuchi shoyu (lichte Japanse sojasaus — houdt de bouillon kristalhelder en goudgeel)</span><span class="ing-amount" data-basis="100 ml">100 ml</span></div><div class="ing-row"><span>mirin</span><span class="ing-amount" data-basis="100 ml">100 ml</span></div><div class="ing-row"><span>sake</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>fijne suiker (balans)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>dunne plakjes verse gember (optioneel — subtiele warmte)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>snuf zout naar smaak</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de udonnoedels</div><div class="ing-row"><span>porties dikke udonnoedels (diepvries Sanuki udon = beste elastische bite; verse of gedroogde werkt ook)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-cat">Voor de toppings</div><div class="ing-row"><span>gedroogde wakame (5 min weken in koud water)</span><span class="ing-amount" data-basis="10 g">10 g</span></div><div class="ing-row"><span>vel nori, in dunne reepjes van 1×5cm geknipt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>verse eidooiers (tsukimi-stijl — elk apart bewaren in een klein kommetje)</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>lente-uitjes, in flinterdunne schuine ringen</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>geroosterd sesamzaad</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>paar druppels geroosterde sesamolie (finishing)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>eventueel: tenkasu/tempurakruim (krokant accent)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>shichimi togarashi (aan tafel)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Zelfgemaakte dashi</strong><br>Kombu koud weken: Leg de kombu in 1,2 l koud water. 30 minuten laten staan — koud water trekt de umami langzaam en helder eruit. Breng op laag vuur tot 60–70°C — het water begint net te bewegen maar nooit te koken. Kombu 15 minuten laten trekken. Eruit halen. Vuur hoger tot 80–85°C. Katsuobushi toevoegen. 30–40 seconden laten zinken zonder te roeren. Pan van het vuur. 3 minuten trekken. Zeven door een fijne zeef. Nooit uitknijpen — dat maakt de dashi bitter. Resultaat: kristalheldere, goudkleurige bouillon.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Kakejiru-bouillon</strong><br>800ml dashi in een pan met usukuchi shoyu, mirin, sake, suiker en eventueel gember. Rustig aan de kook brengen — nooit hard laten koken. Proef — warm, zacht zoet-zout en diep umami. Warmhouden.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Toppings voorbereiden</strong><br>Wakame 5 minuten weken in koud water. Uitknijpen. Nori in dunne reepjes knippen. Lente-ui fijn snijden. Sesamzaad roosteren in een droge pan.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Udonnoedels koken</strong><br>Ruim water aan de kook (geen zout). Udon koken: diepvries 1 min, vers 2–3 min, gedroogd 8–10 min. Afgieten. Direct afspoelen onder koud stromend water — verwijdert zetmeel en geeft de noedels hun elastische bite. Dan 30 seconden opwarmen in vers kokend water. Goed laten uitlekken.</div></div><div class="step"><div class="step-num">9</div><div class="step-text"><strong>Opbouwen</strong><br>Kommen voorverwarmen — giet kokend water erin, wacht 30 seconden, leeggieten. Udonnoedels in de warme kommen. Wakame er losjes bij. Nori-reepjes aan één kant. Lente-ui erop. Sesamzaad strooien. Gloeiend hete bouillon royaal over de noedels schenken. Tsukimi-eidooier: Eén rauwe eidooier voorzichtig in het midden leggen — als een gele maan boven de bouillon. Druppel sesamolie. Direct serveren. Shichimi togarashi aan tafel.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Usukuchi:</strong> Usukuchi shoyu is essentieel voor kleur: Lichte sojasaus houdt de bouillon goudhelder. Gewone donkere soja maakt hem troebel bruin.</p><p><strong>Kombu nooit laten koken:</strong> Bij kookpunt worden slijmstoffen actief — dashi wordt bitter en glad. Maximaal 70°C.</p><p><strong>Katsuobushi nooit uitknijpen:</strong> Uitknijpen brengt bitterheid. Alleen laten zakken en voorzichtig zeven.</p><p><strong>Noedels:</strong> Noedels nooit in de bouillon koken: Het vrijkomende zetmeel maakt de mooie heldere dashi direct troebel en slap.</p><p><strong>Kommen voorverwarmen:</strong> De meest onderschatte stap — een warme kom houdt de soep veel langer op temperatuur.</p><p><strong>Tsukimi — de maan in je kom:</strong> Roer de eidooier pas door vlak voor de laatste hap — romig, warm en ongelooflijk.</p><p><strong>Alternatief eidooier:</strong> Wil je geen rauwe dooier? Gebruik een zachtgekookt ei van 6½ minuten — wit gestold, dooier nog vloeibaar en romig. Halveer en leg in de kom.</p><p><strong>Variatie — kitsune udon:</strong> Aburaage (gefrituurde tofu in sojasaus + mirin + suiker gemarineerd) bovenop voor de meest geliefde udon-variante in Japan.</p><p><strong>Alternatief dashi:</strong> Geen tijd? Dashi-sachets (teabag-vorm) 5 min in heet water = uitstekend alternatief. Shirodashi of kant-en-klare tsuyu verdund als snelle optie.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Junmai Ginjo Sake — Japan (licht gekoeld)</div>
-        <div class="wine-druif">n.v.t. — rijstwijn</div>
-        <p class="wine-toe">Sake en dashi zijn gemaakt van dezelfde Japanse terroir. De zachte rijstumami sluit naadloos aan op katsuobushi-dashi. De milde zuren complementeren de mirin. Alles in harmonie — serveer op 8–10°C.</p>
-        <div class="wine-alt">Alternatief: Junmai Ginjo sake — Japan — Droog, rijstachtig, umami, zacht fruit, clean; Grüner Veltliner Federspiel — Wachau, Oostenrijk — Droog, fris, citrus, groene appel, witte peper, licht kruidig, mineraal</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Junmai Ginjo Sake — Japan (licht gekoeld)</div>
+    <div class="wine-meta">
+      <span class="wine-tag">n.v.t. — rijstwijn</span>
     </div>
+    <p class="wine-toelichting">Sake en dashi zijn gemaakt van dezelfde Japanse terroir. De zachte rijstumami sluit naadloos aan op katsuobushi-dashi. De milde zuren complementeren de mirin. Alles in harmonie — serveer op 8–10°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Junmai Ginjo sake — Japan — Droog, rijstachtig, umami, zacht fruit, clean; Grüner Veltliner Federspiel — Wachau, Oostenrijk — Droog, fris, citrus, groene appel, witte peper, licht kruidig, mineraal</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kommen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

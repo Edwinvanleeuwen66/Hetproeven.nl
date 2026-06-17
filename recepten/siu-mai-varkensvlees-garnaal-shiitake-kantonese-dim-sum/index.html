@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Hong Kong</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Siu Mai met Varkensvlees, Garnaal en Shiitake — Kantonese Dim Sum-Stijl</h1>
-      <p class="recipe-intro">Lung King Heen Hong Kong-geïnspireerde siu mai: open gestoomde dumplings van varkensvlees en garnaal (helft fijn, helft grof — dat is de sleuteltechniek), met een pittige rode chilisaus.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 1 uur (plus 20 min koelen)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen (18-20 siu mai)</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Siu Mai met Varkensvlees, Garnaal en Shiitake — Kantonese Dim Sum-Stijl</div>
+  <div class="recipe-desc">Lung King Heen Hong Kong-geïnspireerde siu mai: open gestoomde dumplings van varkensvlees en garnaal (helft fijn, helft grof — dat is de sleuteltechniek), met een pittige rode chilisaus.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 1 uur (plus 20 min koelen)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de siu mai-vulling</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="250g">250g</span><span class="ing-name">rauwe grote garnalen, gepeld (helft fijn gehakt tot bijna pasta, helft grof in stukjes van 4-5mm)</span></li><li><span class="ing-amount" data-basis="250g">250g</span><span class="ing-name">varkensgehakt (niet te mager — 80/20 mager/vet)</span></li><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">gedroogde shiitake (30 min weken, uitknijpen, steeltjes weg, fijn hakken) of 100g verse shiitake (fijn hakken, 2 min droog bakken)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, alleen het witte deel, zeer fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine teen knoflook, zeer fijn geraspt</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">verse gember, zeer fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">Shaoxing rijstwijn (bij de toko; alternatief: droge sherry)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">oestersaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">sesamolie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">maizena</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">witte peper</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de wrappers</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20-24">20-24</span><span class="ing-name">ronde wonton- of gyoza-wrappers (bij de toko — 8-9cm diameter)</span></li></ul><h3 class="ing-group-title">Garnering (bovenop)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">wortel, extreem fijn gehakt (traditioneel Kantonees kleuraccent)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">foreleitjes of tobiko (na het stomen — luxe optie)</span></li></ul><h3 class="ing-group-title">Voor de pittige rode saus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">chiliolie met crisp (Lao Gan Ma of Lee Kum Kee — bij de toko)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">Chinese zwarte azijn / Chinkiang (bij de toko; authentieker dan rijstazijn)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">honing of suiker</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">verse gember, zeer fijn geraspt</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">sesamolie</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">limoensap</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">heet water</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">lente-ui, zeer fijn gesneden</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Shiitake voorbereiden</strong><p>Gedroogde shiitake: 30 min weken in heet water. Uitknijpen. Steeltjes verwijderen. Hoedjes zeer fijn hakken. Verse shiitake: fijn hakken, 2 minuten droog bakken tot het vocht verdampt. Laten afkoelen.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Vulling mengen en binden</strong><p>Garnalen verdelen: helft fijn hakken tot bijna pasta (voor binding), helft grof in stukjes van 4-5mm (voor bite). Fijne garnaal, grove garnaalstukjes en varkensgehakt in een kom. Alle overige ingrediënten toevoegen: sojasaus, Shaoxing, oestersaus, sesamolie, maizena, suiker, witte peper, zout, shiitake, lente-ui, knoflook, gember. In één richting roeren (altijd met de klok mee) — 2-3 minuten krachtig tot de vulling plakkerig en elastisch wordt. Dit is de dim sum-sleuteltechniek. 20 minuten in de koelkast.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Pittige rode saus</strong><p>Alle sausingrediënten mengen en roeren tot de saus glanst. Proef — pittig, zuur, zout, licht zoet, aromatisch. Aanpassen naar smaak.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Siu mai vormen</strong><p>Wrapper in de vlakke hand. 1 volle theelepel vulling in het midden. Zijkanten omhoog brengen rondom de vulling — niet sluiten, bovenkant blijft open. Zachtjes knijpen tot een cilindertje. Onderkant licht platdrukken zodat hij rechtop staat. Bovenkant gladstrijken met een nat lepeltje. Fijngehakte wortel erop als kleuraccent.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Stomen en serveren</strong><p>Bamboemandje bekleden met geperforeerd bakpapier of ingevet koolblad. Siu mai erin met ruimte ertussen. 8-10 minuten stomen op hoog vuur. Klaar als de wrapper glanzend doorschijnend is en de vulling stevig maar nog sappig aanvoelt. Luxe finishing: foreleitjes of tobiko na het stomen bovenop — nooit ervoor. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Helft fijn, helft grof hakken:</strong> fijne garnaal bindt de vulling, grove stukjes geven de luxe bite. Dit is het grote verschil met gewone siu mai waarbij alles fijn gedraaid wordt.</div><div class="tip-item"><strong>Varkensgehakt niet te mager:</strong> siu mai moet sappig zijn. Te mager wordt droog en korrelig.</div><div class="tip-item"><strong>Een richting roeren:</strong> altijd dezelfde richting — dit ontwikkelt de eiwitbinding die de veerkrachtige textuur geeft.</div><div class="tip-item"><strong>Koud houden:</strong> koude vulling is stijver en makkelijker te vormen. 20 min koelkast is essentieel.</div><div class="tip-item"><strong>Chinese zwarte azijn in de saus:</strong> Chinkiang zwarte azijn is authentieker en dieper dan rijstazijn.</div><div class="tip-item"><strong>Rode saus apart serveren:</strong> niet alles over de siu mai — dan worden ze nat.</div><div class="tip-item"><strong>Foreleitjes na het stomen:</strong> kleur en textuur gaan verloren als je ze erin stoomt.</div><div class="tip-item"><strong>Invriezen:</strong> voor het stomen invriezen in een laag. Direct bevroren stomen — 12-14 minuten.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de siu mai-vulling</div><div class="ing-row"><span>rauwe grote garnalen, gepeld (helft fijn gehakt tot bijna pasta, helft grof in stukjes van 4-5mm)</span><span class="ing-amount" data-basis="250g">250g</span></div><div class="ing-row"><span>varkensgehakt (niet te mager — 80/20 mager/vet)</span><span class="ing-amount" data-basis="250g">250g</span></div><div class="ing-row"><span>gedroogde shiitake (30 min weken, uitknijpen, steeltjes weg, fijn hakken) of 100g verse shiitake (fijn hakken, 2 min droog bakken)</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>lente-uitjes, alleen het witte deel, zeer fijn gesneden</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>kleine teen knoflook, zeer fijn geraspt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>verse gember, zeer fijn geraspt</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Shaoxing rijstwijn (bij de toko; alternatief: droge sherry)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>maizena</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-cat">Voor de wrappers</div><div class="ing-row"><span>ronde wonton- of gyoza-wrappers (bij de toko — 8-9cm diameter)</span><span class="ing-amount" data-basis="20-24">20-24</span></div><div class="ing-cat">Garnering (bovenop)</div><div class="ing-row"><span>wortel, extreem fijn gehakt (traditioneel Kantonees kleuraccent)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>foreleitjes of tobiko (na het stomen — luxe optie)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de pittige rode saus</div><div class="ing-row"><span>chiliolie met crisp (Lao Gan Ma of Lee Kum Kee — bij de toko)</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Chinese zwarte azijn / Chinkiang (bij de toko; authentieker dan rijstazijn)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>honing of suiker</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>verse gember, zeer fijn geraspt</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>sesamolie</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>heet water</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>lente-ui, zeer fijn gesneden</span><span class="ing-amount" data-basis="½">½</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Shiitake voorbereiden</strong><br>Gedroogde shiitake: 30 min weken in heet water. Uitknijpen. Steeltjes verwijderen. Hoedjes zeer fijn hakken. Verse shiitake: fijn hakken, 2 minuten droog bakken tot het vocht verdampt. Laten afkoelen.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Vulling mengen en binden</strong><br>Garnalen verdelen: helft fijn hakken tot bijna pasta (voor binding), helft grof in stukjes van 4-5mm (voor bite). Fijne garnaal, grove garnaalstukjes en varkensgehakt in een kom. Alle overige ingrediënten toevoegen: sojasaus, Shaoxing, oestersaus, sesamolie, maizena, suiker, witte peper, zout, shiitake, lente-ui, knoflook, gember. In één richting roeren (altijd met de klok mee) — 2-3 minuten krachtig tot de vulling plakkerig en elastisch wordt. Dit is de dim sum-sleuteltechniek. 20 minuten in de koelkast.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Pittige rode saus</strong><br>Alle sausingrediënten mengen en roeren tot de saus glanst. Proef — pittig, zuur, zout, licht zoet, aromatisch. Aanpassen naar smaak.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Siu mai vormen</strong><br>Wrapper in de vlakke hand. 1 volle theelepel vulling in het midden. Zijkanten omhoog brengen rondom de vulling — niet sluiten, bovenkant blijft open. Zachtjes knijpen tot een cilindertje. Onderkant licht platdrukken zodat hij rechtop staat. Bovenkant gladstrijken met een nat lepeltje. Fijngehakte wortel erop als kleuraccent.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Stomen en serveren</strong><br>Bamboemandje bekleden met geperforeerd bakpapier of ingevet koolblad. Siu mai erin met ruimte ertussen. 8-10 minuten stomen op hoog vuur. Klaar als de wrapper glanzend doorschijnend is en de vulling stevig maar nog sappig aanvoelt. Luxe finishing: foreleitjes of tobiko na het stomen bovenop — nooit ervoor. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Helft fijn, helft grof hakken:</strong> fijne garnaal bindt de vulling, grove stukjes geven de luxe bite. Dit is het grote verschil met gewone siu mai waarbij alles fijn gedraaid wordt.</p><p><strong>Varkensgehakt niet te mager:</strong> siu mai moet sappig zijn. Te mager wordt droog en korrelig.</p><p><strong>Een richting roeren:</strong> altijd dezelfde richting — dit ontwikkelt de eiwitbinding die de veerkrachtige textuur geeft.</p><p><strong>Koud houden:</strong> koude vulling is stijver en makkelijker te vormen. 20 min koelkast is essentieel.</p><p><strong>Chinese zwarte azijn in de saus:</strong> Chinkiang zwarte azijn is authentieker en dieper dan rijstazijn.</p><p><strong>Rode saus apart serveren:</strong> niet alles over de siu mai — dan worden ze nat.</p><p><strong>Foreleitjes na het stomen:</strong> kleur en textuur gaan verloren als je ze erin stoomt.</p><p><strong>Invriezen:</strong> voor het stomen invriezen in een laag. Direct bevroren stomen — 12-14 minuten.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Vouvray Demi-sec AOC — Loire, Frankrijk</div>
-        <div class="wine-druif">Chenin Blanc</div>
-        <p class="wine-toe">De zachte restzoetheid tempert de chilihitte. De levendige zuren reinigen de vette varkensvulling. Halfdroge Chenin Blanc — genoeg zoetheid voor chili, genoeg zuur voor varkensvulling en dumplingdeeg.</p>
-        <div class="wine-alt">Alternatief: Champagne Extra Brut AOC of Grüner Veltliner Federspiel (Wachau)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Vouvray Demi-sec AOC — Loire, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Chenin Blanc</span>
     </div>
+    <p class="wine-toelichting">De zachte restzoetheid tempert de chilihitte. De levendige zuren reinigen de vette varkensvulling. Halfdroge Chenin Blanc — genoeg zoetheid voor chili, genoeg zuur voor varkensvulling en dumplingdeeg.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Champagne Extra Brut AOC of Grüner Veltliner Federspiel (Wachau)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen (18-20 siu mai)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

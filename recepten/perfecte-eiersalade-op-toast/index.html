@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Nederland</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">De perfecte eiersalade op toast</h1>
-      <p class="recipe-intro">De eiersalade die niemand meer vergeet. Kewpie mayo voor de Japanse romige diepte, de techniek van dooiers gladblenden als basis en witten er grof doorheen vouwen, en verse dragon als het kruid dat iedereen verrast.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 25 min + 15 min koelen</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> open toasts</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Nederlands</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">De perfecte eiersalade op toast</div>
+  <div class="recipe-desc">De eiersalade die niemand meer vergeet. Kewpie mayo voor de Japanse romige diepte, de techniek van dooiers gladblenden als basis en witten er grof doorheen vouwen, en verse dragon als het kruid dat iedereen verrast.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 25 min + 15 min koelen</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Nederlands</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de eiersalade</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">grote biologische eieren</span></li><li><span class="ing-amount" data-basis="55 g">55 g</span><span class="ing-name">Kewpie mayonaise (bij de toko of online)</span></li><li><span class="ing-amount" data-basis="25 g">25 g</span><span class="ing-name">volle crème fraîche</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">Dijonmosterd</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijne mosterd</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">Worcestersauce</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne rasp van ¼ citroen</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijne kristalsuiker</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine sjalot, extreem fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">witte wijnazijn</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">verse dragon (tarragon), fijn gesneden</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">verse bieslook, fijn gesneden</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">cornichons (3–4 stuks), in fijne brunoise van 3 mm</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">vadouvan of milde kerriepoeder (optioneel maar sterk aanbevolen)</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">kurkuma (optioneel, voor warme goudkleur)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout + versgemalen witte peper</span></li></ul><h3 class="ing-group-title">Brood</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">dikke sneden witbrood, volkorenbrood of stokbroodschijven</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">roomboter (kamertemperatuur)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">teentje knoflook (inwrijven)</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">extra bieslook + dragonblaadjes</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">waterkers of rucola</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">fleur de sel + zwarte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Eieren koken</strong><p>eieren exact 10 min koken in kokend water. Direct 5 min in ijskoud water. Halveren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Sjalot macereren</strong><p>sjalot extreem fijn snipperen + witte wijnazijn + snuf zout. 10 min macereren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Dooiercrème</strong><p>4 EIDOOIERS in kom. Kewpie + crème fraîche + Dijonmosterd + fijne mosterd + Worcestersauce + citroensap + rasp + suiker + eventueel vadouvan + kurkuma toevoegen. GLAD BLENDEN tot zijdezachte crème.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Eiwitten hakken</strong><p>eiwitten van alle 6 eieren grof hakken (1,5 cm). Niet te fijn — structuur is essentieel.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Samenstellen</strong><p>gemarineerde sjalot (uitgelekt) + dragon + bieslook + cornichonbrunoise door de dooiercrème roeren. Dan gehakte eiwitten er VOORZICHTIG door spatelen — niet roeren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rusten</strong><p>op smaak met witte peper + zout. 15 min koel laten rusten.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Toast</strong><p>brood roosteren. Direct knoflook inwrijven. Dun besmeren met boter.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveren</strong><p>royale lepel eiersalade op warm brood. Bieslook + dragon. Waterkers of rucola. FLEUR DE SEL allerlaatst. Zwarte peper.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Kewpie is het geheime wapen:</strong> voller, zachter en umami-rijker dan gewone mayo. Bij de toko of online.</div><div class="tip-item"><strong>De dooier-mayo techniek:</strong> de sleutel tot een basis tien keer romiger dan simpelweg mengen.</div><div class="tip-item"><strong>Dragon is het smaakwonder:</strong> elegant anijsachtig accent dat perfect bij ei past.</div><div class="tip-item"><strong>Vadouvan — niet weglaten:</strong> geeft warmte en bijna restaurantachtige geur zonder kerrie te worden.</div><div class="tip-item"><strong>Niet te koud serveren:</strong> 10 min voor serveren uit koelkast. Koelkastkou maakt ei en mayo vlakker.</div><div class="tip-item"><strong>Worcestersauce altijd:</strong> je proeft hem niet maar de umami-diepte is onmisbaar.</div><div class="tip-item"><strong>Variatie — kappertjes:</strong> 1 el grof gehakte kappertjes voor zilte brine en punch.</div><div class="tip-item"><strong>Variatie — ansjovis:</strong> 1–2 fijngesneden filets in de dooiercrème — spectaculaire umami-diepte.</div><div class="tip-item"><strong>Variatie — gerookte zalm:</strong> dunne plakjes op het brood vóór de eiersalade.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de eiersalade</div><div class="ing-row"><span>grote biologische eieren</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>Kewpie mayonaise (bij de toko of online)</span><span class="ing-amount" data-basis="55 g">55 g</span></div><div class="ing-row"><span>volle crème fraîche</span><span class="ing-amount" data-basis="25 g">25 g</span></div><div class="ing-row"><span>Dijonmosterd</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne mosterd</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>Worcestersauce</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>fijne rasp van ¼ citroen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fijne kristalsuiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kleine sjalot, extreem fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>witte wijnazijn</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>verse dragon (tarragon), fijn gesneden</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>verse bieslook, fijn gesneden</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>cornichons (3–4 stuks), in fijne brunoise van 3 mm</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>vadouvan of milde kerriepoeder (optioneel maar sterk aanbevolen)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kurkuma (optioneel, voor warme goudkleur)</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>zout + versgemalen witte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Brood</div><div class="ing-row"><span>dikke sneden witbrood, volkorenbrood of stokbroodschijven</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>roomboter (kamertemperatuur)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>teentje knoflook (inwrijven)</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>extra bieslook + dragonblaadjes</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>waterkers of rucola</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>fleur de sel + zwarte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Eieren koken</strong><br>eieren exact 10 min koken in kokend water. Direct 5 min in ijskoud water. Halveren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Sjalot macereren</strong><br>sjalot extreem fijn snipperen + witte wijnazijn + snuf zout. 10 min macereren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Dooiercrème</strong><br>4 EIDOOIERS in kom. Kewpie + crème fraîche + Dijonmosterd + fijne mosterd + Worcestersauce + citroensap + rasp + suiker + eventueel vadouvan + kurkuma toevoegen. GLAD BLENDEN tot zijdezachte crème.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Eiwitten hakken</strong><br>eiwitten van alle 6 eieren grof hakken (1,5 cm). Niet te fijn — structuur is essentieel.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Samenstellen</strong><br>gemarineerde sjalot (uitgelekt) + dragon + bieslook + cornichonbrunoise door de dooiercrème roeren. Dan gehakte eiwitten er VOORZICHTIG door spatelen — niet roeren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Rusten</strong><br>op smaak met witte peper + zout. 15 min koel laten rusten.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Toast</strong><br>brood roosteren. Direct knoflook inwrijven. Dun besmeren met boter.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveren</strong><br>royale lepel eiersalade op warm brood. Bieslook + dragon. Waterkers of rucola. FLEUR DE SEL allerlaatst. Zwarte peper.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Kewpie is het geheime wapen:</strong> voller, zachter en umami-rijker dan gewone mayo. Bij de toko of online.</p><p><strong>De dooier-mayo techniek:</strong> de sleutel tot een basis tien keer romiger dan simpelweg mengen.</p><p><strong>Dragon is het smaakwonder:</strong> elegant anijsachtig accent dat perfect bij ei past.</p><p><strong>Vadouvan — niet weglaten:</strong> geeft warmte en bijna restaurantachtige geur zonder kerrie te worden.</p><p><strong>Niet te koud serveren:</strong> 10 min voor serveren uit koelkast. Koelkastkou maakt ei en mayo vlakker.</p><p><strong>Worcestersauce altijd:</strong> je proeft hem niet maar de umami-diepte is onmisbaar.</p><p><strong>Variatie — kappertjes:</strong> 1 el grof gehakte kappertjes voor zilte brine en punch.</p><p><strong>Variatie — ansjovis:</strong> 1–2 fijngesneden filets in de dooiercrème — spectaculaire umami-diepte.</p><p><strong>Variatie — gerookte zalm:</strong> dunne plakjes op het brood vóór de eiersalade.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Crémant d&#x27;Alsace Brut — Alsace, Frankrijk</div>
-        <div class="wine-druif">Pinot Blanc, Auxerrois en/of Chardonnay</div>
-        <p class="wine-toe">De mousse ruimt mayo en eidooier op, de briochetoon past bij toast, en de zachte stijl laat het comfortfood-karakter intact.</p>
-        <div class="wine-alt">Alternatief: Crémant d&#x27;Alsace Brut — Droog, fris, fijne mousse, citrus, licht gistig; Chablis AOC — Droog, strak, mineraal, citrus, groene appel, krijtig</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Crémant d&#x27;Alsace Brut — Alsace, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Pinot Blanc, Auxerrois en/of Chardonnay</span>
     </div>
+    <p class="wine-toelichting">De mousse ruimt mayo en eidooier op, de briochetoon past bij toast, en de zachte stijl laat het comfortfood-karakter intact.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Crémant d&#x27;Alsace Brut — Droog, fris, fijne mousse, citrus, licht gistig; Chablis AOC — Droog, strak, mineraal, citrus, groene appel, krijtig</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 open toasts');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Spanje</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Tosta met gekarameliseerde appel, chorizo en manchego</h1>
-      <p class="recipe-intro">Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 20 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Tosta met gekarameliseerde appel, chorizo en manchego</div>
+  <div class="recipe-desc">Geroosterd brood met gekarameliseerde appelschijfjes, krokante chorizo en gesmolten manchego.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 20 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Tosta</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8">8</span><span class="ing-name">sneetjes stokbrood</span></li><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">chorizo, in dunne plakjes</span></li><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">manchego, dun gesneden</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">appels (Granny Smith), in dunne schijfjes</span></li><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">boter</span></li><li><span class="ing-amount" data-basis="15 ml">15 ml</span><span class="ing-name">honing</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">takje tijm</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">zwarte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Chorizo bakken</strong><p>bak chorizo 2 minuten in droge pan tot licht krokant. Schep eruit, laat vet in de pan.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Appel karameliseren</strong><p>voeg boter toe aan het chorizovet. Bak appelschijfjes 2 minuten per kant tot goudgeel. Voeg honing en tijm toe.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Brood en manchego</strong><p>rooster het brood. Leg manchego erop en zet kort onder de grill tot de kaas smelt.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Beleg en serveer</strong><p>leg gekarameliseerde appel op de gesmolten manchego. Leg chorizo erop. Druppel wat extra honing erop en serveer direct.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">gebruik een zure appel zoals Granny Smith — houdt beter stand bij het bakken en snijdt door de vettigheid van chorizo en manchego.</div><div class="tip-item"><strong>Techniek:</strong> bak de chorizo in zijn eigen vet — voeg geen extra olie toe. Het rode chorizo-vet dat vrijkomt is de smaakdrager voor de appel.</div><div class="tip-item"><strong>Presentatie:</strong> leg de manchego schuin over de chorizo zodat hij gedeeltelijk smelt — dat geeft een rustieke maar elegante look die de smaken visueel aankondict.</div><div class="tip-item"><strong>Variatie:</strong> voeg een druppel honing toe na het bakken voor een zoet-pittige balans, of bestrooi met gerookt zout voor extra diepte.</div><div class="tip-item"><strong>Alternatief:</strong> geen chorizo? Gebruik morcilla (bloedworst) — de aardsere, zoetere smaak van morcilla met appel is een even klassieke Spaanse combinatie.</div><div class="tip-item"><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</div><div class="tip-item"><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Tosta</div><div class="ing-row"><span>sneetjes stokbrood</span><span class="ing-amount" data-basis="8">8</span></div><div class="ing-row"><span>chorizo, in dunne plakjes</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>manchego, dun gesneden</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>appels (Granny Smith), in dunne schijfjes</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>boter</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>honing</span><span class="ing-amount" data-basis="15 ml">15 ml</span></div><div class="ing-row"><span>takje tijm</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>zwarte peper</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Chorizo bakken</strong><br>bak chorizo 2 minuten in droge pan tot licht krokant. Schep eruit, laat vet in de pan.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Appel karameliseren</strong><br>voeg boter toe aan het chorizovet. Bak appelschijfjes 2 minuten per kant tot goudgeel. Voeg honing en tijm toe.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Brood en manchego</strong><br>rooster het brood. Leg manchego erop en zet kort onder de grill tot de kaas smelt.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Beleg en serveer</strong><br>leg gekarameliseerde appel op de gesmolten manchego. Leg chorizo erop. Druppel wat extra honing erop en serveer direct.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>gebruik een zure appel zoals Granny Smith — houdt beter stand bij het bakken en snijdt door de vettigheid van chorizo en manchego.</p><p><strong>Techniek:</strong> bak de chorizo in zijn eigen vet — voeg geen extra olie toe. Het rode chorizo-vet dat vrijkomt is de smaakdrager voor de appel.</p><p><strong>Presentatie:</strong> leg de manchego schuin over de chorizo zodat hij gedeeltelijk smelt — dat geeft een rustieke maar elegante look die de smaken visueel aankondict.</p><p><strong>Variatie:</strong> voeg een druppel honing toe na het bakken voor een zoet-pittige balans, of bestrooi met gerookt zout voor extra diepte.</p><p><strong>Alternatief:</strong> geen chorizo? Gebruik morcilla (bloedworst) — de aardsere, zoetere smaak van morcilla met appel is een even klassieke Spaanse combinatie.</p><p><strong>Rusttijd:</strong> laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.</p><p><strong>Balans:</strong> vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Cava Brut</div>
-        <div class="wine-druif">Macabeo, Xarel·lo, Parellada</div>
-        <p class="wine-toe">De bellen van Cava snijden door de rijkdom van de gesmolten manchego en het vet van de chorizo, terwijl de droge friszuurheid de zoetheid van de appel balanceert. Een Cava Brut heeft meer dosage dan Brut Nature en daardoor een licht ronder karakter — perfect bij dit combinatie van zoet, hartig en vettig. De lichte gisttonen van de Cava sluiten aan op de kaasrijping van de manchego. In Catalonië is Cava de vanzelfsprekende begeleider bij kaas- en charcuteriegerechten. Serveer ijskoud op 7°C.</p>
-        <div class="wine-alt">Alternatief: Rioja Joven — licht en fruitig, werkt als warme begeleider bij de chorizo</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Cava Brut</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Macabeo, Xarel·lo, Parellada</span>
     </div>
+    <p class="wine-toelichting">De bellen van Cava snijden door de rijkdom van de gesmolten manchego en het vet van de chorizo, terwijl de droge friszuurheid de zoetheid van de appel balanceert. Een Cava Brut heeft meer dosage dan Brut Nature en daardoor een licht ronder karakter — perfect bij dit combinatie van zoet, hartig en vettig. De lichte gisttonen van de Cava sluiten aan op de kaasrijping van de manchego. In Catalonië is Cava de vanzelfsprekende begeleider bij kaas- en charcuteriegerechten. Serveer ijskoud op 7°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Rioja Joven — licht en fruitig, werkt als warme begeleider bij de chorizo</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

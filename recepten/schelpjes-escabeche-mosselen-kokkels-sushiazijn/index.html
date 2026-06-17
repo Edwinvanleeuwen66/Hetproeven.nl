@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Zeeland</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Schelpjes en escabeche — mosselen en kokkels met sushiazijn-escabeche en kappertjes</h1>
-      <p class="recipe-intro">Gestoomde Zeeuwse mosselen en kokkels gemarineerd in een aromatische, dunne escabeche van rode en gele paprika, sushiazijn en geroosterd komijn — het schelpenvocht geeft de saus zilte diepte.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 45 min + 20 min marineren</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Nederlands</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Schelpjes en escabeche — mosselen en kokkels met sushiazijn-escabeche en kappertjes</div>
+  <div class="recipe-desc">Gestoomde Zeeuwse mosselen en kokkels gemarineerd in een aromatische, dunne escabeche van rode en gele paprika, sushiazijn en geroosterd komijn — het schelpenvocht geeft de saus zilte diepte.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 45 min + 20 min marineren</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Nederlands</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de mosselen en kokkels</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="400 g + 300 g">400 g + 300 g</span><span class="ing-name">Zeeuwse mosselen + kokkels, schoongemaakt</span></li><li><span class="ing-amount" data-basis="100 ml + 1 + 1">100 ml + 1 + 1</span><span class="ing-name">droge witte wijn + sjalot grof gesneden + teentje knoflook + zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de escabeche</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">extra vergine olijfolie (voor het bakken)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine sjalot, zeer fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">teentjes knoflook, zeer fijn gehakt</span></li><li><span class="ing-amount" data-basis="½ + ½">½ + ½</span><span class="ing-name">rode paprika + gele paprika, in fijne brunoise (3–4 mm blokjes)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">komijnzaad (geroosterd en licht gekneusd)</span></li><li><span class="ing-amount" data-basis="1 + 1">1 + 1</span><span class="ing-name">klein laurierblaadje + klein takje tijm</span></li><li><span class="ing-amount" data-basis="80 ml">80 ml</span><span class="ing-name">gezeefd schelpenkookvocht (essentieel voor zilte diepte)</span></li><li><span class="ing-amount" data-basis="80 ml">80 ml</span><span class="ing-name">sushiazijn (geeft milde licht zoete zuurheid — niet vervangen)</span></li><li><span class="ing-amount" data-basis="50 ml + ½ tl">50 ml + ½ tl</span><span class="ing-name">droge witte wijn + fijne suiker</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">cayennepeper + zout (voorzichtig — schelpenvocht is al zout)</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">extra vergine olijfolie (rauw, als finishing)</span></li></ul><h3 class="ing-group-title">Voor de tomatenbrunoise</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">grote rijpe tomaat — ontveld, zaadjes verwijderd, fijne brunoise + snuf zout + druppels olijfolie</span></li></ul><h3 class="ing-group-title">Voor de gefrituurde kappertjes</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">kleine kappertjes, afgespoeld en grondig drooggedept</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">neutrale olie (180°C)</span></li></ul><h3 class="ing-group-title">Voor de gemarineerde avocado</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 + 1 el + 1 tl">1 + 1 el + 1 tl</span><span class="ing-name">rijpe avocado in blokjes van 1 cm + olijfolie + citroensap + witte peper + fleur de sel</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">kleine basilicumblaadjes, platte peterselie of cress, goede olijfolie (rauw), eventueel citroenrasp</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Komijn roosteren</strong><p>30 sec roosteren in droge pan tot geurend. Licht kneuzen in vijzel. Subtiel doseren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Mosselen en kokkels stomen</strong><p>witte wijn + sjalot + knoflook + peper in grote pan. Aan de kook. Mosselen en kokkels toevoegen. 2–3 minuten stomen tot net open. Eruit scheppen. Kookvocht zeven — 80 ml bewaren. Tweederde schelpen uit de schelp halen. Mooiste exemplaren in de schelp bewaren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Escabeche</strong><p>3 el olijfolie in kleine pan. Sjalot, knoflook, rode en gele paprikabrunoise, laurier, tijm en komijn 3–4 minuten zacht fruiten. Groenten iets zachter maar fris van kleur.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus bouwen</strong><p>schelpenvocht + sushiazijn + witte wijn + suiker + cayennepeper toevoegen. 2–3 minuten zacht trekken. Voorzichtig op smaak met zout. Laurier en tijm verwijderen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Marineren</strong><p>losse schelpen aan de WARME ESCABECHE toevoegen. 15–20 MINUTEN MARINEREN. Niet doorkoken. Af en toe voorzichtig omroeren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Rauwe olijfolie</strong><p>2 el rauwe olijfolie vlak voor serveren door escabeche roeren.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Tomaat</strong><p>kruisingsnede, 10 sec in kokend water, koud spoelen. Ontvellen, zaadjes verwijderen, fijne brunoise. Licht bestrooien met zout + druppels olijfolie.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Kappertjes frituren</strong><p>extreem grondig droogdeppen. Frituren op 180°C tot opengebloeid (1–2 min). Uitlekken. PAS OP ALLERLAATSTE MOMENT toevoegen.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Avocado</strong><p>blokjes voorzichtig mengen met olijfolie, citroensap, witte peper en fleur de sel. Pas vlak voor serveren bereiden.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Opbouw</strong><p>dunne gelijkmatige laag escabeche met paprikabrunoise op elk koud bord. Schelpen losjes erop. Avocado en tomatenbrunoise ertussendoor. Op allerlaatste moment KAPPERTJES, basilicum, peterselie en olijfolie als finishing.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Schelpenvocht is goud:</strong> nooit weggooien — geeft de escabeche zilte diepte die olijfolie en azijn alleen niet bereiken.</div><div class="tip-item"><strong>Sushiazijn is essentieel:</strong> geeft een mildere, licht zoete zuurheid die de escabeche eleganter maakt dan witte wijnazijn.</div><div class="tip-item"><strong>Komijn subtiel doseren:</strong> een halve theelepel is genoeg. Te veel overheerst de delicate schelpen.</div><div class="tip-item"><strong>Kappertjes:</strong> Kappertjes op het allerlaatste moment: zelfs 2 minuten in de vochtige saus maakt ze zacht.</div><div class="tip-item"><strong>Tip — voorgekookte mosselen:</strong> gebruik vacuumverpakte mosselen en kokkels. Marineren in warme escabeche 10 minuten. Schelpenvocht vervangen door kippenbouillon + 1 tl vissaus.</div><div class="tip-item"><strong>Variatie — scheerenmessen:</strong> voeg ½ kg scheerenmessen toe als luxere versie. Aanzetten in hete olie met knoflook en tijm, blussen met witte wijn, 1 minuut afgaren.</div><div class="tip-item"><strong>Variatie — venkellinten:</strong> flinterdunne venkellinten geven crunch en subtiele anijsachtige frisheid.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de mosselen en kokkels</div><div class="ing-row"><span>Zeeuwse mosselen + kokkels, schoongemaakt</span><span class="ing-amount" data-basis="400 g + 300 g">400 g + 300 g</span></div><div class="ing-row"><span>droge witte wijn + sjalot grof gesneden + teentje knoflook + zwarte peper</span><span class="ing-amount" data-basis="100 ml + 1 + 1">100 ml + 1 + 1</span></div><div class="ing-cat">Voor de escabeche</div><div class="ing-row"><span>extra vergine olijfolie (voor het bakken)</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>kleine sjalot, zeer fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>teentjes knoflook, zeer fijn gehakt</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>rode paprika + gele paprika, in fijne brunoise (3–4 mm blokjes)</span><span class="ing-amount" data-basis="½ + ½">½ + ½</span></div><div class="ing-row"><span>komijnzaad (geroosterd en licht gekneusd)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>klein laurierblaadje + klein takje tijm</span><span class="ing-amount" data-basis="1 + 1">1 + 1</span></div><div class="ing-row"><span>gezeefd schelpenkookvocht (essentieel voor zilte diepte)</span><span class="ing-amount" data-basis="80 ml">80 ml</span></div><div class="ing-row"><span>sushiazijn (geeft milde licht zoete zuurheid — niet vervangen)</span><span class="ing-amount" data-basis="80 ml">80 ml</span></div><div class="ing-row"><span>droge witte wijn + fijne suiker</span><span class="ing-amount" data-basis="50 ml + ½ tl">50 ml + ½ tl</span></div><div class="ing-row"><span>cayennepeper + zout (voorzichtig — schelpenvocht is al zout)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>extra vergine olijfolie (rauw, als finishing)</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-cat">Voor de tomatenbrunoise</div><div class="ing-row"><span>grote rijpe tomaat — ontveld, zaadjes verwijderd, fijne brunoise + snuf zout + druppels olijfolie</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Voor de gefrituurde kappertjes</div><div class="ing-row"><span>kleine kappertjes, afgespoeld en grondig drooggedept</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>neutrale olie (180°C)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de gemarineerde avocado</div><div class="ing-row"><span>rijpe avocado in blokjes van 1 cm + olijfolie + citroensap + witte peper + fleur de sel</span><span class="ing-amount" data-basis="1 + 1 el + 1 tl">1 + 1 el + 1 tl</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>kleine basilicumblaadjes, platte peterselie of cress, goede olijfolie (rauw), eventueel citroenrasp</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Komijn roosteren</strong><br>30 sec roosteren in droge pan tot geurend. Licht kneuzen in vijzel. Subtiel doseren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Mosselen en kokkels stomen</strong><br>witte wijn + sjalot + knoflook + peper in grote pan. Aan de kook. Mosselen en kokkels toevoegen. 2–3 minuten stomen tot net open. Eruit scheppen. Kookvocht zeven — 80 ml bewaren. Tweederde schelpen uit de schelp halen. Mooiste exemplaren in de schelp bewaren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Escabeche</strong><br>3 el olijfolie in kleine pan. Sjalot, knoflook, rode en gele paprikabrunoise, laurier, tijm en komijn 3–4 minuten zacht fruiten. Groenten iets zachter maar fris van kleur.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus bouwen</strong><br>schelpenvocht + sushiazijn + witte wijn + suiker + cayennepeper toevoegen. 2–3 minuten zacht trekken. Voorzichtig op smaak met zout. Laurier en tijm verwijderen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Marineren</strong><br>losse schelpen aan de WARME ESCABECHE toevoegen. 15–20 MINUTEN MARINEREN. Niet doorkoken. Af en toe voorzichtig omroeren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Rauwe olijfolie</strong><br>2 el rauwe olijfolie vlak voor serveren door escabeche roeren.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Tomaat</strong><br>kruisingsnede, 10 sec in kokend water, koud spoelen. Ontvellen, zaadjes verwijderen, fijne brunoise. Licht bestrooien met zout + druppels olijfolie.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Kappertjes frituren</strong><br>extreem grondig droogdeppen. Frituren op 180°C tot opengebloeid (1–2 min). Uitlekken. PAS OP ALLERLAATSTE MOMENT toevoegen.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Avocado</strong><br>blokjes voorzichtig mengen met olijfolie, citroensap, witte peper en fleur de sel. Pas vlak voor serveren bereiden.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Opbouw</strong><br>dunne gelijkmatige laag escabeche met paprikabrunoise op elk koud bord. Schelpen losjes erop. Avocado en tomatenbrunoise ertussendoor. Op allerlaatste moment KAPPERTJES, basilicum, peterselie en olijfolie als finishing.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Schelpenvocht is goud:</strong> nooit weggooien — geeft de escabeche zilte diepte die olijfolie en azijn alleen niet bereiken.</p><p><strong>Sushiazijn is essentieel:</strong> geeft een mildere, licht zoete zuurheid die de escabeche eleganter maakt dan witte wijnazijn.</p><p><strong>Komijn subtiel doseren:</strong> een halve theelepel is genoeg. Te veel overheerst de delicate schelpen.</p><p><strong>Kappertjes:</strong> Kappertjes op het allerlaatste moment: zelfs 2 minuten in de vochtige saus maakt ze zacht.</p><p><strong>Tip — voorgekookte mosselen:</strong> gebruik vacuumverpakte mosselen en kokkels. Marineren in warme escabeche 10 minuten. Schelpenvocht vervangen door kippenbouillon + 1 tl vissaus.</p><p><strong>Variatie — scheerenmessen:</strong> voeg ½ kg scheerenmessen toe als luxere versie. Aanzetten in hete olie met knoflook en tijm, blussen met witte wijn, 1 minuut afgaren.</p><p><strong>Variatie — venkellinten:</strong> flinterdunne venkellinten geven crunch en subtiele anijsachtige frisheid.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Picpoul de Pinet AOP — Languedoc</div>
-        <div class="wine-druif">Picpoul Blanc</div>
-        <p class="wine-toe">Droog, extreem fris, hoge zuurgraad, licht ziltig, citrus, mineraal. Hoge zuurgraad spiegelt sushiazijn en snijdt door olijfolie. Zilte mineraliteit resoneert met mosselen en kokkels.</p>
-        <div class="wine-alt">Alternatief: Muscadet Sèvre et Maine sur Lie of Soave Classico</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Picpoul de Pinet AOP — Languedoc</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Picpoul Blanc</span>
     </div>
+    <p class="wine-toelichting">Droog, extreem fris, hoge zuurgraad, licht ziltig, citrus, mineraal. Hoge zuurgraad spiegelt sushiazijn en snijdt door olijfolie. Zilte mineraliteit resoneert met mosselen en kokkels.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Muscadet Sèvre et Maine sur Lie of Soave Classico</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

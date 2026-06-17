@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Beijing</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Suan La Tang — Pekinese hot and sour soup</h1>
-      <p class="recipe-intro">De soep die je achteroverslaat. De perfecte balans tussen zuur en heet: shiitake, zwarte paddenstoelen, lily buds, bamboescheuten, wortel en zachte tofu in een zijdezachte, glanzende bouillon. Volledig vegetarisch. Volledig onweerstaanbaar.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min + 1 uur weekwater (liefst overnight)</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kleine kommen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Chinees</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Suan La Tang — Pekinese hot and sour soup</div>
+  <div class="recipe-desc">De soep die je achteroverslaat. De perfecte balans tussen zuur en heet: shiitake, zwarte paddenstoelen, lily buds, bamboescheuten, wortel en zachte tofu in een zijdezachte, glanzende bouillon. Volledig vegetarisch. Volledig onweerstaanbaar.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min + 1 uur weekwater (liefst overnight)</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Chinees</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de soepbasis</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 l">1 l</span><span class="ing-name">goede groentebouillon</span></li><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">gedroogde shiitake (minstens 1 uur geweekt — liefst overnight. Weekvocht bewaren!)</span></li><li><span class="ing-amount" data-basis="15 g">15 g</span><span class="ing-name">gedroogde zwarte paddenstoelen (mù&#x27;ěr wood ear — 30 min geweekt)</span></li><li><span class="ing-amount" data-basis="10 g">10 g</span><span class="ing-name">gedroogde lily buds (gedroogde goudse leliebloemen — bij de toko; knoopjes verwijderen)</span></li><li><span class="ing-amount" data-basis="100 g">100 g</span><span class="ing-name">bamboescheuten uit blik, uitgelekt, in flinterdunne reepjes</span></li><li><span class="ing-amount" data-basis="50 g">50 g</span><span class="ing-name">wortel, in fijne julienne (kleur en lichte zoetheid)</span></li><li><span class="ing-amount" data-basis="100 g">100 g</span><span class="ing-name">zachte tofu, in dunne reepjes (voorzichtig — zachte tofu breekt snel)</span></li><li><span class="ing-amount" data-basis="3 cm">3 cm</span><span class="ing-name">verse gember, in plakken</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">lente-uitjes, wit gedeelte gekneusd (voor de trekbouillon)</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">donkere sojasaus (voor de diepe mahoniekleur)</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">fijne suiker</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Voor de binding</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">maizena + 3 el koud water</span></li></ul><h3 class="ing-group-title">Voor de eierlintjes</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">eieren, losgeklopt met een snuf zout</span></li></ul><h3 class="ing-group-title">De drie heilige finishing-ingrediënten (ALTIJD van het vuur — nooit koken)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3–4 el">3–4 el</span><span class="ing-name">Chinkiang-azijn (bij elke Aziatische supermarkt of toko verkrijgbaar)</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">versgemalen witte peper (de hitte — nooit zwarte peper, nooit chili)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">geroosterde sesamolie</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">lente-uitjes, in fijne schuine ringen</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">verse koriander (optioneel)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">chili-olie (aan tafel — voor wie meer pit wil)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Weekvocht voorbereiden (het verborgen geheim)</strong><p>Shiitake minstens 1 uur weken in warm water. Weekvocht zeven en bewaren — dit is pure umami. Shiitake uitknijpen, steeltjes verwijderen, in flinterdunne reepjes snijden. Zwarte paddenstoelen en lily buds elk 30 minuten weken. Uitknijpen. Zwarte paddenstoelen in dunne reepjes. Lily buds knoopje verwijderen.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Azijn-peperblend voorbereiden</strong><p>Meng de Chinkiang-azijn en versgemalen witte peper in een klein kommetje. Roer tot de peper volledig opgelost is. Dit gaat allerlaatst van het vuur in de soep.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Bouillon bouwen</strong><p>Groentebouillon + gezeefd shiitakeweekvocht in een ruime pan. Gemberplakken en gekneusd lente-ui wit toevoegen. Aan de kook. 5 minuten zacht trekken. Gember en lente-ui eruit vissen. Shiitake, zwarte paddenstoelen, lily buds, bamboescheuten en wortel toevoegen. 4–5 minuten zacht sudderen. Zachte tofu voorzichtig toevoegen. Lichte sojasaus, donkere sojasaus, suiker en zout erdoor. 2 minuten zacht sudderen — niet roeren, anders breekt de tofu.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Zijdezacht binden</strong><p>Maizena-slurry goed mengen. Bouillon op een zachte sluier van beweging — niet rollend kokend. Slurry al roerend in een dunne stroom toevoegen. Soep wordt progressief glanzend en zijdezacht. Stop zodra de soep lepeldekkend is — fluwelig, niet puddingerig.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">De eierlintjes</strong><p>Vuur op laagste stand. Losgeklopt ei in een kom met een vork. Giet het ei van hoog (30–40cm) door de vorkstrepen in een dunne stroom terwijl je de soep langzaam in cirkels roert. Stop met roeren. Wacht 10–15 seconden. Prachtige zijden eierlintjes vormen zich. Dan heel zachtjes één keer doorroeren.</p></div></div><div class="step"><div class="step-num">11</div><div class="step-body"><strong class="step-action">De finishing (VAN HET VUUR — altijd)</strong><p>Vuur UIT. Azijn-peperblend toevoegen. Goed doorroeren. Sesamolie allerlaatst. Proef de smaaksequentie: - Eerst: hartig en vol (de bouillon en umami) - Dan: warm opbouwend van witte peper - Dan: friszuur van de Chinkiang-azijn Dit is de correcte volgorde van een perfecte suān là tāng. Pas aan: meer azijn voor meer zuur, meer witte peper voor meer hitte — altijd van het vuur af. Lente-ui en koriander erop. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Inkopen:</strong> Chinkiang-azijn is niet vervangbaar: De moutachtige, licht rokerige complexiteit van deze Chinese zwarte azijn geeft de soep zijn karakter. Bij elke Aziatische supermarkt of toko gewoon verkrijgbaar als &quot;Zhenjiang black vinegar&quot; of &quot;&quot;.</div><div class="tip-item"><strong>Witte:</strong> Witte peper — nooit zwarte, nooit chili: Witte peper geeft een langzaam opbouwende warmte die in de keel hangt. Dit is de authentieke Beijing-hitte.</div><div class="tip-item"><strong>Van het vuur af — altijd:</strong> Azijn is vluchtig bij warmte. Witte peper wordt bitter bij te lang verhitten. Sesamolie verliest zijn aroma. Nooit eerder toevoegen.</div><div class="tip-item"><strong>Maizena vóór het ei:</strong> De binding eerst, dan het ei — zo zweven de eierlintjes in de soep.</div><div class="tip-item"><strong>Mushroom weekvocht bewaren:</strong> Altijd meekoken — het geeft diepe umami die bouillon alleen niet bereikt.</div><div class="tip-item"><strong>Alles op één lepel:</strong> Dit is het Michelin-principe voor deze soep. Tofu, bamboe, zwam, wortel en eierlintjes allemaal fijn genoeg dat ze comfortabel op één soeplepel passen.</div><div class="tip-item"><strong>Inkopen:</strong> Lily buds zijn de geheime textuur: Gedroogde goudse leliebloemen geven een unieke bite en aroma. Bij de toko als &quot;dried lily flower&quot;. De soep werkt ook zonder — maar mét zijn ze bijzonder.</div><div class="tip-item"><strong>Variatie — met varkensvlees:</strong> Marineer 120g varkenshaas in dunne reepjes met sojasaus, maizena en Shaoxing wijn. Toevoegen na de paddenstoelen — 2 minuten.</div><div class="tip-item"><strong>Variatie — met garnalen:</strong> 150g gepelde garnalen de laatste 2 minuten toevoegen voor een lichtere, ziltere versie.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de soepbasis</div><div class="ing-row"><span>goede groentebouillon</span><span class="ing-amount" data-basis="1 l">1 l</span></div><div class="ing-row"><span>gedroogde shiitake (minstens 1 uur geweekt — liefst overnight. Weekvocht bewaren!)</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>gedroogde zwarte paddenstoelen (mù&#x27;ěr wood ear — 30 min geweekt)</span><span class="ing-amount" data-basis="15 g">15 g</span></div><div class="ing-row"><span>gedroogde lily buds (gedroogde goudse leliebloemen — bij de toko; knoopjes verwijderen)</span><span class="ing-amount" data-basis="10 g">10 g</span></div><div class="ing-row"><span>bamboescheuten uit blik, uitgelekt, in flinterdunne reepjes</span><span class="ing-amount" data-basis="100 g">100 g</span></div><div class="ing-row"><span>wortel, in fijne julienne (kleur en lichte zoetheid)</span><span class="ing-amount" data-basis="50 g">50 g</span></div><div class="ing-row"><span>zachte tofu, in dunne reepjes (voorzichtig — zachte tofu breekt snel)</span><span class="ing-amount" data-basis="100 g">100 g</span></div><div class="ing-row"><span>verse gember, in plakken</span><span class="ing-amount" data-basis="3 cm">3 cm</span></div><div class="ing-row"><span>lente-uitjes, wit gedeelte gekneusd (voor de trekbouillon)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>donkere sojasaus (voor de diepe mahoniekleur)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne suiker</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-cat">Voor de binding</div><div class="ing-row"><span>maizena + 3 el koud water</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-cat">Voor de eierlintjes</div><div class="ing-row"><span>eieren, losgeklopt met een snuf zout</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-cat">De drie heilige finishing-ingrediënten (ALTIJD van het vuur — nooit koken)</div><div class="ing-row"><span>Chinkiang-azijn (bij elke Aziatische supermarkt of toko verkrijgbaar)</span><span class="ing-amount" data-basis="3–4 el">3–4 el</span></div><div class="ing-row"><span>versgemalen witte peper (de hitte — nooit zwarte peper, nooit chili)</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>geroosterde sesamolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>lente-uitjes, in fijne schuine ringen</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>verse koriander (optioneel)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>chili-olie (aan tafel — voor wie meer pit wil)</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Weekvocht voorbereiden (het verborgen geheim)</strong><br>Shiitake minstens 1 uur weken in warm water. Weekvocht zeven en bewaren — dit is pure umami. Shiitake uitknijpen, steeltjes verwijderen, in flinterdunne reepjes snijden. Zwarte paddenstoelen en lily buds elk 30 minuten weken. Uitknijpen. Zwarte paddenstoelen in dunne reepjes. Lily buds knoopje verwijderen.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Azijn-peperblend voorbereiden</strong><br>Meng de Chinkiang-azijn en versgemalen witte peper in een klein kommetje. Roer tot de peper volledig opgelost is. Dit gaat allerlaatst van het vuur in de soep.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Bouillon bouwen</strong><br>Groentebouillon + gezeefd shiitakeweekvocht in een ruime pan. Gemberplakken en gekneusd lente-ui wit toevoegen. Aan de kook. 5 minuten zacht trekken. Gember en lente-ui eruit vissen. Shiitake, zwarte paddenstoelen, lily buds, bamboescheuten en wortel toevoegen. 4–5 minuten zacht sudderen. Zachte tofu voorzichtig toevoegen. Lichte sojasaus, donkere sojasaus, suiker en zout erdoor. 2 minuten zacht sudderen — niet roeren, anders breekt de tofu.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Zijdezacht binden</strong><br>Maizena-slurry goed mengen. Bouillon op een zachte sluier van beweging — niet rollend kokend. Slurry al roerend in een dunne stroom toevoegen. Soep wordt progressief glanzend en zijdezacht. Stop zodra de soep lepeldekkend is — fluwelig, niet puddingerig.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>De eierlintjes</strong><br>Vuur op laagste stand. Losgeklopt ei in een kom met een vork. Giet het ei van hoog (30–40cm) door de vorkstrepen in een dunne stroom terwijl je de soep langzaam in cirkels roert. Stop met roeren. Wacht 10–15 seconden. Prachtige zijden eierlintjes vormen zich. Dan heel zachtjes één keer doorroeren.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>De finishing (VAN HET VUUR — altijd)</strong><br>Vuur UIT. Azijn-peperblend toevoegen. Goed doorroeren. Sesamolie allerlaatst. Proef de smaaksequentie: - Eerst: hartig en vol (de bouillon en umami) - Dan: warm opbouwend van witte peper - Dan: friszuur van de Chinkiang-azijn Dit is de correcte volgorde van een perfecte suān là tāng. Pas aan: meer azijn voor meer zuur, meer witte peper voor meer hitte — altijd van het vuur af. Lente-ui en koriander erop. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Inkopen:</strong> Chinkiang-azijn is niet vervangbaar: De moutachtige, licht rokerige complexiteit van deze Chinese zwarte azijn geeft de soep zijn karakter. Bij elke Aziatische supermarkt of toko gewoon verkrijgbaar als &quot;Zhenjiang black vinegar&quot; of &quot;&quot;.</p><p><strong>Witte:</strong> Witte peper — nooit zwarte, nooit chili: Witte peper geeft een langzaam opbouwende warmte die in de keel hangt. Dit is de authentieke Beijing-hitte.</p><p><strong>Van het vuur af — altijd:</strong> Azijn is vluchtig bij warmte. Witte peper wordt bitter bij te lang verhitten. Sesamolie verliest zijn aroma. Nooit eerder toevoegen.</p><p><strong>Maizena vóór het ei:</strong> De binding eerst, dan het ei — zo zweven de eierlintjes in de soep.</p><p><strong>Mushroom weekvocht bewaren:</strong> Altijd meekoken — het geeft diepe umami die bouillon alleen niet bereikt.</p><p><strong>Alles op één lepel:</strong> Dit is het Michelin-principe voor deze soep. Tofu, bamboe, zwam, wortel en eierlintjes allemaal fijn genoeg dat ze comfortabel op één soeplepel passen.</p><p><strong>Inkopen:</strong> Lily buds zijn de geheime textuur: Gedroogde goudse leliebloemen geven een unieke bite en aroma. Bij de toko als &quot;dried lily flower&quot;. De soep werkt ook zonder — maar mét zijn ze bijzonder.</p><p><strong>Variatie — met varkensvlees:</strong> Marineer 120g varkenshaas in dunne reepjes met sojasaus, maizena en Shaoxing wijn. Toevoegen na de paddenstoelen — 2 minuten.</p><p><strong>Variatie — met garnalen:</strong> 150g gepelde garnalen de laatste 2 minuten toevoegen voor een lichtere, ziltere versie.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Grüner Veltliner Smaragd — Wachau, Oostenrijk</div>
-        <div class="wine-druif">Grüner Veltliner</div>
-        <p class="wine-toe">De typische witte pepernoot van de Grüner Veltliner spiegelt de witte peper in de soep — een perfecte smaakspiegel. De volle body houdt stand naast de complexe bouillon. De frisse zuren dansen met de Chinkiang-azijn.</p>
-        <div class="wine-alt">Alternatief: Vouvray Demi-Sec AOC — Loire, Frankrijk — Licht zoet, fris, appel, kweepeer, honing, hoge zuren; Junmai Ginjo Sake — Japan — Droog tot licht rond, rijstachtig, zachte umami, licht fruitig, milde zuren</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Grüner Veltliner Smaragd — Wachau, Oostenrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Grüner Veltliner</span>
     </div>
+    <p class="wine-toelichting">De typische witte pepernoot van de Grüner Veltliner spiegelt de witte peper in de soep — een perfecte smaakspiegel. De volle body houdt stand naast de complexe bouillon. De frisse zuren dansen met de Chinkiang-azijn.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Vouvray Demi-Sec AOC — Loire, Frankrijk — Licht zoet, fris, appel, kweepeer, honing, hoge zuren; Junmai Ginjo Sake — Japan — Droog tot licht rond, rijstachtig, zachte umami, licht fruitig, milde zuren</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kleine kommen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Spanje</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Mozaïeksalade van meloen, chorizo, avocado en feta</h1>
-      <p class="recipe-intro">Kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta met dragon-honingdressing.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 20 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Mozaïeksalade van meloen, chorizo, avocado en feta</div>
+  <div class="recipe-desc">Kleurrijk mozaïek van gelijke blokjes meloen, chorizo, avocado en feta met dragon-honingdressing.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 20 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Mozaïek</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="0.5">0.5</span><span class="ing-name">cantaloupe of galia meloen, in blokjes van 2 cm</span></li><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">chorizo, in blokjes van 2 cm</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">rijpe maar stevige avocado&#x27;s, in blokjes van 2 cm</span></li><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">feta, in blokjes van 2 cm</span></li></ul><h3 class="ing-group-title">Dragon-honingdressing</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="30 ml">30 ml</span><span class="ing-name">rosé wijnazijn</span></li><li><span class="ing-amount" data-basis="10 g">10 g</span><span class="ing-name">Dijonmosterd</span></li><li><span class="ing-amount" data-basis="15 ml">15 ml</span><span class="ing-name">honing</span></li><li><span class="ing-amount" data-basis="60 ml">60 ml</span><span class="ing-name">olijfolie extra vierge</span></li><li><span class="ing-amount" data-basis="10 g">10 g</span><span class="ing-name">verse dragon, fijngehakt</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Dressing</strong><p>meng azijn, mosterd, honing en dragon. Voeg langzaam olijfolie toe en roer tot een gladde dressing.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Snijden</strong><p>snijd meloen, chorizo, avocado en feta allemaal in gelijke blokjes van 2 cm.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Mozaïek schikken</strong><p>schik blokjes meloen en chorizo afwisselend op een schaal. Voeg avocado en feta toe en zorg voor een mooie kleurverdeling.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Bedruppelen en serveer</strong><p>druppel de dressing vlak voor serveren royaal over het mozaïek. Serveer direct.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">snijd alle ingrediënten in gelijke blokjes van 2 cm — dat is het geheim van het mozaïekpatroon. Bereid alles apart en assembleer pas vlak voor serveren.</div><div class="tip-item"><strong>Techniek:</strong> dep de avocado droog na het snijden en voeg direct limoensap toe — zo blijft hij langer groen en fris.</div><div class="tip-item"><strong>Presentatie:</strong> leg de ingrediënten in een strak schaakbordpatroon — meloen, feta, chorizo, avocado — zodat elk kleurblok even groot is. Dat is het mozaïek.</div><div class="tip-item"><strong>Variatie:</strong> voeg waterkers of microgreens toe als groen accent, of bestrooi met granaatappelzaden voor een zoetzure kleurrijke finishing touch.</div><div class="tip-item"><strong>Alternatief:</strong> geen Cantaloupe-meloen? Gebruik Piel de Sapo of honingmeloen — zoeter en minder waterig, werkt uitstekend in het mozaïek.</div><div class="tip-item"><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</div><div class="tip-item"><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Mozaïek</div><div class="ing-row"><span>cantaloupe of galia meloen, in blokjes van 2 cm</span><span class="ing-amount" data-basis="0.5">0.5</span></div><div class="ing-row"><span>chorizo, in blokjes van 2 cm</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>rijpe maar stevige avocado&#x27;s, in blokjes van 2 cm</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>feta, in blokjes van 2 cm</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-cat">Dragon-honingdressing</div><div class="ing-row"><span>rosé wijnazijn</span><span class="ing-amount" data-basis="30 ml">30 ml</span></div><div class="ing-row"><span>Dijonmosterd</span><span class="ing-amount" data-basis="10 g">10 g</span></div><div class="ing-row"><span>honing</span><span class="ing-amount" data-basis="15 ml">15 ml</span></div><div class="ing-row"><span>olijfolie extra vierge</span><span class="ing-amount" data-basis="60 ml">60 ml</span></div><div class="ing-row"><span>verse dragon, fijngehakt</span><span class="ing-amount" data-basis="10 g">10 g</span></div><div class="ing-row"><span>zout en peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Dressing</strong><br>meng azijn, mosterd, honing en dragon. Voeg langzaam olijfolie toe en roer tot een gladde dressing.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Snijden</strong><br>snijd meloen, chorizo, avocado en feta allemaal in gelijke blokjes van 2 cm.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Mozaïek schikken</strong><br>schik blokjes meloen en chorizo afwisselend op een schaal. Voeg avocado en feta toe en zorg voor een mooie kleurverdeling.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Bedruppelen en serveer</strong><br>druppel de dressing vlak voor serveren royaal over het mozaïek. Serveer direct.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>snijd alle ingrediënten in gelijke blokjes van 2 cm — dat is het geheim van het mozaïekpatroon. Bereid alles apart en assembleer pas vlak voor serveren.</p><p><strong>Techniek:</strong> dep de avocado droog na het snijden en voeg direct limoensap toe — zo blijft hij langer groen en fris.</p><p><strong>Presentatie:</strong> leg de ingrediënten in een strak schaakbordpatroon — meloen, feta, chorizo, avocado — zodat elk kleurblok even groot is. Dat is het mozaïek.</p><p><strong>Variatie:</strong> voeg waterkers of microgreens toe als groen accent, of bestrooi met granaatappelzaden voor een zoetzure kleurrijke finishing touch.</p><p><strong>Alternatief:</strong> geen Cantaloupe-meloen? Gebruik Piel de Sapo of honingmeloen — zoeter en minder waterig, werkt uitstekend in het mozaïek.</p><p><strong>Balans:</strong> geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.</p><p><strong>Timing:</strong> voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Provence Rosé</div>
-        <div class="wine-druif">Grenache, Cinsault, Mourvèdre</div>
-        <p class="wine-toe">De droge, subtiel fruitige Provence Rosé — met tonen van aardbei, grapefruit en een lichte zoutheid — is de ideale zomerwijn bij dit kleurrijke, frisse mozaïek. De delicate structuur van de wijn overspoelt geen van de ingrediënten, terwijl de frisheid de zoetheid van de meloen en avocado balanceert. De lichte zoutheid van de Provence-rosé sluit aan op de feta. Dit is een gerecht dat vraagt om een wijn die er net zo mooi uitziet als het gerecht zelf — en de bleke, elegante kleur van Provence Rosé doet dat. Serveer ijskoud op 8°C.</p>
-        <div class="wine-alt">Alternatief: Cava Brut Rosé — levendiger en sprankelender, werkt als aperitief bij dit zomerse gerecht</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Provence Rosé</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Grenache, Cinsault, Mourvèdre</span>
     </div>
+    <p class="wine-toelichting">De droge, subtiel fruitige Provence Rosé — met tonen van aardbei, grapefruit en een lichte zoutheid — is de ideale zomerwijn bij dit kleurrijke, frisse mozaïek. De delicate structuur van de wijn overspoelt geen van de ingrediënten, terwijl de frisheid de zoetheid van de meloen en avocado balanceert. De lichte zoutheid van de Provence-rosé sluit aan op de feta. Dit is een gerecht dat vraagt om een wijn die er net zo mooi uitziet als het gerecht zelf — en de bleke, elegante kleur van Provence Rosé doet dat. Serveer ijskoud op 8°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Cava Brut Rosé — levendiger en sprankelender, werkt als aperitief bij dit zomerse gerecht</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

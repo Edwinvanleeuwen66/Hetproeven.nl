@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Baskenland</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Entrecote Met Sauce Espelette Rouge En Sjalottenjus — Baskisch-Bourgondische Stijl</h1>
-      <p class="recipe-intro">De saus is het gerecht. Niet de biefstuk — die is het voertuig. Een sauce Espelette rouge: langzaam gesmolten sjalotten, rode wijn, sherryazijn, kalfsfond, geroosterde rode papr...</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 40 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">2</span> royale porties</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Frans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="2" step="1">
-      </div>
+  <div class="recipe-title">Entrecote Met Sauce Espelette Rouge En Sjalottenjus — Baskisch-Bourgondische Stijl</div>
+  <div class="recipe-desc">De saus is het gerecht. Niet de biefstuk — die is het voertuig. Een sauce Espelette rouge: langzaam gesmolten sjalotten, rode wijn, sherryazijn, kalfsfond, geroosterde rode papr...</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 40 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">2</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Frans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor het vlees</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">mooie entrecotes (à 200–230g, 2,5–3cm dik)</span></li><li><span class="ing-amount" data-basis="Royaal">Royaal</span><span class="ing-name">zeezout + versgemalen zwarte peper</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">neutrale olie + 20g roomboter</span></li><li><span class="ing-amount" data-basis="1 takje">1 takje</span><span class="ing-name">tijm + 1 teentje knoflook, gekneusd</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Alternatief: tournedos of ribeye.</span></li></ul><h3 class="ing-group-title">Voor de sauce Espelette rouge</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">grote sjalotten, extreem fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">klein teentje knoflook, fijn gehakt</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">olijfolie + 10g roomboter</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">1½ tl tomatenpuree</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">geroosterde rode paprika uit de pot, fijn gepureerd</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">¾–1 tl piment d&#x27;Espelette (bij de betere supermarkt, Spaanse delicatessen of online)</span></li><li><span class="ing-amount" data-basis="120ml">120ml</span><span class="ing-name">rode wijn</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">sherryazijn (of rode wijnazijn)</span></li><li><span class="ing-amount" data-basis="250ml">250ml</span><span class="ing-name">kalfsfond of goede runderfond</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">laurierblad + 1 takje tijm</span></li><li><span class="ing-amount" data-basis="10–15g">10–15g</span><span class="ing-name">ijskoude roomboter (optioneel — voor glans)</span></li></ul><h3 class="ing-group-title">Zout + zwarte peper</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Voor de paprika-accenten</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">geroosterde rode paprika uit de pot, in mini-brunoise van 3mm</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">sherryazijn + ½ tl olijfolie + snuf zout</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Bieslook, fijn gesneden</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Fleur de sel</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="Klein">Klein</span><span class="ing-name">snufje piment d&#x27;Espelette (op de rand van het bord)</span></li><li><span class="ing-amount" data-basis="Paar">Paar</span><span class="ing-name">druppels olijfolie</span></li></ul><h3 class="ing-group-title">Als begeleiding (licht — geen zware gratin)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Gegrilde little gem (gehalveerd, 2 min per kant op hoge hitte)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Of krokante aardappelblokjes met knoflook en citroen</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Of dunne pommes Anna</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Sauce Espelette rouge</strong><p>Sjalotten in olijfolie en boter op laag vuur — 8–10 minuten langzaam laten smelten. Ze moeten zoet en glazig worden, niet bruin bakken. Knoflook erbij — 30 seconden. Tomatenpuree toevoegen — 1 minuut meebakken. Dan piment d&#x27;Espelette — 20–30 seconden roeren op iets hoger vuur tot de geur vrijkomt. Blussen met rode wijn en sherryazijn. Inkoken tot bijna droog. Fond, tijm en laurier toevoegen. 15–20 minuten rustig inkoken tot sausdikte. Paprikapuree erdoor roeren. Half-half aanpak: de helft door een fijne zeef wrijven, terugmengen met de andere helft. Zo krijg je glans én sjalot-karakter. Een paar sjalotjes bewaren voor de afwerking. Vlak voor serveren: monter au beurre (ijskoude boterblokjes van het vuur erdoor kloppen). Paar druppels sherryazijn allerlaatst. Op smaak.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Paprika-accenten</strong><p>Mini-brunoise geroosterde paprika mengen met sherryazijn, olijfolie en zout. Opzij zetten.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Entrecotes bakken</strong><p>Entrecotes 30–45 minuten van tevoren uit de koelkast. Royaal bestrooien met zeezout en zwarte peper. Zware pan op hoogste vuur tot hij rookt. Olie erin. Entrecotes neerleggen — niet aanraken — 2–3 minuten per kant. Boter, tijm en knoflook erbij de laatste minuut — arroseren (lepelen over het vlees). Kerntemperatuur 52–54°C voor rosé. Op een warm rooster 5–8 minuten rusten.</p></div></div><div class="step"><div class="step-num">11</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Warm bord. Saus deels onder en naast het vlees — nooit alles eroverheen. Hele entrecote op het bord — niet snijden. Gereserveerde sjalotjes bovenop. Mini-brunoise paprika rondom. Bieslook. Fleur de sel. Druppel olijfolie. Licht snufje piment d&#x27;Espelette op de rand.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Biefstuk heel serveren:</strong> Geen tranches, geen snijden. De hele entrecote op het bord — de gast snijdt zelf aan tafel. Dat is het moment.</div><div class="tip-item"><strong>Geroosterde paprika uit de pot:</strong> Gewoon kopen — bij elke supermarkt. Net zo goed als zelf roosteren voor dit gerecht.</div><div class="tip-item"><strong>Sjalotten langzaam garen:</strong> De saus valt of staat met zoete, zachte sjalot. 8–10 minuten op laag vuur is het minimum.</div><div class="tip-item"><strong>Piment d&#x27;Espelette laten bloeien:</strong> Die 20–30 seconden op hitte zijn niet optioneel. Zonder warmte geeft de Espelette zijn paprika-aromatiek niet vrij.</div><div class="tip-item"><strong>Zeef niet alles:</strong> Half-half geeft de mooiste saus — elegant én bistro.</div><div class="tip-item"><strong>Kerntemperatuur is het houvast:</strong> 52–54°C voor rosé. Tijdsaanwijzingen zijn indicaties — elke pan en elk stuk vlees is anders.</div><div class="tip-item"><strong>Zuur is essentieel:</strong> De sherryazijn maakt de saus levendig. Zonder zuur wordt het een zware vleesjus.</div><div class="tip-item"><strong>Vetrandje niet wegsnijden:</strong> Het vetrandje van de entrecote met deze saus is het beste deel.</div><div class="tip-item"><strong>Sauce van tevoren:</strong> De saus kan volledig van tevoren worden gemaakt. Vlak voor serveren opwarmen en monteren.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor het vlees</div><div class="ing-row"><span>mooie entrecotes (à 200–230g, 2,5–3cm dik)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>zeezout + versgemalen zwarte peper</span><span class="ing-amount" data-basis="Royaal">Royaal</span></div><div class="ing-row"><span>neutrale olie + 20g roomboter</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>tijm + 1 teentje knoflook, gekneusd</span><span class="ing-amount" data-basis="1 takje">1 takje</span></div><div class="ing-row"><span>Alternatief: tournedos of ribeye.</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de sauce Espelette rouge</div><div class="ing-row"><span>grote sjalotten, extreem fijn gesneden</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>klein teentje knoflook, fijn gehakt</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>olijfolie + 10g roomboter</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>1½ tl tomatenpuree</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>geroosterde rode paprika uit de pot, fijn gepureerd</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>¾–1 tl piment d&#x27;Espelette (bij de betere supermarkt, Spaanse delicatessen of online)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>rode wijn</span><span class="ing-amount" data-basis="120ml">120ml</span></div><div class="ing-row"><span>sherryazijn (of rode wijnazijn)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>kalfsfond of goede runderfond</span><span class="ing-amount" data-basis="250ml">250ml</span></div><div class="ing-row"><span>laurierblad + 1 takje tijm</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>ijskoude roomboter (optioneel — voor glans)</span><span class="ing-amount" data-basis="10–15g">10–15g</span></div><div class="ing-cat">Zout + zwarte peper</div><div class="ing-cat">Voor de paprika-accenten</div><div class="ing-row"><span>geroosterde rode paprika uit de pot, in mini-brunoise van 3mm</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>sherryazijn + ½ tl olijfolie + snuf zout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-cat">Bieslook, fijn gesneden</div><div class="ing-cat">Fleur de sel</div><div class="ing-row"><span>snufje piment d&#x27;Espelette (op de rand van het bord)</span><span class="ing-amount" data-basis="Klein">Klein</span></div><div class="ing-row"><span>druppels olijfolie</span><span class="ing-amount" data-basis="Paar">Paar</span></div><div class="ing-cat">Als begeleiding (licht — geen zware gratin)</div><div class="ing-row"><span>Gegrilde little gem (gehalveerd, 2 min per kant op hoge hitte)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>Of krokante aardappelblokjes met knoflook en citroen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>Of dunne pommes Anna</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Sauce Espelette rouge</strong><br>Sjalotten in olijfolie en boter op laag vuur — 8–10 minuten langzaam laten smelten. Ze moeten zoet en glazig worden, niet bruin bakken. Knoflook erbij — 30 seconden. Tomatenpuree toevoegen — 1 minuut meebakken. Dan piment d&#x27;Espelette — 20–30 seconden roeren op iets hoger vuur tot de geur vrijkomt. Blussen met rode wijn en sherryazijn. Inkoken tot bijna droog. Fond, tijm en laurier toevoegen. 15–20 minuten rustig inkoken tot sausdikte. Paprikapuree erdoor roeren. Half-half aanpak: de helft door een fijne zeef wrijven, terugmengen met de andere helft. Zo krijg je glans én sjalot-karakter. Een paar sjalotjes bewaren voor de afwerking. Vlak voor serveren: monter au beurre (ijskoude boterblokjes van het vuur erdoor kloppen). Paar druppels sherryazijn allerlaatst. Op smaak.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Paprika-accenten</strong><br>Mini-brunoise geroosterde paprika mengen met sherryazijn, olijfolie en zout. Opzij zetten.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Entrecotes bakken</strong><br>Entrecotes 30–45 minuten van tevoren uit de koelkast. Royaal bestrooien met zeezout en zwarte peper. Zware pan op hoogste vuur tot hij rookt. Olie erin. Entrecotes neerleggen — niet aanraken — 2–3 minuten per kant. Boter, tijm en knoflook erbij de laatste minuut — arroseren (lepelen over het vlees). Kerntemperatuur 52–54°C voor rosé. Op een warm rooster 5–8 minuten rusten.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Opbouwen</strong><br>Warm bord. Saus deels onder en naast het vlees — nooit alles eroverheen. Hele entrecote op het bord — niet snijden. Gereserveerde sjalotjes bovenop. Mini-brunoise paprika rondom. Bieslook. Fleur de sel. Druppel olijfolie. Licht snufje piment d&#x27;Espelette op de rand.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Biefstuk heel serveren:</strong> Geen tranches, geen snijden. De hele entrecote op het bord — de gast snijdt zelf aan tafel. Dat is het moment.</p><p><strong>Geroosterde paprika uit de pot:</strong> Gewoon kopen — bij elke supermarkt. Net zo goed als zelf roosteren voor dit gerecht.</p><p><strong>Sjalotten langzaam garen:</strong> De saus valt of staat met zoete, zachte sjalot. 8–10 minuten op laag vuur is het minimum.</p><p><strong>Piment d&#x27;Espelette laten bloeien:</strong> Die 20–30 seconden op hitte zijn niet optioneel. Zonder warmte geeft de Espelette zijn paprika-aromatiek niet vrij.</p><p><strong>Zeef niet alles:</strong> Half-half geeft de mooiste saus — elegant én bistro.</p><p><strong>Kerntemperatuur is het houvast:</strong> 52–54°C voor rosé. Tijdsaanwijzingen zijn indicaties — elke pan en elk stuk vlees is anders.</p><p><strong>Zuur is essentieel:</strong> De sherryazijn maakt de saus levendig. Zonder zuur wordt het een zware vleesjus.</p><p><strong>Vetrandje niet wegsnijden:</strong> Het vetrandje van de entrecote met deze saus is het beste deel.</p><p><strong>Sauce van tevoren:</strong> De saus kan volledig van tevoren worden gemaakt. Vlak voor serveren opwarmen en monteren.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Irouléguy AOC — Frans Baskenland</div>
-        <div class="wine-druif">Tannat (hoofdzakelijk), Cabernet Franc, Cabernet Sauvignon</div>
-        <p class="wine-toe">Irouléguy en piment d&#x27;Espelette zijn buren. De stevige Tannat-tannines dragen het karakter van de entrecote. De aardse kruidige toon spiegelt de Espelette en de geroosterde paprika. Kies een elegante stijl — niet te zwaar.</p>
-        <div class="wine-alt">Alternatief: Bourgogne Pinot Noir AOC of Côte Chalonnaise — Bourgogne, Frankrijk — Droog, rood fruit, fris, licht kruidig, zachte tannines, elegant; Beaujolais Cru AOC (Morgon of Moulin-à-Vent) — Beaujolais, Frankrijk — Sappig rood fruit, fris, lichte kruidigheid, zachte tannines, levendig</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Irouléguy AOC — Frans Baskenland</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Tannat (hoofdzakelijk), Cabernet Franc, Cabernet Sauvignon</span>
     </div>
+    <p class="wine-toelichting">Irouléguy en piment d&#x27;Espelette zijn buren. De stevige Tannat-tannines dragen het karakter van de entrecote. De aardse kruidige toon spiegelt de Espelette en de geroosterde paprika. Kies een elegante stijl — niet te zwaar.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Bourgogne Pinot Noir AOC of Côte Chalonnaise — Bourgogne, Frankrijk — Droog, rood fruit, fris, licht kruidig, zachte tannines, elegant; Beaujolais Cru AOC (Morgon of Moulin-à-Vent) — Beaujolais, Frankrijk — Sappig rood fruit, fris, lichte kruidigheid, zachte tannines, levendig</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('2 royale porties');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

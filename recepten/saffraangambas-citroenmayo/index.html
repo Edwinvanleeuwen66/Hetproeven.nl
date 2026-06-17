@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Spanje</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Saffraangamba&#x27;s met citroenmayonaise</h1>
-      <p class="recipe-intro">Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd, met zelfgemaakte citroenmayonaise.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 25 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Saffraangamba&#x27;s met citroenmayonaise</div>
+  <div class="recipe-desc">Grote garnalen in een luchtig goudgeel saffraanbeslag gefrituurd, met zelfgemaakte citroenmayonaise.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 25 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Saffraanbeslag</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">snufje saffraan, opgelost in 15 ml warm water</span></li><li><span class="ing-amount" data-basis="120 g">120 g</span><span class="ing-name">bloem</span></li><li><span class="ing-amount" data-basis="150 ml">150 ml</span><span class="ing-name">ijskoud bier of water</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en peper</span></li></ul><h3 class="ing-group-title">Garnalen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="12">12</span><span class="ing-name">grote garnalen, gepeld maar staartje eraan</span></li><li><span class="ing-amount" data-basis="500 ml">500 ml</span><span class="ing-name">zonnebloemolie voor frituren</span></li></ul><h3 class="ing-group-title">Citroenmayonaise</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">mayonaise uit de pot</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">citroen, sap en rasp</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">knoflookteentjes, geperst</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">zout</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saffraan en mayo</strong><p>los saffraan op in 15 ml warm water, laat 5 minuten trekken. Meng mayo met citroensap en -rasp en knoflook. Zet koud.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Beslag</strong><p>meng bloem met zout en peper. Voeg saffraanwater en ijskoud bier toe. Roer kort. Zet 10 minuten koud.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Frituren en serveer</strong><p>verhit olie op 180°C. Houd garnalen bij de staart vast, doop in beslag, laat in de olie glijden. Frituur 2-3 minuten tot goudbruin. Schep op keukenpapier. Serveer direct met citroenmayonaise.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">het beslag moet ijskoud zijn — gebruik ijswater en laat het beslag 30 minuten in de koelkast rusten voor gebruik. Serveer direct.</div><div class="tip-item"><strong>Techniek:</strong> frituur in kleine porties op 180°C — te veel gambas tegelijk koelt de olie af en geeft een zacht, niet-krokant resultaat.</div><div class="tip-item"><strong>Presentatie:</strong> serveer de gambas rechtop in een smal glaasje met de staart boven de rand — dat geeft een elegante, aantrekkelijke presentatie.</div><div class="tip-item"><strong>Variatie:</strong> voeg een mespuntje cayennepeper toe aan het beslag voor extra pit, of gebruik yuzu in de mayo in plaats van citroen voor een Japanse twist.</div><div class="tip-item"><strong>Alternatief:</strong> geen saffraandraadjes? Gebruik een mespuntje kurkuma — geeft vergelijkbare goudgele kleur maar zonder het typische saffraanaroma.</div><div class="tip-item"><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div><div class="tip-item"><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Saffraanbeslag</div><div class="ing-row"><span>snufje saffraan, opgelost in 15 ml warm water</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>bloem</span><span class="ing-amount" data-basis="120 g">120 g</span></div><div class="ing-row"><span>ijskoud bier of water</span><span class="ing-amount" data-basis="150 ml">150 ml</span></div><div class="ing-row"><span>zout en peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Garnalen</div><div class="ing-row"><span>grote garnalen, gepeld maar staartje eraan</span><span class="ing-amount" data-basis="12">12</span></div><div class="ing-row"><span>zonnebloemolie voor frituren</span><span class="ing-amount" data-basis="500 ml">500 ml</span></div><div class="ing-cat">Citroenmayonaise</div><div class="ing-row"><span>mayonaise uit de pot</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>citroen, sap en rasp</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>knoflookteentjes, geperst</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Saffraan en mayo</strong><br>los saffraan op in 15 ml warm water, laat 5 minuten trekken. Meng mayo met citroensap en -rasp en knoflook. Zet koud.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Beslag</strong><br>meng bloem met zout en peper. Voeg saffraanwater en ijskoud bier toe. Roer kort. Zet 10 minuten koud.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Frituren en serveer</strong><br>verhit olie op 180°C. Houd garnalen bij de staart vast, doop in beslag, laat in de olie glijden. Frituur 2-3 minuten tot goudbruin. Schep op keukenpapier. Serveer direct met citroenmayonaise.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>het beslag moet ijskoud zijn — gebruik ijswater en laat het beslag 30 minuten in de koelkast rusten voor gebruik. Serveer direct.</p><p><strong>Techniek:</strong> frituur in kleine porties op 180°C — te veel gambas tegelijk koelt de olie af en geeft een zacht, niet-krokant resultaat.</p><p><strong>Presentatie:</strong> serveer de gambas rechtop in een smal glaasje met de staart boven de rand — dat geeft een elegante, aantrekkelijke presentatie.</p><p><strong>Variatie:</strong> voeg een mespuntje cayennepeper toe aan het beslag voor extra pit, of gebruik yuzu in de mayo in plaats van citroen voor een Japanse twist.</p><p><strong>Alternatief:</strong> geen saffraandraadjes? Gebruik een mespuntje kurkuma — geeft vergelijkbare goudgele kleur maar zonder het typische saffraanaroma.</p><p><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p><p><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Albariño</div>
-        <div class="wine-druif">Albariño</div>
-        <p class="wine-toe">Albariño is simpelweg de beste wijn bij scampi en garnalen — de citrusachtige frisheid van limoen en grapefruit sluit naadloos aan op de citroenmayo en de delicate gambasmaak. De mineraliteit van de Albariño resoneert met het jodiumrijke karakter van de schaaldieren. De hoge zuurgraad snijdt door het frituurvet en reinigt de mond na elke krokante hap. Een Albariño uit Rías Baixas is hier de enige logische keuze — het is de wijn die in dezelfde regio wordt gemaakt waar de beste Spaanse garnalen vandaan komen. Serveer ijskoud op 8°C.</p>
-        <div class="wine-alt">Alternatief: Fino Sherry — de droge ziltheid is een even klassieke begeleider bij gefrituurde zeevruchten</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Albariño</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Albariño</span>
     </div>
+    <p class="wine-toelichting">Albariño is simpelweg de beste wijn bij scampi en garnalen — de citrusachtige frisheid van limoen en grapefruit sluit naadloos aan op de citroenmayo en de delicate gambasmaak. De mineraliteit van de Albariño resoneert met het jodiumrijke karakter van de schaaldieren. De hoge zuurgraad snijdt door het frituurvet en reinigt de mond na elke krokante hap. Een Albariño uit Rías Baixas is hier de enige logische keuze — het is de wijn die in dezelfde regio wordt gemaakt waar de beste Spaanse garnalen vandaan komen. Serveer ijskoud op 8°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Fino Sherry — de droge ziltheid is een even klassieke begeleider bij gefrituurde zeevruchten</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Parijs</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Beef Stroganoff Met Dubbel Gefrituurde Frites — Klassiek En Het Beste</h1>
-      <p class="recipe-intro">Het origineel dateert uit het 19e-eeuwse Rusland, vernoemd naar de familie Stroganoff. De klassieke Parijse brasserie nam het over en maakte het tot een grande classique. Dit is...</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 50 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">2</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Frans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="2" step="1">
-      </div>
+  <div class="recipe-title">Beef Stroganoff Met Dubbel Gefrituurde Frites — Klassiek En Het Beste</div>
+  <div class="recipe-desc">Het origineel dateert uit het 19e-eeuwse Rusland, vernoemd naar de familie Stroganoff. De klassieke Parijse brasserie nam het over en maakte het tot een grande classique. Dit is...</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 50 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">2</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Frans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor het vlees</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="300–350g">300–350g</span><span class="ing-name">ossenhaas of filet mignon (in reepjes van 1cm dik en 5cm lang — tegen de draad gesneden. Alternatief: entrecote — meer smaak)</span></li><li><span class="ing-amount" data-basis="Royaal">Royaal</span><span class="ing-name">zeezout + zwarte peper</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">neutrale olie + klont roomboter</span></li></ul><h3 class="ing-group-title">Voor de stroganoffsaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200g">200g</span><span class="ing-name">kastanjechampignons (in plakjes — niet te dun)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">sjalot, extreem fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">rode paprika, in extreem fijne blokjes (klein — dit is een accent, geen goulash)</span></li><li><span class="ing-amount" data-basis="1 teentje">1 teentje</span><span class="ing-name">knoflook, fijn gehakt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">tomatenpuree</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">1½ tl Dijonmosterd (de ziel van de saus)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">mild paprikapoeder (geeft kleur en de klassieke stroganoff-toon)</span></li><li><span class="ing-amount" data-basis="40ml">40ml</span><span class="ing-name">cognac (of brandy — geeft diepte; wodka is Russischer maar minder diep)</span></li><li><span class="ing-amount" data-basis="120ml">120ml</span><span class="ing-name">kalfsfond of goede runderfond</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">1½ el volle crème fraîche (niet alleen slagroom — crème fraîche geeft rijkheid én zuring)</span></li><li><span class="ing-amount" data-basis="40ml">40ml</span><span class="ing-name">slagroom (aanvullend — voor fluweel)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">Worcestershire sauce (geeft umami-diepte)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap of paar druppels sherryazijn</span></li><li><span class="ing-amount" data-basis="20g">20g</span><span class="ing-name">ongezouten roomboter</span></li></ul><h3 class="ing-group-title">Zout + zwarte peper</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Verse dille (gehakt of kleine takjes — de Russische herb)</span></li><li><span class="ing-amount" data-basis="Eventueel">Eventueel</span><span class="ing-name">bieslook</span></li></ul><h3 class="ing-group-title">Klassiek erbij</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="Klein">Klein</span><span class="ing-name">bakje cornichons of augurken, extreem fijn gesneden (apart serveren — de frisheid en crunch die de romige saus nodig heeft)</span></li></ul><h3 class="ing-group-title">Voor de dubbel gefrituurde frites</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="600g">600g</span><span class="ing-name">Agria of Bintje (in staafjes van 1×1cm)</span></li></ul><h3 class="ing-group-title">Neutrale frituurollie</h3><ul class="ing-list"></ul><h3 class="ing-group-title">Fleur de sel</h3><ul class="ing-list"></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Frites: eerste fry (van tevoren)</strong><p>Aardappelen schillen, in staafjes snijden. Grondig afspoelen tot het water helder is. Goed droogdeppen. Olie op 150–160°C. Frites erin — 5–6 minuten tot gaar maar bleek. Uitlekken op een rooster. Afkoelen. (Uren van tevoren te doen.)</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Stroganoffsaus</strong><p>Boter in een brede pan op hoog vuur. Champignons erin — 4–5 minuten bakken tot het vocht volledig verdampt en ze goudbruin zijn. Niet eerder van het vuur. Vuur lager. Sjalot en rode paprika toevoegen — 3–4 minuten zacht bakken. Knoflook erbij — 30 seconden. Tomatenpuree, Dijonmosterd en paprikapoeder erdoor — 1 minuut meebakken. Cognac erbij — laten inkoken of flamberen. Fond toevoegen — 5 minuten inkoken tot licht ingedikt. Slagroom erbij — 2–3 minuten zacht binden. Crème fraîche en Worcestershire erdoor roeren. Citroensap of sherryazijn allerlaatst. Op smaak. Warmhouden op laagste vuur. Michelin-aanpak: een deel van de saus door een fijne zeef wrijven voor glans, dan terugmengen met het onaangeraakte deel. Zo krijg je elegantie én karakter.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Vlees (vlak voor serveren — 90 seconden)</strong><p>Ossenhaasreepjes droogdeppen. Royaal bestrooien met zeezout en zwarte peper. Pan op hoogste vuur tot hij rookt — olie en boter erin. Ossenhaasreepjes in één laag — 30–45 seconden per kant. Rosé van binnen. In batches als nodig. Direct uit de pan. Niet in de saus koken — door de warme saus roeren vlak voor serveren.</p></div></div><div class="step"><div class="step-num">11</div><div class="step-body"><strong class="step-action">Frites: tweede fry</strong><p>Olie op 185°C. Afgekoelde frites erin — 2–3 minuten tot diepgouden en krakend. Op een rooster. Direct bestrooien met fleur de sel.</p></div></div><div class="step"><div class="step-num">12</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Ossenhaasreepjes door de warme saus roeren — alleen mengen, niet meer koken. In een warm diep bord scheppen. Verse dille erover. De frites apart in een warm schaaltje. Cornichons apart.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Vlees allerlaatst en kort:</strong> De ossenhaasreepjes gaan er pas in als de saus klaar is. 60–90 seconden bakken, dan door de warme saus roeren. Doorgegaard stroganoff-vlees is taai.</div><div class="tip-item"><strong>Champignons droog bakken:</strong> Eerst al het vocht eruit bakken — natte champignons geven een waterige saus.</div><div class="tip-item"><strong>Crème fraîche, niet alleen slagroom:</strong> Crème fraîche geeft rijkheid én zuring. Alleen slagroom geeft een zoete, vlakke saus.</div><div class="tip-item"><strong>Dijon is de ziel:</strong> Zonder mosterd is het een roomsaus. Met Dijon heeft het karakter.</div><div class="tip-item"><strong>Paprika subtiel:</strong> Het moet geen Hongaarse goulash worden. Klein beetje, fijn gesneden — een hint van kleur en zoetheid.</div><div class="tip-item"><strong>Cornichons zijn geen optie:</strong> Ze zijn de klassieke stroganoff-begeleider voor een reden. De frisheid en crunch balanceren de romige saus precies.</div><div class="tip-item"><strong>Frites apart serveren:</strong> Niet onder de saus leggen — ze worden zacht. Ernaast, zodat je ze in de saus dipt.</div><div class="tip-item"><strong>Dubbel frituren is verplicht:</strong> Eén keer = zachte frites. Dubbel = buiten krokant, binnen wollig.</div><div class="tip-item"><strong>Wodka als Russische variant:</strong> Wodka is traditioneler in sommige stroganoff-lijnen maar geeft minder diepte dan cognac.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor het vlees</div><div class="ing-row"><span>ossenhaas of filet mignon (in reepjes van 1cm dik en 5cm lang — tegen de draad gesneden. Alternatief: entrecote — meer smaak)</span><span class="ing-amount" data-basis="300–350g">300–350g</span></div><div class="ing-row"><span>zeezout + zwarte peper</span><span class="ing-amount" data-basis="Royaal">Royaal</span></div><div class="ing-row"><span>neutrale olie + klont roomboter</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-cat">Voor de stroganoffsaus</div><div class="ing-row"><span>kastanjechampignons (in plakjes — niet te dun)</span><span class="ing-amount" data-basis="200g">200g</span></div><div class="ing-row"><span>sjalot, extreem fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>rode paprika, in extreem fijne blokjes (klein — dit is een accent, geen goulash)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>knoflook, fijn gehakt</span><span class="ing-amount" data-basis="1 teentje">1 teentje</span></div><div class="ing-row"><span>tomatenpuree</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>1½ tl Dijonmosterd (de ziel van de saus)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>mild paprikapoeder (geeft kleur en de klassieke stroganoff-toon)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>cognac (of brandy — geeft diepte; wodka is Russischer maar minder diep)</span><span class="ing-amount" data-basis="40ml">40ml</span></div><div class="ing-row"><span>kalfsfond of goede runderfond</span><span class="ing-amount" data-basis="120ml">120ml</span></div><div class="ing-row"><span>1½ el volle crème fraîche (niet alleen slagroom — crème fraîche geeft rijkheid én zuring)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>slagroom (aanvullend — voor fluweel)</span><span class="ing-amount" data-basis="40ml">40ml</span></div><div class="ing-row"><span>Worcestershire sauce (geeft umami-diepte)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>citroensap of paar druppels sherryazijn</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>ongezouten roomboter</span><span class="ing-amount" data-basis="20g">20g</span></div><div class="ing-cat">Zout + zwarte peper</div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>Verse dille (gehakt of kleine takjes — de Russische herb)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>bieslook</span><span class="ing-amount" data-basis="Eventueel">Eventueel</span></div><div class="ing-cat">Klassiek erbij</div><div class="ing-row"><span>bakje cornichons of augurken, extreem fijn gesneden (apart serveren — de frisheid en crunch die de romige saus nodig heeft)</span><span class="ing-amount" data-basis="Klein">Klein</span></div><div class="ing-cat">Voor de dubbel gefrituurde frites</div><div class="ing-row"><span>Agria of Bintje (in staafjes van 1×1cm)</span><span class="ing-amount" data-basis="600g">600g</span></div><div class="ing-cat">Neutrale frituurollie</div><div class="ing-cat">Fleur de sel</div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Frites: eerste fry (van tevoren)</strong><br>Aardappelen schillen, in staafjes snijden. Grondig afspoelen tot het water helder is. Goed droogdeppen. Olie op 150–160°C. Frites erin — 5–6 minuten tot gaar maar bleek. Uitlekken op een rooster. Afkoelen. (Uren van tevoren te doen.)</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Stroganoffsaus</strong><br>Boter in een brede pan op hoog vuur. Champignons erin — 4–5 minuten bakken tot het vocht volledig verdampt en ze goudbruin zijn. Niet eerder van het vuur. Vuur lager. Sjalot en rode paprika toevoegen — 3–4 minuten zacht bakken. Knoflook erbij — 30 seconden. Tomatenpuree, Dijonmosterd en paprikapoeder erdoor — 1 minuut meebakken. Cognac erbij — laten inkoken of flamberen. Fond toevoegen — 5 minuten inkoken tot licht ingedikt. Slagroom erbij — 2–3 minuten zacht binden. Crème fraîche en Worcestershire erdoor roeren. Citroensap of sherryazijn allerlaatst. Op smaak. Warmhouden op laagste vuur. Michelin-aanpak: een deel van de saus door een fijne zeef wrijven voor glans, dan terugmengen met het onaangeraakte deel. Zo krijg je elegantie én karakter.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Vlees (vlak voor serveren — 90 seconden)</strong><br>Ossenhaasreepjes droogdeppen. Royaal bestrooien met zeezout en zwarte peper. Pan op hoogste vuur tot hij rookt — olie en boter erin. Ossenhaasreepjes in één laag — 30–45 seconden per kant. Rosé van binnen. In batches als nodig. Direct uit de pan. Niet in de saus koken — door de warme saus roeren vlak voor serveren.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Frites: tweede fry</strong><br>Olie op 185°C. Afgekoelde frites erin — 2–3 minuten tot diepgouden en krakend. Op een rooster. Direct bestrooien met fleur de sel.</div></div><div class="step"><div class="step-num">12</div><div class="step-text"><strong>Opbouwen</strong><br>Ossenhaasreepjes door de warme saus roeren — alleen mengen, niet meer koken. In een warm diep bord scheppen. Verse dille erover. De frites apart in een warm schaaltje. Cornichons apart.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Vlees allerlaatst en kort:</strong> De ossenhaasreepjes gaan er pas in als de saus klaar is. 60–90 seconden bakken, dan door de warme saus roeren. Doorgegaard stroganoff-vlees is taai.</p><p><strong>Champignons droog bakken:</strong> Eerst al het vocht eruit bakken — natte champignons geven een waterige saus.</p><p><strong>Crème fraîche, niet alleen slagroom:</strong> Crème fraîche geeft rijkheid én zuring. Alleen slagroom geeft een zoete, vlakke saus.</p><p><strong>Dijon is de ziel:</strong> Zonder mosterd is het een roomsaus. Met Dijon heeft het karakter.</p><p><strong>Paprika subtiel:</strong> Het moet geen Hongaarse goulash worden. Klein beetje, fijn gesneden — een hint van kleur en zoetheid.</p><p><strong>Cornichons zijn geen optie:</strong> Ze zijn de klassieke stroganoff-begeleider voor een reden. De frisheid en crunch balanceren de romige saus precies.</p><p><strong>Frites apart serveren:</strong> Niet onder de saus leggen — ze worden zacht. Ernaast, zodat je ze in de saus dipt.</p><p><strong>Dubbel frituren is verplicht:</strong> Eén keer = zachte frites. Dubbel = buiten krokant, binnen wollig.</p><p><strong>Wodka als Russische variant:</strong> Wodka is traditioneler in sommige stroganoff-lijnen maar geeft minder diepte dan cognac.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Bourgogne Pinot Noir AOC of Côte Chalonnaise — Bourgogne, Frankrijk</div>
-        <div class="wine-druif">Pinot Noir</div>
-        <p class="wine-toe">Pinot Noir heeft genoeg frisheid voor de crème fraîche en genoeg aardse tonen voor champignons en biefstuk. Niet te zwaar — laat de romige saus spreken.</p>
-        <div class="wine-alt">Alternatief: Blaufränkisch — Burgenland, Oostenrijk — Donkerrood fruit, peper, frisse zuren, sappig, licht kruidig; Champagne Extra Brut AOC — Champagne, Frankrijk — Droog, fijne mousse, citrus, lichte brioche, mineraal</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Bourgogne Pinot Noir AOC of Côte Chalonnaise — Bourgogne, Frankrijk</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Pinot Noir</span>
     </div>
+    <p class="wine-toelichting">Pinot Noir heeft genoeg frisheid voor de crème fraîche en genoeg aardse tonen voor champignons en biefstuk. Niet te zwaar — laat de romige saus spreken.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Blaufränkisch — Burgenland, Oostenrijk — Donkerrood fruit, peper, frisse zuren, sappig, licht kruidig; Champagne Extra Brut AOC — Champagne, Frankrijk — Droog, fijne mousse, citrus, lichte brioche, mineraal</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('2 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

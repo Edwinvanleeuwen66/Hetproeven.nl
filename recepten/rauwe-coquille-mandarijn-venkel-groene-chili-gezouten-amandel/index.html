@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Mediterraan</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Rauwe Coquille met Mandarijn, Venkel, Groene Chili en Gezouten Amandel</h1>
-      <p class="recipe-intro">Een helder crudo van flinterdun gesneden rauwe coquille met mandarijn, krokante venkel, groene chili en gezouten amandel — zoet, zilt, fris, licht bitter en krokant in één compositie.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kleine voorgerechten</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Rauwe Coquille met Mandarijn, Venkel, Groene Chili en Gezouten Amandel</div>
+  <div class="recipe-desc">Een helder crudo van flinterdun gesneden rauwe coquille met mandarijn, krokante venkel, groene chili en gezouten amandel — zoet, zilt, fris, licht bitter en krokant in één compositie.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de coquilles</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="8">8</span><span class="ing-name">grote superverse coquilles (sashimi-kwaliteit — vraag expliciet bij de visboer; zonder koraal)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">goede extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne rasp van ½ mandarijn (direct op de coquille)</span></li><li><span class="ing-amount" data-basis="paar druppels">paar druppels</span><span class="ing-name">citroensap</span></li></ul><h3 class="ing-group-title">Voor de mandarijn-vinaigrette</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">sap van 2 mandarijnen (liefst vers geperst)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">rijstazijn of wittewijnazijn</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">goede extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">honing (alleen als de mandarijn zuurder is)</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout + witte peper</span></li></ul><h3 class="ing-group-title">Voor de venkel</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">kleine venkelknol (zo wit en fris mogelijk — fronds bewaren)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">mandarijnsap</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">citroensap</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout + druppel olijfolie</span></li></ul><h3 class="ing-group-title">Voor de groene chili-olie</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">groene jalapeño of serrano (zonder zaadjes voor minder hitte)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">limoensap</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Voor de gezouten amandelen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="25g">25g</span><span class="ing-name">blanke amandelen of Marcona-amandelen (Marcona = luxe, ronder en vetter)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">druppel olijfolie</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">fleur de sel</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">venkelfronds (de fijne groene toppen)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">kleine blaadjes kervel of basilicum</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">kleine mandarijnsupremes (vliesvrije partjes) — optioneel</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">luxe variant: fijn geraspte bottarga of foreleitjes</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Amandelen roosteren</strong><p>Amandelen in een droge pan 3-4 minuten op middelhoog vuur roosteren tot lichtgoudbruin. Warm mengen met druppel olijfolie en fleur de sel. Laten afkoelen. Grof hakken — geen poeder, kleine krokante stukjes.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Venkel voorbereiden</strong><p>Venkel op een mandoline in flinterdunne plakjes van 1-2mm snijden. Optie A (maximale crunch): direct in ijskoud water — 15 minuten. Droogdeppen vlak voor serveren. Optie B (meer smaak): mengen met 1 tl mandarijnsap, citroensap, zout en olijfolie. 10 minuten marineren.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Groene chili-olie en mandarijn-vinaigrette</strong><p>Groene chili heel fijn snipperen — zaadjes verwijderd voor subtiele hitte. Mengen met limoensap, olijfolie en zout. Apart bewaren. Mandarijnsap, citroensap, azijn, olijfolie, zout, witte peper en eventueel honing mengen. Proef — fris, licht zoet, sappig.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Coquilles snijden en kruiden</strong><p>Coquilles droogdeppen. Met een scherp mes horizontaal in 3-4 dunne plakjes snijden. Licht bestrooien met fijn zeezout. Druppel olijfolie. Fijne mandarijnrasp erover. Paar druppels citroensap allerlaatst. Maximaal 2 minuten voor serveren.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Opbouwen en serveren</strong><p>Koude borden (15 min in de vriezer voor extra koudheid). Venkel losjes over het bord verdelen. Coquilleplakjes als dakpannen of in een losse cirkel erop. Mandarijn-vinaigrette rondom en deels over de coquille lepelen. Chili-olie in kleine stippen. Amandelen gericht strooien. Venkelfronds, kervel, eventueel mandarijnsupremes. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Coquille moet echt supervers zijn:</strong> dit is rauw. Geen hitte om imperfecties te verbergen. Koop dezelfde dag.</div><div class="tip-item"><strong>Mandarijnrasp direct op de coquille:</strong> geeft een aromatische directheid die de dressing alleen niet geeft.</div><div class="tip-item"><strong>Dunne plakjes:</strong> dunne coquilleplakjes nemen mandarijn, zout en olie veel mooier op.</div><div class="tip-item"><strong>Mandarijn is beter dan sinaasappel:</strong> meer parfum, zachtere zoetheid.</div><div class="tip-item"><strong>Groene chili heel subtiel:</strong> paar stippen chili-olie per bord. De hitte is een dunne draad.</div><div class="tip-item"><strong>Venkel geeft de structuur:</strong> zonder venkel wordt het te zacht. De crunch is essentieel.</div><div class="tip-item"><strong>Marcona-amandelen voor meer luxe:</strong> ronder, vetter en zachter — bij Italiaanse delicatessen of online.</div><div class="tip-item"><strong>Dressing allerlaatst:</strong> zodra citrus op coquille komt begint het te koken. Maximaal 2 minuten voor serveren.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de coquilles</div><div class="ing-row"><span>grote superverse coquilles (sashimi-kwaliteit — vraag expliciet bij de visboer; zonder koraal)</span><span class="ing-amount" data-basis="8">8</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>goede extra vergine olijfolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijne rasp van ½ mandarijn (direct op de coquille)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="paar druppels">paar druppels</span></div><div class="ing-cat">Voor de mandarijn-vinaigrette</div><div class="ing-row"><span>sap van 2 mandarijnen (liefst vers geperst)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>rijstazijn of wittewijnazijn</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>goede extra vergine olijfolie</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>honing (alleen als de mandarijn zuurder is)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>zout + witte peper</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Voor de venkel</div><div class="ing-row"><span>kleine venkelknol (zo wit en fris mogelijk — fronds bewaren)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>mandarijnsap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>citroensap</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>zout + druppel olijfolie</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Voor de groene chili-olie</div><div class="ing-row"><span>groene jalapeño of serrano (zonder zaadjes voor minder hitte)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Voor de gezouten amandelen</div><div class="ing-row"><span>blanke amandelen of Marcona-amandelen (Marcona = luxe, ronder en vetter)</span><span class="ing-amount" data-basis="25g">25g</span></div><div class="ing-row"><span>druppel olijfolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>venkelfronds (de fijne groene toppen)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>kleine blaadjes kervel of basilicum</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>kleine mandarijnsupremes (vliesvrije partjes) — optioneel</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>luxe variant: fijn geraspte bottarga of foreleitjes</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Amandelen roosteren</strong><br>Amandelen in een droge pan 3-4 minuten op middelhoog vuur roosteren tot lichtgoudbruin. Warm mengen met druppel olijfolie en fleur de sel. Laten afkoelen. Grof hakken — geen poeder, kleine krokante stukjes.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Venkel voorbereiden</strong><br>Venkel op een mandoline in flinterdunne plakjes van 1-2mm snijden. Optie A (maximale crunch): direct in ijskoud water — 15 minuten. Droogdeppen vlak voor serveren. Optie B (meer smaak): mengen met 1 tl mandarijnsap, citroensap, zout en olijfolie. 10 minuten marineren.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Groene chili-olie en mandarijn-vinaigrette</strong><br>Groene chili heel fijn snipperen — zaadjes verwijderd voor subtiele hitte. Mengen met limoensap, olijfolie en zout. Apart bewaren. Mandarijnsap, citroensap, azijn, olijfolie, zout, witte peper en eventueel honing mengen. Proef — fris, licht zoet, sappig.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Coquilles snijden en kruiden</strong><br>Coquilles droogdeppen. Met een scherp mes horizontaal in 3-4 dunne plakjes snijden. Licht bestrooien met fijn zeezout. Druppel olijfolie. Fijne mandarijnrasp erover. Paar druppels citroensap allerlaatst. Maximaal 2 minuten voor serveren.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Opbouwen en serveren</strong><br>Koude borden (15 min in de vriezer voor extra koudheid). Venkel losjes over het bord verdelen. Coquilleplakjes als dakpannen of in een losse cirkel erop. Mandarijn-vinaigrette rondom en deels over de coquille lepelen. Chili-olie in kleine stippen. Amandelen gericht strooien. Venkelfronds, kervel, eventueel mandarijnsupremes. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Coquille moet echt supervers zijn:</strong> dit is rauw. Geen hitte om imperfecties te verbergen. Koop dezelfde dag.</p><p><strong>Mandarijnrasp direct op de coquille:</strong> geeft een aromatische directheid die de dressing alleen niet geeft.</p><p><strong>Dunne plakjes:</strong> dunne coquilleplakjes nemen mandarijn, zout en olie veel mooier op.</p><p><strong>Mandarijn is beter dan sinaasappel:</strong> meer parfum, zachtere zoetheid.</p><p><strong>Groene chili heel subtiel:</strong> paar stippen chili-olie per bord. De hitte is een dunne draad.</p><p><strong>Venkel geeft de structuur:</strong> zonder venkel wordt het te zacht. De crunch is essentieel.</p><p><strong>Marcona-amandelen voor meer luxe:</strong> ronder, vetter en zachter — bij Italiaanse delicatessen of online.</p><p><strong>Dressing allerlaatst:</strong> zodra citrus op coquille komt begint het te koken. Maximaal 2 minuten voor serveren.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Vermentino di Gallura DOCG of Vermentino di Sardegna DOC — Sardinië, Italië</div>
-        <div class="wine-druif">Vermentino</div>
-        <p class="wine-toe">De amandelachtige bitterheid van Vermentino spiegelt de gezouten amandel. De citrus-kruidigheid sluit aan op venkel en mandarijn. De ziltigheid complementeert de rauwe coquille. Mediterraan, kustachtig en aromatisch — de meest precieze match bij dit gerecht.</p>
-        <div class="wine-alt">Alternatief: Champagne Blanc de Blancs Extra Brut AOC of Manzanilla DO (ijskoud)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Vermentino di Gallura DOCG of Vermentino di Sardegna DOC — Sardinië, Italië</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Vermentino</span>
     </div>
+    <p class="wine-toelichting">De amandelachtige bitterheid van Vermentino spiegelt de gezouten amandel. De citrus-kruidigheid sluit aan op venkel en mandarijn. De ziltigheid complementeert de rauwe coquille. Mediterraan, kustachtig en aromatisch — de meest precieze match bij dit gerecht.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Champagne Blanc de Blancs Extra Brut AOC of Manzanilla DO (ijskoud)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kleine voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Bangkok, Thailand</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Moo Ping — Thaise Varkensspiesjes met Nam Jim Jaew en Komkommer</h1>
-      <p class="recipe-intro">Bangkok&#x27;s geliefdste straatsnack verfijnd: varkensnek gemarineerd in knoflook, korianderwortel en kokosmelk, boven houtskool gegrild tot glanzend gekarameliseerd, met vurige nam jim jaew en frisse komkommer-kruidensalade.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 35 min + min. 3 uur marineren</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> porties (10–12 spiesjes)</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Thais</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Moo Ping — Thaise Varkensspiesjes met Nam Jim Jaew en Komkommer</div>
+  <div class="recipe-desc">Bangkok&#x27;s geliefdste straatsnack verfijnd: varkensnek gemarineerd in knoflook, korianderwortel en kokosmelk, boven houtskool gegrild tot glanzend gekarameliseerd, met vurige nam jim jaew en frisse komkommer-kruidensalade.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 35 min + min. 3 uur marineren</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Thais</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de varkensspiesjes</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="500g">500g</span><span class="ing-name">procureur, varkensnek of schouderkarbonade zonder bot</span></li><li><span class="ing-amount" data-basis="10–12">10–12</span><span class="ing-name">houten of bamboe satéstokjes, 30 min geweekt in water</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">neutrale olie (voor het grillen)</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">kokosmelk (om mee te bestrijken tijdens het grillen)</span></li></ul><h3 class="ing-group-title">Voor de marinade</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">tenen knoflook, fijn geraspt</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">korianderwortels (of 2 el fijngehakte korianderstelen), geschraapt en fijngehakt</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">witte peperkorrels, fijngestampt</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">korianderzaad, licht geroosterd en fijngemalen</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">vissaus</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">oestersaus</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">lichte sojasaus</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">donkere (zoete) sojasaus, voor kleur</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">palmsuiker (gula merah), fijn geraspt</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">kokosmelk</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">limoensap</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Voor de nam jim jaew (dipsaus)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">vissaus</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">tamarindepasta (opgelost in 2 el warm water)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">palmsuiker, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1–2 tl">1–2 tl</span><span class="ing-name">Thaise chilivlokken (prik nam)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geroosterd rijstpoeder (khao khua)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">limoensap</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">fijngesneden bosui</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">fijngehakt korianderblad</span></li></ul><h3 class="ing-group-title">Voor de frisse komkommer-kruidensalade</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">komkommer, in dunne halve maantjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine sjalot, flinterdun gesneden</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">limoensap</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">vissaus</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">suiker</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine rode chili, zeer fijn gesneden</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">korianderblad</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">muntblad, grof gescheurd</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">gestoomde kleefrijst (khao niao)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">limoenpartjes</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">geroosterde sesam (optioneel)</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Vlees snijden en marinade maken</strong><p>Snijd het varkensvlees tegen de draad in dunne plakjes van 4–5mm dik en 3–4cm breed. Stamp in een vijzel de knoflook, korianderwortel, witte peper en geroosterd korianderzaad tot een geurige pasta. Meng in een ruime kom met de vissaus, oestersaus, beide sojasauzen, palmsuiker, kokosmelk, limoensap en een snuf zout tot de suiker is opgelost. Meng het vlees grondig met de marinade en masseer kort. Dek af en marineer minimaal 3 uur in de koelkast, bij voorkeur een nacht.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Rijstpoeder roosteren en nam jim jaew maken</strong><p>Rooster 1 el ongekookte kleefrijst of jasmijnrijst in een droge pan op middelhoog vuur tot goudbruin en geurig. Maal fijn tot khao khua. Meng vissaus, opgeloste tamarinde, palmsuiker, chilivlokken, geroosterd rijstpoeder en limoensap tot de suiker is opgelost. Roer vlak voor serveren de bosui en koriander erdoor. Proef en balanceer — zuur, zout, zoet en pittig tegelijk.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Komkommersalade</strong><p>Meng limoensap, vissaus, suiker en chili tot een snelle dressing. Meng met de komkommer en sjalot. Voeg koriander en munt pas vlak voor serveren toe.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Spiesen en grillen</strong><p>Rijg de gemarineerde vleesplakjes zigzaggend en vrij plat aan de geweekte stokjes — geen dikke klonten, dunne laagjes karamelliseren mooier. Verhit een BBQ tot middelhoge directe hitte of een gietijzeren grillpan op middelhoog vuur. Bestrijk de spiesjes licht met olie en grill 2 tot 3 minuten per kant tot goudbruin, gaar en licht gekarameliseerd. Bestrijk tijdens het grillen één of twee keer dun met kokosmelk voor glans. Pas op: de suiker karamelliseert snel — niet te heet grillen.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Rusten en serveren</strong><p>Laat de spiesjes 2 minuten rusten. Schik op een warm bord met een bolling gestoomde kleefrijst, de komkommer-kruidensalade en een kommetje nam jim jaew. Werk af met limoenpartjes en eventueel geroosterde sesam.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Varkensnek of procureur, geen haas:</strong> het vet in nek en schouder houdt het vlees mals en sappig op de grill. Varkenshaas wordt droog en taai.</div><div class="tip-item"><strong>Kokosmelk is het geheim — in de marinade én tijdens het grillen:</strong> het is de sleutel tot authentieke moo ping — het maakt het vlees zijdezacht en geeft glans bij het karamelliseren.</div><div class="tip-item"><strong>Korianderwortel is klassiek, stelen zijn praktisch:</strong> de wortel heeft de diepste smaak. Bij de toko vind je verse koriander met wortel. Geen wortels? Gebruik de dikke stelen onderaan. Niet vervangen door blad.</div><div class="tip-item"><strong>Geroosterd rijstpoeder maakt de dipsaus:</strong> khao khua geeft nam jim jaew zijn karakteristieke nootachtige textuur en aroma. Rooster zelf in 5 minuten.</div><div class="tip-item"><strong>Marineer overnacht voor het beste resultaat:</strong> drie uur werkt, maar 12 tot 24 uur laat de marinade echt in het dunne vlees trekken.</div><div class="tip-item"><strong>Niet te heet grillen:</strong> de suiker in de marinade karamelliseert snel en verbrandt nog sneller. Middelhoge hitte en regelmatig keren geeft mooie kleur zonder bitterheid.</div><div class="tip-item"><strong>Geen zware pindasaus:</strong> dat maakt het gerecht meteen lomper en Indonesischer van karakter. Hier wil je juist Thaise frisheid: limoen, vissaus, kruiden en komkommer.</div><div class="tip-item"><strong>Variatie:</strong> voor moo yang sla je de stokjes over en grill je grotere stukken, daarna in repen gesneden. Voor kip: vervang door kippendij met vel met dezelfde marinade.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de varkensspiesjes</div><div class="ing-row"><span>procureur, varkensnek of schouderkarbonade zonder bot</span><span class="ing-amount" data-basis="500g">500g</span></div><div class="ing-row"><span>houten of bamboe satéstokjes, 30 min geweekt in water</span><span class="ing-amount" data-basis="10–12">10–12</span></div><div class="ing-row"><span>neutrale olie (voor het grillen)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>kokosmelk (om mee te bestrijken tijdens het grillen)</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-cat">Voor de marinade</div><div class="ing-row"><span>tenen knoflook, fijn geraspt</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>korianderwortels (of 2 el fijngehakte korianderstelen), geschraapt en fijngehakt</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>witte peperkorrels, fijngestampt</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>korianderzaad, licht geroosterd en fijngemalen</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>vissaus</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>oestersaus</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>lichte sojasaus</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>donkere (zoete) sojasaus, voor kleur</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>palmsuiker (gula merah), fijn geraspt</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>kokosmelk</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Voor de nam jim jaew (dipsaus)</div><div class="ing-row"><span>vissaus</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>tamarindepasta (opgelost in 2 el warm water)</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>palmsuiker, fijn geraspt</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Thaise chilivlokken (prik nam)</span><span class="ing-amount" data-basis="1–2 tl">1–2 tl</span></div><div class="ing-row"><span>geroosterd rijstpoeder (khao khua)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>fijngesneden bosui</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>fijngehakt korianderblad</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-cat">Voor de frisse komkommer-kruidensalade</div><div class="ing-row"><span>komkommer, in dunne halve maantjes</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>kleine sjalot, flinterdun gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>limoensap</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>vissaus</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>suiker</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kleine rode chili, zeer fijn gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>korianderblad</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>muntblad, grof gescheurd</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>gestoomde kleefrijst (khao niao)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>limoenpartjes</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>geroosterde sesam (optioneel)</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Vlees snijden en marinade maken</strong><br>Snijd het varkensvlees tegen de draad in dunne plakjes van 4–5mm dik en 3–4cm breed. Stamp in een vijzel de knoflook, korianderwortel, witte peper en geroosterd korianderzaad tot een geurige pasta. Meng in een ruime kom met de vissaus, oestersaus, beide sojasauzen, palmsuiker, kokosmelk, limoensap en een snuf zout tot de suiker is opgelost. Meng het vlees grondig met de marinade en masseer kort. Dek af en marineer minimaal 3 uur in de koelkast, bij voorkeur een nacht.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Rijstpoeder roosteren en nam jim jaew maken</strong><br>Rooster 1 el ongekookte kleefrijst of jasmijnrijst in een droge pan op middelhoog vuur tot goudbruin en geurig. Maal fijn tot khao khua. Meng vissaus, opgeloste tamarinde, palmsuiker, chilivlokken, geroosterd rijstpoeder en limoensap tot de suiker is opgelost. Roer vlak voor serveren de bosui en koriander erdoor. Proef en balanceer — zuur, zout, zoet en pittig tegelijk.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Komkommersalade</strong><br>Meng limoensap, vissaus, suiker en chili tot een snelle dressing. Meng met de komkommer en sjalot. Voeg koriander en munt pas vlak voor serveren toe.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Spiesen en grillen</strong><br>Rijg de gemarineerde vleesplakjes zigzaggend en vrij plat aan de geweekte stokjes — geen dikke klonten, dunne laagjes karamelliseren mooier. Verhit een BBQ tot middelhoge directe hitte of een gietijzeren grillpan op middelhoog vuur. Bestrijk de spiesjes licht met olie en grill 2 tot 3 minuten per kant tot goudbruin, gaar en licht gekarameliseerd. Bestrijk tijdens het grillen één of twee keer dun met kokosmelk voor glans. Pas op: de suiker karamelliseert snel — niet te heet grillen.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Rusten en serveren</strong><br>Laat de spiesjes 2 minuten rusten. Schik op een warm bord met een bolling gestoomde kleefrijst, de komkommer-kruidensalade en een kommetje nam jim jaew. Werk af met limoenpartjes en eventueel geroosterde sesam.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Varkensnek of procureur, geen haas:</strong> het vet in nek en schouder houdt het vlees mals en sappig op de grill. Varkenshaas wordt droog en taai.</p><p><strong>Kokosmelk is het geheim — in de marinade én tijdens het grillen:</strong> het is de sleutel tot authentieke moo ping — het maakt het vlees zijdezacht en geeft glans bij het karamelliseren.</p><p><strong>Korianderwortel is klassiek, stelen zijn praktisch:</strong> de wortel heeft de diepste smaak. Bij de toko vind je verse koriander met wortel. Geen wortels? Gebruik de dikke stelen onderaan. Niet vervangen door blad.</p><p><strong>Geroosterd rijstpoeder maakt de dipsaus:</strong> khao khua geeft nam jim jaew zijn karakteristieke nootachtige textuur en aroma. Rooster zelf in 5 minuten.</p><p><strong>Marineer overnacht voor het beste resultaat:</strong> drie uur werkt, maar 12 tot 24 uur laat de marinade echt in het dunne vlees trekken.</p><p><strong>Niet te heet grillen:</strong> de suiker in de marinade karamelliseert snel en verbrandt nog sneller. Middelhoge hitte en regelmatig keren geeft mooie kleur zonder bitterheid.</p><p><strong>Geen zware pindasaus:</strong> dat maakt het gerecht meteen lomper en Indonesischer van karakter. Hier wil je juist Thaise frisheid: limoen, vissaus, kruiden en komkommer.</p><p><strong>Variatie:</strong> voor moo yang sla je de stokjes over en grill je grotere stukken, daarna in repen gesneden. Voor kip: vervang door kippendij met vel met dezelfde marinade.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Riesling Kabinett Feinherb — Moezel, Duitsland</div>
-        <div class="wine-druif">Riesling</div>
-        <p class="wine-toe">De frisse zuren snijden door het varkensvet, het subtiele restzoet rondt de chili en karamellisatie af. De lage alcohol voorkomt dat de wijn warm aanvoelt naast de pittige nam jim jaew. Off-dry Riesling bij gegrild Thais varkensvlees is een schoolvoorbeeld-pairing. Serveer op 8–10°C.</p>
-        <div class="wine-alt">Alternatief: Gewürztraminer Alsace off-dry of Vouvray Demi-Sec AOC</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Riesling Kabinett Feinherb — Moezel, Duitsland</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Riesling</span>
     </div>
+    <p class="wine-toelichting">De frisse zuren snijden door het varkensvet, het subtiele restzoet rondt de chili en karamellisatie af. De lage alcohol voorkomt dat de wijn warm aanvoelt naast de pittige nam jim jaew. Off-dry Riesling bij gegrild Thais varkensvlees is een schoolvoorbeeld-pairing. Serveer op 8–10°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Gewürztraminer Alsace off-dry of Vouvray Demi-Sec AOC</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 porties (10–12 spiesjes)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

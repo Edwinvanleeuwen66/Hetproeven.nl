@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Groot-Brittannië</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Maximum Umami Tomatensoep met Kombu, Basilicumolie en Parmigiano — Farrimond-Stijl</h1>
-      <p class="recipe-intro">Vijf gestapelde umami-bronnen in een fluweelrode soep: geroosterde tomaat, zongedroogde tomaat, kombu, pancetta en Parmigiano — wetenschappelijk bewezen 5–10× dieper van smaak.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 1 uur 20 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> voorgerechten</div>
-        <div class="tag">📊 Makkelijk</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Maximum Umami Tomatensoep met Kombu, Basilicumolie en Parmigiano — Farrimond-Stijl</div>
+  <div class="recipe-desc">Vijf gestapelde umami-bronnen in een fluweelrode soep: geroosterde tomaat, zongedroogde tomaat, kombu, pancetta en Parmigiano — wetenschappelijk bewezen 5–10× dieper van smaak.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 1 uur 20 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Makkelijk</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Umami-bronnen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1kg">1kg</span><span class="ing-name">tomaten zo rijp mogelijk (gemengd rood/geel/pruimtomaat)</span></li><li><span class="ing-amount" data-basis="60g">60g</span><span class="ing-name">zongedroogde tomaten (weekwater bewaren)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">stuk kombu van ca. 8–10cm (bij de toko)</span></li><li><span class="ing-amount" data-basis="60g">60g</span><span class="ing-name">pancetta of guanciale, in kleine blokjes</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">stukje Parmigiano Reggiano-korst (optioneel maar briljant)</span></li></ul><h3 class="ing-group-title">Groentebasis</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">grote ui, fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">teentjes knoflook</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine wortel, grof gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">stengel bleekselderij, grof gesneden</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geconcentreerde tomatenpuree</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">extra vergine olijfolie</span></li></ul><h3 class="ing-group-title">Vloeistof en smaak</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="500ml">500ml</span><span class="ing-name">goede groente- of kippenbouillon</span></li><li><span class="ing-amount" data-basis="100ml">100ml</span><span class="ing-name">weekwater van de zongedroogde tomaten</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">goede balsamico</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">gerookt paprikapoeder</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout + zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de basilicumolie</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="20g">20g</span><span class="ing-name">verse basilicumblaadjes</span></li><li><span class="ing-amount" data-basis="60ml">60ml</span><span class="ing-name">milde olijfolie of neutrale olie</span></li><li><span class="ing-amount" data-basis="snufje">snufje</span><span class="ing-name">zout</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">krokante pancettastukjes (bewaard van het uitbakken)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">Parmigiano Reggiano 24 maanden, fijn geraspt — pas aan tafel</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">kleine basilicumblaadjes</span></li><li><span class="ing-amount" data-basis="drizzle">drizzle</span><span class="ing-name">extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">versgemalen zwarte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Zongedroogde tomaten weken</strong><p>Zongedroogde tomaten 20 minuten weken in 150ml warm water. Uitknijpen. Weekwater door een fijne zeef bewaren.</p></div></div><div class="step"><div class="step-num">2</div><div class="step-body"><strong class="step-action">Verse tomaten roosteren</strong><p>Oven op 200°C hetelucht. Tomaten halveren. Op bakplaat met olijfolie, zout en peper. 40–50 minuten tot de randen donker karameliseren. Niet overslaan — dit is de smaakbasis.</p></div></div><div class="step"><div class="step-num">3</div><div class="step-body"><strong class="step-action">Pancetta uitbakken</strong><p>Pancettablokjes in een droge soeppan op middelhoog vuur langzaam uitbakken tot krokant. Uitscheppen op keukenpapier — bewaar voor de afwerking. Het vet blijft in de pan.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Groentebasis bouwen</strong><p>Ui, wortel, selderij en knoflook in het pancettavet. 8–10 minuten zacht fruiten op laag vuur — glazig, niet bruin. Tomatenpuree en gerookt paprikapoeder toevoegen, 2 minuten al roerend meebakken.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Alle umami-bronnen samenbrengen</strong><p>Geroosterde tomaten, geweekte zongedroogde tomaten, kombu, bouillon, weekwater en optioneel de Parmigianokors toevoegen. Voorzichtig verwarmen — nooit hard laten koken terwijl de kombu erin zit. 20–25 minuten zacht laten trekken. Kombu (en Parmigianokors) eruit halen. Balsamico toevoegen.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Blenden, zeven en basilicumolie</strong><p>Geheel blenden op hoogste stand tot zijdezacht. Door een fijne zeef wrijven voor fluweelglad resultaat. Voorzichtig op smaak brengen — proef eerst, dan pas zouten. Voor de basilicumolie: basilicum, olie en zout kort mixen, eventueel door fijne zeef. Koel bewaren.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Warme diepe kommen. Soep ingieten. Basilicumolie in kleine groene cirkels of stippen. Krokante pancettastukjes in het midden. Parmigiano allerlaatst raspen als fijne sneeuw. Kleine basilicumblaadjes, drizzle olijfolie, zwarte peper.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">Waarom zo diep? Glutamaten (vers en zongedroogde tomaat, kombu) + inosinaten (pancetta) = synergische umami. Bewezen wetenschap — 5–10× sterker dan elk ingrediënt afzonderlijk. Parmigiano als finishing activeert de synergie opnieuw.</div><div class="tip-item"><strong>Roosteren is niet optioneel:</strong> Geroosterde tomaten geven diepte, zoetheid en geconcentreerde glutamaten. Rauwe tomaten geven frisse soep — mooi maar niet diep.</div><div class="tip-item"><strong>Kombu kort houden:</strong> 20–25 minuten is genoeg. Langer geeft een zeewierige smaak. Nooit hard laten koken.</div><div class="tip-item"><strong>Pancettavet als basis, niet als speksoep:</strong> Het vet geeft de diepte. De krokante stukjes zijn topping. Te veel pancetta maakt de soep zwaar en zout.</div><div class="tip-item"><strong>Parmigianokors tijdens het koken:</strong> Optioneel maar briljant — geeft glutamaten zonder de soep log te maken. Vraag de kaasboer of bewaar korsten in de vriezer.</div><div class="tip-item"><strong>Parmigiano pas aan tafel raspen:</strong> Meekoken maakt de soep log en zout. Fijn raspen geeft aroma en umami zonder zwaarte.</div><div class="tip-item"><strong>Voorzichtig zouten:</strong> Al je bronnen dragen zout. Proef, dan pas zouten.</div><div class="tip-item"><strong>Vegetarische versie:</strong> Pancetta weg, 10g gedroogde porcini erin (guanylaten). Andere klasse umami, even synergisch.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Umami-bronnen</div><div class="ing-row"><span>tomaten zo rijp mogelijk (gemengd rood/geel/pruimtomaat)</span><span class="ing-amount" data-basis="1kg">1kg</span></div><div class="ing-row"><span>zongedroogde tomaten (weekwater bewaren)</span><span class="ing-amount" data-basis="60g">60g</span></div><div class="ing-row"><span>stuk kombu van ca. 8–10cm (bij de toko)</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>pancetta of guanciale, in kleine blokjes</span><span class="ing-amount" data-basis="60g">60g</span></div><div class="ing-row"><span>stukje Parmigiano Reggiano-korst (optioneel maar briljant)</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-cat">Groentebasis</div><div class="ing-row"><span>grote ui, fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>teentjes knoflook</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>kleine wortel, grof gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>stengel bleekselderij, grof gesneden</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>geconcentreerde tomatenpuree</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>extra vergine olijfolie</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-cat">Vloeistof en smaak</div><div class="ing-row"><span>goede groente- of kippenbouillon</span><span class="ing-amount" data-basis="500ml">500ml</span></div><div class="ing-row"><span>weekwater van de zongedroogde tomaten</span><span class="ing-amount" data-basis="100ml">100ml</span></div><div class="ing-row"><span>goede balsamico</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>gerookt paprikapoeder</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>zout + zwarte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de basilicumolie</div><div class="ing-row"><span>verse basilicumblaadjes</span><span class="ing-amount" data-basis="20g">20g</span></div><div class="ing-row"><span>milde olijfolie of neutrale olie</span><span class="ing-amount" data-basis="60ml">60ml</span></div><div class="ing-row"><span>zout</span><span class="ing-amount" data-basis="snufje">snufje</span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>krokante pancettastukjes (bewaard van het uitbakken)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>Parmigiano Reggiano 24 maanden, fijn geraspt — pas aan tafel</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>kleine basilicumblaadjes</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>extra vergine olijfolie</span><span class="ing-amount" data-basis="drizzle">drizzle</span></div><div class="ing-row"><span>versgemalen zwarte peper</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Zongedroogde tomaten weken</strong><br>Zongedroogde tomaten 20 minuten weken in 150ml warm water. Uitknijpen. Weekwater door een fijne zeef bewaren.</div></div><div class="step"><div class="step-num">2</div><div class="step-text"><strong>Verse tomaten roosteren</strong><br>Oven op 200°C hetelucht. Tomaten halveren. Op bakplaat met olijfolie, zout en peper. 40–50 minuten tot de randen donker karameliseren. Niet overslaan — dit is de smaakbasis.</div></div><div class="step"><div class="step-num">3</div><div class="step-text"><strong>Pancetta uitbakken</strong><br>Pancettablokjes in een droge soeppan op middelhoog vuur langzaam uitbakken tot krokant. Uitscheppen op keukenpapier — bewaar voor de afwerking. Het vet blijft in de pan.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Groentebasis bouwen</strong><br>Ui, wortel, selderij en knoflook in het pancettavet. 8–10 minuten zacht fruiten op laag vuur — glazig, niet bruin. Tomatenpuree en gerookt paprikapoeder toevoegen, 2 minuten al roerend meebakken.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Alle umami-bronnen samenbrengen</strong><br>Geroosterde tomaten, geweekte zongedroogde tomaten, kombu, bouillon, weekwater en optioneel de Parmigianokors toevoegen. Voorzichtig verwarmen — nooit hard laten koken terwijl de kombu erin zit. 20–25 minuten zacht laten trekken. Kombu (en Parmigianokors) eruit halen. Balsamico toevoegen.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Blenden, zeven en basilicumolie</strong><br>Geheel blenden op hoogste stand tot zijdezacht. Door een fijne zeef wrijven voor fluweelglad resultaat. Voorzichtig op smaak brengen — proef eerst, dan pas zouten. Voor de basilicumolie: basilicum, olie en zout kort mixen, eventueel door fijne zeef. Koel bewaren.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Opbouwen</strong><br>Warme diepe kommen. Soep ingieten. Basilicumolie in kleine groene cirkels of stippen. Krokante pancettastukjes in het midden. Parmigiano allerlaatst raspen als fijne sneeuw. Kleine basilicumblaadjes, drizzle olijfolie, zwarte peper.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>Waarom zo diep? Glutamaten (vers en zongedroogde tomaat, kombu) + inosinaten (pancetta) = synergische umami. Bewezen wetenschap — 5–10× sterker dan elk ingrediënt afzonderlijk. Parmigiano als finishing activeert de synergie opnieuw.</p><p><strong>Roosteren is niet optioneel:</strong> Geroosterde tomaten geven diepte, zoetheid en geconcentreerde glutamaten. Rauwe tomaten geven frisse soep — mooi maar niet diep.</p><p><strong>Kombu kort houden:</strong> 20–25 minuten is genoeg. Langer geeft een zeewierige smaak. Nooit hard laten koken.</p><p><strong>Pancettavet als basis, niet als speksoep:</strong> Het vet geeft de diepte. De krokante stukjes zijn topping. Te veel pancetta maakt de soep zwaar en zout.</p><p><strong>Parmigianokors tijdens het koken:</strong> Optioneel maar briljant — geeft glutamaten zonder de soep log te maken. Vraag de kaasboer of bewaar korsten in de vriezer.</p><p><strong>Parmigiano pas aan tafel raspen:</strong> Meekoken maakt de soep log en zout. Fijn raspen geeft aroma en umami zonder zwaarte.</p><p><strong>Voorzichtig zouten:</strong> Al je bronnen dragen zout. Proef, dan pas zouten.</p><p><strong>Vegetarische versie:</strong> Pancetta weg, 10g gedroogde porcini erin (guanylaten). Andere klasse umami, even synergisch.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Barbera d&#x27;Asti DOCG of Barbera d&#x27;Alba DOC — Piëmont, Italië</div>
-        <div class="wine-druif">Barbera</div>
-        <p class="wine-toe">Barbera&#x27;s frisse zuren spiegelen de geroosterde tomaat en balsamico, terwijl het lage tannineniveau niet botst met de umami-diepte. Sappig, levendig en inhoudelijk de sterkste keuze bij deze soep. Serveer op 16–18°C.</p>
-        <div class="wine-alt">Alternatief: Etna Rosso DOC (Nerello Mascalese) of Verdicchio dei Castelli di Jesi Classico Superiore DOC</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Barbera d&#x27;Asti DOCG of Barbera d&#x27;Alba DOC — Piëmont, Italië</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Barbera</span>
     </div>
+    <p class="wine-toelichting">Barbera&#x27;s frisse zuren spiegelen de geroosterde tomaat en balsamico, terwijl het lage tannineniveau niet botst met de umami-diepte. Sappig, levendig en inhoudelijk de sterkste keuze bij deze soep. Serveer op 16–18°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Etna Rosso DOC (Nerello Mascalese) of Verdicchio dei Castelli di Jesi Classico Superiore DOC</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

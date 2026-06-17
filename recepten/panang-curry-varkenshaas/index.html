@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Bangkok</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Panang Curry van varkenshaas met zelfgemaakte panangpasta en kaffir limoen</h1>
-      <p class="recipe-intro">De rijkste Thaise curry: zelfgemaakte panangpasta met geroosterde pinda&#x27;s, galanga en citroengras — met rosé varkenshaas en kaffir limoen-chiffonade.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 60 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Meesterkok</div>
-        <div class="tag">🌍 Thais</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Panang Curry van varkenshaas met zelfgemaakte panangpasta en kaffir limoen</div>
+  <div class="recipe-desc">De rijkste Thaise curry: zelfgemaakte panangpasta met geroosterde pinda&#x27;s, galanga en citroengras — met rosé varkenshaas en kaffir limoen-chiffonade.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 60 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Meesterkok</div>
+    <div class="tag tag-acc">🌍 Thais</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Zelfgemaakte panang-pasta</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="5">5</span><span class="ing-name">gedroogde rode pepers, 30 min geweekt</span></li><li><span class="ing-amount" data-basis="2 stengels">2 stengels</span><span class="ing-name">citroengras, wit deel</span></li><li><span class="ing-amount" data-basis="3 cm">3 cm</span><span class="ing-name">verse galanga</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">schil van ½ kaffir limoen</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">korianderwortelss</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">knoflookteentjes</span></li><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">sjalotten</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">garnalenpasta (belacan)</span></li><li><span class="ing-amount" data-basis="30 g">30 g</span><span class="ing-name">geroosterde pinda&#x27;s</span></li><li><span class="ing-amount" data-basis="1 tl elk">1 tl elk</span><span class="ing-name">komijn- en korianderzaad, geroosterd en fijngemalen</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">witte peper</span></li></ul><h3 class="ing-group-title">Panangsaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="250 ml">250 ml</span><span class="ing-name">kokosroom, dik bovenste deel</span></li><li><span class="ing-amount" data-basis="150 ml">150 ml</span><span class="ing-name">kokosmelk</span></li><li><span class="ing-amount" data-basis="100 ml">100 ml</span><span class="ing-name">lichte kippenfond</span></li><li><span class="ing-amount" data-basis="3 el">3 el</span><span class="ing-name">zelfgemaakte panang-pasta</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">vissaus</span></li><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">palmsuiker</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">tamarindepasta</span></li><li><span class="ing-amount" data-basis="1 el elk">1 el elk</span><span class="ing-name">fijn gemalen geroosterde pinda en kaffir limoenblaadjes, gekneusd</span></li></ul><h3 class="ing-group-title">Varkenshaas en afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="500 g">500 g</span><span class="ing-name">varkenshaas</span></li><li><span class="ing-amount" data-basis="1 el, 1 teen, 1 cm">1 el, 1 teen, 1 cm</span><span class="ing-name">neutrale olie, knoflookteen en verse gember</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">kaffir limoenblaadjes, ultrafijne chiffonade</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">rode prik in julienne, dikke kokosroom, Thaise basilicum en geroosterde pinda&#x27;s</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Pasta maken</strong><p>rooster komijn en koriander droog. Stamp of blend alle pasta-ingrediënten tot een gladde pasta. Dit duurt tijd — neem het.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus opbouwen</strong><p>verhit de dikke kokosroom tot hij begint te borrelen en de olie licht scheidt van het vet. Voeg de pasta toe en bak 3–4 minuten op middelhoog vuur — de aromaten moeten geurig en droog bakken. Dit is de meest cruciale stap.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Saus voltooien</strong><p>voeg palmsuiker en vissaus toe. Dan kokosmelk, kippenfond, tamarinde, gemalen pinda en kaffir limoen erbij. 8–10 minuten inkoken tot een diepe, rijke saus.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Varkenshaas bereiden</strong><p>bak de varkenshaas rondom goudbruin met knoflook en gember. Kerntemperatuur 58°C. 10 minuten rusten. Flinterdun snijden. Rustvocht door de saus.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Serveren</strong><p>schep een spiegel saus op elk warm bord. Waaier 5 flinterdunne varkenshaas-slices erover. Druppel kokosroom. Kaffir lime-chiffonade, rode prik, pinda en basilicum als finishing. Jasmiinrijst apart.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">het pastabakken in kokosroom is de meest cruciale stap — nooit overslaan, nooit haastig. De pasta moet echt geurig en droog bakken voordat de vloeistof erbij gaat.</div><div class="tip-item"><strong>Techniek:</strong> gebruik een kernthermometer voor de varkenshaas — 58°C is perfect rosé, meer is droog. Laat 10 minuten rusten voor je snijdt.</div><div class="tip-item"><strong>Presentatie:</strong> schep een spiegel saus op elk warm bord, waaier 5 flinterdunne varkenshaasplakken eroverheen en druppel dikke kokosroom als witte stippen — minimalistisch en elegant.</div><div class="tip-item"><strong>Variatie:</strong> voeg een extra el geroosterde pinda&#x27;s toe aan de saus voor meer textuur, of gebruik kaffir lime-chiffonade als finishing voor visuele elegantie én fris citrusaroma.</div><div class="tip-item"><strong>Alternatief:</strong> geen tijd voor zelfgemaakte panangpasta? Gebruik Mae Ploy of Maesri Panang Curry Paste en voeg verse galanga, kaffir limoenschil en extra gemalen pinda toe — nog steeds goed bakken in kokosroom, dat maakt het verschil.</div><div class="tip-item"><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div><div class="tip-item"><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Zelfgemaakte panang-pasta</div><div class="ing-row"><span>gedroogde rode pepers, 30 min geweekt</span><span class="ing-amount" data-basis="5">5</span></div><div class="ing-row"><span>citroengras, wit deel</span><span class="ing-amount" data-basis="2 stengels">2 stengels</span></div><div class="ing-row"><span>verse galanga</span><span class="ing-amount" data-basis="3 cm">3 cm</span></div><div class="ing-row"><span>schil van ½ kaffir limoen</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>korianderwortelss</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>knoflookteentjes</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>sjalotten</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>garnalenpasta (belacan)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>geroosterde pinda&#x27;s</span><span class="ing-amount" data-basis="30 g">30 g</span></div><div class="ing-row"><span>komijn- en korianderzaad, geroosterd en fijngemalen</span><span class="ing-amount" data-basis="1 tl elk">1 tl elk</span></div><div class="ing-row"><span>witte peper</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-cat">Panangsaus</div><div class="ing-row"><span>kokosroom, dik bovenste deel</span><span class="ing-amount" data-basis="250 ml">250 ml</span></div><div class="ing-row"><span>kokosmelk</span><span class="ing-amount" data-basis="150 ml">150 ml</span></div><div class="ing-row"><span>lichte kippenfond</span><span class="ing-amount" data-basis="100 ml">100 ml</span></div><div class="ing-row"><span>zelfgemaakte panang-pasta</span><span class="ing-amount" data-basis="3 el">3 el</span></div><div class="ing-row"><span>vissaus</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>palmsuiker</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>tamarindepasta</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijn gemalen geroosterde pinda en kaffir limoenblaadjes, gekneusd</span><span class="ing-amount" data-basis="1 el elk">1 el elk</span></div><div class="ing-cat">Varkenshaas en afwerking</div><div class="ing-row"><span>varkenshaas</span><span class="ing-amount" data-basis="500 g">500 g</span></div><div class="ing-row"><span>neutrale olie, knoflookteen en verse gember</span><span class="ing-amount" data-basis="1 el, 1 teen, 1 cm">1 el, 1 teen, 1 cm</span></div><div class="ing-row"><span>kaffir limoenblaadjes, ultrafijne chiffonade</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>rode prik in julienne, dikke kokosroom, Thaise basilicum en geroosterde pinda&#x27;s</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Pasta maken</strong><br>rooster komijn en koriander droog. Stamp of blend alle pasta-ingrediënten tot een gladde pasta. Dit duurt tijd — neem het.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus opbouwen</strong><br>verhit de dikke kokosroom tot hij begint te borrelen en de olie licht scheidt van het vet. Voeg de pasta toe en bak 3–4 minuten op middelhoog vuur — de aromaten moeten geurig en droog bakken. Dit is de meest cruciale stap.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Saus voltooien</strong><br>voeg palmsuiker en vissaus toe. Dan kokosmelk, kippenfond, tamarinde, gemalen pinda en kaffir limoen erbij. 8–10 minuten inkoken tot een diepe, rijke saus.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Varkenshaas bereiden</strong><br>bak de varkenshaas rondom goudbruin met knoflook en gember. Kerntemperatuur 58°C. 10 minuten rusten. Flinterdun snijden. Rustvocht door de saus.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Serveren</strong><br>schep een spiegel saus op elk warm bord. Waaier 5 flinterdunne varkenshaas-slices erover. Druppel kokosroom. Kaffir lime-chiffonade, rode prik, pinda en basilicum als finishing. Jasmiinrijst apart.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>het pastabakken in kokosroom is de meest cruciale stap — nooit overslaan, nooit haastig. De pasta moet echt geurig en droog bakken voordat de vloeistof erbij gaat.</p><p><strong>Techniek:</strong> gebruik een kernthermometer voor de varkenshaas — 58°C is perfect rosé, meer is droog. Laat 10 minuten rusten voor je snijdt.</p><p><strong>Presentatie:</strong> schep een spiegel saus op elk warm bord, waaier 5 flinterdunne varkenshaasplakken eroverheen en druppel dikke kokosroom als witte stippen — minimalistisch en elegant.</p><p><strong>Variatie:</strong> voeg een extra el geroosterde pinda&#x27;s toe aan de saus voor meer textuur, of gebruik kaffir lime-chiffonade als finishing voor visuele elegantie én fris citrusaroma.</p><p><strong>Alternatief:</strong> geen tijd voor zelfgemaakte panangpasta? Gebruik Mae Ploy of Maesri Panang Curry Paste en voeg verse galanga, kaffir limoenschil en extra gemalen pinda toe — nog steeds goed bakken in kokosroom, dat maakt het verschil.</p><p><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p><p><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Pinot Gris d&#x27;Alsace</div>
-        <div class="wine-druif">Pinot Gris</div>
-        <p class="wine-toe">De volle textuur en steenfruitaromatiek van een Elzasser Pinot Gris — witte perzik, abrikoos, honing en een lichte rokerige ondertoon — spiegelt de romigheid van de dikke kokossaus en sluit aan op kaffir limoen en galanga in de bumbu. De lichte rondheid van de Pinot Gris geeft voldoende body om de rijke, complexe panangsaus bij te houden zonder er doorheen gedrukt te worden. Een vendange tardive of Sélection de Grains Nobles versie geeft extra diepte bij de specerijenrijke saus. Serveer op 12°C.</p>
-        <div class="wine-alt">Alternatief: Viognier of Chenin Blanc demi-sec — aromatisch en licht rond, werkt uitstekend bij kokos en lemongrass</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Pinot Gris d&#x27;Alsace</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Pinot Gris</span>
     </div>
+    <p class="wine-toelichting">De volle textuur en steenfruitaromatiek van een Elzasser Pinot Gris — witte perzik, abrikoos, honing en een lichte rokerige ondertoon — spiegelt de romigheid van de dikke kokossaus en sluit aan op kaffir limoen en galanga in de bumbu. De lichte rondheid van de Pinot Gris geeft voldoende body om de rijke, complexe panangsaus bij te houden zonder er doorheen gedrukt te worden. Een vendange tardive of Sélection de Grains Nobles versie geeft extra diepte bij de specerijenrijke saus. Serveer op 12°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Viognier of Chenin Blanc demi-sec — aromatisch en licht rond, werkt uitstekend bij kokos en lemongrass</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

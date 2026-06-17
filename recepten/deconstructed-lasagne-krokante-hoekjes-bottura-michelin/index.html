@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Modena</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Deconstructed Lasagne — Krokante Hoekjes, Geconcentreerde Ragù en Parmigiano — Bottura-stijl</h1>
-      <p class="recipe-intro">Krokante lasagnedriehoekjes van eierpasta — ingesmeerd met boter, gebakken op 220°C tot ze breken als een chip. Ernaast de lekkerste ragù die je ooit hebt gemaakt, uren gesuderd en geconcentreerd tot pure diepe vleessmaak. Gegrilde courgette als zachte tegenstem.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min actief + 2–3 uur ragù</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> kleine voorgerechten</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Deconstructed Lasagne — Krokante Hoekjes, Geconcentreerde Ragù en Parmigiano — Bottura-stijl</div>
+  <div class="recipe-desc">Krokante lasagnedriehoekjes van eierpasta — ingesmeerd met boter, gebakken op 220°C tot ze breken als een chip. Ernaast de lekkerste ragù die je ooit hebt gemaakt, uren gesuderd en geconcentreerd tot pure diepe vleessmaak. Gegrilde courgette als zachte tegenstem.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min actief + 2–3 uur ragù</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de geconcentreerde ragù (liefst een dag eerder)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">rundergehakt (niet te mager)</span></li><li><span class="ing-amount" data-basis="100 g">100 g</span><span class="ing-name">varkensgehakt</span></li><li><span class="ing-amount" data-basis="50 g">50 g</span><span class="ing-name">pancetta, zeer fijn gesneden</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">kleine ui + kleine wortel + ½ stengel bleekselderij, extreem fijn gesnipperd</span></li><li><span class="ing-amount" data-basis="1 el + 20 g">1 el + 20 g</span><span class="ing-name">olijfolie + roomboter</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">geconcentreerde tomatenpuree</span></li><li><span class="ing-amount" data-basis="100 ml">100 ml</span><span class="ing-name">droge witte wijn</span></li><li><span class="ing-amount" data-basis="120 ml">120 ml</span><span class="ing-name">volle melk (allerlaatst)</span></li><li><span class="ing-amount" data-basis="100 ml">100 ml</span><span class="ing-name">passata (niet meer — dit is een geconcentreerde ragù)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf nootmuskaat + zout + zwarte peper</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: paar druppels oude balsamico allerlaatst</span></li></ul><h3 class="ing-group-title">Voor de lichte béchamel</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="25 g">25 g</span><span class="ing-name">ongezouten roomboter</span></li><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">bloem</span></li><li><span class="ing-amount" data-basis="300 ml">300 ml</span><span class="ing-name">volle melk (warm)</span></li><li><span class="ing-amount" data-basis="25 g">25 g</span><span class="ing-name">Parmigiano Reggiano, fijn geraspt</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf nootmuskaat + zout + witte peper</span></li></ul><h3 class="ing-group-title">Voor de krokante lasagnehoekjes</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="6">6</span><span class="ing-name">groene lasagnevellen (Barilla lasagne verde)</span></li><li><span class="ing-amount" data-basis="30 g">30 g</span><span class="ing-name">ongezouten roomboter, gesmolten</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">olijfolie</span></li><li><span class="ing-amount" data-basis="60 g">60 g</span><span class="ing-name">Parmigiano Reggiano, fijn geraspt</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis=""></span><span class="ing-name">extra Parmigiano Reggiano, geraspt</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">paar druppels goede olijfolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">versgemalen zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de gegrilde groenten (optioneel maar sterk aanbevolen)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">courgette, in dunne plakken van 3mm langs de lengte</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">aubergine, in dunne plakken van 3mm</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">extra-vergine olijfolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fleur de sel</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">vers gemalen zwarte peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">Geconcentreerde ragù (liefst een dag eerder)</strong><p>Olijfolie en boter in een brede zware pan op middelhoog vuur. Pancetta 2 minuten uitbakken. Ui, wortel en selderij toevoegen — 8–10 minuten zacht fruiten — glazig, niet bruin. Runder- en varkensgehakt toevoegen. Op hoog vuur al roerend bakken tot volledig bruin en los — geen klonters. Tomatenpuree erdoor — 1 minuut meebakken. Wijn toevoegen — volledig laten verdampen. Passata toevoegen. Vuur op allerlaagste stand. Minimaal 2 uur sudderen — liefst 3. Deksel schuin erop. Elk half uur roeren. De ragù moet bijna droog en geconcentreerd worden — geen natte saus, een stevige massa die op een lepel blijft staan. Melk de laatste 20 minuten erdoor roeren. Op smaak met nootmuskaat, zout en peper. Eventueel paar druppels oude balsamico allerlaatst. Afkoelen en bewaren.</p></div></div><div class="step"><div class="step-num">6</div><div class="step-body"><strong class="step-action">Lichte béchamel</strong><p>Boter smelten. Bloem erbij — 1 minuut roeren tot gladde roux. Warme melk er lepel voor lepel bij kloppen — steeds glad roeren voor de volgende lepel. 3–4 minuten al roerend koken tot dik en glad. Parmigiano, nootmuskaat, zout en witte peper. Dun en lepelbaar. Afdekken met plasticfolie direct op het oppervlak.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Krokante lasagnehoekjes</strong><p>Oven voorverwarmen op 220°C hetelucht. Lasagnevellen 30 seconden in kokend gezouten water blancheren. Direct in ijskoud water. Op een schone doek leggen en grondig droogdeppen — vocht is de vijand van crunch. Vellen bestrijken met gesmolten boter gemengd met olijfolie — royaal, aan beide kanten. Parmigiano erover strooien. Snufje zout. Snijden in onregelmatige hoekjes en rechthoeken van 8×6cm — de onregelmatige randen worden het knapperigst. Licht dubbelgevouwen of gekanteld op bakpapier leggen zodat ze hoogte en hoeken krijgen. 10–14 minuten op 220°C. De randen moeten diep goudbruin tot licht geblakerd zijn — bijna chips. Blijf erbij — Parmigiano gaat snel van perfect naar verbrand. Op een rooster laten afkoelen — worden nog krokanter.</p></div></div><div class="step"><div class="step-num">12</div><div class="step-body"><strong class="step-action">Opbouwen (allerlaatst — pasta wacht op niemand)</strong><p>Warm bord. Kleine lepel warme ragù iets uit het midden — geconcentreerd en diep. Krokante lasagnehoekjes rechtop of schuin ertegen — de donkere, krokante randen prominent zichtbaar. Dunne lepel béchamel ernaast of er licht over gedruppeld. Extra Parmigiano raspen. Druppel olijfolie. Zwarte peper. Direct serveren.</p></div></div><div class="step"><div class="step-num">5</div><div class="step-body"><strong class="step-action">Gegrilde courgette en aubergine</strong><p>Bestrijk de plakken courgette en aubergine aan beide kanten dun met olijfolie. Gril op een hete grillpan of koekenpan op hoog vuur — 1 tot 2 minuten per kant tot mooie grillstrepen en net gaar. Niet te lang — ze moeten nog beet hebben. Bestrooi met fleur de sel en zwarte peper. Leg naast de krokante lasagnehoekjes op het bord als warm, zacht contrast met het krokante.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Ragù zo droog mogelijk:</strong> De meest gemaakte fout is een natte ragù. Hoe droger, hoe beter de pasta zijn crunch behoudt. De ragù moet bijna kunnen kruimelen.</div><div class="tip-item"><strong>Pasta apart bakken van de ragù:</strong> Dit is de sleutel. De pasta wordt zonder ragù gebakken — zo blijft hij altijd krokant. De ragù wordt ernaast geserveerd, niet erin gebakken.</div><div class="tip-item"><strong>220°C is niet onderhandelbaar:</strong> Lagere temperatuur geeft geen crunch — de pasta droogt en wordt taai maar niet knapperig.</div><div class="tip-item"><strong>Mise en place:</strong> Pas vlak voor serveren opbouwen: Zodra ragù of béchamel tegen de pasta komt verliest hij crunch. Alles klaar — dan pas opbouwen en direct serveren.</div><div class="tip-item"><strong>Pancetta geeft diepte:</strong> Kleine hoeveelheid maar maakt de ragù ronder en rijker dan gehakt alleen.</div><div class="tip-item"><strong>Barilla lasagne verde:</strong> Werkt perfect voor dit gerecht. Verse groene vellen van een Italiaanse deli zijn dunner en knapperiger — mooier maar niet verplicht.</div><div class="tip-item"><strong>Variatie — oude balsamico:</strong> Paar druppels goede oude Aceto Balsamico di Modena door de ragù allerlaatst. Bottura&#x27;s eigen stad levert de beste. Diepte zonder dat je hem proeft.</div><div class="tip-item"><strong>Supermarktproducten werken perfect:</strong> gewone lasagnevellen van Jumbo of AH, half-om-half gehakt, gewone melk voor de béchamel. Het geheim zit in de techniek — droog bakken op hoge hitte — niet in dure ingrediënten. Dit is precies de democratisering van Michelin-koken.</div><div class="tip-item"><strong>Courgette en aubergine naast, niet erdoorheen:</strong> de groenten liggen los naast de krokante hoekjes als warm zacht contrast. Erdoorheen mengen maakt het gerecht weer zompig — dat is precies wat we niet willen.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de geconcentreerde ragù (liefst een dag eerder)</div><div class="ing-row"><span>rundergehakt (niet te mager)</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>varkensgehakt</span><span class="ing-amount" data-basis="100 g">100 g</span></div><div class="ing-row"><span>pancetta, zeer fijn gesneden</span><span class="ing-amount" data-basis="50 g">50 g</span></div><div class="ing-row"><span>kleine ui + kleine wortel + ½ stengel bleekselderij, extreem fijn gesnipperd</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>olijfolie + roomboter</span><span class="ing-amount" data-basis="1 el + 20 g">1 el + 20 g</span></div><div class="ing-row"><span>geconcentreerde tomatenpuree</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>droge witte wijn</span><span class="ing-amount" data-basis="100 ml">100 ml</span></div><div class="ing-row"><span>volle melk (allerlaatst)</span><span class="ing-amount" data-basis="120 ml">120 ml</span></div><div class="ing-row"><span>passata (niet meer — dit is een geconcentreerde ragù)</span><span class="ing-amount" data-basis="100 ml">100 ml</span></div><div class="ing-row"><span>snuf nootmuskaat + zout + zwarte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>eventueel: paar druppels oude balsamico allerlaatst</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de lichte béchamel</div><div class="ing-row"><span>ongezouten roomboter</span><span class="ing-amount" data-basis="25 g">25 g</span></div><div class="ing-row"><span>bloem</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>volle melk (warm)</span><span class="ing-amount" data-basis="300 ml">300 ml</span></div><div class="ing-row"><span>Parmigiano Reggiano, fijn geraspt</span><span class="ing-amount" data-basis="25 g">25 g</span></div><div class="ing-row"><span>snuf nootmuskaat + zout + witte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de krokante lasagnehoekjes</div><div class="ing-row"><span>groene lasagnevellen (Barilla lasagne verde)</span><span class="ing-amount" data-basis="6">6</span></div><div class="ing-row"><span>ongezouten roomboter, gesmolten</span><span class="ing-amount" data-basis="30 g">30 g</span></div><div class="ing-row"><span>olijfolie</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>Parmigiano Reggiano, fijn geraspt</span><span class="ing-amount" data-basis="60 g">60 g</span></div><div class="ing-row"><span>snuf fijn zeezout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de afwerking</div><div class="ing-row"><span>extra Parmigiano Reggiano, geraspt</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>paar druppels goede olijfolie</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>versgemalen zwarte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de gegrilde groenten (optioneel maar sterk aanbevolen)</div><div class="ing-row"><span>courgette, in dunne plakken van 3mm langs de lengte</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>aubergine, in dunne plakken van 3mm</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>extra-vergine olijfolie</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>fleur de sel</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>vers gemalen zwarte peper</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>Geconcentreerde ragù (liefst een dag eerder)</strong><br>Olijfolie en boter in een brede zware pan op middelhoog vuur. Pancetta 2 minuten uitbakken. Ui, wortel en selderij toevoegen — 8–10 minuten zacht fruiten — glazig, niet bruin. Runder- en varkensgehakt toevoegen. Op hoog vuur al roerend bakken tot volledig bruin en los — geen klonters. Tomatenpuree erdoor — 1 minuut meebakken. Wijn toevoegen — volledig laten verdampen. Passata toevoegen. Vuur op allerlaagste stand. Minimaal 2 uur sudderen — liefst 3. Deksel schuin erop. Elk half uur roeren. De ragù moet bijna droog en geconcentreerd worden — geen natte saus, een stevige massa die op een lepel blijft staan. Melk de laatste 20 minuten erdoor roeren. Op smaak met nootmuskaat, zout en peper. Eventueel paar druppels oude balsamico allerlaatst. Afkoelen en bewaren.</div></div><div class="step"><div class="step-num">6</div><div class="step-text"><strong>Lichte béchamel</strong><br>Boter smelten. Bloem erbij — 1 minuut roeren tot gladde roux. Warme melk er lepel voor lepel bij kloppen — steeds glad roeren voor de volgende lepel. 3–4 minuten al roerend koken tot dik en glad. Parmigiano, nootmuskaat, zout en witte peper. Dun en lepelbaar. Afdekken met plasticfolie direct op het oppervlak.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Krokante lasagnehoekjes</strong><br>Oven voorverwarmen op 220°C hetelucht. Lasagnevellen 30 seconden in kokend gezouten water blancheren. Direct in ijskoud water. Op een schone doek leggen en grondig droogdeppen — vocht is de vijand van crunch. Vellen bestrijken met gesmolten boter gemengd met olijfolie — royaal, aan beide kanten. Parmigiano erover strooien. Snufje zout. Snijden in onregelmatige hoekjes en rechthoeken van 8×6cm — de onregelmatige randen worden het knapperigst. Licht dubbelgevouwen of gekanteld op bakpapier leggen zodat ze hoogte en hoeken krijgen. 10–14 minuten op 220°C. De randen moeten diep goudbruin tot licht geblakerd zijn — bijna chips. Blijf erbij — Parmigiano gaat snel van perfect naar verbrand. Op een rooster laten afkoelen — worden nog krokanter.</div></div><div class="step"><div class="step-num">12</div><div class="step-text"><strong>Opbouwen (allerlaatst — pasta wacht op niemand)</strong><br>Warm bord. Kleine lepel warme ragù iets uit het midden — geconcentreerd en diep. Krokante lasagnehoekjes rechtop of schuin ertegen — de donkere, krokante randen prominent zichtbaar. Dunne lepel béchamel ernaast of er licht over gedruppeld. Extra Parmigiano raspen. Druppel olijfolie. Zwarte peper. Direct serveren.</div></div><div class="step"><div class="step-num">5</div><div class="step-text"><strong>Gegrilde courgette en aubergine</strong><br>Bestrijk de plakken courgette en aubergine aan beide kanten dun met olijfolie. Gril op een hete grillpan of koekenpan op hoog vuur — 1 tot 2 minuten per kant tot mooie grillstrepen en net gaar. Niet te lang — ze moeten nog beet hebben. Bestrooi met fleur de sel en zwarte peper. Leg naast de krokante lasagnehoekjes op het bord als warm, zacht contrast met het krokante.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Ragù zo droog mogelijk:</strong> De meest gemaakte fout is een natte ragù. Hoe droger, hoe beter de pasta zijn crunch behoudt. De ragù moet bijna kunnen kruimelen.</p><p><strong>Pasta apart bakken van de ragù:</strong> Dit is de sleutel. De pasta wordt zonder ragù gebakken — zo blijft hij altijd krokant. De ragù wordt ernaast geserveerd, niet erin gebakken.</p><p><strong>220°C is niet onderhandelbaar:</strong> Lagere temperatuur geeft geen crunch — de pasta droogt en wordt taai maar niet knapperig.</p><p><strong>Mise en place:</strong> Pas vlak voor serveren opbouwen: Zodra ragù of béchamel tegen de pasta komt verliest hij crunch. Alles klaar — dan pas opbouwen en direct serveren.</p><p><strong>Pancetta geeft diepte:</strong> Kleine hoeveelheid maar maakt de ragù ronder en rijker dan gehakt alleen.</p><p><strong>Barilla lasagne verde:</strong> Werkt perfect voor dit gerecht. Verse groene vellen van een Italiaanse deli zijn dunner en knapperiger — mooier maar niet verplicht.</p><p><strong>Variatie — oude balsamico:</strong> Paar druppels goede oude Aceto Balsamico di Modena door de ragù allerlaatst. Bottura&#x27;s eigen stad levert de beste. Diepte zonder dat je hem proeft.</p><p><strong>Supermarktproducten werken perfect:</strong> gewone lasagnevellen van Jumbo of AH, half-om-half gehakt, gewone melk voor de béchamel. Het geheim zit in de techniek — droog bakken op hoge hitte — niet in dure ingrediënten. Dit is precies de democratisering van Michelin-koken.</p><p><strong>Courgette en aubergine naast, niet erdoorheen:</strong> de groenten liggen los naast de krokante hoekjes als warm zacht contrast. Erdoorheen mengen maakt het gerecht weer zompig — dat is precies wat we niet willen.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Lambrusco di Sorbara DOC — Emilia-Romagna, Italië (licht gekoeld, droge stijl)</div>
-        <div class="wine-druif">Lambrusco di Sorbara</div>
-        <p class="wine-toe">De lichte mousse en frisse zuren snijden door ragù, Parmigiano en béchamel. Het rode fruit sluit aan op vlees en tomaat. Regionaal en inhoudelijk perfect tegelijk.</p>
-        <div class="wine-alt">Alternatief: Sangiovese di Romagna Superiore DOC — Emilia-Romagna, Italië — Droog, kersen, frisse zuren, lichte kruidigheid, zachte tannines; Franciacorta Brut — Lombardije, Italië — Droog, citrus, appel, fijne mousse, lichte brioche</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Lambrusco di Sorbara DOC — Emilia-Romagna, Italië (licht gekoeld, droge stijl)</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Lambrusco di Sorbara</span>
     </div>
+    <p class="wine-toelichting">De lichte mousse en frisse zuren snijden door ragù, Parmigiano en béchamel. Het rode fruit sluit aan op vlees en tomaat. Regionaal en inhoudelijk perfect tegelijk.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Sangiovese di Romagna Superiore DOC — Emilia-Romagna, Italië — Droog, kersen, frisse zuren, lichte kruidigheid, zachte tannines; Franciacorta Brut — Lombardije, Italië — Droog, citrus, appel, fijne mousse, lichte brioche</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 kleine voorgerechten');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

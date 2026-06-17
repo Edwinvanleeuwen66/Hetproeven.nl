@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Midden-Oosten</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Kipshoarma met zelfgemaakte pitabroodjes uit de pizzaoven</h1>
-      <p class="recipe-intro">De beste kipshoarma die je ooit at — en je hebt hem zelf gemaakt. Kippendij een nacht gemarineerd in yoghurt, tomatenpuree en een warme kruidenmix met komijn, kardemom en kaneel, dan gloeiend heet gebakken tot krokant en donker gegrild.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 30 min actief + minimaal 4 uur marineren + 1,5 uur deeg rijzen</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> gevulde pitabroodjes (2 personen)</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Overig</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Kipshoarma met zelfgemaakte pitabroodjes uit de pizzaoven</div>
+  <div class="recipe-desc">De beste kipshoarma die je ooit at — en je hebt hem zelf gemaakt. Kippendij een nacht gemarineerd in yoghurt, tomatenpuree en een warme kruidenmix met komijn, kardemom en kaneel, dan gloeiend heet gebakken tot krokant en donker gegrild.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 30 min actief + minimaal 4 uur marineren + 1,5 uur deeg rijzen</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Overig</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de zelfgemaakte shoarmakruidenmix</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1½ tl">1½ tl</span><span class="ing-name">komijnpoeder</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">korianderpoeder</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">zoet paprikapoeder</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">gerookt paprikapoeder (pimentón — subtiel)</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">kurkumapoeder</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">kaneelpoeder</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">kardemompoeder</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">allspice (piment)</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">cayennepeper of pul biber (naar smaak)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">versgemalen zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de kipshoarma</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="450 g">450 g</span><span class="ing-name">kippendijfilets, zonder vel en bot (nooit kipfilet)</span></li><li><span class="ing-amount" data-basis="60 g">60 g</span><span class="ing-name">volle Griekse yoghurt (10% vet)</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">vers citroensap</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne rasp van ½ citroen</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">dubbel geconcentreerde tomatenpuree (geeft diepte en kleur)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">teentjes knoflook, fijn geraspt</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">alle zelfgemaakte kruidenmix</span></li></ul><h3 class="ing-group-title">Voor de pitabroodjes (4 stuks)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="300 g">300 g</span><span class="ing-name">sterke broodbloem (12–14% eiwit — Caputo, Manitoba of andere hoge-eiwitbloem)</span></li><li><span class="ing-amount" data-basis="190 ml">190 ml</span><span class="ing-name">warm water (38–40°C — niet heter)</span></li><li><span class="ing-amount" data-basis="5 g">5 g</span><span class="ing-name">instant droge gist</span></li><li><span class="ing-amount" data-basis="6 g">6 g</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="8 g">8 g</span><span class="ing-name">extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis="4 g">4 g</span><span class="ing-name">fijne kristalsuiker of honing</span></li></ul><h3 class="ing-group-title">Voor de knoflook-yoghurtsaus</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="150 g">150 g</span><span class="ing-name">volle Griekse yoghurt</span></li><li><span class="ing-amount" data-basis="40 g">40 g</span><span class="ing-name">mayonaise (goede zelfgemaakte of artisanale mayonaise)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">teentjes knoflook, fijn geraspt</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">vers citroensap</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">fijne rasp van ¼ citroen</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">bieslook of platte peterselie, zeer fijn gesneden</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf zout en witte peper</span></li></ul><h3 class="ing-group-title">Voor de vulling</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">krop ijsbergsla of romaine, fijn gesneden</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">rijpe tomaten, in kleine blokjes</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">komkommer, in halve maantjes of blokjes</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">rode ui, in flinterdunne ringen (+ ½ tl sumak + snuf zout + paar druppels citroensap — 15 min marineren)</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">verse peterselie of koriander, grof gehakt</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: chilisaus of harissa</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">De marinade (liefst een nacht van tevoren)</strong><p>Meng alle kruidenmix-ingrediënten in een kom. Snijd kippendijfilets in reepjes van 1–1,5 cm. In een kom of ziplockzak. Voeg yoghurt, olijfolie, citroensap, citroenrasp, tomatenpuree en knoflookrasp toe. Voeg alle kruidenmix toe. Goed doormengen zodat elk stukje kip volledig bedekt is. Dek af en zet minimaal 4 uur in de koelkast — liefst een nacht. Haal de kip 30 minuten voor het bakken uit de koelkast.</p></div></div><div class="step"><div class="step-num">4</div><div class="step-body"><strong class="step-action">Het pitadeeg (1,5 uur voor het eten)</strong><p>Meng in een grote kom: warm water, gist en suiker. Roer en laat 10 minuten staan tot schuimig en actief. Voeg olijfolie, zout en 250g bloem toe. Meng tot een ruwe massa. Voeg resterende bloem lepel voor lepel toe al knedend. Kneed op een licht bebloemd werkblad 8–10 minuten tot glad en elastisch. Windowpane test: trek een stuk dun uit — het moet licht doorschijnend rekken zonder te scheuren. In een licht ingeolied kom. Afdekken. 60–75 minuten rijzen op kamertemperatuur tot verdubbeld. Sla het deeg door. Verdeel in 4 ballen van ca. 120g. Strak opbollen. Afdekken met vochtige theedoek. 20 minuten rusten. Rol elke bal uit tot een schijf van 18–20 cm diameter en 3–4 mm dik — gelijkmatig, niet dikker. Dit is de meest kritische stap: te dik = geen opbolving, geen pocket. Laat de uitgerolde schijven 10 minuten rusten afgedekt met vochtige doek.</p></div></div><div class="step"><div class="step-num">11</div><div class="step-body"><strong class="step-action">Pizzaoven voorbereiden</strong><p>Verhit de pizzaoven op maximale temperatuur gedurende 45 minuten. Cruciaal voor pita: Draai de oven na het voorverwarmen terug naar een lage stand. De steen moet op 320–380°C zijn — niet de maximale pizzatemperatuur. Bij 500°C verbrandt de onderkant van de pita voordat hij kan opbolven.</p></div></div><div class="step"><div class="step-num">13</div><div class="step-body"><strong class="step-action">Knoflooksaus en vulling voorbereiden</strong><p>Yoghurt, mayo, knoflookrasp, citroensap, citroenrasp, bieslook of peterselie, zout en peper mengen. Koel bewaren. Rode uiringen met sumak, zout en citroensap mengen. 15 minuten laten staan.</p></div></div><div class="step"><div class="step-num">15</div><div class="step-body"><strong class="step-action">Pitabroodjes bakken</strong><p>Leg de pita op een licht bebloemde pizzapeel. Schiet op de hete steen. Raak hem niet aan totdat hij volledig opgebold is als een ballon (ca. 30–45 seconden). Draai dan 180° en bak nog 20–30 seconden. Totale baktijd: ±60–75 seconden. Direct in een schone theedoek scheppen. De doek houdt de stoom vast en maakt de pita zacht en flexibel. Herhaal voor alle vier.</p></div></div><div class="step"><div class="step-num">17</div><div class="step-body"><strong class="step-action">De kip bakken</strong><p>Verhit een gietijzeren pan op hoog vuur tot gloeiend heet. Scheutje olie. Kip in één laag bakken — in twee rondes als nodig. Niet roeren: 3–4 minuten tot donker gegrild en krokant. Omscheppen en nog 2 min. Vlak voor serveren: kip nog 30 seconden terug in de hete pan — geeft extra krokante randjes op het allerlaatste moment.</p></div></div><div class="step"><div class="step-num">20</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Open pita voorzichtig. Besmeer binnenkant met knoflooksaus. Sla erin, dan warme kipshoarma, tomaat, komkommer, gemarineerde rode ui, peterselie of koriander. Extra saus eroverheen. Direct serveren.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Kippendij is verplicht:</strong> Kipfilet wordt droog bij het hoge vuur dat nodig is voor de karakteristieke shoarmarandjes. Kippendij blijft altijd sappig.</div><div class="tip-item"><strong>Een nacht marineren:</strong> De yoghurt verzacht de kip enzymatisch. Minimaal 4 uur, maar een nacht is de echte game-changer.</div><div class="tip-item"><strong>Pita 3–4mm uitrollen:</strong> Dit is de meest gemaakte fout. Dikker dan 4mm = geen opbolving, geen pocket. Gelijkmatig uitrollen is even belangrijk.</div><div class="tip-item"><strong>Steen op 320–380°C voor pita:</strong> Na het voorverwarmen op max terugzetten naar laag. Bij 500°C+ verbrandt de pita aan de onderkant voor hij kan rijzen.</div><div class="tip-item"><strong>Direct in een doek:</strong> Houdt de stoom vast en maakt de pita zacht. Zonder doek = harde pita.</div><div class="tip-item"><strong>Voorbereiding:</strong> Pitadeeg kan enkele uren van tevoren gemaakt worden. Bolletjes afgedekt koel bewaren en 45 minuten voor bakken op kamertemperatuur laten komen.</div><div class="tip-item"><strong>Variatie — sumak over de kip:</strong> Bestrooi de gegrilde kip ook met een snuf sumak voor een extra citrusachtige toon.</div><div class="tip-item"><strong>Variatie — harissa:</strong> 1 tl harissa door de marinade voor een pittiger, Noord-Afrikaans karakter.</div><div class="tip-item"><strong>Variatie — lamsvlees:</strong> Vervang kip door lamsreepjes voor een diepere, rijkere shoarmasmaak.</div><div class="tip-item"><strong>Alternatief knoflooksaus:</strong> Alleen Griekse yoghurt + knoflook + citroen + zout voor een lichtere, frissere versie zonder mayo.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de zelfgemaakte shoarmakruidenmix</div><div class="ing-row"><span>komijnpoeder</span><span class="ing-amount" data-basis="1½ tl">1½ tl</span></div><div class="ing-row"><span>korianderpoeder</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zoet paprikapoeder</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>gerookt paprikapoeder (pimentón — subtiel)</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kurkumapoeder</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kaneelpoeder</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-row"><span>kardemompoeder</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>allspice (piment)</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>cayennepeper of pul biber (naar smaak)</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>versgemalen zwarte peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-cat">Voor de kipshoarma</div><div class="ing-row"><span>kippendijfilets, zonder vel en bot (nooit kipfilet)</span><span class="ing-amount" data-basis="450 g">450 g</span></div><div class="ing-row"><span>volle Griekse yoghurt (10% vet)</span><span class="ing-amount" data-basis="60 g">60 g</span></div><div class="ing-row"><span>extra vergine olijfolie</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>vers citroensap</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>fijne rasp van ½ citroen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>dubbel geconcentreerde tomatenpuree (geeft diepte en kleur)</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>teentjes knoflook, fijn geraspt</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>alle zelfgemaakte kruidenmix</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de pitabroodjes (4 stuks)</div><div class="ing-row"><span>sterke broodbloem (12–14% eiwit — Caputo, Manitoba of andere hoge-eiwitbloem)</span><span class="ing-amount" data-basis="300 g">300 g</span></div><div class="ing-row"><span>warm water (38–40°C — niet heter)</span><span class="ing-amount" data-basis="190 ml">190 ml</span></div><div class="ing-row"><span>instant droge gist</span><span class="ing-amount" data-basis="5 g">5 g</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="6 g">6 g</span></div><div class="ing-row"><span>extra vergine olijfolie</span><span class="ing-amount" data-basis="8 g">8 g</span></div><div class="ing-row"><span>fijne kristalsuiker of honing</span><span class="ing-amount" data-basis="4 g">4 g</span></div><div class="ing-cat">Voor de knoflook-yoghurtsaus</div><div class="ing-row"><span>volle Griekse yoghurt</span><span class="ing-amount" data-basis="150 g">150 g</span></div><div class="ing-row"><span>mayonaise (goede zelfgemaakte of artisanale mayonaise)</span><span class="ing-amount" data-basis="40 g">40 g</span></div><div class="ing-row"><span>teentjes knoflook, fijn geraspt</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>vers citroensap</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>fijne rasp van ¼ citroen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>bieslook of platte peterselie, zeer fijn gesneden</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>snuf zout en witte peper</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de vulling</div><div class="ing-row"><span>krop ijsbergsla of romaine, fijn gesneden</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>rijpe tomaten, in kleine blokjes</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>komkommer, in halve maantjes of blokjes</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>rode ui, in flinterdunne ringen (+ ½ tl sumak + snuf zout + paar druppels citroensap — 15 min marineren)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>verse peterselie of koriander, grof gehakt</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div><div class="ing-row"><span>eventueel: chilisaus of harissa</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>De marinade (liefst een nacht van tevoren)</strong><br>Meng alle kruidenmix-ingrediënten in een kom. Snijd kippendijfilets in reepjes van 1–1,5 cm. In een kom of ziplockzak. Voeg yoghurt, olijfolie, citroensap, citroenrasp, tomatenpuree en knoflookrasp toe. Voeg alle kruidenmix toe. Goed doormengen zodat elk stukje kip volledig bedekt is. Dek af en zet minimaal 4 uur in de koelkast — liefst een nacht. Haal de kip 30 minuten voor het bakken uit de koelkast.</div></div><div class="step"><div class="step-num">4</div><div class="step-text"><strong>Het pitadeeg (1,5 uur voor het eten)</strong><br>Meng in een grote kom: warm water, gist en suiker. Roer en laat 10 minuten staan tot schuimig en actief. Voeg olijfolie, zout en 250g bloem toe. Meng tot een ruwe massa. Voeg resterende bloem lepel voor lepel toe al knedend. Kneed op een licht bebloemd werkblad 8–10 minuten tot glad en elastisch. Windowpane test: trek een stuk dun uit — het moet licht doorschijnend rekken zonder te scheuren. In een licht ingeolied kom. Afdekken. 60–75 minuten rijzen op kamertemperatuur tot verdubbeld. Sla het deeg door. Verdeel in 4 ballen van ca. 120g. Strak opbollen. Afdekken met vochtige theedoek. 20 minuten rusten. Rol elke bal uit tot een schijf van 18–20 cm diameter en 3–4 mm dik — gelijkmatig, niet dikker. Dit is de meest kritische stap: te dik = geen opbolving, geen pocket. Laat de uitgerolde schijven 10 minuten rusten afgedekt met vochtige doek.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Pizzaoven voorbereiden</strong><br>Verhit de pizzaoven op maximale temperatuur gedurende 45 minuten. Cruciaal voor pita: Draai de oven na het voorverwarmen terug naar een lage stand. De steen moet op 320–380°C zijn — niet de maximale pizzatemperatuur. Bij 500°C verbrandt de onderkant van de pita voordat hij kan opbolven.</div></div><div class="step"><div class="step-num">13</div><div class="step-text"><strong>Knoflooksaus en vulling voorbereiden</strong><br>Yoghurt, mayo, knoflookrasp, citroensap, citroenrasp, bieslook of peterselie, zout en peper mengen. Koel bewaren. Rode uiringen met sumak, zout en citroensap mengen. 15 minuten laten staan.</div></div><div class="step"><div class="step-num">15</div><div class="step-text"><strong>Pitabroodjes bakken</strong><br>Leg de pita op een licht bebloemde pizzapeel. Schiet op de hete steen. Raak hem niet aan totdat hij volledig opgebold is als een ballon (ca. 30–45 seconden). Draai dan 180° en bak nog 20–30 seconden. Totale baktijd: ±60–75 seconden. Direct in een schone theedoek scheppen. De doek houdt de stoom vast en maakt de pita zacht en flexibel. Herhaal voor alle vier.</div></div><div class="step"><div class="step-num">17</div><div class="step-text"><strong>De kip bakken</strong><br>Verhit een gietijzeren pan op hoog vuur tot gloeiend heet. Scheutje olie. Kip in één laag bakken — in twee rondes als nodig. Niet roeren: 3–4 minuten tot donker gegrild en krokant. Omscheppen en nog 2 min. Vlak voor serveren: kip nog 30 seconden terug in de hete pan — geeft extra krokante randjes op het allerlaatste moment.</div></div><div class="step"><div class="step-num">20</div><div class="step-text"><strong>Opbouwen</strong><br>Open pita voorzichtig. Besmeer binnenkant met knoflooksaus. Sla erin, dan warme kipshoarma, tomaat, komkommer, gemarineerde rode ui, peterselie of koriander. Extra saus eroverheen. Direct serveren.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Kippendij is verplicht:</strong> Kipfilet wordt droog bij het hoge vuur dat nodig is voor de karakteristieke shoarmarandjes. Kippendij blijft altijd sappig.</p><p><strong>Een nacht marineren:</strong> De yoghurt verzacht de kip enzymatisch. Minimaal 4 uur, maar een nacht is de echte game-changer.</p><p><strong>Pita 3–4mm uitrollen:</strong> Dit is de meest gemaakte fout. Dikker dan 4mm = geen opbolving, geen pocket. Gelijkmatig uitrollen is even belangrijk.</p><p><strong>Steen op 320–380°C voor pita:</strong> Na het voorverwarmen op max terugzetten naar laag. Bij 500°C+ verbrandt de pita aan de onderkant voor hij kan rijzen.</p><p><strong>Direct in een doek:</strong> Houdt de stoom vast en maakt de pita zacht. Zonder doek = harde pita.</p><p><strong>Voorbereiding:</strong> Pitadeeg kan enkele uren van tevoren gemaakt worden. Bolletjes afgedekt koel bewaren en 45 minuten voor bakken op kamertemperatuur laten komen.</p><p><strong>Variatie — sumak over de kip:</strong> Bestrooi de gegrilde kip ook met een snuf sumak voor een extra citrusachtige toon.</p><p><strong>Variatie — harissa:</strong> 1 tl harissa door de marinade voor een pittiger, Noord-Afrikaans karakter.</p><p><strong>Variatie — lamsvlees:</strong> Vervang kip door lamsreepjes voor een diepere, rijkere shoarmasmaak.</p><p><strong>Alternatief knoflooksaus:</strong> Alleen Griekse yoghurt + knoflook + citroen + zout voor een lichtere, frissere versie zonder mayo.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Xinomavro — Naoussa, Griekenland</div>
-        <div class="wine-druif">Xinomavro</div>
-        <p class="wine-toe">Droog, levendige zuren, tannine, aardbei, olijf, kruidig, licht rokerig De &quot;Barolo van Griekenland&quot; — een kruidige, karaktervolle rode wijn met mediterrane persoonlijkheid. De levendige zuren snijden door yoghurt en knoflooksaus. De licht rokerige kruidigheid sluit aan op de shoarmakruidenmix. Vol genoeg voor de gegrilde kip, elegant genoeg om de verse vulling niet te overstemmen.</p>
-        <div class="wine-alt">Alternatief: Côtes du Rhône Villages (kruidig, donker fruit, zacht) of Beaujolais-Villages licht gekoeld (Gamay — sappig rood fruit, laag tannine, fris genoeg voor yoghurt en citroen). — .</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Xinomavro — Naoussa, Griekenland</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Xinomavro</span>
     </div>
+    <p class="wine-toelichting">Droog, levendige zuren, tannine, aardbei, olijf, kruidig, licht rokerig De &quot;Barolo van Griekenland&quot; — een kruidige, karaktervolle rode wijn met mediterrane persoonlijkheid. De levendige zuren snijden door yoghurt en knoflooksaus. De licht rokerige kruidigheid sluit aan op de shoarmakruidenmix. Vol genoeg voor de gegrilde kip, elegant genoeg om de verse vulling niet te overstemmen.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Côtes du Rhône Villages (kruidig, donker fruit, zacht) of Beaujolais-Villages licht gekoeld (Gamay — sappig rood fruit, laag tannine, fris genoeg voor yoghurt en citroen). — .</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 gevulde pitabroodjes (2 personen)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Piemonte</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Vitello Tonnato Moderno — gepocheerde kalfsfrikandeau met tonnatomousse op briochechip</h1>
-      <p class="recipe-intro">De Piemontese klassieker teruggebracht tot één perfecte hap. Kalfsfrikandeau langzaam gepocheerd, flinterdun gesneden en gevouwen tot een roosje op een knapperige briochechip. Zijdezachte tonnatomousse, krokante kappertjes en een wolkje kappertjespoeder.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 60 min + minimaal 2 uur afkoelen</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> amuses (3 chips pp)</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Italiaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Vitello Tonnato Moderno — gepocheerde kalfsfrikandeau met tonnatomousse op briochechip</div>
+  <div class="recipe-desc">De Piemontese klassieker teruggebracht tot één perfecte hap. Kalfsfrikandeau langzaam gepocheerd, flinterdun gesneden en gevouwen tot een roosje op een knapperige briochechip. Zijdezachte tonnatomousse, krokante kappertjes en een wolkje kappertjespoeder.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 60 min + minimaal 2 uur afkoelen</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Italiaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de gepocheerde kalfsfrikandeau</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="400 g">400 g</span><span class="ing-name">kalfsfrikandeau (van de keurslager)</span></li><li><span class="ing-amount" data-basis="200 ml + 500 ml">200 ml + 500 ml</span><span class="ing-name">droge witte wijn + water</span></li><li><span class="ing-amount" data-basis="1 + 1 + 1">1 + 1 + 1</span><span class="ing-name">kleine ui + wortel + stengel bleekselderij</span></li><li><span class="ing-amount" data-basis="2 + 3 + 1 tl + 1 tl">2 + 3 + 1 tl + 1 tl</span><span class="ing-name">laurierblaadjes + takjes tijm + witte peperkorrels + zout</span></li></ul><h3 class="ing-group-title">Voor de marinade na het snijden</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1 tl + enkele druppels">1 tl + enkele druppels</span><span class="ing-name">extra vergine olijfolie + citroensap + rasp van ¼ citroen + snuf zwarte peper</span></li></ul><h3 class="ing-group-title">Voor de tonnatomousse</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="160 g">160 g</span><span class="ing-name">tonijn in olijfolie (kwaliteitsblik), goed uitgelekt</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">ansjovisfilets in olie</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">kleine kappertjes, afgespoeld</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">vers citroensap</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">goede mayonaise (alleen voor binding)</span></li><li><span class="ing-amount" data-basis="2 el + 2 el">2 el + 2 el</span><span class="ing-name">crème fraîche + extra vergine olijfolie</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">witte peper naar smaak</span></li></ul><h3 class="ing-group-title">Voor de briochechips</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">brioche (van de bakker)</span></li><li><span class="ing-amount" data-basis="20 g">20 g</span><span class="ing-name">geklaarde boter of gesmolten roomboter</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf fleur de sel</span></li></ul><h3 class="ing-group-title">Voor de krokante kappertjes en kappertjespoeder</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="4 el">4 el</span><span class="ing-name">kleine kappertjes, volledig drooggedept</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">neutrale olie (voor het frituren)</span></li></ul><h3 class="ing-group-title">Afwerking</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">citroenzeste (vlak voor serveren), kleine blaadjes platte peterselie of kervel, druppels olijfolie</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Kalfsfrikandeau pocheren</strong><p>droogdeppen. Eventueel binden met keukentouw. Witte wijn + water + groenten + kruiden aan de kook. Kalfsfrikandeau toevoegen. Pocheren op 85°C gedurende 25–30 minuten tot kerntemperatuur 60–62°C.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Afkoelen en snijden</strong><p>vlees uit pan. Volledig afkoelen IN het pocheervocht — minimaal 2 uur, bij voorkeur een nacht. Flinterdun snijden (1–2 mm). Tip: 15 min in vriezer voor snijden. Licht marineren in olijfolie, citroensap, zeste en peper.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Tonnatomousse</strong><p>tonijn + ansjovis + kappertjes + citroensap + mayonaise + crème fraîche + olijfolie blenden tot volkomen glad — minimaal 2 minuten. Door fijne zeef persen. Op smaak brengen met witte peper. Koel bewaren in spuitzak.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Briochechips</strong><p>oven 170°C. Flinterdun snijden (3–4 mm). Uitsteken of snijden — 12 stuks plus extra. Beide kanten dun bestrijken met geklaarde boter. Bakken 8–10 minuten — halverwege keren. Afkoelen op rooster. Bestrooien met fleur de sel.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Kappertjes frituren</strong><p>grondig droogdeppen. Frituren op hoog vuur 1–2 minuten tot opengesprongen en krokant. Uitlekken op keukenpapier. Een derde fijn verkruimelen tot kappertjespoeder.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Opbouw</strong><p>3 briochechips per persoon. Dot tonnatomousse in midden. Plakje kalfsvlees losjes gevouwen tot roosje erop. 1 heel krokant kappertje bovenop. Licht kappertjespoeder. Vlak voor serveren citroenzeste raspen. Peterselie of kervel als finishing.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">kalfsfrikandeau dag van tevoren pocheren. Tonnatomousse van tevoren. Chips ochtends bakken en droog bewaren. Kappertjes en opbouw vlak voor serveren.</div><div class="tip-item"><strong>Zeef nooit overslaan:</strong> het verschil tussen gladde fluwelen mousse en korrelige saus zit volledig in het zeven.</div><div class="tip-item"><strong>Citroenzeste:</strong> Citroenzeste vlak voor serveren: dit is het moment dat de amuse levend wordt — nooit eerder raspen.</div><div class="tip-item"><strong>Chips droog bewaren:</strong> in afgesloten doos. Vochtige lucht maakt ze slap binnen een uur.</div><div class="tip-item"><strong>Variatie:</strong> serveer op Parmigiano-krokant ipv brioche — smelt Parmigiano in dunne cirkels in droge pan tot goudbruin.</div><div class="tip-item"><strong>Alternatief vlees:</strong> geen tijd om te pocheren? Kalfsfrikandeau carpacciodikte laten snijden en 15 min marineren in olijfolie, citroensap en peper.</div><div class="tip-item"><strong>Alternatief:</strong> geen brioche? Dunne crostini van stokbrood of krokante polentachip werkt ook goed.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de gepocheerde kalfsfrikandeau</div><div class="ing-row"><span>kalfsfrikandeau (van de keurslager)</span><span class="ing-amount" data-basis="400 g">400 g</span></div><div class="ing-row"><span>droge witte wijn + water</span><span class="ing-amount" data-basis="200 ml + 500 ml">200 ml + 500 ml</span></div><div class="ing-row"><span>kleine ui + wortel + stengel bleekselderij</span><span class="ing-amount" data-basis="1 + 1 + 1">1 + 1 + 1</span></div><div class="ing-row"><span>laurierblaadjes + takjes tijm + witte peperkorrels + zout</span><span class="ing-amount" data-basis="2 + 3 + 1 tl + 1 tl">2 + 3 + 1 tl + 1 tl</span></div><div class="ing-cat">Voor de marinade na het snijden</div><div class="ing-row"><span>extra vergine olijfolie + citroensap + rasp van ¼ citroen + snuf zwarte peper</span><span class="ing-amount" data-basis="1 tl + enkele druppels">1 tl + enkele druppels</span></div><div class="ing-cat">Voor de tonnatomousse</div><div class="ing-row"><span>tonijn in olijfolie (kwaliteitsblik), goed uitgelekt</span><span class="ing-amount" data-basis="160 g">160 g</span></div><div class="ing-row"><span>ansjovisfilets in olie</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>kleine kappertjes, afgespoeld</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>vers citroensap</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>goede mayonaise (alleen voor binding)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-row"><span>crème fraîche + extra vergine olijfolie</span><span class="ing-amount" data-basis="2 el + 2 el">2 el + 2 el</span></div><div class="ing-row"><span>witte peper naar smaak</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de briochechips</div><div class="ing-row"><span>brioche (van de bakker)</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>geklaarde boter of gesmolten roomboter</span><span class="ing-amount" data-basis="20 g">20 g</span></div><div class="ing-row"><span>snuf fleur de sel</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de krokante kappertjes en kappertjespoeder</div><div class="ing-row"><span>kleine kappertjes, volledig drooggedept</span><span class="ing-amount" data-basis="4 el">4 el</span></div><div class="ing-row"><span>neutrale olie (voor het frituren)</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Afwerking</div><div class="ing-row"><span>citroenzeste (vlak voor serveren), kleine blaadjes platte peterselie of kervel, druppels olijfolie</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Kalfsfrikandeau pocheren</strong><br>droogdeppen. Eventueel binden met keukentouw. Witte wijn + water + groenten + kruiden aan de kook. Kalfsfrikandeau toevoegen. Pocheren op 85°C gedurende 25–30 minuten tot kerntemperatuur 60–62°C.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Afkoelen en snijden</strong><br>vlees uit pan. Volledig afkoelen IN het pocheervocht — minimaal 2 uur, bij voorkeur een nacht. Flinterdun snijden (1–2 mm). Tip: 15 min in vriezer voor snijden. Licht marineren in olijfolie, citroensap, zeste en peper.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Tonnatomousse</strong><br>tonijn + ansjovis + kappertjes + citroensap + mayonaise + crème fraîche + olijfolie blenden tot volkomen glad — minimaal 2 minuten. Door fijne zeef persen. Op smaak brengen met witte peper. Koel bewaren in spuitzak.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Briochechips</strong><br>oven 170°C. Flinterdun snijden (3–4 mm). Uitsteken of snijden — 12 stuks plus extra. Beide kanten dun bestrijken met geklaarde boter. Bakken 8–10 minuten — halverwege keren. Afkoelen op rooster. Bestrooien met fleur de sel.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Kappertjes frituren</strong><br>grondig droogdeppen. Frituren op hoog vuur 1–2 minuten tot opengesprongen en krokant. Uitlekken op keukenpapier. Een derde fijn verkruimelen tot kappertjespoeder.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Opbouw</strong><br>3 briochechips per persoon. Dot tonnatomousse in midden. Plakje kalfsvlees losjes gevouwen tot roosje erop. 1 heel krokant kappertje bovenop. Licht kappertjespoeder. Vlak voor serveren citroenzeste raspen. Peterselie of kervel als finishing.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>kalfsfrikandeau dag van tevoren pocheren. Tonnatomousse van tevoren. Chips ochtends bakken en droog bewaren. Kappertjes en opbouw vlak voor serveren.</p><p><strong>Zeef nooit overslaan:</strong> het verschil tussen gladde fluwelen mousse en korrelige saus zit volledig in het zeven.</p><p><strong>Citroenzeste:</strong> Citroenzeste vlak voor serveren: dit is het moment dat de amuse levend wordt — nooit eerder raspen.</p><p><strong>Chips droog bewaren:</strong> in afgesloten doos. Vochtige lucht maakt ze slap binnen een uur.</p><p><strong>Variatie:</strong> serveer op Parmigiano-krokant ipv brioche — smelt Parmigiano in dunne cirkels in droge pan tot goudbruin.</p><p><strong>Alternatief vlees:</strong> geen tijd om te pocheren? Kalfsfrikandeau carpacciodikte laten snijden en 15 min marineren in olijfolie, citroensap en peper.</p><p><strong>Alternatief:</strong> geen brioche? Dunne crostini van stokbrood of krokante polentachip werkt ook goed.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Gavi di Gavi — Piemonte</div>
-        <div class="wine-druif">Cortese</div>
-        <p class="wine-toe">Droog, fris, strak, mineraal, subtiele amandel in afdronk. Frisse zuren snijden door tonnatomousse en brioche. Mineraliteit sluit aan bij ansjovis, tonijn en kappertjes. Klassieke regionale combinatie.</p>
-        <div class="wine-alt">Alternatief: Franciacorta Brut of Vermentino (Sardinië)</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Gavi di Gavi — Piemonte</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Cortese</span>
     </div>
+    <p class="wine-toelichting">Droog, fris, strak, mineraal, subtiele amandel in afdronk. Frisse zuren snijden door tonnatomousse en brioche. Mineraliteit sluit aan bij ansjovis, tonijn en kappertjes. Klassieke regionale combinatie.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Franciacorta Brut of Vermentino (Sardinië)</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 amuses (3 chips pp)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

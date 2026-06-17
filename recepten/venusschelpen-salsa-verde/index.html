@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Baskenland</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Venusschelpen in salsa verde</h1>
-      <p class="recipe-intro">Venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 25 min</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">4</span> personen</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Spaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="4" step="1">
-      </div>
+  <div class="recipe-title">Venusschelpen in salsa verde</div>
+  <div class="recipe-desc">Venusschelpen heel kort gestoomd, uit de schelp gehaald en geserveerd in een zijdezachte groene saus.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 25 min</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">4</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Spaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Schelpen</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="800 g">800 g</span><span class="ing-name">venusschelpen of kokkels, goed gespoeld</span></li><li><span class="ing-amount" data-basis="100 ml">100 ml</span><span class="ing-name">droge witte wijn</span></li></ul><h3 class="ing-group-title">Salsa verde</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">knoflookteentjes, zeer fijn gehakt</span></li><li><span class="ing-amount" data-basis="40 g">40 g</span><span class="ing-name">platte peterselie, fijngehakt</span></li><li><span class="ing-amount" data-basis="60 ml">60 ml</span><span class="ing-name">olijfolie extra vierge</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">bloem</span></li><li><span class="ing-amount" data-basis="naar smaak">naar smaak</span><span class="ing-name">zout en peper</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Stoom de schelpen</strong><p>leg schelpen in een pan met witte wijn. Deksel erop en stoom 2-3 minuten op hoog vuur. Vang kookvocht op (bewaar 100 ml). Haal het vlees uit de schelpen; bewaar enkele mooie schelpen eventueel voor presentatie.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Begin salsa verde</strong><p>bak knoflook zachtjes 2 minuten in olijfolie. Voeg bloem toe, roer 1 minuut. Giet kookvocht erbij en laat 2 minuten pruttelen. Voeg helft van de peterselie toe.</p></div></div><div class="step"><div class="step-num"></div><div class="step-body"><strong class="step-action">Schelpen en serveer</strong><p>leg schelpen in de saus en warm 1 minuut mee op. Strooi rest van de peterselie erover. Serveer direct met knapperig brood.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item">schelpen 30 minuten in koud zout water leggen voor gebruik — dan spugen ze het zand uit. Salsa verde een uur van tevoren maken zodat de smaken samensmelten.</div><div class="tip-item"><strong>Techniek:</strong> stoom de schelpen op héél hoog vuur — ze moeten openen in 2-3 minuten. Langer op het vuur maakt ze rubberachtig. Gooi gesloten schelpen altijd weg.</div><div class="tip-item"><strong>Presentatie:</strong> serveer direct uit de pan in een warm diep bord — de saus van de schelpen mengt met de salsa verde en dat vocht is te kostbaar om te verspillen.</div><div class="tip-item"><strong>Variatie:</strong> voeg een scheutje droge Manzanilla toe aan de saus als de schelpen opengaan — die alcoholdamp geeft extra diepte en een Andalusisch tintje.</div><div class="tip-item"><strong>Alternatief:</strong> geen venusschelpen? Gebruik kokkels, mossel of kleine surf clams — dezelfde techniek, iets anders van smaak maar even authentiek.</div><div class="tip-item"><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</div><div class="tip-item"><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Schelpen</div><div class="ing-row"><span>venusschelpen of kokkels, goed gespoeld</span><span class="ing-amount" data-basis="800 g">800 g</span></div><div class="ing-row"><span>droge witte wijn</span><span class="ing-amount" data-basis="100 ml">100 ml</span></div><div class="ing-cat">Salsa verde</div><div class="ing-row"><span>knoflookteentjes, zeer fijn gehakt</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>platte peterselie, fijngehakt</span><span class="ing-amount" data-basis="40 g">40 g</span></div><div class="ing-row"><span>olijfolie extra vierge</span><span class="ing-amount" data-basis="60 ml">60 ml</span></div><div class="ing-row"><span>bloem</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>zout en peper</span><span class="ing-amount" data-basis="naar smaak">naar smaak</span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num"></div><div class="step-text"><strong>Stoom de schelpen</strong><br>leg schelpen in een pan met witte wijn. Deksel erop en stoom 2-3 minuten op hoog vuur. Vang kookvocht op (bewaar 100 ml). Haal het vlees uit de schelpen; bewaar enkele mooie schelpen eventueel voor presentatie.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Begin salsa verde</strong><br>bak knoflook zachtjes 2 minuten in olijfolie. Voeg bloem toe, roer 1 minuut. Giet kookvocht erbij en laat 2 minuten pruttelen. Voeg helft van de peterselie toe.</div></div><div class="step"><div class="step-num"></div><div class="step-text"><strong>Schelpen en serveer</strong><br>leg schelpen in de saus en warm 1 minuut mee op. Strooi rest van de peterselie erover. Serveer direct met knapperig brood.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p>schelpen 30 minuten in koud zout water leggen voor gebruik — dan spugen ze het zand uit. Salsa verde een uur van tevoren maken zodat de smaken samensmelten.</p><p><strong>Techniek:</strong> stoom de schelpen op héél hoog vuur — ze moeten openen in 2-3 minuten. Langer op het vuur maakt ze rubberachtig. Gooi gesloten schelpen altijd weg.</p><p><strong>Presentatie:</strong> serveer direct uit de pan in een warm diep bord — de saus van de schelpen mengt met de salsa verde en dat vocht is te kostbaar om te verspillen.</p><p><strong>Variatie:</strong> voeg een scheutje droge Manzanilla toe aan de saus als de schelpen opengaan — die alcoholdamp geeft extra diepte en een Andalusisch tintje.</p><p><strong>Alternatief:</strong> geen venusschelpen? Gebruik kokkels, mossel of kleine surf clams — dezelfde techniek, iets anders van smaak maar even authentiek.</p><p><strong>Timing:</strong> vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.</p><p><strong>Balans:</strong> proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Albariño</div>
-        <div class="wine-druif">Albariño</div>
-        <p class="wine-toe">Albariño uit Rías Baixas in Galicië is de enige logische keuze bij venusschelpen — het is de wijn die in dezelfde regio wordt gemaakt waar de beste schelpdieren vandaan komen. De wijn heeft uitgesproken citrusaroma’s van limoen en grapefruit, een lichte bittere afdronk en een diepe minerale ziltheid die direct aan de Atlantische oceaan refereert. Die ziltheid resoneert met het zeevocht van de schelpen, de citruszuren snijden door de olijfolie in de salsa verde. Een terroir-perfecte combinatie. Serveer ijskoud op 8°C.</p>
-        <div class="wine-alt">Alternatief: Manzanilla uit Sanlúcar — de zoutheid van deze Sherry maakt het een even authentieke begeleider</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Albariño</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Albariño</span>
     </div>
+    <p class="wine-toelichting">Albariño uit Rías Baixas in Galicië is de enige logische keuze bij venusschelpen — het is de wijn die in dezelfde regio wordt gemaakt waar de beste schelpdieren vandaan komen. De wijn heeft uitgesproken citrusaroma’s van limoen en grapefruit, een lichte bittere afdronk en een diepe minerale ziltheid die direct aan de Atlantische oceaan refereert. Die ziltheid resoneert met het zeevocht van de schelpen, de citruszuren snijden door de olijfolie in de salsa verde. Een terroir-perfecte combinatie. Serveer ijskoud op 8°C.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Manzanilla uit Sanlúcar — de zoutheid van deze Sherry maakt het een even authentieke begeleider</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 

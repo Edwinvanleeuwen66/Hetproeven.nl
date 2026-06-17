@@ -68,61 +68,58 @@
     <span class="recipe-loc-tag" style="position:relative;z-index:1;">Mexico-Stad</span>
   </div>
 
-  <div class="recipe-container">
-    <div class="recipe-header">
-      <h1 class="recipe-title">Taco al Pastor — de beste ter wereld</h1>
-      <p class="recipe-intro">De iconische Mexicaans-Libanese taco. Procureur in flinterdunne plakken gemarineerd in geroosterde guajillo, ancho en chipotle chiles, achiote, ananassap en sinaasappel met kruidnagel. Verse maïs tortilla&#x27;s van masa harina. Romige salsa verde met avocado.</p>
-      <div class="recipe-meta-row">
-        <div class="tag">⏱ 40 min actief + minimaal 8 uur marineren</div>
-        <div class="tag" id="portie-val-tag">🍽 <span id="portie-val">2</span> personen (6 kleine taco&#x27;s)</div>
-        <div class="tag">📊 Gemiddeld</div>
-        <div class="tag">🌍 Mexicaans</div>
-      </div>
-      <div class="portie-slider-wrap">
-        <label for="portie-slider">Porties aanpassen:</label>
-        <input type="range" id="portie-slider" min="1" max="12" value="2" step="1">
-      </div>
+  <div class="recipe-title">Taco al Pastor — de beste ter wereld</div>
+  <div class="recipe-desc">De iconische Mexicaans-Libanese taco. Procureur in flinterdunne plakken gemarineerd in geroosterde guajillo, ancho en chipotle chiles, achiote, ananassap en sinaasappel met kruidnagel. Verse maïs tortilla&#x27;s van masa harina. Romige salsa verde met avocado.</div>
+  <div class="recipe-meta">
+    <div class="tag">⏱ 40 min actief + minimaal 8 uur marineren</div>
+    <div class="portion-control">
+      <button class="portion-btn" id="portie-min" aria-label="Minder porties">−</button>
+      <span class="portion-count" id="portie-val">2</span>
+      <span class="portion-label">porties</span>
+      <button class="portion-btn" id="portie-plus" aria-label="Meer porties">+</button>
     </div>
+    <div class="tag">📊 Gemiddeld</div>
+    <div class="tag tag-acc">🌍 Mexicaans</div>
+  </div>
 
-    <div class="recipe-body">
-      <div class="ingredients-col">
-        <h2>Ingrediënten</h2>
-        <h3 class="ing-group-title">Voor de marinade (het hart)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">gedroogde guajillo chiles (steeltje en zaadjes verwijderd)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">gedroogde ancho chile (steeltje en zaadjes verwijderd)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">chipotle in adobo (blik, La Morena bij AH) + 1 el adobo saus</span></li><li><span class="ing-amount" data-basis="1½ el">1½ el</span><span class="ing-name">achiote pasta (bij de toko)</span></li><li><span class="ing-amount" data-basis="80 ml">80 ml</span><span class="ing-name">ananassap (vers of pak)</span></li><li><span class="ing-amount" data-basis="60 ml">60 ml</span><span class="ing-name">vers sinaasappelsap</span></li><li><span class="ing-amount" data-basis="2 el">2 el</span><span class="ing-name">ciderazijn of witte azijn</span></li><li><span class="ing-amount" data-basis="4">4</span><span class="ing-name">teentjes knoflook</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">kleine witte ui, grof gesneden</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">gemalen komijn</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">gedroogde oregano</span></li><li><span class="ing-amount" data-basis="¼ tl">¼ tl</span><span class="ing-name">kaneelpoeder</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">kruidnagels (of ⅛ tl gemalen kruidnagel — geeft warme authentieke diepte)</span></li><li><span class="ing-amount" data-basis="1 tl">1 tl</span><span class="ing-name">honing of bruine suiker</span></li><li><span class="ing-amount" data-basis="8 g">8 g</span><span class="ing-name">fijn zeezout</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">neutrale olie (voor het bakken)</span></li></ul><h3 class="ing-group-title">Voor het vlees</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="400 g">400 g</span><span class="ing-name">procureur of varkensschouder (met vet — nooit lende)</span></li><li><span class="ing-amount" data-basis="1 el">1 el</span><span class="ing-name">neutrale olie (voor het bakken)</span></li></ul><h3 class="ing-group-title">Voor de verse maïs tortilla&#x27;s (6 kleine van 12–14 cm)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="200 g">200 g</span><span class="ing-name">masa harina (Maseca — bij de toko)</span></li><li><span class="ing-amount" data-basis="280 ml">280 ml</span><span class="ing-name">warm water</span></li><li><span class="ing-amount" data-basis="½ tl">½ tl</span><span class="ing-name">fijn zeezout</span></li></ul><h3 class="ing-group-title">Voor de karameliseerde ananas</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="3">3</span><span class="ing-name">dikke schijven verse ananas (1,5 cm dik)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf zout</span></li></ul><h3 class="ing-group-title">Voor de romige salsa verde</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="250 g">250 g</span><span class="ing-name">tomatillos uit blik, uitgelekt (of 2 groene tomaten + extra limoensap)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">jalapeño of serrano chile</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">rijpe avocado (geeft romigheid en rondheid)</span></li><li><span class="ing-amount" data-basis="1">1</span><span class="ing-name">handvol verse koriander</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">sap van ½ limoen</span></li><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">teentje knoflook</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">snuf zout</span></li></ul><h3 class="ing-group-title">Voor de toppings (authentiek en onmisbaar)</h3><ul class="ing-list"><li><span class="ing-amount" data-basis="½">½</span><span class="ing-name">witte ui, extreem fijn gesneden (nooit rode ui bij al pastor)</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">grote hand verse koriander, grof gehakt</span></li><li><span class="ing-amount" data-basis="4–5">4–5</span><span class="ing-name">radijsjes, in flinterdunne schijfjes (knapperig, fris contrast)</span></li><li><span class="ing-amount" data-basis="2">2</span><span class="ing-name">limoenen, in partjes</span></li><li><span class="ing-amount" data-basis=""></span><span class="ing-name">eventueel: salsa macha of chili-olie</span></li></ul>
-      </div>
-      <div class="steps-col">
-        <h2>Bereiding</h2>
-        <div class="step"><div class="step-num">1</div><div class="step-body"><strong class="step-action">De marinade (liefst een nacht van tevoren)</strong><p>Chiles roosteren: Verhit een droge koekenpan op middelhoog vuur. Leg de guajillo en ancho chiles plat in de pan. Druk aan. 30–45 seconden per kant tot licht geblakerd en nootachtig geurend. Niet verbranden — dan worden ze bitter. Doe de geroosterde chiles in een kom. Giet heet water erover. 20 minuten weken tot zacht. Afgieten. Blend geweekte chiles, chipotle + adobo saus, achiote pasta, ananassap, sinaasappelsap, azijn, knoflook, witte ui, komijn, oregano, kaneel, kruidnagels, honing, zout en olie op hoogste stand 2 minuten tot volkomen glad en dieprood en vloeibaar. Marinade zeven: Wrijf door een fijne zeef voor een extra glad, zijdezacht resultaat. Vlees snijden: Snijd de procureur in plakken van 3–4mm — dunner dan je denkt. Hoe dunner, hoe meer krokante randjes en hoe dichter bij het echte taquería-resultaat. Vlees in ziplockzak of dichte bak. Marinade erover. Grondig insmeren. Minimaal 8 uur in de koelkast — liefst een nacht.</p></div></div><div class="step"><div class="step-num">7</div><div class="step-body"><strong class="step-action">Salsa verde</strong><p>Verhit een droge koekenpan op hoog vuur. Tomatillos en jalapeño 3–4 minuten roosteren al draaiend tot zwart geblakerd. Blend met avocado, koriander, limoensap, knoflook en zout. Kort pulsen — laat wat textuur over. Koel bewaren.</p></div></div><div class="step"><div class="step-num">8</div><div class="step-body"><strong class="step-action">Masa tortilla&#x27;s</strong><p>Meng masa harina, zout en warm water met de handen tot een soepel deeg — zoals zachte klei. Afdekken. 15 minuten rusten. Verdeel in 6 ballen van ca. 35g. Druk plat tussen twee vellen plasticfolie of in een tortilla pers tot een schijf van 12–14 cm en 2mm dik. Droge gietijzeren pan op hoog vuur. Elke tortilla 45–60 seconden per kant tot lichte bruine vlekken. Flexibel en zacht — niet knapperig. Direct in een theedoek stapelen.</p></div></div><div class="step"><div class="step-num">11</div><div class="step-body"><strong class="step-action">Ananas karamelliseren</strong><p>Gietijzeren pan op hoog vuur. Ananasschijven met snuf zout. 2–3 minuten per kant zonder bewegen tot donkergoudbruin. In kleine blokjes snijden.</p></div></div><div class="step"><div class="step-num">12</div><div class="step-body"><strong class="step-action">Het vlees bakken (de cruciale stap)</strong><p>Vlees 30 minuten van tevoren uit de koelkast. Droogdeppen met keukenpapier — marinade aan de buitenkant verbrandt anders te snel. Gietijzeren pan op maximaal hoog vuur met olie. Vlees bakken in kleine batches — nooit meer dan één laag. 1–2 minuten per kant zonder roeren tot donkerrode, licht geblakerde randjes. Vlees uit de pan. In kleine reepjes of stukjes snijden. De taquería-truc: Gesneden vlees nog 30–60 seconden terug in de gloeiend hete pan met een paar blokjes gegrilde ananas. Dit geeft de sappige, licht krokante al pastor-textuur die je in het restaurant krijgt.</p></div></div><div class="step"><div class="step-num">16</div><div class="step-body"><strong class="step-action">Opbouwen</strong><p>Twee warme tortilla&#x27;s op elkaar per taco (dubbele tortilla is authentiek — ze zijn dun en breken anders). Gehakt vlees erop. Blokjes gekaramelliseerde ananas. Fijngehakte witte ui. Verse koriander. Radijsschijfjes. Druppel salsa verde. Kneep limoen aan tafel.</p></div></div>
-        <div class="tips-block">
-          <h2>💡 Tips van de chef</h2>
-          <div class="tip-item"><strong>Procureur is verplicht:</strong> Het vet geeft smaak en voorkomt uitdrogen. Lende of filet worden te droog bij het hoge vuur dat nodig is voor de karamelisatie.</div><div class="tip-item"><strong>3–4mm is dunner dan je denkt:</strong> Dit is het grootste verschil tussen een gewone pan-al pastor en het echte werk. Dunne plakken = laagjes, krokante randjes, taquería-gevoel.</div><div class="tip-item"><strong>Chiles:</strong> Chiles roosteren is niet onderhandelbaar: Toasten activeert de essentiële oliën en geeft de marinade diepte die nooit uit een kruidenpakje komt.</div><div class="tip-item"><strong>Batches bakken:</strong> Pan nooit te vol — anders stooft het vlees. Hete pan + weinig vlees = donkere, verslavende randjes.</div><div class="tip-item"><strong>Dubbele tortilla:</strong> Altijd twee tortilla&#x27;s op elkaar. De binnentortilla absorbeert het vleesvocht, de buitentortilla blijft droog.</div><div class="tip-item"><strong>Drank:</strong> Achiote en guajillo niet gevonden? Maak de marinade met: 2 tl zoet paprikapoeder + ½ tl gerookt paprikapoeder + ½ tl pul biber + ½ tl kurkuma + 1 tl komijn + 1 tl oregano + 1 el extra tomatenpuree + extra ananassap + 1 tl azijn. Niet exact authentiek maar heel lekker.</div><div class="tip-item"><strong>Variatie — kip:</strong> Vervang procureur door kippendijfilets. Zelfde marinade, kortere baktijd.</div><div class="tip-item"><strong>Alternatief tortilla:</strong> Kant-en-klare kleine maïs tortilla&#x27;s van de toko. Altijd opwarmen in een droge pan.</div>
-        </div>
+  <div class="recipe-body">
+    <div class="col-ingredients">
+      <div class="col-h">Ingrediënten</div>
+      <div class="ing-cat">Voor de marinade (het hart)</div><div class="ing-row"><span>gedroogde guajillo chiles (steeltje en zaadjes verwijderd)</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>gedroogde ancho chile (steeltje en zaadjes verwijderd)</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>chipotle in adobo (blik, La Morena bij AH) + 1 el adobo saus</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>achiote pasta (bij de toko)</span><span class="ing-amount" data-basis="1½ el">1½ el</span></div><div class="ing-row"><span>ananassap (vers of pak)</span><span class="ing-amount" data-basis="80 ml">80 ml</span></div><div class="ing-row"><span>vers sinaasappelsap</span><span class="ing-amount" data-basis="60 ml">60 ml</span></div><div class="ing-row"><span>ciderazijn of witte azijn</span><span class="ing-amount" data-basis="2 el">2 el</span></div><div class="ing-row"><span>teentjes knoflook</span><span class="ing-amount" data-basis="4">4</span></div><div class="ing-row"><span>kleine witte ui, grof gesneden</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>gemalen komijn</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>gedroogde oregano</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>kaneelpoeder</span><span class="ing-amount" data-basis="¼ tl">¼ tl</span></div><div class="ing-row"><span>kruidnagels (of ⅛ tl gemalen kruidnagel — geeft warme authentieke diepte)</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>honing of bruine suiker</span><span class="ing-amount" data-basis="1 tl">1 tl</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="8 g">8 g</span></div><div class="ing-row"><span>neutrale olie (voor het bakken)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-cat">Voor het vlees</div><div class="ing-row"><span>procureur of varkensschouder (met vet — nooit lende)</span><span class="ing-amount" data-basis="400 g">400 g</span></div><div class="ing-row"><span>neutrale olie (voor het bakken)</span><span class="ing-amount" data-basis="1 el">1 el</span></div><div class="ing-cat">Voor de verse maïs tortilla&#x27;s (6 kleine van 12–14 cm)</div><div class="ing-row"><span>masa harina (Maseca — bij de toko)</span><span class="ing-amount" data-basis="200 g">200 g</span></div><div class="ing-row"><span>warm water</span><span class="ing-amount" data-basis="280 ml">280 ml</span></div><div class="ing-row"><span>fijn zeezout</span><span class="ing-amount" data-basis="½ tl">½ tl</span></div><div class="ing-cat">Voor de karameliseerde ananas</div><div class="ing-row"><span>dikke schijven verse ananas (1,5 cm dik)</span><span class="ing-amount" data-basis="3">3</span></div><div class="ing-row"><span>snuf zout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de romige salsa verde</div><div class="ing-row"><span>tomatillos uit blik, uitgelekt (of 2 groene tomaten + extra limoensap)</span><span class="ing-amount" data-basis="250 g">250 g</span></div><div class="ing-row"><span>jalapeño of serrano chile</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>rijpe avocado (geeft romigheid en rondheid)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>handvol verse koriander</span><span class="ing-amount" data-basis="1">1</span></div><div class="ing-row"><span>sap van ½ limoen</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>teentje knoflook</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>snuf zout</span><span class="ing-amount" data-basis=""></span></div><div class="ing-cat">Voor de toppings (authentiek en onmisbaar)</div><div class="ing-row"><span>witte ui, extreem fijn gesneden (nooit rode ui bij al pastor)</span><span class="ing-amount" data-basis="½">½</span></div><div class="ing-row"><span>grote hand verse koriander, grof gehakt</span><span class="ing-amount" data-basis=""></span></div><div class="ing-row"><span>radijsjes, in flinterdunne schijfjes (knapperig, fris contrast)</span><span class="ing-amount" data-basis="4–5">4–5</span></div><div class="ing-row"><span>limoenen, in partjes</span><span class="ing-amount" data-basis="2">2</span></div><div class="ing-row"><span>eventueel: salsa macha of chili-olie</span><span class="ing-amount" data-basis=""></span></div>
+    </div>
+    <div class="col-steps">
+      <div class="col-h">Bereiding</div>
+      <div class="step"><div class="step-num">1</div><div class="step-text"><strong>De marinade (liefst een nacht van tevoren)</strong><br>Chiles roosteren: Verhit een droge koekenpan op middelhoog vuur. Leg de guajillo en ancho chiles plat in de pan. Druk aan. 30–45 seconden per kant tot licht geblakerd en nootachtig geurend. Niet verbranden — dan worden ze bitter. Doe de geroosterde chiles in een kom. Giet heet water erover. 20 minuten weken tot zacht. Afgieten. Blend geweekte chiles, chipotle + adobo saus, achiote pasta, ananassap, sinaasappelsap, azijn, knoflook, witte ui, komijn, oregano, kaneel, kruidnagels, honing, zout en olie op hoogste stand 2 minuten tot volkomen glad en dieprood en vloeibaar. Marinade zeven: Wrijf door een fijne zeef voor een extra glad, zijdezacht resultaat. Vlees snijden: Snijd de procureur in plakken van 3–4mm — dunner dan je denkt. Hoe dunner, hoe meer krokante randjes en hoe dichter bij het echte taquería-resultaat. Vlees in ziplockzak of dichte bak. Marinade erover. Grondig insmeren. Minimaal 8 uur in de koelkast — liefst een nacht.</div></div><div class="step"><div class="step-num">7</div><div class="step-text"><strong>Salsa verde</strong><br>Verhit een droge koekenpan op hoog vuur. Tomatillos en jalapeño 3–4 minuten roosteren al draaiend tot zwart geblakerd. Blend met avocado, koriander, limoensap, knoflook en zout. Kort pulsen — laat wat textuur over. Koel bewaren.</div></div><div class="step"><div class="step-num">8</div><div class="step-text"><strong>Masa tortilla&#x27;s</strong><br>Meng masa harina, zout en warm water met de handen tot een soepel deeg — zoals zachte klei. Afdekken. 15 minuten rusten. Verdeel in 6 ballen van ca. 35g. Druk plat tussen twee vellen plasticfolie of in een tortilla pers tot een schijf van 12–14 cm en 2mm dik. Droge gietijzeren pan op hoog vuur. Elke tortilla 45–60 seconden per kant tot lichte bruine vlekken. Flexibel en zacht — niet knapperig. Direct in een theedoek stapelen.</div></div><div class="step"><div class="step-num">11</div><div class="step-text"><strong>Ananas karamelliseren</strong><br>Gietijzeren pan op hoog vuur. Ananasschijven met snuf zout. 2–3 minuten per kant zonder bewegen tot donkergoudbruin. In kleine blokjes snijden.</div></div><div class="step"><div class="step-num">12</div><div class="step-text"><strong>Het vlees bakken (de cruciale stap)</strong><br>Vlees 30 minuten van tevoren uit de koelkast. Droogdeppen met keukenpapier — marinade aan de buitenkant verbrandt anders te snel. Gietijzeren pan op maximaal hoog vuur met olie. Vlees bakken in kleine batches — nooit meer dan één laag. 1–2 minuten per kant zonder roeren tot donkerrode, licht geblakerde randjes. Vlees uit de pan. In kleine reepjes of stukjes snijden. De taquería-truc: Gesneden vlees nog 30–60 seconden terug in de gloeiend hete pan met een paar blokjes gegrilde ananas. Dit geeft de sappige, licht krokante al pastor-textuur die je in het restaurant krijgt.</div></div><div class="step"><div class="step-num">16</div><div class="step-text"><strong>Opbouwen</strong><br>Twee warme tortilla&#x27;s op elkaar per taco (dubbele tortilla is authentiek — ze zijn dun en breken anders). Gehakt vlees erop. Blokjes gekaramelliseerde ananas. Fijngehakte witte ui. Verse koriander. Radijsschijfjes. Druppel salsa verde. Kneep limoen aan tafel.</div></div>
+      <div class="chef-tip">
+        <span class="chef-tip-label">💡 Tips van de chef</span>
+        <p><strong>Procureur is verplicht:</strong> Het vet geeft smaak en voorkomt uitdrogen. Lende of filet worden te droog bij het hoge vuur dat nodig is voor de karamelisatie.</p><p><strong>3–4mm is dunner dan je denkt:</strong> Dit is het grootste verschil tussen een gewone pan-al pastor en het echte werk. Dunne plakken = laagjes, krokante randjes, taquería-gevoel.</p><p><strong>Chiles:</strong> Chiles roosteren is niet onderhandelbaar: Toasten activeert de essentiële oliën en geeft de marinade diepte die nooit uit een kruidenpakje komt.</p><p><strong>Batches bakken:</strong> Pan nooit te vol — anders stooft het vlees. Hete pan + weinig vlees = donkere, verslavende randjes.</p><p><strong>Dubbele tortilla:</strong> Altijd twee tortilla&#x27;s op elkaar. De binnentortilla absorbeert het vleesvocht, de buitentortilla blijft droog.</p><p><strong>Drank:</strong> Achiote en guajillo niet gevonden? Maak de marinade met: 2 tl zoet paprikapoeder + ½ tl gerookt paprikapoeder + ½ tl pul biber + ½ tl kurkuma + 1 tl komijn + 1 tl oregano + 1 el extra tomatenpuree + extra ananassap + 1 tl azijn. Niet exact authentiek maar heel lekker.</p><p><strong>Variatie — kip:</strong> Vervang procureur door kippendijfilets. Zelfde marinade, kortere baktijd.</p><p><strong>Alternatief tortilla:</strong> Kant-en-klare kleine maïs tortilla&#x27;s van de toko. Altijd opwarmen in een droge pan.</p>
       </div>
     </div>
+  </div>
 
-    <div class="wine-block">
-      <h2>🍷 Wijnadvies</h2>
-      <div class="wine-inner">
-        <div class="wine-naam">Garnacha — Sierra de Gredos of Navarra, Spanje (licht gekoeld op 13–14°C)</div>
-        <div class="wine-druif">Garnacha (Grenache)</div>
-        <p class="wine-toe">Droog, sappig rood fruit, zachte tannines, frisse zuren, licht kruidig Een sappige, frisse Spaanse rode — aromatisch en nooit te zwaar. De zachte tannines botsen niet met limoen en chili. Het rode fruit sluit aan bij de achiote en tomatillo salsa. Licht gekoeld geeft extra spanning naast de warme specerijen.</p>
-        <div class="wine-alt">Alternatief: Droge Garnacha rosé (fris, rood fruit, citrus — de meest ontspannen keuze) of Albariño — Rías Baixas (droog, fris, ziltig, citrus — verrassend goed bij ananas en salsa verde). — .</div>
-      </div>
+  <div class="wine-section">
+    <div class="wine-section-title">🍷 Wijnadvies</div>
+    <div class="wine-naam">Garnacha — Sierra de Gredos of Navarra, Spanje (licht gekoeld op 13–14°C)</div>
+    <div class="wine-meta">
+      <span class="wine-tag">Garnacha (Grenache)</span>
     </div>
+    <p class="wine-toelichting">Droog, sappig rood fruit, zachte tannines, frisse zuren, licht kruidig Een sappige, frisse Spaanse rode — aromatisch en nooit te zwaar. De zachte tannines botsen niet met limoen en chili. Het rode fruit sluit aan bij de achiote en tomatillo salsa. Licht gekoeld geeft extra spanning naast de warme specerijen.</p>
+    <p class="wine-toelichting" style="margin-top:0.75rem;"><strong>Alternatief:</strong> Droge Garnacha rosé (fris, rood fruit, citrus — de meest ontspannen keuze) of Albariño — Rías Baixas (droog, fris, ziltig, citrus — verrassend goed bij ananas en salsa verde). — .</p>
+  </div>
 
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
-      </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
+  <div class="review-form" style="max-width:860px;margin:2rem auto;padding:1.5rem;">
+    <h3>Laat een beoordeling achter</h3>
+    <div class="ster-keuze">
+      <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
+      <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
+      <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
+      <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
+      <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
     </div>
+    <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
+    <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
+    <button onclick="verstuurReview()">Beoordeling plaatsen</button>
+    <div id="review-bevestiging" style="display:none;color:green;margin-top:8px;">Bedankt voor je beoordeling!</div>
   </div>
 
   <footer>
@@ -132,9 +129,10 @@
 
   <script>
     (function() {
-      const slider = document.getElementById('portie-slider');
+      const minBtn = document.getElementById('portie-min');
+      const plusBtn = document.getElementById('portie-plus');
       const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
+      if (!minBtn || !plusBtn || !valEl) return;
       function basisPortie(servStr) {
         const m = (servStr || '').match(/(\d+)/);
         return m ? parseInt(m[1]) : 4;
@@ -148,17 +146,24 @@
         amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
       });
       const basis = basisPortie('2 personen (6 kleine taco&#x27;s)');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', function() {
-        const factor = parseInt(this.value) / basis;
-        valEl.textContent = this.value;
+      let current = basis;
+      function update() {
+        valEl.textContent = current;
+        const factor = current / basis;
         amounts.forEach(a => {
           if (!a.valid) return;
           const result = Math.round(a.num * factor * 100) / 100;
           const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
           a.el.textContent = numStr + a.unit;
+          a.el.classList.add('changed');
         });
+        minBtn.disabled = current <= 1;
+      }
+      minBtn.addEventListener('click', function() {
+        if (current > 1) { current--; update(); }
+      });
+      plusBtn.addEventListener('click', function() {
+        if (current < 24) { current++; update(); }
       });
     })();
 
