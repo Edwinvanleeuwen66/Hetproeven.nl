@@ -63093,6 +63093,174 @@
         "toelichting": "Droog en complex, met aroma's van walnoot, gedroogd fruit, leer, tabak en hazelnoot — een combinatie van biologische flor-rijping en oxidatieve rijping — Lustau Los Arcos, González Byass Viña AB of Bodegas Tradición Amontillado (€15–25). Amontillado verbindt de sherry in de saus, de amandel, de kip en de paddenstoelen in een perfecte aromatische cirkel: droog genoeg om het gerecht niet zoet te maken, rijk en oxidatief genoeg om het warme taartje en de kersen-sherrylak volledig te ondersteunen. Letterlijk de wijn in de saus, opnieuw in het glas. Serveer lichtjes gekoeld op 12–14°C.",
         "alternatief": "Rioja Crianza (Tempranillo, Rioja) — kers, framboos, vanille, kokos en leer (Bodegas Muga, La Rioja Alta, €10–18, op 16–18°C). Klassieke Spaanse rode bij gestoofde kip in sherry: de kerstonen verbinden met de kersen-lak, vanille en kokos met de amandel, en leer met de oxidatieve stoofbasis — voor wie liever een glas rode wijn inschenkt."
       }
+    },
+    {
+      "source_recipe_number": 190,
+      "title": "Stokbroodje tonijnsalade met komkommer, tomaat en ei",
+      "slug": "stokbroodje-tonijnsalade-komkommer-tomaat-ei",
+      "location": "Nederland / brasserie-klassiek",
+      "time": "20 min hands-on",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/stokbroodje-tonijnsalade-komkommer-tomaat-ei.jpg",
+      "short_description": "Het klassieke broodje tonijnsalade zoals het hoort — fris, krokant en royaal, met komkommer-linten én -blokjes, uitgelekte tomaat, ei en een lichte citroen-mosterd-saus.",
+      "description": "Een award-winning versie van het klassieke broodje tonijnsalade: fris, krokant en royaal, maar niet nat, zwaar of te romig. Gewone huismerk-tonijn in olijfolie wordt opgetild met komkommer-linten én -blokjes, dunne uitgelekte tomaat, plakjes ei, citroen, bieslook, augurk en kappertjes — op een aan de binnenkant geroosterd stokbrood. Zeven smaak- en textuurlagen die elk hun eigen rol spelen. Meer brasserie dan lunchroom.",
+      "ingredient_groups": [
+        {
+          "group_name": "Tonijnsalade",
+          "ingredients": [
+            {
+              "name": "blikken goede huismerk-tonijn in olijfolie, ca. 160 g per stuk (AH, Jumbo of Lidl)",
+              "amount": "2"
+            },
+            {
+              "name": "mayonaise (Calvé of zelfgemaakt)",
+              "amount": "2 el"
+            },
+            {
+              "name": "Griekse yoghurt of crème fraîche",
+              "amount": "2 el"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "2 tl"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "2 tl"
+            },
+            {
+              "name": "fijne rasp van 1 citroen",
+              "amount": "1"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "2 tl"
+            },
+            {
+              "name": "kleine augurken (cornichons), zeer fijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "kappertjes (op zuur, uitgespoeld), grof gehakt",
+              "amount": "2 tl"
+            },
+            {
+              "name": "verse bieslook, fijn gesneden",
+              "amount": "2 el"
+            },
+            {
+              "name": "sjalot of rode ui, zeer fijn gesneden",
+              "amount": "2 el"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Frisse lagen",
+          "ingredients": [
+            {
+              "name": "komkommer",
+              "amount": "1"
+            },
+            {
+              "name": "rijpe tomaten (Tasty Tom of trostomaat)",
+              "amount": "2"
+            },
+            {
+              "name": "hardgekookte eieren (9 min gekookt)",
+              "amount": "2"
+            },
+            {
+              "name": "mooie blaadjes little gem of jonge kropsla",
+              "amount": "8–12"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Brood en afwerking",
+          "ingredients": [
+            {
+              "name": "goede stokbroden of 4 kleine demi-baguettes (vers, knapperige korst)",
+              "amount": "2"
+            },
+            {
+              "name": "roomboter of olijfolie (heel dun, voor binnenkant)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "extra bieslook",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "extra citroenrasp",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Komkommer voorbereiden — linten én blokjes",
+          "description": "Snijd ongeveer ⅔ van de komkommer in flinterdunne linten met een dunschiller (langs de lengte). Snijd het resterende ⅓ deel in piepkleine blokjes van 3–4 mm. Meng de linten met een paar druppels citroensap, een snufje zout en zwarte peper en laat 5 minuten staan. Dep daarna lichtjes droog met keukenpapier. Doe de blokjes in een vergiet, strooi een snufje zout, schud kort en laat 10 minuten uitlekken. Knijp daarna stevig uit in een schone doek of stevig keukenpapier — ze moeten écht droog zijn, anders maken ze de salade slap."
+        },
+        {
+          "action": "Tomaat uitlekken en ei koken",
+          "description": "Snijd de tomaten in dunne plakjes van 3–4 mm. Bestrooi heel licht met zout en leg 5 minuten op keukenpapier. Dep daarna droog — dit voorkomt dat het stokbrood zompig wordt. Kook de eieren 9 minuten, schrik in koud water, pel en snijd in dunne plakjes."
+        },
+        {
+          "action": "Tonijnsalade maken",
+          "description": "Laat de tonijn goed uitlekken in een vergiet zonder hard te persen — sappig laten. Doe in een schaal en breek met een vork in grove stukken. Niet doorprakken tot mousse — vlokken-textuur is wat dit broodje luxe maakt. Meng in een klein schaaltje de mayonaise, Griekse yoghurt, Dijon-mosterd, citroensap, citroenrasp en olijfolie tot een gladde lichte saus. Schep door de tonijn de sjalot, augurk, kappertjes, bieslook en de uitgeknepen komkommer-blokjes. Spatel de saus erdoor — spatelend, niet roerend — tot net gebonden. Proef en voeg zwarte peper toe en eventueel een voorzichtig snufje zout. De salade moet sappig, fris en stevig zijn — niet nat, niet glad, niet te romig."
+        },
+        {
+          "action": "Stokbrood roosteren",
+          "description": "Snijd de stokbroden open. Rooster alléén de binnenkant kort in een droge pan, grillpan of onder de grill tot lichtjes krokant en goudgeel — de buitenkant blijft zacht. Smeer de binnenkant héél dun in met roomboter of olijfolie als extra beschermlaag tegen vocht."
+        },
+        {
+          "action": "Opbouwen en serveren",
+          "description": "Bouw elk broodje van onder naar boven op: krokant geroosterde binnenkant met dun laagje boter of olijfolie, little gem of kropsla, komkommer-linten, plakjes uitgelekte tomaat, een royale laag tonijnsalade met vlokken zichtbaar, plakjes ei, en als afwerking extra bieslook, vers gemalen zwarte peper en een paar fijne citroenrasp-flinters. Sluit het broodje niet te hard dicht — het mag royaal en fris ogen. Snijd schuin doormidden en serveer direct op een mooi bord of houten plankje."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de tonijnsalade kan maximaal 2 uur vooraf worden gemaakt — niet langer, anders trekt het vocht eruit en wordt het log. De komkommer-blokjes uitlekken en de tomaten op keukenpapier leggen doe je het liefst als eerste, dan heb je die wachttijd nuttig gebruikt. Het broodje zelf opbouwen pas vlak voor het eten.\n\nTechniek: rooster alleen de binnenkant van het stokbrood — krokant binnen, zacht buiten. Één droge pan, 60 seconden per zijde, niet in de oven (anders wordt het hele brood hard). De geroosterde binnenkant plus het dunne laagje boter of olijfolie vormt een dubbele vocht-barrière die het broodje krokant houdt.\n\nPresentatie: snijd het stokbrood schuin doormidden en serveer open of halfopen op een mooi bord of houten plankje. Mooiste beeld: tonijnsalade grof zichtbaar in vlokken, komkommer-linten die iets uitsteken aan de zijkanten, plakjes ei bovenop, bieslook en citroenrasp als frisse afwerking. Dit moet eruitzien als een broodje dat je in een goede brasserie krijgt — gul, maar niet lomp.\n\nVariatie luxe-upgrade: vervang de huismerk-tonijn door ventresca (Ortiz Bonito del Norte of vergelijkbaar) — wordt direct zachter, eleganter en zo'n €5 duurder per broodje. Voor het authentieke brasserie-broodje is huismerk-tonijn echter precies goed.\n\nAlternatief met avocado: voeg een paar plakjes rijpe avocado toe als extra laag voor een zachtere, romigere versie — laat dan het ei of de tomaat weg om overvulling te voorkomen.\n\nTonijn in olijfolie — niet in water of zonnebloemolie: tonijn in water is droog en vlak, zonnebloemolie smaakt nergens naar. Olijfolie geeft body en smaak. Laat wel goed uitlekken anders wordt de salade zwaar.\n\nTonijn niet platprakken: grove vlokken geven een luxe mondgevoel. Doorgeprakte tonijn voelt fabrieksachtig en pasteus — spatel de saus erdoor, nooit roeren.\n\nKomkommer op twee manieren is de sleutel: linten voor frisheid in de hap, blokjes voor crunch in de salade. Beide droog — linten gedept, blokjes stevig uitgeknepen in een doek.\n\nCitroenrasp boven citroensap: rasp geeft geur en frisheid zonder de salade waterig te maken. Gebruik beide — 2 tl sap in de saus, rasp van 1 citroen erin én als afwerking bovenop.",
+      "wines": [
+        {
+          "naam": "Albariño Rías Baixas",
+          "druif": "Albariño",
+          "toelichting": "Droog en fris, met aroma's van limoen, groene appel, perzik, ziltigheid en levendige zuren — Pazo de Señorans, Do Ferreiro of Granbazán (€10–18). Albariño past prachtig bij tonijn, citroen, komkommer en kappertjes: fris genoeg om de mayo en het ei licht te houden, sappig genoeg voor de tomaat en het brood, en de zilte ondertoon sluit direct aan bij de tonijn in olijfolie. Serveer op 8–10°C.",
+          "alternatief": "Sauvignon Blanc Touraine (Loire, Frankrijk) — citrus, groene appel, kruisbes, frisse zuren en groene kruiden (€8–12, breed verkrijgbaar). Sluit goed aan bij komkommer, citroen, bieslook en little gem, snijdt door de tonijnsalade zonder zwaar te worden — kies Touraine boven Sancerre, het sappigere profiel past hier beter."
+        }
+      ],
+      "wine": {
+        "naam": "Albariño Rías Baixas",
+        "druif": "Albariño",
+        "toelichting": "Droog en fris, met aroma's van limoen, groene appel, perzik, ziltigheid en levendige zuren — Pazo de Señorans, Do Ferreiro of Granbazán (€10–18). Albariño past prachtig bij tonijn, citroen, komkommer en kappertjes: fris genoeg om de mayo en het ei licht te houden, sappig genoeg voor de tomaat en het brood, en de zilte ondertoon sluit direct aan bij de tonijn in olijfolie. Serveer op 8–10°C.",
+        "alternatief": "Sauvignon Blanc Touraine (Loire, Frankrijk) — citrus, groene appel, kruisbes, frisse zuren en groene kruiden (€8–12, breed verkrijgbaar). Sluit goed aan bij komkommer, citroen, bieslook en little gem, snijdt door de tonijnsalade zonder zwaar te worden — kies Touraine boven Sancerre, het sappigere profiel past hier beter."
+      }
     }
   ]
 }
