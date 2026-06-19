@@ -6952,7 +6952,7 @@
       "slug": "pintxo-puerro-ham",
       "location": "Bilbao",
       "time": "35 min + 1 uur koelen",
-      "servings": "6 pintxos",
+      "servings": "4 pintxos",
       "difficulty": "Makkelijk",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
@@ -6965,11 +6965,11 @@
           "ingredients": [
             {
               "name": "prei, alleen wit en lichtgroen deel, in ringen",
-              "amount": "500 g"
+              "amount": "350 g"
             },
             {
               "name": "gekookte ham, in kleine blokjes van 5 mm",
-              "amount": "150 g"
+              "amount": "100 g"
             },
             {
               "name": "hardgekookte eieren, fijngehakt",
@@ -6982,11 +6982,11 @@
           "ingredients": [
             {
               "name": "mayonaise",
-              "amount": "80 g"
+              "amount": "50 g"
             },
             {
               "name": "crème fraîche of room",
-              "amount": "20 g"
+              "amount": "15 g"
             },
             {
               "name": "Dijonmosterd",
@@ -6998,7 +6998,7 @@
             },
             {
               "name": "olijfolie extra vierge",
-              "amount": "15 ml"
+              "amount": "1 el"
             },
             {
               "name": "zout",
@@ -7011,15 +7011,15 @@
           "ingredients": [
             {
               "name": "sneetjes stokbrood",
-              "amount": "6"
+              "amount": "4"
             },
             {
               "name": "bieslook, fijngehakt",
-              "amount": "15 g"
+              "amount": "10 g"
             },
             {
               "name": "olijfolie extra vierge voor de afwerking",
-              "amount": "15 ml"
+              "amount": "1 el"
             }
           ]
         }
@@ -7046,8 +7046,8 @@
         "het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. Natte prei geeft een waterige, smakeloze vulling.",
         "Techniek: kook of blancheer de prei kort — 3 tot 5 minuten in licht gezouten water tot net zacht maar nog fris, nooit langer. Spoel daarna direct koud af om de garing te stoppen, laat goed uitlekken en dep droog; natte of te lang gekookte prei geeft een papperige, waterige vulling.",
         "Presentatie: schep de preisalade in een royale, ietwat hoge dot op het brood in plaats van plat uit te strijken — dat geeft het pintxo meer hoogte en een luxere uitstraling.",
-        "Variatie: voeg een dot truffelmayo toe aan de preicrème voor luxe diepte, of gebruik jamon ibérico de bellota in plaats van serrano voor een aanzienlijk rijker karakter.",
-        "Alternatief: geen jamon serrano? Gebruik goede Italiaanse prosciutto crudo — iets zoeter en zachter maar even elegant bij de zoete prei.",
+        "Variatie: voeg een dot truffelmayo toe aan de preicrème voor luxe diepte, of gebruik fijn gesneden gerookte ham in plaats van gekookte ham voor een aanzienlijk rijker, hartiger karakter.",
+        "Alternatief: geen gekookte ham? Gebruik fijngesneden achterham of casselerrib — beide werken net zo goed en zijn overal verkrijgbaar.",
         "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
         "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ],
@@ -7087,8 +7087,8 @@
         "het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. Natte prei geeft een waterige, smakeloze vulling.",
         "Techniek: kook of blancheer de prei kort — 3 tot 5 minuten in licht gezouten water tot net zacht maar nog fris, nooit langer. Spoel daarna direct koud af om de garing te stoppen, laat goed uitlekken en dep droog; natte of te lang gekookte prei geeft een papperige, waterige vulling.",
         "Presentatie: schep de preisalade in een royale, ietwat hoge dot op het brood in plaats van plat uit te strijken — dat geeft het pintxo meer hoogte en een luxere uitstraling.",
-        "Variatie: voeg een dot truffelmayo toe aan de preicrème voor luxe diepte, of gebruik jamon ibérico de bellota in plaats van serrano voor een aanzienlijk rijker karakter.",
-        "Alternatief: geen jamon serrano? Gebruik goede Italiaanse prosciutto crudo — iets zoeter en zachter maar even elegant bij de zoete prei.",
+        "Variatie: voeg een dot truffelmayo toe aan de preicrème voor luxe diepte, of gebruik fijn gesneden gerookte ham in plaats van gekookte ham voor een aanzienlijk rijker, hartiger karakter.",
+        "Alternatief: geen gekookte ham? Gebruik fijngesneden achterham of casselerrib — beide werken net zo goed en zijn overal verkrijgbaar.",
         "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
         "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
@@ -61986,6 +61986,1113 @@
       },
       "source_recipe_number": 182,
       "full_title_docx": "182. MOSSELEN À LA CHALACA MET AJÍ AMARILLO-CRÈME"
+    },
+    {
+      "source_recipe_number": 183,
+      "title": "Pan de Cristal-tegel met geroosterde-tomaat-spread, Cantabrische ansjovis en sabayon-eidooiermousse",
+      "slug": "pan-de-cristal-tegel-geroosterde-tomaat-ansjovis-sabayon-eidooiermousse",
+      "location": "Catalonië / Andalusië",
+      "time": "40 min hands-on + 60–75 min oventijd",
+      "servings": "12 stuks (3 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/pan-de-cristal-tegel-geroosterde-tomaat-ansjovis-sabayon-eidooiermousse.jpg",
+      "short_description": "Pan de Cristal als knapperige basis voor geconcentreerde geroosterde tomaat, een glanzende Cantabrische ansjovis en fluweelzachte sabayon-eidooiermousse.",
+      "description": "Een eerbetoon aan de Catalaanse pan con tomate in zijn meest verfijnde vorm. Ultradun Pan de Cristal draagt een diepbruine geroosterde-tomaat-spread met pimentón de la Vera en sherry-azijn, bekroond met één hele Cantabrische ansjovis van topkwaliteit en een dotje luchtige sabayon-eidooiermousse. Drie technische ingrepen — lang oven-roosteren, eidooier tot mousse kloppen, ansjovis van uitzonderlijke kwaliteit — tillen de bekendste tapa van Spanje naar restaurant-niveau.",
+      "ingredient_groups": [
+        {
+          "group_name": "Pan de Cristal-tegels (12 stuks van 3 × 6 cm)",
+          "ingredients": [
+            {
+              "name": "Pan de Cristal",
+              "amount": "1 brood"
+            },
+            {
+              "name": "Spaanse extra-vergine olijfolie (Arbequina of Picual)",
+              "amount": "2 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Geroosterde-tomaat-spread",
+          "ingredients": [
+            {
+              "name": "rijpe tomaten op de tros (Tasty Tom of San Marzano)",
+              "amount": "6"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "3 el"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "teentjes knoflook, gekneusd",
+              "amount": "2"
+            },
+            {
+              "name": "takjes verse tijm",
+              "amount": "2"
+            },
+            {
+              "name": "pimentón de la Vera (gerookte paprikapoeder)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sherry-azijn",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Sabayon-eidooiermousse",
+          "ingredients": [
+            {
+              "name": "verse eidooiers",
+              "amount": "3"
+            },
+            {
+              "name": "milde extra-vergine olijfolie (Arbequina)",
+              "amount": "30 ml"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "hele Cantabrische ansjovisfilets in olijfolie (Codaca, Don Bocarte of Lolin)",
+              "amount": "12"
+            },
+            {
+              "name": "kleine blaadjes verse krulpeterselie",
+              "amount": "24–36"
+            },
+            {
+              "name": "Spaanse extra-vergine olijfolie",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Oven voorverwarmen en tomaten klaarmaken",
+          "description": "Verwarm de oven voor op 150°C (hete lucht). Halveer de tomaten dwars en leg ze met de snijkant naar boven op een met bakpapier beklede bakplaat."
+        },
+        {
+          "action": "Tomaten aromatiseren",
+          "description": "Besprenkel de tomaten met olijfolie en strooi de suiker, het zout, peper en de pimentón erover. Leg de gekneusde knoflookteentjes tussen de tomaten en de tijm-takjes erop."
+        },
+        {
+          "action": "Lang roosteren (60–75 min)",
+          "description": "Zet de bakplaat in het midden van de oven en rooster 60–75 minuten tot de tomaten flink zijn ingedikt, het vocht grotendeels is verdampt en de randen lichtjes geblakerd zijn."
+        },
+        {
+          "action": "Spread maken",
+          "description": "Laat de tomaten lichtjes afkoelen. Verwijder de vellen en tijm-takjes. Hak de tomaten met de knoflook fijn op een snijplank tot een dikke, geconcentreerde compote — niet pureren, rustiek-grof is mooi. Roer de sherry-azijn erdoor, proef en stel af met zout. Bewaar op kamertemperatuur tot plating."
+        },
+        {
+          "action": "Sabayon-eidooiermousse maken",
+          "description": "Breng water aan de kook in een steelpannetje en draai het vuur terug tot zacht trekkend. Klop de eidooiers met het citroensap en zout in een hittebestendige kom boven het waterbad — bodem mag het water niet raken. Klop 5–7 minuten krachtig en continu tot het mengsel dik, luchtig en verdubbeld in volume is (65–70°C). Haal de kom van het vuur en voeg de olijfolie in een dunne straal toe al kloppend, als een emulsie. Voeg witte peper toe, dek af en koel minimaal 30 minuten."
+        },
+        {
+          "action": "Pan de Cristal bakken",
+          "description": "Verwarm de oven op 180°C. Snijd het brood met een scherp kartelmes in 12 mini-rechthoeken van 3 × 6 cm. Leg op een bakplaat met bakpapier, bestrijk met een dun laagje olijfolie en een minuscuul snufje zout. Bak 5–7 minuten tot warm en krokant."
+        },
+        {
+          "action": "Plating en serveren",
+          "description": "Verdeel 3 warme tegels per bord op een donker plankje of donker keramiek. Lepel een dikke laag geroosterde-tomaat-spread over elke tegel. Leg één Cantabrische ansjovisfilet centraal — opgekruld of zacht-golvend. Spuit of lepel een klein dotje sabayon-eidooiermousse (½ tl) naast of deels op de ansjovis. Plaats 2–3 krulpeterselie-blaadjes individueel, geef een draai zwarte peper, druppel wat olijfolie rondom en voeg optioneel een vlokje fleur de sel toe. Direct serveren."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de geroosterde-tomaat-spread kan een dag vooraf worden gemaakt — de aroma's verbinden zich na een nacht en de spread is de volgende dag zelfs beter. De sabayon-eidooiermousse kan 2 uur vooraf worden bereid en in de koelkast worden bewaard. Snijd de Pan de Cristal-tegels vlak voor het bakken; bak ze pas op het allerlaatste moment.\n\nTechniek: de sabayon vraagt geduld maar geen voorkennis. Klop de eidooiers krachtig boven zacht trekkend water — niet kokend, anders worden het scrambled eggs. Gebruik een thermometer en stop bij 65–70°C. Voeg de olijfolie daarna in een dunne straal toe al kloppend, precies zoals een mayonaise-emulsie.\n\nPresentatie: serveer op kleine donkere plankjes (zwart leisteen, donker hout of donker keramiek) van 16–18 cm. Drie tegels in een rij of driehoek met negatieve ruimte ertussen. Het visuele middelpunt is de glanzend mahonie-bruine ansjovis op de roodbruine tomaat-spread met de heldergele eidooier-mousse-dot ernaast. Plaats de krulpeterselie individueel — niet strooien maar zetten.\n\nVariatie: een minuscuul lepeltje Oscietra-kaviaar of forelkuit op de ansjovis verheft direct naar sterrenniveau. Of een schaaf Ibérico-jamón over de ansjovis voor een Spaans-coherente luxe variant.\n\nAlternatief: geen Pan de Cristal in de buurt? Gebruik dunne ciabatta-plakken knapperig gebakken tussen twee bakplaten — het is niet hetzelfde, maar een acceptabele vervanging. Wie de bain-marie wil overslaan: prak 2 hardgekookte eidooiers met 1 el goede mayonaise, 1 el olijfolie, paar druppels citroensap en een snuf zout tot een gladde crème — niet hetzelfde luchtige mousse-effect, maar werkbaar.\n\nPimentón de la Vera, niet gewone paprikapoeder: de Vera (Extremadura) is geroosterd boven eikenhout en geeft een rookachtige diepte die het gerecht onmiddellijk Spaans maakt. Een half theelepeltje op 6 tomaten is precies goed — meer wordt overheersend.\n\nSherry-azijn toevoegen ná het roosteren, niet ervoor: de azijn moet als spanning erbij, niet wegkoken. Hij voegt strakheid toe en breekt de zoetheid van de geconcentreerde tomaat.\n\nCantabrische ansjovis van topkwaliteit — niet substitueren: met één ansjovis per hapje hangt het hele concept op de kwaliteit. Codaca, Don Bocarte, Lolin of Maisor. Goedkope ansjovis is vlak en te zout en maakt dit gerecht onmogelijk.\n\nKrulpeterselie, geen platte peterselie: voor Spaanse pan con tomate is krulpeterselie authentieker — platte peterselie is Frans-Italiaans van karakter.",
+      "wines": [
+        {
+          "naam": "Manzanilla Sherry",
+          "druif": "Palomino Fino",
+          "toelichting": "Droog, fris en zilt, met aroma's van groene amandel, gist, gedroogde appel en zee-zoutigheid — Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Manzanilla bij ansjovis en tomaat is een van de meest klassieke Spaanse pairings, zoals in elke goede tapería in Andalusië wordt geschonken: de zilte zee-noten spiegelen direct de Cantabrische ansjovis, de gist-en-brood-aroma's verbinden met de pan de cristal, en de hoge zuren snijden feilloos door de eidooiermousse en de geconcentreerde tomaat-spread. Serveer op 6–8°C in een catavinos.",
+          "alternatief": "Godello (Valdeorras of Bierzo) — droog, peer, gele appel, hazelnoot en lei-mineraliteit (Godeval, Rafael Palacios Sorte O Soro, €10–18). Vollere ondersteuning dan sherry: gele appel en hazelnoot vinden de eidooiermousse en geroosterde tomaat, terwijl de lei-mineraliteit de ansjovis raakt. Breder verkrijgbaar in Nederland dan Manzanilla."
+        }
+      ],
+      "wine": {
+        "naam": "Manzanilla Sherry",
+        "druif": "Palomino Fino",
+        "toelichting": "Droog, fris en zilt, met aroma's van groene amandel, gist, gedroogde appel en zee-zoutigheid — Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Manzanilla bij ansjovis en tomaat is een van de meest klassieke Spaanse pairings, zoals in elke goede tapería in Andalusië wordt geschonken: de zilte zee-noten spiegelen direct de Cantabrische ansjovis, de gist-en-brood-aroma's verbinden met de pan de cristal, en de hoge zuren snijden feilloos door de eidooiermousse en de geconcentreerde tomaat-spread. Serveer op 6–8°C in een catavinos.",
+        "alternatief": "Godello (Valdeorras of Bierzo) — droog, peer, gele appel, hazelnoot en lei-mineraliteit (Godeval, Rafael Palacios Sorte O Soro, €10–18). Vollere ondersteuning dan sherry: gele appel en hazelnoot vinden de eidooiermousse en geroosterde tomaat, terwijl de lei-mineraliteit de ansjovis raakt. Breder verkrijgbaar in Nederland dan Manzanilla."
+      }
+    },
+    {
+      "source_recipe_number": 184,
+      "title": "Cecina de León met geconfijte Pedro Ximénez-peer en Manchego-tuile",
+      "slug": "cecina-leon-geconfijte-pedro-ximenez-peer-manchego-tuile",
+      "location": "Castilië en León / Andalusië",
+      "time": "30 min hands-on + 30 min afkoeltijd",
+      "servings": "12 stuks (3 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/cecina-leon-geconfijte-pedro-ximenez-peer-manchego-tuile.jpg",
+      "short_description": "Flinterdunne Cecina de León met een mini-blokje Pedro Ximénez-geconfijte peer, een krokante Manchego-tuile en een glanzende PX-lak.",
+      "description": "Een verfijnd alternatief op de klassieke chorizo-tapa: flinterdunne plakjes Cecina de León — gerookt en gedroogd rundvlees uit Castilië en León — luchtig gevouwen op een donker bordje. Daarnaast een mini-blokje peer geconfijt in Pedro Ximénez-sherry, een knapperige Manchego-tuile rechtop als visueel middelpunt, en een paar stippen ingekookte PX-lak. Chiquer, droger en rokeriger dan chorizo, met de diepte van Spaanse charcuterie op zijn best.",
+      "ingredient_groups": [
+        {
+          "group_name": "Cecina",
+          "ingredients": [
+            {
+              "name": "Cecina de León, flinterdun gesneden (1 mm)",
+              "amount": "100 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Geconfijte peer en PX-lak",
+          "ingredients": [
+            {
+              "name": "stevige peer (Conference of Doyenné du Comice)",
+              "amount": "1"
+            },
+            {
+              "name": "Pedro Ximénez-sherry",
+              "amount": "100 ml"
+            },
+            {
+              "name": "honing",
+              "amount": "1 tl"
+            },
+            {
+              "name": "roomboter",
+              "amount": "10 g"
+            },
+            {
+              "name": "takje verse tijm",
+              "amount": "1"
+            },
+            {
+              "name": "staafje kaneel (optioneel)",
+              "amount": "1"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Manchego-tuile",
+          "ingredients": [
+            {
+              "name": "oude Manchego (12 maanden of ouder), grof geraspt",
+              "amount": "60 g"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "pimentón de la Vera (optioneel)",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "kleine blaadjes waterkers",
+              "amount": "12"
+            },
+            {
+              "name": "Spaanse extra-vergine olijfolie (Picual)",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Peer pocheren en PX-lak maken",
+          "description": "Schil de peer, verwijder het klokhuis en snijd in mini-blokjes van 5 mm. Smelt de boter in een klein steelpannetje en voeg de PX, honing, tijm en eventueel kaneel toe. Voeg de peerblokjes toe en laat 8–10 minuten zachtjes pocheren tot de peer zacht maar nog stevig is en de PX is ingedikt tot een lichte siroop. Schep de peerblokjes eruit met een schuimspaan. Verwijder tijm en kaneel en laat het pocheervocht nog 1–2 minuten verder reduceren tot stroopconsistentie — het moet aan de lepel blijven hangen. Voeg zwarte peper toe en houd warm-lauw tot plating."
+        },
+        {
+          "action": "Manchego-tuiles bakken",
+          "description": "Verwarm de oven op 180°C en bekleed een bakplaat met bakpapier. Vorm 12 kleine hoopjes geraspt Manchego (ca. 5 g per stuk) als rondjes van 4 cm doorsnede. Strooi een minuscuul beetje zwarte peper en eventueel een snufje pimentón op elk hoopje. Bak 4–6 minuten tot diepgoudbruin en glanzend — houd de tuiles goed in het oog vanaf minuut 4, Manchego brandt snel. Haal direct na het bakken voorzichtig los met een paletmes terwijl ze nog warm en plooibaar zijn. Bewaar luchtdicht tot serveren."
+        },
+        {
+          "action": "Cecina op kamertemperatuur brengen",
+          "description": "Haal de cecina 15 minuten vóór serveren uit de koelkast — vet en rookaroma's komen pas op kamertemperatuur volledig tot leven. Snijd elk plakje in tweeën of drieën en vouw elk stukje losjes als satijn, niet plat."
+        },
+        {
+          "action": "Plating en serveren",
+          "description": "Plaats 3 gevouwen cecina-stukjes per bord in een driehoek of rij. Zet naast elke cecina één geconfijt peerblokje. Plaats één Manchego-tuile rechtop of schuin tegen de cecina voor verticale architectuur. Druppel 2–3 stippen ingedikte PX-lak naast de cecina op het bord. Plaats één blaadje waterkers per hapje, druppel wat olijfolie en geef een draai zwarte peper. Direct serveren."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de geconfijte peer en de PX-lak kunnen een dag vooraf worden gemaakt — aroma's verbinden zich en de lak wordt nog dieper van smaak. De Manchego-tuiles kunnen uren vooraf worden gebakken en luchtdicht worden bewaard. De cecina 15 minuten voor serveren uit de koelkast halen. Pas in de laatste 5 minuten assembleren — tuiles worden snel zacht door luchtvocht en de PX-lak droogt op.\n\nTechniek: de Manchego-tuile vraagt aandacht bij het bakken — diepgoudbruin is perfect, één minuut te lang maakt hem bitter. Houd de oven goed in de gaten vanaf minuut 4. Haal de tuiles direct los met een paletmes terwijl ze nog warm zijn; ze harden uit zodra ze afkoelen.\n\nPresentatie: gebruik kleine donkere bordjes van 14 cm (zwart leisteen, donker hout of donker keramiek). Drie gevouwen cecina-stukjes naast elkaar als drie satijnen bloemblaadjes. Het mahonie-rode van de cecina contrasteert met het lichtgouden peerblokje, de helderbruine tuile en het donkerglanzende PX-lakje. De tuile rechtop of schuin tegen de cecina geeft hoogte en is het visuele middelpunt. Houd negatieve ruimte rondom de drie composities.\n\nVariatie: gebruik Oloroso in plaats van Pedro Ximénez voor de peer — geeft een drogere, minder zoete en meer nootachtige route die ook prachtig werkt met de cecina.\n\nAlternatief: geen Cecina de León in de buurt? Bresaola of Coppa di Parma zijn acceptabele alternatieven — Italiaans en niet gerookt, maar even verfijnd van karakter.\n\nCecina de León van topkwaliteit is essentieel: echte gerookte gedroogde cecina uit León (Cecina Astorgana, El Aguazal of een goede artisanale variant), flinterdun gesneden door de slager op 1 mm.\n\nOude Manchego (12+ maanden), niet jong: jonge Manchego heeft te veel vocht en bakt niet goed tot tuile. Oude Manchego is droger en geeft een glanzende, krokante korst.\n\nPeer stevig houden: gebruik Conference of Doyenné du Comice, nooit een te rijpe peer. 8–10 minuten pocheren is genoeg — de blokjes moeten hun vorm behouden.",
+      "wines": [
+        {
+          "naam": "Oloroso Sherry Seco",
+          "druif": "Palomino Fino",
+          "toelichting": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer — Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Oloroso bij gedroogd Spaans rundvlees is gastronomisch onverslaanbaar: de walnoot-en-gedroogd-fruit-aroma's vinden de cecina en de PX-peer in dezelfde aromatische taal, de oxidatieve diepte respecteert de Manchego-tuile, en de stevige alcohol draagt het umami-rijke profiel feilloos. Serveer op 14–16°C in een catavinos.",
+          "alternatief": "Mencía (Bierzo, Castilië en León) — droog, medium-licht, granaatappel, kers, violet en mineraliteit (Descendientes de J. Palacios, Pittacum, €10–15, lichtjes gekoeld op 14–16°C). Perfecte regionale coherentie: Mencía komt uit dezelfde streek als de cecina, met een lichtere body en lagere tannine die beter past bij charcuterie-amuse dan een volle Rioja Reserva."
+        }
+      ],
+      "wine": {
+        "naam": "Oloroso Sherry Seco",
+        "druif": "Palomino Fino",
+        "toelichting": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer — Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Oloroso bij gedroogd Spaans rundvlees is gastronomisch onverslaanbaar: de walnoot-en-gedroogd-fruit-aroma's vinden de cecina en de PX-peer in dezelfde aromatische taal, de oxidatieve diepte respecteert de Manchego-tuile, en de stevige alcohol draagt het umami-rijke profiel feilloos. Serveer op 14–16°C in een catavinos.",
+        "alternatief": "Mencía (Bierzo, Castilië en León) — droog, medium-licht, granaatappel, kers, violet en mineraliteit (Descendientes de J. Palacios, Pittacum, €10–15, lichtjes gekoeld op 14–16°C). Perfecte regionale coherentie: Mencía komt uit dezelfde streek als de cecina, met een lichtere body en lagere tannine die beter past bij charcuterie-amuse dan een volle Rioja Reserva."
+      }
+    },
+    {
+      "source_recipe_number": 185,
+      "title": "Dorade op de huid met txakoli-manzanilla beurre blanc en zeewiercrisp",
+      "slug": "dorade-huid-txakoli-manzanilla-beurre-blanc-zeewiercrisp",
+      "location": "Baskenland",
+      "time": "50 min hands-on",
+      "servings": "4 personen",
+      "difficulty": "Gevorderd",
+      "keuken": "Spaans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/dorade-huid-txakoli-manzanilla-beurre-blanc-zeewiercrisp.jpg",
+      "short_description": "Dorade op de huid krokant gebakken op een sausspiegel van txakoli-manzanilla beurre blanc, met een schuin gezette zeewiercrisp van aardappel en nori.",
+      "description": "Een Baskische kustpintxo in zijn meest verfijnde vorm: dorade gebakken tot een glaszilvere krokante huid en sneeuwwitte kern, gepresenteerd op een glanzende sausspiegel van beurre blanc met txakoli en manzanilla. Daartegen schuin een flinterdunne zeewiercrisp van dakpansgewijs gelegde aardappelplakjes en verkruimelde nori. Vier elementen, drie kleuren, één compositie — Baskisch in elke vezel.",
+      "ingredient_groups": [
+        {
+          "group_name": "Dorade",
+          "ingredients": [
+            {
+              "name": "doradefilets met huid, ca. 60 g per stuk",
+              "amount": "4"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "10 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen witte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Txakoli-manzanilla beurre blanc",
+          "ingredients": [
+            {
+              "name": "txakoli (jonge Baskische witte)",
+              "amount": "80 ml"
+            },
+            {
+              "name": "manzanilla sherry",
+              "amount": "20 ml"
+            },
+            {
+              "name": "goede visfond",
+              "amount": "40 ml"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "sherry-azijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "koude ongezouten boter, in blokjes",
+              "amount": "100 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Zeewiercrisp",
+          "ingredients": [
+            {
+              "name": "grote vastkokende aardappel (Bintje of Charlotte)",
+              "amount": "1"
+            },
+            {
+              "name": "noriblad, zeer fijn verkruimeld",
+              "amount": "½"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "takjes zeekraal of fijne micro-blaadjes peterselie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "Spaanse extra-vergine olijfolie",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Zeewiercrisp maken",
+          "description": "Verwarm de oven op 180°C. Schil de aardappel en snijd met een mandoline in flinterdunne plakjes van 1–2 mm. Leg de plakjes dakpansgewijs op bakpapier in 4 kleine langwerpige rechthoeken van ca. 4 × 8 cm — elke plak overlappend als dakpannen. Bestrijk dun met olijfolie en bestrooi met zout en de verkruimelde nori. Dek af met bakpapier en leg een tweede bakplaat erop. Bak 15 minuten. Verwijder de bovenste bakplaat en het bakpapier en bak nog 4–6 minuten tot diepgouden en glasachtig krokant. Laat afkoelen op keukenpapier en bewaar luchtdicht tot serveren."
+        },
+        {
+          "action": "Beurre blanc maken",
+          "description": "Doe de txakoli, manzanilla, visfond, sjalot en sherry-azijn in een klein steelpannetje. Reduceer op middelhoog vuur tot ca. 2 eetlepels vocht — 5 tot 7 minuten. Zeef in een schoon pannetje en gooi de sjalot weg. Zet op zeer laag vuur en voeg de koude boterblokjes geleidelijk toe, steeds kloppend met een garde — elk blokje laten opnemen voordat het volgende erin gaat. De saus moet emulgeren tot een dikke, glanzende beurre blanc. Nooit laten koken — boven 80°C scheidt de saus. Breng op smaak met zout en paar druppels citroensap en houd lauwwarm op allerlaagste pitje."
+        },
+        {
+          "action": "Dorade bakken",
+          "description": "Dep de filets goed droog met keukenpapier — dit is essentieel voor een krokante huid. Kruid de huidkant licht met zout en witte peper. Verhit de olijfolie in een antiaanbakpan op hoog vuur tot rookpunt. Leg de filets met de huidkant naar beneden en druk de eerste 20 seconden lichtjes aan met een spatel zodat de huid plat blijft. Bak 3–4 minuten tot de huid diepgoudbruin en glasachtig is. Voeg in de laatste 30 seconden de boter toe. Draai om en bak nog 30–45 seconden op de vleeskant. Druppel paar druppels citroensap over de vis en haal van het vuur."
+        },
+        {
+          "action": "Plating en serveren",
+          "description": "Lepel een dunne ronde sausspiegel beurre blanc op elk bord (ca. 2 el). Leg de doradefilet centraal op de sausspiegel met de krokante huid naar boven. Zet de zeewiercrisp schuin tegen de vis voor verticale architectuur. Voeg enkele takjes zeekraal of peterselie-blaadjes toe naast de vis, druppel wat olijfolie en geef één draai zwarte peper. Direct serveren."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de zeewiercrisp kan tot een uur vooraf worden gemaakt en luchtdicht worden bewaard — daarna verliest hij zijn krokantheit snel door luchtvocht. De beurre blanc en de vis moeten binnen 15 minuten voor serveren worden bereid. Plan dus: crisp ruim van tevoren, alles wat daarna komt op het laatste moment.\n\nTechniek: de beurre blanc mag nooit koken — boven 80°C scheidt de emulsie en heb je gesmolten boter in plaats van een gladde saus. Houd het vuur op het allerlaagste pitje of gebruik een waterbad als je moet wachten. Te koud wordt de saus vast; te heet schift hij. Voeg de boterblokjes één voor één toe en klop steeds goed door.\n\nPresentatie: gebruik een wit of crèmewit bord van 20 cm. De ronde sausspiegel als ondergrond, de vis schuin met de krokante huid naar boven, de zeewiercrisp verticaal er tegenaan gezet. Drie texturen naast elkaar: gladde saus, krokante vishuid, glasachtige aardappel-nori-crisp. Direct serveren — de crisp verzacht door luchtvocht binnen 10 minuten.\n\nVariatie: vervang de dorade door wilde of gekweekte zeebaars — identieke techniek, iets luxer van karakter bij wilde variant. Of voeg vlak voor serveren een paar pareltjes forelkuit of kaviaar op de vishuid toe voor extra zeese diepte.\n\nAlternatief: geen txakoli? Gebruik een strakke droge witte met hoge zuren — Verdejo, Muscadet of een goede Albariño werken als acceptabele vervangers in de beurre blanc en geven een vergelijkbaar fris-zilt resultaat.\n\nVis met huid is onmisbaar: het hele concept hangt op de krokante huid. Vraag de visboer om mooie, gelijke filets met huid en laat ze niet onthuiden.\n\nDroogdeppen is de sleutelstap voor krokante huid: vocht in de pan betekent stomen in plaats van bakken. Dep de filets minutenlang droog met keukenpapier — meer dan je denkt nodig te hebben.\n\nManzanilla subtiel houden: 20 ml in de reductie is precies de juiste verhouding voor zilte sherry-spanning zonder dat de sherry gaat domineren.",
+      "wines": [
+        {
+          "naam": "Txakoli de Getaria",
+          "druif": "Hondarrabi Zuri",
+          "toelichting": "Droog, met citrus, groene appel, lichte ziltigheid, subtiele natuurlijke spritz en hoge zuren — Txomin Etxaniz, Ameztoi of Doniene Gorrondona (€12–18). Letterlijk de wijn uit de saus: hoge zuren snijden feilloos door de boterige beurre blanc, de ziltigheid raakt zowel de manzanilla als de nori in de crisp, en de subtiele spritz verfrist het palet tussen elke hap. Wat in elke goede Baskische txokoteca vanzelfsprekend aan tafel komt. Serveer ijskoud op 7–9°C.",
+          "alternatief": "Albariño (Rías Baixas, Galicië) — droog, witte perzik, citrus, witte bloemen en ziltigheid (Pazo de Señorans, Do Ferreiro, €10–18). Atlantische witte bij Atlantische vis: iets fruitiger en sappiger dan txakoli, geeft een rondere en iets vollere route bij dezelfde vis en beurre blanc."
+        }
+      ],
+      "wine": {
+        "naam": "Txakoli de Getaria",
+        "druif": "Hondarrabi Zuri",
+        "toelichting": "Droog, met citrus, groene appel, lichte ziltigheid, subtiele natuurlijke spritz en hoge zuren — Txomin Etxaniz, Ameztoi of Doniene Gorrondona (€12–18). Letterlijk de wijn uit de saus: hoge zuren snijden feilloos door de boterige beurre blanc, de ziltigheid raakt zowel de manzanilla als de nori in de crisp, en de subtiele spritz verfrist het palet tussen elke hap. Wat in elke goede Baskische txokoteca vanzelfsprekend aan tafel komt. Serveer ijskoud op 7–9°C.",
+        "alternatief": "Albariño (Rías Baixas, Galicië) — droog, witte perzik, citrus, witte bloemen en ziltigheid (Pazo de Señorans, Do Ferreiro, €10–18). Atlantische witte bij Atlantische vis: iets fruitiger en sappiger dan txakoli, geeft een rondere en iets vollere route bij dezelfde vis en beurre blanc."
+      }
+    },
+    {
+      "source_recipe_number": 186,
+      "title": "Navajas à la plancha met warme escabeche, peterselie-olie en Marcona-amandelkruim",
+      "slug": "navajas-plancha-warme-escabeche-peterselie-olie-marcona-amandelkruim",
+      "location": "Spaanse kust / Andalusië",
+      "time": "40 min hands-on",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/navajas-plancha-warme-escabeche-peterselie-olie-marcona-amandelkruim.jpg",
+      "short_description": "Verse scheermessen à la plancha in hun eigen schelp, genappeerd met een lauwwarme escabeche van tomaat, manzanilla en jerez-azijn, afgewerkt met peterselie-olie en Marcona-amandelkruim.",
+      "description": "Pure Spaanse zeevruchtenbar in verfijnde vorm: verse navajas à la plancha kort opengeknapt in de hete pan, dan in hun eigen schelp afgewerkt met een lauwwarme escabeche van geraspte rijpe tomaat, sjalot, jerez-azijn en een scheutje manzanilla. Afgemaakt met heldergroene peterselie-olie, knapperig Marcona-amandelkruim en een minuscule citroenrasp. Rauw zilt zee-aroma, warme zoete tomaat, sherry-zilt en amandel-crunch in één hap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Navajas",
+          "ingredients": [
+            {
+              "name": "verse navajas (scheermessen) in schelp",
+              "amount": "8–12"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Warme escabeche",
+          "ingredients": [
+            {
+              "name": "rijpe tomaten (San Marzano of Tasty Tom), op grove rasp geraspt",
+              "amount": "2"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "teentje knoflook, zeer fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "extra-vergine olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "jerez-azijn (sherry-azijn)",
+              "amount": "1 el"
+            },
+            {
+              "name": "manzanilla sherry",
+              "amount": "1 el"
+            },
+            {
+              "name": "pimentón dulce",
+              "amount": "snufje"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Peterselie-olie",
+          "ingredients": [
+            {
+              "name": "milde olijfolie",
+              "amount": "30 ml"
+            },
+            {
+              "name": "verse platte peterselie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Marcona-amandelkruim",
+          "ingredients": [
+            {
+              "name": "Marcona-amandelen",
+              "amount": "30 g"
+            },
+            {
+              "name": "zeezout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "micro-blaadjes peterselie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "citroenrasp",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "grof zeezout (als bedje)",
+              "amount": "royaal"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Navajas ontzanden (optioneel)",
+          "description": "Leg de navajas 20 minuten in koud gezouten water zodat eventueel zand eruit trekt. Spoel daarna grondig af. Bij een goede vishandel zijn ze meestal al schoon — sla deze stap dan over."
+        },
+        {
+          "action": "Marcona-amandelkruim maken",
+          "description": "Doe de Marcona-amandelen in een droge pan op middelhoog vuur. Rooster al schuddend 5 minuten tot diepgouden. Strooi er een snufje zout over, laat afkoelen en hak grof tot kruim — niet te fijn. Zet apart."
+        },
+        {
+          "action": "Peterselie-olie maken",
+          "description": "Mix de olijfolie met de peterselie en het zout 30 seconden met een staafmixer tot heldergroen. Zeef door een fijne zeef of theefilter en zet apart."
+        },
+        {
+          "action": "Warme escabeche maken",
+          "description": "Rasp de tomaten op een grove rasp boven een schaaltje — de vellen blijven achter, het vruchtvlees komt in het schaaltje. Knijp lichtjes uit. Verhit de olijfolie in een klein pannetje en fruit de sjalot en knoflook 2 minuten tot zacht. Voeg de geraspte tomaat, pimentón, zout en peper toe en laat 5–7 minuten zacht pruttelen tot de saus is ingedikt en glanst. Voeg de jerez-azijn en manzanilla toe en laat nog 1 minuut trekken op laag vuur — niet helemaal doorkoken, de alcohol moet deels aanwezig blijven. Houd lauwwarm."
+        },
+        {
+          "action": "Navajas à la plancha bakken",
+          "description": "Verhit een grote pan met dikke bodem op zeer hoog vuur met een minimale hoeveelheid olijfolie. Zodra het rookpunt is bereikt, leg de navajas erin. Bak 30–60 seconden tot ze openstaan — direct uit de pan halen zodra ze opengaan. Niet overkoken, het vlees moet kort en sappig blijven. Verwijder voorzichtig het vlees, snijd het donkere mantelvliesje weg en leg het vlees terug in de mooiste schelphelft. Druppel paar druppels citroensap over."
+        },
+        {
+          "action": "Plating en serveren",
+          "description": "Strooi royaal grof zeezout op elk donker bordje of leistenen plankje als ondergrond. Leg 2–3 gevulde schelpen per persoon in parallelle rijen op het zoutbedje. Lepel 1 koffielepel warme escabeche over elke navaja — niet te veel, het vlees moet zichtbaar blijven. Druppel peterselie-olie rondom en gedeeltelijk op elke schelp. Strooi het Marcona-amandelkruim royaal over de navajas. Plaats één micro-blaadje peterselie op elke schelp, rasp heel weinig citroen over de top en geef één draai zwarte peper. Direct lauwwarm serveren."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de peterselie-olie, het Marcona-amandelkruim en de escabeche kunnen van tevoren worden klaargemaakt — de navajas bak je pas op het allerlaatste moment. Voeg het amandelkruim pas toe bij het serveren, anders wordt het zacht door het sausvocht.\n\nTechniek: à la plancha betekent hoog vuur en weinig tijd — 30 tot 60 seconden is alles wat de navajas nodig hebben. Zodra de schelpen openstaan zijn ze gaar. Langer in de pan betekent rubberachtig vlees, wat het gerecht direct om zeep helpt. Haal ze direct en zonder aarzelen uit de pan.\n\nPresentatie: gebruik donkere bordjes of leistenen plankjes met een bedje van grof zeezout als ondergrond — dat geeft de schelpen een stabiele basis en ziet er direct restaurant-waardig uit. De zilverwitte navajas-schelpen contrasteren met het roodoranje van de escabeche, het helder groen van de peterselie-olie en het goudbruin van het amandelkruim. Lauwwarm serveren is het magische woord — koud verliest het gerecht zijn charme.\n\nVariatie: geen navajas beschikbaar? Vongole of kleinformaat mosselen werken als acceptabel alternatief — dezelfde techniek (à la plancha, escabeche napperen) geeft een vergelijkbaar resultaat.\n\nAlternatief: geen jerez-azijn? Rode wijnazijn is een acceptabel alternatief — gebruik geen balsamico, dat overheerst het delicate karakter van de schelpdieren en ruïneert het Spaanse profiel.\n\nMarcona-amandel is niet inwisselbaar voor gewone amandel: Marcona is platter, zoeter en romiger van karakter — een Spaanse signature die het gerecht coherent houdt. Te vinden bij Spaanse winkels of online.\n\nPimentón dulce, niet gerookt: gerookte pimentón zou de delicate navajas overheersen. De dulce-variant is subtieler en laat het zee-aroma van de schelpdieren intact.\n\nHet mantelvliesje verwijderen: het donkere randje is technisch eetbaar maar minder mooi en iets bittig van smaak. Restaurant-stijl is altijd verwijderen voordat het vlees teruggelegd wordt in de schelp.",
+      "wines": [
+        {
+          "naam": "Manzanilla Sherry",
+          "druif": "Palomino Fino",
+          "toelichting": "Droog, zilt, gist en amandel met een frisse mineraliteit — Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Manzanilla zit al in de saus en is de meest klassieke Spaanse pairing bij scheermessen — in Sanlúcar de Barrameda is dit de absolute standaard aan tafel: de ziltigheid spiegelt direct het zee-aroma van de navajas, de gist-en-amandel-noten verbinden met het Marcona-amandelkruim, en de droogte snijdt feilloos door de warme escabeche. Serveer op 6–8°C in een catavinos.",
+          "alternatief": "Albariño (Rías Baixas, Galicië) — droog, witte perzik, citrus, witte bloemen en ziltigheid (Pazo de Señorans, Do Ferreiro, €10–18). Klassieke Atlantische witte bij Atlantische scheermessen: iets fruitiger en sappiger dan Manzanilla, maar de ziltigheid raakt de schelpdieren en de hoge zuren snijden even goed door de escabeche."
+        }
+      ],
+      "wine": {
+        "naam": "Manzanilla Sherry",
+        "druif": "Palomino Fino",
+        "toelichting": "Droog, zilt, gist en amandel met een frisse mineraliteit — Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Manzanilla zit al in de saus en is de meest klassieke Spaanse pairing bij scheermessen — in Sanlúcar de Barrameda is dit de absolute standaard aan tafel: de ziltigheid spiegelt direct het zee-aroma van de navajas, de gist-en-amandel-noten verbinden met het Marcona-amandelkruim, en de droogte snijdt feilloos door de warme escabeche. Serveer op 6–8°C in een catavinos.",
+        "alternatief": "Albariño (Rías Baixas, Galicië) — droog, witte perzik, citrus, witte bloemen en ziltigheid (Pazo de Señorans, Do Ferreiro, €10–18). Klassieke Atlantische witte bij Atlantische scheermessen: iets fruitiger en sappiger dan Manzanilla, maar de ziltigheid raakt de schelpdieren en de hoge zuren snijden even goed door de escabeche."
+      }
+    },
+    {
+      "source_recipe_number": 187,
+      "title": "Torrija van pan de aceite met chocoladecrème, olijfolie en fleur de sel",
+      "slug": "torrija-pan-de-aceite-chocoladecreme-olijfolie-fleur-de-sel",
+      "location": "Andalusië / Spanje",
+      "time": "30 min hands-on + 1 uur weken",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "dessert",
+      "image": "/assets/images/torrija-pan-de-aceite-chocoladecreme-olijfolie-fleur-de-sel.jpg",
+      "short_description": "Klassieke Spaanse torrija van pan de aceite met een gekaramelliseerde korst, donkere chocoladecrème met olijfolie en een snufje fleur de sel.",
+      "description": "De klassieke Spaanse paas-torrija in zijn meest gewaagde, verfijnde vorm: een mini-blokje pan de aceite geweekt in geïnfuseerde melk met sinaasappelschil, vanille en kaneel, goudbruin gebakken in boter en olijfolie en in de pan gekaramelliseerd tot een echte glanzende karamelkorst. Afgewerkt met een dunne artistieke veeg donkere chocoladecrème met olijfolie erin verwerkt, een paar druppels topkwaliteit olijfolie en een snufje fleur de sel. Spaanse zoete barcultuur in restaurantprecisie.",
+      "ingredient_groups": [
+        {
+          "group_name": "Torrija",
+          "ingredients": [
+            {
+              "name": "blokjes pan de aceite, brioche of zacht witbrood (ca. 5 × 4 × 3 cm)",
+              "amount": "4"
+            },
+            {
+              "name": "volle melk",
+              "amount": "150 ml"
+            },
+            {
+              "name": "volle slagroom",
+              "amount": "100 ml"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "vanillestokje, opengespleten",
+              "amount": "1"
+            },
+            {
+              "name": "schil van halve sinaasappel (alleen oranje deel)",
+              "amount": "1"
+            },
+            {
+              "name": "staafje kaneel",
+              "amount": "½"
+            },
+            {
+              "name": "ei, losgeklopt",
+              "amount": "1"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "ongezouten roomboter",
+              "amount": "30 g"
+            },
+            {
+              "name": "milde olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "extra kristalsuiker (voor karamelliseren)",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Chocoladecrème",
+          "ingredients": [
+            {
+              "name": "pure chocolade (65–75% cacao)",
+              "amount": "80 g"
+            },
+            {
+              "name": "volle slagroom",
+              "amount": "80 ml"
+            },
+            {
+              "name": "goede olijfolie (Picual of DOP)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "goede olijfolie (Picual of vergelijkbaar)",
+              "amount": "1 el"
+            },
+            {
+              "name": "vlokjes fleur de sel (Maldon of Sal de Cádiz)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijne sinaasappelrasp-flinters",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "micro-blaadje munt of basilicum (optioneel)",
+              "amount": "4"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Melk infuseren",
+          "description": "Verhit de melk, slagroom, suiker, het opengespleten vanillestokje, de sinaasappelschil, kaneel en een snufje zout in een steelpannetje tot net onder kookpunt. Laat 15 minuten trekken op laag vuur. Zeef het mengsel in een schaal en laat afkoelen tot lauwwarm. Klop het losgeklopte ei erdoor — de melk moet lauwwarm zijn, niet heet, anders garen de eieren direct."
+        },
+        {
+          "action": "Brood weken",
+          "description": "Leg de broodblokjes in het weekmengsel. Ze moeten goed doordrenkt zijn maar niet uit elkaar vallen — 30 minuten tot 1 uur, voorzichtig halverwege keren. Niet langer laten weken. Laat kort uitlekken op een rooster vóór het bakken."
+        },
+        {
+          "action": "Chocoladecrème maken",
+          "description": "Verhit de slagroom tot net onder kookpunt en schenk over de fijngehakte chocolade in een schaal. Laat 1 minuut staan en roer langzaam tot een gladde, glanzende ganache. Roer de olijfolie en het zeezout erdoor. Houd lauwwarm op ca. 25°C — smeerbaar maar niet vloeibaar."
+        },
+        {
+          "action": "Torrija bakken en karamelliseren",
+          "description": "Verhit de boter en olijfolie in een antiaanbakpan op middelhoog vuur. Bak de geweekte blokjes 1–2 minuten per zijde tot diepgoudbruin — de binnenkant moet zacht en romig blijven. Strooi de extra suiker licht over de torrija in de pan en laat 30–60 seconden karamelliseren tot een glanzende korst. Houd het goed in de gaten — suiker brandt snel."
+        },
+        {
+          "action": "Plating en serveren",
+          "description": "Plaats per bord 1 mini-torrija centraal op een klein donker bordje van 16 cm. Lepel of spuit een dunne artistieke veeg chocoladecrème naast en gedeeltelijk over de torrija (6–8 cm, niet alles bedekkend). Druppel 3–4 druppels topkwaliteit olijfolie over de chocolade. Strooi enkele vlokken fleur de sel over de torrija en de chocoladecrème. Voeg een paar fijne sinaasappelrasp-flinters toe en eventueel één klein blaadje munt of basilicum. Direct serveren — de torrija is slechts 3 minuten op zijn absolute best."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de geïnfuseerde melk kan een dag vooraf worden gemaakt en gekoeld bewaard — de smaken worden er alleen maar dieper van. De chocoladecrème kan een uur vooraf worden gemaakt en lauwwarm gehouden op ca. 25°C. De torrija bak je pas op het allerlaatste moment — lauw geworden is een mislukking.\n\nTechniek: het karamelliseren in de pan is geen optie maar een vereiste. Strooi de extra suiker over de hete torrija in de pan en laat 30 tot 60 seconden knappen tot een glanzende korst — dit is wat het onderscheid maakt tussen een wentelteefje en een authentieke torrija. Houd het vuur goed in de gaten, suiker brandt in seconden.\n\nPresentatie: gebruik een klein donker bordje van 16 cm. De torrija centraal met zijn gekaramelliseerde glanzende korst, de donkere chocoladecrème als artistieke veeg ernaast — niet alles bedekkend. De gouden olijfolie-druppels als glansaccenten, de witte zoutvlokken als verspreide stippen, de oranje sinaasappelflinters als kleurpuntjes. Eén micro-blaadje groen voor contrast. Direct serveren.\n\nVariatie: strooi extra suiker over de torrija en brand met een crème brûlée-brander aan tafel — extra theater voor speciale gelegenheden. Of voeg ½ tl instant espresso aan de ganache toe voor extra diepte in de chocoladecrème.\n\nAlternatief: geen pan de aceite? Brioche of challah zijn de beste alternatieven — gewoon witbrood is te plat van smaak en structuur en geeft een teleurstellend resultaat.\n\nEi in het weekmengsel, niet apart: authentiek-Spaans en beter — het brood absorbeert melk en ei in één bewerking, wat de structuur en samenhang ten goede komt. Geen apart eierbad.\n\nBoter én olijfolie als bakvet: pure boter verbrandt te snel, pure olie geeft te weinig smaakdepth. De combinatie geeft precies de juiste goudbruine korst met de juiste smaakdepth.\n\nPure chocolade (65–75% cacao), nooit melkchocolade: donker genoeg om de zoete torrija te balanceren. Melkchocolade is te zoet en mist de bitterheid die het contrast met de fleur de sel en olijfolie nodig heeft.",
+      "wines": [
+        {
+          "naam": "Pedro Ximénez Sherry",
+          "druif": "Pedro Ximénez",
+          "toelichting": "Zwartbruin, zeer zoet en complex, met aroma's van rozijn, vijg, dadel, koffie, gedroogd fruit en chocolade — González Byass Nectar, Lustau San Emilio PX of Bodegas Tradición PX (€15–25 per 50 cl). PX bij chocolade is een van de meest klassieke pairings ter wereld: de rozijn-en-vijg-aroma's vinden de sinaasappel en kaneel in de torrija, de chocoladetonen in de wijn versterken de chocoladecrème, en de zoete diepte balanceert het zout op de top. Spaans-Andalusisch in elke vezel. Serveer lichtjes gekoeld op 14–16°C in kleine glaasjes.",
+          "alternatief": "Moscatel de Valencia — versterkte zoete wijn met sinaasappelbloesem, honing, druif en lichte muskaat (Olivares, €8–14). Frisser en bloemiger dan PX, met sinaasappel-aroma's die direct spiegelen wat in de torrija zit — voor wie minder diepe rijkheid wil en €5–10 wil besparen."
+        }
+      ],
+      "wine": {
+        "naam": "Pedro Ximénez Sherry",
+        "druif": "Pedro Ximénez",
+        "toelichting": "Zwartbruin, zeer zoet en complex, met aroma's van rozijn, vijg, dadel, koffie, gedroogd fruit en chocolade — González Byass Nectar, Lustau San Emilio PX of Bodegas Tradición PX (€15–25 per 50 cl). PX bij chocolade is een van de meest klassieke pairings ter wereld: de rozijn-en-vijg-aroma's vinden de sinaasappel en kaneel in de torrija, de chocoladetonen in de wijn versterken de chocoladecrème, en de zoete diepte balanceert het zout op de top. Spaans-Andalusisch in elke vezel. Serveer lichtjes gekoeld op 14–16°C in kleine glaasjes.",
+        "alternatief": "Moscatel de Valencia — versterkte zoete wijn met sinaasappelbloesem, honing, druif en lichte muskaat (Olivares, €8–14). Frisser en bloemiger dan PX, met sinaasappel-aroma's die direct spiegelen wat in de torrija zit — voor wie minder diepe rijkheid wil en €5–10 wil besparen."
+      }
+    },
+    {
+      "source_recipe_number": 188,
+      "title": "Mossel in de schelp met tomaat-oloroso-saus en gegrilde eidooierroom",
+      "slug": "mossel-schelp-tomaat-oloroso-saus-gegrilde-eidooierroom",
+      "location": "Andalusië / Spanje",
+      "time": "50 min hands-on",
+      "servings": "12 stuks (3 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/mossel-schelp-tomaat-oloroso-saus-gegrilde-eidooierroom.jpg",
+      "short_description": "Verse mossel in de schelp met een geconcentreerde tomaat-oloroso-saus en een glanzende gegrilde eidooierroom — warme Andalusische zee-tapa op zijn best.",
+      "description": "Een mossel in de schelp, gedekt door een geconcentreerde saus van geraspte tomaat, oloroso-sherry, mosselvocht en pimentón de la Vera, met daarboven een dunne laag eidooierroom die kort onder de grill stolt tot een glanzende gouden korst. Spaanse huevos rotos-techniek ontmoet zee-tapa: warm, zilt, umami-rijk en bedwelmend Andalusisch van karakter.",
+      "ingredient_groups": [
+        {
+          "group_name": "Mosselen",
+          "ingredients": [
+            {
+              "name": "verse Zeeuwse mosselen",
+              "amount": "1 kg"
+            },
+            {
+              "name": "droge witte wijn of water",
+              "amount": "100 ml"
+            },
+            {
+              "name": "sjalot, grof gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "teentje knoflook, gekneusd",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Tomaat-oloroso-saus",
+          "ingredients": [
+            {
+              "name": "rijpe tomaten (San Marzano), op grove rasp geraspt",
+              "amount": "2"
+            },
+            {
+              "name": "kleine sjalot, zeer fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "teentje knoflook, zeer fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "oloroso-sherry",
+              "amount": "40 ml"
+            },
+            {
+              "name": "gezeefd mosselvocht",
+              "amount": "50 ml"
+            },
+            {
+              "name": "pimentón de la Vera (gerookt)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "goede olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Eidooierroom",
+          "ingredients": [
+            {
+              "name": "verse eidooiers",
+              "amount": "2"
+            },
+            {
+              "name": "volle slagroom",
+              "amount": "1 el"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "witte peper",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "micro-blaadjes peterselie",
+              "amount": "12"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "peterselie-olie of olijfolie",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "grof zeezout (als bedje)",
+              "amount": "royaal"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Mosselen koken en scheiden",
+          "description": "Spoel de mosselen onder koud stromend water en gooi gebroken of open mosselen die niet sluiten weg. Breng de witte wijn met de grof gehakte sjalot en knoflook aan de kook in een ruime pan met deksel. Voeg de mosselen toe, deksel erop, en kook 3–5 minuten al schuddend tot ze open zijn. Haal ze direct uit de pan zodra ze opengaan — niet doorgaren. Verwijder één helft van elke schelp en laat de mossel in de mooiste helft liggen. Selecteer de 12 mooiste gevulde schelpen. Zeef het mosselvocht en bewaar 50 ml."
+        },
+        {
+          "action": "Tomaat-oloroso-saus maken",
+          "description": "Verhit de olijfolie in een klein steelpannetje en fruit de fijn gehakte sjalot en knoflook 2 minuten tot zacht. Voeg de geraspte tomaat en de pimentón toe en bak 4–5 minuten tot de tomaat is ingedikt en glanst. Voeg de oloroso en het gezeefd mosselvocht toe en reduceer 3–4 minuten tot een dikke, zalmkleurige saus die als spread aan de lepel blijft hangen — niet vloeibaar. Breng op smaak met zout en peper."
+        },
+        {
+          "action": "Eidooierroom maken",
+          "description": "Klop de 2 eidooiers met de slagroom, het citroensap, zout en witte peper in een schaaltje tot een gladde room. Niet opkloppen tot schuim — gewoon glad roeren."
+        },
+        {
+          "action": "Mosselen vullen en onder de grill stollen",
+          "description": "Verwarm de grill voor op 210°C. Verdeel 1 theelepel tomaat-oloroso-saus over elke mossel — de saus moet de mossel deels bedekken maar niet overspoelen. Lepel 1 theelepel eidooierroom over de tomaat als dunne laag. Plaats de schelpen op een ovenrooster of vuurvaste schaal en zet dichtbij de hete grill. Grill 1–2 minuten tot de eidooierroom glanzend stolt en lichtjes goudbruin wordt. Houd goed in de gaten — zodra gestold en glanzig direct eruit halen, niet verder gratineren."
+        },
+        {
+          "action": "Plating en serveren",
+          "description": "Strooi royaal grof zeezout op elk donker bordje of leistenen plankje als ondergrond. Plaats 3 gevulde schelpen per bord in een driehoek of rij op het zoutbedje. Plaats één micro-blaadje peterselie op elke mossel, druppel peterselie-olie of olijfolie rondom de schelpen en geef één draai zwarte peper. Direct warm serveren."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de tomaat-oloroso-saus en de eidooierroom kunnen 30 minuten vooraf worden bereid en apart worden bewaard. De mosselen kook je vlak voor serveren, de vulling en het gratineren op het allerlaatste moment — het hele concept hangt op de warmte van het gerecht.\n\nTechniek: de eidooierroom moet dun worden aangebracht — 1 theelepel per mossel is precies genoeg voor de glanzende goudgele laag. Te dik wordt zwaar en eierachtig. Grill heet en dichtbij: bij de juiste afstand stolt de room in 1 minuut. Te ver weg smelt het ei door het tomatenvocht; te dichtbij verbrandt het. Eidooier moet zacht gestold zijn met glans, niet droog als een kaasgratin.\n\nPresentatie: gebruik kleine donkere bordjes of leistenen plankjes met een bedje van grof zeezout. Drie schelpen per persoon in driehoek of rij. De zwarte schelpen contrasteren met de zalmkleurige tomatensaus en het diepgouden gegrilde eidooierlaagje. Één groen accent van peterselie per schelp houdt het fris. Direct warm serveren — lauw is al verlies.\n\nVariatie: leg een minuscuul plakje Ibérico-jamón of een Cantabrische ansjovisfilet op de mossel ónder de tomatensaus voor extra umami-diepte — Spaans-coherent en nog rijker van karakter.\n\nAlternatief: wil je de grill overslaan? Lepel alleen de tomatensaus warm over de mosselen zonder de eidooierroom. Werkt ook goed, maar mist het Michelin-element van het zachte gele harnas dat het gerecht zo bijzonder maakt.\n\nOloroso, niet Fino of Manzanilla: de volle oxidatieve rijkheid van oloroso past bij de warme tomatensaus. Delicate Fino of Manzanilla valt weg in dit profiel — reserveer die voor koude en lichte zeevruchten.\n\nPimentón de la Vera gerookt, niet dulce: de rookachtige diepte geeft Andalusische identiteit en past perfect bij de oloroso. Dulce is hier te zacht en mist de nodige kracht.\n\nSaus goed inkoken is niet optioneel: een te vloeibare saus loopt uit de schelp en maakt de presentatie onmogelijk. Reduceer tot de saus als een dikke spread op de mossel blijft liggen.",
+      "wines": [
+        {
+          "naam": "Oloroso Sherry Seco",
+          "druif": "Palomino Fino",
+          "toelichting": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer — Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Oloroso zit al in de saus zelf en geeft daarmee gastronomische coherentie die weinig wijnen kunnen evenaren: de oxidatieve diepte versterkt de tomaat, het mosselvocht en de pimentón, terwijl de stevige alcohol het umami-rijke eidooier-en-tomaat-profiel feilloos draagt zonder zelf te overheersen. Serveer licht gekoeld op 14–16°C in een catavinos.",
+          "alternatief": "Godello (Valdeorras, Galicië) — droog, peer, gele appel, hazelnoot en lei-mineraliteit (Godeval, Rafael Palacios Sorte O Soro, €10–18). Een vollere witte met genoeg body voor de warme saus en mossel: de hazelnoot-tonen verbinden met de oloroso in de saus, de lei-mineraliteit raakt de zoutigheid van de mossel, en de frisse zuren snijden door de rijke eidooierroom."
+        }
+      ],
+      "wine": {
+        "naam": "Oloroso Sherry Seco",
+        "druif": "Palomino Fino",
+        "toelichting": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer — Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Oloroso zit al in de saus zelf en geeft daarmee gastronomische coherentie die weinig wijnen kunnen evenaren: de oxidatieve diepte versterkt de tomaat, het mosselvocht en de pimentón, terwijl de stevige alcohol het umami-rijke eidooier-en-tomaat-profiel feilloos draagt zonder zelf te overheersen. Serveer licht gekoeld op 14–16°C in een catavinos.",
+        "alternatief": "Godello (Valdeorras, Galicië) — droog, peer, gele appel, hazelnoot en lei-mineraliteit (Godeval, Rafael Palacios Sorte O Soro, €10–18). Een vollere witte met genoeg body voor de warme saus en mossel: de hazelnoot-tonen verbinden met de oloroso in de saus, de lei-mineraliteit raakt de zoutigheid van de mossel, en de frisse zuren snijden door de rijke eidooierroom."
+      }
+    },
+    {
+      "source_recipe_number": 189,
+      "title": "Mini-tartelette van Amontillado-kipstoof met kersen-sherrylak en granaatappel",
+      "slug": "mini-tartelette-amontillado-kipstoof-kersen-sherrylak-granaatappel",
+      "location": "Baskenland / Andalusië",
+      "time": "60 min hands-on + 25 min stooftijd",
+      "servings": "8 stuks (2 per persoon)",
+      "difficulty": "Gevorderd",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mini-tartelette-amontillado-kipstoof-kersen-sherrylak-granaatappel.jpg",
+      "short_description": "Hartig mini-gebakje gevuld met kipdij gestoofd in Amontillado-sherry, afgewerkt met een glanzende kersen-sherrylak, robijnrode granaatappelpitjes en Marcona-amandelkruim.",
+      "description": "Een hartig mini-gebakje dat eruitziet als patisserie maar diep Spaans en hartig smaakt. Een open mini-bakje van zelfgemaakt knapperig deeg, gevuld met kipdij langzaam gestoofd in Amontillado-sherry met sjalot, kastanjechampignons en amandel. Afgewerkt met een glanzende kersen-sherrylak, robijnrode granaatappelpitjes en geroosterd Marcona-amandelkruim. Baskische bistro-klassiek getild naar Michelin-amuse-niveau.",
+      "ingredient_groups": [
+        {
+          "group_name": "Deeg (8 mini-bakjes van 5–6 cm)",
+          "ingredients": [
+            {
+              "name": "bloem",
+              "amount": "150 g"
+            },
+            {
+              "name": "koude boter, in blokjes",
+              "amount": "75 g"
+            },
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "ijskoud water",
+              "amount": "2 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "extra eidooier, losgeklopt (voor goudglans)",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Kipvulling",
+          "ingredients": [
+            {
+              "name": "kipdijfilet, in blokjes van 1 cm",
+              "amount": "300 g"
+            },
+            {
+              "name": "middelgrote sjalot, fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "kastanjechampignons, fijn gesneden",
+              "amount": "100 g"
+            },
+            {
+              "name": "Amontillado- of Oloroso-sherry",
+              "amount": "50 ml"
+            },
+            {
+              "name": "goede kippenfond",
+              "amount": "50 ml"
+            },
+            {
+              "name": "amandelmeel of zeer fijngehakte geroosterde amandel",
+              "amount": "1 el"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "1 tl"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Kersen-sherrylak",
+          "ingredients": [
+            {
+              "name": "verse of diepvries morellen of zwarte kersen (zonder pit)",
+              "amount": "50 g"
+            },
+            {
+              "name": "Amontillado- of Oloroso-sherry",
+              "amount": "50 ml"
+            },
+            {
+              "name": "honing",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "granaatappel (3–5 pitjes per taartje)",
+              "amount": "1"
+            },
+            {
+              "name": "geroosterd Marcona-amandelkruim",
+              "amount": "1 el"
+            },
+            {
+              "name": "micro-blaadjes kervel of platte peterselie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Deeg maken en koelen",
+          "description": "Meng de bloem, het zout en de koude boterblokjes snel tot een kruimelig mengsel. Voeg de eidooier en het ijskoude water toe en vorm tot een bal — niet te lang kneden. Wikkel in folie en laat 30 minuten koelen in de koelkast."
+        },
+        {
+          "action": "Bakjes uitrollen en blind bakken",
+          "description": "Verwarm de oven op 180°C. Rol het deeg uit op een licht bebloemd werkblad tot 3 mm dik. Steek 8 rondjes uit van 7–8 cm doorsnede. Druk in de mini-tartelette- of mini-muffinvormpjes en snijd het overhangende deeg weg. Prik de bodems in met een vork en bestrijk lichtjes met de losgeklopte eidooier. Leg een stukje bakpapier in elk vormpje en vul met bakbonen of rijst. Bak 12 minuten, verwijder de bonen en het bakpapier en bak nog 4–6 minuten tot diepgouden en knapperig. Laat afkoelen."
+        },
+        {
+          "action": "Kipvulling stoven",
+          "description": "Verhit de olijfolie en boter in een sauteerpan op hoog vuur. Bak de kipblokjes 3 minuten tot lichtgouden — niet doorgaren. Haal uit de pan. Fruit de sjalot in dezelfde pan 3 minuten tot zacht. Voeg de kastanjechampignons toe en bak 4 minuten tot goudbruin en het meeste vocht verdampt is. Blus met de Amontillado en kippenfond, breng aan de kook, draai het vuur laag en voeg de kip terug. Stoof 18–20 minuten met half-deksel tot de kip mals is en de saus is ingedikt. Roer het amandelmeel en de crème fraîche erdoor. Proef en stel af — de saus moet dik en glanzend zijn, niet vloeibaar."
+        },
+        {
+          "action": "Kersen-sherrylak maken",
+          "description": "Doe de kersen, sherry, honing, zout en peper in een klein steelpannetje. Breng aan de kook en druk de kersen lichtjes plat met een vork. Laat 5–7 minuten indikken tot stroopconsistentie. Houd warm-lauw tot serveren."
+        },
+        {
+          "action": "Vullen, afwerken en serveren",
+          "description": "Verdeel de warme kipstoof over de 8 gebakken bakjes — vol maar niet overlopend. Bestrijk elk bakje met een dunne streep kersen-sherrylak. Leg 3–5 verse granaatappelpitjes op elk taartje. Strooi het Marcona-amandelkruim royaal over. Plaats 2–3 kervel- of peterselieblaadjes en geef één draai zwarte peper. Direct serveren — het bakje moet warm zijn; de lak begint te stollen na 10 minuten."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de gebakken lege bakjes en de kipvulling kunnen een dag vooraf worden gemaakt en apart worden bewaard. De kersen-sherrylak maak je vlak voor serveren. Pas op het allerlaatste moment vullen — anders wordt het knapperige deeg zacht door het vocht van de vulling.\n\nTechniek: paddenstoelen droog bakken vóór het stoven is niet optioneel. Wacht tot het meeste vocht is verdampt voordat je blust — anders krijg je een waterige saus die nooit goed indikt. De saus moet aan het einde dik en glanzend zijn, niet vloeibaar.\n\nPresentatie: gebruik een klein donker of wit bordje van 18–20 cm. Twee taartjes per persoon naast elkaar of in een driehoek met het derde groen accent. Het diepe gouden deeg, de donkere kipstoof, de glanzende kersen-sherrylak en de helderrode granaatappelpitjes vormen drie warme tinten met één felrood accent. De Marcona-amandelkruim als gouden textuurlaag bovenop. Direct serveren — na 10 minuten begint de lak te stollen.\n\nVariatie: in het wildseizoen werkt hertekalf of fazant in plaats van kipdij nog beter bij de Amontillado en de kersen-sherrylak. Of voeg een paar geschaafde zwarte truffelflinters toe vlak voor serveren voor extra luxe diepte.\n\nAlternatief voor de kersenlak: 2 el goede kersenjam + 1 el sherry-azijn + 1 el Amontillado + snufje zout, kort opwarmen tot glanzend. Snel, consistent en altijd op voorraad.\n\nAlternatief voor zelfgemaakt deeg: koelvers empanadadeeg, quichedeeg of hartig taartdeeg uit een goede supermarkt (AH, Jumbo) werkt prima — mist iets van het authentieke karakter maar spaart aanzienlijk tijd.\n\nKipdij, geen kipfilet: dij blijft sappig na het stoven; kipfilet wordt droog en vezelachtig — geen enkel compromis hier.\n\nAmontillado of Oloroso, niet Fino of Manzanilla: de vollere oxidatieve sherry past bij de gestoofde kip en kastanjechampignons. Fino en Manzanilla zijn te delicaat en vallen weg in de saus.\n\nGrantaappelpitjes niet meekoken: verse pitjes bovenop geven kleur, krak en frisse zoetheid als contrast. Meegekookt worden ze vies en grauw — altijd vers en op het allerlaatste moment toevoegen.",
+      "wines": [
+        {
+          "naam": "Amontillado Sherry",
+          "druif": "Palomino Fino",
+          "toelichting": "Droog en complex, met aroma's van walnoot, gedroogd fruit, leer, tabak en hazelnoot — een combinatie van biologische flor-rijping en oxidatieve rijping — Lustau Los Arcos, González Byass Viña AB of Bodegas Tradición Amontillado (€15–25). Amontillado verbindt de sherry in de saus, de amandel, de kip en de paddenstoelen in een perfecte aromatische cirkel: droog genoeg om het gerecht niet zoet te maken, rijk en oxidatief genoeg om het warme taartje en de kersen-sherrylak volledig te ondersteunen. Letterlijk de wijn in de saus, opnieuw in het glas. Serveer lichtjes gekoeld op 12–14°C.",
+          "alternatief": "Rioja Crianza (Tempranillo, Rioja) — kers, framboos, vanille, kokos en leer (Bodegas Muga, La Rioja Alta, €10–18, op 16–18°C). Klassieke Spaanse rode bij gestoofde kip in sherry: de kerstonen verbinden met de kersen-lak, vanille en kokos met de amandel, en leer met de oxidatieve stoofbasis — voor wie liever een glas rode wijn inschenkt."
+        }
+      ],
+      "wine": {
+        "naam": "Amontillado Sherry",
+        "druif": "Palomino Fino",
+        "toelichting": "Droog en complex, met aroma's van walnoot, gedroogd fruit, leer, tabak en hazelnoot — een combinatie van biologische flor-rijping en oxidatieve rijping — Lustau Los Arcos, González Byass Viña AB of Bodegas Tradición Amontillado (€15–25). Amontillado verbindt de sherry in de saus, de amandel, de kip en de paddenstoelen in een perfecte aromatische cirkel: droog genoeg om het gerecht niet zoet te maken, rijk en oxidatief genoeg om het warme taartje en de kersen-sherrylak volledig te ondersteunen. Letterlijk de wijn in de saus, opnieuw in het glas. Serveer lichtjes gekoeld op 12–14°C.",
+        "alternatief": "Rioja Crianza (Tempranillo, Rioja) — kers, framboos, vanille, kokos en leer (Bodegas Muga, La Rioja Alta, €10–18, op 16–18°C). Klassieke Spaanse rode bij gestoofde kip in sherry: de kerstonen verbinden met de kersen-lak, vanille en kokos met de amandel, en leer met de oxidatieve stoofbasis — voor wie liever een glas rode wijn inschenkt."
+      }
     }
   ]
 }
