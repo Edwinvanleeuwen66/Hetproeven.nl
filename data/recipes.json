@@ -63869,6 +63869,177 @@
         "toelichting": "Volledig droog, fijne mousse, citrus en mineraliteit — Tarlant, Drappier of Larmandier-Bernier (€25–45). De iconische Britse luxe-pairing voor afternoon tea, snijdt door alle zes belegingen zonder eraan vast te kleven. Serveer op 6–8°C.",
         "alternatief": "Chenin Blanc droog (Loire) — appel, kweepeer, lichte honing, frisse zuren (Domaine Huet, €12–22). Universeel passend bij alle zes smaken tegelijk."
       }
+    },
+    {
+      "source_recipe_number": 193,
+      "title": "De beste club sandwich — dun, strak, godsgruwelijk lekker",
+      "slug": "beste-club-sandwich-dun-strak-lekker",
+      "location": "Nederland / brasserie-klassiek",
+      "time": "30 min hands-on",
+      "servings": "2 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/beste-club-sandwich-dun-strak-lekker.jpg",
+      "short_description": "De club sandwich zoals hij hoort — dun gestapeld, precies gesneden, met gerookte kip, krokant spek, ei, tomaat-concassée en een Dijon-citroen-mayo die alles optilt.",
+      "description": "De club sandwich zoals hij hoort: geen tankstation-toren, geen hotelpyramide met vlaggetjes en mayonaise die uit alle kanten loopt — maar een dun-strak-precies gestapelde driedubbele sandwich van vers wit casinobrood, gerookte kipfilet, hete krokante ontbijtspek-strepen, hardgekookt ei, knapperige little gem en concassée van uitgelekte tomaat. Mayo opgepept door Dijon, citroen en crème fraîche. Drie lagen brood, maar half zo hoog als de hotelversie. Delicaat comfort food met restaurant-discipline.",
+      "ingredient_groups": [
+        {
+          "group_name": "Brood",
+          "ingredients": [
+            {
+              "name": "sneetjes vers wit casinobrood, dun gesneden (max 1 cm) — 3 per club",
+              "amount": "6"
+            },
+            {
+              "name": "zachte ongezouten roomboter",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Dijon-citroen-mayo",
+          "ingredients": [
+            {
+              "name": "goede mayonaise (Calvé of Kewpie)",
+              "amount": "3 el"
+            },
+            {
+              "name": "crème fraîche of Griekse yoghurt",
+              "amount": "1 el"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijne rasp van ¼ citroen",
+              "amount": "1"
+            },
+            {
+              "name": "Worcestershire-saus (optioneel, voor umami)",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Hartig beleg",
+          "ingredients": [
+            {
+              "name": "goede gerookte kipfilet, dun gesneden",
+              "amount": "160–180 g"
+            },
+            {
+              "name": "plakjes ontbijtspek of dunne bacon",
+              "amount": "6"
+            },
+            {
+              "name": "hardgekookt ei (9 min, gepeld, koud)",
+              "amount": "1"
+            },
+            {
+              "name": "stevige rijpe tomaat (Tasty Tom of trostomaat), voor concassée",
+              "amount": "1"
+            },
+            {
+              "name": "kropje little gem (kleine knapperige binnenblaadjes)",
+              "amount": "1"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "cocktailprikkers (om driehoeken bij elkaar te houden)",
+              "amount": "4"
+            },
+            {
+              "name": "takjes waterkers of bieslook",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Spek krokant bakken",
+          "description": "Verwarm de oven op 200°C. Leg de ontbijtspek-strepen op een bakplaat met bakpapier, leg een tweede vel bakpapier en een lichte bakplaat erop — zo bakken ze plat en krokant in plaats van te krullen. Bak 12–15 minuten tot diepgouden en crispy. Laat uitlekken op keukenpapier. Alternatief: bak in een droge pan op middelhoog vuur 8–10 minuten, regelmatig keren en met een spatel platdrukken. Spek mag lauwwarm zijn bij het stapelen — maak hem gerust 20 minuten vooraf."
+        },
+        {
+          "action": "Tomaat-concassée maken",
+          "description": "Kruis de tomaat in aan de onderkant. Dompel 30 seconden in kokend water, dan direct in ijswater — het vel laat los, trek het af. Snijd in vieren en lepel het natte zaadgedeelte weg. Snijd het stevige vruchtvlees in mini-blokjes van 5 mm. Strooi een snufje zout, leg 5 minuten op keukenpapier en dep grondig droog. Hierdoor blijft de tomaat op zijn plek in elke hap én blijft de sandwich droog."
+        },
+        {
+          "action": "Ei, mayo en overige voorbereidingen",
+          "description": "Snijd het koude hardgekookte ei in dunne plakjes van ca. 4 mm. Strooi heel licht zout en peper. Meng in een schaaltje de mayonaise, crème fraîche, Dijon, citroensap, citroenrasp, eventueel Worcestershire, zout en peper tot een gladde lichtere mayo. Was de little gem-blaadjes en zwier droog — gebruik vooral de kleine knapperige binnenblaadjes. Snijd de gerookte kipfilet in dunne plakjes."
+        },
+        {
+          "action": "Brood toosten",
+          "description": "Toast alle 6 sneetjes wit casinobrood tot net diepgoudbruin en knapperig — niet te donker, anders breken ze tijdens het stapelen. Net krokant maar nog buigbaar is de sweet spot. Besmeer de binnenkanten heel dun met zachte roomboter."
+        },
+        {
+          "action": "Stapelen — de architectuur",
+          "description": "Bouw per club twee verdiepingen op met 3 sneetjes brood. Onderste laag: besmeer de binnenkant met mayo, leg 2 kleine blaadjes little gem, 4–5 dunne plakjes gerookte kipfilet overlappend, 1 à 1½ el tomaat-concassée gelijkmatig verdeeld en een draai zwarte peper. Middelste brood: besmeer beide kanten dun met mayo, druk de onderkant licht tegen de tomaat aan, leg op de bovenkant 2 plakjes ei overlappend, 3 krokante spek-strepen en 1 klein blaadje little gem. Topbrood: besmeer de binnenkant met mayo en plaats voorzichtig op het spek. Druk de gestapelde sandwich heel lichtjes aan met de palm van je hand — net genoeg om de drie lagen te laten binden. Doel: 4–5 cm totale hoogte."
+        },
+        {
+          "action": "Snijden, presenteren en serveren",
+          "description": "Snijd met een scherp kartelmes de 4 korsten weg in één gladde beweging. Snijd de sandwich diagonaal in 2 driehoeken. Steek een cocktailprikker in de top van elke driehoek. Herhaal voor de tweede club. Serveer 2 driehoeken per persoon op een donker plankje of mooi bord, met de open kant (drie zichtbare lagen) naar de gast gericht. Garneer met waterkers of bieslook. Eventueel een schaaltje extra Dijon-citroen-mayo ernaast en een handjevol krokante chips. Direct serveren."
+        }
+      ],
+      "chef_tip": "Mise-en-place: het spek kan een uur vooraf worden gebakken en op keukenpapier worden bewaard — het wordt zelfs krokanter naarmate het afkoelt. De tomaat-concassée en de mayo kun je ook al van tevoren maken. Toast het brood en stapel de sandwich pas vlak voor het serveren.\n\nTechniek: de architectuur is alles bij een club sandwich. Drie dunne lagen brood, niet drie dikke — max 1 cm per sneetje. Alle ingrediënten dun en in proportie: geen toren, geen instortende berg. Het middelste brood krijgt aan beide kanten mayo zodat het hecht aan zowel de onderste als de bovenste laag. Druk heel lichtjes aan met de palm — genoeg om te binden, niet genoeg om plat te drukken.\n\nPresentatie: serveer de driehoeken met de open kant naar de gast gericht — het visuele verhaal is de gestapelde architectuur van drie lagen: brood, sla, kip, tomaat, brood, ei, spek, brood. Cocktailprikkers in de top van elke driehoek zijn niet alleen decoratief maar ook functioneel: ze houden de drie lagen bij elkaar tijdens het eten. Garneer alleen met een paar takjes waterkers of bieslook — niet overdadig.\n\nVariatie met dragon: voeg ½ tl zeer fijn gehakte verse dragon toe aan de mayo voor een elegant kruidig accent dat klassiek bij gerookte kip past. Hou het subtiel — meer dan een halve theelepel kan snel naar anijs gaan.\n\nVariatie met avocado: dunne plakjes rijpe avocado op de onderste laag in plaats van extra sla. Romige textuur die mooi werkt met spek en gerookte kip.\n\nVariatie luxe-upgrade: vervang de gerookte supermarkt-kip door zelf gepocheerde kipfilet. Pocheer in zacht trekkend licht gezouten water met een laurierblad, 12 minuten, laat afkoelen en snijd dun. Vleziger en zachter — al is de supermarkt-route voor dit gerecht écht goed.\n\nSpek tussen twee bakplaten in de oven: 200°C, 12–15 minuten met een tweede bakplaat erop. Geeft platte krokante strepen die je makkelijk in een sandwich kunt stapelen — geen gekrulde reepjes die er aan alle kanten uitsteken.\n\nTomaat als concassée, nooit als plakken: ontveld, ontpit, in 5 mm-blokjes, gezouten en drooggedept. Gelijkmatige smaakverdeling in elke hap, geen tomaat-uitglip, geen natte sandwich. Dit is de brasserie-techniek die het verschil maakt.\n\nLittle gem, niet ijsbergsla: knapperiger, steviger en niet waterig. Gebruik vooral de kleine binnenblaadjes — die zijn compacter en blijven op hun plek in het stapelwerk.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chardonnay Mâconnais — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, rijpe citrus, gele appel, lichte romigheid, subtiele boter en frisse levendige zuren. Zachte ronding zonder overheersende eik, middellange afdronk met mineralige frisheid.",
+          "omschrijving": "Mâcon-Villages, Saint-Véran of een lichte Pouilly-Fuissé. Domaine de la Bongran, Domaine Saumaize-Michelin, Maison Verget, Château Fuissé. €12–22. Serveer op 10–12°C.",
+          "waarom_werkt_dit": "De club sandwich heeft gerookte kip, bacon, ei en mayonaise — daar past een witte wijn bij met genoeg ronding maar zonder zwaar hout dat alles zou overstemmen. De Mâconnais Chardonnay sluit mooi aan bij de gerookte kip en het ei; de frisse zuren snijden door de Dijon-citroen-mayo en de bacon en houden het broodje licht; en de lichte romigheid verbindt met de crème fraîche in de mayo. Bourgogne-kwaliteit en -stijl zonder Premier Cru-prijs."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Brut of Crémant de Bourgogne — Champagne/Bourgogne, Frankrijk",
+          "druif": "Chardonnay en/of Pinot Noir",
+          "smaakprofiel": "Droog, fris, citrus, lichte toast en gistigheid, fijne persistente mousse. Strakke levendige zuren, elegante afdronk.",
+          "omschrijving": "Larmandier-Bernier Champagne, Drappier Brut, of een goede Crémant zoals Veuve Ambal Brut of Bailly Lapierre Crémant de Bourgogne. €15–35. Serveer goed gekoeld op 7–9°C in een champagneflûte.",
+          "waarom_werkt_dit": "Mousserende wijn is fantastisch bij club sandwiches — misschien wel de allerbeste pairing. De fijne mousse snijdt door de mayo, het ei en het bacon en reinigt de mond na elke hap; de toasttonen in de Champagne sluiten direct aan bij het geroosterde casinobrood en de gerookte kip; en de droge strakke afdronk houdt alles licht en elegant. Een directe lunch-luxe die de sandwich naar een andere sfeer tilt."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Beaujolais-Villages — Beaujolais, Frankrijk",
+          "druif": "Gamay",
+          "smaakprofiel": "Droog, sappig rood fruit (kers, framboos, cranberry), zachte ronde tannine, lichte kruidigheid en levendige frisse zuren. Licht tot medium body, dorstlessend.",
+          "omschrijving": "Domaine Foillard Beaujolais-Villages, Marcel Lapierre, of een goede negociant-versie. €10–15. Serveer lichtjes gekoeld op 13–14°C — koeler dan een gewone rode wijn.",
+          "waarom_werkt_dit": "Voor wie liever rood drinkt bij de lunch: Gamay past bij bacon en gerookte kip maar is fris genoeg voor de tomaat-concassée, little gem, ei en Dijon-citroen-mayo zonder die te overstemmen. De zachte ronde tannine laat het delicate brood en de gerookte kip tot hun recht komen; het sappige rode fruit verbindt met de hartige bacon; en de levendige frisse zuren houden het geheel licht. Lichtjes gekoeld serveren is essentieel — anders wordt het te zwaar voor een lunch."
+        }
+      ],
+      "wine": {
+        "naam": "Chardonnay Mâconnais",
+        "druif": "Chardonnay",
+        "toelichting": "Droog, rijpe citrus, gele appel, lichte romigheid en frisse zuren zonder overheersende eik — Mâcon-Villages, Saint-Véran of Pouilly-Fuissé (€12–22). Past mooi bij gerookte kip, ei en mayo. Serveer op 10–12°C.",
+        "alternatief": "Champagne Brut of Crémant de Bourgogne — fijne mousse snijdt door mayo, ei en bacon en geeft direct lunch-luxe (€15–35, op 7–9°C)."
+      }
     }
   ]
 }
