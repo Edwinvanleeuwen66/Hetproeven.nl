@@ -62143,10 +62143,28 @@
       "chef_tip": "Mise-en-place: de geroosterde-tomaat-spread kan een dag vooraf worden gemaakt — de aroma's verbinden zich na een nacht en de spread is de volgende dag zelfs beter. De sabayon-eidooiermousse kan 2 uur vooraf worden bereid en in de koelkast worden bewaard. Snijd de Pan de Cristal-tegels vlak voor het bakken; bak ze pas op het allerlaatste moment.\n\nTechniek: de sabayon vraagt geduld maar geen voorkennis. Klop de eidooiers krachtig boven zacht trekkend water — niet kokend, anders worden het scrambled eggs. Gebruik een thermometer en stop bij 65–70°C. Voeg de olijfolie daarna in een dunne straal toe al kloppend, precies zoals een mayonaise-emulsie.\n\nPresentatie: serveer op kleine donkere plankjes (zwart leisteen, donker hout of donker keramiek) van 16–18 cm. Drie tegels in een rij of driehoek met negatieve ruimte ertussen. Het visuele middelpunt is de glanzend mahonie-bruine ansjovis op de roodbruine tomaat-spread met de heldergele eidooier-mousse-dot ernaast. Plaats de krulpeterselie individueel — niet strooien maar zetten.\n\nVariatie: een minuscuul lepeltje Oscietra-kaviaar of forelkuit op de ansjovis verheft direct naar sterrenniveau. Of een schaaf Ibérico-jamón over de ansjovis voor een Spaans-coherente luxe variant.\n\nAlternatief: geen Pan de Cristal in de buurt? Gebruik dunne ciabatta-plakken knapperig gebakken tussen twee bakplaten — het is niet hetzelfde, maar een acceptabele vervanging. Wie de bain-marie wil overslaan: prak 2 hardgekookte eidooiers met 1 el goede mayonaise, 1 el olijfolie, paar druppels citroensap en een snuf zout tot een gladde crème — niet hetzelfde luchtige mousse-effect, maar werkbaar.\n\nPimentón de la Vera, niet gewone paprikapoeder: de Vera (Extremadura) is geroosterd boven eikenhout en geeft een rookachtige diepte die het gerecht onmiddellijk Spaans maakt. Een half theelepeltje op 6 tomaten is precies goed — meer wordt overheersend.\n\nSherry-azijn toevoegen ná het roosteren, niet ervoor: de azijn moet als spanning erbij, niet wegkoken. Hij voegt strakheid toe en breekt de zoetheid van de geconcentreerde tomaat.\n\nCantabrische ansjovis van topkwaliteit — niet substitueren: met één ansjovis per hapje hangt het hele concept op de kwaliteit. Codaca, Don Bocarte, Lolin of Maisor. Goedkope ansjovis is vlak en te zout en maakt dit gerecht onmogelijk.\n\nKrulpeterselie, geen platte peterselie: voor Spaanse pan con tomate is krulpeterselie authentieker — platte peterselie is Frans-Italiaans van karakter.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Manzanilla Sherry",
           "druif": "Palomino Fino",
-          "toelichting": "Droog, fris en zilt, met aroma's van groene amandel, gist, gedroogde appel en zee-zoutigheid — Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Manzanilla bij ansjovis en tomaat is een van de meest klassieke Spaanse pairings, zoals in elke goede tapería in Andalusië wordt geschonken: de zilte zee-noten spiegelen direct de Cantabrische ansjovis, de gist-en-brood-aroma's verbinden met de pan de cristal, en de hoge zuren snijden feilloos door de eidooiermousse en de geconcentreerde tomaat-spread. Serveer op 6–8°C in een catavinos.",
-          "alternatief": "Godello (Valdeorras of Bierzo) — droog, peer, gele appel, hazelnoot en lei-mineraliteit (Godeval, Rafael Palacios Sorte O Soro, €10–18). Vollere ondersteuning dan sherry: gele appel en hazelnoot vinden de eidooiermousse en geroosterde tomaat, terwijl de lei-mineraliteit de ansjovis raakt. Breder verkrijgbaar in Nederland dan Manzanilla."
+          "smaakprofiel": "Droog, fris en zilt, met aroma's van groene amandel, gist, gedroogde appel en zee-zoutigheid.",
+          "omschrijving": "Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Serveer op 6–8°C in een catavinos.",
+          "waarom_werkt_dit": "Manzanilla bij ansjovis en tomaat is een van de meest klassieke Spaanse pairings: de zilte zee-noten spiegelen direct de Cantabrische ansjovis, de gist-en-brood-aroma's verbinden met de pan de cristal, en de hoge zuren snijden feilloos door de eidooiermousse en de geconcentreerde tomaat-spread."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Fino Sherry",
+          "druif": "Palomino Fino",
+          "smaakprofiel": "Droog, fris, groene amandel, gist en lichte ziltigheid.",
+          "omschrijving": "Tio Pepe, Hidalgo La Gitana, Lustau Fino (€10–18).",
+          "waarom_werkt_dit": "Iets minder zilt dan Manzanilla, iets breder geprofileerd, vergelijkbare gastronomische taal. Voor wie Jerez prefereert boven Sanlúcar."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Godello",
+          "druif": "Godello",
+          "smaakprofiel": "Droog, peer, gele appel, hazelnoot en lei-mineraliteit.",
+          "omschrijving": "Godeval, Rafael Palacios Sorte O Soro (€10–18).",
+          "waarom_werkt_dit": "Vollere ondersteuning dan sherry: gele appel en hazelnoot vinden de eidooiermousse en geroosterde tomaat, terwijl de lei-mineraliteit de ansjovis raakt. Breder verkrijgbaar in Nederland dan Manzanilla."
         }
       ],
       "wine": {
@@ -62268,10 +62286,28 @@
       "chef_tip": "Mise-en-place: de geconfijte peer en de PX-lak kunnen een dag vooraf worden gemaakt — aroma's verbinden zich en de lak wordt nog dieper van smaak. De Manchego-tuiles kunnen uren vooraf worden gebakken en luchtdicht worden bewaard. De cecina 15 minuten voor serveren uit de koelkast halen. Pas in de laatste 5 minuten assembleren — tuiles worden snel zacht door luchtvocht en de PX-lak droogt op.\n\nTechniek: de Manchego-tuile vraagt aandacht bij het bakken — diepgoudbruin is perfect, één minuut te lang maakt hem bitter. Houd de oven goed in de gaten vanaf minuut 4. Haal de tuiles direct los met een paletmes terwijl ze nog warm zijn; ze harden uit zodra ze afkoelen.\n\nPresentatie: gebruik kleine donkere bordjes van 14 cm (zwart leisteen, donker hout of donker keramiek). Drie gevouwen cecina-stukjes naast elkaar als drie satijnen bloemblaadjes. Het mahonie-rode van de cecina contrasteert met het lichtgouden peerblokje, de helderbruine tuile en het donkerglanzende PX-lakje. De tuile rechtop of schuin tegen de cecina geeft hoogte en is het visuele middelpunt. Houd negatieve ruimte rondom de drie composities.\n\nVariatie: gebruik Oloroso in plaats van Pedro Ximénez voor de peer — geeft een drogere, minder zoete en meer nootachtige route die ook prachtig werkt met de cecina.\n\nAlternatief: geen Cecina de León in de buurt? Bresaola of Coppa di Parma zijn acceptabele alternatieven — Italiaans en niet gerookt, maar even verfijnd van karakter.\n\nCecina de León van topkwaliteit is essentieel: echte gerookte gedroogde cecina uit León (Cecina Astorgana, El Aguazal of een goede artisanale variant), flinterdun gesneden door de slager op 1 mm.\n\nOude Manchego (12+ maanden), niet jong: jonge Manchego heeft te veel vocht en bakt niet goed tot tuile. Oude Manchego is droger en geeft een glanzende, krokante korst.\n\nPeer stevig houden: gebruik Conference of Doyenné du Comice, nooit een te rijpe peer. 8–10 minuten pocheren is genoeg — de blokjes moeten hun vorm behouden.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Oloroso Sherry Seco",
           "druif": "Palomino Fino",
-          "toelichting": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer — Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Oloroso bij gedroogd Spaans rundvlees is gastronomisch onverslaanbaar: de walnoot-en-gedroogd-fruit-aroma's vinden de cecina en de PX-peer in dezelfde aromatische taal, de oxidatieve diepte respecteert de Manchego-tuile, en de stevige alcohol draagt het umami-rijke profiel feilloos. Serveer op 14–16°C in een catavinos.",
-          "alternatief": "Mencía (Bierzo, Castilië en León) — droog, medium-licht, granaatappel, kers, violet en mineraliteit (Descendientes de J. Palacios, Pittacum, €10–15, lichtjes gekoeld op 14–16°C). Perfecte regionale coherentie: Mencía komt uit dezelfde streek als de cecina, met een lichtere body en lagere tannine die beter past bij charcuterie-amuse dan een volle Rioja Reserva."
+          "smaakprofiel": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer.",
+          "omschrijving": "Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Serveer op 14–16°C in een catavinos.",
+          "waarom_werkt_dit": "Oloroso bij gedroogd Spaans rundvlees is gastronomisch onverslaanbaar: de walnoot-en-gedroogd-fruit-aroma's vinden de cecina en de PX-peer in dezelfde aromatische taal, de oxidatieve diepte respecteert de Manchego-tuile, en de stevige alcohol draagt het umami-rijke profiel feilloos."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Mencía",
+          "druif": "Mencía",
+          "smaakprofiel": "Droog, medium-licht, granaatappel, kers, violet en mineraliteit, lichte kruidigheid.",
+          "omschrijving": "Descendientes de J. Palacios, Pittacum, Castro Ventosa (€10–15). Serveer lichtjes gekoeld op 14–16°C.",
+          "waarom_werkt_dit": "Perfecte regionale coherentie: Mencía komt uit dezelfde streek als de cecina (Castilië en León), met een lichtere body en lagere tannine die beter past bij charcuterie-amuse dan een volle Rioja Reserva."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cava Brut Nature",
+          "druif": "Xarel·lo, Macabeo, Parellada",
+          "smaakprofiel": "Volledig droog, bruisend, groene appel, citrus en lichte amandel.",
+          "omschrijving": "Recaredo, Gramona, Llopart (€15–25).",
+          "waarom_werkt_dit": "Voor wie liever bubbels bij vlees-amuse: de fijne mousse snijdt door de cecina-vetheid en de Manchego, terwijl de groene-appel-zuren de geconfijte peer spiegelen. Catalaans-Spaans coherent en breed verkrijgbaar."
         }
       ],
       "wine": {
@@ -62421,10 +62457,28 @@
       "chef_tip": "Mise-en-place: de zeewiercrisp kan tot een uur vooraf worden gemaakt en luchtdicht worden bewaard — daarna verliest hij zijn krokantheit snel door luchtvocht. De beurre blanc en de vis moeten binnen 15 minuten voor serveren worden bereid. Plan dus: crisp ruim van tevoren, alles wat daarna komt op het laatste moment.\n\nTechniek: de beurre blanc mag nooit koken — boven 80°C scheidt de emulsie en heb je gesmolten boter in plaats van een gladde saus. Houd het vuur op het allerlaagste pitje of gebruik een waterbad als je moet wachten. Te koud wordt de saus vast; te heet schift hij. Voeg de boterblokjes één voor één toe en klop steeds goed door.\n\nPresentatie: gebruik een wit of crèmewit bord van 20 cm. De ronde sausspiegel als ondergrond, de vis schuin met de krokante huid naar boven, de zeewiercrisp verticaal er tegenaan gezet. Drie texturen naast elkaar: gladde saus, krokante vishuid, glasachtige aardappel-nori-crisp. Direct serveren — de crisp verzacht door luchtvocht binnen 10 minuten.\n\nVariatie: vervang de dorade door wilde of gekweekte zeebaars — identieke techniek, iets luxer van karakter bij wilde variant. Of voeg vlak voor serveren een paar pareltjes forelkuit of kaviaar op de vishuid toe voor extra zeese diepte.\n\nAlternatief: geen txakoli? Gebruik een strakke droge witte met hoge zuren — Verdejo, Muscadet of een goede Albariño werken als acceptabele vervangers in de beurre blanc en geven een vergelijkbaar fris-zilt resultaat.\n\nVis met huid is onmisbaar: het hele concept hangt op de krokante huid. Vraag de visboer om mooie, gelijke filets met huid en laat ze niet onthuiden.\n\nDroogdeppen is de sleutelstap voor krokante huid: vocht in de pan betekent stomen in plaats van bakken. Dep de filets minutenlang droog met keukenpapier — meer dan je denkt nodig te hebben.\n\nManzanilla subtiel houden: 20 ml in de reductie is precies de juiste verhouding voor zilte sherry-spanning zonder dat de sherry gaat domineren.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Txakoli de Getaria",
           "druif": "Hondarrabi Zuri",
-          "toelichting": "Droog, met citrus, groene appel, lichte ziltigheid, subtiele natuurlijke spritz en hoge zuren — Txomin Etxaniz, Ameztoi of Doniene Gorrondona (€12–18). Letterlijk de wijn uit de saus: hoge zuren snijden feilloos door de boterige beurre blanc, de ziltigheid raakt zowel de manzanilla als de nori in de crisp, en de subtiele spritz verfrist het palet tussen elke hap. Wat in elke goede Baskische txokoteca vanzelfsprekend aan tafel komt. Serveer ijskoud op 7–9°C.",
-          "alternatief": "Albariño (Rías Baixas, Galicië) — droog, witte perzik, citrus, witte bloemen en ziltigheid (Pazo de Señorans, Do Ferreiro, €10–18). Atlantische witte bij Atlantische vis: iets fruitiger en sappiger dan txakoli, geeft een rondere en iets vollere route bij dezelfde vis en beurre blanc."
+          "smaakprofiel": "Droog, citrus, groene appel, lichte ziltigheid, subtiele natuurlijke spritz en hoge zuren.",
+          "omschrijving": "Txomin Etxaniz, Ameztoi of Doniene Gorrondona (€12–18). Serveer ijskoud op 7–9°C.",
+          "waarom_werkt_dit": "Letterlijk de wijn uit de saus: hoge zuren snijden feilloos door de boterige beurre blanc, de ziltigheid raakt zowel de manzanilla als de nori in de crisp, en de subtiele spritz verfrist het palet tussen elke hap. Wat in elke goede Baskische txokoteca vanzelfsprekend aan tafel komt."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Albariño Rías Baixas",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, witte perzik, citrus, witte bloemen en ziltigheid.",
+          "omschrijving": "Pazo de Señorans, Do Ferreiro, Granbazán (€10–18).",
+          "waarom_werkt_dit": "Atlantische witte bij Atlantische vis: iets fruitiger en sappiger dan txakoli, geeft een rondere route bij dezelfde vis en beurre blanc."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Vinho Verde",
+          "druif": "Alvarinho, Trajadura, Loureiro",
+          "smaakprofiel": "Lichtjes bruisend, citrus, groene appel en lichte ziltigheid.",
+          "omschrijving": "Aveleda, Casa de Vila Verde, Quinta de Soalheiro (€5–10).",
+          "waarom_werkt_dit": "Iberische Atlantische witte met natuurlijke spritz — verfrissende energie bij vis en beurre blanc. Breed verkrijgbaar in elke supermarkt, betrouwbaar bij vis en goedkoop geprijsd."
         }
       ],
       "wine": {
@@ -62595,10 +62649,28 @@
       "chef_tip": "Mise-en-place: de peterselie-olie, het Marcona-amandelkruim en de escabeche kunnen van tevoren worden klaargemaakt — de navajas bak je pas op het allerlaatste moment. Voeg het amandelkruim pas toe bij het serveren, anders wordt het zacht door het sausvocht.\n\nTechniek: à la plancha betekent hoog vuur en weinig tijd — 30 tot 60 seconden is alles wat de navajas nodig hebben. Zodra de schelpen openstaan zijn ze gaar. Langer in de pan betekent rubberachtig vlees, wat het gerecht direct om zeep helpt. Haal ze direct en zonder aarzelen uit de pan.\n\nPresentatie: gebruik donkere bordjes of leistenen plankjes met een bedje van grof zeezout als ondergrond — dat geeft de schelpen een stabiele basis en ziet er direct restaurant-waardig uit. De zilverwitte navajas-schelpen contrasteren met het roodoranje van de escabeche, het helder groen van de peterselie-olie en het goudbruin van het amandelkruim. Lauwwarm serveren is het magische woord — koud verliest het gerecht zijn charme.\n\nVariatie: geen navajas beschikbaar? Vongole of kleinformaat mosselen werken als acceptabel alternatief — dezelfde techniek (à la plancha, escabeche napperen) geeft een vergelijkbaar resultaat.\n\nAlternatief: geen jerez-azijn? Rode wijnazijn is een acceptabel alternatief — gebruik geen balsamico, dat overheerst het delicate karakter van de schelpdieren en ruïneert het Spaanse profiel.\n\nMarcona-amandel is niet inwisselbaar voor gewone amandel: Marcona is platter, zoeter en romiger van karakter — een Spaanse signature die het gerecht coherent houdt. Te vinden bij Spaanse winkels of online.\n\nPimentón dulce, niet gerookt: gerookte pimentón zou de delicate navajas overheersen. De dulce-variant is subtieler en laat het zee-aroma van de schelpdieren intact.\n\nHet mantelvliesje verwijderen: het donkere randje is technisch eetbaar maar minder mooi en iets bittig van smaak. Restaurant-stijl is altijd verwijderen voordat het vlees teruggelegd wordt in de schelp.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Manzanilla Sherry",
           "druif": "Palomino Fino",
-          "toelichting": "Droog, zilt, gist en amandel met een frisse mineraliteit — Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Manzanilla zit al in de saus en is de meest klassieke Spaanse pairing bij scheermessen — in Sanlúcar de Barrameda is dit de absolute standaard aan tafel: de ziltigheid spiegelt direct het zee-aroma van de navajas, de gist-en-amandel-noten verbinden met het Marcona-amandelkruim, en de droogte snijdt feilloos door de warme escabeche. Serveer op 6–8°C in een catavinos.",
-          "alternatief": "Albariño (Rías Baixas, Galicië) — droog, witte perzik, citrus, witte bloemen en ziltigheid (Pazo de Señorans, Do Ferreiro, €10–18). Klassieke Atlantische witte bij Atlantische scheermessen: iets fruitiger en sappiger dan Manzanilla, maar de ziltigheid raakt de schelpdieren en de hoge zuren snijden even goed door de escabeche."
+          "smaakprofiel": "Droog, zilt, gist en amandel met een frisse mineraliteit.",
+          "omschrijving": "Hidalgo La Gitana, Barbadillo Solear of Lustau Papirusa (€10–15). Serveer op 6–8°C in een catavinos.",
+          "waarom_werkt_dit": "Manzanilla zit al in de saus en is de meest klassieke Spaanse pairing bij scheermessen — in Sanlúcar de Barrameda de absolute standaard: de ziltigheid spiegelt het zee-aroma van de navajas, de gist-en-amandel-noten verbinden met het Marcona-amandelkruim, en de droogte snijdt feilloos door de warme escabeche."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Albariño Rías Baixas",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, witte perzik, citrus, witte bloemen en ziltigheid.",
+          "omschrijving": "Pazo de Señorans, Do Ferreiro, Granbazán (€10–18).",
+          "waarom_werkt_dit": "Klassieke Atlantische witte bij Atlantische scheermessen: iets fruitiger en sappiger dan Manzanilla, maar de ziltigheid raakt de schelpdieren en de hoge zuren snijden even goed door de escabeche."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Verdejo Rueda",
+          "druif": "Verdejo",
+          "smaakprofiel": "Droog, citrus, venkel en groene kruidigheid.",
+          "omschrijving": "Meerdere producenten Rueda (€8–14). Breed verkrijgbaar in Nederland.",
+          "waarom_werkt_dit": "Verdejo's kruidigheid past bij de Spaanse aroma's van pimentón, peterselie en jerez-azijn. Breed verkrijgbaar en toegankelijk geprijsd als dagelijkse keuze bij schelpdieren."
         }
       ],
       "wine": {
@@ -62743,10 +62815,28 @@
       "chef_tip": "Mise-en-place: de geïnfuseerde melk kan een dag vooraf worden gemaakt en gekoeld bewaard — de smaken worden er alleen maar dieper van. De chocoladecrème kan een uur vooraf worden gemaakt en lauwwarm gehouden op ca. 25°C. De torrija bak je pas op het allerlaatste moment — lauw geworden is een mislukking.\n\nTechniek: het karamelliseren in de pan is geen optie maar een vereiste. Strooi de extra suiker over de hete torrija in de pan en laat 30 tot 60 seconden knappen tot een glanzende korst — dit is wat het onderscheid maakt tussen een wentelteefje en een authentieke torrija. Houd het vuur goed in de gaten, suiker brandt in seconden.\n\nPresentatie: gebruik een klein donker bordje van 16 cm. De torrija centraal met zijn gekaramelliseerde glanzende korst, de donkere chocoladecrème als artistieke veeg ernaast — niet alles bedekkend. De gouden olijfolie-druppels als glansaccenten, de witte zoutvlokken als verspreide stippen, de oranje sinaasappelflinters als kleurpuntjes. Eén micro-blaadje groen voor contrast. Direct serveren.\n\nVariatie: strooi extra suiker over de torrija en brand met een crème brûlée-brander aan tafel — extra theater voor speciale gelegenheden. Of voeg ½ tl instant espresso aan de ganache toe voor extra diepte in de chocoladecrème.\n\nAlternatief: geen pan de aceite? Brioche of challah zijn de beste alternatieven — gewoon witbrood is te plat van smaak en structuur en geeft een teleurstellend resultaat.\n\nEi in het weekmengsel, niet apart: authentiek-Spaans en beter — het brood absorbeert melk en ei in één bewerking, wat de structuur en samenhang ten goede komt. Geen apart eierbad.\n\nBoter én olijfolie als bakvet: pure boter verbrandt te snel, pure olie geeft te weinig smaakdepth. De combinatie geeft precies de juiste goudbruine korst met de juiste smaakdepth.\n\nPure chocolade (65–75% cacao), nooit melkchocolade: donker genoeg om de zoete torrija te balanceren. Melkchocolade is te zoet en mist de bitterheid die het contrast met de fleur de sel en olijfolie nodig heeft.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Pedro Ximénez Sherry",
           "druif": "Pedro Ximénez",
-          "toelichting": "Zwartbruin, zeer zoet en complex, met aroma's van rozijn, vijg, dadel, koffie, gedroogd fruit en chocolade — González Byass Nectar, Lustau San Emilio PX of Bodegas Tradición PX (€15–25 per 50 cl). PX bij chocolade is een van de meest klassieke pairings ter wereld: de rozijn-en-vijg-aroma's vinden de sinaasappel en kaneel in de torrija, de chocoladetonen in de wijn versterken de chocoladecrème, en de zoete diepte balanceert het zout op de top. Spaans-Andalusisch in elke vezel. Serveer lichtjes gekoeld op 14–16°C in kleine glaasjes.",
-          "alternatief": "Moscatel de Valencia — versterkte zoete wijn met sinaasappelbloesem, honing, druif en lichte muskaat (Olivares, €8–14). Frisser en bloemiger dan PX, met sinaasappel-aroma's die direct spiegelen wat in de torrija zit — voor wie minder diepe rijkheid wil en €5–10 wil besparen."
+          "smaakprofiel": "Zwartbruin, zeer zoet en complex, met aroma's van rozijn, vijg, dadel, koffie, gedroogd fruit en chocolade.",
+          "omschrijving": "González Byass Nectar, Lustau San Emilio PX of Bodegas Tradición PX (€15–25 per 50 cl). Serveer lichtjes gekoeld op 14–16°C in kleine glaasjes.",
+          "waarom_werkt_dit": "PX bij chocolade is een van de meest klassieke pairings ter wereld: de rozijn-en-vijg-aroma's vinden de sinaasappel en kaneel in de torrija, de chocoladetonen in de wijn versterken de chocoladecrème, en de zoete diepte balanceert het zout op de top. Spaans-Andalusisch in elke vezel."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Moscatel de Valencia",
+          "druif": "Moscatel de Alejandría",
+          "smaakprofiel": "Versterkte zoete wijn met sinaasappelbloesem, honing, druif, citrus en lichte muskaat.",
+          "omschrijving": "Olivares, Bodegas Cherubino Valsangiacomo (€8–14). Alcohol 15%.",
+          "waarom_werkt_dit": "Spaanse versterkte zoete wijn met sinaasappel-aroma's die direct spiegelen wat in de torrija zit. Frisser en bloemiger dan PX, voor wie minder dichte rijkheid wil — en €5–10 goedkoper."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Moscatel de Setúbal",
+          "druif": "Moscatel de Setúbal",
+          "smaakprofiel": "Versterkte zoete wijn met sinaasappel-marmelade, honing en gedroogd fruit.",
+          "omschrijving": "José Maria da Fonseca, Bacalhôa Setúbal (€10–15). Alcohol 17–18%. Verkrijgbaar in betere slijterijen.",
+          "waarom_werkt_dit": "Iberische coherentie met sinaasappel-aroma's die direct spiegelen wat in de torrija zit. Toegankelijk geprijsd en breder verkrijgbaar dan PX in Nederland."
         }
       ],
       "wine": {
@@ -62904,10 +62994,28 @@
       "chef_tip": "Mise-en-place: de tomaat-oloroso-saus en de eidooierroom kunnen 30 minuten vooraf worden bereid en apart worden bewaard. De mosselen kook je vlak voor serveren, de vulling en het gratineren op het allerlaatste moment — het hele concept hangt op de warmte van het gerecht.\n\nTechniek: de eidooierroom moet dun worden aangebracht — 1 theelepel per mossel is precies genoeg voor de glanzende goudgele laag. Te dik wordt zwaar en eierachtig. Grill heet en dichtbij: bij de juiste afstand stolt de room in 1 minuut. Te ver weg smelt het ei door het tomatenvocht; te dichtbij verbrandt het. Eidooier moet zacht gestold zijn met glans, niet droog als een kaasgratin.\n\nPresentatie: gebruik kleine donkere bordjes of leistenen plankjes met een bedje van grof zeezout. Drie schelpen per persoon in driehoek of rij. De zwarte schelpen contrasteren met de zalmkleurige tomatensaus en het diepgouden gegrilde eidooierlaagje. Één groen accent van peterselie per schelp houdt het fris. Direct warm serveren — lauw is al verlies.\n\nVariatie: leg een minuscuul plakje Ibérico-jamón of een Cantabrische ansjovisfilet op de mossel ónder de tomatensaus voor extra umami-diepte — Spaans-coherent en nog rijker van karakter.\n\nAlternatief: wil je de grill overslaan? Lepel alleen de tomatensaus warm over de mosselen zonder de eidooierroom. Werkt ook goed, maar mist het Michelin-element van het zachte gele harnas dat het gerecht zo bijzonder maakt.\n\nOloroso, niet Fino of Manzanilla: de volle oxidatieve rijkheid van oloroso past bij de warme tomatensaus. Delicate Fino of Manzanilla valt weg in dit profiel — reserveer die voor koude en lichte zeevruchten.\n\nPimentón de la Vera gerookt, niet dulce: de rookachtige diepte geeft Andalusische identiteit en past perfect bij de oloroso. Dulce is hier te zacht en mist de nodige kracht.\n\nSaus goed inkoken is niet optioneel: een te vloeibare saus loopt uit de schelp en maakt de presentatie onmogelijk. Reduceer tot de saus als een dikke spread op de mossel blijft liggen.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Oloroso Sherry Seco",
           "druif": "Palomino Fino",
-          "toelichting": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer — Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Oloroso zit al in de saus zelf en geeft daarmee gastronomische coherentie die weinig wijnen kunnen evenaren: de oxidatieve diepte versterkt de tomaat, het mosselvocht en de pimentón, terwijl de stevige alcohol het umami-rijke eidooier-en-tomaat-profiel feilloos draagt zonder zelf te overheersen. Serveer licht gekoeld op 14–16°C in een catavinos.",
-          "alternatief": "Godello (Valdeorras, Galicië) — droog, peer, gele appel, hazelnoot en lei-mineraliteit (Godeval, Rafael Palacios Sorte O Soro, €10–18). Een vollere witte met genoeg body voor de warme saus en mossel: de hazelnoot-tonen verbinden met de oloroso in de saus, de lei-mineraliteit raakt de zoutigheid van de mossel, en de frisse zuren snijden door de rijke eidooierroom."
+          "smaakprofiel": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer.",
+          "omschrijving": "Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Serveer licht gekoeld op 14–16°C in een catavinos.",
+          "waarom_werkt_dit": "Oloroso zit al in de saus zelf en geeft gastronomische coherentie die weinig wijnen kunnen evenaren: de oxidatieve diepte versterkt de tomaat, het mosselvocht en de pimentón, terwijl de stevige alcohol het umami-rijke eidooier-en-tomaat-profiel feilloos draagt zonder zelf te overheersen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello Valdeorras",
+          "druif": "Godello",
+          "smaakprofiel": "Droog, peer, gele appel, hazelnoot en lei-mineraliteit.",
+          "omschrijving": "Godeval, Rafael Palacios Sorte O Soro (€10–18).",
+          "waarom_werkt_dit": "Een vollere witte met genoeg body voor de warme saus en mossel: de hazelnoot-tonen verbinden met de oloroso in de saus, de lei-mineraliteit raakt de zoutigheid van de mossel, en de frisse zuren snijden door de rijke eidooierroom."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Albariño Rías Baixas",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, witte perzik, citrus, witte bloemen en ziltigheid.",
+          "omschrijving": "Pazo de Señorans, Do Ferreiro, Granbazán (€10–18).",
+          "waarom_werkt_dit": "Atlantische witte bij Atlantische zeevruchten — universeel passend, breed verkrijgbaar en toegankelijk geprijsd. De geboren toegankelijke partner bij warme mossel met tomatensaus."
         }
       ],
       "wine": {
@@ -63081,10 +63189,28 @@
       "chef_tip": "Mise-en-place: de gebakken lege bakjes en de kipvulling kunnen een dag vooraf worden gemaakt en apart worden bewaard. De kersen-sherrylak maak je vlak voor serveren. Pas op het allerlaatste moment vullen — anders wordt het knapperige deeg zacht door het vocht van de vulling.\n\nTechniek: paddenstoelen droog bakken vóór het stoven is niet optioneel. Wacht tot het meeste vocht is verdampt voordat je blust — anders krijg je een waterige saus die nooit goed indikt. De saus moet aan het einde dik en glanzend zijn, niet vloeibaar.\n\nPresentatie: gebruik een klein donker of wit bordje van 18–20 cm. Twee taartjes per persoon naast elkaar of in een driehoek met het derde groen accent. Het diepe gouden deeg, de donkere kipstoof, de glanzende kersen-sherrylak en de helderrode granaatappelpitjes vormen drie warme tinten met één felrood accent. De Marcona-amandelkruim als gouden textuurlaag bovenop. Direct serveren — na 10 minuten begint de lak te stollen.\n\nVariatie: in het wildseizoen werkt hertekalf of fazant in plaats van kipdij nog beter bij de Amontillado en de kersen-sherrylak. Of voeg een paar geschaafde zwarte truffelflinters toe vlak voor serveren voor extra luxe diepte.\n\nAlternatief voor de kersenlak: 2 el goede kersenjam + 1 el sherry-azijn + 1 el Amontillado + snufje zout, kort opwarmen tot glanzend. Snel, consistent en altijd op voorraad.\n\nAlternatief voor zelfgemaakt deeg: koelvers empanadadeeg, quichedeeg of hartig taartdeeg uit een goede supermarkt (AH, Jumbo) werkt prima — mist iets van het authentieke karakter maar spaart aanzienlijk tijd.\n\nKipdij, geen kipfilet: dij blijft sappig na het stoven; kipfilet wordt droog en vezelachtig — geen enkel compromis hier.\n\nAmontillado of Oloroso, niet Fino of Manzanilla: de vollere oxidatieve sherry past bij de gestoofde kip en kastanjechampignons. Fino en Manzanilla zijn te delicaat en vallen weg in de saus.\n\nGrantaappelpitjes niet meekoken: verse pitjes bovenop geven kleur, krak en frisse zoetheid als contrast. Meegekookt worden ze vies en grauw — altijd vers en op het allerlaatste moment toevoegen.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Amontillado Sherry",
           "druif": "Palomino Fino",
-          "toelichting": "Droog en complex, met aroma's van walnoot, gedroogd fruit, leer, tabak en hazelnoot — een combinatie van biologische flor-rijping en oxidatieve rijping — Lustau Los Arcos, González Byass Viña AB of Bodegas Tradición Amontillado (€15–25). Amontillado verbindt de sherry in de saus, de amandel, de kip en de paddenstoelen in een perfecte aromatische cirkel: droog genoeg om het gerecht niet zoet te maken, rijk en oxidatief genoeg om het warme taartje en de kersen-sherrylak volledig te ondersteunen. Letterlijk de wijn in de saus, opnieuw in het glas. Serveer lichtjes gekoeld op 12–14°C.",
-          "alternatief": "Rioja Crianza (Tempranillo, Rioja) — kers, framboos, vanille, kokos en leer (Bodegas Muga, La Rioja Alta, €10–18, op 16–18°C). Klassieke Spaanse rode bij gestoofde kip in sherry: de kerstonen verbinden met de kersen-lak, vanille en kokos met de amandel, en leer met de oxidatieve stoofbasis — voor wie liever een glas rode wijn inschenkt."
+          "smaakprofiel": "Droog en complex, met aroma's van walnoot, gedroogd fruit, leer, tabak en hazelnoot — een combinatie van biologische flor-rijping en oxidatieve rijping.",
+          "omschrijving": "Lustau Los Arcos, González Byass Viña AB of Bodegas Tradición Amontillado (€15–25). Serveer lichtjes gekoeld op 12–14°C.",
+          "waarom_werkt_dit": "Amontillado verbindt de sherry in de saus, de amandel, de kip en de paddenstoelen in een perfecte aromatische cirkel: droog genoeg om het gerecht niet zoet te maken, rijk en oxidatief genoeg om het warme taartje en de kersen-sherrylak volledig te ondersteunen. Letterlijk de wijn in de saus, opnieuw in het glas."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Rioja Crianza",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Droog, kers, framboos, vanille, kokos en leer (Amerikaanse eik), matige tannine.",
+          "omschrijving": "Bodegas Muga, La Rioja Alta, Marqués de Riscal (€10–18). Serveer op 16–18°C.",
+          "waarom_werkt_dit": "Klassieke Spaanse rode bij gestoofde kip in sherry: de kerstonen verbinden met de kersen-lak, vanille en kokos met de amandel, en leer met de oxidatieve stoofbasis. Voor wie liever een glas rode wijn inschenkt."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Garnacha de Aragón",
+          "druif": "Garnacha",
+          "smaakprofiel": "Droog, rood fruit, kruidigheid en zachte tannine.",
+          "omschrijving": "Borsao, San Alejandro (€6–10). Breed verkrijgbaar in elke betere slijterij en supermarkt.",
+          "waarom_werkt_dit": "Toegankelijke Spaanse rode met zachte body — past bij de kip-stoof en de kersen-lak zonder duur te zijn. De rond-fruitige Garnacha-stijl is direct gastvrij bij het hartige gebakje."
         }
       ],
       "wine": {
@@ -63249,10 +63375,28 @@
       "chef_tip": "Mise-en-place: de tonijnsalade kan maximaal 2 uur vooraf worden gemaakt — niet langer, anders trekt het vocht eruit en wordt het log. De komkommer-blokjes uitlekken en de tomaten op keukenpapier leggen doe je het liefst als eerste, dan heb je die wachttijd nuttig gebruikt. Het broodje zelf opbouwen pas vlak voor het eten.\n\nTechniek: rooster alleen de binnenkant van het stokbrood — krokant binnen, zacht buiten. Één droge pan, 60 seconden per zijde, niet in de oven (anders wordt het hele brood hard). De geroosterde binnenkant plus het dunne laagje boter of olijfolie vormt een dubbele vocht-barrière die het broodje krokant houdt.\n\nPresentatie: snijd het stokbrood schuin doormidden en serveer open of halfopen op een mooi bord of houten plankje. Mooiste beeld: tonijnsalade grof zichtbaar in vlokken, komkommer-linten die iets uitsteken aan de zijkanten, plakjes ei bovenop, bieslook en citroenrasp als frisse afwerking. Dit moet eruitzien als een broodje dat je in een goede brasserie krijgt — gul, maar niet lomp.\n\nVariatie luxe-upgrade: vervang de huismerk-tonijn door ventresca (Ortiz Bonito del Norte of vergelijkbaar) — wordt direct zachter, eleganter en zo'n €5 duurder per broodje. Voor het authentieke brasserie-broodje is huismerk-tonijn echter precies goed.\n\nAlternatief met avocado: voeg een paar plakjes rijpe avocado toe als extra laag voor een zachtere, romigere versie — laat dan het ei of de tomaat weg om overvulling te voorkomen.\n\nTonijn in olijfolie — niet in water of zonnebloemolie: tonijn in water is droog en vlak, zonnebloemolie smaakt nergens naar. Olijfolie geeft body en smaak. Laat wel goed uitlekken anders wordt de salade zwaar.\n\nTonijn niet platprakken: grove vlokken geven een luxe mondgevoel. Doorgeprakte tonijn voelt fabrieksachtig en pasteus — spatel de saus erdoor, nooit roeren.\n\nKomkommer op twee manieren is de sleutel: linten voor frisheid in de hap, blokjes voor crunch in de salade. Beide droog — linten gedept, blokjes stevig uitgeknepen in een doek.\n\nCitroenrasp boven citroensap: rasp geeft geur en frisheid zonder de salade waterig te maken. Gebruik beide — 2 tl sap in de saus, rasp van 1 citroen erin én als afwerking bovenop.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Albariño Rías Baixas",
           "druif": "Albariño",
-          "toelichting": "Droog en fris, met aroma's van limoen, groene appel, perzik, ziltigheid en levendige zuren — Pazo de Señorans, Do Ferreiro of Granbazán (€10–18). Albariño past prachtig bij tonijn, citroen, komkommer en kappertjes: fris genoeg om de mayo en het ei licht te houden, sappig genoeg voor de tomaat en het brood, en de zilte ondertoon sluit direct aan bij de tonijn in olijfolie. Serveer op 8–10°C.",
-          "alternatief": "Sauvignon Blanc Touraine (Loire, Frankrijk) — citrus, groene appel, kruisbes, frisse zuren en groene kruiden (€8–12, breed verkrijgbaar). Sluit goed aan bij komkommer, citroen, bieslook en little gem, snijdt door de tonijnsalade zonder zwaar te worden — kies Touraine boven Sancerre, het sappigere profiel past hier beter."
+          "smaakprofiel": "Droog en fris, met aroma's van limoen, groene appel, perzik, ziltigheid en levendige zuren.",
+          "omschrijving": "Pazo de Señorans, Do Ferreiro of Granbazán (€10–18). Serveer op 8–10°C.",
+          "waarom_werkt_dit": "Albariño past prachtig bij tonijn, citroen, komkommer en kappertjes: fris genoeg om de mayo en het ei licht te houden, sappig genoeg voor de tomaat en het brood, en de zilte ondertoon sluit direct aan bij de tonijn in olijfolie."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Vermentino",
+          "druif": "Vermentino",
+          "smaakprofiel": "Droog, citrus, groene kruiden, lichte amandel, ziltigheid en frisse bitterheid.",
+          "omschrijving": "Argiolas Costamolino, Cantine Lunae Vermentino (€10–15).",
+          "waarom_werkt_dit": "Mediterrane frisheid die past bij tonijn in olijfolie, citroen, bieslook en kappertjes. De lichte bitterheid maakt het broodje gastronomischer en voorkomt dat het romig aanvoelt."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Sauvignon Blanc Touraine",
+          "druif": "Sauvignon Blanc",
+          "smaakprofiel": "Droog, citrus, groene appel, kruisbes, frisse zuren en groene kruiden.",
+          "omschrijving": "Meerdere domeinen in Touraine (€8–12). Breed verkrijgbaar in elke betere supermarkt en slijterij.",
+          "waarom_werkt_dit": "Sluit goed aan bij komkommer, citroen, bieslook en little gem. Snijdt door de tonijnsalade zonder zwaar te worden — kies Touraine boven Sancerre, het sappigere profiel past hier beter."
         }
       ],
       "wine": {
@@ -63413,10 +63557,28 @@
       "chef_tip": "Mise-en-place: de mosterdjus kan 30 minuten vooraf worden gemaakt en lauwwarm worden gehouden — het koude boterklontje klop je er pas vlak voor serveren door. Champignons en ui kun je ook vooraf bakken en warm houden. De frikandeau opwarmen en het brood roosteren doe je op het allerlaatste moment.\n\nTechniek: champignons op hoog vuur bakken zonder te roeren tot ze écht goudbruin zijn — zout pas toevoegen op het einde. Eerder zouten trekt vocht en maakt ze slap en grijs. En frikandeau alleen 30 tot 60 seconden in de warme jus leggen op het laagste vuur — dit vlees is mager en droogt direct uit bij te lang verhitten.\n\nPresentatie: serveer halfopen op een houten plankje of mooi bord, diagonaal doorgesneden. Dunne plooien frikandeau zichtbaar, champignons en uien glanzend erboven, een klein wit kannetje met extra mosterdjus ernaast — de Brabantse traditie om in te doppen. Een paar blaadjes little gem of dunne augurk apart op het bord voor visuele frisheid.\n\nVariatie luxe-upgrade: gaar een stuk procureur (varkensnek) met zout, peper, laurier en ui in een scheutje bouillon, afgedekt op 150°C gedurende 2½ tot 3 uur tot mals. Laat afkoelen, snijd dun en verwarm kort in de jus — sappiger en rijker dan slagers-frikandeau.\n\nVariatie sneller: vraag de slager om frikandeau-jus mee. Voeg daar 1 tl Dijon, 1 tl grove mosterd, ½ tl ketjap en een klontje koude boter aan toe — kort opwarmen, klaar. 80% van het resultaat in 5 minuten.\n\nVariatie met dragon: een paar verse dragon-blaadjes door de jus geeft de klassieke kalfsvlees-dragon-combinatie — een brasserie-detail dat het broodje direct een niveau optilt.\n\nKetjap manis is de geheime diepte: één theelepel — je proeft geen Aziatische saus, maar de jus wordt donkerder, ronder en hartiger. De stiekem-Hollandse lunchroom-truc die niemand kan thuisbrengen maar iedereen lekker vindt.\n\nAugurk of zilveruitjes niet overslaan: een klein zuur-accent maakt het broodje frisser en houdt de balans tegen het rijke vlees en de jus. Zonder zuur wordt het te zwaar.\n\nMaak de jus niet te dik: dit is jus, geen saus. Hij moet het vlees glanzend maken en net een beetje in het brood trekken — niet als een dikke laag stoofvlees-saus blijven liggen.",
       "wines": [
         {
+          "type": "aanbevolen",
           "naam": "Beaujolais-Villages of Fleurie",
           "druif": "Gamay",
-          "toelichting": "Sappig rood fruit, zachte tannine en frisse zuren — Marcel Lapierre Morgon of Domaine Foillard Fleurie (€12–18). Beaujolais snijdt feilloos door de mosterdjus en past mooi bij de zoete gekarameliseerde ui en het malse frikandeau: de frisse zuren houden het broodje licht, het sappige rood fruit verbindt met de hartige jus en de zachte tannine laat het vlees tot zijn recht komen. Serveer lichtjes gekoeld op 14°C.",
-          "alternatief": "Spätburgunder (Pinot Noir) uit Baden of Pfalz — rood fruit, zachte kruidigheid en lichte aardse tonen (Friedrich Becker, Bernhart, €15–22). Past prachtig bij de champignons, het vlees en de mosterd — verfijnder dan zware rode wijnen en net dat beetje eleganter bij dit broodje."
+          "smaakprofiel": "Droog, sappig rood fruit, zachte tannine en frisse zuren.",
+          "omschrijving": "Marcel Lapierre Morgon of Domaine Foillard Fleurie (€12–18). Serveer lichtjes gekoeld op 14°C.",
+          "waarom_werkt_dit": "Beaujolais snijdt feilloos door de mosterdjus en past mooi bij de zoete gekarameliseerde ui en het malse frikandeau: de frisse zuren houden het broodje licht, het sappige rood fruit verbindt met de hartige jus, en de zachte tannine laat het vlees tot zijn recht komen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Spätburgunder (Pinot Noir)",
+          "druif": "Spätburgunder",
+          "smaakprofiel": "Droog, rood fruit, zachte kruidigheid en lichte aardse tonen.",
+          "omschrijving": "Friedrich Becker, Bernhart, Knipser uit Baden of Pfalz (€15–22).",
+          "waarom_werkt_dit": "Past prachtig bij champignons, vlees en mosterd — verfijnder dan zware rode wijnen en net dat beetje eleganter bij dit broodje. De zachte kruidigheid sluit aan bij de mosterdjus."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Belgisch Tripel of Trappist Dubbel",
+          "druif": "Bier",
+          "smaakprofiel": "Droge afdronk, kruidigheid en complexiteit (Tripel) of rijp fruit en karamel (Dubbel).",
+          "omschrijving": "Westmalle Tripel, La Trappe, Karmeliet (Tripel) of Chimay Bruin, Westvleteren 8 (Dubbel).",
+          "waarom_werkt_dit": "Voor wie meer broodje-sfeer wil dan wijn-stijl: de droge afdronk en kruidigheid van een Tripel passen perfect bij broodje warm vlees met mosterdjus. De Dubbel geeft rijper fruit als tegenwicht voor de hartige jus."
         }
       ],
       "wine": {

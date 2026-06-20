@@ -603,8 +603,8 @@ footer a:hover { color: #8A3A10; }
 
 /* ── Wine sectie onderaan recept ── */
 .wine-section {
-  max-width: 860px;
-  margin: 3rem auto 2rem;
+  max-width: none;
+  margin: 0;
   padding: 2rem;
   background: #f9f3eb;
   border-left: 4px solid #B85C30;
