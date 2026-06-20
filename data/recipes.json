@@ -63100,7 +63100,7 @@
       "slug": "stokbroodje-tonijnsalade-komkommer-tomaat-ei",
       "location": "Nederland / brasserie-klassiek",
       "time": "20 min hands-on",
-      "servings": "4 personen",
+      "servings": "2 personen",
       "difficulty": "Makkelijk",
       "keuken": "Nederlands",
       "categorie": "hapjes-tapas",
@@ -63112,48 +63112,48 @@
           "group_name": "Tonijnsalade",
           "ingredients": [
             {
-              "name": "blikken goede huismerk-tonijn in olijfolie, ca. 160 g per stuk (AH, Jumbo of Lidl)",
-              "amount": "2"
+              "name": "blik goede huismerk-tonijn in olijfolie, ca. 160 g (AH, Jumbo of Lidl)",
+              "amount": "1"
             },
             {
               "name": "mayonaise (Calvé of zelfgemaakt)",
-              "amount": "2 el"
+              "amount": "1 el"
             },
             {
               "name": "Griekse yoghurt of crème fraîche",
-              "amount": "2 el"
+              "amount": "1 el"
             },
             {
               "name": "Dijon-mosterd",
-              "amount": "2 tl"
+              "amount": "1 tl"
             },
             {
               "name": "vers citroensap",
-              "amount": "2 tl"
+              "amount": "1 tl"
             },
             {
-              "name": "fijne rasp van 1 citroen",
+              "name": "fijne rasp van ½ citroen",
               "amount": "1"
             },
             {
               "name": "extra-vergine olijfolie",
-              "amount": "2 tl"
+              "amount": "1 tl"
             },
             {
-              "name": "kleine augurken (cornichons), zeer fijn gesneden",
-              "amount": "2"
+              "name": "kleine augurk (cornichon), zeer fijn gesneden",
+              "amount": "1"
             },
             {
               "name": "kappertjes (op zuur, uitgespoeld), grof gehakt",
-              "amount": "2 tl"
+              "amount": "1 tl"
             },
             {
               "name": "verse bieslook, fijn gesneden",
-              "amount": "2 el"
+              "amount": "1 el"
             },
             {
               "name": "sjalot of rode ui, zeer fijn gesneden",
-              "amount": "2 el"
+              "amount": "1 el"
             },
             {
               "name": "vers gemalen zwarte peper",
@@ -63170,23 +63170,23 @@
           "ingredients": [
             {
               "name": "komkommer",
+              "amount": "½"
+            },
+            {
+              "name": "rijpe tomaat (Tasty Tom of trostomaat)",
               "amount": "1"
             },
             {
-              "name": "rijpe tomaten (Tasty Tom of trostomaat)",
-              "amount": "2"
-            },
-            {
-              "name": "hardgekookte eieren (9 min gekookt)",
-              "amount": "2"
+              "name": "hardgekookt ei (9 min gekookt)",
+              "amount": "1"
             },
             {
               "name": "mooie blaadjes little gem of jonge kropsla",
-              "amount": "8–12"
+              "amount": "4–6"
             },
             {
               "name": "vers citroensap",
-              "amount": "paar druppels"
+              "amount": "1 tl"
             },
             {
               "name": "fijn zeezout",
@@ -63202,8 +63202,8 @@
           "group_name": "Brood en afwerking",
           "ingredients": [
             {
-              "name": "goede stokbroden of 4 kleine demi-baguettes (vers, knapperige korst)",
-              "amount": "2"
+              "name": "goed stokbrood of 2 kleine demi-baguettes (vers, knapperige korst)",
+              "amount": "1"
             },
             {
               "name": "roomboter of olijfolie (heel dun, voor binnenkant)",
@@ -63260,6 +63260,170 @@
         "druif": "Albariño",
         "toelichting": "Droog en fris, met aroma's van limoen, groene appel, perzik, ziltigheid en levendige zuren — Pazo de Señorans, Do Ferreiro of Granbazán (€10–18). Albariño past prachtig bij tonijn, citroen, komkommer en kappertjes: fris genoeg om de mayo en het ei licht te houden, sappig genoeg voor de tomaat en het brood, en de zilte ondertoon sluit direct aan bij de tonijn in olijfolie. Serveer op 8–10°C.",
         "alternatief": "Sauvignon Blanc Touraine (Loire, Frankrijk) — citrus, groene appel, kruisbes, frisse zuren en groene kruiden (€8–12, breed verkrijgbaar). Sluit goed aan bij komkommer, citroen, bieslook en little gem, snijdt door de tonijnsalade zonder zwaar te worden — kies Touraine boven Sancerre, het sappigere profiel past hier beter."
+      }
+    },
+    {
+      "source_recipe_number": 191,
+      "title": "Broodje warm vlees met frikandeau, champignons en mosterdjus",
+      "slug": "broodje-warm-vlees-frikandeau-champignons-mosterdjus",
+      "location": "Nederland / brasserie-klassiek",
+      "time": "15 min voorbereiding + 25 min bereiding",
+      "servings": "2 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/broodje-warm-vlees-frikandeau-champignons-mosterdjus.jpg",
+      "short_description": "Het lunchroom-broodje van vroeger, maar dan eindelijk echt goed: warme frikandeau, stevig gebakken champignons, gekarameliseerde ui en een glanzende eigengemaakte mosterdjus met ketjap.",
+      "description": "Het lunchroom-broodje van vroeger, maar dan eindelijk echt goed: krokante demi-baguette, dunne warme frikandeau van de slager, stevig gebakken champignons, zachte gekarameliseerde ui en een glanzende eigengemaakte mosterdjus met twee soorten mosterd en een geheime druppel ketjap manis. Sappig, hartig, licht zoet, niet zompig en niet te zwaar. Brasserie-niveau in vijftien minuten.",
+      "ingredient_groups": [
+        {
+          "group_name": "Broodje",
+          "ingredients": [
+            {
+              "name": "verse demi-baguettes of kleine stokbroodjes (van de bakker, krokante korst)",
+              "amount": "2"
+            },
+            {
+              "name": "dun gesneden frikandeau van de slager (kalfs- of varkensfrikandeau)",
+              "amount": "250–300 g"
+            },
+            {
+              "name": "kastanjechampignons, in plakjes",
+              "amount": "200 g"
+            },
+            {
+              "name": "grote ui, in halve ringen",
+              "amount": "1"
+            },
+            {
+              "name": "roomboter",
+              "amount": "1 el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Mosterdjus",
+          "ingredients": [
+            {
+              "name": "sjalot, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "roomboter",
+              "amount": "15 g"
+            },
+            {
+              "name": "runderfond of krachtige vleesbouillon",
+              "amount": "125 ml"
+            },
+            {
+              "name": "kippenfond of water",
+              "amount": "75 ml"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "grove Hollandse mosterd (Zaanse of Limburgse)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Worcestershire-saus",
+              "amount": "½ tl"
+            },
+            {
+              "name": "appelazijn of rode wijnazijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "klontje koude roomboter (voor glans)",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse bieslook of platte peterselie, fijngesneden",
+              "amount": "1 el"
+            },
+            {
+              "name": "dunne plakjes augurk of zilveruitjes in helften",
+              "amount": "4–6"
+            },
+            {
+              "name": "blaadjes little gem of jonge rucola (optioneel)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Champignons stevig bruin bakken",
+          "description": "Verhit een brede koekenpan op hoog vuur. Voeg de olie toe en bak de champignonplakjes zonder te roeren tot ze goed bruinen — zout pas toevoegen als ze diepgouden zijn, anders trekt zout vocht en worden ze slap. Kruid met zout en peper en haal uit de pan. Zet apart."
+        },
+        {
+          "action": "Ui zacht en glanzend bakken",
+          "description": "Doe de roomboter in dezelfde pan. Bak de halve uiringen op middellaag vuur met een klein snufje zout — 8 tot 10 minuten tot zacht, glanzend en lichtgoudbruin. Niet donker karamelliseren, anders wordt het te zoet. Voeg de champignons weer toe en houd warm."
+        },
+        {
+          "action": "Mosterdjus maken",
+          "description": "Smelt 15 g boter in een klein pannetje. Fruit de sjalot 2 minuten zacht zonder te kleuren. Voeg de runderfond, kippenfond, Dijon-mosterd, grove mosterd, ketjap manis, Worcestershire en azijn toe. Laat 5–8 minuten zacht inkoken tot een glanzende jus die aan de lepel hangt — hartig, licht zoet, licht zuur en mosterdachtig. Breng op smaak met peper. Klop vlak voor gebruik een klontje koude boter door de jus voor glans en ronding."
+        },
+        {
+          "action": "Frikandeau zacht opwarmen in de jus",
+          "description": "Zet het vuur op het laagste. Leg de dunne plakken frikandeau kort in de warme mosterdjus — 30 tot 60 seconden, alleen warm laten worden. Niet laten koken; frikandeau is mager en wordt droog bij te lang verhitten."
+        },
+        {
+          "action": "Brood roosteren",
+          "description": "Snijd de demi-baguettes open. Rooster alleen de binnenkant kort in een droge pan, grillpan of onder de grill tot lichtgouden en krokant. De buitenkant blijft zacht. Eventueel een dun veegje boter of olijfolie op de binnenkant."
+        },
+        {
+          "action": "Opbouwen en serveren",
+          "description": "Bouw elk broodje op: geroosterde binnenkant met eventueel dun laagje boter, optioneel een paar blaadjes little gem of rucola, warme frikandeau-plakjes uit de mosterdjus in dakpan-patroon, gebakken champignons en gekarameliseerde ui erbovenop, een klein lepeltje extra mosterdjus over alles, augurkjes of zilveruitjes voor het zuur-accent en bieslook met vers gemalen zwarte peper. Serveer warm, diagonaal doorgesneden op een houten plankje of mooi bord — eventueel een klein kannetje extra mosterdjus ernaast om in te doppen."
+        }
+      ],
+      "chef_tip": "Mise-en-place: de mosterdjus kan 30 minuten vooraf worden gemaakt en lauwwarm worden gehouden — het koude boterklontje klop je er pas vlak voor serveren door. Champignons en ui kun je ook vooraf bakken en warm houden. De frikandeau opwarmen en het brood roosteren doe je op het allerlaatste moment.\n\nTechniek: champignons op hoog vuur bakken zonder te roeren tot ze écht goudbruin zijn — zout pas toevoegen op het einde. Eerder zouten trekt vocht en maakt ze slap en grijs. En frikandeau alleen 30 tot 60 seconden in de warme jus leggen op het laagste vuur — dit vlees is mager en droogt direct uit bij te lang verhitten.\n\nPresentatie: serveer halfopen op een houten plankje of mooi bord, diagonaal doorgesneden. Dunne plooien frikandeau zichtbaar, champignons en uien glanzend erboven, een klein wit kannetje met extra mosterdjus ernaast — de Brabantse traditie om in te doppen. Een paar blaadjes little gem of dunne augurk apart op het bord voor visuele frisheid.\n\nVariatie luxe-upgrade: gaar een stuk procureur (varkensnek) met zout, peper, laurier en ui in een scheutje bouillon, afgedekt op 150°C gedurende 2½ tot 3 uur tot mals. Laat afkoelen, snijd dun en verwarm kort in de jus — sappiger en rijker dan slagers-frikandeau.\n\nVariatie sneller: vraag de slager om frikandeau-jus mee. Voeg daar 1 tl Dijon, 1 tl grove mosterd, ½ tl ketjap en een klontje koude boter aan toe — kort opwarmen, klaar. 80% van het resultaat in 5 minuten.\n\nVariatie met dragon: een paar verse dragon-blaadjes door de jus geeft de klassieke kalfsvlees-dragon-combinatie — een brasserie-detail dat het broodje direct een niveau optilt.\n\nKetjap manis is de geheime diepte: één theelepel — je proeft geen Aziatische saus, maar de jus wordt donkerder, ronder en hartiger. De stiekem-Hollandse lunchroom-truc die niemand kan thuisbrengen maar iedereen lekker vindt.\n\nAugurk of zilveruitjes niet overslaan: een klein zuur-accent maakt het broodje frisser en houdt de balans tegen het rijke vlees en de jus. Zonder zuur wordt het te zwaar.\n\nMaak de jus niet te dik: dit is jus, geen saus. Hij moet het vlees glanzend maken en net een beetje in het brood trekken — niet als een dikke laag stoofvlees-saus blijven liggen.",
+      "wines": [
+        {
+          "naam": "Beaujolais-Villages of Fleurie",
+          "druif": "Gamay",
+          "toelichting": "Sappig rood fruit, zachte tannine en frisse zuren — Marcel Lapierre Morgon of Domaine Foillard Fleurie (€12–18). Beaujolais snijdt feilloos door de mosterdjus en past mooi bij de zoete gekarameliseerde ui en het malse frikandeau: de frisse zuren houden het broodje licht, het sappige rood fruit verbindt met de hartige jus en de zachte tannine laat het vlees tot zijn recht komen. Serveer lichtjes gekoeld op 14°C.",
+          "alternatief": "Spätburgunder (Pinot Noir) uit Baden of Pfalz — rood fruit, zachte kruidigheid en lichte aardse tonen (Friedrich Becker, Bernhart, €15–22). Past prachtig bij de champignons, het vlees en de mosterd — verfijnder dan zware rode wijnen en net dat beetje eleganter bij dit broodje."
+        }
+      ],
+      "wine": {
+        "naam": "Beaujolais-Villages of Fleurie",
+        "druif": "Gamay",
+        "toelichting": "Sappig rood fruit, zachte tannine en frisse zuren — Marcel Lapierre Morgon of Domaine Foillard Fleurie (€12–18). Beaujolais snijdt feilloos door de mosterdjus en past mooi bij de zoete gekarameliseerde ui en het malse frikandeau: de frisse zuren houden het broodje licht, het sappige rood fruit verbindt met de hartige jus en de zachte tannine laat het vlees tot zijn recht komen. Serveer lichtjes gekoeld op 14°C.",
+        "alternatief": "Spätburgunder (Pinot Noir) uit Baden of Pfalz — rood fruit, zachte kruidigheid en lichte aardse tonen (Friedrich Becker, Bernhart, €15–22). Past prachtig bij de champignons, het vlees en de mosterd — verfijnder dan zware rode wijnen en net dat beetje eleganter bij dit broodje."
       }
     }
   ]
