@@ -271,11 +271,12 @@ a { color: inherit; text-decoration: none; }
 .tags { display: flex; gap: 6px; flex-wrap: wrap; }
 
 .tag {
-  font-size: 11px;
-  padding: 3px 11px;
-  border: 0.5px solid var(--border);
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 12px;
+  border: 1px solid var(--border);
   border-radius: 20px;
-  color: var(--muted);
+  color: #5a3e2b;
 }
 
 .tag-acc { border-color: #C4925C; color: var(--accent); }
@@ -812,12 +813,13 @@ footer a:hover { color: #8A3A10; }
 /* ── Detail pagina acties ── */
 .detail-actie-btn {
   font-family: var(--sans);
-  font-size: 12px;
-  padding: 4px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 5px 14px;
   border-radius: 20px;
-  border: 0.5px solid var(--border);
+  border: 1px solid var(--border);
   background: transparent;
-  color: var(--muted);
+  color: #5a3e2b;
   cursor: pointer;
   transition: all 0.15s;
   white-space: nowrap;
