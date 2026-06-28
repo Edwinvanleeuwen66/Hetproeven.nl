@@ -63820,23 +63820,43 @@
       ],
       "steps": [
         {
-          "action": "Alle vullingen klaarmaken",
-          "description": "Maak eerst alle zes vullingen voor dat je begint met beleggen. (1) Citroenboter: meng zachte boter met citroenrasp en paar druppels citroensap. Komkommer flinterdun schaven, licht zouten, 5–10 min op keukenpapier laten liggen en grondig droogdeppen. (2) Coronation chicken: meng mayonaise, crème fraîche, mango chutney, kerrie, limoenrasp en limoensap — schep de héél fijn geplukte kip erdoor, fluweelzacht maar geen puree. (3) Mierikswortelcrème: meng crème fraîche, mayonaise, mierikswortel, Dijon, citroensap — bouwen van weinig naar meer, proeven en bijstellen. Cornichon in mini-blokjes snijden. (4) Mosterdboter: meng zachte boter met Dijon. Appelplakjes licht besprenkelen met citroensap en droogdeppen. (5) Ei mimosa: koud hardgekookt ei raspen op grove rasp — niet prakken. Meng mayonaise, crème fraîche, Dijon en bieslook, schep het geraspte ei er voorzichtig door. (6) Honing-mosterd-crème: komkommer in piepkleine blokjes, zouten, 5 min laten staan, grondig droogdeppen. Meng crème fraîche, mayonaise, Dijon, grove mosterd, honing en citroensap."
+          "action": "Alle vullingen klaarmaken — doe dit eerst",
+          "description": "Maak eerst alle zes vullingen klaar voordat je begint met beleggen — dan kun je achter elkaar door zonder onderbrekingen."
         },
         {
-          "action": "Sandwiches beleggen",
-          "description": "Besmeer beide sneetjes brood van elke sandwich dun met de bijbehorende boter — dit beschermt het brood tegen vocht. Beleg één snee per sandwich dun en elegant: (1) komkommer dakpansgewijs, munt en tuinkers, (2) coronation chicken en tuinkers, (3) mierikswortelcrème, rosbief in losse plooien, cornichon-blokjes en tuinkers, (4) mosterdboter, oude Goudse, appel, heel dun spoor sjalottencompote en tuinkers, (5) ei mimosa en tuinkers, (6) honing-mosterd-crème, beenham in zachte plooien, komkommer-blokjes en tuinkers. Sluit elke sandwich en druk zacht aan."
+          "action": "1. Komkommer met citroenboter en munt",
+          "description": "Meng de zachte boter met citroenrasp en paar druppels citroensap tot citroenboter. Schaaf de komkommer flinterdun, leg op keukenpapier, strooi heel licht zout — laat 5–10 min liggen, dep grondig droog. Besmeer beide sneetjes brood dun met citroenboter. Leg komkommer dakpansgewijs op één snee. Strooi munt, tuinkers en heel weinig zwarte peper. Sluit, druk zacht aan, korsten weg, diagonaal in 2 driehoekjes."
         },
         {
-          "action": "Aandrukken, korsten afsnijden en in driehoekjes snijden",
-          "description": "Leg alle gevulde sandwiches 10 minuten onder een vel bakpapier met een lichte plank erop — niet pletten, alleen zacht aandrukken. Dit hecht het beleg aan het brood en maakt het snijden makkelijker. Snijd met een scherp kartelmes de 4 korsten af in één gladde beweging. Snijd elke sandwich diagonaal in 2 driehoekjes. Veeg het mes schoon tussen de verschillende smaken — vooral na ei mimosa en coronation chicken."
+          "action": "2. Fluweelzachte coronation chicken met mango en limoen",
+          "description": "Meng mayonaise, crème fraîche, mango chutney, kerrie, limoenrasp, limoensap en eventueel abrikozenjam. Schep de heel fijn geplukte kip erdoor — fluweelzacht maar geen puree. Proef en stel af: de kerrie moet op de achtergrond zitten. Besmeer beide sneetjes brood dun met boter. Verdeel de coronation chicken over één snee. Strooi tuinkers. Sluit, drukken, korsten weg, diagonaal in 2 driehoekjes."
+        },
+        {
+          "action": "3. Rosbief met zachte mierikswortelcrème, cornichon en tuinkers",
+          "description": "Meng crème fraîche, mayonaise, mierikswortel, Dijon, citroensap, peper en zout — liever bouwen van weinig naar meer dan in één keer te veel mierikswortel. Besmeer beide sneetjes brood dun met boter. Smeer op één snee een dun laagje mierikswortelcrème. Leg de rosbief in losse plooien erop. Strooi mini-cornichon-blokjes en tuinkers. Sluit, drukken, korsten weg, diagonaal in 2 driehoekjes."
+        },
+        {
+          "action": "4. Oude Goudse met appel, mosterdboter en sjalottencompote",
+          "description": "Meng de zachte boter met de mosterd tot mosterdboter. Besprenkel de appelplakjes heel licht met citroensap (voorkomt verkleuring) en dep droog. Besmeer beide sneetjes brood dun met mosterdboter. Leg op één snee de oude Goudse, dan de appel, dan een héél dun spoor sjalottencompote — niet te veel, anders wordt het te zoet. Strooi tuinkers, draai zwarte peper. Sluit, drukken, korsten weg, diagonaal in 2 driehoekjes."
+        },
+        {
+          "action": "5. Ei mimosa met bieslook, tuinkers en gezouten boter",
+          "description": "Rasp het koude hardgekookt ei op een grove rasp — niet prakken; geraspt geeft luchtige mimosa-textuur. Meng mayonaise, crème fraîche, Dijon, bieslook, witte peper en zout. Schep het geraspte ei voorzichtig erdoor — vulling moet luchtig blijven. Besmeer beide sneetjes brood dun met gezouten boter. Verdeel de ei mimosa over één snee. Strooi tuinkers. Sluit, drukken, korsten weg, diagonaal in 2 driehoekjes."
+        },
+        {
+          "action": "6. Beenham met honing-mosterd-crème, komkommer en tuinkers",
+          "description": "Snijd de komkommer in piepkleine blokjes, strooi snufje zout, laat 5 min staan en dep grondig droog. Meng crème fraîche, mayonaise, Dijon, grove mosterd, honing, citroensap en zwarte peper tot een zachte honing-mosterd-crème. Besmeer beide sneetjes brood dun met boter. Smeer op één snee een dun laagje honing-mosterd-crème. Leg de beenham in zachte plooien erop. Strooi komkommer-blokjes en tuinkers. Sluit, drukken, korsten weg, diagonaal in 2 driehoekjes."
+        },
+        {
+          "action": "Montage en afwerking",
+          "description": "Leg de gevulde sandwiches 10 min onder een vel bakpapier met een lichte plank erop — niet pletten, alleen zacht aandrukken. Dit hecht het beleg aan het brood en maakt het snijden makkelijker. Snijd dan met scherp kartelmes de 4 korsten af in één gladde beweging. Snijd elke sandwich diagonaal in 2 driehoekjes. Veeg het mes schoon tussen de verschillende smaken — vooral na ei mimosa en coronation chicken."
         },
         {
           "action": "Presenteren en serveren",
-          "description": "Leg de 12 driehoekjes op een mooie schaal, kleine etagère of houten plank. Serveer van licht naar krachtig: komkommer → ei mimosa → coronation chicken → beenham → oude Goudse met appel → rosbief met mierikswortel. Garneer alleen met een beetje tuinkers tussen de groepjes — strak en elegant houden. Serveer koel maar niet koelkast-koud. Maximaal 2–3 uur vooraf maken en bewaren onder vochtig keukenpapier en folie."
+          "description": "Leg de 12 driehoekjes op een mooie schaal, kleine etagère of houten plank. Serveer van licht naar krachtig: komkommer → ei mimosa → coronation chicken → beenham → oude Goudse met appel → rosbief met mierikswortel. Garneer alleen met een beetje tuinkers tussen de groepjes — geen tomaatjes, geen sla, geen losse komkommerschijven. Strak en elegant houden. Serveer koel, niet koelkast-koud."
         }
       ],
-      "chef_tip": "Mise-en-place: maak eerst alle zes vullingen klaar voordat je begint met beleggen — dan kun je achter elkaar door zonder onderbrekingen. Bewaar de sandwiches maximaal 2–3 uur vooraf onder vochtig keukenpapier en folie; vlak voor de gasten arriveren snijden en presenteren.\n\nTechniek: boter is hier zowel functioneel als smaakgevend. Een dun laagje op beide sneetjes brood beschermt tegen vocht uit komkommer, ei, appel en crèmes. Zachte boter smeert dunner uit zonder het brood te scheuren — gebruik nooit koude boter.\n\nPresentatie: serveer van licht naar krachtig: komkommer (lichtste) → ei mimosa → coronation chicken → beenham met honing-mosterd → oude Goudse met appel → rosbief met mierikswortel (krachtigste). Garneer alleen met een beetje tuinkers tussen de groepjes — geen tomaatjes, geen losse komkommerschijven. Strak en elegant houden op bone-china, witte porseleinen plank of houten plank met wit linnen.\n\nVariatie: vervang de sjalottencompote bij sandwich 4 door vijgenmoes (figuera) voor een Frans-Hollandse twist — oude Goudse, appel en vijgenmoes is een gastronomische winnaar.\n\nAlternatief voor sandwich 2 (coronation chicken): gebruik geen kant-en-klare kip-kerrie-salade. De kerrie moet op de achtergrond zitten; limoen is de geheime spanning. Fijn geplukte kipdij geeft de beste textuur.\n\nDep alles droog dat nat is: komkommer, appel, cornichon, ei-rasp — altijd 5 minuten op keukenpapier met een snufje zout en daarna grondig deppen. Fris is goed, vocht is funest voor de structuur van de sandwich.\n\nEi op grove rasp, nooit prakken: koud hardgekookt ei op de grove rasp geeft de typische luchtige mimosa-textuur. Geprakt wordt het een zware paste die het brood doordrenkt en de elegantie breekt.\n\nMierikswortel bouwen van weinig naar meer: liever na proeven bijdoseren dan in één keer te veel. Mierikswortel moet fris-scherp zijn, niet agressief — het is een finger sandwich, geen biefstuk.\n\nVullingen fijner maken dan normaal: voor finger-sandwich-formaat alles kleiner snijden dan je gewend bent — kip héél fijn geplukt, komkommer in piepkleine blokjes, cornichon in mini-mini-blokjes. Grote stukken maken kleine driehoekjes rommelig en moeilijk te eten.",
+      "chef_tip": "Mise-en-place: maak eerst alle zes vullingen klaar voordat je begint met beleggen — dan kun je achter elkaar door zonder onderbrekingen. Bewaar de sandwiches maximaal 2–3 uur vooraf onder vochtig keukenpapier en folie; vlak voor de gasten arriveren snijden en presenteren.\n\nTechniek: boter is hier zowel functioneel als smaakgevend. Een dun laagje op beide sneetjes brood beschermt tegen vocht uit komkommer, ei, appel en crèmes. Zachte boter smeert dunner uit zonder het brood te scheuren — gebruik nooit koude boter.\n\nPresentatie: serveer van licht naar krachtig: komkommer (lichtste) → ei mimosa → coronation chicken → beenham met honing-mosterd → oude Goudse met appel → rosbief met mierikswortel (krachtigste). Garneer alleen met een beetje tuinkers tussen de groepjes — geen tomaatjes, geen losse komkommerschijven. Strak en elegant houden op bone-china, witte porseleinen plank of houten plank met wit linnen.\n\nVariatie: vervang de sjalottencompote bij sandwich 4 door vijgenmoes (figuera) voor een Frans-Hollandse twist — oude Goudse, appel en vijgenmoes is een gastronomische winnaar.\n\nAlternatief voor sandwich 2 (coronation chicken): gebruik geen kant-en-klare kip-kerrie-salade. De kerrie moet op de achtergrond zitten; limoen is de geheime spanning. Fijn geplukte kipdij geeft de beste textuur.\n\nDep alles droog dat nat is: komkommer, appel, cornichon, ei-rasp — altijd 5 minuten op keukenpapier met een snufje zout en daarna grondig deppen. Fris is goed, vocht is funest voor de structuur van de sandwich.\n\nEi op grove rasp, nooit prakken: koud hardgekookt ei op de grove rasp geeft de typische luchtige mimosa-textuur. Geprakt wordt het een zware paste die het brood doordrenkt en de elegantie breekt.\n\nMierikswortel bouwen van weinig naar meer: liever na proeven bijdoseren dan in één keer te veel. Mierikswortel moet fris-scherp zijn, niet agressief — het is een finger sandwich, geen biefstuk.\n\nVullingen fijner maken dan normaal: voor finger-sandwich-formaat alles kleiner snijden dan je gewend bent — kip héél fijn geplukt, komkommer in piepkleine blokjes, cornichon in mini-mini-blokjes. Grote stukken maken kleine driehoekjes rommelig en moeilijk te eten.\n\nOnder vochtig keukenpapier en folie bewaren — maximaal 2–3 uur vooraf. Vochtig papier voorkomt uitdroging; folie houdt het verzegeld. Ideaal: vlak voor de gasten arriveren snijden en op de stand zetten.\n\nVariatie luxe-upgrade #4 (kaas): vervang de sjalottencompote door vijgenmoes (figuera) voor een Frans-Hollandse twist. Oude Goudse + appel + vijgenmoes is een gastronomische winnaar.\n\nNiet meer dan 10 min na samenstellen wachten met serveren. Salade met cocktailsaus wacht niet — de sla zakt in, de kaas absorbeert vocht, de hele balans verandert. Maak alles klaar, stel pas samen wanneer iedereen klaar is om te eten.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -63983,28 +64003,40 @@
       ],
       "steps": [
         {
-          "action": "Spek krokant bakken",
-          "description": "Verwarm de oven op 200°C. Leg de ontbijtspek-strepen op een bakplaat met bakpapier, leg een tweede vel bakpapier en een lichte bakplaat erop — zo bakken ze plat en krokant in plaats van te krullen. Bak 12–15 minuten tot diepgouden en crispy. Laat uitlekken op keukenpapier. Alternatief: bak in een droge pan op middelhoog vuur 8–10 minuten, regelmatig keren en met een spatel platdrukken. Spek mag lauwwarm zijn bij het stapelen — maak hem gerust 20 minuten vooraf."
+          "action": "Spek krokant bakken — kan een uur vooraf",
+          "description": "Verwarm oven op 200°C. Leg de ontbijtspek-strepen op een bakplaat met bakpapier, leg een tweede vel bakpapier en een lichte bakplaat erop — bakt platte krokante strepen in plaats van krullende reepjes. Bak 12–15 min tot diepgouden en crispy. Laat uitlekken op keukenpapier. Alternatief: in een droge pan op middelhoog vuur 8–10 min, regelmatig keren en met spatel platdrukken."
         },
         {
           "action": "Tomaat-concassée maken",
-          "description": "Kruis de tomaat in aan de onderkant. Dompel 30 seconden in kokend water, dan direct in ijswater — het vel laat los, trek het af. Snijd in vieren en lepel het natte zaadgedeelte weg. Snijd het stevige vruchtvlees in mini-blokjes van 5 mm. Strooi een snufje zout, leg 5 minuten op keukenpapier en dep grondig droog. Hierdoor blijft de tomaat op zijn plek in elke hap én blijft de sandwich droog."
+          "description": "Kruis in de tomaat. Dompel 30 sec in kokend water, dan in ijswater — vel laat los, trek af. Snijd in vieren, snijd het natte zaadgedeelte weg met een lepel. Snijd het stevige vruchtvlees in mini-blokjes van 5 mm. Strooi een snufje zout, leg 5 min op keukenpapier, dep grondig droog. Hierdoor blijft de tomaat op zijn plek in elke hap én blijft de sandwich droog."
         },
         {
-          "action": "Ei, mayo en overige voorbereidingen",
-          "description": "Snijd het koude hardgekookte ei in dunne plakjes van ca. 4 mm. Strooi heel licht zout en peper. Meng in een schaaltje de mayonaise, crème fraîche, Dijon, citroensap, citroenrasp, eventueel Worcestershire, zout en peper tot een gladde lichtere mayo. Was de little gem-blaadjes en zwier droog — gebruik vooral de kleine knapperige binnenblaadjes. Snijd de gerookte kipfilet in dunne plakjes."
+          "action": "Ei in plakjes",
+          "description": "Snijd het koude hardgekookte ei in dunne plakjes van ca. 4 mm met een scherp mes (of eiersnijder). Strooi heel licht zout en peper. Leg apart — voor elke club gebruik je 2 plakjes ei."
+        },
+        {
+          "action": "Mayo opmaken",
+          "description": "Meng in een klein schaaltje mayonaise, crème fraîche of yoghurt, Dijon, citroensap, citroenrasp, zout en peper tot een gladde, lichtere-dan-standaard mayo. Eventueel paar druppels Worcestershire voor umami. Dit is dé upgrade ten opzichte van plain mayo."
+        },
+        {
+          "action": "Sla en kip voorbereiden",
+          "description": "Was de little gem-blaadjes en zwiet droog in een sla-centrifuge. Gebruik vooral de kleine binnenblaadjes — deze zijn knapperiger. Snijd de gerookte kipfilet in dunne plakjes. Heb je een hele gerookte kipfilet? Zelf snijden met scherp mes geeft betere textuur dan kant-en-klare plakken."
         },
         {
           "action": "Brood toosten",
-          "description": "Toast alle 6 sneetjes wit casinobrood tot net diepgoudbruin en knapperig — niet te donker, anders breken ze tijdens het stapelen. Net krokant maar nog buigbaar is de sweet spot. Besmeer de binnenkanten heel dun met zachte roomboter."
+          "description": "Toast alle 6 sneetjes wit casinobrood tot net diepgoudbruin en knapperig — niet te donker, anders breken ze tijdens het stapelen. Net krokant maar nog buigbaar is de sweet spot. Eventueel binnenkant heel dun met zachte roomboter besmeren."
         },
         {
           "action": "Stapelen — de architectuur",
-          "description": "Bouw per club twee verdiepingen op met 3 sneetjes brood. Onderste laag: besmeer de binnenkant met mayo, leg 2 kleine blaadjes little gem, 4–5 dunne plakjes gerookte kipfilet overlappend, 1 à 1½ el tomaat-concassée gelijkmatig verdeeld en een draai zwarte peper. Middelste brood: besmeer beide kanten dun met mayo, druk de onderkant licht tegen de tomaat aan, leg op de bovenkant 2 plakjes ei overlappend, 3 krokante spek-strepen en 1 klein blaadje little gem. Topbrood: besmeer de binnenkant met mayo en plaats voorzichtig op het spek. Druk de gestapelde sandwich heel lichtjes aan met de palm van je hand — net genoeg om de drie lagen te laten binden. Doel: 4–5 cm totale hoogte."
+          "description": "Per club gebruik je 3 sneetjes brood en bouw je twee verdiepingen op. Discipline: dunne lagen per onderdeel, niets opstapelen tot een toren. Onderste laag (eerste brood): lichtjes geboterde binnenkant, dunne laag Dijon-citroen-mayo, 2 kleine blaadjes little gem, 4–5 dunne plakjes gerookte kipfilet (overlappend), 1 à 1,5 el tomaat-concassée gelijkmatig verdeeld, snufje vers gemalen zwarte peper. Middelste brood (tweede brood — beide kanten mayo): beide kanten lichtjes geboterd, dan beide kanten dunne mayo, onderkant tegen de tomaat aandrukken, op de bovenkant 2 plakjes ei (overlappend leggen), 3 krokante spek-strepen, 1 klein blaadje little gem erop. Topbrood (derde brood): lichtjes geboterd, mayo aan de binnenkant, pas voorzichtig op het spek. Druk de gestapelde sandwich heel lichtjes aan met de palm van je hand — net genoeg om de drie lagen te laten 'binden', niet om plat te drukken. Doel: 4–5 cm totale hoogte, niet 8 cm."
         },
         {
-          "action": "Snijden, presenteren en serveren",
-          "description": "Snijd met een scherp kartelmes de 4 korsten weg in één gladde beweging. Snijd de sandwich diagonaal in 2 driehoeken. Steek een cocktailprikker in de top van elke driehoek. Herhaal voor de tweede club. Serveer 2 driehoeken per persoon op een donker plankje of mooi bord, met de open kant (drie zichtbare lagen) naar de gast gericht. Garneer met waterkers of bieslook. Eventueel een schaaltje extra Dijon-citroen-mayo ernaast en een handjevol krokante chips. Direct serveren."
+          "action": "Snijden",
+          "description": "Snijd met scherp kartelmes eerst de 4 korsten weg in één gladde beweging. Dan snijd je de sandwich diagonaal in 2 driehoeken — de klassieke club-cut. Steek een cocktailprikker in de top van elke driehoek om de drie lagen bij elkaar te houden tijdens het eten. Herhaal voor de tweede club."
+        },
+        {
+          "action": "Presentatie en serveren",
+          "description": "Serveer 2 driehoeken per persoon op een klein donker plankje of mooi bord. De driehoeken met de open kant (drie zichtbare lagen) naar de gast gericht — het visuele verhaal is de gestapelde architectuur: brood-sla-kip-tomaat-brood-ei-spek-brood. Garneer met een paar takjes waterkers of bieslook tussen de driehoeken voor groen-accent. Optioneel: een klein schaaltje extra Dijon-citroen-mayo ernaast voor wie wil bijdoppen. Eventueel een handjevol krokante aardappelchips apart op het bord — geen berg friet, geen overdaad."
         }
       ],
       "chef_tip": "Mise-en-place: het spek kan een uur vooraf worden gebakken en op keukenpapier worden bewaard — het wordt zelfs krokanter naarmate het afkoelt. De tomaat-concassée en de mayo kun je ook al van tevoren maken. Toast het brood en stapel de sandwich pas vlak voor het serveren.\n\nTechniek: de architectuur is alles bij een club sandwich. Drie dunne lagen brood, niet drie dikke — max 1 cm per sneetje. Alle ingrediënten dun en in proportie: geen toren, geen instortende berg. Het middelste brood krijgt aan beide kanten mayo zodat het hecht aan zowel de onderste als de bovenste laag. Druk heel lichtjes aan met de palm — genoeg om te binden, niet genoeg om plat te drukken.\n\nPresentatie: serveer de driehoeken met de open kant naar de gast gericht — het visuele verhaal is de gestapelde architectuur van drie lagen: brood, sla, kip, tomaat, brood, ei, spek, brood. Cocktailprikkers in de top van elke driehoek zijn niet alleen decoratief maar ook functioneel: ze houden de drie lagen bij elkaar tijdens het eten. Garneer alleen met een paar takjes waterkers of bieslook — niet overdadig.\n\nVariatie met dragon: voeg ½ tl zeer fijn gehakte verse dragon toe aan de mayo voor een elegant kruidig accent dat klassiek bij gerookte kip past. Hou het subtiel — meer dan een halve theelepel kan snel naar anijs gaan.\n\nVariatie met avocado: dunne plakjes rijpe avocado op de onderste laag in plaats van extra sla. Romige textuur die mooi werkt met spek en gerookte kip.\n\nVariatie luxe-upgrade: vervang de gerookte supermarkt-kip door zelf gepocheerde kipfilet. Pocheer in zacht trekkend licht gezouten water met een laurierblad, 12 minuten, laat afkoelen en snijd dun. Vleziger en zachter — al is de supermarkt-route voor dit gerecht écht goed.\n\nSpek tussen twee bakplaten in de oven: 200°C, 12–15 minuten met een tweede bakplaat erop. Geeft platte krokante strepen die je makkelijk in een sandwich kunt stapelen — geen gekrulde reepjes die er aan alle kanten uitsteken.\n\nTomaat als concassée, nooit als plakken: ontveld, ontpit, in 5 mm-blokjes, gezouten en drooggedept. Gelijkmatige smaakverdeling in elke hap, geen tomaat-uitglip, geen natte sandwich. Dit is de brasserie-techniek die het verschil maakt.\n\nLittle gem, niet ijsbergsla: knapperiger, steviger en niet waterig. Gebruik vooral de kleine binnenblaadjes — die zijn compacter en blijven op hun plek in het stapelwerk.",
@@ -64153,27 +64185,35 @@
       "steps": [
         {
           "action": "Vlees voorbereiden",
-          "description": "Haal het vlees 30 minuten voor het aanbraden uit de koelkast. Snijd in blokken van 3–4 cm. Dep grondig droog met keukenpapier — nat vlees bakt niet bruin maar stoomt. Bestrooi met zout en zwarte peper. Bestuif eventueel met een dun waasje bloem voor extra binding en bruining — niet dik paneren, alleen een lichte coating."
+          "description": "Haal het vlees 30 minuten voor het aanbraden uit de koelkast. Snijd in blokken van 3–4 cm. Dep grondig droog met keukenpapier — nat vlees bakt niet bruin. Bestrooi met zout en zwarte peper. Voor extra binding en bruining: bestuif met een dun waasje bloem (niet dik paneren, alleen een lichte coating)."
         },
         {
           "action": "Vlees diepbruin aanbraden",
-          "description": "Verhit de boter en olie in een zware gietijzeren stoofpan op hoog vuur. Wanneer de boter goudbruin schuimt: braad het vlees in 2 of 3 porties rondom donkerbruin — ca. 6–8 minuten per portie. Niet alles tegelijk, anders gaat het stomen in plaats van bruinen. Haal het vlees eruit en zet apart. De aanbaksels op de bodem zijn goud waard — niet schoonmaken."
+          "description": "Verhit boter en olie in een zware gietijzeren stoofpan op hoog vuur. Wanneer de boter goudbruin schuimt: braad het vlees in 2 of 3 porties rondom donkerbruin in ca. 6–8 min per portie. Niet alles tegelijk — dan gaat het stomen in plaats van bruinen. Vlees eruit halen, opzij zetten. De aanbaksels op de bodem zijn goud waard — niet schoonmaken."
         },
         {
-          "action": "Uien lang en geduldig karameliseren",
-          "description": "Doe de uiringen in dezelfde pan met de aanbaksels. Bak op middellaag vuur 12–15 minuten tot zacht, glanzend en goudbruin. Neem hier de tijd voor — de ui is het Brabantse fundament van dit gerecht. Niet versnellen met hoog vuur; je wilt zachte karamel, geen schroei."
+          "action": "Uien rustig donker en zoet bakken",
+          "description": "Doe de uien in dezelfde pan met de aanbaksels. Bak op middellaag vuur 12–15 min tot ze zacht, glanzend en goudbruin zijn. Neem hier tijd voor — de ui is de Brabantse basis van het gerecht. Niet versnellen met hoog vuur; je wilt karamel, geen schroei."
         },
         {
-          "action": "Blussen en saus-basis bouwen",
-          "description": "Schenk het donkere bier bij de uien. Roer grondig over de bodem zodat alle aanbaksels loskomen. Laat 3–4 minuten zacht koken — dit verjaagt de rauwe alcohol en rondt de bittere hopcomponenten af. Voeg daarna toe: de runderfond, appelstroop, Dijon-mosterd, verkruimelde ontbijtkoek, laurierblaadjes, tijm, kruidnagel en Worcestershire-saus. Roer tot de appelstroop en ontbijtkoek oplossen. Leg het vlees terug in de pan — het moet grotendeels onder de vloeistof staan maar niet zwemmen. Breng aan de kook."
+          "action": "Blussen met bier",
+          "description": "Schenk het donkere bier bij de uien. Roer grondig over de bodem zodat alle aanbaksels loskomen. Laat 3–4 min zacht koken — jaagt de rauwe alcohol weg en rondt de bittere bier-tonen af."
         },
         {
-          "action": "Langzaam garen in de oven — 3½ tot 4½ uur op 110°C",
-          "description": "Verwarm de oven voor op 110°C (boven- en onderwarmte, geen hete lucht). Deksel op de pan, in het midden van de oven. Controleer na 3 uur: het vlees moet zacht zijn en bijna uit elkaar vallen bij lichte druk van een lepel, maar nog stukjesstructuur hebben. Roer halverwege één keer voorzichtig door — niet stampen. Indien het vlees na 3 uur nog stevig is: 30–60 minuten langer."
+          "action": "Saus-basis bouwen",
+          "description": "Voeg toe: runderfond, appelstroop, Dijon-mosterd, verkruimelde ontbijtkoek, laurier, tijm-takjes, kruidnagel en Worcestershire-saus. Roer tot de appelstroop en ontbijtkoek oplossen. Leg het vlees terug in de pan. Het moet grotendeels onder de vloeistof staan, maar niet zwemmen — voeg eventueel een klein scheutje water of fond toe. Breng aan de kook."
         },
         {
-          "action": "Saus perfectioneren en serveren",
-          "description": "Haal de pan uit de oven. Vis de kruidnagel, laurierblaadjes en tijm-takjes eruit. Te dunne saus? Haal het vlees eruit en kook de saus 10–15 minuten op laag vuur zonder deksel in. Te dik? Een scheutje fond of water erbij. Proef nu definitief: de smaak moet donker, uiig, vlezig, licht zoet en licht moutig zijn — niet zuur. Voeg alleen een paar druppels appelazijn toe als de saus écht vlak smaakt. Roer eventueel een klontje koude boter door voor extra glans. Schep royaal over dikke krokante friet, laat de randen van de friet nog zichtbaar en krokant. Mayonaise apart in een klein potje."
+          "action": "Langzaam garen in de oven — 3,5 tot 4,5 uur op 110°C",
+          "description": "Verwarm de oven voor op 110°C (boven- en onderwarmte, geen hete lucht). Deksel op de pan, in het midden van de oven. Controleer na 3 uur. Het vlees moet zacht zijn en bijna uit elkaar vallen bij lichte druk van een lepel, maar nog stukjesstructuur hebben. Indien stevig: 30–60 min langer. Roer halverwege één keer voorzichtig door. Niet hard roeren — dan maak je draadjesmoes van het vlees."
+        },
+        {
+          "action": "Saus perfectioneren",
+          "description": "Haal de pan uit de oven. Vis kruidnagel, laurierblaadjes en tijm-takjes eruit. Te dunne saus? Vis het vlees eruit, kook de saus 10–15 min op laag vuur zonder deksel in tot dikker. Te dik? Een scheutje fond of water erbij. Proef nu pas definitief. De smaak moet zijn: donker, uiig, vlezig, licht zoet, licht moutig, zacht kruidig — en niet zuur. Voeg alleen als de saus vlak smaakt een paar druppels appelazijn toe. Echt weinig — dit is geen zuurvlees. Beter te weinig azijn dan teveel. Roer als afsluiter eventueel een klein klontje koude boter door voor extra glans en zijdezacht mondgevoel."
+        },
+        {
+          "action": "Friet en opdienen",
+          "description": "Bak of haal goede dikke friet (Bintje, dubbel gefrituurd: eerst 5 min op 140°C, laten rusten, dan 3 min op 175°C voor diepgoudbruin krokant). Schep het stoofvlees royaal over de friet, maar laat nog wat friet zichtbaar en krokant aan de randen — anders verdrinkt de friet in saus. Mayonaise apart in een klein potje — niet alles onder mayo verstoppen. Eventueel afwerken met fijngesneden peterselie, vers gemalen zwarte peper, of heel fijn gesnipperde rauwe ui als frietkot-knipoog."
         }
       ],
       "chef_tip": "Mise-en-place: een dag vooraf maken is écht beter — de smaak ontwikkelt zich nog dieper na een nacht koelkast-rust. Verwarm zachtjes terug op het vuur of in de oven op 100°C. Het stoven zelf vraagt nauwelijks aandacht: eenmaal in de oven op 110°C kun je het gewoon laten staan.\n\nTechniek: vlees diepbruin aanbraden in 2 of 3 porties is de cruciale stap — donkerbruine korst rondom geeft diepe smaak in de saus. Grijs aangebraden vlees geeft een vlakke saus. En 110°C is non-negotiable: hoger trekt vocht uit het vlees en maakt het draderig, lage temperatuur smelt het bindweefsel tot gelatine en geeft fluweelzacht stoofvlees.\n\nPresentatie: schep het stoofvlees royaal over dikke krokante friet maar laat de randen nog zichtbaar en krokant — anders verdrinkt de friet in de saus. Mayonaise apart in een klein potje, niet alles onder mayo verstoppen. Eventueel afwerken met fijngesneden peterselie of heel fijn gesnipperde rauwe ui als frietkot-knipoog.\n\nVariatie luxe-upgrade: voeg 100 g spekreepjes toe vóór de uien voor extra rokerige diepte. Of voeg 200 g champignons in plakjes (kort apart gebakken) toe in het laatste uur voor extra umami.\n\nVariatie zoete-kruidige route: een snufje speculaaskruiden of kerstkruidenmelange brengt extra Brabantse warmte — een halve theelepel, niet meer.\n\nAlternatief zonder donker bier: vervang de 330 ml bier door 250 ml extra runderfond, 75 ml ongezoet appelsap, 1 tl ketjap manis en ½ tl balsamico pas op het einde. Mist iets bierdiepte maar nog steeds een prima resultaat. Niet geschikt als vervanging: IPA (te bitter), pils (te dun), witte wijn of rode wijn.\n\nAzijn pas aan het einde, paar druppels: dit is geen zuurvlees. Alleen toevoegen als de saus écht vlak smaakt — liever te weinig dan teveel. Voeg altijd toe na het proeven, nooit als automatisch onderdeel van het recept.\n\nSukade of riblap, geen klein hacheevlees: blokken van 3–4 cm hebben het bindweefsel dat tijdens het garen smelt tot gelatine. Kleine blokjes vallen uit elkaar en worden droog.\n\nDikke friet, geen dunne: Vlaamse friet of dikke Bintje. Dunne frietjes verdwijnen onder de saus; dikke friet blijft overeind met crispy randen.",
@@ -64298,32 +64338,40 @@
       ],
       "steps": [
         {
-          "action": "Courgette voorbereiden en zouten",
-          "description": "Was de courgettes en droog ze grondig. Snijd in plakjes van 2–3 mm — gebruik bij voorkeur een mandoline. Leg de plakjes op keukenpapier, bestrooi heel licht met zout en laat 10 minuten liggen. Dep grondig droog met vers keukenpapier. Dit trekt overtollig vocht eruit, geeft betere karamellisatie en minder vetabsorptie."
+          "action": "Courgette voorbereiden",
+          "description": "Was de courgettes, droog ze grondig. Snijd in plakjes van 2–3 mm (mandoline geeft mooiste resultaat) — dunner dan je denkt; dit is de Nerano-snit. Leg de plakjes op keukenpapier, bestrooi heel licht met zout en laat 10 min liggen. Dep grondig droog met vers keukenpapier — trekt overtollig vocht eruit, geeft betere karamellisatie en minder vetabsorptie."
         },
         {
-          "action": "Courgette frituren op 160–170°C",
-          "description": "Verhit de olijfolie in een wijde pan tot 160–170°C — niet 180°C. Lagere temperatuur laat de courgette langzaam karameliseren tot bijna-zoet. Frituur in porties van een handvol per keer, 3–4 minuten per portie, tot diepgouden met licht gekarameliseerde randen — niet donkerbruin (bitter), niet lichtgoud (geen karamellisatie). Schep uit met een schuimspaan en laat uitlekken op keukenpapier. Strooi een snufje zout. Scheur 6–8 basilicumblaadjes over de warme courgette en laat minimaal 1 uur, liefst 2 uur rusten op kamertemperatuur. Bewaar 3 el van de courgette-olie voor de saus. Filtreer de rest door een fijne zeef — deze courgette-olie is goud waard voor andere gerechten."
+          "action": "Frituren in olijfolie — niet de oven",
+          "description": "Verhit de olijfolie in een wijde pan tot 160–170°C — niet 180°C zoals voor gewone frituur. Lagere temperatuur laat de courgette langzaam karameliseren tot bijna-zoet. Frituur in porties van een handvol per keer, 3–4 min per portie, tot diepgouden met licht gekarameliseerde randen — niet donkerbruin (bitter), niet lichtgoud (geen karamellisatie). Schep uit met schuimspaan, laat uitlekken op keukenpapier. Strooi een snufje zout. Scheur 6–8 basilicumblaadjes over de warme courgette en laat minimaal 1 uur, liefst 2 uur rusten op kamertemperatuur. Hierdoor wordt de courgette zachter, zoeter en veel beter voor de saus. De basilicum-aroma's trekken in de courgette. Bewaar 3 el van de courgette-olijfolie voor de saus. De rest filteren door een fijne zeef en bewaren in een glazen pot in de koelkast tot 2 weken."
         },
         {
-          "action": "Courgette-basis maken",
-          "description": "Neem 1/3 van de gefrituurde courgette en prak fijn met een vork tot een grove crème — eventueel met 1 el warm water. Dit wordt de sausbasis die het gerecht zijdezachte body geeft zonder room. De resterende 2/3 blijft als plakjes voor textuur en presentatie."
+          "action": "Courgette-basis maken — de Michelin-aanpassing",
+          "description": "Neem 1/3 van de gefrituurde courgette en prak fijn met een vork (eventueel met 1 el warm pastawater erbij) tot een grove crème. Dit wordt de saus-basis die het gerecht zijdezachte body geeft zonder room. De resterende 2/3 in plakjes blijft voor textuur en presentatie."
         },
         {
-          "action": "Pasta koken en pastawater bewaren",
-          "description": "Breng 4 liter water aan de kook met 40 g zeezout — minder dan normaal, want de kaas is al zout. Kook de spaghetti 2 minuten minder dan de verpakking aangeeft. Schep onderweg 500 ml pastawater apart — dit zetmeelrijke water is de motor van de emulsie."
+          "action": "Provolone en Parmigiano voorbereiden",
+          "description": "Rasp beide kazen op de fijnste rasp (Microplane-zone — zo fijn als poedersuiker). Bewaar in een kom op kamertemperatuur — koude kaas schift makkelijker."
         },
         {
-          "action": "Sausbasis opbouwen en pasta afmaken",
-          "description": "Verhit in een grote wijde pan 2 el courgette-olie met de gekneusde knoflookteen op middellaag vuur. Laat de knoflook 1 minuut zacht geuren — niet kleuren — en haal hem eruit. Voeg de geprakte courgette-crème toe met 100 ml hete pastawater. Schep de spaghetti rechtstreeks uit het kookwater in de pan en begin krachtig te bewegen: draaien, schudden, omscheppen. Voeg beetje bij beetje pastawater toe (50 ml per keer) als bij risotto. Voeg na 2 minuten de 2/3 plakjes gefrituurde courgette toe. De saus moet romig zijn maar niet nat — glanzende courgettecrème die aan elke sliert kleeft."
+          "action": "Pasta koken — precies",
+          "description": "Breng 4 liter water aan de kook, voeg 40 g zeezout toe. Kook de spaghetti 2 min minder dan op de verpakking — je maakt 'm af in de pan. Schep onderweg 500 ml pastawater apart in een kom. Dit zetmeelrijke water is de motor van de emulsie."
+        },
+        {
+          "action": "Saus opbouwen in de pan",
+          "description": "Verhit in een grote wijde pan 2 el courgette-olie met de gekneusde knoflookteen op middellaag vuur. Laat de knoflook 1 min zacht geuren — niet kleuren! — en haal eruit. De olie heeft nu een subtiele knoflook-parfum die de basis aromateert zonder te domineren. Voeg de geprakte courgette-crème toe + 100 ml hete pastawater. Roer kort door."
+        },
+        {
+          "action": "Pasta erbij — risotto-techniek",
+          "description": "Schep de spaghetti rechtstreeks uit het kookwater in de pan met de courgette-basis. Begin krachtig te bewegen: draaien, schudden, omscheppen met een tang. Voeg beetje bij beetje pastawater toe (50 ml per keer), alsof je risotto maakt. De pasta moet zetmeel afgeven en de courgette moet zich aan elke sliert hechten. Doorgaan tot al dente, ongeveer 2 min. Voeg nu de 2/3 plakjes gefrituurde courgette toe. Schep om met kleine scheuten pastawater. De saus moet romig zijn maar niet nat — denk: glanzende courgettecrème die aan elke sliert kleeft."
         },
         {
           "action": "Kaas emulgeren — het kritieke moment",
-          "description": "Haal de pan van het vuur of zet op zeer laag vuur — boven 65°C schift Provolone. Voeg eerst de koude boterblokjes toe en roer krachtig. Daarna in 3 porties de geraspte Provolone en Parmigiano door de pasta zwiepen, telkens met een scheutje pastawater (30–50 ml). Blijf bewegen tot de kaas volledig is opgegaan in een glanzende, lichtgele, romige saus. Te dik? Scheutje pastawater. Draderig? Pan helemaal van het vuur, blijven bewegen met extra pastawater."
+          "description": "Haal de pan van het vuur of zet op zeer laag vuur. Boven 65°C schift Provolone — eiwitten klonteren, vet scheidt, je hebt geen romige saus meer. Voeg eerst de koude boter in stukjes toe en roer-zwiep krachtig. Daarna in 3 porties de geraspte Provolone + Parmigiano door de pasta zwiepen, telkens met een scheutje pastawater (30–50 ml). Blijf bewegen tot de kaas volledig is opgegaan in een glanzende, lichtgele, romige saus die elke sliert omarmt. Te dik? Scheutje pastawater. Draderig? Pan helemaal van het vuur, blijven bewegen met extra pastawater tot weer glad."
         },
         {
           "action": "Afmaken en serveren",
-          "description": "Scheur veel verse basilicum door de pasta. Voeg royaal vers gemalen zwarte peper toe. Proef nu pas op zout — meestal hoef je niets meer toe te voegen. Draai de spaghetti strak op met een vork of pincet en leg als hoge glanzende nestjes op voorverwarmde diepe pastaborden. Werk af met 4–5 gefrituurde courgetteplakjes, een beetje vers geraspte Provolone, 2–3 kleine verse basilicumblaadjes, zwarte peper en optioneel één druppel courgette-olie rondom."
+          "description": "Scheur veel verse basilicum door de pasta. Vers gemalen zwarte peper royaal. Proef nu pas op zout — meestal hoef je niets meer toe te voegen. De pasta moet smaken naar: zachte gekarameliseerde courgette, basilicum, zoute kaas, olijfolie en zomer. Geen room. Geen citroen. Geen chili. Geen extra poespas. Draai de spaghetti strak op met een vleesvork of pincet en leg als hoge, glanzende nestjes op voorverwarmde diepe pastaborden. Werk af met 4–5 mooie gefrituurde courgetteplakjes bovenop, klein beetje extra Provolone del Monaco vers geraspt, 2–3 kleine verse basilicumblaadjes, vers gemalen zwarte peper, optioneel één druppel courgette-olie rondom de pasta."
         }
       ],
       "chef_tip": "Mise-en-place: de courgette kan 1–2 uur vooraf gefrituurde worden — langer rusten maakt hem zelfs beter, zoeter en malser. Maak hem 's ochtends als je 's avonds dit gerecht serveert. Rasp beide kazen ook van tevoren en laat op kamertemperatuur staan — koude kaas schift makkelijker.\n\nTechniek: dit gerecht is technisch een perfecte emulsie. Drie kritieke punten: (1) Frituur op 160–170°C, niet hoger — lagere temperatuur geeft karamelisatie, geen verbanding. (2) Gebruik de risotto-techniek bij het afmaken — kleine scheuten pastawater, continu bewegen, pasta geeft zetmeel af dat de saus bindt. (3) Kaas emulgeren buiten het vuur of op allerlaagste pitje — boven 65°C schift Provolone onherstelbaar.\n\nPresentatie: koude borden ruïneren de emulsie binnen 30 seconden. Verwarm de pastaborden altijd voor — in de oven op 60°C of even in heet water. Serveer direct; Spaghetti alla Nerano wacht niet. Na 5 minuten wordt de saus dikker en minder glanzend.\n\nVariatie Provolone alternatief: gebruik 100 g Provolone piccante + 50 g caciocavallo + 50 g Parmigiano Reggiano als je geen Provolone del Monaco DOP kunt vinden. Niet substitueren met Goudse, Edam of alleen Parmigiano — de kaas moet zout, lichtjes pittig en goed smeltend zijn.\n\nAlternatief zonder frituren: bestaat niet voor dit gerecht. Oven-courgette geeft een ander gerecht: droger, geroosterder, minder romig. Nerano leeft van gefrituurde courgette en de courgette-olie die daarna de saus draagt.\n\nBewaar de courgette-olie: filtreer de overgebleven olijfolie na het frituren door een fijne zeef, bewaar in een glazen pot in de koelkast (2 weken houdbaar). Geniaal voor andere pasta's of om groente in te bakken — de courgette-aroma's die erin zijn getrokken geven directe diepte.\n\nKleine courgettes zijn essentieel: steviger en zoeter dan grote. Grote waterige courgettes geven minder smaak en een vlakkere saus. Kies de kleinste die je kunt vinden.\n\n1/3 prakken, 2/3 als plakjes laten: de geprakte courgette geeft body en romigheid, de plakjes geven textuur en visuele herkenning. Beide zijn nodig voor het juiste resultaat.",
@@ -64457,23 +64505,35 @@
       "steps": [
         {
           "action": "Eieren koken",
-          "description": "Leg 3 eieren in een pannetje, dek af met koud water en breng aan de kook. Zet zodra het water kookt de timer op 9 minuten. Leg direct daarna in ijswater en laat 5 minuten afkoelen, dan pellen. Bewaar in de koelkast tot samenstellen — koud ei is makkelijker te raspen dan lauw."
+          "description": "Leg 3 eieren in een pannetje, dek af met koud water en breng aan de kook. Wanneer het water kookt: timer op 9 min zetten. Direct in ijswater leggen na de tijd, 5 min laten afkoelen, dan pellen. Voor mooi gele dooier zonder grijze rand: precies 9 min, dan ijswater. Bewaar in de koelkast tot je gaat samenstellen — koud ei is makkelijker te raspen dan lauw."
         },
         {
           "action": "Walnoten roosteren",
-          "description": "Verwarm de oven op 180°C. Verspreid de walnoten op een bakplaat en rooster 5–6 minuten tot ze net geuren en lichtjes goudbruin zijn — niet bruiner, anders worden ze bitter. Laat afkoelen op een bord. Hak grof. Alternatief: in een droge koekenpan op middelhoog vuur 3–4 minuten, constant schudden."
+          "description": "Verwarm oven voor op 180°C. Verspreid de walnoten op een bakplaat. Rooster 5–6 min tot ze net geuren en lichtjes goudbruin zijn — niet bruiner, anders worden ze bitter. Laat afkoelen op een bord (op de bakplaat garen ze door). Hak grof. Alternatief: in een droge koekenpan op middelhoog vuur 3–4 min, constant schudden tot ze geuren."
         },
         {
-          "action": "Cocktailsaus maken",
-          "description": "Roer alle sausingredients in een klein schaaltje los met een garde tot een gladde, lichtroze saus. Proef en stel af: meer Worcestershire voor umami, meer citroen voor frisheid, een mini scheutje mandarijnsap als hij te dik is. Zet koud in de koelkast."
+          "action": "Lichte cocktailsaus maken",
+          "description": "Roer in een klein schaaltje alle ingrediënten van de saus los met een garde tot een gladde, lichtroze saus. Proef en stel af: meer zout? Meer Worcestershire voor umami? Meer citroen voor frisheid? Te dik? Mini scheutje mandarijnsap. Te dun? Lepeltje extra yoghurt. Zet apart in de koelkast — koud serveren is belangrijk."
         },
         {
-          "action": "Ingrediënten voorbereiden",
-          "description": "IJsbergsla: leg minstens 30 minuten vooraf in de koelkast. Snijd in grove repen van 2–3 cm, was indien nodig en zwier droog. Clementines: pel en trek de partjes uit elkaar, snijd grote partjes doormidden. Blik mandarijn: giet af, laat 5 minuten uitlekken en dep grondig droog. Kaas: snijd in plakken van 5 mm, dan dwars in luciferreepjes van 5 mm. Ei: rasp de afgekoelde hardgekookte eieren op de fijnste rasp voor het mimosa-effect."
+          "action": "IJsberg voorbereiden",
+          "description": "Leg de ijsbergsla minstens 30 min vooraf in de koelkast (of kort 10 min in de vriezer als je tijd kort hebt). Snijd de ijsberg in grove repen van 2–3 cm — niet flinterdun, niet hele bladeren. Grove repen geven het juiste bijt-volume en houden de saus mooi op hun plek. Was als nodig, zwiet droog in een sla-centrifuge."
+        },
+        {
+          "action": "Mandarijn voorbereiden",
+          "description": "Verse clementines: pel ze en trek de partjes uit elkaar. Snijd elke partje doormidden als ze groot zijn. Het witte vlies hoeft niet weg — bij clementines is dat dun en eetbaar. Blik mandarijn: giet af in een vergiet, laat 5 min uitlekken, dep daarna grondig droog met keukenpapier. Belangrijk — natte mandarijn verdunt de salade. Bewaar 2 el van het vocht voor de saus als je wilt."
+        },
+        {
+          "action": "Kaas in luciferreepjes",
+          "description": "Snijd de jonge belegen Goudse eerst in plakken van 5 mm dik, dan dwars in repen van 5 mm — luciferreepjes (julienne). Past mooi naast de mandarijn-partjes en verdeelt zich in elke hap."
+        },
+        {
+          "action": "Ei grof raspen",
+          "description": "Rasp de afgekoelde hardgekookte eieren op de fijnste rasp (Microplane of fijne kaasrasp) — dit geeft de klassieke 'mimosa'-effect: licht, luchtig, mooi verdeeld. Veel mooier dan plakken die er als gele schijven op liggen. Bewaar in een schaaltje tot samenstellen."
         },
         {
           "action": "Opbouwen en serveren",
-          "description": "Schep de ijsbergsla als basis op grote borden of een schaal — los, niet aangedrukt. Verdeel de mandarijnpartjes en kaasreepjes afwisselend over de sla. Strooi het geraspte ei royaal eroverheen. Verdeel de walnoten en bieslook erover. Lepel ⅔ van de cocktailsaus in 5–6 lepels verdeeld over de salade — niet op één plek uitgieten. Schep één keer voorzichtig door met een tang. Serveer de resterende ⅓ saus in een klein schaaltje ernaast. Bestrooi met zwarte peper en fleur de sel. Direct serveren op koude borden."
+          "description": "Werk per groot bord of op één grote schaal: IJsbergsla als basis — los geschept, niet aangedrukt. Mandarijn-partjes afwisselend met kaas-luciferreepjes verspreid over de sla. Grof geraspt ei royaal eroverheen strooien — geeft het direct die klassieke 'mimosa'-look. Walnoten als laatste verdelen. Bieslook royaal eroverheen. Vers gemalen zwarte peper, snufje fleur de sel. Lepel ⅔ van de cocktailsaus voorzichtig over de salade in 5–6 lepels verdeeld — zachtjes laat hij zich verdelen. De resterende ⅓ in een klein schaaltje ernaast voor wie wil bijdoppen. Voorzichtig één keer met salade-tang door elkaar scheppen om de saus over de sla te verdelen — niet te enthousiast, je wilt niet alles tot brij maken. Serveer direct op koude borden."
         }
       ],
       "chef_tip": "Mise-en-place: de cocktailsaus kan een uur vooraf worden gemaakt — de smaken trekken mooi samen. De eieren en walnoten ook vooraf. Maar de sla snijden, de kaas in reepjes snijden en de mandarijn pellen doe je pas vlak voor serveren. Stel de salade pas samen als iedereen klaar is om te eten — wacht niet langer dan 10 minuten na het samenstellen.\n\nTechniek: rasp de hardgekookte eieren op de fijnste rasp (Microplane) voor het klassieke mimosa-effect — luchtig, mooi verdeeld en in elke hap aanwezig zonder als gele plakken op het bord te liggen. En snijd de ijsberg in grove repen van 2–3 cm, nooit in hele bladeren — repen houden de saus mooi vast en geven het juiste bijt-volume.\n\nPresentatie: serveer op ijskoude borden en zet de resterende ⅓ cocktailsaus in een klein schaaltje ernaast voor wie wil bijdoppen. Geeft mensen controle en voorkomt dat de salade verzopen raakt. De mimosa-look van het geraspte ei en de kleurcontrasten (groen, oranje, geel, wit) maken dit gerecht direct visueel aantrekkelijk.\n\nVariatie met garnalen: voeg 200 g Hollandse garnalen of grote roze garnalen toe voor een complete lunchsalade — dan wordt het een echte rétro garnalencocktail-salade. Klassieke combinatie die hier perfect werkt.\n\nVariatie met augurk: snijd 2–3 zoetzure augurken in mini-blokjes en strooi erover voor pit en een klassiek-Hollands accent.\n\nAlternatief blik vs. vers: verse clementines zijn sappiger en helderder van kleur; mandarijn uit blik op water heeft de nostalgische jaren-70-charme die bij dit recept past. Beide werken — blik wel grondig uitlekken en deppen, anders verdunt het de saus.\n\nRookpaprikapoeder is de geheime ingredient: een halve theelepel pimentón dulce ahumado of gerookte paprikapoeder geeft die subtiele rokerige toets die professionele cocktailsausen hebben en zelfgemaakte versies missen. Te vinden bij Albert Heijn (Verstegen) of Spaanse winkels.\n\nIJsbergsla moet écht ijskoud zijn: minstens 30 minuten in de koelkast of 10 minuten in de vriezer. Knapperige ijskoude sla tegen lichte romige saus is het hele verschil tussen een saaie salade en iets wat iedereen opvraagt.",
@@ -64513,16 +64573,16 @@
     {
       "source_recipe_number": 197,
       "title": "Steak haché à cheval — de Franse bistroclassieker",
-      "slug": "steak-hache-a-cheval-franse-bistroclassieker",
+      "slug": "steak-hache-a-cheval-franse-bistroklassieker",
       "location": "Frankrijk / Provence",
       "time": "30 min voorbereiding + 20 min bereiding",
       "servings": "4 personen",
       "difficulty": "Gevorderd",
       "keuken": "Frans",
       "categorie": "vlees",
-      "image": "/assets/images/steak-hache-a-cheval-franse-bistroclassieker.jpg",
+      "image": "/assets/images/steak-hache-a-cheval-franse-bistroklassieker.jpg",
       "short_description": "Vers gemalen paleron-patty met crispy korst en rosé kern, gekroond met een vloeibaar spiegelei, op een glanzende sjalottenjus met krokante aardappelblokjes, gebrande little gem en cornichon-crème.",
-      "description": "Steak haché zoals hij in de Franse bistro hoort: vers gemalen paleron (sukade zonder zeen) met een diepgoudbruin aangebakken korst en rosé binnen, gekroond met een spiegelei waarvan de dooier glanst en barst zodra je hem aanprikt. Ernaast een glanzende sjalottenjus met Dijon, krokante aardappelblokjes met knoflook en tijm, een gebrande halve little gem en een klein lepeltje cornichon-crème. Geen hamburger, geen tartaar — maar een echt Frans bistrogerecht met eigen wetgeving en eigen techniek.",
+      "description": "Stel je een grotbistro voor in Les Baux-de-Provence, ergens achter een dikke houten deur, met versleten leren stoelen, kaarsen op tafel en een ober die je niets vraagt maar gewoon brengt wat goed is. Voor je staat een steak haché: een vers gemalen biefstuk-patty van paleron met crispy aangebakken korst en rosé binnen, gekroond met een spiegelei waarvan de dooier glanst en barst zodra je hem aanprikt. Ernaast een glanzende sjalottenjus met Dijon, krokante aardappel-blokjes met knoflook en tijm, een gebrande halve little gem en een klein lepeltje cornichon-crème. Geen biefstuk, geen hamburger, geen tartaar. Steak haché bestaat alleen in Frankrijk onder strikte wettelijke regels — vastgelegd in het Décret n° 2002-1465 van 17 december 2002 en het EU-règlement (CE) n° 853/2004 — die voorschrijven: 100% rundervleesspier, eiwit-collageen-ratio van maximaal 15%, hooguit 1% zout, tussen 5 en 20% vet, en absoluut geen andere toevoegingen. Geen ei, geen brood, geen ui, geen kruiden. In Nederland is \"steak haché\" geen wettelijk gedefinieerd product en wordt het verward met rundergehakt of hamburger — dat is precies waarom we het hier zelf maken, met een gehaktmolen en het juiste vlees.",
       "ingredient_groups": [
         {
           "group_name": "Steak haché",
@@ -64739,62 +64799,66 @@
       "steps": [
         {
           "action": "Aardappelblokjes voorkoken",
-          "description": "Snijd de aardappels in blokjes van ca. 2 cm. Kook 6–7 minuten in gezouten water tot de buitenkant net zacht is — niet doorgaren. Giet af en laat 5 minuten droogstomen in de vergiet. Vochtige aardappels worden nooit krokant."
+          "description": "Snijd de aardappels in blokjes van ongeveer 2 cm. Kook 6–7 minuten in gezouten water tot de buitenkant net zacht is. Niet doorgaren — alleen pre-gaar. Giet af en laat goed droogstomen in de vergiet, 5 minuten — vochtige aardappel wordt niet krokant."
         },
         {
           "action": "Sjalottenjus maken",
-          "description": "Smelt 30 g boter in een klein pannetje op middellaag vuur. Bak de sjalotringen 8–10 minuten zacht en goudbruin — ze moeten zoet worden, niet verbranden. Blus af met rode wijn en laat tot de helft inkoken. Voeg runderfond, Dijon, tijm en azijn toe. Laat zacht inkoken tot een glanzende dikke jus die aan de lepel hangt (10–15 min). Vis de tijm eruit. Breng op smaak. Monteer vlak voor serveren met een klontje koude boter voor glans."
+          "description": "Smelt 30 g boter in een klein pannetje op middellaag vuur. Bak de sjalotringen 8–10 minuten zacht en goudbruin — ze moeten zoet worden, niet verbranden. Roer regelmatig. Blus af met rode wijn en laat tot ongeveer de helft inkoken (4–5 min). Voeg runderfond, Dijon-mosterd, tijm-takje en rode-wijn-azijn toe. Laat zacht inkoken tot een glanzende dikke jus die aan de lepel hangt (10–15 min). Vis de tijm eruit. Breng op smaak met zout en peper. Monteer pas vlak voor serveren met een klein klontje koude boter — geeft extra glans en zijdezacht mondgevoel. De jus moet diep, glanzend en hartig zijn, met alleen een klein fris randje. Niet zuur."
         },
         {
           "action": "Cornichon-crème maken",
-          "description": "Meng crème fraîche, mayonaise, fijn gehakte cornichons, Dijon, paar druppels augurkenvocht, peper en zout. Dit moet een klein fris bistro-accent zijn — zuur, romig en subtiel, geen dikke hamburgersaus. Zet koud."
+          "description": "Meng crème fraîche, mayonaise, fijn gehakte cornichons, Dijon, paar druppels augurkenvocht, peper en zout. Dit moet geen dikke hamburgersaus worden, maar een klein fris bistro-accent. Zuur, romig en subtiel. Zet apart in koelkast."
         },
         {
-          "action": "Vlees malen en patties vormen",
-          "description": "Snijd het paleron en rundervet in blokken van 2 cm. Leg vlees, vet én de gehaktmolen-onderdelen 20–30 minuten in de vriezer — alles koud is de gouden regel. Maal eenmaal door de grove plaat (8 mm). Voeg vlees en vet afwisselend in de trecher. Niet twee keer malen. Meng heel kort met zachte handen — alleen verdelen, niet kneden. Verdeel in 4 porties van ca. 160 g, vorm tot patties van 2 cm dik en 10 cm doorsnede. Maak een kleine indruk in het midden met je duim. Zet 15 minuten koud."
+          "action": "Vlees malen",
+          "description": "Snijd het paleron en het rundervet in blokken van 2 cm. Controleer nog één keer op achtergebleven zeen of taaie vliezen — alles wat je niet als steak zou willen eten, wil je ook niet gemalen terugvinden. Leg vlees en rundervet 20–30 minuten in de vriezer (stevig en koud, niet bevroren). Leg ook de maalplaat (8 mm grof) en molen-onderdelen 30 minuten in de vriezer. Zet een opvangkom op ijs onder de molen. Maal eenmaal door de grove plaat (8 mm). Voeg rundervet en vlees afwisselend in de molentrechter voor gelijkmatige verdeling. Niet twee keer malen — eenmaal geeft de juiste textuur voor steak haché. Meng het gemalen vlees heel kort met je handen — alleen verdelen, niet kneden."
+        },
+        {
+          "action": "Patties vormen",
+          "description": "Verdeel het gemalen vlees in 4 gelijke porties van ongeveer 160 g. Vorm elk met zachte handen tot een ronde patty van 2 cm dik en 10 cm doorsnede. Druk ze stevig genoeg aan zodat ze bij elkaar blijven, maar niet zo hard dat ze compact worden. Maak een kleine indrukking in het midden met je duim — voorkomt opbollen. Zet de patties 15 minuten koud voor het bakken."
         },
         {
           "action": "Aardappelblokjes krokant bakken",
-          "description": "Verhit 2 el olie in een grote koekenpan op middelhoog vuur. Bak de droge voorgegaarde aardappelblokjes 10–12 minuten goudbruin en krokant aan alle kanten. Voeg op het einde de boter, knoflook en tijm toe. Bak nog 2–3 minuten terwijl je de aardappels regelmatig door de schuimende boter rolt. Zout en warm houden."
+          "description": "Verhit 2 el olie in een grote koekenpan op middelhoog vuur. Voeg de droge voorgegaarde aardappelblokjes toe en bak ze rustig goudbruin en krokant aan alle kanten, 10–12 minuten, regelmatig schudden. Voeg op het einde 30 g boter, de gekneusde knoflookteen en het tijm-takje toe. Bak nog 2–3 minuten terwijl je de aardappels regelmatig in de schuimende boter rolt. Breng op smaak met zout. Houd warm."
         },
         {
           "action": "Steak haché bakken",
-          "description": "Bestrooi de buitenkant van de patties royaal met zout — pas vlak voor het bakken. Verhit een zware gietijzeren pan goed heet. Voeg de olie toe met tijm en knoflook. Leg de patties in de pan. Bak 2½–3 minuten op de eerste zijde tot diepgoudbruin, draai om, bak 2–2½ minuten op de tweede zijde. Voeg de boter toe en lepel de schuimende tijm-knoflookboter regelmatig over de top (arroser). Kerntemperatuur 55–58°C voor rosé. Laat 3–4 minuten rusten. Maal nu pas zwarte peper erover."
+          "description": "Haal de patties uit de koelkast. Bestrooi de buitenkant royaal met fijn zout — pas vlak voor het bakken zouten. Verhit een zware koekenpan (gietijzer) tot goed heet. Voeg de olie toe. Leg de patties in de pan met de tijm-takjes en gekneusde knoflook. Bak 2½–3 minuten op de eerste zijde tot diepgouden korst, draai om, bak 2–2½ minuten op de tweede zijde. Voeg op het einde de roomboter toe en lepel de schuimende tijm-knoflookboter regelmatig over de top (arroser). Voor rosé binnen: kerntemperatuur 55–58°C. Haal uit de pan en laat 3–4 minuten rusten. Maal nu pas zwarte peper erover — peper voor het bakken verbrandt."
         },
         {
-          "action": "Little gem branden en spiegeleieren bakken",
-          "description": "Wrijf de gehalveerde little gem licht in met olijfolie. Bak alleen de snijkant 45–60 seconden in een hete grillpan tot licht geblakerd — binnenin moet de sla nog fris en knapperig blijven. Breng op smaak met fleur de sel, peper en citroensap. Veeg de pan af, voeg verse boter toe op middellaag vuur en bak 4 spiegeleieren met vloeibare dooier en licht krokante randen."
+          "action": "Little gem branden",
+          "description": "Verhit een koekenpan of grillpan goed heet. Wrijf de gehalveerde little gem heel licht in met olijfolie. Bak alleen de snijkant 45–60 seconden tot die licht geblakerd is. De sla moet geroosterd smaken, maar nog fris en knapperig blijven binnenin. Op smaak brengen met fleur de sel, peper en paar druppels citroensap."
         },
         {
-          "action": "Opbouwen en serveren",
-          "description": "Werk snel per warm bord: lepel de sjalottenjus als basis. Leg de steak haché centraal. Druppel Worcestershire over het vlees. Schuif het spiegelei voorzichtig op de top — à cheval. Schep krokante aardappelblokjes aan één kant, gebrande little gem aan de andere kant. Lepel een klein dotje cornichon-crème ernaast. Maal zwarte peper boven het ei, snufje fleur de sel, eventueel peterselie. Direct serveren."
+          "action": "Spiegeleieren bakken en serveren",
+          "description": "Veeg de pan af, voeg verse boter toe op middellaag vuur. Breek 4 eieren één voor één in de pan. Bak tot het eiwit gestold en lichtjes krokant aan de randen is, dooier nog volledig vloeibaar. Klassieke Franse œuf au plat. Snufje zout en peper. Werk per warm bord snel achter elkaar op: lepel sjalottenjus als basisveeg op de plek waar het vlees komt. Steak haché centraal-rechts. Spiegelei voorzichtig op de top van de steak haché — à cheval. Krokante aardappelblokjes in een hoopje aan één kant. Halve gebrande little gem aan de andere kant. Klein lepeltje cornichon-crème ernaast. Paar druppels Worcestershire over de steak haché (onder het ei). Vers gemalen zwarte peper boven het ei, snufje fleur de sel, eventueel fijne peterselie. Direct serveren — het hele bord warm, het spiegelei vloeibaar, de jus glanzend."
         }
       ],
-      "chef_tip": "Mise-en-place: sjalottenjus en cornichon-crème kunnen een dag vooraf worden gemaakt. Aardappels pre-koken kan ook vooraf. Alleen het vlees vers malen en direct daarna bakken — gebruik vlees dat dezelfde dag is gemalen en eet binnen 2 uur na malen.\n\nTechniek: alles koud bij het malen is de gouden regel — vlees, vet én de molen-onderdelen 20–30 minuten in de vriezer. Lauwwarm vlees smeert het vet uit en geeft een pasteuze textuur. Eenmaal door de grove plaat (8 mm), niet twee keer — eenmaal geeft losse grove korrels die net samenhangen, twee keer geeft hamburger-papperigheid. En nooit kneden: vorm met zachte handen, anders ontwikkel je eiwitstructuren die het vlees taai maken.\n\nPresentatie: werk snel en in volgorde — het spiegelei als allerlaatste. Alle onderdelen moeten warm zijn als het bord op tafel komt, de dooier vloeibaar, de jus glanzend. Maak er geen broodje van — steak haché is een bordgerecht.\n\nVoedselveiligheid: gebruik alleen vers gemalen vlees van een slager die je vertrouwt, eet binnen 2 uur na malen. Voor kinderen, ouderen of kwetsbare eters de patty langer bakken tot kerntemperatuur 65°C.\n\nVariatie Café de Paris-boter: voor wie het spiegelei overslaat — een dot Café de Paris-boter (boter met kruiden, mosterd, knoflook, paprika) op de hete steak haché smelt tot een glanzende saus.\n\nSukade zonder zeen is essentieel: vraag de slager om de centrale pees eruit te halen (flat-iron-achtig te pareren). Gewone sukade mét zeen is niet geschikt — die pees loopt door het gemalen vlees en geeft taaie slierten.\n\nPeper pas na het bakken: peper voor het bakken verbrandt en geeft een bittere, scherpe smaak. Zout vlak vóór het bakken, peper direct erna.\n\nLittle gem alleen de snijkant branden: 45–60 seconden, niet langer. Binnenin moet de sla nog fris en knapperig blijven — het gaat om het rokerige accent van de gebrande snijkant, niet om een gegaarde sla.",
+      "chef_tip": "Mise-en-place: sjalottenjus en cornichon-crème kunnen een dag vooraf worden gemaakt. Aardappels pre-koken kan ook vooraf. Alleen vlees vers malen en bakken.\n\nVoedselveiligheid: omdat dit vers gemalen rundvlees is, moet je extreem vers en schoon werken. Gebruik alleen vlees dat dezelfde dag is gemalen en van een slager die je vertrouwt. Eet binnen 2 uur na malen. Voor kinderen, ouderen of kwetsbare eters bak je de steak haché iets langer door (kerntemperatuur 65°C in plaats van rosé 55°C).\n\nTechniek: alles koud bij het malen is de gouden regel — vlees, vet én de molen-onderdelen 20–30 minuten in de vriezer. Lauwwarm vlees smeert het vet uit en geeft een pasteuze textuur in plaats van losse korrels. Eenmaal door de grove plaat (8 mm), niet twee keer — eenmaal geeft de juiste structuur voor steak haché. Twee keer wordt het hamburger-pasta. Niet kneden — alleen verdelen. Kneden ontwikkelt eiwitstructuren die het vlees taai en compact maken. Vorm met zachte handen.\n\nPresentatie: werk snel en in volgorde — het spiegelei als allerlaatste. Alle onderdelen moeten warm zijn als het bord op tafel komt, de dooier vloeibaar, de jus glanzend. Maak er geen broodje van — steak haché is een bordgerecht, alleen op een plat bord met de garnituren naast.\n\nVariatie luxe-upgrade met Café de Paris-boter: voor wie het spiegelei overslaat — een dot Café de Paris-boter (boter met fijngehakte kruiden, mosterd, knoflook, paprika) op de hete steak haché. Smelt over het vlees als een glans.\n\nSukade zonder zeen is paleron is flat iron — vraag de slager om de pees eruit te halen. Goede slagers begrijpen dit direct. Gewone sukade mét zeen is niet geschikt — die pees moet eruit.\n\nGehaktmolen-onderdelen + vlees + vet 20–30 min in vriezer. Alles koud is dé regel bij gemalen vlees. Lauwwarm vlees smeert het vet uit en geeft een pasteuze textuur in plaats van losse korrels.\n\nEenmaal door de grove plaat (8 mm), niet twee keer. Eenmaal geeft de juiste structuur voor steak haché — losse grove korrels die net genoeg samenhangen. Twee keer wordt het hamburger-pasta.\n\nNiet kneden — alleen verdelen. Kneden ontwikkelt eiwitstructuren die het vlees taai en compact maken.\n\nPas vlak voor bakken zouten. Zout trekt vocht uit het vlees — als je 20 min vooraf zout, krijg je een natte patty die niet bruint. En peper pas na het bakken, anders verbrandt hij.\n\nHoge hitte voor de korst, kort gebakken. 2½–3 min eerste zijde, 2–2½ min tweede zijde voor 2 cm dikke patty geeft rosé binnen. Te lang gebakken = droog.\n\nArroser met tijm-knoflook-boter. Lepel de smeltende boter regelmatig over de top tijdens het bakken — geeft aroma en helpt gelijkmatig garen.\n\nSpiegelei vlak voor opdienen — geen seconde te vroeg. Dooier moet vloeibaar zijn als het bord op tafel komt.\n\nSjalottenjus monteren met koude boter op het einde. Klassieke techniek voor glans en zijdezacht mondgevoel. Niet weglaten.\n\nAardappelblokjes pre-koken én droogstomen. 6–7 min koken, dan minstens 5 min droogstomen in de vergiet. Vochtige aardappels worden nooit krokant.\n\nCornichons, geen Hollandse augurken. Cornichons (Franse zoetzure mini-augurken) zijn fijner en krokanter dan grote Hollandse augurken. Bij Albert Heijn (Maille of huismerk) of bij Italiaanse delicatessen.\n\nLittle gem alleen 45–60 sec branden. Net snijkant blakeren, niet doorgaren. Bistro-truc die het bord een rokerig accent geeft.\n\nVariatie luxe-upgrade met Café de Paris-boter: voor wie het spiegelei overslaat — een dot Café de Paris-boter (boter met fijngehakte kruiden, mosterd, knoflook, paprika) op de hete steak haché. Smelt over het vlees als een glans.\n\nEen dag vooraf: sjalottenjus en cornichon-crème kunnen 24 uur vooraf gemaakt worden. Aardappels pre-koken kan ook vooraf. Alleen vlees vers malen en bakken.\n\nMaak geen broodje ervan. Dan wordt het een hamburger. Steak haché is een bordgerecht — alleen op een plat bord met de garnituren naast.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Beaujolais Cru — Morgon of Fleurie, Beaujolais, Frankrijk",
+          "naam": "Beaujolais Cru (Morgon of Fleurie)",
           "druif": "Gamay",
-          "smaakprofiel": "Droog, sappig rood fruit (kers, framboos), frisse levendige zuren, zachte tannine en lichte kruidigheid. Licht tot medium body, elegant en dorstlessend.",
-          "omschrijving": "Domaine Foillard Morgon, Marcel Lapierre Morgon, Château Thivin Côte de Brouilly. €15–25. Serveer op 14–16°C, lichtjes gekoeld — dat is de Franse bistro-traditie.",
-          "waarom_werkt_dit": "Steak haché is rundvlees maar geen zware ribeye — Gamay blijft sappig en bistroachtig en past perfect bij de sjalottenjus en cornichon-crème zonder het gerecht te overstemmen. De frisse levendige zuren snijden door de boter van de arroser en het vloeibare ei; het sappige rood fruit verbindt met de hartige pan-jus; en de zachte tannine respecteert het malse gemalen vlees. De klassieke Beaujolais-pairing bij Frans bistroundvlees."
+          "smaakprofiel": "Sappig rood fruit (kers, framboos), frisse zuren, zachte tannine, lichte kruidigheid.",
+          "omschrijving": "Domaine Foillard Morgon, Marcel Lapierre, Château Thivin. €15–25. Serveer 14–16°C, lichtjes gekoeld — Franse bistro-traditie.",
+          "waarom_werkt_dit": "Steak haché is rundvlees, maar geen zware ribeye. Gamay blijft sappig en bistroachtig, past bij sjalottenjus en cornichon-crème, en maakt het gerecht niet te zwaar. De frisse zuren snijden door de boter en het ei. Klassieke bistro-pairing."
         },
         {
           "type": "alternatief",
-          "naam": "Chinon of Saumur-Champigny — Loire, Frankrijk",
+          "naam": "Chinon of Saumur-Champigny (Loire Cabernet Franc)",
           "druif": "Cabernet Franc",
-          "smaakprofiel": "Droog, rood fruit, lichte paprika-toets, kruidigheid, frisse zuren en fijne tannine. Elegante structuur, aromatisch en precies.",
-          "omschrijving": "Domaine Charles Joguet Chinon, Bernard Baudry Chinon, Clos Rougeard Saumur-Champigny. €18–30. Serveer op 15–17°C.",
-          "waarom_werkt_dit": "Cabernet Franc is de klassiek-Franse keuze bij bistro-rundvlees — de kruidigheid sluit prachtig aan bij de Dijon in de sjalottenjus en de cornichon-crème; de paprika-toets verbindt met de zwarte peper op het vlees; en de frisse zuren snijden door het ei en de boter. Iets serieuzer dan Beaujolais, perfect voor wie meer structuur wil zonder Bourgogne-prijzen te betalen."
+          "smaakprofiel": "Rood fruit, lichte paprika-toets, kruidigheid, frisse zuren, fijne tannine.",
+          "omschrijving": "Domaine Charles Joguet, Bernard Baudry, Clos Rougeard. €18–30.",
+          "waarom_werkt_dit": "Cabernet Franc is klassiek-Frans bij bistro-rundvlees. De kruidigheid sluit prachtig aan bij Dijon, sjalottenjus en zwarte peper. Iets serieuzer dan Beaujolais, perfect voor wie wat meer structuur wil zonder Bourgogne-prijzen te betalen."
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Côtes du Rhône Villages — Rhône, Frankrijk",
+          "naam": "Côtes du Rhône Villages",
           "druif": "Grenache, Syrah, Mourvèdre",
-          "smaakprofiel": "Droog, rijp rood-zwart fruit, witte peper, kruidigheid en een warme volle body. Medium body, soepele tannine.",
-          "omschrijving": "Domaine de la Janasse, Domaine Saint-Damien, of een goede negociant-versie. €10–15. Serveer op 16–17°C.",
-          "waarom_werkt_dit": "Voor wie iets voller wil schenken bij het gerecht: de peper-tonen van de Syrah vinden de zwarte peper op het vlees en in de sjalottenjus; de Grenache-zoetheid raakt de gekarameliseerde sjalotten; en de soepele tannine laat het gemalen vlees tot zijn recht komen. Kies geen zware houtgerijpte stijl — medium body is precies goed bij steak haché."
+          "smaakprofiel": "Rijp rood fruit, peper, kruidigheid, medium body.",
+          "omschrijving": "Domaine de la Janasse, Domaine Saint-Damien, of een goede negociant-versie. €10–15.",
+          "waarom_werkt_dit": "Voor wie iets voller wilt schenken. Past bij gebakken rundvlees en sjalottenjus, peper-tonen vinden de zwarte peper op het vlees. Kies geen zware houtgerijpte stijl — medium body is precies goed."
         }
       ],
       "wine": {
@@ -64803,7 +64867,7 @@
         "toelichting": "Droog, sappig rood fruit, frisse zuren en zachte tannine — Domaine Foillard, Marcel Lapierre (€15–25, lichtjes gekoeld op 14–16°C). Sappig en bistroachtig, snijdt door boter en ei, past perfect bij sjalottenjus en cornichon-crème. De klassieke Franse bistropairing.",
         "alternatief": "Chinon of Saumur-Champigny (Cabernet Franc, Loire) — kruidig, paprika-toets, frisse zuren (€18–30). Iets serieuzer dan Beaujolais, klassiek-Frans bij bistro-rundvlees."
       },
-      "seo_title": "Steak haché à cheval recept — Franse bistroclassieker | Het Proeven"
+      "seo_title": "Steak haché à cheval recept — Franse bistroklassieker | Het Proeven"
     }
   ]
 }
