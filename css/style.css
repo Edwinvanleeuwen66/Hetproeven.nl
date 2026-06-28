@@ -616,12 +616,12 @@ footer a:hover { color: #8A3A10; }
   color: #B85C30;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-size: 13px;
+  font-size: 0.85rem;
   margin-bottom: 0.5rem;
 }
 .wine-naam {
   font-family: 'Playfair Display', serif;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   color: #2B1A0D;
   margin-bottom: 0.75rem;
 }
@@ -637,14 +637,14 @@ footer a:hover { color: #8A3A10; }
   color: #5a3e2b;
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
-  font-size: 15px;
+  font-size: 0.85rem;
   font-family: 'Lato', sans-serif;
 }
 .wine-toelichting {
   font-family: 'Lato', sans-serif;
   color: #5a3e2b;
-  line-height: 1.75;
-  font-size: 18px;
+  line-height: 1.7;
+  font-size: 0.95rem;
   margin: 0;
 }
 
