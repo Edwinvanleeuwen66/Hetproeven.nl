@@ -64509,6 +64509,301 @@
         "toelichting": "Droog, citrus, gele appel, kweepeer en mineraliteit — Dr. Loosen, Selbach-Oster of Reichsrat von Buhl (€10–18). Snijdt feilloos door de cocktailsaus, citrus vindt de mandarijn, fruitigheid raakt de kaas. Serveer op 9–11°C.",
         "alternatief": "Albariño (Rías Baixas) — fris, perzik, ziltig, levendige zuren (€10–18). Zelfde mineraliteit en frisheid als Riesling maar met een Atlantische zomerse vibe."
       }
+    },
+    {
+      "source_recipe_number": 197,
+      "title": "Steak haché à cheval — de Franse bistroclassieker",
+      "slug": "steak-hache-a-cheval-franse-bistroclassieker",
+      "location": "Frankrijk / Provence",
+      "time": "30 min voorbereiding + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gevorderd",
+      "keuken": "Frans",
+      "categorie": "vlees",
+      "image": "/assets/images/steak-hache-a-cheval-franse-bistroclassieker.jpg",
+      "short_description": "Vers gemalen paleron-patty met crispy korst en rosé kern, gekroond met een vloeibaar spiegelei, op een glanzende sjalottenjus met krokante aardappelblokjes, gebrande little gem en cornichon-crème.",
+      "description": "Steak haché zoals hij in de Franse bistro hoort: vers gemalen paleron (sukade zonder zeen) met een diepgoudbruin aangebakken korst en rosé binnen, gekroond met een spiegelei waarvan de dooier glanst en barst zodra je hem aanprikt. Ernaast een glanzende sjalottenjus met Dijon, krokante aardappelblokjes met knoflook en tijm, een gebrande halve little gem en een klein lepeltje cornichon-crème. Geen hamburger, geen tartaar — maar een echt Frans bistrogerecht met eigen wetgeving en eigen techniek.",
+      "ingredient_groups": [
+        {
+          "group_name": "Steak haché",
+          "ingredients": [
+            {
+              "name": "paleron (sukade zonder zeen / flat iron steak)",
+              "amount": "600 g"
+            },
+            {
+              "name": "hard rundervet of runderrugvet",
+              "amount": "40–60 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper (pas na het bakken)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie (zonnebloem of arachide)",
+              "amount": "1 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "30 g"
+            },
+            {
+              "name": "takjes verse tijm",
+              "amount": "2"
+            },
+            {
+              "name": "teentje knoflook, gekneusd",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Sjalottenjus",
+          "ingredients": [
+            {
+              "name": "sjalotten, in dunne ringen",
+              "amount": "4"
+            },
+            {
+              "name": "roomboter",
+              "amount": "30 g"
+            },
+            {
+              "name": "goede rode wijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "runderfond",
+              "amount": "200 ml"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rode-wijn-azijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "takje verse tijm",
+              "amount": "1"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "klontje koude boter (voor glans)",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Krokante aardappelblokjes",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappels (Charlotte of Roseval), geschild",
+              "amount": "500 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "30 g"
+            },
+            {
+              "name": "teentje knoflook, gekneusd",
+              "amount": "1"
+            },
+            {
+              "name": "takje tijm of rozemarijn",
+              "amount": "1"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Cornichon-crème",
+          "ingredients": [
+            {
+              "name": "crème fraîche",
+              "amount": "3 el"
+            },
+            {
+              "name": "goede mayonaise",
+              "amount": "1 el"
+            },
+            {
+              "name": "kleine cornichons, zeer fijn gehakt",
+              "amount": "2"
+            },
+            {
+              "name": "Dijon-mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "augurkenvocht",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Gebrande little gem",
+          "ingredients": [
+            {
+              "name": "kropjes little gem, gehalveerd",
+              "amount": "2"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Spiegelei à cheval",
+          "ingredients": [
+            {
+              "name": "zeer verse eieren (bio of vrije uitloop)",
+              "amount": "4"
+            },
+            {
+              "name": "roomboter",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "Worcestershire-saus",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijngesneden peterselie (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Aardappelblokjes voorkoken",
+          "description": "Snijd de aardappels in blokjes van ca. 2 cm. Kook 6–7 minuten in gezouten water tot de buitenkant net zacht is — niet doorgaren. Giet af en laat 5 minuten droogstomen in de vergiet. Vochtige aardappels worden nooit krokant."
+        },
+        {
+          "action": "Sjalottenjus maken",
+          "description": "Smelt 30 g boter in een klein pannetje op middellaag vuur. Bak de sjalotringen 8–10 minuten zacht en goudbruin — ze moeten zoet worden, niet verbranden. Blus af met rode wijn en laat tot de helft inkoken. Voeg runderfond, Dijon, tijm en azijn toe. Laat zacht inkoken tot een glanzende dikke jus die aan de lepel hangt (10–15 min). Vis de tijm eruit. Breng op smaak. Monteer vlak voor serveren met een klontje koude boter voor glans."
+        },
+        {
+          "action": "Cornichon-crème maken",
+          "description": "Meng crème fraîche, mayonaise, fijn gehakte cornichons, Dijon, paar druppels augurkenvocht, peper en zout. Dit moet een klein fris bistro-accent zijn — zuur, romig en subtiel, geen dikke hamburgersaus. Zet koud."
+        },
+        {
+          "action": "Vlees malen en patties vormen",
+          "description": "Snijd het paleron en rundervet in blokken van 2 cm. Leg vlees, vet én de gehaktmolen-onderdelen 20–30 minuten in de vriezer — alles koud is de gouden regel. Maal eenmaal door de grove plaat (8 mm). Voeg vlees en vet afwisselend in de trecher. Niet twee keer malen. Meng heel kort met zachte handen — alleen verdelen, niet kneden. Verdeel in 4 porties van ca. 160 g, vorm tot patties van 2 cm dik en 10 cm doorsnede. Maak een kleine indruk in het midden met je duim. Zet 15 minuten koud."
+        },
+        {
+          "action": "Aardappelblokjes krokant bakken",
+          "description": "Verhit 2 el olie in een grote koekenpan op middelhoog vuur. Bak de droge voorgegaarde aardappelblokjes 10–12 minuten goudbruin en krokant aan alle kanten. Voeg op het einde de boter, knoflook en tijm toe. Bak nog 2–3 minuten terwijl je de aardappels regelmatig door de schuimende boter rolt. Zout en warm houden."
+        },
+        {
+          "action": "Steak haché bakken",
+          "description": "Bestrooi de buitenkant van de patties royaal met zout — pas vlak voor het bakken. Verhit een zware gietijzeren pan goed heet. Voeg de olie toe met tijm en knoflook. Leg de patties in de pan. Bak 2½–3 minuten op de eerste zijde tot diepgoudbruin, draai om, bak 2–2½ minuten op de tweede zijde. Voeg de boter toe en lepel de schuimende tijm-knoflookboter regelmatig over de top (arroser). Kerntemperatuur 55–58°C voor rosé. Laat 3–4 minuten rusten. Maal nu pas zwarte peper erover."
+        },
+        {
+          "action": "Little gem branden en spiegeleieren bakken",
+          "description": "Wrijf de gehalveerde little gem licht in met olijfolie. Bak alleen de snijkant 45–60 seconden in een hete grillpan tot licht geblakerd — binnenin moet de sla nog fris en knapperig blijven. Breng op smaak met fleur de sel, peper en citroensap. Veeg de pan af, voeg verse boter toe op middellaag vuur en bak 4 spiegeleieren met vloeibare dooier en licht krokante randen."
+        },
+        {
+          "action": "Opbouwen en serveren",
+          "description": "Werk snel per warm bord: lepel de sjalottenjus als basis. Leg de steak haché centraal. Druppel Worcestershire over het vlees. Schuif het spiegelei voorzichtig op de top — à cheval. Schep krokante aardappelblokjes aan één kant, gebrande little gem aan de andere kant. Lepel een klein dotje cornichon-crème ernaast. Maal zwarte peper boven het ei, snufje fleur de sel, eventueel peterselie. Direct serveren."
+        }
+      ],
+      "chef_tip": "Mise-en-place: sjalottenjus en cornichon-crème kunnen een dag vooraf worden gemaakt. Aardappels pre-koken kan ook vooraf. Alleen het vlees vers malen en direct daarna bakken — gebruik vlees dat dezelfde dag is gemalen en eet binnen 2 uur na malen.\n\nTechniek: alles koud bij het malen is de gouden regel — vlees, vet én de molen-onderdelen 20–30 minuten in de vriezer. Lauwwarm vlees smeert het vet uit en geeft een pasteuze textuur. Eenmaal door de grove plaat (8 mm), niet twee keer — eenmaal geeft losse grove korrels die net samenhangen, twee keer geeft hamburger-papperigheid. En nooit kneden: vorm met zachte handen, anders ontwikkel je eiwitstructuren die het vlees taai maken.\n\nPresentatie: werk snel en in volgorde — het spiegelei als allerlaatste. Alle onderdelen moeten warm zijn als het bord op tafel komt, de dooier vloeibaar, de jus glanzend. Maak er geen broodje van — steak haché is een bordgerecht.\n\nVoedselveiligheid: gebruik alleen vers gemalen vlees van een slager die je vertrouwt, eet binnen 2 uur na malen. Voor kinderen, ouderen of kwetsbare eters de patty langer bakken tot kerntemperatuur 65°C.\n\nVariatie Café de Paris-boter: voor wie het spiegelei overslaat — een dot Café de Paris-boter (boter met kruiden, mosterd, knoflook, paprika) op de hete steak haché smelt tot een glanzende saus.\n\nSukade zonder zeen is essentieel: vraag de slager om de centrale pees eruit te halen (flat-iron-achtig te pareren). Gewone sukade mét zeen is niet geschikt — die pees loopt door het gemalen vlees en geeft taaie slierten.\n\nPeper pas na het bakken: peper voor het bakken verbrandt en geeft een bittere, scherpe smaak. Zout vlak vóór het bakken, peper direct erna.\n\nLittle gem alleen de snijkant branden: 45–60 seconden, niet langer. Binnenin moet de sla nog fris en knapperig blijven — het gaat om het rokerige accent van de gebrande snijkant, niet om een gegaarde sla.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Beaujolais Cru — Morgon of Fleurie, Beaujolais, Frankrijk",
+          "druif": "Gamay",
+          "smaakprofiel": "Droog, sappig rood fruit (kers, framboos), frisse levendige zuren, zachte tannine en lichte kruidigheid. Licht tot medium body, elegant en dorstlessend.",
+          "omschrijving": "Domaine Foillard Morgon, Marcel Lapierre Morgon, Château Thivin Côte de Brouilly. €15–25. Serveer op 14–16°C, lichtjes gekoeld — dat is de Franse bistro-traditie.",
+          "waarom_werkt_dit": "Steak haché is rundvlees maar geen zware ribeye — Gamay blijft sappig en bistroachtig en past perfect bij de sjalottenjus en cornichon-crème zonder het gerecht te overstemmen. De frisse levendige zuren snijden door de boter van de arroser en het vloeibare ei; het sappige rood fruit verbindt met de hartige pan-jus; en de zachte tannine respecteert het malse gemalen vlees. De klassieke Beaujolais-pairing bij Frans bistroundvlees."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chinon of Saumur-Champigny — Loire, Frankrijk",
+          "druif": "Cabernet Franc",
+          "smaakprofiel": "Droog, rood fruit, lichte paprika-toets, kruidigheid, frisse zuren en fijne tannine. Elegante structuur, aromatisch en precies.",
+          "omschrijving": "Domaine Charles Joguet Chinon, Bernard Baudry Chinon, Clos Rougeard Saumur-Champigny. €18–30. Serveer op 15–17°C.",
+          "waarom_werkt_dit": "Cabernet Franc is de klassiek-Franse keuze bij bistro-rundvlees — de kruidigheid sluit prachtig aan bij de Dijon in de sjalottenjus en de cornichon-crème; de paprika-toets verbindt met de zwarte peper op het vlees; en de frisse zuren snijden door het ei en de boter. Iets serieuzer dan Beaujolais, perfect voor wie meer structuur wil zonder Bourgogne-prijzen te betalen."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Côtes du Rhône Villages — Rhône, Frankrijk",
+          "druif": "Grenache, Syrah, Mourvèdre",
+          "smaakprofiel": "Droog, rijp rood-zwart fruit, witte peper, kruidigheid en een warme volle body. Medium body, soepele tannine.",
+          "omschrijving": "Domaine de la Janasse, Domaine Saint-Damien, of een goede negociant-versie. €10–15. Serveer op 16–17°C.",
+          "waarom_werkt_dit": "Voor wie iets voller wil schenken bij het gerecht: de peper-tonen van de Syrah vinden de zwarte peper op het vlees en in de sjalottenjus; de Grenache-zoetheid raakt de gekarameliseerde sjalotten; en de soepele tannine laat het gemalen vlees tot zijn recht komen. Kies geen zware houtgerijpte stijl — medium body is precies goed bij steak haché."
+        }
+      ],
+      "wine": {
+        "naam": "Beaujolais Cru — Morgon of Fleurie",
+        "druif": "Gamay",
+        "toelichting": "Droog, sappig rood fruit, frisse zuren en zachte tannine — Domaine Foillard, Marcel Lapierre (€15–25, lichtjes gekoeld op 14–16°C). Sappig en bistroachtig, snijdt door boter en ei, past perfect bij sjalottenjus en cornichon-crème. De klassieke Franse bistropairing.",
+        "alternatief": "Chinon of Saumur-Champigny (Cabernet Franc, Loire) — kruidig, paprika-toets, frisse zuren (€18–30). Iets serieuzer dan Beaujolais, klassiek-Frans bij bistro-rundvlees."
+      },
+      "seo_title": "Steak haché à cheval recept — Franse bistroclassieker | Het Proeven"
     }
   ]
 }
