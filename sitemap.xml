@@ -1699,7 +1699,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hetproeven.nl/recepten/steak-hache-a-cheval-franse-bistroclassieker/</loc>
+    <loc>https://hetproeven.nl/recepten/steak-hache-a-cheval-franse-bistroklassieker/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hetproeven.nl/recepten/boeuf-bourguignon-de-la-gloire-hemelse-versie/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

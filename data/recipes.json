@@ -64868,6 +64868,303 @@
         "alternatief": "Chinon of Saumur-Champigny (Cabernet Franc, Loire) — kruidig, paprika-toets, frisse zuren (€18–30). Iets serieuzer dan Beaujolais, klassiek-Frans bij bistro-rundvlees."
       },
       "seo_title": "Steak haché à cheval recept — Franse bistroklassieker | Het Proeven"
+    },
+    {
+      "source_recipe_number": 198,
+      "title": "Boeuf Bourguignon de la Gloire — de hemelse versie",
+      "slug": "boeuf-bourguignon-de-la-gloire-hemelse-versie",
+      "location": "Côte d'Or / Bourgogne, Frankrijk",
+      "time": "45 min voorbereiding + 4 uur oven (puree apart 30 min)",
+      "servings": "4 personen",
+      "difficulty": "Gevorderd",
+      "keuken": "Frans",
+      "categorie": "vlees",
+      "image": "/assets/images/boeuf-bourguignon-de-la-gloire-hemelse-versie.jpg",
+      "short_description": "Sukade en riblap vier uur gegaard in Bourgogne, saus gezeefd en gemonteerd met boter, garniture bourguignonne apart bereid en een wolk Pommes Purée à la Robuchon — de versie waar Bocuse en Robuchon elkaar de hand geven.",
+      "description": "Als god in Frankrijk woont, eet hij dit op zondag. Niet de bruine pot van je oma — hoe lief ook — maar de versie zoals ze hem in een goede Côte d'Or-restaurant tussen Beaune en Dijon op de kaart hebben staan. Sukade en riblap, vier uur langzaam gegaard in goede Bourgogne, met een saus die zo lang is gereduceerd en gezeefd dat hij als zwart fluweel op de lepel hangt. Garniture bourguignonne apart bereid in geometrische precisie: knapperige spek-lardons, glanzende geglaceerde uitjes, kastanjechampignons gesauteerd in boter en sjalot. Eronder een wolk Pommes Purée à la Robuchon — die fameuze aardappelpuree waarvan een derde boter is, gestampt door een passe-vite, geklopt tot zijdezacht en spiegelglanzend, waarvan elke lepel je doet flauwvallen. Afgewerkt met persillade en de geheime druppel crème de cassis uit Dijon die de Bourgogne in Bourgogne maakt. De eerste hap doet je stil zijn. De tweede laat je je ogen sluiten. Bij de derde besef je: er is boeuf bourguignon, en er is dít. Dit is de hemelse versie. Hier raken Bocuse en Robuchon elkaar de hand en glimlachen ze.",
+      "ingredient_groups": [
+        {
+          "group_name": "Pommes Purée à la Robuchon",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappels (Charlotte, Ratte of Roseval)",
+              "amount": "1 kg"
+            },
+            {
+              "name": "zeer koude ongezouten boter, in blokjes",
+              "amount": "250 g"
+            },
+            {
+              "name": "zeer warme volle melk",
+              "amount": "250 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgeraspte nootmuskaat (optioneel)",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Vlees en saus",
+          "ingredients": [
+            {
+              "name": "sukade, goed getrimd, in stukken van 4–5 cm",
+              "amount": "600 g"
+            },
+            {
+              "name": "riblap, in stukken van 4–5 cm",
+              "amount": "500 g"
+            },
+            {
+              "name": "goede Bourgogne (Pinot Noir)",
+              "amount": "750 ml"
+            },
+            {
+              "name": "krachtige runderfond",
+              "amount": "400 ml"
+            },
+            {
+              "name": "gerookte spekblokjes of lardons (poitrine fumée)",
+              "amount": "150 g"
+            },
+            {
+              "name": "grote uien, grof gehakt",
+              "amount": "2"
+            },
+            {
+              "name": "wortels, in grove plakken",
+              "amount": "2"
+            },
+            {
+              "name": "teentjes knoflook, gekneusd",
+              "amount": "3"
+            },
+            {
+              "name": "laurierblaadjes",
+              "amount": "2"
+            },
+            {
+              "name": "takjes verse tijm",
+              "amount": "4"
+            },
+            {
+              "name": "takjes verse peterselie (steeltjes en blaadjes)",
+              "amount": "2"
+            },
+            {
+              "name": "zwarte peperkorrels",
+              "amount": "8"
+            },
+            {
+              "name": "kruidnagel",
+              "amount": "1"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "25 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "bloem (voor singer)",
+              "amount": "1 el"
+            },
+            {
+              "name": "crème de cassis (Lejay Lagoute of Gabriel Boudier uit Dijon)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "snufje"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Petits oignons glacés à brun",
+          "ingredients": [
+            {
+              "name": "kleine zilveruitjes of sjalotjes, vers gepeld",
+              "amount": "250 g"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "runderfond of water",
+              "amount": "100 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Champignons de Paris poêlés",
+          "ingredients": [
+            {
+              "name": "kleine kastanjechampignons, in helften of klein en heel",
+              "amount": "300 g"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "sjalot, fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "teentje knoflook, fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "gehakte verse peterselie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "zeer koude boter voor mounting au beurre",
+              "amount": "40 g"
+            },
+            {
+              "name": "rode-wijn-azijn (alleen als nodig)",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "fijngehakte verse peterselie",
+              "amount": "2 el"
+            },
+            {
+              "name": "vers gemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pommes Purée à la Robuchon — hemelse basis",
+          "description": "Dit is dé aardappelpuree. De versie van Joël Robuchon, drie sterren Michelin, met de befaamde 1:4 verhouding van boter tot aardappel. Eén kilo aardappel, kwart kilo boter. Geen woord van overdrijving — dit is waar mensen letterlijk hun ogen sluiten en zwijgen bij de eerste lepel.\n\nSchil de aardappels en snijd in gelijke stukken van ongeveer 4 cm. Doe in een pan met koud gezouten water (start vanuit koud — gelijkmatiger garing). Breng aan de kook en kook 20–25 min tot de aardappel zeer zacht is — een mes moet er moeiteloos doorheen.\n\nGiet af en laat 5 min droogstomen in de vergiet — vochtige aardappel maakt klamme puree.\n\nDruk de aardappel door een passe-vite (de molen met gaatjes-plaat) of door een fijne zeef met een houten lepel. Geen keukenmachine en geen pureestamper — die maken elastische plakkerige puree door zetmeel-bewerking. Passe-vite geeft luchtig-zijdezacht resultaat. Dit is non-negotiable bij Robuchon-stijl.\n\nDoe de gepasseerde puree in een schone, warme pan op zeer laag vuur. Klop nu met een houten lepel of garde de zeer koude boter in kleine blokjes door — beetje voor beetje, niet alles tegelijk. Klop 5–7 minuten — het mengsel transformeert geleidelijk van bleek-witgeel naar diep-glanzend ivoorgeel. Je voelt de structuur veranderen onder je lepel.\n\nKlop nu de zeer warme volle melk beetje bij beetje erdoor tot een zijdezachte, glanzende, spiegelende puree ontstaat die van de lepel in dikke draden valt. Test consistentie: hij moet langzaam vloeien, niet plakken en niet lopen.\n\nZout naar smaak — vrij royaal, want puree absorbeert zout. Snufje nootmuskaat optioneel. Dek af met huishoudfolie direct op het oppervlak (voorkomt korstvorming) en houd warm op zeer laag vuur of in een bain-marie."
+        },
+        {
+          "action": "Wijn reduceren met aromaten",
+          "description": "Giet de Bourgogne in een sauspan. Voeg de helft van de uien, wortel, knoflook, laurier, tijm, peterselie-steeltjes, peperkorrels en kruidnagel toe. Breng aan de kook en laat 20 min zacht inkoken tot ongeveer 500 ml — de wijn wordt dieper, ronder, geuriger; de bittere alcohol-tonen verdwijnen. Vis de aromaten en groenten eruit met schuimspaan en bewaar apart. Zeef de wijn. Zet apart.\n\nDit is dé techniek die de saus tilt: gereduceerde wijn met aromaten is veel ronder en geconcentreerder dan rauwe wijn die rechtstreeks in de stoof gaat."
+        },
+        {
+          "action": "Spek uitbakken",
+          "description": "Doe de spekblokjes in een koude zware gietijzeren stoofpan (Le Creuset of Staub). Zet op middellaag vuur. Bak 8–10 min langzaam uit tot diepgoudbruin en knapperig — zonder olie of boter; het spek-eigen vet komt eruit en frituurt zichzelf. Schep eruit met schuimspaan op keukenpapier. Bewaar voor garniture. Laat het spekvet in de pan."
+        },
+        {
+          "action": "Vlees diepbruin aanbraden",
+          "description": "Dep het vlees grondig droog met keukenpapier. Vochtig vlees bakt niet bruin, en zonder bruine korst geen diepe saus. Bestrooi met zout en zwarte peper.\n\nVoeg eventueel 1 el neutrale olie toe aan het spekvet als nodig. Verhit tot hoog vuur. Braad het vlees in 3 of 4 porties rondom diepmahonie-bruin in 6–8 min per portie. Niet alles tegelijk — anders gaat het stomen. Donker bruinen rondom is dé bron van de saus-diepte. Liever te donker dan te licht.\n\nEruit halen, opzij zetten."
+        },
+        {
+          "action": "Aromaten bakken",
+          "description": "Voeg de rest van de uien, wortel en knoflook toe aan de pan met de aanbaksels. Voeg de boter toe. Bak 8–10 min op middelhoog vuur tot diepgoudbruin. Niet versnellen — gekaramelliseerde groenten zijn het tweede fundament van de saus."
+        },
+        {
+          "action": "Singer-techniek",
+          "description": "Voeg de tomatenpuree toe, roer 1 min mee. Strooi de bloem over de groenten en bak 2–3 min mee — klassieke Franse techniek 'singer' die de saus natuurlijk bindt zonder beurre manié op het einde."
+        },
+        {
+          "action": "Blussen en saus opbouwen",
+          "description": "Schenk de gereduceerde wijn in de pan. Roer grondig over de bodem zodat alle aanbaksels loskomen. Voeg de runderfond toe. Schep het aangebraden vlees terug in de pan. Het hoeft niet helemaal onder de vloeistof te staan, ⅔ is genoeg — voeg een scheutje water of fond toe als nodig. Breng aan de kook. Doe de deksel op de pan."
+        },
+        {
+          "action": "In de oven — 4 uur op 120°C",
+          "description": "Verwarm oven voor op 120°C (boven- en onderwarmte, geen hete lucht). Plaats de pan in het midden van de oven. Laat 4 uur stoven. De lage temperatuur is non-negotiable — smelt het bindweefsel zonder vocht uit het vlees te trekken. Hoger vuur geeft draderig taai resultaat.\n\nRoer 2 keer voorzichtig door tijdens het stoven.\n\nTest na 4 uur: vlees moet bij lichte druk uit elkaar vallen, maar nog stukjesstructuur hebben. Indien stevig: 30–45 min langer."
+        },
+        {
+          "action": "Zilveruitjes glaceren",
+          "description": "Doe de zilveruitjes in een wijde pan met de boter, suiker, snufje zout en 100 ml fond of water. Bedek met een papieren ronde (cartouche) met een gaatje in het midden — klassiek-Franse techniek voor gelijkmatige reductie.\n\nKook op middelhoog vuur tot het vocht bijna verdampt is (12–15 min). Verwijder de cartouche en laat de uitjes glaceren tot diepmahonie-bruin in het achtergebleven boter-suiker-mengsel (3–5 min), regelmatig schudden met de pan. Resultaat: glanzende, mahonie-bruine uitjes met een zoet-zilt glazuur. Houd warm."
+        },
+        {
+          "action": "Kastanjechampignons sauteren",
+          "description": "Verhit een wijde pan goed heet. Bak de champignons in 20 g boter op hoog vuur tot ze diepbruin zijn (5–6 min) — niet roeren tot ze kleur hebben, anders stomen ze in eigen vocht. Voeg sjalot toe, bak 2 min mee. Voeg knoflook toe, bak 30 sec. Strooi peterselie erover, zout en peper. Houd warm."
+        },
+        {
+          "action": "Saus perfectioneren — de kritieke stap",
+          "description": "Haal de pan uit de oven. Schep voorzichtig het vlees uit de saus met schuimspaan en leg in een aparte schaal.\n\nZeef de saus door een fijne zeef in een schone sauspan. Druk de groenten licht uit, maar maak er geen puree van — je wilt smaak, geen pulp in de saus. Gooi de groenten weg; ze hebben hun werk gedaan.\n\nLaat de saus zonder deksel op middelhoog vuur 15–20 min zacht inkoken tot hij glanzend en geconcentreerd is. Hij moet een lepel licht bedekken: rijk en diep, maar niet dik of log. Test door een lepel in de saus te dopen en met je vinger een streep over de achterkant te trekken: de streep moet zichtbaar blijven.\n\nSaus afmaken: voeg 1 tl crème de cassis toe (Bourgogne-geheim — geeft de zoete-bittere diepte die deze regio kenmerkt). Snufje suiker als de saus te zuur is. Paar druppels rode-wijn-azijn als de saus te zoet is. Zout en peper naar smaak.\n\nMounting au beurre: zet het vuur uit. Klop 40 g zeer koude boter in stukjes door de saus met een garde tot spiegel-glans en zijdezacht. Niet meer doorkoken na de boter — dan breekt de emulsie. Dit is de Michelin-truk voor saus-glans."
+        },
+        {
+          "action": "Alles samenbrengen en opdienen",
+          "description": "Schep het vlees voorzichtig terug in de saus. Voeg de uitgebakken spek-lardons, geglaceerde uitjes en gesauteerde champignons toe. Laat 10 min op zeer laag vuur opwarmen — niet koken, alleen verwarmen, anders vallen de vleesstukken uit elkaar en verliezen de garnituren hun textuur.\n\nWerk per warm bord (verwarm vooraf in oven op 70°C): royale schep Pommes Purée à la Robuchon in het midden of als basis-veeg met een grote lepel. Twee stukken vlees centraal — één sukade en één riblap (textuur-contrast), licht ingedrukt in de puree. Saus royaal over en rondom het vlees, glanzend. Geglaceerde uitjes in een kleine groep aan één kant (4–5 per bord). Champignons in een kleine groep aan de andere kant (4–5 per bord). Spek-lardons verspreid over het vlees. Fijne peterselie royaal over het hele bord. Vers gemalen zwarte peper, snufje fleur de sel.\n\nNiet als rommelige stoofberg, maar als bistrobord dat precies klopt. Elk element herkenbaar en in proportie. Serveer direct met een glas zelfde Bourgogne als die in het gerecht zit."
+        }
+      ],
+      "chef_tip": "Mise-en-place: dezelfde dag kan prima — ochtend tot vroege middag alle stappen tot en met 4 uur in de oven, late namiddag puree maken, garnituren maken, saus reduceren, mounting au beurre, alles samenbrengen. Maar 24 of 48 uur vooraf maken is nog beter: maak alles tot stap 8, laat afkoelen, koelkast. De volgende dag: schep de gestolde vetlaag af, verwarm zachtjes terug, ga verder bij de saus. Een nacht rust maakt de saus ronder, dieper en zachter. Garnituren altijd op de dag zelf maken — ze verliezen hun textuur. Puree ook op de dag zelf.\n\nTechniek: vijf dingen die hem op Michelin-niveau brengen die thuis-koks bijna nooit doen: (1) Wijn vooraf reduceren met aromaten — geeft groot deel van het marinade-effect zonder 24–48 uur wachten; de wijn wordt dieper, ronder, geuriger. (2) Singer-techniek voor binding — bloem mee-bakken na de aromaten geeft natuurlijke binding. (3) Saus zeven en mounten — aromaten weggooien, gezuiverde saus met koude boter tot spiegel-glans. (4) Garniture apart bereid — lardons knapperig, zilveruitjes geglaceerd, champignons gesauteerd, elk op zijn beste moment. (5) Pommes Purée à la Robuchon als basis — niet als bijgerecht, maar als de helft van de hemelse ervaring.\n\nPresentatie: niet als rommelige stoofberg maar als bistrobord dat precies klopt. Elk element herkenbaar en in proportie — puree als basis-wolk, vlees centraal, saus glanzend rondom, garnituren in kleine groepjes. Borden vooraf verwarmen in oven op 70°C — koude borden ruïneren de saus binnen 30 seconden.\n\nVariatie knapperige frites: voor een Belgisch-Frans bistro-gevoel, of voor wie geen zin heeft in de bewerkelijke Robuchon-puree: krokante frites (Bintje, dubbel gefrituurd) erbij. Mayo apart in een klein schaaltje. Klinkt rustiek bij een Michelin-versie, maar werkt verrassend goed — Belgische bistro's serveren bourguignon zo.\n\nVariatie luxe-upgrade: voeg een plakje gesmolten beenmerg bovenop het vlees toe vlak voor opdienen (4–5 min op 220°C in de oven met fleur de sel). Driesterren-Michelin-finale die de rijke umami-laag toevoegt.\n\nSukade + riblap voor textuur-contrast: sukade voor smelt-in-de-mond, riblap voor vleesvezel-bite. Twee texturen op één bord die elkaar versterken.\n\nEen echte Bourgogne, geen Pinot Noir uit Chili: een Bourgogne Rouge van een goed huis voor €15–20, of een Mercurey/Givry/Marsannay. Pinot Noir uit warmere regio's heeft niet de juiste zuren en aardse tonen.\n\nPommes Purée à la Robuchon — passe-vite, geen keukenmachine. Non-negotiable. Keukenmachine maakt elastisch-plakkerige puree door zetmeel-bewerking. Passe-vite is de Franse traditie en geeft luchtig-zijdezacht resultaat. Albert Heijn verkoopt 'm voor €25, gaat een leven lang mee.\n\nBoter zeer koud, melk zeer warm: Robuchon-truk voor optimale emulsie — koude boterblokjes integreren door warme aardappel, dan warme melk om de textuur te perfectioneren. Beide temperaturen extreem — daarin zit de magie.\n\nVlees groot snijden — 4–5 cm stukken: grote stukken blijven sappiger en ogen luxer. Te kleine blokjes vallen uit elkaar tijdens 4 uur stoven.\n\nBak in porties — niet alles tegelijk: te veel vlees = stomen in eigen vocht = grauw resultaat. Werk in 3 of 4 porties voor diepe bruine korst rondom.\n\nWijn eerst reduceren met aromaten — niet rauw in de stoof: 20 min reduceren met aromaten, zeven, dan in de stoof. Hét verschil tussen thuis-bourguignon en bistro-bourguignon.\n\nSaus zeven, niet groente-brij: dit is hét verschil tussen huiskoken en restaurant-niveau. Aromaten weggooien, saus filteren tot puur fluweel.\n\nMounting au beurre op het einde: vuur uit, koude boter in stukjes erdoor kloppen met garde. Spiegel-glans en zijdezacht mondgevoel. Klassieke Michelin-techniek.\n\nGarnituur altijd apart bereid: lardons knapperig in droge pan; zilveruitjes geglaceerd met cartouche; champignons hoog vuur in boter. Apart op het bord, in geometrische compositie. Klassieke garniture bourguignonne.\n\nCrème de cassis — één theelepel, geheim: bij betere wijnhandel: Lejay Lagoute of Gabriel Boudier uit Dijon. €12 voor een fles, gaat lang mee (ook voor Kir Royale). Geeft de Bourgogne-specifieke diepte.\n\n120°C, 4 uur, deksel op: lage temperatuur is non-negotiable. Hoger trekt vocht uit het vlees en maakt het draderig. 120°C smelt het bindweefsel zonder droogkoken.\n\n24–48 uur vooraf maken is écht beter: saus wordt nog ronder na een nacht koelkast-rust. Vet stolt aan de oppervlakte en kun je morgen afscheppen voor gezuiverde saus.\n\nServeer warm, niet kokend heet: iets rustiger op temperatuur laat je de wijn, boter, ui en champignons beter proeven.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Gevrey-Chambertin Village of Côte de Beaune-Villages — Bourgogne, Frankrijk",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Donkerder en krachtiger Pinot Noir met de typische 'Burgundy-funk' van bosgrond, paddenstoel en gedroogde kers. Medium-vol van gewicht, frisse zuren, fijne tannine, lange aardse afdronk.",
+          "omschrijving": "Domaine Trapet Gevrey-Chambertin, Domaine Heresztyn-Mazzini, Maison Champy. €40–60. Serveer op 15–17°C in grote Bourgogne-glazen.",
+          "waarom_werkt_dit": "Het smaakgewicht (medium-vol) en de structuur (frisse zuren, fijne tannine) tillen het vlees op zonder eronder of erover te gaan. De aardse tonen vinden de saus en de champignons als oude vrienden; de frisse zuren snijden door de boter; de zoete kers-tonen accentueren de crème de cassis-druppel die in de saus zit. Dezelfde wijn-regio als die in het gerecht zit, maar nu een betere fles."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pommard of Volnay — Côte de Beaune, Bourgogne, Frankrijk",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Pommard: iets steviger en mannelijker. Volnay: fijner en elegant. Beide met frisse zuren, aardse paddenstoel-tonen en zacht rood fruit.",
+          "omschrijving": "Domaine de Montille, Domaine Marquis d'Angerville, Hubert de Montille. €30–50. Serveer op 15–17°C.",
+          "waarom_werkt_dit": "Pommard heeft net iets meer body voor de rijke saus; Volnay is de elegantere keuze voor wie van fijne wijn houdt. Beide hebben de frisse zuren die door de boter en de saus snijden, met aardse paddenstoel-tonen die de garniture champignons herhalen. Côte de Beaune-tegenhanger die precies past bij dit gerecht."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Mercurey of Givry — Côte Chalonnaise, Bourgogne, Frankrijk",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Sappig rood fruit, lichte aardse tonen, frisse zuren. Iets minder complex dan Gevrey of Pommard, maar zelfde druif en zelfde regio.",
+          "omschrijving": "Domaine Faiveley Mercurey, Joblot Givry, Domaine François Lumpp. €15–25. Lichtjes koeler serveren op 14–16°C — accentueert de fruitigheid.",
+          "waarom_werkt_dit": "Voor wie de Bourgogne-stijl wil maar geen €50/fles wil uitgeven. Iets minder complex dan Gevrey of Pommard, maar zelfde druif, zelfde regio, zelfde smaakprofiel. Sappig rood fruit, lichte aardse tonen, frisse zuren — alles wat de bourguignon vraagt, in een toegankelijke prijsklasse."
+        }
+      ],
+      "wine": {
+        "naam": "Gevrey-Chambertin Village",
+        "druif": "Pinot Noir",
+        "toelichting": "De canonieke pairing — donkerder Pinot Noir met Burgundy-funk van bosgrond, paddenstoel en gedroogde kers. Domaine Trapet, Maison Champy (€40–60, op 15–17°C in grote Bourgogne-glazen). Aardse tonen vinden saus en champignons; frisse zuren snijden door de boter; kers-tonen accentueren de crème de cassis.",
+        "alternatief": "Mercurey of Givry (Côte Chalonnaise) — zelfde druif, zelfde regio, toegankelijke prijs. Domaine Faiveley, Joblot (€15–25, op 14–16°C)."
+      },
+      "seo_title": "Boeuf Bourguignon recept — de hemelse Bourgognse versie | Het Proeven"
     }
   ]
 }
