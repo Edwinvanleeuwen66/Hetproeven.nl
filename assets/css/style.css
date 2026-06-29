@@ -730,12 +730,13 @@ footer a:hover { color: #8A3A10; }
 
 .filter-label {
   font-family: 'Lato', sans-serif;
-  font-size: 0.7rem;
+  font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
   color: #9a7e6a;
   white-space: nowrap;
   min-width: 48px;
+  font-weight: 600;
 }
 
 .filter-bar {
@@ -747,15 +748,15 @@ footer a:hover { color: #8A3A10; }
 .filter-btn {
   background: transparent;
   border: 1px solid var(--border);
-  color: var(--muted);
-  padding: 0.3rem 0.85rem;
+  color: #5a3e2b;
+  padding: 0.4rem 1rem;
   border-radius: 20px;
   font-family: 'Lato', sans-serif;
-  font-size: 0.8rem;
+  font-size: 14px;
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
@@ -768,23 +769,24 @@ footer a:hover { color: #8A3A10; }
 
 .filter-btn-sm {
   background: transparent;
-  border: none;
-  color: var(--muted);
-  padding: 0.2rem 0.6rem;
+  border: 1px solid var(--border);
+  color: #5a3e2b;
+  padding: 0.3rem 0.8rem;
   border-radius: 20px;
   font-family: 'Lato', sans-serif;
-  font-size: 0.72rem;
+  font-size: 13px;
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
-  font-weight: 300;
+  font-weight: 400;
 }
 
-.filter-btn-sm:hover { color: var(--accent); }
+.filter-btn-sm:hover { color: var(--accent); border-color: var(--accent); }
 
 .filter-btn-sm.active {
-  background: var(--hover);
-  color: var(--deep);
+  background: var(--deep);
+  border-color: var(--deep);
+  color: var(--cream);
   font-weight: 400;
 }
 
