@@ -66688,6 +66688,1390 @@
           "waarom_werkt_dit": "De mousse maakt het gerecht lichter en snijdt door boter en kalf. De lichte toast past goed bij de bloemkool en de zachte umami van de balletjes; de citrus vindt de citroen in de saus. Feestelijk en betaalbaar — en de Elzasser druiven-mix past cultureel prachtig bij dit Midden-Europese gerecht."
         }
       ]
+    },
+    {
+      "source_recipe_number": 206,
+      "title": "Gestoomde gamba's met geroosterde trassi",
+      "slug": "gestoomde-gambas-geroosterde-trassi-a-wong",
+      "location": "Pimlico, Londen",
+      "time": "20 min voorbereiding + 5 min bereiding",
+      "servings": "4 personen als voorgerecht",
+      "difficulty": "Makkelijk tot gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/gestoomde-gambas-geroosterde-trassi-a-wong.jpg",
+      "short_description": "Grote gamba's kort gestoomd tot glazig en sappig, met een krachtige dip van geroosterde garnalenpasta, chili en Shaoxing — garnaal op garnaal, puur umami.",
+      "description": "In 2012 nam Andrew Wong het Kantonese familierestaurant van zijn ouders in Pimlico over en bouwde er iets van waanzinnige ambitie: het eerste Chinese restaurant ter wereld met twee Michelin-sterren buiten Azië. Dit gerecht zit precies op zo'n grens: grote gamba's, kort gestoomd tot ze nog glazig en sappig zijn, met een warme dip van geroosterde trassi — de gefermenteerde garnalenpasta die in Zuidoost-Azië hoort, maar in de zuidelijke Chinese kustkeukens net zo goed thuis is. Garnaal op garnaal: de zoetheid van de gamba, verdiept door de zilte, bijna vlezige umami van de trassi.",
+      "ingredient_groups": [
+        {
+          "group_name": "Gamba's",
+          "ingredients": [
+            {
+              "name": "grote gamba's of langoustines, liefst met kop en schaal",
+              "amount": "8"
+            },
+            {
+              "name": "bosui, in grove stukken",
+              "amount": "1"
+            },
+            {
+              "name": "dunne plakjes verse gember",
+              "amount": "3"
+            },
+            {
+              "name": "Shaoxing-rijstwijn (of droge sherry)",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "mespuntje"
+            }
+          ]
+        },
+        {
+          "group_name": "Trassi-dip",
+          "ingredients": [
+            {
+              "name": "trassi/belacan (gefermenteerde garnalenpasta)",
+              "amount": "2 el"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Shaoxing-rijstwijn (of droge sherry)",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijne suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rode chili, zeer fijn gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "kleine teen knoflook, zeer fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "citroen- of limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "warm water",
+              "amount": "1–2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "verse koriander of fijngesneden bosui",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "chili-olie (optioneel)",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "partje limoen (optioneel)",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Gamba's schoonmaken",
+          "description": "Spoel de gamba's kort koud af en dep droog. Laat kop en schaal zitten voor smaak en presentatie. Knip met een keukenschaar de rug open en verwijder het darmkanaal, laat de schaal verder intact. Leg de gamba's op een hittebestendig bord dat in je stomer past en verdeel er de bosui, gember, Shaoxing en het mespuntje zout over."
+        },
+        {
+          "action": "Trassi roosteren",
+          "description": "Verhit een droge koekenpan op middelhoog vuur. Rooster de trassi 30–60 seconden terwijl je hem met een lepel losdrukt, tot hij geuriger en iets droger ruikt. Laat hem niet verbranden — dat maakt de dip bitter, en dit is de stap die het hele verschil maakt tussen een rauwe, harde trassi-smaak en een diepe, nootachtige garnalensmaak. Schep uit de pan."
+        },
+        {
+          "action": "Dip maken",
+          "description": "Meng de geroosterde trassi met sesamolie, Shaoxing, suiker, sojasaus, chili, knoflook en citroen- of limoensap. Roer er 1–2 eetlepels warm water door tot een dikke, lepelbare dip. Proef: de smaak moet krachtig zijn — zout, diep, licht zoet, licht scherp, uitgesproken naar garnaal. Niet waterig, niet overdreven zuur. Warm de dip vlak voor serveren kort op, of serveer op kamertemperatuur."
+        },
+        {
+          "action": "Gamba's stomen",
+          "description": "Breng water aan de kook in een stoompan, bamboestomer of pan met stoominzet. Zet het bord met gamba's erin. Stoom 2½–3 minuten, afhankelijk van de grootte — ze zijn klaar wanneer de schaal net roze-oranje is en het vlees nog sappig en glazig oogt. Haal ze direct uit de stomer; te lang stomen maakt ze rubberachtig."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg de hete gamba's op kleine borden of één warme schaal. Lepel op elke gamba wat trassi-dip. Werk af met koriander of bosui, wat fleur de sel en eventueel een paar druppels chili-olie."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de gamba's in de schaal, met kop en staart intact — dit gerecht mag krachtig en direct ogen: hete gamba's, donkere glanzende dip, groene kruiden, opstijgende stoom. Voor een nettere restaurant-presentatie: twee gamba's per persoon, dip over de rug gelepeld, met één klein kommetje extra dip ernaast om in te dopen. Geef er desgewenst kleine kommetjes jasmijnrijst bij, of serveer puur als voorgerecht zonder rijst."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Gamba's zijn van nature zoet, zacht en zilt. Door ze kort te stomen blijft die smaak puur — geen bakvet, geen korst, geen afleiding. Trassi is geconcentreerde schaaldier-umami: door hem droog te roosteren verdwijnt de rauwe hardheid en komt er een diepe, nootachtige, zoute garnalensmaak naar voren. Samen krijg je een idee dat bijna overdreven logisch is — garnaal met garnaal — waarbij de verse gamba zoetheid en sappigheid geeft en de trassi diepte en ziltigheid. Chili, sesamolie, Shaoxing en een vleugje citrus maken het geheel levend zonder de hoofdrol over te nemen. Het is precies het soort grensoverschrijdend denken — Kantonese stoottechniek, Zuidoost-Aziatische garnalenpasta — waarmee A. Wong bewijst dat 'Chinese keuken' geen vaststaand begrip is, maar een landkaart vol grenzen die om verkenning vragen."
+        }
+      ],
+      "chef_tip": "Gebruik grote gamba's of langoustines: kleine garnalen zijn te snel gaar en verdwijnen tegen de kracht van de trassi.\n\nKies je trassi bewust: Indonesische trassi is vaak scherper en rauwer, Maleisische belacan wat ronder. Beide werken, maar rooster altijd eerst kort.\n\nMaak de dip niet te zuur: citrus is hier alleen een accent om de ziltigheid op te lichten, niet om de dip zuur te maken.\n\nWong's eigen route: serveer de gamba's op een bedje van kort geweekte mungboonvermicelli met een scheutje lichte sojasaus — dichter bij A. Wong's eigen kaartgerecht (knoflook-gestoomde tijgergarnaal met mungboonnoedels) en een mooie manier om er een volwaardiger gerecht van te maken.\n\nVariatie luxere versie: gebruik langoustines en serveer de dip apart in de kop of op de opengesneden rug.\n\nVariatie mildere versie: halveer de trassi en voeg een extra theelepel suiker en wat extra warm water toe.\n\nVooruitwerken: de dip kan een dag vooraf gemaakt worden — de smaak wordt er zelfs ronder van. Warm 'm kort op vlak voor serveren.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Extra Brut (grower-stijl)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Strak droog, citrus, krijt, fijne mousse, lichte toast.",
+          "omschrijving": "Pierre Péters 'l'Extra Brut', Agrapart 'Complantée', Larmandier-Bernier 'Latitude'. €45–65. Serveer 8–10°C.",
+          "waarom_werkt_dit": "De mousse en frisheid snijden precies door de ziltige, intense trassi, terwijl de lichte toast-tonen mooi aansluiten bij de geroosterde umami van de dip. Kies bewust een extra-droge stijl — fruitige, zoetere champagne verdrinkt hier."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Manzanilla sherry",
+          "druif": "Palomino",
+          "smaakprofiel": "Kurkdroog, zilt, amandel, gistig, licht bitter.",
+          "omschrijving": "Bodegas Hidalgo 'La Gitana', Equipo Navazos, Barbadillo. €12–20. Serveer goed gekoeld, 6–8°C.",
+          "waarom_werkt_dit": "Manzanilla is van oudsher een van de beste metgezellen bij schaaldieren en gefermenteerde ziltigheid — de droge, gistige stijl weerspiegelt de trassi bijna letterlijk en houdt het geheel strak en fris."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Albariño Rías Baixas",
+          "druif": "Albariño",
+          "smaakprofiel": "Citrus, perzik, ziltigheid, frisse zuren, lichte kruidigheid.",
+          "omschrijving": "Pazo Señorans, Fillaboa, Zárate. €14–22. Serveer 8–10°C.",
+          "waarom_werkt_dit": "Albariño heeft genoeg frisheid voor de dip en genoeg aromatische kracht voor de gamba, met een natuurlijke ziltigheid die precies aansluit bij gestoomd schaaldier — en met jouw Spaanse keuken bij de hand meteen de makkelijkst te vinden fles."
+        }
+      ]
+    },
+    {
+      "source_recipe_number": 207,
+      "title": "Kalf in dashi met gefermenteerde bosbes",
+      "slug": "kalf-in-dashi-gefermenteerde-bosbes-manoir-tokio",
+      "location": "Hiroo, Tokio, Japan",
+      "time": "45 min voorbereiding (incl. weektijd kombu en marineertijd bosbes) + 10 min bereiding",
+      "servings": "4 personen (3 plakjes kalf per portie)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "vlees",
+      "image": "/assets/images/kalf-in-dashi-gefermenteerde-bosbes-manoir-tokio.jpg",
+      "short_description": "Flinterdun kalf 30 seconden gepocheerd in hete dashi, met koji-gefermenteerde bosbes, verse sansho en shiso — het nieuwste sterrenrestaurant van Tokio in drie ingrediënten.",
+      "description": "In Hiroo, een rustige wijk niet ver van Ebisu in Tokio, opende Manoir — een restaurant met het interieur van een Engels landhuis. De chef bouwt lichte Franse gerechten waarin de umami van fermentatie en het inleggen van ingrediënten wordt gelegd over de van nature zoete en zure smaak van fruit. Dit jaar kreeg het restaurant zijn eerste Michelin-ster in de gloednieuwe Michelin Guide Tokyo 2026. Dit kleine dashi-gerecht met flinterdun kalf, gefermenteerde bosbes en sansho is precies het soort tegenstelling waar Manoir om bekendstaat: mild, delicaat vlees, gedragen door een bouillon vol pit en gisting.",
+      "ingredient_groups": [
+        {
+          "group_name": "Dashi",
+          "ingredients": [
+            {
+              "name": "water",
+              "amount": "500 ml"
+            },
+            {
+              "name": "kombu (gedroogd zeewier)",
+              "amount": "10 g"
+            },
+            {
+              "name": "katsuobushi (bonitovlokken)",
+              "amount": "15 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "mirin",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Gefermenteerde bosbes",
+          "ingredients": [
+            {
+              "name": "verse bosbessen",
+              "amount": "60 g"
+            },
+            {
+              "name": "koji (shio koji of kojipoeder)",
+              "amount": "1 tl (5 g)"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "½ tl"
+            },
+            {
+              "name": "mirin",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zeezout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Kalf",
+          "ingredients": [
+            {
+              "name": "kalfsoester, in 12 flinterdunne plakjes van 2 mm (3 per portie)",
+              "amount": "200 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "shisoblaadjes",
+              "amount": "4"
+            },
+            {
+              "name": "sansho-peperkorrels",
+              "amount": "4"
+            },
+            {
+              "name": "fleur de sel (heel licht, optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kombu weken — 30 min vooraf",
+          "description": "Week de kombu 30 minuten in de 500 ml koud water. Dit trekt langzaam de umami uit het zeewier zonder bitterheid."
+        },
+        {
+          "action": "Dashi trekken",
+          "description": "Verwarm het water met de kombu zachtjes tot vlak tegen de kook aan en haal de kombu er dán uit — kombu die meekookt, wordt bitter. Breng de bouillon daarna even aan de kook, zet het vuur uit en strooi de katsuobushi erdoor. Laat 1 minuut trekken zonder te roeren en zeef door een fijne zeef of kaasdoek — druk niet op de vlokken. Breng op smaak met de sojasaus en mirin. Je houdt een heldere, amberkleurige dashi over."
+        },
+        {
+          "action": "Bosbes met koji marineren — kan tegelijk met stap 1",
+          "description": "Plet de helft van de bosbessen licht met een vork zodat ze net openbarsten, laat de andere helft heel. Meng met de koji, sojasaus, mirin en het snufje zout. Laat minimaal 30 minuten marineren op kamertemperatuur."
+        },
+        {
+          "action": "Kalf voorbereiden",
+          "description": "Zet de kalfsoester 30–45 minuten in de vriezer tot hij stevig maar niet bevroren is. Snijd 12 plakjes van 2 mm, leg ze tussen twee vellen plasticfolie en druk ze met de bolle kant van een lepel nog iets dunner en gelijkmatiger. Bestrooi heel licht met fijn zeezout. Leg los op een koud bord tot gebruik. Gebruik alleen kalfsoester die je vers en dezelfde dag hebt gekocht — het vlees blijft in de kern rauw."
+        },
+        {
+          "action": "Kalf pocheren — 30 sec per portie",
+          "description": "Verwarm de dashi vlak voor het serveren tot 70°C — net onder een trilling, niet kokend. Dompel de plakjes per portie kort onder, ongeveer 30 seconden, tot de randen zacht rozig verkleuren en het midden rauw en zijdezacht blijft. Werk per portie, niet alle plakjes tegelijk."
+        },
+        {
+          "action": "Sansho vers verkruimelen",
+          "description": "Verkruimel de sansho-peperkorrel vlak voor het opdienen tussen je vingers boven het gerecht."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Warm de kommetjes (bij voorkeur lakwerk of donker keramiek) voor met heet water en dep ze droog. Schep in elk kommetje 100 ml hete dashi. Leg de drie plakjes kalf er losjes in, half onder de bouillon uitstekend. Lepel er een theelepel gefermenteerde bosbes bij zonder door te roeren. Leg het shisoblaadje tegen de rand, verkruimel de sansho eroverheen vlak voor het serveren en werk af met een vleugje fleur de sel. Serveer direct."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Kalf is mild en zacht — precies het canvas dat nodig is om drie tegengestelde smaken te dragen zonder ze te laten overheersen. De dashi geeft diepe, zoute umami, iets ronder door de sojasaus en mirin; de koji-bosbes brengt een zoet-zure, licht gefermenteerde tegenhanger; sansho geeft een citrus-warme kick, en shiso bindt alles met een fris, kruidig groen accent. Doordat het kalf maar 30 seconden in de dashi gaat, blijft het zijdezacht vanbinnen en warm vanbuiten."
+        }
+      ],
+      "chef_tip": "Voor een dieper gefermenteerde bosbes: laat de koji-bes 24 uur afgedekt in de koelkast staan in plaats van 30 minuten.\n\nGeen koji-poeder? Vervang door 1 tl witte miso plus een snufje suiker — minder authentiek, maar een vergelijkbare umami-zoetheid.\n\nVariatie vis of schaaldier: vervang de kalfsoester door dungesneden coquilles — dezelfde 30-seconden-in-dashi-techniek werkt net zo goed.\n\nVooruitwerken: dashi en gefermenteerde bosbes kunnen een dag vooraf; bewaar afgedekt en warm de dashi rustig op zonder te koken.\n\nExtra umami-diepte: een druppel tamari in de dashi vlak voor serveren.\n\nGeen sansho-korrels? Sansho-poeder werkt ook; heb je helemaal geen sansho, gebruik dan een minieme snuf versgemalen Sichuanpeper als verre verwant.\n\nKatsuobushi, kombu en koji zijn te vinden bij Amazing Oriental of een Japanse toko, of online; kojipoeder ook via Bol.com.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Cru Beaujolais (Fleurie of Morgon)",
+          "druif": "Gamay",
+          "smaakprofiel": "Rood bessenfruit, sappige zuren, weinig tannine, soms een lichte aardse funk bij natuurlijke of biodynamische wijnmakers.",
+          "omschrijving": "Domaine Chignard, Jean Foillard, Domaine Lapierre. €18–28. Serveer licht gekoeld, 13°C.",
+          "waarom_werkt_dit": "Het rode bessenfruit weerspiegelt de zoet-zure bosbes, de lage tannine botst niet met het delicate, rauwrandige kalf, en de lichte natuurlijke funk sluit aan bij de gefermenteerde bosbes en de umami van de dashi."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Côtes du Jura Chardonnay (oxidatieve stijl)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Noten van geroosterde noten, gele appel en een zilte, umami-rijke ondertoon.",
+          "omschrijving": "Domaine Ganevat, Domaine de la Tournelle, Stéphane Tissot. €25–45. Serveer 12°C.",
+          "waarom_werkt_dit": "Deze stijl is een van de weinige witte wijnen die daadwerkelijk goed samengaat met dashi — de bijna sherry-achtige umami weerspiegelt de bouillon zelf, en de appelzuren houden de bosbes fris."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Junmai sake",
+          "druif": "n.v.t. (rijstwijn)",
+          "smaakprofiel": "Zacht, rond, licht rijstzoet met een droge afdronk.",
+          "omschrijving": "Hakkaisan, Born Tokusen. €15–30. Serveer licht gekoeld, 10–12°C.",
+          "waarom_werkt_dit": "Sake en dashi spreken dezelfde umami-taal. Een zachte junmai laat kalf, dashi en sansho spreken zonder iets te overschaduwen."
+        }
+      ]
+    },
+    {
+      "source_recipe_number": 208,
+      "title": "Ragfijne varkenshaas-saté met fluwelen pindasaus",
+      "slug": "ragfijne-varkenshaas-sate-fluwelen-pindasaus-singapore",
+      "location": "Singapore",
+      "time": "30 min voorbereiding + 2 uur marineren + 10 min bereiding",
+      "servings": "4 personen (16 kleine stokjes, 4 per persoon)",
+      "difficulty": "Makkelijk tot gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/ragfijne-varkenshaas-sate-fluwelen-pindasaus-singapore.jpg",
+      "short_description": "Nette blokjes varkenshaas, kort gegrild en in de laatste seconden gelakt met ketjap, gedoopt in een gezeefde pindasaus zonder één spoor van rooster of kokos — puur, zijdezacht en verslavend.",
+      "description": "Bij Chinatown Complex Market & Food Centre in Singapore staat een kraam die in de Michelin Guide is opgenomen voor iets wat verder niemand zo goed doet: saté, on-the-spot gegrild boven houtskool. Singapore's hawkercultuur werd in 2020 door UNESCO uitgeroepen tot immaterieel cultureel erfgoed, en satéstraten zoals Lau Pa Sat trekken mensen die er speciaal voor naar Singapore overvliegen. Dit recept haalt die essentie naar je eigen keuken: nette, hapklare blokjes varkenshaas, kort gemarineerd, razendsnel gegrild boven gloeiende houtskool en in de laatste seconden gelakt met ketjap voor een glanzende, licht gekarameliseerde rand. De pindasaus: geen geroosterde bitterheid, geen zware kokosmelk, gezeefd tot volledig fluweel — puur, licht, diep van smaak en verslavend.",
+      "ingredient_groups": [
+        {
+          "group_name": "Vlees",
+          "ingredients": [
+            {
+              "name": "varkenshaas, in nette blokjes van 2½–3 cm",
+              "amount": "500 g"
+            },
+            {
+              "name": "satéprikkers (hout), minimaal 30 minuten geweekt in water",
+              "amount": "16"
+            }
+          ]
+        },
+        {
+          "group_name": "Marinade",
+          "ingredients": [
+            {
+              "name": "stengel citroengras, alleen het witte deel, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "verse kurkuma (of ½ tl kurkumapoeder)",
+              "amount": "2 cm"
+            },
+            {
+              "name": "galanga, geschild",
+              "amount": "2 cm"
+            },
+            {
+              "name": "tenen knoflook, fijn geraspt",
+              "amount": "2"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "korianderzaad, gemalen",
+              "amount": "1 tl"
+            },
+            {
+              "name": "kecap manis",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "witte peper",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Ketjaplak",
+          "ingredients": [
+            {
+              "name": "ketjap manis",
+              "amount": "2 el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "warm water",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Pindasaus",
+          "ingredients": [
+            {
+              "name": "rauwe, ongezouten pinda's",
+              "amount": "150 g"
+            },
+            {
+              "name": "sjalotjes, fijngesneden",
+              "amount": "3"
+            },
+            {
+              "name": "tenen knoflook, fijngesneden",
+              "amount": "2"
+            },
+            {
+              "name": "galanga, fijngesneden",
+              "amount": "2 cm"
+            },
+            {
+              "name": "stengel citroengras (wit deel), fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "rode pepers, zaadlijsten eruit voor mildheid",
+              "amount": "1–2"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "palmsuiker, fijngeraspt",
+              "amount": "2 el"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "1–1½ el"
+            },
+            {
+              "name": "water of lichte bouillon",
+              "amount": "100–150 ml"
+            },
+            {
+              "name": "volle melk of lichte slagroom, pas op het einde",
+              "amount": "1–2 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "krokante sjalot of krokante uitjes, verkruimeld",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "verse koriander of fijngesneden bosui",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "ragfijne komkommerblokjes of -linten",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "partjes limoen",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kruidenbasis maken",
+          "description": "Blender of vijzel citroengras, galanga, sjalot en knoflook uit de pindasaus-lijst apart fijn tot een pasta."
+        },
+        {
+          "action": "Vlees marineren",
+          "description": "Meng citroengras, kurkuma, galanga, knoflook, gember, korianderzaad, kecap manis, sojasaus, olie, witte peper en zout tot een marinade. Meng de blokjes varkenshaas erdoor. Dek af en zet 2 uur in de koelkast — niet langer: varkenshaas is delicaat en de buitenkant wordt bij een hele nacht marineren al snel te zout en te donker. Haal het vlees 30 minuten voor het grillen uit de koelkast."
+        },
+        {
+          "action": "Pinda's zacht koken",
+          "description": "Kook de rauwe pinda's in ruim water tot volledig zacht (20–25 min). Dit haalt de rauwe bitterheid weg zonder ook maar iets van een geroosterde toon, en maakt ze zacht genoeg om straks tot een volledig gladde puree te blenden. Giet af."
+        },
+        {
+          "action": "Aromaten fruiten",
+          "description": "Fruit de kruidenpasta voor de pindasaus samen met de chili heel zachtjes in de olie op laag vuur tot zacht en glazig. Laat ze nooit bruin worden — zodra er kleur komt, krijg je een geroosterde smaak."
+        },
+        {
+          "action": "Pindasaus blenden en zeven",
+          "description": "Doe de gekookte pinda's, de gefruite aromaten en palmsuiker in een blender. Voeg het water of bouillon toe en blend tot volledig glad. Zeef de saus door een fijne zeef — dat is het verschil tussen een gewone gladde saus en een écht fluwelen textuur. Verwarm zachtjes op zonder te laten koken (op heel laag vuur of au bain-marie, anders kan de saus schiften), roer er het limoensap doorheen, breng op smaak met zout, en roer er van het vuur af 1–2 eetlepels melk of room doorheen. De saus moet langzaam van een lepel lopen: glad, warm, diep en licht — hij dikt na afkoelen vanzelf iets aan, dus klop er dan gewoon een scheutje warm water door om 'm weer soepel te maken."
+        },
+        {
+          "action": "Ketjaplak maken",
+          "description": "Meng ketjap manis, olie en warm water. Zet klaar met een kwastje naast de grill."
+        },
+        {
+          "action": "Rijgen",
+          "description": "Prik 2–3 blokjes vlees per satéprikker, met een klein beetje ruimte ertussen zodat de hitte er goed omheen kan. Dep overtollige marinade licht af."
+        },
+        {
+          "action": "Grillen",
+          "description": "Gril de sateetjes boven gloeiende houtskool (of op een gietijzeren grillpan op hoog vuur), tot de buitenkant bijna geblakerd is en de kern nog net sappig-roze blijft. Lak ze pas in de laatste 20–30 seconden heel dun met de ketjaplak — ketjap verbrandt snel, dus dit moment geeft glans en lichte karamellisatie zonder bittere zwarte korst. Haal ze direct van de gril zodra ze glanzen."
+        },
+        {
+          "action": "Serveren",
+          "description": "Laat de sateetjes 1 minuut rusten. Serveer met de warme pindasaus ernaast om in te dopen, krokante sjalot en verse koriander erover, en partjes limoen erbij."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Lepel een kleine spiegel of streep warme pindasaus op het bord. Leg er per persoon 4 saté-stokjes tegenaan of half overheen. Werk af met wat krokante sjalot, bosui of bieslook en ragfijne komkommer — geen gehakte pinda als topping, de saus moet fluweel blijven en de crunch komt subtiel van sjalot en komkommer. Voor de borrel: serveer de stokjes rechtop in een klein kommetje met warme pindasaus onderin."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Varkenshaas is mals en licht zoet, maar droogt snel uit — daarom wordt het vlees in nette, hapklare blokjes gesneden, kort gemarineerd en razendsnel gegrild boven hete houtskool. De ketjaplak komt pas op het einde, zodat je glans en lichte karamellisatie krijgt zonder verbrande bitterheid. De pindasaus blijft licht doordat niets geroosterd of gekarameliseerd wordt: rauwe pinda's worden zacht gekookt in plaats van geroosterd, de aromaten blijven glazig in plaats van bruin, en zeven haalt de laatste korrel eruit. Limoensap geeft een frisse, schone zuurtoon die de zoetheid van de palmsuiker in balans houdt zonder de donkere, funky diepte van tamarinde. Een klein scheutje room rondt af zonder zwaar te worden. Elke hap moet precies kloppen: mals vlees, rook, ketjapglans, fluwelen pinda, een beetje crunch en frisse komkommer."
+        }
+      ],
+      "chef_tip": "Geen houtskool? Een gietijzeren grillpan op hoog vuur komt het dichtst in de buurt van dat geblakerde randje, al mis je de rooksmaak.\n\nVooruitwerken: de pindasaus kan 2 dagen vooraf gemaakt worden — de smaken trekken er alleen maar verder in. Voeg de melk/room pas toe bij het opwarmen, vlak voor serveren.\n\nMildere versie: halveer de pepers, of verwijder ze helemaal en vervang door een mespuntje versgemalen witte peper voor subtiele warmte.\n\nVariatie met kokosmelk: vervang de 1–2 eetlepels melk of room door dezelfde hoeveelheid kokosmelk voor een authentiekere, iets tropischere afwerking. De saus wordt dan net iets ronder en zoeter van karakter. Voor de meest pure, pinda-voorop-smaak blijft melk of room de beste keuze; voor iets meer diepte richting het origineel is kokosmelk een prima alternatief.\n\nLuxe-upgrade: gebruik in plaats van varkenshaas dungesneden kalfsoester in gelijke blokjes — mals en subtiel, en de marinade werkt er net zo goed op.\n\nGrill in kleine porties: dan houd je controle over kleur en gaarheid, vooral bij het lakmoment.\n\nGeen galanga te vinden? Vervang door dubbele hoeveelheid gember — minder complex, maar een prima noodoplossing.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Elzasser Gewürztraminer (droog tot halfdroog)",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Lychee, witte perzik, rozenblaadje, geconfijte gember, vol en olieachtig van textuur met genoeg spanning om niet log te worden.",
+          "omschrijving": "In het glas is dit een wijn die zich meteen laat kennen: een aromatische golf van lychee, witte perzik en rozenblaadje, met een vleugje geconfijte gember en soms een vage toets litchisiroop. In de mond is hij vol en olieachtig van textuur, maar bewaart genoeg spanning om niet log te worden — de klassieke Elzasser stijl heeft altijd die combinatie van weelde en frisheid. Serveer op 10–12°C.",
+          "waarom_werkt_dit": "Die exotische lychee- en rozentonen grijpen direct de citroengras- en gemberkant van de marinade vast, terwijl de volle, licht oliige body genoeg tegenwicht biedt aan de fluwelen pindasaus zonder erdoor overspoeld te worden. De lichte kruidigheid in de afdronk sluit mooi aan bij de warmte van de chili, en de ketjapglans op het vlees vindt in de zachte zoetheid van de wijn een natuurlijke echo. Dit is precies het soort wijn dat bij kruidige, aromatische keukens hoort: hij vult de neus voordat de eerste hap er is, en houdt dat gevoel de hele maaltijd vast."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Cru Beaujolais (Fleurie of Morgon)",
+          "druif": "Gamay",
+          "smaakprofiel": "Sappig rood bosfruit — framboos, aalbes, een vleugje kersenpit — met soms een subtiele bloemige noot (Fleurie) of iets aardser en donkerder (Morgon). Zachte tannines, frisse zuren, lichte tot medium body.",
+          "omschrijving": "Een Gamay uit deze crus ruikt naar sappig rood bosfruit — framboos, aalbes, een vleugje kersenpit — met soms een subtiele bloemige noot (vooral bij Fleurie) of iets aardser en donkerder (Morgon). De tannines zijn zacht en rond, de zuren fris, en de body blijft licht tot medium. Serveer licht gekoeld op 13°C.",
+          "waarom_werkt_dit": "De lage tannine is hier essentieel — een stevige rode wijn zou vechten met de chili en de romige pindasaus, terwijl deze Gamay er juist soepel onderdoor glijdt. Het sappige rode fruit weerspiegelt de zoetheid van de palmsuiker en de ketjaplak, en de frisse zuren houden de vettigheid van het gegrilde vlees in balans. Licht gekoeld geserveerd (13°C) wordt de wijn nog directer en sappiger, wat perfect aansluit bij het informele, hapklare karakter van dit gerecht — dit is een wijn die je met je vingers durft te drinken, precies de sfeer die bij saté hoort."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud pilsener bier",
+          "druif": "n.v.t. (bier)",
+          "smaakprofiel": "Fris, licht bitter door de hop, droge schone afdronk, onmiskenbare prikkeling van koolzuur.",
+          "omschrijving": "Fris, licht bitter door de hop, met een droge, schone afdronk en die onmiskenbare prikkeling van koolzuur die meteen verkoelt. Serveer ijskoud op 4°C.",
+          "waarom_werkt_dit": "Dit is de originele metgezel van saté aan elke straatkraam, en niet zonder reden. De koolzuurprikkeling en lichte bitterheid spoelen de romige pindasaus en de kruidige hitte weg tussen elke hap door, zodat je smaakpapillen bij elk nieuw stokje weer fris beginnen. Het is precies het tegenovergestelde principe van de wijnen hierboven — geen begeleiding die meebeweegt met het gerecht, maar een die het juist steeds weer resetten. Simpel, ongecompliceerd, en precies waarom dit al generaties lang de standaardkeuze is bij elke satékraam."
+        }
+      ]
+    },
+    {
+      "source_recipe_number": 209,
+      "title": "Rundvlees-wrap met ei-binding, krokante sla & paprika-chiliroom",
+      "slug": "rundvlees-wrap-ei-binding-krokante-sla-paprika-chiliroom",
+      "location": "Singapore",
+      "time": "25 min voorbereiding + 15 min bereiding",
+      "servings": "4 personen (4 wraps)",
+      "difficulty": "Makkelijk tot gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/rundvlees-wrap-ei-binding-krokante-sla-paprika-chiliroom.jpg",
+      "short_description": "Grof gehakt rundvlees met ei gebakken tot één dunne, sappige plak — de Roti John-truc — gevuld in een wrap met ragfijne sla, komkommer, tomaat en een romige paprika-chiliroom.",
+      "description": "Roti John is een van Singapore's meest geliefde nachtelijke hongerstillers — ontstaan in de koloniale tijd bij een Malay-Indiase warungkok en nu een vaste waarde bij elke mamak-kraam die tot diep in de nacht open blijft. De kern is een simpele maar geniale truc: losgeklopt ei bindt het gekruide gehakt in de pan tot één dunne, samenhangende laag, zodat je een stevige, sappige plak krijgt die nergens uit elkaar valt. Dit recept leent precies die truc en vertaalt hem naar een eigen, frisse wrap: grof gehakt rundvlees, veel knapperige sla, komkommer en tomaat, een lichte paprika-chiliroom en een toef tuinkers voor dat laatste beetje elegantie.",
+      "ingredient_groups": [
+        {
+          "group_name": "Rund-eilaag",
+          "ingredients": [
+            {
+              "name": "grof gehakt rundvlees (entrecote of ribeye, grof gehakt of grof gemalen — niet fijn)",
+              "amount": "400 g"
+            },
+            {
+              "name": "kleine ui, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "eieren",
+              "amount": "2"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "milde kerriepoeder",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "gemalen korianderzaad",
+              "amount": "½ tl"
+            },
+            {
+              "name": "chilivlokken of sambal (optioneel, subtiel)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie, om te bakken",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Paprika-chiliroom",
+          "ingredients": [
+            {
+              "name": "geroosterde rode paprika (uit pot, goed uitgelekt, of zelf geroosterd en gepeld)",
+              "amount": "1"
+            },
+            {
+              "name": "Griekse yoghurt",
+              "amount": "2 el"
+            },
+            {
+              "name": "mayonaise",
+              "amount": "1–2 el"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sambal of sriracha",
+              "amount": "½ tl"
+            },
+            {
+              "name": "honing",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rasp van limoen",
+              "amount": "½"
+            },
+            {
+              "name": "gerookt paprikapoeder (optioneel)",
+              "amount": "mespuntje"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Wrap",
+          "ingredients": [
+            {
+              "name": "grote zachte tortilla's",
+              "amount": "4"
+            },
+            {
+              "name": "krop ijsbergsla of little gem, ragfijn gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "komkommer, in fijne julienne",
+              "amount": "½"
+            },
+            {
+              "name": "tomaten, zaadlijsten verwijderd, in dunne reepjes",
+              "amount": "2"
+            },
+            {
+              "name": "krokante gefrituurde uitjes",
+              "amount": "2 el"
+            },
+            {
+              "name": "fijngesneden bieslook of peterselie",
+              "amount": "2 el"
+            },
+            {
+              "name": "tuinkers of mosterdcress",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Paprika-chiliroom maken — kan ruim vooraf",
+          "description": "Pureer de geroosterde paprika met yoghurt, mayonaise, Dijon, sambal, honing, limoenrasp en eventueel het gerookte paprikapoeder tot een gladde, romige saus. Breng op smaak met zout en peper. De saus moet romig, fris en licht zoet zijn, met een zachte paprikasmaak. Zet koud tot gebruik."
+        },
+        {
+          "action": "Groenten voorbereiden",
+          "description": "Snijd de sla ragfijn, de komkommer in fijne julienne. Verwijder de zaadlijsten van de tomaten en snijd het vruchtvlees in dunne reepjes — dat voorkomt dat de wrap straks slap wordt. Zet alles klaar voordat je gaat bakken."
+        },
+        {
+          "action": "Vlees-eimengsel maken",
+          "description": "Meng het grof gehakte rundvlees met ui, knoflook, gember, kerriepoeder, korianderzaad, eventueel chili, sojasaus, ketjap manis, zout en peper. Klop de eieren los en meng ze erdoor. Het mengsel moet los en smeuïg zijn, niet compact als een gehaktbal."
+        },
+        {
+          "action": "Vlees-eilaag bakken — per portie 3–5 min",
+          "description": "Verhit een koekenpan met een dun laagje olie op middelhoog vuur. Schep een kwart van het mengsel in de pan en druk het met de bolle kant van een lepel uit tot een dunne, ovale plak, ongeveer zo groot als het midden van een tortilla. Bak 2–3 minuten tot de onderkant stevig en lichtbruin is, draai voorzichtig om en bak nog 1–2 minuten. De plak moet net gaar zijn, sappig blijven en door het ei bij elkaar gehouden worden — dun blijft de sleutel, dik wordt omeletachtig. Herhaal met de rest van het mengsel."
+        },
+        {
+          "action": "Tortilla's warmen en opbouwen",
+          "description": "Verwarm de tortilla's kort in een droge pan of oven tot soepel. Smeer elke tortilla dun in met paprika-chiliroom. Leg de warme vlees-eilaag in het midden."
+        },
+        {
+          "action": "Vullen en rollen",
+          "description": "Leg op de warme vleeslaag een flinke hand ragfijne sla, komkommer, tomaat, bieslook of peterselie en wat krokante ui. Voeg tuinkers of mosterdcress toe. Lepel er nog een klein beetje paprika-chiliroom over. Rol strak op als een wrap en snijd schuin doormidden."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de wraps schuin doorgesneden, met de snijkant naar boven, zodat de lagen zichtbaar zijn: tortilla, warme rund-eilaag, frisse sla, tomaat, komkommer en saus. Voor een lunch: één grote wrap per persoon. Voor een borrel- of streetfood-presentatie: snijd elke wrap in drie kleinere stukken en zet ze rechtop op een schaal. Werk af met een paar extra krokante uitjes, wat cress en een klein kommetje extra paprika-chiliroom."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Een gewone wrap valt vaak uit elkaar omdat vlees, sla, saus en tomaat losse elementen blijven. Bij Roti John gebeurt iets slims: vlees, ui, kruiden en ei worden in de pan één dunne, warme laag. Dat maakt de wrap steviger, sappiger en veel prettiger om te eten — je kunt 'm rijkelijk vullen zonder dat hij natvalt. De warme rund-eilaag geeft hartigheid en kruiding, met knoflook, kerrie, gember, sojasaus en ketjap manis die samen diepte geven zonder één specifieke keuken te claimen. Sla en komkommer brengen crunch, de tomaat geeft frisheid, de krokante uitjes geven streetfood-textuur, en de paprika-chiliroom maakt het romig zonder dat het een zware mayo-wrap wordt. Het resultaat is herkenbaar en makkelijk te maken, maar met een echte techniek erachter."
+        }
+      ],
+      "chef_tip": "Gebruik grof gehakt of fijngehakte steak: fijn supermarktgehakt kan snel droog en korrelig worden; iets grover rund geeft meer beet.\n\nIJsbergsla versus little gem: ijsbergsla geeft de meeste streetfood-knapperigheid, little gem is iets eleganter van smaak en textuur — beide werken, kies op basis van de gelegenheid.\n\nMaak het niet te pittig: de charme zit in warm, hartig, fris en romig; chili hoeft alleen op de achtergrond te spelen.\n\nVooruitwerken: de paprika-chiliroom kan 2 dagen vooraf gemaakt worden, en de groenten kunnen enkele uren vooraf gesneden en koud weggezet worden.\n\nVariatie luxere versie: gebruik fijngehakte ribeye of entrecote in plaats van standaard rundergehakt.\n\nGeen tuinkers of mosterdcress te vinden? Extra bieslook en peterselie werken ook, al mis je dan de kenmerkende peperige frisheid.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Côtes du Rhône Villages (Grenache/Syrah)",
+          "druif": "Grenache, Syrah",
+          "smaakprofiel": "Rijp rood en donker bessenfruit — braam, pruim, een vleugje kers — met kruidige, bijna peperige ondertoon en een vage geur van gedroogde mediterrane kruiden (garrigue). Rond en warm in de mond, zachte tannines, net genoeg body.",
+          "omschrijving": "In het glas overheerst rijp rood en donker bessenfruit — braam, pruim, een vleugje kers — gedragen door een kruidige, bijna peperige ondertoon en een vage geur van gedroogde mediterrane kruiden (de klassieke 'garrigue'). In de mond is de wijn rond en warm, met zachte tannines en net genoeg body om het rundvlees te begeleiden zonder log te worden. Serveer op 16–18°C.",
+          "waarom_werkt_dit": "De kruidige, peperige noten in de wijn grijpen direct de kerrie en gember in de vulling vast, terwijl het rijpe fruit een mooie tegenhanger vormt voor de romige, licht pikante paprikasaus. De zachte tannine botst niet met de chili, en de warmte van de wijn sluit natuurlijk aan bij het gekruide, dichtgeschroeide vlees."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Droge Spaanse rosado (Navarra of Rioja)",
+          "druif": "Grenache, Tempranillo",
+          "smaakprofiel": "Verse aardbei en rood bosfruit, subtiele bloemige toon, soms een vleugje witte peper. Droog afgewerkt, levendige zuren, lichte verfrissende body.",
+          "omschrijving": "Deze rosé ruikt naar verse aardbei en rood bosfruit, met een subtiele bloemige toon en soms een vleugje witte peper. Droog afgewerkt, met levendige zuren en een lichte, verfrissende body. Serveer op 8–10°C.",
+          "waarom_werkt_dit": "De frisse zuren snijden precies door de romigheid van de paprika-chiliroom en houden de knapperige sla en komkommer hun frisheid, terwijl het rode fruit toch genoeg substantie heeft om het rundvlees te begeleiden."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud pilsener bier",
+          "druif": "n.v.t. (bier)",
+          "smaakprofiel": "Fris, licht bitter door de hop, droge afdronk, verkoelende koolzuurprikkeling.",
+          "omschrijving": "Fris, licht bitter door de hop, met een droge afdronk en verkoelende koolzuurprikkeling. Serveer ijskoud op 4°C.",
+          "waarom_werkt_dit": "Dit is de natuurlijke metgezel van streetfood — de prikkeling en lichte bitterheid maken elke hap weer fris, wat vooral goed werkt bij de romige saus en het warme, kruidige vlees."
+        }
+      ]
+    },
+    {
+      "source_recipe_number": 210,
+      "title": "Steak-wrap met gebakken ei, gepekelde ui & mosterd-mierikswortelsaus",
+      "slug": "steak-wrap-gebakken-ei-gepekelde-ui-mosterd-mierikswortelsaus",
+      "location": "New York, USA",
+      "time": "20 min voorbereiding (+ 15–20 min voor de milde ui) + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/steak-wrap-gebakken-ei-gepekelde-ui-mosterd-mierikswortelsaus.jpg",
+      "short_description": "Gegrilde biefstuk en een gebakken ei met lopende dooier, gewikkeld met milde ui, augurken en een pittige mosterd-mierikswortelsaus — het wow-moment van een van New Yorks meest besproken wraps.",
+      "description": "Wolfnights in New York bakt zijn deeg vers per bestelling in een eigen 'IronWolf'-oven en noemt zijn wraps expres geen wraps, maar 'Iron-Baked'. Hun op één na best verkochte wrap, de Carnivore's Delight, is precies waarom mensen erover praten: gegrilde biefstuk en een gebakken ei, gewikkeld in een deeg van dadel en pompoenpitten, met sumac-ui, augurken en een pittige mosterd-mierikswortelsaus. Het wow-moment is het ei: een lopende dooier die zich over de warme biefstuk verspreidt zodra je de eerste hap neemt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Milde ui",
+          "ingredients": [
+            {
+              "name": "rode ui, dun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "appelazijn",
+              "amount": "2 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Mosterd-mierikswortelsaus",
+          "ingredients": [
+            {
+              "name": "mayonaise",
+              "amount": "3 el"
+            },
+            {
+              "name": "Griekse yoghurt",
+              "amount": "2 el"
+            },
+            {
+              "name": "grove mosterd of Dijonmosterd",
+              "amount": "1 el"
+            },
+            {
+              "name": "mierikswortel (vers geraspt of uit een potje)",
+              "amount": "1 el"
+            },
+            {
+              "name": "honing",
+              "amount": "½ tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Biefstuk",
+          "ingredients": [
+            {
+              "name": "entrecote of ribeye",
+              "amount": "500 g"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "teen knoflook, gekneusd",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Ei",
+          "ingredients": [
+            {
+              "name": "eieren",
+              "amount": "4"
+            },
+            {
+              "name": "boter",
+              "amount": "klontje"
+            }
+          ]
+        },
+        {
+          "group_name": "Wrap-basis",
+          "ingredients": [
+            {
+              "name": "grote tortilla's of flatbreads",
+              "amount": "4"
+            },
+            {
+              "name": "dadelstroop",
+              "amount": "1 el"
+            },
+            {
+              "name": "pompoenpitten, licht geroosterd en grof gehakt",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "augurken of cornichons, in dunne repen",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "handje rucola of fijngesneden little gem",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "krokante uitjes, subtiel",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Milde ui maken",
+          "description": "Meng de rode ui met appelazijn, suiker en zout. Laat 15–20 minuten staan. Knijp de ui vlak voor gebruik licht uit — hij moet fris zijn, niet zuur overheersen."
+        },
+        {
+          "action": "Mosterd-mierikswortelsaus maken",
+          "description": "Meng mayonaise, yoghurt, mosterd, mierikswortel, honing en citroensap tot een gladde saus. Breng op smaak met zout en peper. Zet koud tot gebruik."
+        },
+        {
+          "action": "Biefstuk bakken",
+          "description": "Kruid de biefstuk rijkelijk met zout en peper. Verhit de olie in een gietijzeren pan tot hij bijna rookt. Bak de biefstuk 2–3 minuten per kant voor medium-rare, voeg op het einde de boter en de gekneusde knoflook toe en bestrijk het vlees ermee terwijl de knoflook meegeurt. Laat 5 minuten rusten voordat je het in dunne reepjes snijdt tegen de draad."
+        },
+        {
+          "action": "Ei bakken",
+          "description": "Verhit een klontje boter in een aparte pan op middelhoog vuur. Bak de eieren tot het wit gestold is maar de dooier nog volledig loopt."
+        },
+        {
+          "action": "Wrap-basis voorbereiden",
+          "description": "Verwarm de tortilla's kort in een droge pan. Bestrijk elke tortilla dun met dadelstroop en bestrooi met de gehakte pompoenpitten."
+        },
+        {
+          "action": "Opbouwen en serveren",
+          "description": "Leg rucola of little gem op de tortilla, verdeel de biefstukreepjes erover, lepel er mosterd-mierikswortelsaus over, leg de milde ui en augurken erop, en leg het gebakken ei er als laatste bovenop. Vouw losjes dicht of serveer open zodat de dooier zichtbaar blijft tot het eerste sneetje."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer direct na het bakken van het ei. Snijd de wrap schuin doormidden zodat de lopende dooier zichtbaar wordt over de biefstuk, of serveer half open op het bord. Donkerroze biefstuk, felgeel van de dooier, roze-rode tinten van de milde ui, fris groen van de rucola."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Een lopend eigeel functioneert als een gratis, warme saus die zich vanzelf door de vulling verspreidt zodra je erin bijt. Combineer dat met de scherpte van mierikswortel en mosterd, de zilte frisheid van augurken en milde ui, de knapperigheid van rucola, en de subtiele zoetheid van dadelstroop, en je krijgt een wrap die rijk, scherp, zuur, zoet en romig combineert in één hap — precies de 'Ideal Bite'-filosofie die Wolfnights zelf hanteert."
+        }
+      ],
+      "chef_tip": "Wil je het dadel-pompoenpit-deeg echt nabouwen? Meng zelf een eenvoudig flatbread-deeg met dadelstroop en fijngemalen pompoenpitten — een leuk project, niet noodzakelijk voor een geslaagd resultaat.\n\nGeen mierikswortel in huis? Extra grove mosterd plus een scheutje azijn geeft een vergelijkbare scherpte.\n\nVooruitwerken: de milde ui en de saus kunnen beide 2–3 dagen vooraf gemaakt worden.\n\nVariatie luxe-upgrade: een dun plakje blauwe koemelkkaas die smelt op de warme biefstuk vlak voor het ei erbovenop gaat.\n\nRibeye in plaats van entrecote geeft meer vet en diepte als je de wrap nog sappiger wilt.\n\nEi-timing bij meerdere personen: bak de eieren als laatste, per twee, zodat ze zo vers en loopend mogelijk op tafel komen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Argentijnse Malbec (Mendoza)",
+          "druif": "Malbec",
+          "smaakprofiel": "Donker fruit — pruim, braam, een vleugje viool — met zachte, bijna fluwelen tanninestructuur en een subtiele vanille- of cacaotoon van vatlagering. Vol maar niet log, met een sappige, iets kruidige afdronk.",
+          "omschrijving": "In het glas vind je donker fruit — pruim, braam, een vleugje viool — met een zachte, bijna fluwelen tanninestructuur en een subtiele vanille- of cacaotoon van vatlagering. Vol maar niet log, met een sappige, iets kruidige afdronk.",
+          "waarom_werkt_dit": "Malbec is de klassieke metgezel van goed gegrilde biefstuk — de zachte tannines omhullen het vlees zonder te vechten met de scherpte van mierikswortel en mosterd. Het donkere fruit vindt een tegenhanger in de zilte frisheid van de ui en augurken, en de subtiele kruidigheid sluit mooi aan bij de dadelstroop."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Vouvray demi-sec (Chenin Blanc, halfdroog)",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Rijpe appel, kweepeer en honing, met een levendige, bijna knisperende zuurgraad die de lichte restsuiker in balans houdt.",
+          "omschrijving": "Ruikt naar rijpe appel, kweepeer en honing, met een levendige, bijna knisperende zuurgraad die de lichte restsuiker in balans houdt.",
+          "waarom_werkt_dit": "De lichte zoetheid vangt de scherpte van mierikswortel en mosterd precies op, terwijl de frisse zuren de romigheid van ei en saus doorsnijden — een ondergewaardeerde pairing bij mosterd-mierikswortel-gerechten."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Amerikaanse amber ale",
+          "druif": "n.v.t. (bier)",
+          "smaakprofiel": "Karamel- en biscuittonen, lichte hopbitterheid, matige koolzuurprikkeling.",
+          "omschrijving": "Karamel- en biscuittonen, lichte hopbitterheid, matige koolzuurprikkeling.",
+          "waarom_werkt_dit": "De karameltonen sluiten aan bij de dadelstroop en de gebakken randjes van de biefstuk, terwijl de hopbitterheid de romigheid van ei en saus in balans houdt."
+        }
+      ]
+    },
+    {
+      "source_recipe_number": 211,
+      "title": "Rundvlees-tikka roll met limoen-korianderchutney & drie soorten ui",
+      "slug": "rundvlees-tikka-roll-limoen-korianderchutney-drie-soorten-ui",
+      "location": "Kolkata / New York / Londen",
+      "time": "30 min voorbereiding + minimaal 30 min marineren + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk tot gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/rundvlees-tikka-roll-limoen-korianderchutney-drie-soorten-ui.jpg",
+      "short_description": "Gekruid rundvlees, rijkelijk bedekt met felgroene chutney, gerold in een paratha waarvan de ene kant vastgebakken is aan het ei — de straatlegende die een vrouw uit Kolkata's nostalgie naar New York en Londen bracht.",
+      "description": "In 2002 verhuisde Payal Saha van Kolkata naar New York en miste er onmiddellijk één ding: de kati roll, het straatgerecht van haar geboortestad. Zonder horeca-ervaring opende ze met één assistente een klein zaakje in Greenwich Village — vandaag heeft The Kati Roll Company meerdere vestigingen in New York en Londen. Hun beef tikka roll wordt door recensenten omschreven als 'smothered in chutney' — de saus is hier het wow-element, gecombineerd met de typische Kolkata-truc van het ei dat aan één kant van het brood wordt gebakken zodat brood en ei letterlijk één worden.",
+      "ingredient_groups": [
+        {
+          "group_name": "Rundvlees-tikka",
+          "ingredients": [
+            {
+              "name": "runderhaas of biefstukreepjes, in dunne repen",
+              "amount": "500 g"
+            },
+            {
+              "name": "volle yoghurt",
+              "amount": "150 g"
+            },
+            {
+              "name": "tenen knoflook, fijngeraspt",
+              "amount": "2"
+            },
+            {
+              "name": "verse gember, fijngeraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "garam masala",
+              "amount": "1 tl"
+            },
+            {
+              "name": "kurkumapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "kashmiri-chilipoeder (of milde paprikapoeder plus een snuf cayenne)",
+              "amount": "½–1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Limoen-korianderchutney",
+          "ingredients": [
+            {
+              "name": "grote bos verse koriander (inclusief steeltjes)",
+              "amount": "1"
+            },
+            {
+              "name": "muntblaadjes",
+              "amount": "10–15"
+            },
+            {
+              "name": "groene chilipepers, naar smaak",
+              "amount": "1–2"
+            },
+            {
+              "name": "verse gember",
+              "amount": "1 cm"
+            },
+            {
+              "name": "sap van limoenen",
+              "amount": "1–2"
+            },
+            {
+              "name": "Griekse yoghurt (voor lichte ronding)",
+              "amount": "1 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "water, om te blenden",
+              "amount": "2–3 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Drie soorten ui",
+          "ingredients": [
+            {
+              "name": "ui, in halve ringen, zacht gebakken",
+              "amount": "1"
+            },
+            {
+              "name": "rode ui, dun gesneden, gepekeld (2 el appelazijn, 1 tl suiker, snuf zout, 20 min)",
+              "amount": "1"
+            },
+            {
+              "name": "kleine sjalot, flinterdun rauw gesneden",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Ei-paratha",
+          "ingredients": [
+            {
+              "name": "paratha's of stevige volkoren flatbreads",
+              "amount": "4"
+            },
+            {
+              "name": "eieren, losgeklopt",
+              "amount": "2"
+            },
+            {
+              "name": "chaat masala (of een mespuntje komijn en een druppel citroensap)",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees marineren — minimaal 30 min, liefst 2 uur",
+          "description": "Meng yoghurt, knoflook, gember, garam masala, kurkuma, kashmiri-chilipoeder, citroensap en zout tot een gladde marinade. Meng het rundvlees erdoor, dek af en zet in de koelkast."
+        },
+        {
+          "action": "Chutney blenden",
+          "description": "Blender koriander, munt, chilipeper, gember, limoensap, yoghurt, suiker, zout en het water tot een gladde, felgroene saus. De yoghurt geeft net wat ronding zonder de frisheid te verdoezelen."
+        },
+        {
+          "action": "Uien voorbereiden",
+          "description": "Voor de pekel: meng de rode ui met appelazijn, suiker en zout, laat 20 minuten staan en knijp licht uit voor gebruik. Fruit de andere ui in een klein scheutje olie tot goudbruin en zacht, 8–10 minuten. Snijd de sjalot flinterdun."
+        },
+        {
+          "action": "Vlees bakken",
+          "description": "Verhit de olie in een grote koekenpan tot goed heet. Bak het gemarineerde rundvlees in batches op hoog vuur, 2–3 minuten per kant, tot geblakerd aan de randen en net gaar vanbinnen."
+        },
+        {
+          "action": "Ei-paratha maken",
+          "description": "Verwarm een paratha in een droge pan. Giet een dun laagje losgeklopt ei in de pan en druk de paratha erop, zodat het ei aan één kant vastbakt. Bak 1 minuut en draai kort om. Herhaal voor elke paratha — zo krijg je dat typische Kati Roll-gevoel: brood en ei worden één."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Leg de paratha met de ei-kant naar binnen. Smeer rijkelijk chutney over de ei-kant. Verdeel het rundvlees, de gebakken ui, de gepekelde ui en de rauwe sjalot erover. Bestrooi met chaat masala. Rol strak op."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Rol de kati roll strak op en snijd hem schuin doormidden zodat de lagen zichtbaar zijn: de ei-paratha, het gekruide rundvlees, de felgroene chutney, en de drie tinten ui. Serveer in bakpapier of op een smalle schaal, met een kommetje extra chutney ernaast."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De kati roll draait om laagjes contrast. Het ei dat aan het brood vastbakt maakt de paratha rijker en steviger — de wrap voelt daardoor als één geheel, niet als brood met vulling erin. Het gemarineerde rundvlees geeft kruidige hartigheid; de chutney brengt frisheid en zuur. De drie uien geven elk iets anders: zoetheid van de gebakken ui, een scherpe zilte tegenhanger van de gepekelde ui, en een directe, scherpe bite van de rauwe sjalot. Geen van de elementen zou alleen voldoende zijn — de combinatie is precies waarom dit gerecht al generaties standhoudt."
+        }
+      ],
+      "chef_tip": "Chutney kan een dag vooraf — de smaak wordt er feller van.\n\nSneller? Sla het marineren over en bak de aromaten (knoflook, gember, specerijen) eerst kort aan in de pan met een lepel tomatenpuree, voeg dan het vlees toe en roer op het einde een lepel yoghurt erdoor voor zachtheid — een prima snelle route als je geen tijd hebt om te marineren.\n\nGeen paratha te vinden? Een dikke tortilla werkt ook, al mis je dan de kenmerkende laagjes.\n\nMildere versie: halveer de chilipeper in de chutney en het chilipoeder in de marinade.\n\nVariatie vegetarisch: vervang het rundvlees door stevige paneer.\n\nVooruitwerken: alle drie de uien kunnen enkele uren vooraf klaargemaakt worden.\n\nErbij: kruidige gebakken aardappelpartjes en een glas mango lassi voor de volledige ervaring.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Argentijnse Torrontés",
+          "druif": "Torrontés",
+          "smaakprofiel": "Intens jasmijn, rozenblaadje en perzik, met een frisse citrustoon. Rond maar droog afgewerkt, lichte body, schone iets kruidige afdronk.",
+          "omschrijving": "Ruikt intens naar jasmijn, rozenblaadje en perzik, met een frisse citrustoon. Rond maar droog afgewerkt, met een lichte body en een schone, iets kruidige afdronk.",
+          "waarom_werkt_dit": "De bloemige geur spiegelt de munt en koriander in de chutney, terwijl de frisse citruszuren de kruidige hitte van de marinade en de scherpte van de gepekelde ui in balans houden."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Oostenrijkse Grüner Veltliner",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Peperig en kruidig, met groene appel, witte peper en een minerale ondertoon. Droog en strak.",
+          "omschrijving": "Peperig en kruidig, met groene appel, witte peper en een minerale ondertoon. Droog en strak.",
+          "waarom_werkt_dit": "De peperige kruidigheid sluit direct aan bij de garam masala en gember, terwijl de strakke zuren de zoetheid van de gebakken ui in balans houden."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud lager bier",
+          "druif": "n.v.t. (bier)",
+          "smaakprofiel": "Fris, licht en verkoelend, droge schone afdronk.",
+          "omschrijving": "Fris, licht en verkoelend, met een droge, schone afdronk.",
+          "waarom_werkt_dit": "De koolzuurprikkeling reset je smaakpapillen tussen elke hap door, zodat chutney, kruiden en de drie uien allemaal hun eigen moment krijgen."
+        }
+      ]
+    },
+    {
+      "source_recipe_number": 212,
+      "title": "Entrecote-wrap met jus om te dopen & mierikswortel-mosterdsaus",
+      "slug": "entrecote-wrap-jus-om-te-dopen-mierikswortel-mosterdsaus",
+      "location": "Los Angeles, USA",
+      "time": "20 min voorbereiding + 40–45 min bereiding (grotendeels voor de jus)",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk tot gemiddeld",
+      "keuken": "Nederlands",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/entrecote-wrap-jus-om-te-dopen-mierikswortel-mosterdsaus.jpg",
+      "short_description": "Mals rundvlees, gesmolten Gruyère en een scherpe mierikswortel-mosterdsaus, gerold in een wrap die je — net als bij het origineel uit 1908 — helemaal onderdompelt in zijn eigen warme, met rode wijn afgeronde jus.",
+      "description": "Philippe The Original opende in 1908 in het oude Frenchtown van Los Angeles. In 1918 liet Mathieu tijdens het klaarmaken van een broodje voor een politieagent het doorgesneden Franse stokbrood per ongeluk in de braadpan vallen, vol hete jus van het gebraden vlees — de agent kwam de volgende dag terug met vrienden, allen vragend om nog meer 'gedipte' broodjes. Zo ontstond de French Dip Sandwich. Honderdachttien jaar later staat het restaurant er nog steeds. Deze versie neemt de kern — mals rundvlees gedrenkt in zijn eigen jus — en draait het idee om: in plaats van een broodje te dippen, dip je hier de hele wrap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Jus",
+          "ingredients": [
+            {
+              "name": "sjalot, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, gekneusd",
+              "amount": "1"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rode wijn",
+              "amount": "150 ml"
+            },
+            {
+              "name": "krachtige runderfond (bij voorkeur zelfgetrokken)",
+              "amount": "500 ml"
+            },
+            {
+              "name": "Worcestershiresauce",
+              "amount": "1 tl"
+            },
+            {
+              "name": "klein takje tijm",
+              "amount": "1"
+            },
+            {
+              "name": "laurierblaadje",
+              "amount": "1"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "koude boter",
+              "amount": "klein klontje"
+            }
+          ]
+        },
+        {
+          "group_name": "Vlees",
+          "ingredients": [
+            {
+              "name": "entrecote, in zo dun mogelijke reepjes gesneden tegen de draad",
+              "amount": "500–600 g"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "teen knoflook, gekneusd",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Mierikswortel-mosterdsaus",
+          "ingredients": [
+            {
+              "name": "mayonaise",
+              "amount": "3 el"
+            },
+            {
+              "name": "Griekse yoghurt",
+              "amount": "2 el"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 el"
+            },
+            {
+              "name": "mierikswortel (vers geraspt of uit een potje)",
+              "amount": "1–2 el"
+            },
+            {
+              "name": "honing",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Wrap",
+          "ingredients": [
+            {
+              "name": "grote tortilla's",
+              "amount": "4"
+            },
+            {
+              "name": "plakken Gruyère of Emmentaler",
+              "amount": "4"
+            },
+            {
+              "name": "augurken of cornichons, in dunne repen",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "klein handje rucola of fijngesneden little gem (bewust weinig)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Jus maken",
+          "description": "Fruit de sjalot en knoflook in een beetje olie of boter. Voeg de tomatenpuree toe en bak 1 minuut mee. Blus af met de rode wijn en laat flink inkoken. Voeg de runderfond, Worcestershiresauce, tijm, laurier en peper toe. Laat 20–25 minuten zachtjes trekken en inkoken. Zeef de jus en monteer 'm vlak voor serveren met het klontje koude boter voor glans. De jus moet diep en rundachtig zijn, maar niet dik als een saus."
+        },
+        {
+          "action": "Mierikswortel-mosterdsaus maken",
+          "description": "Meng mayonaise, yoghurt, mosterd, mierikswortel en honing tot een gladde saus. Breng op smaak met zout en peper."
+        },
+        {
+          "action": "Entrecote bakken",
+          "description": "Kruid het vlees met zout en peper. Verhit de olie in een gietijzeren pan tot bijna rokend. Bak kort en fel, voeg op het einde de boter en gekneusde knoflook toe en bestrijk het vlees ermee. Laat 5–8 minuten rusten, snijd dan zo dun mogelijk tegen de draad."
+        },
+        {
+          "action": "Vlees opwarmen in de jus",
+          "description": "Schep vlak voor het vullen een paar lepels warme jus over het dungesneden vlees — het moet er warm en sappig van worden, niet nog een keer garen."
+        },
+        {
+          "action": "Wrap opbouwen",
+          "description": "Verwarm de tortilla's kort, leg er een plak kaas op en laat kort smelten in de warme pan. Smeer dun in met mierikswortel-mosterdsaus, leg het warme vlees erop, voeg augurk en een klein handje rucola toe. Rol strak op en snijd schuin doormidden."
+        },
+        {
+          "action": "Serveren met dip",
+          "description": "Giet de resterende warme jus in kleine kommetjes, één per persoon. Dip de wrap vlak voor elke hap erin, zoals bij Philippe's beroemde 'wet' French Dip."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Zet de wraphelften rechtop tegen elkaar aan op het bord, met het dampende kommetje jus direct ernaast. Laat zien dat de jus bedoeld is om in te dopen — dat houdt de wrap knapperig tot het moment van de hap."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Geconcentreerde, met rode wijn en boter afgeronde jus tilt alles op wat er al goed aan zit: het rundvlees wordt intenser, de kaas smelt er verder in weg, en de scherpte van mierikswortel en mosterd krijgt een warme tegenhanger. Door het vlees vooraf al even in de jus op te warmen, blijft het sappig zonder na te garen. Door het idee om te draaien — niet het brood dippen, maar de hele wrap — wordt een passieve saus een actief onderdeel van het eten."
+        }
+      ],
+      "chef_tip": "Jus met meer diepte: voeg wat extra rundervleesreepjes toe aan het trekken voor een rijkere smaak.\n\nVooruitwerken: jus en saus kunnen beide 2 dagen vooraf gemaakt worden.\n\nMildere versie: halveer de mierikswortel.\n\nKaaskeuze: Gruyère of Emmentaler is de betrouwbare keuze — ze smelten mooi zonder de jus en mierikswortel te overheersen. Blauwe koemelkkaas kan lekker zijn voor wie dat wil, maar neemt snel de overhand.\n\nHoud het groen bewust minimaal — te veel sla maakt het dippen rommelig in plaats van elegant.\n\nGeen tijd voor zelfgetrokken fond? Goede kant-en-klare runderbouillon met extra Worcestershiresauce en een scheutje sherry-azijn komt al een heel eind.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Californische Zinfandel",
+          "druif": "Zinfandel",
+          "smaakprofiel": "Rijp, jammig donker fruit — bosbes, pruim, ingekookte kers — met kruidige, bijna peperige ondertoon en soms een vleugje vanille. Vol en warm, zachte tannines, sappige afdronk.",
+          "omschrijving": "Rijp, jammig donker fruit — bosbes, pruim, ingekookte kers — met een kruidige, bijna peperige ondertoon en soms een vleugje vanille. Vol en warm, met zachte tannines en een sappige afdronk.",
+          "waarom_werkt_dit": "Zinfandel komt uit dezelfde Amerikaanse traditie als dit gerecht, en het jammige, kruidige karakter sluit natuurlijk aan bij de rode-wijn-jus en de scherpte van mierikswortel en mosterd."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Droge appelcider",
+          "druif": "n.v.t. (appel)",
+          "smaakprofiel": "Rijpe appel en een vleugje gist, levendige prikkelende zuurgraad, droge afdronk.",
+          "omschrijving": "Ruikt naar rijpe appel en een vleugje gist, met een levendige, prikkelende zuurgraad en een droge afdronk.",
+          "waarom_werkt_dit": "De frisse zuren snijden door de rijkdom van jus en gesmolten kaas, terwijl de lichte appelzoetheid een zachte tegenhanger vormt voor de mierikswortel."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Amerikaanse amber lager",
+          "druif": "n.v.t. (bier)",
+          "smaakprofiel": "Lichte karameltonen, subtiele hopbitterheid, droge afdronk.",
+          "omschrijving": "Lichte karameltonen, subtiele hopbitterheid, droge afdronk.",
+          "waarom_werkt_dit": "De karameltonen weerspiegelen de geconcentreerde smaak van de jus, terwijl de hopbitterheid de romigheid van kaas en saus in balans houdt."
+        }
+      ]
     }
   ]
 }
