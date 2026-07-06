@@ -1,6 +1,25 @@
 [build]
   publish = "."
 
+# Forceer non-www en HTTPS als canonical domein
+[[redirects]]
+  from = "https://www.hetproeven.nl/*"
+  to = "https://hetproeven.nl/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.hetproeven.nl/*"
+  to = "https://hetproeven.nl/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://hetproeven.nl/*"
+  to = "https://hetproeven.nl/:splat"
+  status = 301
+  force = true
+
 # Statische receptpagina's hebben voorrang — met slash
 [[redirects]]
   from = "/recepten/:slug/"

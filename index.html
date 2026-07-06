@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3Q8E0KWX3F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3Q8E0KWX3F');
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Het Proeven — Kleine gerechtjes. Grote obsessie.</title>
@@ -821,30 +829,6 @@ ${r.difficulty ? `<span class="tag tag-acc">${r.difficulty}</span>` : ''}
     </form>
   </div>
   <!-- Einde nieuwsbrief -->
-<script>
-    // Nieuwsbrief blok na 3e receptkaart invoegen
-    function insertNewsletterBlock() {
-      const grid = document.getElementById('recipe-grid');
-      if (!grid) return;
-      const cards = grid.querySelectorAll('.recipe-card, a[href*="/recepten/"]');
-      if (cards.length >= 3) {
-        const newsletterDiv = document.createElement('div');
-        newsletterDiv.innerHTML = `<div style="grid-column:1/-1;background:#2B1A0D;padding:40px 44px;text-align:center;border-radius:4px;margin:8px 0;">
-      <p style="font-family:'Playfair Display',serif;font-size:20px;color:#F3EDE1;margin:0 0 6px;letter-spacing:1px;">Wil jij elk nieuwste recept als eerste?</p>
-      <p style="font-size:13px;color:rgba(243,237,225,0.6);margin:0 0 20px;">Elke week één gerecht — met techniek, wijnadvies en de obsessie die erbij hoort.</p>
-      <form action="https://hetproeven.us14.list-manage.com/subscribe/post?u=66783d7de4f083c6e26856f4d&amp;id=60525c9392&amp;f_id=00192ae1f0" method="post" target="_blank" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
-        <input type="email" name="EMAIL" placeholder="jouw@email.nl" required style="padding:12px 18px;font-size:14px;border:none;border-radius:4px;width:260px;background:#F3EDE1;color:#2B1A0D;outline:none;">
-        <div style="position:absolute;left:-5000px;" aria-hidden="true"><input type="text" name="b_66783d7de4f083c6e26856f4d_60525c9392" tabindex="-1" value=""></div>
-        <button type="submit" style="padding:12px 24px;font-size:14px;background:#B85C30;color:#fff;border:none;border-radius:4px;cursor:pointer;letter-spacing:0.5px;">Aanmelden</button>
-      </form>
-    </div>`;
-        cards[2].insertAdjacentElement('afterend', newsletterDiv.firstElementChild);
-      }
-    }
-    // Wacht tot recepten geladen zijn
-    const origRender = window.renderRecipes;
-    window.addEventListener('load', function() {
-      setTimeout(insertNewsletterBlock, 1500);
-    });</script>
+
 </body>
 </html>

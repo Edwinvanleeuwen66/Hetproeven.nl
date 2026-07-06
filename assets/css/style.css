@@ -267,15 +267,73 @@ a { color: inherit; text-decoration: none; }
   margin-bottom: 16px;
 }
 
+
+/* ── Recipe card aliases voor index.html ── */
+.recipe-card {
+  border-right: 0.5px solid var(--border);
+  border-bottom: 0.5px solid var(--border);
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.2s;
+}
+.recipe-card:nth-child(3n) { border-right: none; }
+.recipe-card:hover { background: var(--hover); }
+.recipe-card:hover .recipe-card-title { color: var(--accent); }
+
+.recipe-card-img {
+  height: 200px;
+  overflow: hidden;
+  background: var(--deep);
+}
+.recipe-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.recipe-card-body { padding: 22px 24px 24px; }
+
+.recipe-card-tag {
+  font-size: 9px;
+  letter-spacing: 3px;
+  color: var(--accent);
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  display: block;
+}
+.recipe-card-title {
+  font-family: var(--serif);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.35;
+  margin-bottom: 10px;
+  transition: color 0.15s;
+  color: var(--deep);
+}
+.recipe-card-desc {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.65;
+  margin-bottom: 16px;
+  display: block;
+}
+.recipe-card-time {
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.5px;
+}
+
 /* ── Tags ───────────────────────────────────── */
 .tags { display: flex; gap: 6px; flex-wrap: wrap; }
 
 .tag {
-  font-size: 11px;
-  padding: 3px 11px;
-  border: 0.5px solid var(--border);
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 12px;
+  border: 1px solid var(--border);
   border-radius: 20px;
-  color: var(--muted);
+  color: #5a3e2b;
 }
 
 .tag-acc { border-color: #C4925C; color: var(--accent); }
@@ -328,8 +386,8 @@ a { color: inherit; text-decoration: none; }
 
 .recipe-desc {
   padding: 14px 44px 22px;
-  font-size: 16px;
-  color: var(--muted);
+  font-size: 20px;
+  color: #5a3e2b;
   font-style: italic;
   line-height: 1.85;
   border-bottom: 0.5px solid var(--border);
@@ -390,7 +448,7 @@ a { color: inherit; text-decoration: none; }
   justify-content: space-between;
   padding: 8px 0;
   border-bottom: 0.5px solid #E6DDD0;
-  font-size: 16px;
+  font-size: 17px;
   gap: 12px;
   align-items: baseline;
 }
@@ -425,14 +483,14 @@ a { color: inherit; text-decoration: none; }
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 13px;
+  font-size: 17px;
   font-family: var(--serif);
   flex-shrink: 0;
   margin-top: 2px;
 }
 
 .step-text {
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.9;
   color: #3D2B1F;
 }
@@ -445,7 +503,7 @@ a { color: inherit; text-decoration: none; }
   padding: 20px 24px;
   background: #F5EDE0;
   border-radius: 0 6px 6px 0;
-  font-size: 15px;
+  font-size: 17px;
   color: #3D2B1F;
   line-height: 1.85;
   font-style: normal;
@@ -455,7 +513,7 @@ a { color: inherit; text-decoration: none; }
   margin-bottom: 10px;
   padding-bottom: 10px;
   border-bottom: 0.5px solid #E0CDB8;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.85;
 }
 
@@ -578,6 +636,8 @@ footer a:hover { color: #8A3A10; }
   .recipe-grid { grid-template-columns: repeat(2, 1fr); }
   .card:nth-child(3n) { border-right: 0.5px solid var(--border); }
   .card:nth-child(2n) { border-right: none; }
+  .recipe-card:nth-child(3n) { border-right: 0.5px solid var(--border); }
+  .recipe-card:nth-child(2n) { border-right: none; }
 }
 
 @media (max-width: 768px) {
@@ -590,6 +650,7 @@ footer a:hover { color: #8A3A10; }
   .section-label { padding: 12px 20px; }
   .recipe-grid { grid-template-columns: 1fr; }
   .card:nth-child(n) { border-right: none; }
+  .recipe-card:nth-child(n) { border-right: none; }
   .back-btn { padding: 14px 20px; }
   .recipe-hero { height: 200px; padding: 20px; }
   .recipe-title { padding: 28px 20px 0; font-size: 26px; }
@@ -603,8 +664,8 @@ footer a:hover { color: #8A3A10; }
 
 /* ── Wine sectie onderaan recept ── */
 .wine-section {
-  max-width: 860px;
-  margin: 3rem auto 2rem;
+  max-width: none;
+  margin: 0;
   padding: 2rem;
   background: #f9f3eb;
   border-left: 4px solid #B85C30;
@@ -669,12 +730,13 @@ footer a:hover { color: #8A3A10; }
 
 .filter-label {
   font-family: 'Lato', sans-serif;
-  font-size: 0.7rem;
+  font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
   color: #9a7e6a;
   white-space: nowrap;
   min-width: 48px;
+  font-weight: 600;
 }
 
 .filter-bar {
@@ -686,15 +748,15 @@ footer a:hover { color: #8A3A10; }
 .filter-btn {
   background: transparent;
   border: 1px solid var(--border);
-  color: var(--muted);
-  padding: 0.3rem 0.85rem;
+  color: #5a3e2b;
+  padding: 0.4rem 1rem;
   border-radius: 20px;
   font-family: 'Lato', sans-serif;
-  font-size: 0.8rem;
+  font-size: 14px;
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
@@ -707,23 +769,24 @@ footer a:hover { color: #8A3A10; }
 
 .filter-btn-sm {
   background: transparent;
-  border: none;
-  color: var(--muted);
-  padding: 0.2rem 0.6rem;
+  border: 1px solid var(--border);
+  color: #5a3e2b;
+  padding: 0.25rem 0.65rem;
   border-radius: 20px;
   font-family: 'Lato', sans-serif;
-  font-size: 0.72rem;
+  font-size: 12px;
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
-  font-weight: 300;
+  font-weight: 400;
 }
 
-.filter-btn-sm:hover { color: var(--accent); }
+.filter-btn-sm:hover { color: var(--accent); border-color: var(--accent); }
 
 .filter-btn-sm.active {
-  background: var(--hover);
-  color: var(--deep);
+  background: var(--deep);
+  border-color: var(--deep);
+  color: var(--cream);
   font-weight: 400;
 }
 
@@ -812,12 +875,13 @@ footer a:hover { color: #8A3A10; }
 /* ── Detail pagina acties ── */
 .detail-actie-btn {
   font-family: var(--sans);
-  font-size: 12px;
-  padding: 4px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 5px 14px;
   border-radius: 20px;
-  border: 0.5px solid var(--border);
+  border: 1px solid var(--border);
   background: transparent;
-  color: var(--muted);
+  color: #5a3e2b;
   cursor: pointer;
   transition: all 0.15s;
   white-space: nowrap;
