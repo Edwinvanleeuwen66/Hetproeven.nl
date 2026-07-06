@@ -1,0 +1,118 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: assets/images
+public_folder: /assets/images
+
+locale: nl
+
+collections:
+  - name: "recepten"
+    label: "Recepten"
+    files:
+      - name: "alle_recepten"
+        label: "Alle recepten"
+        file: "data/recipes.json"
+        fields:
+          - name: "recipes"
+            label: "Recepten"
+            label_singular: "Recept"
+            widget: "list"
+            summary: "{{fields.title}} — {{fields.location}}"
+            fields:
+              - label: "Titel"
+                name: "title"
+                widget: "string"
+                hint: "bijv: Pintxo de chistorra met paprika en aioli"
+
+              - label: "URL-naam (slug)"
+                name: "slug"
+                widget: "string"
+                hint: "Alleen kleine letters, koppeltekens, geen spaties. bijv: chistorra-pintxo"
+
+              - label: "Locatie"
+                name: "location"
+                widget: "string"
+                hint: "bijv: Bilbao, San Sebastián, Parijs"
+
+              - label: "Bereidingstijd"
+                name: "time"
+                widget: "string"
+                hint: "bijv: 20 min"
+
+              - label: "Porties"
+                name: "servings"
+                widget: "string"
+                hint: "bijv: 4 personen of 6 pintxos"
+
+              - label: "Moeilijkheid"
+                name: "difficulty"
+                widget: "select"
+                options: ["Makkelijk", "Gemiddeld", "Moeilijk"]
+
+              - label: "Wijnadvies"
+                name: "wine"
+                widget: "string"
+                required: false
+                hint: "bijv: Rioja Crianza (optioneel)"
+
+              - label: "Foto"
+                name: "image"
+                widget: "image"
+                required: false
+                hint: "Upload een foto van het gerecht"
+
+              - label: "Korte beschrijving (voor op de kaart)"
+                name: "short_description"
+                widget: "text"
+                hint: "1-2 zinnen, verschijnt op de homepage"
+
+              - label: "Volledige beschrijving (cursief bovenaan recept)"
+                name: "description"
+                widget: "text"
+                hint: "Vertel iets over het gerecht, de locatie, de sfeer"
+
+              - label: "Ingrediëntengroepen"
+                name: "ingredient_groups"
+                label_singular: "Groep"
+                widget: "list"
+                hint: "Maak groepen voor bijv. 'Saus', 'Deeg', 'Aioli'. Als er maar één groep is, noem hem dan gewoon naar het gerecht."
+                fields:
+                  - label: "Groepnaam"
+                    name: "group_name"
+                    widget: "string"
+                    hint: "bijv: Aioli, Saus, Deeg"
+                  - label: "Ingrediënten"
+                    name: "ingredients"
+                    label_singular: "Ingrediënt"
+                    widget: "list"
+                    fields:
+                      - label: "Naam"
+                        name: "name"
+                        widget: "string"
+                        hint: "bijv: knoflookteentjes, geperst"
+                      - label: "Hoeveelheid"
+                        name: "amount"
+                        widget: "string"
+                        hint: "bijv: 2 of 300 g of 1 tl"
+
+              - label: "Bereidingsstappen"
+                name: "steps"
+                label_singular: "Stap"
+                widget: "list"
+                fields:
+                  - label: "Actie (vetgedrukt woord)"
+                    name: "action"
+                    widget: "string"
+                    hint: "bijv: Bak, Rooster, Meng, Aioli"
+                  - label: "Instructie"
+                    name: "description"
+                    widget: "text"
+                    hint: "De rest van de stap, na het vetgedrukte woord"
+
+              - label: "Chef tip"
+                name: "chef_tip"
+                widget: "text"
+                required: false
+                hint: "Optioneel: een persoonlijke tip of aantekening"
