@@ -42,29 +42,17 @@
     .portie-val{font-weight:700;color:#B85C30;min-width:20px}
     .tip-item{display:block;padding:10px 0;border-bottom:.5px solid #E0CDB8;font-size:17px;line-height:1.7;color:#4A3728}
     .tip-item:last-child{border-bottom:none;padding-bottom:0}
-    .reviews-section{max-width:860px;margin:2rem auto 3rem;padding:0 44px}
     .reviews-title{font-size:9px;letter-spacing:3px;color:#B85C30;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:.5px solid #D4C8B4}
-    .review-score-blok{display:flex;align-items:center;gap:16px;margin-bottom:20px}
     .review-getal{font-family:'Playfair Display',serif;font-size:48px;color:#2B1A0D;line-height:1}
     .review-sterren-groot{color:#E8A020;font-size:22px}
     .review-aantal{font-size:13px;color:#7A6A5A}
-    .ster-keuze{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:4px;margin-bottom:12px}
-    .ster-keuze input{display:none}
-    .ster-keuze label{font-size:28px;color:#ddd;cursor:pointer}
-    .ster-keuze input:checked~label,.ster-keuze label:hover,.ster-keuze label:hover~label{color:#E8A020}
-    .review-form h3{font-family:'Playfair Display',serif;font-size:18px;margin-bottom:12px}
-    .review-form input,.review-form textarea{width:100%;box-sizing:border-box;border:.5px solid #D4C8B4;border-radius:8px;padding:10px 14px;font-family:'Lato',sans-serif;font-size:14px;margin-bottom:10px;outline:none}
-    .review-form button{background:#2B1A0D;color:#fff;border:none;padding:10px 24px;border-radius:20px;font-family:'Lato',sans-serif;font-size:13px;cursor:pointer;transition:background .15s}
-    .review-form button:hover{background:#B85C30}
     .melding{font-size:13px;color:#7A6A5A;font-style:italic;margin-top:8px}
     .review-item{padding:16px 0;border-bottom:.5px solid #D4C8B4}
     .review-item:last-child{border-bottom:none}
     .review-item-top{display:flex;justify-content:space-between;margin-bottom:6px}
-    .review-naam{font-size:13px;font-weight:600;color:#2B1A0D}
     .review-sterren{color:#E8A020;font-size:15px}
     .review-opmerking{font-size:14px;color:#7A6A5A;line-height:1.7;margin-bottom:4px}
     .review-datum{font-size:11px;color:#aaa}
-    @media(max-width:640px){.reviews-section{padding:0 20px}}
     .gids-btn-hover:hover{transform:translateY(-3px);box-shadow:0 10px 28px rgba(0,0,0,0.35)!important;}
   </style>
 </head>
@@ -144,79 +132,14 @@
 <p class="wine-toelichting">Een lichte, sappige rode wijn die koelte en fruit geeft zonder het gerecht te verzwaren.</p>
 <p class="wine-toelichting">De frisse zuren en lichte body van Gamay houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen.</p>
 </div></div>
-    </div>
-  </div>
-  <div style="padding:0 44px;margin:32px 0">
-    <a href="/sterrenkok-gids.html" class="gids-btn-hover" style="display:flex;align-items:center;justify-content:space-between;width:100%;box-sizing:border-box;font-family:'Lato',sans-serif;font-size:22px;font-weight:800;color:#fff;text-decoration:none;padding:26px 36px;background:linear-gradient(135deg,#B85C30,#7A2E08);border-radius:12px;box-shadow:0 8px 24px rgba(138,58,16,0.45);transition:transform .15s, box-shadow .15s;letter-spacing:0.01em;margin-bottom:16px;"><span>👨‍🍳 Van hobbykok naar sterrenkok — 52 technieken</span><span style="font-size:26px;margin-left:16px;">→</span></a>
-    <a href="/wijnspijs-gids.html" class="gids-btn-hover" style="display:flex;align-items:center;justify-content:space-between;width:100%;box-sizing:border-box;font-family:'Lato',sans-serif;font-size:22px;font-weight:800;color:#fff;text-decoration:none;padding:26px 36px;background:linear-gradient(135deg,#6B2D6B,#3d0f4e);border-radius:12px;box-shadow:0 8px 24px rgba(61,15,78,0.45);transition:transform .15s, box-shadow .15s;letter-spacing:0.01em;"><span>🍷 Wijn &amp; Spijs combineren — de complete gids</span><span style="font-size:26px;margin-left:16px;">→</span></a>
-  </div>
-  <div class="reviews-section">
-    <div class="reviews-title">Beoordelingen</div>
-    <div id="review-score-wrap"></div>
-    <div class="review-form">
-      <h3>Laat een beoordeling achter</h3>
-      <div class="ster-keuze">
-        <input type="radio" id="ster5" name="rating" value="5"><label for="ster5">★</label>
-        <input type="radio" id="ster4" name="rating" value="4"><label for="ster4">★</label>
-        <input type="radio" id="ster3" name="rating" value="3"><label for="ster3">★</label>
-        <input type="radio" id="ster2" name="rating" value="2"><label for="ster2">★</label>
-        <input type="radio" id="ster1" name="rating" value="1"><label for="ster1">★</label>
+      <div style="margin-top:24px">
+        <a href="/sterrenkok-gids.html" class="gids-btn-hover" style="display:block;width:100%;box-sizing:border-box;text-align:left;font-family:'Lato',sans-serif;font-size:20px;font-weight:800;color:#fff;text-decoration:none;padding:22px 28px;background:linear-gradient(135deg,#B85C30,#7A2E08);border-radius:10px;box-shadow:0 6px 20px rgba(138,58,16,0.4);transition:transform .15s, box-shadow .15s;">👨‍🍳 Van hobbykok naar sterrenkok — 52 technieken &nbsp;→</a>
       </div>
-      <input type="text" id="review-naam" placeholder="Jouw naam (optioneel)" maxlength="60">
-      <textarea id="review-opmerking" placeholder="Jouw opmerking (optioneel)" rows="3" maxlength="500"></textarea>
-      <button onclick="verstuurReview()">Beoordeling plaatsen</button>
-      <div class="melding" id="review-melding"></div>
+      <div style="margin-top:16px">
+        <a href="/wijnspijs-gids.html" class="gids-btn-hover" style="display:block;width:100%;box-sizing:border-box;text-align:left;font-family:'Lato',sans-serif;font-size:20px;font-weight:800;color:#fff;text-decoration:none;padding:22px 28px;background:linear-gradient(135deg,#6B2D6B,#3d0f4e);border-radius:10px;box-shadow:0 6px 20px rgba(61,15,78,0.4);transition:transform .15s, box-shadow .15s;">🍷 Wijn &amp; Spijs combineren — de complete gids &nbsp;→</a>
+      </div>
     </div>
-    <div id="reviews-lijst"></div>
   </div>
   <footer><p>© Het Proeven</p><a href="/over.html">Over ons</a></footer>
-  <script>
-    (function() {
-      const slider = document.getElementById('portie-slider');
-      const valEl  = document.getElementById('portie-val');
-      if (!slider) return;
-      function basisPortie(servStr) {
-        const m = (servStr || '').match(/(\d+)/);
-        return m ? parseInt(m[1]) : 4;
-      }
-      const amounts = [];
-      document.querySelectorAll('.ing-amount').forEach((el, i) => {
-        const orig = el.textContent.trim();
-        const numMatch = orig.match(/^(\d+[,.]?\d*)(.*)$/);
-        const num = numMatch ? parseFloat(numMatch[1].replace(',','.')) : NaN;
-        const unit = numMatch ? numMatch[2] : '';
-        amounts.push({ el, orig, num, unit, valid: !isNaN(num) && num > 0 });
-      });
-      const basis = basisPortie('4 personen');
-      slider.value = basis;
-      valEl.textContent = basis;
-      slider.addEventListener('input', () => {
-        const portie = parseInt(slider.value);
-        valEl.textContent = portie;
-        const factor = portie / (basis || 4);
-        amounts.forEach(a => {
-          if (!a.valid) return;
-          const result = Math.round(a.num * factor * 100) / 100;
-          const numStr = result % 1 === 0 ? result.toString() : result.toFixed(1).replace('.',',');
-          a.el.textContent = numStr + a.unit;
-        });
-      });
-    })();
-  </script>
-  <script>
-    function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch{return new Set();}}
-    function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify([...s]));}catch{}}
-    function toggleDetailActie(type,slug,btn){var key='hp_'+type,set=loadSet(key),cls=type==='favorieten'?'detail-btn-active':'detail-btn-active-vandaag';if(set.has(slug)){set.delete(slug);btn.classList.remove(cls);}else{set.add(slug);btn.classList.add(cls);}saveSet(key,set);}
-    (function(){var slug='japanse-rundvleessalade-rosbief-daikon-wasabi';var f=loadSet('hp_favorieten'),v=loadSet('hp_vandaag');var bf=document.getElementById('btn-fav-detail'),bv=document.getElementById('btn-vandaag-detail');if(bf&&f.has(slug))bf.classList.add('detail-btn-active');if(bv&&v.has(slug))bv.classList.add('detail-btn-active-vandaag');})();
-    (function(){const btn=document.getElementById('kookstand-btn');if(!btn||!('wakeLock' in navigator)){if(btn){btn.style.opacity='.4';btn.style.cursor='not-allowed';}return;}let wl=null;async function aan(){try{wl=await navigator.wakeLock.request('screen');btn.classList.add('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand aan';wl.addEventListener('release',()=>{btn.classList.remove('detail-btn-active-vandaag');btn.innerHTML='🍳 Kookstand';wl=null;});}catch(e){}}async function uit(){if(wl)await wl.release();}btn.addEventListener('click',()=>wl?uit():aan());document.addEventListener('visibilitychange',()=>{if(wl&&document.visibilityState==='visible')aan();});})();
-  </script>
-  <script>
-    const SU='https://mgbqqbrsunwgspcizynp.supabase.co',SK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nYnFxYnJzdW53Z3NwY2l6eW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4Mzk2NjksImV4cCI6MjA5MzQxNTY2OX0.05YYDh6m79H8VoVMyCRfd0V2NbvOUd6Nz4IXpo4o30g',SL='japanse-rundvleessalade-rosbief-daikon-wasabi';
-    function st(n){return'★'.repeat(Math.round(n))+'☆'.repeat(5-Math.round(n));}
-    function ds(iso){return new Date(iso).toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric'});}
-    async function laadReviews(){try{const res=await fetch(SU+'/rest/v1/reviews?slug=eq.'+SL+'&order=aangemaakt_op.desc',{headers:{'apikey':SK,'Authorization':'Bearer '+SK}});if(!res.ok)return;const rv=await res.json();if(rv.length>0){const gem=(rv.reduce((s,r)=>s+r.rating,0)/rv.length).toFixed(1);document.getElementById('review-score-wrap').innerHTML='<div class="review-score-blok"><div class="review-getal">'+gem+'</div><div><div class="review-sterren-groot">'+st(parseFloat(gem))+'</div><div class="review-aantal">'+rv.length+' '+(rv.length===1?'beoordeling':'beoordelingen')+'</div></div></div>';}document.getElementById('reviews-lijst').innerHTML=rv.length===0?'<p style="font-size:14px;color:#aaa;font-style:italic">Nog geen beoordelingen. Wees de eerste!</p>':rv.map(r=>'<div class="review-item"><div class="review-item-top"><span class="review-naam">'+(r.naam||'Anoniem')+'</span><span class="review-sterren">'+st(r.rating)+'</span></div>'+(r.opmerking?'<div class="review-opmerking">'+r.opmerking+'</div>':'')+'<div class="review-datum">'+ds(r.aangemaakt_op)+'</div></div>').join('');}catch(e){}}
-    window.verstuurReview=async function(){const rEl=document.querySelector('input[name="rating"]:checked');const mel=document.getElementById('review-melding');if(!rEl){mel.textContent='Kies eerst een aantal sterren.';return;}const rating=parseInt(rEl.value);const naam=document.getElementById('review-naam').value.trim();const opm=document.getElementById('review-opmerking').value.trim();mel.textContent='Bezig met opslaan…';try{const res=await fetch(SU+'/rest/v1/reviews',{method:'POST',headers:{'apikey':SK,'Authorization':'Bearer '+SK,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({slug:SL,rating,naam:naam||null,opmerking:opm||null})});if(res.ok||res.status===201){mel.textContent='✓ Bedankt!';rEl.checked=false;document.getElementById('review-naam').value='';document.getElementById('review-opmerking').value='';setTimeout(()=>{mel.textContent='';laadReviews();},1200);}else{mel.textContent='Er ging iets mis.';}}catch(e){mel.textContent='Er ging iets mis.';}};
-    laadReviews();
-  </script>
 </body>
 </html>
