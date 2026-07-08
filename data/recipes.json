@@ -68579,6 +68579,157 @@
           "waarom_werkt_dit": "sake en tare komen uit dezelfde keuken en spreken elkaars taal moeiteloos, en een koele sake is verfrissend genoeg tussen de rijke, romige happen door."
         }
       ]
+    },
+    {
+      "title": "Krab-tamagoyaki in nori",
+      "slug": "krab-tamagoyaki-nori",
+      "location": "Japan",
+      "time": "20 min voorbereiding + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/krab-tamagoyaki-nori.jpg",
+      "short_description": "Warme, gerolde tamagoyaki met krab en negi, direct in nori gewikkeld voor een strak spiraalpatroon, geserveerd met een glanzende soja-mirinboter.",
+      "description": "Tamagoyaki, de gelaagde, gerolde Japanse omelet, is een van de stille basistechnieken van de Japanse keuken — te vinden in een bento-doos, als topping op nigiri-sushi, of gewoon als bijgerecht bij een izakaya-maaltijd. Deze versie tilt de techniek naar een elegante amuse: de warme, nog glanzende omelet, gevuld met krabvlees en negi, wordt meteen na het bakken in een vel nori gerold, zodat bij het aansnijden een strak spiraalpatroon ontstaat van goudgeel ei tegen zwarte zeewier. Een warme, licht nootachtige soja-mirinboter geeft glans en diepte, zonder de kern van het gerecht te overschrijven.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de omelet",
+          "ingredients": [
+            {
+              "name": "eieren, op kamertemperatuur",
+              "amount": "4"
+            },
+            {
+              "name": "fijn zeezout (verdeeld over twee kommen)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "neutrale olie (bijv. koolzaad- of zonnebloemolie)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijngesneden negi, of 2 dikke lente-uitjes, fijngesneden",
+              "amount": "1 el"
+            },
+            {
+              "name": "krabvlees, schoongemaakt van schaaltjes en kraakbeen",
+              "amount": "70 g"
+            },
+            {
+              "name": "geraspte verse gember",
+              "amount": "snufje"
+            },
+            {
+              "name": "vellen nori",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de soja-mirinboter",
+          "ingredients": [
+            {
+              "name": "roomboter",
+              "amount": "25 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "mirin",
+              "amount": "1 el"
+            },
+            {
+              "name": "citroensap of rijstazijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijngehakte bieslook of lente-ui",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het serveren",
+          "ingredients": [
+            {
+              "name": "sojasaus, om te dopen of over te druppelen",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Nori op maat snijden",
+          "description": "Snijd elk vel nori bij zodat het past op de rechthoek van een gebakken omelet, met ongeveer 2 cm extra aan de bovenkant."
+        },
+        {
+          "action": "Eieren kloppen en zeven",
+          "description": "Klop in twee aparte kommen telkens 2 eieren los met een snufje zout per kom. Zeef elk mengsel door een fijne zeef voor een gladder, mooier resultaat."
+        },
+        {
+          "action": "Krabvulling voorbereiden",
+          "description": "Meng het krabvlees en de negi met het snufje geraspte gember. Verdeel in twee gelijke porties."
+        },
+        {
+          "action": "Eerste omelet bakken",
+          "description": "Verhit ½ el olie in een rechthoekige tamagoyaki-pan (of een kleine koekenpan) op middelhoog-laag vuur. Voeg de helft van de krab-negivulling toe en bak circa 2 minuten tot de negi net begint te verwelken. Giet de inhoud van één kom eieren erbij, roer heel kort om het mengsel te verdelen, en bak op laag vuur tot de omelet gestold is maar nog glanzend blijft — niet droog laten bakken. Stort de omelet om op een snijplank en draai de natte kant naar boven."
+        },
+        {
+          "action": "Tweede omelet bakken",
+          "description": "Herhaal stap 4 met de resterende olie, vulling en de tweede kom eieren."
+        },
+        {
+          "action": "Oprollen",
+          "description": "Leg een vel nori met de glanzende kant naar beneden en de richels horizontaal op een makisu. Leg één omelet erop, gelijk met de onderrand, en rol strak op vanaf de korte kant. Zet vast met 4 cocktailprikkers en snijd in 3 dikke plakken. Herhaal met het tweede vel nori en de tweede omelet."
+        },
+        {
+          "action": "Soja-mirinboter maken",
+          "description": "Smelt de boter zachtjes in een klein pannetje tot hij licht nootachtig ruikt, maar niet donkerbruin wordt. Voeg sojasaus en mirin toe, laat 20-30 seconden bruisen. Haal van het vuur en roer er citroensap en bieslook door."
+        },
+        {
+          "action": "Serveren",
+          "description": "Zet kleine schaaltjes sojasaus klaar om in te dopen, of druppel een klein beetje sojasaus direct over één van de snijvlakken. Lepel de warme soja-mirinboter ernaast op het bord, niet over de rolletjes heen."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de plakjes rechtop met het snijvlak naar boven, zodat de spiraal van goudgeel ei, krab en negi tegen de zwarte nori goed zichtbaar is. Eén cocktailprikker kun je laten zitten voor stabiliteit en een speels visueel accent. Lepel de soja-mirinboter als een klein glanzend poeltje ernaast — een accent, geen overgieting."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Tamagoyaki draait om laagjes en glans: door de omelet net iets vochtig te houden bij het van de pan halen, blijft hij soepel genoeg om zonder scheuren om de nori te rollen. Krab geeft een subtiele, natuurlijke zoetheid, negi en een vleugje gember een frisse bite die de romigheid van het ei doorbreekt. De nori voegt een zilte, umami-rijke buitenlaag toe. De soja-mirinboter is de laatste laag: nootachtige gesmolten boter, gebonden met soja en mirin, geeft het gerecht een glanzende, ronde diepte die het puur Japanse karakter niet overschrijft maar juist afrondt."
+        }
+      ],
+      "chef_tip": "Pan-alternatief: Geen tamagoyaki-pan? Een gewone kleine koekenpan werkt ook — de vorm wordt dan gewoon iets ronder.\n\nKrabvlees: verse krab is het lekkerst, maar goede kwaliteit krabvlees uit blik of pot werkt prima.\n\nVooruitwerken: de rollen kunnen enkele uren vooraf gemaakt worden, gekoeld bewaard, en pas vlak voor serveren gesneden. De soja-mirinboter maak je vlak voor serveren, warm.\n\nVoor extra romigheid zonder de vulling te veranderen: lepel een heel klein beetje Kewpie-mayonaise apart naast de rolletjes op het bord.\n\nVoor een pittiger accent: een piepklein beetje yuzu-kosho of wasabi bij de sojasaus.\n\nVoor extra luxe: een klein lepeltje kaviaar of foreleitjes op elk snijvlak, vlak voor serveren.\n\nOefenen: Oefen de eerste rol gerust apart — tamagoyaki rollen kost wat handigheid, en de eerste poging mag altijd wat minder strak zijn.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Muscadet Sèvre et Maine sur lie",
+          "druif": "Melon de Bourgogne",
+          "smaakprofiel": "Strak, droog en mineraal, met groene appel, citrus en een subtiele, bijna zilte ondertoon van de \"sur lie\"-rijping op de gistresten.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Muscadet is van oudsher de klassieke Franse metgezel van schaal- en schelpdieren, en die zilte, minerale strakheid sluit precies aan bij het krabvlees en de nori. De boter in de saus vindt bovendien een mooie tegenhanger in de \"sur lie\"-romigheid van deze wijnstijl."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Droge Fino sherry",
+          "druif": "Sherry",
+          "smaakprofiel": "Kurkdroog, zilt, met tonen van amandel en een lichte, gistige scherpte — koel en verfrissend geserveerd.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de zilte, gistige droogte weerspiegelt zowel de nori als de sojasaus, en de nootachtige ondertoon van Fino sluit verrassend goed aan bij de licht nootachtige gesmolten boter in de saus."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koude Junmai sake",
+          "druif": "Sake",
+          "smaakprofiel": "Zacht, rond, licht rijstig-zoet met een droge, schone afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "sake en tamagoyaki komen uit dezelfde keuken — de zachte rijstigheid ondersteunt het ei en de sojasaus zonder ergens tegenin te gaan, en een koele sake is de moeiteloze, natuurlijke keuze bij dit hapje."
+        }
+      ]
     }
   ]
 }
