@@ -68730,6 +68730,214 @@
           "waarom_werkt_dit": "sake en tamagoyaki komen uit dezelfde keuken — de zachte rijstigheid ondersteunt het ei en de sojasaus zonder ergens tegenin te gaan, en een koele sake is de moeiteloze, natuurlijke keuze bij dit hapje."
         }
       ]
+    },
+    {
+      "title": "Mossel-vol-au-vent (koninginnenhapje) met champignon en cognac-room",
+      "slug": "mossel-vol-au-vent-champignon-cognac-room",
+      "location": "Versailles, Frankrijk",
+      "time": "25 min voorbereiding + 30 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mossel-vol-au-vent-champignon-cognac-room.jpg",
+      "short_description": "Een ouderwets bladerdeegbakje opnieuw goed gemaakt: krokant, romig en gevuld met mosselen, champignons, prei en cognac-room. Had jij ook zoiets?",
+      "description": "Begin negentiende eeuw ontwikkelde de Franse chef Marie-Antoine Carême een bladerdeeg zo luchtig dat de bakjes er volgens verhalen bijna vanaf konden waaien — vandaar de naam vol-au-vent. Het kleinere broertje kreeg een nog koninklijkere naam: koninginnenhapje, vernoemd naar Marie Leszczyńska, de vrouw van Lodewijk XV, voor wie het gerecht speciaal zou zijn bedacht. In de eeuwen daarna verwaterde het tot de vertrouwde kippenragout van elke Belgische bistrokaart — deze versie brengt het terug naar waar het hoort: mosselen, gestoomd in witte wijn, met stevig gebakken champignons, zachte prei en een vleugje cognac, gevuld in bladerdeeg dat inderdaad bijna van je bord wegwaait.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de mosselen",
+          "ingredients": [
+            {
+              "name": "mosselen, goed schoongemaakt en gecontroleerd",
+              "amount": "1 kg"
+            },
+            {
+              "name": "sjalot, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, gekneusd",
+              "amount": "1"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "150 ml"
+            },
+            {
+              "name": "laurierblaadje",
+              "amount": "1"
+            },
+            {
+              "name": "takjes peterselie",
+              "amount": "paar"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "roomboter",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vulling",
+          "ingredients": [
+            {
+              "name": "kastanjechampignons, in kleine partjes of plakjes",
+              "amount": "200 g"
+            },
+            {
+              "name": "prei, alleen wit en lichtgroen, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "sjalot, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "klein takje verse tijm, blaadjes fijngehakt",
+              "amount": "1"
+            },
+            {
+              "name": "roomboter",
+              "amount": "35 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "cognac",
+              "amount": "1 el"
+            },
+            {
+              "name": "gezeefd mosselvocht",
+              "amount": "150 ml"
+            },
+            {
+              "name": "room",
+              "amount": "100 ml"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "½ tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zout (alleen indien nodig — mosselvocht is vaak al zout genoeg)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijngesneden bieslook of peterselie",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de bladerdeegbakjes",
+          "ingredients": [
+            {
+              "name": "vol-au-vent-bakjes (of 1 rol roomboter-bladerdeeg)",
+              "amount": "4"
+            },
+            {
+              "name": "eidooier, losgeklopt (als je ze zelf maakt)",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "bieslook, peterselie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "Hollandse garnalen (optioneel)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "mooie mossel in de schelp per bakje (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Mosselen stomen",
+          "description": "Smelt de boter in een ruime pan. Fruit sjalot en knoflook 1 minuut. Voeg mosselen, witte wijn, laurier, peterselie en zwarte peper toe. Zet het vuur hoog, doe de deksel op de pan en kook 3-4 minuten tot de mosselen open zijn, schud de pan tussendoor eenmaal. Gooi mosselen weg die dicht blijven. Giet af, vang het vocht op en zeef het door een fijne zeef of doek. Haal de mosselen uit de schelp, houd eventueel 4 mooie exemplaren in de schelp apart voor de presentatie."
+        },
+        {
+          "action": "Champignons stevig bakken",
+          "description": "Verhit de olie met 15 g boter in een koekenpan. Bak de kastanjechampignons op middelhoog tot hoog vuur tot ze goudbruin zijn en hun vocht kwijt zijn. Voeg op het einde de cognac toe en laat volledig verdampen. Breng op smaak met zwarte peper en een klein snufje zout. Zet apart."
+        },
+        {
+          "action": "Prei stoven",
+          "description": "Smelt 20 g boter in een pan. Voeg sjalot, prei en de tijm toe. Stoof op laag vuur tot de prei zacht, zoet en glanzend is — laat niet bruin worden."
+        },
+        {
+          "action": "Saus maken",
+          "description": "Voeg het gezeefde mosselvocht toe aan de prei en laat 2-3 minuten inkoken. Voeg de room toe en laat zachtjes binden. Roer de Dijonmosterd erdoor. Voeg de gebakken champignons toe en laat nog 1 minuut zacht trekken. Breng op smaak met witte peper en een paar druppels citroensap; proef pas daarna of er nog zout nodig is. De saus moet romig en soepel zijn — geen dikke ragout, maar ook niet waterig, hij moet net langzaam van een lepel lopen."
+        },
+        {
+          "action": "Mosselen kort meewarmen",
+          "description": "Voeg de mosselen pas vlak voor serveren toe aan de saus en warm ze 30-60 seconden mee. Niet laten koken, anders worden ze taai. Roer op het einde de bieslook of peterselie erdoor."
+        },
+        {
+          "action": "Bladerdeegbakjes warmen of bakken",
+          "description": "Kant-en-klare bakjes: warm ze op in de oven op 170°C tot heet en krokant. Zelf maken: snijd 8 rondjes bladerdeeg uit. Laat 4 rondjes heel als bodem. Snijd uit de andere 4 kleinere cirkels, zodat je ringen krijgt. Leg de ringen op de bodems, bestrijk met eidooier en bak op 200°C tot goudbruin en hoog gerezen. Hol de bakjes voorzichtig iets uit."
+        },
+        {
+          "action": "Vullen en serveren",
+          "description": "Zet de hete bladerdeegbakjes op warme borden. Schep de mossel-champignon-preivulling royaal in de bakjes. Laat een beetje saus over de rand lopen — dat hoort bij de charme van vol-au-vent. Werk af met bieslook, peterselie en eventueel Hollandse garnalen. Zet eventueel één mossel in de schelp bovenop. Serveer direct."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Dit gerecht mag bewust ouderwets ogen: een goudbruin bladerdeegbakje, romige vulling, mosselen, champignons en een beetje saus die net over de rand loopt. Houd het verder strak: het bakje moet zichtbaar krokant blijven, geen enorme plas saus, kruiden fijn gesneden en de topping klein gehouden. Eén open mossel in de schelp bovenop, wat bieslook en eventueel Hollandse garnalen — dat is genoeg voor het koninklijke effect."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Mosselen zijn zilt, sappig en licht zoet. Champignons geven aarde en umami — mits apart en stevig gebakken, anders verwateren ze de hele saus. Prei geeft zachte zoetheid, witte wijn en mosselvocht maken de saus fris en maritiem, room geeft ronding, en cognac geeft een warme Franse diepte die precies op de achtergrond blijft. Dijonmosterd tilt het geheel net iets op zonder dat je het als \"mosterd\" herkent. Het bladerdeegbakje maakt het nostalgisch en feestelijk — precies de reden waarom dit gerecht ooit zijn naam kreeg: zo licht dat het bijna wegvliegt, gevuld met iets rijk genoeg om je werkelijk koninklijk te laten voelen."
+        }
+      ],
+      "chef_tip": "Champignons apart bakken: Bak champignons apart en stevig. Rauwe champignons meekoken maakt de saus waterig en vlak.\n\nMosselvocht: Gebruik mosselvocht als basis — dan smaakt de saus echt naar zee en niet naar gewone roomsaus.\n\nCognac doseren: Cognac is een accent. Eén eetlepel is genoeg; het moet warmte geven, geen dranklucht.\n\nTiming mosselen: Mosselen pas op het einde erin — ze zijn al gaar, alleen kort warm maken.\n\nBakjes opwarmen: Warm de bakjes goed op. Lauw bladerdeeg is funest; heet en krokant maakt dit gerecht.\n\nVoor extra luxe: voeg op het einde een klein handje Hollandse garnalen toe, maar kook die niet mee.\n\nVooruitwerken: de vulling (zonder mosselen) kan een paar uur vooraf gemaakt worden. Voeg de mosselen pas toe bij het opwarmen, vlak voor serveren.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chablis",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Strakke, ongehoute Chardonnay met groene appel, citrus en een uitgesproken krijtige mineraliteit, met frisse, bijna knisperende zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Chablis is al generaties lang de klassieke Bourgondische metgezel van mosselen — de minerale strakheid houdt de romige saus licht, terwijl de frisse zuren precies de ziltigheid van de mosselen en de aardse diepte van de champignons in balans houden."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Muscadet Sèvre et Maine sur lie",
+          "druif": "Melon de Bourgogne",
+          "smaakprofiel": "Droog, licht, met citrus, een subtiele ziltigheid en een lichte gistigheid van de \"sur lie\"-rijping op de gistresten, strak en verfrissend.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Muscadet is de klassieke Franse metgezel van mosselen aan de kust — de zilte frisheid sluit direct aan bij het mosselvocht, en de lichte gistigheid vindt een mooie echo in de romige, met cognac verrijkte saus."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Crémant de Loire Brut",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Fris, met appel, citrus, een lichte toastigheid en een fijne, feestelijke mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de mousse maakt het bladerdeeg en de room luchtiger, terwijl de lichte toasttonen mooi aansluiten bij de boter, de champignons en het deeg — en de feestelijkheid past bij het \"koninginnen\"-thema van het gerecht."
+        }
+      ]
     }
   ]
 }
