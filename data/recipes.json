@@ -68938,6 +68938,389 @@
           "waarom_werkt_dit": "de mousse maakt het bladerdeeg en de room luchtiger, terwijl de lichte toasttonen mooi aansluiten bij de boter, de champignons en het deeg — en de feestelijkheid past bij het \"koninginnen\"-thema van het gerecht."
         }
       ]
+    },
+    {
+      "title": "Franse beignets met zijdezachte vanilleroom",
+      "slug": "franse-beignets-vanilleroom",
+      "location": "Frankrijk",
+      "time": "45 min voorbereiding + 2-2,5 uur rijzen + 20 min bereiding (frituren)",
+      "servings": "4 personen (24 kleine beignets, ca. 6 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "dessert",
+      "image": "/assets/images/franse-beignets-vanilleroom.jpg",
+      "short_description": "Luchtige, gegiste Franse beignets, gevuld met een zijdezachte crème diplomate en rijkelijk bestrooid met poedersuiker.",
+      "description": "Beignet is gewoon Frans voor \"frituursel\" — en toch doet geen woord minder recht aan wat het beschrijft. Van de kermisfoor tot de patisserie: overal in Europa bestaat een variant op hetzelfde idee, gegist deeg, hete olie en een wolk poedersuiker. Deze Franse versie heeft een klein technisch trucje dat het verschil maakt tussen een plat, ingezakt bolletje en een luchtig, rond kussentje: het deeg wordt gefrituurd met een stukje bakpapier er nog onder vastgeplakt, dat na een paar seconden vanzelf loslaat — precies het moment om de beignet om te draaien, zodat het delicate, gerezen deeg zijn vorm behoudt zodra het de hete olie raakt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het deeg",
+          "ingredients": [
+            {
+              "name": "lauwwarme melk",
+              "amount": "100 ml"
+            },
+            {
+              "name": "gedroogde gist (1 zakje)",
+              "amount": "10 g"
+            },
+            {
+              "name": "ei",
+              "amount": "1"
+            },
+            {
+              "name": "eidooiers",
+              "amount": "2"
+            },
+            {
+              "name": "roomboter, zacht",
+              "amount": "40 g"
+            },
+            {
+              "name": "zout",
+              "amount": "mespuntje"
+            },
+            {
+              "name": "vanillesuiker (1 zakje)",
+              "amount": "30 g"
+            },
+            {
+              "name": "rasp van biologische citroen",
+              "amount": "½"
+            },
+            {
+              "name": "bloem (bij voorkeur sterke broodbloem/Manitoba-type, gewone bloem werkt ook), plus extra om te bestuiven",
+              "amount": "250 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de crème pâtissière (banketbakkersroom)",
+          "ingredients": [
+            {
+              "name": "volle melk",
+              "amount": "500 ml"
+            },
+            {
+              "name": "vanillestokje, opengesneden (of 1 el vanille-extract)",
+              "amount": "1"
+            },
+            {
+              "name": "eidooiers",
+              "amount": "5"
+            },
+            {
+              "name": "fijne suiker",
+              "amount": "100 g"
+            },
+            {
+              "name": "maizena",
+              "amount": "45 g"
+            },
+            {
+              "name": "roomboter",
+              "amount": "25 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vanilleroom-vulling",
+          "ingredients": [
+            {
+              "name": "afgekoelde crème pâtissière (zie boven)",
+              "amount": "royaal"
+            },
+            {
+              "name": "slagroom",
+              "amount": "125 ml"
+            },
+            {
+              "name": "poedersuiker",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het frituren",
+          "ingredients": [
+            {
+              "name": "plantaardige olie",
+              "amount": "1–1,5 l"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "poedersuiker",
+              "amount": "50 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Gist activeren",
+          "description": "Meng de lauwwarme melk met de gist in een kopje en laat 10 minuten staan tot het begint te schuimen."
+        },
+        {
+          "action": "Deeg kneden",
+          "description": "Meng in een kom het ei, de eidooiers en de zachte boter. Voeg het zout, de vanillesuiker, de citroenrasp, de bloem en het gist-melkmengsel toe. Meng goed, stort op een bebloemd werkvlak en kneed tot een gladde, elastische en licht glanzende deegbal."
+        },
+        {
+          "action": "Eerste keer rijzen",
+          "description": "Vorm het deeg tot een bal en leg in een licht ingevette kom. Dek af met een keukendoek en laat rijzen tot het volume verdrievoudigd is. Heb je tijd? Druk na een uur rijzen de lucht er voorzichtig uit, dek af en zet een nacht in de koelkast — die koude, langzame fermentatie geeft aanzienlijk meer smaak en een luchtiger kruim. Haal het dan een half uur voor je verdergaat uit de koelkast om op temperatuur te komen."
+        },
+        {
+          "action": "Deeg uitrollen en steken",
+          "description": "Rol het deeg op een bebloemd werkvlak uit tot ongeveer 1 cm dik. Steek rondjes uit met een steker van 5 cm doorsnede en leg elk rondje op een stukje bakpapier."
+        },
+        {
+          "action": "Tweede keer rijzen",
+          "description": "Dek de rondjes af met een keukendoek en laat ongeveer 1 uur rusten tot ze zichtbaar luchtiger zijn geworden."
+        },
+        {
+          "action": "Crème pâtissière maken",
+          "description": "Verwarm de melk met het vanillestokje tot bijna kokend. Klop ondertussen de eidooiers met de suiker en de maizena tot een glad mengsel. Giet al roerend een deel van de hete melk bij het eiermengsel om te temperen, giet dit terug in de pan en verwarm al roerend tot de room dikt en enkele keren opborrelt. Haal van het vuur, roer de boter erdoor, en giet in een schaal. Dek af met plasticfolie die het oppervlak raakt en laat volledig afkoelen in de koelkast."
+        },
+        {
+          "action": "Vulling afmaken",
+          "description": "Klop de afgekoelde crème pâtissière glad. Klop de slagroom met de poedersuiker lobbig en vouw voorzichtig door de room — niet te lang mengen, de crème moet luchtig blijven. Doe in een spuitzak met een spuitmondje van 1 cm en zet koud tot gebruik."
+        },
+        {
+          "action": "Frituren",
+          "description": "Verhit de olie tot 170-175°C. Leg de beignets, mét het bakpapier er nog onder, voorzichtig in de hete olie. Na een paar seconden laat het papier vanzelf los — verwijder het op dat moment. Bak circa 2 minuten per kant tot overal goudbruin. Werk in kleine porties zodat de olietemperatuur niet te veel zakt. Laat uitlekken op keukenpapier en laat volledig afkoelen voor je ze vult."
+        },
+        {
+          "action": "Vullen en afwerken",
+          "description": "Prik met het spuitmondje van de zijkant in elke beignet en spuit royaal vanilleroom naar binnen tot je voelt dat de beignet mooi gevuld is. Bestrooi vlak vóór serveren rijkelijk met poedersuiker."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg de beignets los tegen elkaar aan op een grote schaal of houten plank — niet strak op een rij, maar zoals ze er in een goede patisserie uit zouden zien. Laat de romige vulling bij een paar exemplaren net zichtbaar zijn aan het vulgaatje. Een royale laag poedersuiker, vlak voor serveren aangebracht, maakt het beeld compleet."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Gegist deeg geeft een compleet andere textuur dan een gewone cakebeslag-donut: luchtig, met een zachte, bijna brioche-achtige kruim. Een nacht koud laten rijzen versterkt dat effect nog verder — de langzame fermentatie ontwikkelt meer smaak en een fijnere kruimstructuur dan een snelle rijs op kamertemperatuur. Het bakpapier-trucje houdt de ronde vorm intact op het kritieke moment dat het delicate deeg de hete olie raakt. En de vulling is geen gewone banketbakkersroom, maar een crème diplomate: room die je optilt door er opgeklopte slagroom doorheen te vouwen, waardoor hij lichter en luchtiger wordt in plaats van dicht en zwaar. Het resultaat is een beignet die vanbuiten knapperig-goudbruin is, vanbinnen zacht en luchtig, en gevuld met een room die smelt in plaats van plakt."
+        }
+      ],
+      "chef_tip": "Variatievulling: vervang de vanilleroom door chocoladeganache, appelmoes of jam van je keuze.\n\nBloemkeuze: Sterke broodbloem (Manitoba-type) geeft een net iets luchtiger, elastischer deeg dan gewone bloem — te vinden bij een goede bakkerijwinkel, maar zeker geen must.\n\nOlietemperatuur: Gebruik een thermometer voor de olie. Te koude olie maakt de beignets vet en zwaar, te hete olie verbrandt de buitenkant voordat de binnenkant gaar is.\n\nAfkoelen voor het vullen: Laat de beignets volledig afkoelen voor je ze vult — zo blijft de crème stevig en mooi in plaats van weg te smelten.\n\nVultechniek: Spuit de room vanaf de zijkant naar binnen, niet van bovenaf — dat voorkomt scheuren in het deeg en verdeelt de vulling gelijkmatiger.\n\nInvriezen: ongevulde, afgekoelde beignets kunnen enkele weken in de vriezer, kort opwarmen in de oven en dan pas vullen.\n\nVers serveren: Eet ze het liefst dezelfde dag — dan zijn ze op hun allerlekkerst, luchtig vanbinnen en nog knapperig vanbuiten.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Vouvray moelleux (Chenin Blanc, halfzoet)",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Honing, kweepeer, abrikoos en een levendige, bijna knisperende zuurgraad die de zoetheid in balans houdt.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "deze Loire-wijn is een klassieke Franse metgezel bij banketbakkersroom en gefrituurd gebak — de honingachtige rijkdom weerspiegelt de vanilleroom, terwijl de frisse zuren voorkomen dat het geheel te zoet wordt."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Sauternes",
+          "druif": "Sémillon",
+          "smaakprofiel": "Honingzoet, met tonen van abrikoos, gedroogd fruit en een rijke, bijna oliige textuur dankzij de edele rotting van de druiven.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "dit is dé klassieke Franse pairing bij custard en banketbakkersroom — de honingachtige rijkdom van Sauternes weerspiegelt de romige vulling, terwijl de onderliggende zuren voorkomen dat het geheel te zwaar wordt."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Crémant de Loire demi-sec",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Zacht mousserend, licht zoet, met appel, peer en een frisse, feestelijke afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een betaalbare, vrolijke metgezel — de zachte mousse snijdt mooi door de romige vulling, en de lichte zoetheid past bij de poedersuiker zonder te overheersen."
+        }
+      ]
+    },
+    {
+      "title": "Het perfecte ei met rösti, Comté-crème en kaviaar",
+      "slug": "perfect-ei-rosti-comte-creme-kaviaar",
+      "location": "Jura, Frankrijk",
+      "time": "45 min voorbereiding + 1 uur bereiding (grotendeels wachttijd voor het ei)",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/perfect-ei-rosti-comte-creme-kaviaar.jpg",
+      "short_description": "Een perfect 63-gradenei op een krokante mini-rösti, omringd door luchtige Comté-crème en afgewerkt met kaviaar en bieslookolie.",
+      "description": "Het 63-gradenei is inmiddels overal te vinden, meestal aangekleed met een moleculair schuimpje of poeder om 'modern' te voelen. Dit gerecht doet expres het tegenovergestelde: geen trucs, maar de meest bewezen combinatie uit de keukengeschiedenis — aardappel en ei — precies uitgevoerd. Een krokante mini-rösti draagt de dooier, een luchtige Comté-crème omringt hem, en een lepeltje kaviaar tilt het geheel naar iets dat zowel Michelinwaardig als volstrekt herkenbaar is.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het ei",
+          "ingredients": [
+            {
+              "name": "grote, zeer verse eieren, op kamertemperatuur",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de rösti",
+          "ingredients": [
+            {
+              "name": "grote vastkokende aardappelen (bijv. Agria), geschild",
+              "amount": "2"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "roomboter",
+              "amount": "1 el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de Comté-crème",
+          "ingredients": [
+            {
+              "name": "room",
+              "amount": "100 ml"
+            },
+            {
+              "name": "melk",
+              "amount": "50 ml"
+            },
+            {
+              "name": "Comté, fijn geraspt",
+              "amount": "80 g"
+            },
+            {
+              "name": "blaadje gelatine",
+              "amount": "1"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de bieslookolie",
+          "ingredients": [
+            {
+              "name": "fijngesneden bieslook",
+              "amount": "3 el"
+            },
+            {
+              "name": "milde olijfolie of neutrale olie",
+              "amount": "4 el"
+            },
+            {
+              "name": "oude sherryazijn of witte balsamico",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "mespuntje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de beurre noisette",
+          "ingredients": [
+            {
+              "name": "roomboter",
+              "amount": "30 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "Oscietra kaviaar (10 g per persoon)",
+              "amount": "40 g"
+            },
+            {
+              "name": "tuinkers",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "extra fijne bieslookflinters",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Ei sous-vide garen",
+          "description": "Verwarm een waterbad tot precies 63°C. Leg de eieren, nog in hun schaal, voorzichtig in het water en laat exact 1 uur garen op constante temperatuur."
+        },
+        {
+          "action": "Bieslookolie maken",
+          "description": "Blend de bieslook met de olie tot een felgroene olie. Zeef door een fijne zeef voor een helder resultaat. Roer er pas ná het zeven de sherryazijn en het snufje zout doorheen — dat zuuraccent zorgt ervoor dat het rijke geheel straks niet plat aanvoelt, terwijl je het niet als aparte \"zure saus\" proeft."
+        },
+        {
+          "action": "Comté-crème maken",
+          "description": "Week de gelatine in koud water. Verwarm room en melk tot net onder de kook. Haal van het vuur en roer de Comté erdoor tot volledig gesmolten en glad. Knijp de gelatine uit en roer erdoor tot opgelost. Zeef voor extra gladheid, breng op smaak met zout en witte peper, en laat afkoelen tot lauw (of kort in de koelkast). Klop met een garde of staafmixer luchtig op tot een mousse-achtige crème die net stevig genoeg is om te scheppen, maar niet stijf."
+        },
+        {
+          "action": "Rösti bakken",
+          "description": "Rasp de aardappelen grof en spoel ze onder koud stromend water tot het water helder wegloopt — dat spoelt overtollig zetmeel weg en geeft een krokanter resultaat. Knijp het aardappelrasp zo droog mogelijk uit in een schone theedoek en bestrooi met zout. Vorm vier compacte mini-rösti's van ongeveer 6 cm doorsnede. Verhit de boter en olie in een koekenpan op middelhoog vuur en bak de rösti's 3-4 minuten per kant tot diep goudbruin en krokant."
+        },
+        {
+          "action": "Beurre noisette maken",
+          "description": "Smelt de boter in een steelpannetje tot hij een nootachtige geur krijgt en lichtbruine spikkeltjes op de bodem verschijnen. Haal direct van het vuur."
+        },
+        {
+          "action": "Ei openbreken",
+          "description": "Haal de eieren voorzichtig uit het waterbad. Tik de schaal zacht kapot en pel voorzichtig open boven een lepel of je hand — het eiwit is zacht en gelei-achtig, dus laat het losse eiwit voorzichtig wegglijden zodat alleen de intacte, hele dooier overblijft."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Leg elke warme rösti in het midden van een klein bord of een diepe lepel. Schep of spuit de Comté-crème er luchtig omheen. Laat de dooier er voorzichtig op glijden. Lepel er 10 g kaviaar bovenop, druppel de bieslookolie eromheen, en laat een paar druppels beurre noisette erover lopen — niet veel, alleen voor de warme, nootachtige geur. Werk af met tuinkers, extra bieslookflinters en een korrel fleur de sel. Serveer direct."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer op een klein bord of in een diepe lepel, zodat elke hap alle elementen in één keer bevat. Laat de dooier duidelijk zichtbaar bovenop de rösti liggen, glanzend en intact, met de Comté-crème er als een lichte, luchtige rand omheen. De kaviaar bovenop, de bieslookolie als groene spikkels eromheen — het beeld moet stil en precies ogen, geen overdaad. Breek de dooier pas aan tafel open: dat moment, waarop hij langzaam over de rösti loopt en zich vermengt met de Comté-crème, is waar dit gerecht om draait."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Aardappel en ei zijn een combinatie die al honderd jaar bewijst dat ze bij elkaar horen — de rösti geeft niet alleen crunch maar ook een eigen, aardse smaak die met de dooier meebeweegt in plaats van er los naast te liggen. De Comté-crème is bewust geen hollandaise: lichter, luchtiger, en met een nootachtige, subtiele kaassmaak die perfect past bij ei, aardappel, kaviaar én bieslook, zonder ooit te overheersen zoals een stevigere Parmezaanse kaas zou doen. Kaviaar geeft de zilte, umami-rijke lepeltik die het geheel optilt. En het kleine zuuraccent in de bieslookolie — nauwelijks waarneembaar als \"zuur\", maar wel degelijk aanwezig — is wat voorkomt dat een gerecht met zoveel rijkdom (dooier, room, boter, Comté) na een paar happen plat gaat aanvoelen. De druppel beurre noisette op het einde bindt alles samen met een warme, nootachtige geur die de Comté nog verder optilt."
+        }
+      ],
+      "chef_tip": "Alternatieve methode: Geen sous-vide stick? Gebruik een grote pan water met een keukenthermometer, houd het vuur laag en controleer regelmatig of de temperatuur nog klopt.\n\nComté-crème met een sifon: heb je een iSi-sifon, dan kun je de afgekoelde crème daarin doen (2 patronen) voor een nog luchtiger, schuimigere textuur — lekker, maar zeker geen vereiste voor een geslaagd resultaat.\n\nVooruitwerken: de bieslookolie en de Comté-crème (nog niet opgeklopt) kunnen een dag vooraf gemaakt worden. Klop de crème pas vlak voor serveren luchtig op.\n\nRösti's vooraf vormen: je kunt de rösti's een paar uur vooraf vormen en koud wegzetten, dan pas vlak voor serveren bakken.\n\nKaviaar-alternatief: Geen Oscietra in huis of te prijzig? Forellenkaviaar of goede vissenkuit geeft een vergelijkbaar zilt accent voor een fractie van de prijs.\n\nTesten: Test eerst één ei. Breek het open om te checken of de textuur precies goed is voordat je de rest erbij doet.\n\nZoutbewust: Comté en kaviaar zijn beide al behoorlijk zout — proef de rösti en de crème apart voor je bijzout.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Blanc de Blancs",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Chardonnay-champagne met witte bloesem, groene appel en krijt, een fijne, aanhoudende mousse en een strakke, bijna elektrische mineraliteit in de afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de klassieke, haast onvermijdelijke metgezel van kaviaar — de fijne mousse snijdt precies door de romigheid van dooier en Comté-crème, terwijl de mineraliteit de zilte pop van de kaviaar weerspiegelt in plaats van ermee te concurreren."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Jura Chardonnay of Savagnin (oxidatieve \"sous voile\"-stijl)",
+          "druif": "Savagnin",
+          "smaakprofiel": "Nootachtig, met tonen van geroosterde amandel, gedroogde appel en een bijna sherry-achtige, umami-rijke ondertoon.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "dit is de wijn uit dezelfde streek als Comté zelf — Jura-wijnen en Comté-kaas groeiden letterlijk samen op in dezelfde regionale traditie. De nootachtige, oxidatieve stijl weerspiegelt de Comté-crème en de beurre noisette bijna één op één."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Crémant du Jura Brut",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Fris, droog, met appel, citrus en een fijne, feestelijke mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "dezelfde regionale verwantschap met Comté als de Jura-witte wijn hierboven, maar toegankelijker en feestelijker door de mousse — die snijdt mooi door de rijkdom van dooier en room."
+        }
+      ]
     }
   ]
 }
