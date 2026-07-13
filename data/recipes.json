@@ -69321,6 +69321,276 @@
           "waarom_werkt_dit": "dezelfde regionale verwantschap met Comté als de Jura-witte wijn hierboven, maar toegankelijker en feestelijker door de mousse — die snijdt mooi door de rijkdom van dooier en room."
         }
       ]
+    },
+    {
+      "title": "De allerbeste spareribs uit de oven met umami-lak en bite",
+      "slug": "spareribs-oven-umami-lak",
+      "location": "Verenigde Staten",
+      "time": "30 min voorbereiding + 4-6 uur pekelen + 1 uur drogen + 3 uur bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/spareribs-oven-umami-lak.jpg",
+      "short_description": "Gepekeld voor sappigheid, langzaam gegaard tot precies het punt waarop competitie-BBQ-jury's ribs beoordelen, en afgewerkt met een glanzende lak van hoisin, gochujang en sesamolie. Restaurantwaardig, en met precies genoeg weerstand bij elke hap.",
+      "description": "In de competitieve Amerikaanse BBQ-wereld bestaat er één gouden standaard waarmee professionele jury's ribs beoordelen: de \"bite test\" — een hap waarbij de afdruk van je tanden schoon in het vlees blijft staan, zonder dat er los vlees vanaf glijdt. Dit recept mikt precies op dat punt, met drie technieken die elkaar versterken: een pekel die het vlees vanbinnen sappig houdt, een droogtijd die zorgt voor een betere korst, en een diepe, umami-rijke lak van hoisin, gochujang, sesamolie en vijfkruiden naast de klassieke BBQ-basis, die op het laatst tot een glanzende, stroperige laag inkookt. Geen moes. Wel bite, wel diepte, wel glans.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de ribs",
+          "ingredients": [
+            {
+              "name": "vlezige spareribs (bij voorkeur Iberico of dikbevleesde ribs), vlies aan de achterkant verwijderd",
+              "amount": "1,5–2 kg"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de pekel",
+          "ingredients": [
+            {
+              "name": "koud water",
+              "amount": "2 l"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "100 g"
+            },
+            {
+              "name": "lichtbruine basterdsuiker",
+              "amount": "60 g"
+            },
+            {
+              "name": "jeneverbessen",
+              "amount": "8"
+            },
+            {
+              "name": "laurierbladeren",
+              "amount": "2"
+            },
+            {
+              "name": "zwarte peperkorrels",
+              "amount": "12"
+            },
+            {
+              "name": "gekneusde knoflooktenen",
+              "amount": "5"
+            },
+            {
+              "name": "verse gember, in plakjes",
+              "amount": "30 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de dry rub",
+          "ingredients": [
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zoet paprikapoeder",
+              "amount": "2 tl"
+            },
+            {
+              "name": "knoflookpoeder",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "uienpoeder",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "mosterdpoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gemalen korianderzaad",
+              "amount": "½ tl"
+            },
+            {
+              "name": "komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "Chinese vijfkruiden",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "fijne bruine suiker",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het braden in folie",
+          "ingredients": [
+            {
+              "name": "appelsap",
+              "amount": "50 ml"
+            },
+            {
+              "name": "roomboter",
+              "amount": "30 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de umami-lak",
+          "ingredients": [
+            {
+              "name": "hoisinsaus",
+              "amount": "4 el"
+            },
+            {
+              "name": "ketchup",
+              "amount": "2 el"
+            },
+            {
+              "name": "(kastanje)honing",
+              "amount": "2 el"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "2 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "Worcestersaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gochujang",
+              "amount": "1 tl"
+            },
+            {
+              "name": "tenen knoflook, geraspt",
+              "amount": "2"
+            },
+            {
+              "name": "verse gember, geraspt",
+              "amount": "20 g"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "PX-sherry (Pedro Ximénez), optioneel voor extra diepte",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterd sesamzaad",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijngesneden bosui",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "geroosterde sesamolie",
+              "amount": "paar druppels"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlies verwijderen",
+          "description": "Wrik met een botte mes de rand van het vlies aan de achterkant van de ribs los, pak het beet met keukenpapier voor grip, en trek het er in één beweging af."
+        },
+        {
+          "action": "Pekelen",
+          "description": "Los zout en suiker op in het koude water, voeg jeneverbessen, laurier, peperkorrels, knoflook en gember toe. Leg de ribs volledig onder in de pekel en zet 4-6 uur in de koelkast."
+        },
+        {
+          "action": "Spoelen en drogen",
+          "description": "Spoel de ribs kort af, dep volledig droog, en laat minimaal 1 uur onafgedekt in de koelkast liggen — dat geeft straks een veel betere korst en een lak die beter hecht."
+        },
+        {
+          "action": "Rub inwrijven",
+          "description": "Meng alle rub-ingrediënten en wrijf rijkelijk in aan beide kanten van de ribs."
+        },
+        {
+          "action": "Langzaam garen",
+          "description": "Verwarm de oven voor op 140°C (boven-/onderwarmte voor een gelijkmatiger resultaat). Leg de ribs op aluminiumfolie, voeg de appelsap en boter toe, en vouw volledig dicht. Gaar 2,5-3 uur. Controleer vanaf 2 uur met een vleesthermometer tussen de botten: je mikt op 82-85°C. Een satéprikker moet er soepel ingaan als extra check — maar de rib mag nog niet uit elkaar vallen. Dat is precies de fout die de meeste mensen maken."
+        },
+        {
+          "action": "Lak maken",
+          "description": "Meng alle lak-ingrediënten (inclusief de PX-sherry als je die gebruikt) in een steelpan en laat 8 minuten zachtjes inkoken tot stroperig."
+        },
+        {
+          "action": "Afwerken",
+          "description": "Haal de ribs uit de folie, dep voorzichtig droog en laat 10 minuten uitdampen. Smeer rijkelijk met de lak. Zet de oven op 230°C en bak 10 minuten. Smeer opnieuw met lak en bak nog 5 minuten. Voor extra glans: de laatste minuut onder de grill, goed in de gaten houden."
+        },
+        {
+          "action": "Serveren",
+          "description": "Laat 5 minuten rusten. Bestrooi met sesamzaad, bosui en een paar druppels geroosterde sesamolie."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Snijd tussen de botten door en leg de ribs glanzend en donker gelakt op een houten plank. Laat de karamelrandjes zichtbaar zijn. Serveer met ingelegde komkommer, coleslaw met karnemelk, geroosterde maïskolf of frieten in ossenvet voor een compleet, restaurantwaardig bord."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De pekel trekt vocht en zout diep het vlees in, wat tijdens het lange garen voorkomt dat de ribs uitdrogen. Door daarna te drogen ontstaat een oppervlak waar de rub — en later de lak — veel beter aan hecht. De lage, gecontroleerde gaartemperatuur met boter en appelsap in gesloten folie geeft het collageen precies genoeg tijd om te smelten tot 82-85°C, het punt waarop vlees mals is zonder zijn structuur te verliezen. De umami-lak — hoisin, gochujang, donkere soja, sesamolie — geeft een gelaagde diepte die een gewone BBQ-saus niet heeft, en door in twee dunne lagen te lakken in plaats van één dikke, bouw je een glanzende, gelijkmatig gekarameliseerde korst op zonder te verbranden."
+        }
+      ],
+      "chef_tip": "Vooruitwerken: rub en lak kunnen dagen vooraf gemaakt worden. De pekel zet je de avond ervoor op.\n\nMichelin-upgrade: vervang de gewone honing door kastanjehoning en voeg 1 el PX-sherry toe aan de lak — geeft een diepte van rozijn, karamel en koffie zonder dat de saus te zoet wordt.\n\nThermometer-alternatief: Geen kernthermometer? De satéprikkertest werkt als noodoplossing, maar is minder precies — investeer in een instant-read thermometer als je dit vaker maakt.\n\nLak-consistentie: Kook de lak echt tot stroperig in — een dunne saus loopt meteen van de ribs af in plaats van te hechten.\n\nOven-instelling: Gebruik boven-/onderwarmte in plaats van hetelucht voor een gelijkmatiger garing.\n\nLaten rusten: Laat de ribs na het lakken 5 minuten rusten voordat je aansnijdt, zodat het sap zich herverdeelt.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Zinfandel (Lodi, Californië)",
+          "druif": "Zinfandel",
+          "smaakprofiel": "Rijp, jammig donker fruit — bosbes, pruim, ingekookte kers — met een kruidige, bijna peperige ondertoon en een volle, warme body met zachte tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "het jammige, kruidige karakter weerspiegelt de zoet-hartige umami-lak bijna letterlijk, en de zachte tannines botsen niet met het vet van de ribs."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Elzasser Gewürztraminer (halfdroog)",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Aromatisch, lychee, rozenblaadje, kruidig, volle body met een frisse afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de gochujang, gember en vijfkruiden in de lak vragen om precies dit soort aromatische, licht zoete witte wijn — een klassieke pairing bij Aziatisch-geïnspireerde kruidigheid die hier, tussen de zware rode wijnen, ook echt voor afwisseling zorgt."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Amerikaanse amber ale of IPA",
+          "druif": "Bier",
+          "smaakprofiel": "Karameltonen bij een amber ale, of citrus en hars bij een IPA, beide met een verfrissende koolzuurprikkeling.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "bier en ribs zijn een beproefde combinatie — de karameltonen weerspiegelen de lak, terwijl de hopbitterheid van een IPA een fris, snijdend contrast geeft tegen de rijkdom van het vlees."
+        }
+      ]
     }
   ]
 }
