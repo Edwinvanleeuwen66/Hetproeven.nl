@@ -8076,15 +8076,6 @@
           "description": "leg de kip en groenten op warme tortillas. Schep een flinke lepel knoflookyoghurt erop, leg avocado erbij en knijp een partje limoen erover. Bestrooi met verse koriander."
         }
       ],
-      "tips": [
-        "marineer minstens 30 minuten — een uur geeft merkbaar meer smaak. Gebruik kippendij in repen, niet kipfilet: de marinade trekt er volledig doorheen én elk stukje karameliseert aan alle kanten.",
-        "Techniek: bak de kip in twee porties als nodig — een volle pan stoomt en bakt niet. Laat de kip 2 minuten liggen voor je roert: karamelisatie geeft diepte die roeren onmogelijk maakt.",
-        "Presentatie: serveer direct uit de pan in warme tortillas — fajita's wachten op niemand. De sizzle en de geur zijn deel van de ervaring.",
-        "Variatie: voeg een halve theelepel chipotle-poeder toe aan de marinade voor een rokerig karakter dat de paprika's en ui aanvult, of gebruik ancho-poeder voor een aardsere, mildere hitte.",
-        "Alternatief: geen verse limoensap? Gebruik de helft citroensap en de helft sinaasappelsap — de combinatie geeft dezelfde citrusfrisheid met een lichte zoetheid die de marinade interessanter maakt.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
       "wines": [
         {
           "type": "aanbevolen",
@@ -8111,21 +8102,7 @@
           "waarom_werkt_dit": "De frisse zuren en lichte body van Gamay houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen."
         }
       ],
-      "wine": {
-        "naam": "Albariño",
-        "druif": "Albariño",
-        "toelichting": "De minerale frisheid en uitgesproken citrusfrisheid van een Galicische Albariño snijden feilloos door de rokerige marinade en het vet van de kip. De ziltachtige mineraliteit van de Albariño sluit aan op het gerookt paprikapoeder en de chipotle in de marinade, terwijl de citrusachtige afdronk naadloos aansluit bij het limoensap. Serveer ijskoud op 8°C.",
-        "alternatief": "Droge Chenin Blanc of een glas Cava Brut — even fris en even goed bij de zuurheid van de limoenmarinade"
-      },
-      "tips_full": [
-        "marineer minstens 30 minuten — een uur geeft merkbaar meer smaak. Gebruik kippendij in repen, niet kipfilet: de marinade trekt er volledig doorheen én elk stukje karameliseert aan alle kanten.",
-        "Techniek: bak de kip in twee porties als nodig — een volle pan stoomt en bakt niet. Laat de kip 2 minuten liggen voor je roert: karamelisatie geeft diepte die roeren onmogelijk maakt.",
-        "Presentatie: serveer direct uit de pan in warme tortillas — fajita's wachten op niemand. De sizzle en de geur zijn deel van de ervaring.",
-        "Variatie: voeg een halve theelepel chipotle-poeder toe aan de marinade voor een rokerig karakter dat de paprika's en ui aanvult, of gebruik ancho-poeder voor een aardsere, mildere hitte.",
-        "Alternatief: geen verse limoensap? Gebruik de helft citroensap en de helft sinaasappelsap — de combinatie geeft dezelfde citrusfrisheid met een lichte zoetheid die de marinade interessanter maakt.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ]
+      "chef_tip": "Variatie: voeg een halve theelepel chipotle-poeder toe aan de marinade voor een rokerig karakter dat de paprika's en ui aanvult, of gebruik ancho-poeder voor een aardsere, mildere hitte.\n\nAlternatief: geen verse limoensap? Gebruik de helft citroensap en de helft sinaasappelsap — de combinatie geeft dezelfde citrusfrisheid met een lichte zoetheid die de marinade interessanter maakt.\n\nRusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.\n\nBalans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter.\n\nVleeswissel: gebruik in plaats van kip dunne reepjes biefstuk of entrecote. Kruid en marineer ze kort — maximaal 30 minuten, langer heeft bij rood vlees weinig zin — en schroei ze kort in een gloeiend hete pan tot mooi gekarameliseerd vanbuiten en nog rosé vanbinnen."
     },
     {
       "title": "Sambal Goreng Udang Peteh — amuseversie in passievrucht",
@@ -69589,6 +69566,145 @@
           "smaakprofiel": "Karameltonen bij een amber ale, of citrus en hars bij een IPA, beide met een verfrissende koolzuurprikkeling.",
           "omschrijving": "",
           "waarom_werkt_dit": "bier en ribs zijn een beproefde combinatie — de karameltonen weerspiegelen de lak, terwijl de hopbitterheid van een IPA een fris, snijdend contrast geeft tegen de rijkdom van het vlees."
+        }
+      ]
+    },
+    {
+      "title": "Spaghetti all'assassina (moordenaarsspaghetti) uit Bari",
+      "slug": "spaghetti-assassina-moordenaarsspaghetti",
+      "location": "Bari, Italië",
+      "time": "10 min voorbereiding + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/spaghetti-assassina-moordenaarsspaghetti.jpg",
+      "short_description": "Droge spaghetti, eerst droog geroosterd en dan rechtstreeks in een gloeiend hete pan gegaard met steeds een scheutje pittige tomatenbouillon, tot er een verbrande, knapperige korst ontstaat. Geen fout, maar precies waar Bari al meer dan vijftig jaar trots op is.",
+      "description": "In 1967, in het restaurant Al Sorso Preferito in het centrum van Bari, kregen twee gasten uit Noord-Italië een bord spaghetti voorgeschoteld met zoveel pepertjes erdoor dat ze naar adem hapten. Grappend beschuldigden ze de chef ervan hen te willen vermoorden — een assassino — en de naam bleef hangen: spaghetti all'assassina werd de trots van een hele stad. Wat het gerecht daarna pas echt legendarisch maakte, is een techniek die niets te maken heeft met hoe je normaal pasta kookt: de droge, ongekookte spaghetti gaat rechtstreeks de hete pan in, roostert daar eerst even droog, en wordt vervolgens beetje bij beetje gevoed met kokendhete tomatenbouillon, precies zoals je een risotto zou maken — tot er een donkere, bijna verbrande korst ontstaat.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tomatenbouillon",
+          "ingredients": [
+            {
+              "name": "gepelde tomaten uit blik, of tomatenpassata",
+              "amount": "500 g"
+            },
+            {
+              "name": "tomatenpuree (concentraat)",
+              "amount": "2 el"
+            },
+            {
+              "name": "water (extra achter de hand als de bouillon te snel verdampt)",
+              "amount": "600–750 ml"
+            },
+            {
+              "name": "suiker",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de spaghetti",
+          "ingredients": [
+            {
+              "name": "gladde spaghetti (geen bronzen matrijs-pasta)",
+              "amount": "350–400 g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "5 el"
+            },
+            {
+              "name": "tenen knoflook, in dunne plakjes",
+              "amount": "4"
+            },
+            {
+              "name": "rode pepers, fijngesneden (of ruim chilivlokken naar smaak)",
+              "amount": "1–2"
+            },
+            {
+              "name": "kleine ui, zeer fijn gesnipperd (optioneel, voor wie iets meer body wil)",
+              "amount": "1"
+            },
+            {
+              "name": "extra chilivlokken, om erbij te serveren",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Optioneel, voor een mildere afwerking",
+          "ingredients": [
+            {
+              "name": "klein bolletje burrata of een klodder stracciatella per portie",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Tomatenbouillon maken",
+          "description": "Pureer de tomaten grof met een staafmixer of prak ze met een vork. Meng met de tomatenpuree, het water en de suiker tot een dunne, felrode bouillon. Breng op smaak met zout, verwarm tot bijna kokend in een aparte pan, en houd warm naast je bereiding — koude bouillon stopt telkens het bakproces."
+        },
+        {
+          "action": "Olie en aromaten verhitten",
+          "description": "Verhit de olijfolie in een grote, liefst gietijzeren koekenpan op middelhoog tot hoog vuur. Fruit, als je de ui gebruikt, deze eerst kort glazig. Voeg de knoflook en chili toe en bak kort tot geurig — laat de knoflook niet bruin worden, dat maakt hem bitter."
+        },
+        {
+          "action": "Spaghetti droog roosteren",
+          "description": "Leg de droge, ongekookte spaghetti recht in de pan (breek de spaghetti eventueel doormidden als je pan te klein is). Laat hem ongeveer 2 minuten droog liggen zonder vloeistof en zonder te roeren — je hoort hem zachtjes sissen, en er mogen al lichte donkere plekken ontstaan. Dit eerste directe contact met de hete pan is waar de karakteristieke schroeikorst begint."
+        },
+        {
+          "action": "Risottatura",
+          "description": "Voeg vanaf nu beetje bij beetje, met een soeplepel, steeds een schep hete bouillon toe, precies zoals bij een risotto. Wacht telkens tot de spaghetti het meeste vocht heeft opgenomen voordat je de volgende schep toevoegt. Draai de spaghetti tussendoor af en toe met een tang, maar roer niet voortdurend — laat delen echt op de bodem liggen tot ze donker en licht verbrand worden."
+        },
+        {
+          "action": "Klaar wanneer",
+          "description": "Wanneer vrijwel al het vocht is opgenomen, laat je de pasta nog ongeveer 1 minuut rustig verder bakken zonder vloeistof toe te voegen — zo ontstaat de karakteristieke krokante onderkant. De spaghetti moet gaar zijn met een stevigere, taaiere bite dan gekookte pasta, met duidelijke donkere, gekarameliseerde plekken. Proef en pas zout of chili aan."
+        },
+        {
+          "action": "Direct serveren",
+          "description": "Verdeel meteen over warme borden — laat de spaghetti niet in de pan of in één grote gedeelde kom staan, de stoom maakt de knapperige structuur binnen enkele minuten slap."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Draai de spaghetti losjes op met een vork en tang en laat enkele krokante slierten bewust uitsteken. Geen saus eromheen, geen extra tomaten, geen bergen kaas — de schoonheid zit precies in de donkere, geroosterde randjes zelf. Voor wie de hitte wil temperen: een klodder burrata of stracciatella er middenin, die langzaam smelt in de warme pasta — een populaire, verzachtende variant in Bari zelf. In Bari zelf wordt het gerecht doorgaans zonder kaas gegeten; een beetje fijngeraspte Pecorino is niet traditioneel maar mag voor wie dat wil."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Normale pasta kook je in ruim, zout water — het zetmeel spoelt grotendeels weg, en de textuur blijft zacht en glad. Spaghetti all'assassina is eigenlijk een kruising tussen pasta en risotto: doordat de droge spaghetti langzaam een minimale hoeveelheid tomatenvocht opneemt, rechtstreeks op een hete metalen ondergrond, blijft het zetmeel juist aan de buitenkant zitten en karamelliseert het samen met de tomatenpuree. Dat geeft een bijna paradoxale textuur — knapperig aan de buitenkant, stevig van bite vanbinnen, met een diepe, geroosterde tomatensmaak die je nooit krijgt door pasta gewoon te koken en er daarna saus doorheen te scheppen. Het bewijst dat je met een handvol ingrediënten — geen room, geen boter, geen lange lijst — iets totaal unieks kunt maken. Alleen techniek."
+        }
+      ],
+      "chef_tip": "Pankeuze: Gietijzer is het beste, maar een zware, dikke roestvrijstalen pan werkt ook — vermijd een antiaanbaklaag, die voorkomt juist het aanbakken dat je nodig hebt.\n\nPastakeuze: Geen bronzen-matrijs pasta gebruiken. Dat klinkt tegenstrijdig (bronzen pasta wordt normaal juist aangeraden), maar hier geeft de extra zetmeelafgifte een plakkerige, minder krokante uitkomst.\n\nVoor een mildere versie: halveer de chili, en serveer met een klodder burrata of stracciatella erbij.\n\nRegionale varianten om later te proberen: assassina di rape (met broccoli rabe en stracciatella in plaats van tomaat) of assassina di mare (met inktvis en garnalen door de bouillon).\n\nVuur beheersen: Werk met de hitte, niet ertegen. Als de pan te heftig begint te roken, zet het vuur even iets lager — het moet sissen en schroeien, niet volledig verkolen.\n\nRestbouillon: Bouillon te veel over? Bewaar 'm gewoon, hij is ook heerlijk als basis voor een simpele tomatensoep.\n\nBouillon warm houden: Houd de bouillon constant heet naast de pan — koud vocht laten toevoegen stopt telkens het bak- en karamelliseerproces.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Primitivo di Manduria",
+          "druif": "Primitivo",
+          "smaakprofiel": "Rijp, donker fruit — pruim, kers, bosbes — met een kruidige, bijna peperige ondertoon en een volle, warme body met zachte tannines. Dezelfde druif als Zinfandel, maar dan van eigen Apulische bodem.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "dit is de lokale wijn van Bari's eigen streek, en de rijpe, kruidige diepte staat moeiteloos tegen zowel de chili-hitte als de geroosterde, bijna verbrande tomatensmaak van het gerecht."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Nero di Troia",
+          "druif": "Nero di Troia",
+          "smaakprofiel": "Steviger gestructureerd dan Primitivo, met donker bessenfruit, leer, een stevige tanninegreep en een kruidige, aardse ondertoon.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "ook een Apulische druif, met net iets meer grip en structuur — de stevigere tannines houden goed stand tegen de rokerige, gekarameliseerde randjes van de spaghetti."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cerasuolo d'Abruzzo",
+          "druif": "Montepulciano",
+          "smaakprofiel": "Stevige, donkerkleurige rosé van de Montepulciano-druif, met aardbei, kers en een kruidige ondertoon.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "fris genoeg om het gerecht licht te houden, maar met genoeg body en fruit om de intense, pittige tomatensmaak te begeleiden — een toegankelijke, verrassend serieuze metgezel."
         }
       ]
     }
