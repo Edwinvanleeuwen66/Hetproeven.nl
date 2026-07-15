@@ -69707,6 +69707,231 @@
           "waarom_werkt_dit": "fris genoeg om het gerecht licht te houden, maar met genoeg body en fruit om de intense, pittige tomatensmaak te begeleiden — een toegankelijke, verrassend serieuze metgezel."
         }
       ]
+    },
+    {
+      "title": "Gebakken gevulde eieren (Œufs Jeannette) met boterprei en Noilly-mosterdsaus",
+      "slug": "gebakken-gevulde-eieren-oeufs-jeannette",
+      "location": "Frankrijk",
+      "time": "35 min voorbereiding + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/gebakken-gevulde-eieren-oeufs-jeannette.jpg",
+      "short_description": "Gevulde eieren, dichtgeschroeid tot een goudbruine korst, op een bedje van boterzachte prei met een rijke Noilly-mosterdsaus. Hetzelfde familietrucje van chef Pépins moeder, nu als volwaardig voorgerecht.",
+      "description": "Jacques Pépins moeder Jeannette maakte, in het eierrijke, vleesarme naoorlogse Frankrijk, gevulde eieren op een manier die hij nergens anders is tegengekomen: niet koud geserveerd, maar met de gevulde kant naar beneden dichtgeschroeid tot een goudbruine korst, en warm opgediend met een pittige mosterddressing. Pépin doopte het gerecht naar haar. Deze versie tilt het familietrucje naar een volwaardig voorgerecht — boterzachte prei eronder, een rijke Noilly-mosterdsaus ernaast — zonder ooit die karakteristieke korst los te laten.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de eieren",
+          "ingredients": [
+            {
+              "name": "grote eieren",
+              "amount": "8"
+            },
+            {
+              "name": "tenen knoflook, zeer fijn geperst of geraspt",
+              "amount": "2"
+            },
+            {
+              "name": "verse peterselie, fijngehakt",
+              "amount": "2 el"
+            },
+            {
+              "name": "volle melk",
+              "amount": "2 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen witte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie of roomboter, om te bakken",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de boterprei",
+          "ingredients": [
+            {
+              "name": "dunne preien, in zeer fijne ringen",
+              "amount": "2"
+            },
+            {
+              "name": "roomboter",
+              "amount": "30 g"
+            },
+            {
+              "name": "slagroom",
+              "amount": "75 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de Noilly-mosterdsaus (de luxe-optie)",
+          "ingredients": [
+            {
+              "name": "sjalot, zeer fijn gesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "Noilly Prat",
+              "amount": "50 ml"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "50 ml"
+            },
+            {
+              "name": "kippenbouillon",
+              "amount": "200 ml"
+            },
+            {
+              "name": "slagroom",
+              "amount": "125 ml"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "2 tl"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "citroensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de snelle mosterddressing (het originele alternatief)",
+          "ingredients": [
+            {
+              "name": "achtergehouden eierdooiermengsel",
+              "amount": "2–3 tl"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 el"
+            },
+            {
+              "name": "water",
+              "amount": "1 el"
+            },
+            {
+              "name": "witte wijnazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "3 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de garnering",
+          "ingredients": [
+            {
+              "name": "bieslooksprieten",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "kervel",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Eieren koken",
+          "description": "Leg de eieren in een pannetje en bedek met kokend water. Breng terug aan een heel zachte kook en laat 9-10 minuten zachtjes koken. Giet af en schud de eieren kort in de droge pan om de schalen te barsten. Leg 15 minuten in ijswater om af te koelen, pel onder koud stromend water en snijd in de lengte doormidden."
+        },
+        {
+          "action": "Vulling maken",
+          "description": "Haal de dooiers voorzichtig uit de eiwitten. Prak ze met een vork grof samen met knoflook, peterselie, melk, zout en peper — voor een gladdere vulling kun je dit ook kort in een keukenmachine draaien, al is de originele, iets grovere structuur karakteristieker voor het familierecept. Houd 2-3 theelepels apart voor de snelle dressing, mocht je die maken."
+        },
+        {
+          "action": "Boterprei stoven",
+          "description": "Smelt de boter in een pan en stoof de prei op laag vuur ongeveer 8 minuten — hij mag absoluut niet kleuren. Voeg de room toe en laat nog 5 minuten zacht inkoken. Breng op smaak met zout en witte peper."
+        },
+        {
+          "action": "Noilly-mosterdsaus maken, indien gebruikt",
+          "description": "Fruit de sjalot zacht in de boter. Voeg de Noilly Prat toe en laat bijna volledig inkoken. Voeg de witte wijn toe en laat opnieuw bijna droog koken. Voeg de kippenbouillon toe en laat inkoken tot ongeveer de helft. Voeg de room toe en laat zacht inkoken tot licht gebonden. Roer de Dijonmosterd erdoor, zeef de saus, en monteer vlak voor serveren met de koude boter. Breng op smaak met een paar druppels citroensap. Niet meer laten koken."
+        },
+        {
+          "action": "Eieren vullen",
+          "description": "Schep de vulling terug in de holtes van de eiwitten."
+        },
+        {
+          "action": "Bakken",
+          "description": "Verhit de olie of boter in een antiaanbakpan op middelhoog vuur. Leg de eieren met de gevulde kant naar beneden in de pan en bak 2-3 minuten zonder te verplaatsen, tot de vulling een mooie goudbruine korst heeft."
+        },
+        {
+          "action": "Serveren",
+          "description": "Verdeel een lepel boterprei over elk warm bord. Leg de eieren erop, met de goudbruine korst zichtbaar naar boven. Lepel de Noilly-mosterdsaus eromheen, of — voor de snellere, meer authentieke route — de simpele mosterddressing. Werk af met bieslook en kervel."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg de eieren met hun goudbruine korst goed zichtbaar op het bedje van boterprei, de saus er losjes omheen gelepeld, niet overgoten. Bieslook en kervel als laatste, frisse groene accenten. Precies genoeg opgetild ten opzichte van het originele familiegerecht om als volwaardig voorgerecht te dienen, zonder de herkenbare kern te verliezen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Het hele punt van Œufs Jeannette is het contrast tussen een normaal koud, zacht gevuld ei en dit warme, krokant gebakken alternatief — door de gevulde kant rechtstreeks in een hete pan te schroeien, ontstaat een korst die een heel eigen textuur en gekarameliseerde diepte geeft. De boterzachte prei voegt substantie en een milde, zoete ondertoon toe, en de Noilly-mosterdsaus tilt het geheel naar restaurantniveau met haar kruidige, romige diepte — zonder ooit de kern van het gerecht (die korst, dat contrast) te overschaduwen."
+        }
+      ],
+      "chef_tip": "Kooktijd ei: Kook de eieren niet langer dan 9-10 minuten — zo blijven de dooiers mooi romig en makkelijk te prakken.\n\nVooruitwerken: de saus en de boterprei kunnen enkele uren vooraf gemaakt worden en rustig opgewarmd. De eieren bak je pas vlak voor serveren.\n\nTwee versies, één avond: maak de helft met de snelle mosterddressing en de helft met de Noilly-saus, en vergelijk zelf welke je het meest overtuigt.\n\nBakvet: Gebruik roomboter in plaats van neutrale olie om te bakken voor een net iets nootachtiger korstje.\n\nKruidvariatie: Vervang de peterselie eventueel door dragon voor een subtiel anijsaccent.\n\nErbij serveren: Serveer met dun geroosterd zuurdesembrood om de saus mee op te vegen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chablis",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Strakke, ongehoute Chardonnay met groene appel, citrus en een uitgesproken krijtige mineraliteit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de frisse zuren houden de romigheid van zowel de prei als de Noilly-saus perfect in balans, zonder het delicate ei te overweldigen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Champagne Blanc de Blancs",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Chardonnay-champagne met citrus, brioche-tonen en een fijne, aanhoudende mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de mousse geeft elegantie en frisheid, en tilt dit huiselijke gerecht moeiteloos naar een feestelijker register — precies passend bij de \"de luxe\"-uitvoering."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Mâcon-Villages",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Rijp wit fruit, een lichte boterigheid en een frisse afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een betaalbaardere Bourgondische Chardonnay die precies genoeg ronding heeft om bij de zachte roomsaus aan te sluiten, zonder de subtiliteit van het ei te overstemmen."
+        }
+      ]
     }
   ]
 }
