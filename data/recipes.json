@@ -69932,6 +69932,398 @@
           "waarom_werkt_dit": "een betaalbaardere Bourgondische Chardonnay die precies genoeg ronding heeft om bij de zachte roomsaus aan te sluiten, zonder de subtiliteit van het ei te overstemmen."
         }
       ]
+    },
+    {
+      "title": "Varkensschnitzel à la viennoise met gebruinde boter, citroen, ansjovis en mimosa-ei",
+      "slug": "varkensschnitzel-viennoise-gebruinde-boter-mimosa-ei",
+      "location": "Wenen, Oostenrijk",
+      "time": "30 min voorbereiding + 25 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "vlees",
+      "image": "/assets/images/varkensschnitzel-viennoise-gebruinde-boter-mimosa-ei.jpg",
+      "short_description": "Krokant gepaneerd varkensvlees met een luchtig-golvende korst, gebruinde boter en de klassieke Weense garnituur van citroen, olijf, ansjovis, ei en kappers.",
+      "description": "Een klassieke garnering uit de grote Franse hotelkeuken: geen saus, maar citroen, ansjovis, kappertjes en fijngehakt ei rondom een krokant gepaneerde schnitzel, afgemaakt met nootachtige gebruinde boter. Simpele ingrediënten die samen iets verrassend verfijnds vormen — de klassieke, ietwat theatrale stijl van de Franse vakschool, toegepast op de Weense schnitzel.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de gebakken aardappelen",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappelen",
+              "amount": "800 g"
+            },
+            {
+              "name": "geklaarde boter",
+              "amount": "40 g"
+            },
+            {
+              "name": "fijngehakte peterselie",
+              "amount": "2 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de schnitzels",
+          "ingredients": [
+            {
+              "name": "varkensfiletlapjes (150-180 g per stuk)",
+              "amount": "4"
+            },
+            {
+              "name": "bloem",
+              "amount": "75 g"
+            },
+            {
+              "name": "eiwit",
+              "amount": "1 dl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen witte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie (door het eiwit)",
+              "amount": "10 g"
+            },
+            {
+              "name": "fijn paneermeel",
+              "amount": "150 g"
+            },
+            {
+              "name": "zonnebloemolie, om te bakken",
+              "amount": "3 el"
+            },
+            {
+              "name": "roomboter, om te bakken",
+              "amount": "60 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de garnering",
+          "ingredients": [
+            {
+              "name": "hardgekookte eieren",
+              "amount": "2"
+            },
+            {
+              "name": "ansjovisfilets op olie",
+              "amount": "4"
+            },
+            {
+              "name": "kappertjes",
+              "amount": "40 g"
+            },
+            {
+              "name": "zwarte ontpitte olijven",
+              "amount": "4"
+            },
+            {
+              "name": "biologische citroen",
+              "amount": "1"
+            },
+            {
+              "name": "fijngehakte platte peterselie",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gebruinde boter",
+          "ingredients": [
+            {
+              "name": "roomboter",
+              "amount": "80 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Aardappelen koken en bakken",
+          "description": "Kook de aardappelen in de schil beetgaar in gezouten water. Laat iets afkoelen, pel ze en snijd in plakken van ongeveer 4 mm dik. Verhit de geklaarde boter en bak de plakken rustig goudbruin aan beide kanten. Bestrooi vlak voor serveren met zout en peterselie."
+        },
+        {
+          "action": "Garnering voorbereiden",
+          "description": "Kook de eieren hard, laat afkoelen en pel ze. Hak het eiwit en de eidooier apart zeer fijn, zodat er een duidelijk mimosa-effect ontstaat — twee gescheiden kleuren, niet vermengd. Spoel de kappertjes kort af en dep droog. Schil de citroen à vif (tot op het vruchtvlees, geen wit vlies mee) en snijd in flinterdunne schijfjes, verwijder eventuele pitten."
+        },
+        {
+          "action": "Schnitzels klaarmaken",
+          "description": "Leg de varkenslapjes tussen twee vellen bakpapier of plasticfolie en klop ze voorzichtig plat tot ongeveer 3 mm dik. Kruid beide kanten licht met zout en witte peper."
+        },
+        {
+          "action": "Paneren",
+          "description": "Wentel elk lapje door de bloem en klop overtollige bloem eraf. Klop het eiwit los met zout, peper en de olie, en haal de lapjes hierdoor. Druk ze tot slot niet te hard aan in het paneermeel — juist door het paneermeel losjes te laten liggen, kan de korst tijdens het bakken loskomen tot die karakteristieke, luchtig-golvende structuur."
+        },
+        {
+          "action": "Bakken",
+          "description": "Verhit de zonnebloemolie met de 60 g boter in een ruime koekenpan. Bak de schnitzels ongeveer 2,5 minuut per kant tot goudbruin. Beweeg de pan tijdens het bakken regelmatig heen en weer en schep voortdurend de hete boter over het vlees — dat souffleert de paneerlaag licht en maakt hem extra krokant en golvend. Laat kort uitlekken op keukenpapier."
+        },
+        {
+          "action": "Gebruinde boter maken",
+          "description": "Smelt de 80 g boter op middelhoog vuur tot hij licht hazelnootbruin kleurt en nootachtig ruikt. Haal direct van het vuur zodat hij niet verbrandt."
+        },
+        {
+          "action": "Opmaken",
+          "description": "Leg elke schnitzel op een warm bord. Plaats in het midden een dun schijfje citroen, daarop een losjes opgerolde ansjovisfilet met een zwarte olijf in het midden. Verdeel eromheen een krans van fijngehakt eiwit, eidooier, kappertjes en peterselie — in gescheiden bergjes, niet gemengd. Lepel de warme gebruinde boter rondom en gedeeltelijk over de schnitzel. Serveer direct met de gebakken aardappelen."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Dresseer op warme borden zodat de boter niet meteen stolt. De citroen-olijf-ansjovis in het midden van het vlees, de gescheiden bergjes eiwit, eidooier, kappertjes en peterselie er strak omheen — dat contrast van kleuren en losse elementen is precies de klassieke, ietwat theatrale Franse vakschoolstijl. De gouden, golvende korst moet goed zichtbaar blijven."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De schnitzel is krokant en boterig door de dubbele paneerlaag en de basting-techniek tijdens het bakken, terwijl de garnering voor precies de juiste tegenwicht zorgt: citroen geeft frisheid, ansjovis en kappertjes brengen zilt en umami, het mimosa-ei verzacht alles, en de gebruinde boter verbindt de smaken met haar warme, nootachtige aroma. Elk onderdeel van de garnering heeft een functie — niets is decoratie om de decoratie."
+        }
+      ],
+      "chef_tip": "Vleeswissel: Ook heerlijk met kalfsschnitzel voor een klassieke Wiener Schnitzel-variant.\n\nAardappelvariatie: Vervang de gebakken aardappelen eens door Pommes Anna voor een feestelijke versie.\n\nAls lunch: Ook heerlijk als luxe lunch met een spiegelei erbovenop.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Grüner Veltliner",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Peperig en kruidig, met groene appel, witte peper en een minerale, bijna stenige ondertoon. Droog en strak.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de Weense klassieker bij uitstek — de peperige kruidigheid sluit precies aan bij citroen, kappertjes en ansjovis, terwijl de frisheid de krokante, boterige schnitzel licht houdt."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Blanc (Elzas)",
+          "druif": "Pinot Blanc",
+          "smaakprofiel": "Rond, zacht, met rijpe appel en een subtiele amandeltoon, zonder scherpe zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de zachte, ronde structuur vindt een natuurlijke balans met de gebruinde boter, zonder de fijne garnering te overweldigen."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Lichtgekoelde Pinot Noir (Bourgogne)",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Subtiel rood fruit, weinig tannine, fris geserveerd rond 12-13°C.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een verrassend goede metgezel bij gepaneerd vlees — de lage tannine botst niet met de zilte garnering, en licht gekoeld blijft de wijn fris genoeg naast de boterige schnitzel."
+        }
+      ]
+    },
+    {
+      "title": "Krokante garnalenlava met romige garnalenbisque",
+      "slug": "krokante-garnalenlava-garnalenbisque",
+      "location": "Barcelona, Spanje",
+      "time": "1 uur voorbereiding + 3-4 uur invriezen + 10 min bereiding",
+      "servings": "4 personen (8 stuks)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/krokante-garnalenlava-garnalenbisque.jpg",
+      "short_description": "Een dubbel krokant gefrituurd bolletje garnalenmousse met een warme, vloeiende bisquekern. Bij het opensnijden stroomt de garnalensaus naar buiten — spectaculair om te zien, verrassend simpel om te maken.",
+      "description": "Disfrutar in Barcelona, gerund door drie voormalige El Bulli-chefs, is berucht om gerechten die niet zijn wat ze lijken. Deze thuisversie laat een krokant gefrituurd bolletje garnalenmousse bij het aansnijden een warme, romige bisque vrijgeven — geen sferificatie, alleen een vriezer en een hete frituurpan.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de garnalenbisque",
+          "ingredients": [
+            {
+              "name": "garnalenschalen en -koppen",
+              "amount": "200 g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "sjalot, grof gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, gekneusd",
+              "amount": "1"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "cognac (of Noilly Prat voor een kruidiger aroma)",
+              "amount": "2 el"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "water",
+              "amount": "300 ml"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "cayennepeper (of espelettepeper)",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de garnalenmousse",
+          "ingredients": [
+            {
+              "name": "rauwe garnalen, gepeld (bij voorkeur rode Argentijnse garnalen)",
+              "amount": "250 g"
+            },
+            {
+              "name": "garnalenbisque (zie boven)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "slagroom",
+              "amount": "125 ml"
+            },
+            {
+              "name": "blaadjes gelatine",
+              "amount": "2"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "25 g"
+            },
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "cayennepeper (of espelettepeper)",
+              "amount": "snufje"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de panerlaag",
+          "ingredients": [
+            {
+              "name": "bloem",
+              "amount": "75 g"
+            },
+            {
+              "name": "eieren, losgeklopt",
+              "amount": "2"
+            },
+            {
+              "name": "fijn panko",
+              "amount": "150 g"
+            },
+            {
+              "name": "frituurolie",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "bieslookolie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijngesneden bieslook",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijne citroenrasp",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bisque maken",
+          "description": "Verhit de olie en bak de garnalenschalen en -koppen op hoog vuur tot rood en geurig, ongeveer 5 minuten. Voeg sjalot en knoflook toe, bak 2 minuten mee. Roer de tomatenpuree erdoor, bak 1 minuut. Blus af met de cognac, laat inkoken. Voeg de witte wijn toe, laat grotendeels inkoken. Voeg water, paprikapoeder en cayenne toe en laat 20-25 minuten trekken tot een geconcentreerde fond. Zeef, druk goed uit."
+        },
+        {
+          "action": "Gelatine oplossen",
+          "description": "Week de gelatine 5 minuten in koud water. Breng 150 ml van de bisque aan de kook en haal van het vuur. Knijp de gelatine uit en los op in de hete bisque. Voeg de koude boter toe en roer tot glad. Laat afkoelen tot ongeveer 35°C."
+        },
+        {
+          "action": "Garnalen voorbereiden",
+          "description": "Snijd de helft van de garnalen in kleine blokjes van ongeveer 5 mm. Pureer de andere helft samen met de slagroom volledig glad in een keukenmachine — wrijf eventueel door een fijne zeef voor extra zijdezachtheid."
+        },
+        {
+          "action": "Mousse samenstellen",
+          "description": "Meng de garnalenpuree met de afgekoelde bisque-botermix, roer de eidooier erdoor, spatel de garnalenblokjes erdoor. Breng op smaak met citroensap, cayenne, zout en witte peper."
+        },
+        {
+          "action": "Vormen en invriezen",
+          "description": "Schep met twee (eventueel even in warm water gedompelde) lepels acht kleine quenelles van de mousse. Leg op bakpapier en vries volledig hard."
+        },
+        {
+          "action": "Dubbel paneren",
+          "description": "Haal de bevroren quenelles door de bloem, dan het losgeklopte ei, dan de panko. Herhaal de ei- en panko-stap voor een stevige, dubbele korst. Werk snel zodat de mousse bevroren blijft."
+        },
+        {
+          "action": "Frituren",
+          "description": "Verhit de olie tot 180-190°C. Frituur de quenelles tot goudbruin en krokant — de buitenkant moet krokant zijn terwijl de kern net warm en weer vloeibaar wordt."
+        },
+        {
+          "action": "Opmaak",
+          "description": "Trek een streep bieslookolie over het bord. Leg twee garnalenlava's schuin op de olie. Werk af met bieslook en citroenrasp. Serveer direct."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Een streep bieslookolie als basis, de gefrituurde bolletjes er schuin op, minimale garnering — bieslook en een beetje citroenrasp. Snijd er eentje voor het oog van je gasten doormidden zodat de warme bisque zichtbaar naar buiten stroomt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door een deel van de garnalen tot mousse te pureren en een deel grof te snijden, ontstaat zowel een zijdezachte als een sappige textuur. Eidooier en koude boter geven de mousse extra romigheid en binding. De gelatine maakt het mogelijk de quenelles stevig in te vriezen; tijdens het frituren wordt de kern weer warm en romig, terwijl de dubbele panko-korst ultrakrokant blijft. Het resultaat doet denken aan een chocolade-lavacake, maar dan hartig en vol diepe garnalensmaak."
+        }
+      ],
+      "chef_tip": "Schaaldierwissel: Ook heerlijk met langoustines in plaats van garnalen.\n\nErbij serveren: Serveer met een kleine salade van venkel en appel voor een fris contrast.\n\nOlie-variant: Een druppel kreeftenolie in plaats van bieslookolie geeft een nog diepere schaaldiersmaak.\n\nAls amuse: Maak mini-versies voor een luxe amuse.\n\nVooruitwerken: De mousse kan een dag vooraf gemaakt en ingevroren worden.\n\nAls hoofdgerecht: Ook lekker als hoofdgerecht, met een lichte bisque als saus ernaast.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chablis Premier Cru",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Strakke, ongehoute Chardonnay met groene appel, citrus en een uitgesproken krijtige mineraliteit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de minerale strakheid weerspiegelt de zilte diepte van de bisque, terwijl de frisse zuren de gefrituurde rijkdom in balans houden zonder de garnaal te overweldigen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Cava Brut",
+          "druif": "Cava-blend (Macabeo, Xarel·lo, Parellada)",
+          "smaakprofiel": "Droog, fris, met citrus, groene appel en een fijne, feestelijke mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een Catalaanse klassieker die bij de herkomst van dit gerecht past — de mousse snijdt door de krokante korst en past bij het speelse, theatrale karakter."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Verdejo (Rueda)",
+          "druif": "Verdejo",
+          "smaakprofiel": "Fris, kruidig, met citrus en een subtiele groene amandeltoon.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een betaalbare Spaanse witte wijn met genoeg frisheid om de rijkdom van de gefrituurde mousse te begeleiden zonder te overheersen."
+        }
+      ]
     }
   ]
 }
