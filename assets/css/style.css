@@ -356,8 +356,8 @@ a { color: inherit; text-decoration: none; }
 .back-btn:hover { color: #8A3A10; }
 
 .recipe-hero {
-  height: 420px !important;
-  max-height: 55vw !important;
+  height: 500px !important;
+  max-height: 60vw !important;
   background: var(--deep);
   background-size: cover;
   background-position: center;
