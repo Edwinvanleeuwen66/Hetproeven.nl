@@ -70324,6 +70324,524 @@
           "waarom_werkt_dit": "een betaalbare Spaanse witte wijn met genoeg frisheid om de rijkdom van de gefrituurde mousse te begeleiden zonder te overheersen."
         }
       ]
+    },
+    {
+      "title": "Koude visterrine van heek (Pastel de Heek) met salsa rosa",
+      "slug": "visterrine-heek-pastel-salsa-rosa",
+      "location": "San Sebastián, Spanje",
+      "time": "45 min voorbereiding + minimaal een nacht opstijven + 45-50 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/visterrine-heek-pastel-salsa-rosa.jpg",
+      "short_description": "Een zijdezachte, koude visterrine met een geconcentreerde visfond, room en citroen, geserveerd met klassieke salsa rosa — gebaseerd op het gerecht waar Arzak's beroemde cabracho-paté zelf weer een upgrade van was.",
+      "description": "Cabracho — een rotsvis vol giftige stekels, ooit alleen goed genoeg voor vissersbouillon — werd pas in 1971 een sterrengerecht toen chef Juan Mari Arzak het omtoverde tot een verfijnde paté. Zijn recept was zelf al een update van iets ouders: heekpudding van de Marquesa de Parabere, de grande dame van de Spaanse kookliteratuur. Deze versie keert terug naar dat origineel — heek in plaats van het dure, moeilijk te vinden cabracho, even romig en elegant, gewoon met een vis die bij elke visboer ligt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de pocheervloeistof",
+          "ingredients": [
+            {
+              "name": "kleine sjalot, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "prei, in ringen",
+              "amount": "¼"
+            },
+            {
+              "name": "kleine wortel, in plakjes",
+              "amount": "1"
+            },
+            {
+              "name": "klein laurierblaadje",
+              "amount": "1"
+            },
+            {
+              "name": "takjes peterselie",
+              "amount": "2"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "Noilly Prat",
+              "amount": "50 ml"
+            },
+            {
+              "name": "visbouillon",
+              "amount": "200 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vis",
+          "ingredients": [
+            {
+              "name": "heekfilet (of koolvis/rode poon), zonder vel en graten",
+              "amount": "400 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het pastelmengsel",
+          "ingredients": [
+            {
+              "name": "slagroom",
+              "amount": "125 ml"
+            },
+            {
+              "name": "eieren",
+              "amount": "2"
+            },
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "25 g"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "cayennepeper",
+              "amount": "mespuntje"
+            },
+            {
+              "name": "rasp van citroen",
+              "amount": "¼"
+            },
+            {
+              "name": "fijngesneden bieslook",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zachte roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de salsa rosa",
+          "ingredients": [
+            {
+              "name": "mayonaise",
+              "amount": "150 g"
+            },
+            {
+              "name": "ketchup",
+              "amount": "2 el"
+            },
+            {
+              "name": "worcestersaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "cognac",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "bieslooksprieten",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "kleine blaadjes waterkers",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "citroenpartjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "geroosterde toastjes of dun zuurdesembrood",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vis pocheren",
+          "description": "Breng de witte wijn, Noilly Prat, visbouillon, sjalot, prei, wortel, laurier en peterselie rustig aan de kook. Laat 10 minuten zacht trekken. Leg de heekfilet erin en poche 5-6 minuten op laag vuur tot net gaar. Schep de vis voorzichtig uit de pan en laat volledig afkoelen. Zeef de pocheervloeistof en kook deze in tot ongeveer 75 ml — dit concentreert de smaak en geeft de terrine veel meer diepgang dan alleen room en eieren zouden doen. Laat ook afkoelen."
+        },
+        {
+          "action": "Oven voorverwarmen",
+          "description": "Verwarm de oven voor op 150°C."
+        },
+        {
+          "action": "Terrinemengsel maken",
+          "description": "Pureer de afgekoelde heek samen met de ingekookte pocheervloeistof, room, eieren, eidooier, tomatenpuree, boter, paprikapoeder, cayenne en citroenrasp tot een volledig gladde massa. Breng op smaak met zout en witte peper. Roer als laatste de bieslook erdoor."
+        },
+        {
+          "action": "Vorm klaarmaken",
+          "description": "Vet een kleine cakevorm (ongeveer 18-20 cm) licht in en bekleed de bodem met bakpapier. Giet de massa erin en tik enkele keren zacht op het werkblad om luchtbellen te verwijderen."
+        },
+        {
+          "action": "Garen au bain-marie",
+          "description": "Plaats de vorm in een diepe ovenschaal en vul deze met heet water tot ongeveer halverwege de vorm. Bak 40-50 minuten. De terrine is gaar zodra hij stevig aanvoelt, maar in het midden nog een lichte trilling heeft — niet volledig strak, dat betekent overgaar."
+        },
+        {
+          "action": "Afkoelen en opstijven",
+          "description": "Laat volledig afkoelen op kamertemperatuur, dek dan af en zet minimaal een nacht in de koelkast."
+        },
+        {
+          "action": "Salsa rosa maken",
+          "description": "Meng mayonaise, ketchup, worcestersaus, cognac en citroensap tot een gladde, roze saus."
+        },
+        {
+          "action": "Serveren",
+          "description": "Snijd de terrine met een warm, dun mes in plakken van ongeveer 2 cm. Leg de plakken op een bord of schaal en lepel de salsa rosa ernaast — niet erover, zodat de zalmroze kleur van de terrine zelf zichtbaar blijft. Garneer met waterkers, bieslook en een partje citroen. Serveer licht gekoeld met geroosterde toastjes of dun zuurdesembrood erbij."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Nette plakken terrine op een bord, met de roze salsa ernaast — niet eroverheen, zodat de zalmroze kleur van de terrine zelf zichtbaar blijft. Waterkers en bieslook als frisse groene accenten, een partje citroen erbij. Rustig en elegant, precies zoals dit gerecht al vijftig jaar op Spaanse feesttafels verschijnt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de vis eerst zacht te pocheren blijft hij sappig en krijgt hij extra smaak van de aromatische court-bouillon met Noilly Prat. Het inkoken van de pocheervloeistof concentreert die smaken verder, waardoor de terrine veel meer diepgang krijgt dan wanneer alleen room en eieren worden gebruikt. Extra eidooier en boter geven een zijdezachtere textuur, en citroenrasp en bieslook in het mengsel zelf houden de vissmaak fris in plaats van plat. De salsa rosa — mayonaise met een vleugje ketchup, worcestersaus en cognac — is de klassieke, authentieke metgezel bij dit gerecht: romig en licht zoetzurig, precies genoeg om de delicate terrine op te tillen zonder hem te overheersen."
+        }
+      ],
+      "chef_tip": "Vooruitwerken: De terrine is een dag na bereiding op zijn lekkerst.\n\nBroodkeuze: Serveer met dun geroosterde brioche of licht zuurdesembrood in plaats van gewone toastjes voor iets rijkers.\n\nSnijtiming: Snijd de terrine pas vlak voor het serveren voor de strakste plakken.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Txakoli",
+          "druif": "Hondarrabi Zuri",
+          "smaakprofiel": "Licht parelend, met groene appel, citrus en een levendige, bijna scherpe zuurgraad.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de wijn van precies dezelfde Baskische kust waar dit gerecht vandaan komt — de prikkelende frisheid snijdt door de romige terrine en de zoetzurige salsa rosa."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Albariño (Rías Baixas)",
+          "druif": "Albariño",
+          "smaakprofiel": "Zilt, citrusachtig, fris, met een subtiele mineraliteit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een klassieke Noord-Spaanse metgezel bij visgerechten — de ziltigheid weerspiegelt de diepte van de ingekookte visfond."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cava Brut",
+          "druif": "Cava-blend (Macabeo, Xarel·lo, Parellada)",
+          "smaakprofiel": "Droog, fris, met citrus, appel en een fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "tilt het gerecht naar een feestelijker register — passend bij de traditie om dit met kerst en bij vieringen te serveren."
+        }
+      ]
+    },
+    {
+      "title": "Gemarineerde champignons à la grecque",
+      "slug": "gemarineerde-champignons-a-la-grecque",
+      "location": "Frankrijk",
+      "time": "20 min voorbereiding + 20 min bereiding + minimaal 4 uur marineren",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Frans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/gemarineerde-champignons-a-la-grecque.jpg",
+      "short_description": "Koud gemarineerde champignons in olijfolie, witte wijn, citroen en koriander, met net een vleugje tomaat — de klassieker zoals hij hoort te zijn, niet als tomatenstoofpotje.",
+      "description": "Ondanks de naam is champignons à la grecque een Franse uitvinding, vermoedelijk uit het begin van de twintigste eeuw — een \"conserve de restaurant\", vooraf gemaakt voor koude buffetten. \"À la grecque\" verwijst naar een bereidingswijze (olijfolie, citroen, witte wijn, koriander), niet naar Griekenland zelf.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de champignons",
+          "ingredients": [
+            {
+              "name": "kleine champignons of kastanjechampignons, schoongeborsteld, klein gehouden of gehalveerd",
+              "amount": "500 g"
+            },
+            {
+              "name": "sjalot, fijngesnipperd",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, fijngehakt",
+              "amount": "1"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "5 el"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "Noilly Prat",
+              "amount": "30 ml"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "bouquet garni (tijm, laurier, peterseliestengels)",
+              "amount": "1"
+            },
+            {
+              "name": "korianderzaad, licht geplet",
+              "amount": "½ tl"
+            },
+            {
+              "name": "venkelzaad, licht geplet",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "rasp van citroen",
+              "amount": "½"
+            },
+            {
+              "name": "sap van citroen",
+              "amount": "½"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "verse kervel of platte peterselie, fijngehakt",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijngesneden bieslook",
+              "amount": "1 el"
+            },
+            {
+              "name": "geroosterde hazelnoten, grof gehakt (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Sjalot fruiten",
+          "description": "Verhit de olijfolie in een brede pan en fruit de sjalot zacht, zonder te kleuren. Voeg de knoflook toe en bak nog 30 seconden mee."
+        },
+        {
+          "action": "Kruiden meefruiten",
+          "description": "Voeg het korianderzaad en venkelzaad toe en laat 1 minuut meefruiten tot geurig."
+        },
+        {
+          "action": "Bouillon opbouwen",
+          "description": "Voeg de witte wijn, Noilly Prat, tomatenpuree, bouquet garni, citroenrasp, suiker en een flinke snuf zout toe. Breng aan de kook en laat 10 minuten zachtjes koken zodat de smaken zich ontwikkelen."
+        },
+        {
+          "action": "Champignons garen",
+          "description": "Voeg de champignons toe, schep om zodat alles bedekt is met vocht, en laat 8-10 minuten zachtjes koken tot net gaar maar nog stevig. Verwijder het bouquet garni."
+        },
+        {
+          "action": "Afkoelen in het vocht",
+          "description": "Roer het citroensap erdoor. Laat volledig afkoelen in het kookvocht — dit is de stap waarin de smaak echt intrekt."
+        },
+        {
+          "action": "Marineren",
+          "description": "Dek af en zet in de koelkast."
+        },
+        {
+          "action": "Serveren",
+          "description": "Haal ongeveer 30 minuten voor het serveren uit de koelkast. Roer de peterselie en bieslook erdoor. Proef en breng eventueel nog op smaak met zout, peper of een paar druppels citroensap."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Schep de champignons in een ondiepe schaal of op gekoelde borden, lepel er wat marinade overheen. Werk af met extra peterselie, bieslook, en desgewenst de geroosterde hazelnoten voor een krokant accent. Serveer met dun geroosterd zuurdesembrood of knapperig stokbrood."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de champignons rustig te garen in een marinade van olijfolie, wijn, citroen en kruiden nemen ze de aroma's volledig op zonder hun stevige structuur te verliezen. De bescheiden hoeveelheid tomatenpuree geeft kleur en een subtiele umami-diepte, zonder het gerecht om te vormen tot een tomatenstoofpotje — de citroen-wijn-marinade blijft de hoofdrolspeler. Het afkoelen en marineren in dezelfde vloeistof verdiept de smaak aanzienlijk; vers gemaakt smaakt dit gerecht altijd vlakker dan een dag later."
+        }
+      ],
+      "chef_tip": "Vooruitwerken: De smaak is de volgende dag nog voller.\n\nBorrelplank: Ook heerlijk als onderdeel van een uitgebreide borrelplank.\n\nErbij serveren: Lekker bij gegrilde kip of kalfsvlees.\n\nKleurvariatie: Gebruik een mix van kastanjechampignons en witte champignons voor een mooi kleurcontrast.\n\nPuristische variant: laat de tomatenpuree helemaal weg voor de striktste, klassieke versie zonder tomaat.\n\nBewaren: Bewaar maximaal drie dagen afgedekt in de koelkast.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Sancerre (Sauvignon Blanc)",
+          "druif": "Sauvignon Blanc",
+          "smaakprofiel": "Fris, mineraal en kruidig, met citrus en groene appel.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de kruidige, scherpe frisheid ondersteunt de aardse smaak van de champignons en weerspiegelt het citroensap in de marinade."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Mâcon-Villages (Chardonnay)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Rond en licht romig, met rijp wit fruit, zonder zwaar te worden.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de zachte ronding balanceert de zuurgraad van citroen en wijn zonder de champignons te overheersen."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Blanc (Elzas)",
+          "druif": "Pinot Blanc",
+          "smaakprofiel": "Subtiel fruitig, elegant, met een zachte afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een toegankelijke, evenwichtige metgezel die perfect past bij een koud voorgerecht als dit."
+        }
+      ]
+    },
+    {
+      "title": "Beef Wellington met flinterdunne champignonlaag",
+      "slug": "beef-wellington-flinterdunne-champignonlaag",
+      "location": "Frankrijk",
+      "time": "1 uur voorbereiding + minimaal 7 uur koelen (in twee fases) + 20-30 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld tot moeilijk",
+      "keuken": "Frans",
+      "categorie": "vlees",
+      "image": "/assets/images/beef-wellington-flinterdunne-champignonlaag.jpg",
+      "short_description": "Geen nat bladerdeeg, geen overgare ossenhaas, geen zware duxelles-laag. Twee keer koelen, een flinterdunne laag gedroogde champignon, en een kernthermometer die de baktijd bepaalt in plaats van de klok. De Wellington die eindelijk consequent lukt.",
+      "description": "Bijna elke Beef Wellington wordt nog steeds gemaakt met een dikke laag duxelles en Parmaham — waardoor de ossenhaas naar de achtergrond verdwijnt. Deze versie heeft een flinterdunne, gedroogde champignonlaag die vocht tegenhoudt zonder de smaak te schrappen. Het resultaat is een Wellington waarin je eindelijk weer vooral rundvlees en boterig bladerdeeg proeft.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de ossenhaas",
+          "ingredients": [
+            {
+              "name": "middenstuk ossenhaas, zo gelijkmatig mogelijk van dikte (eventueel opgebonden)",
+              "amount": "650–700 g"
+            },
+            {
+              "name": "zonnebloemolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "Maldon-zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de champignonlaag",
+          "ingredients": [
+            {
+              "name": "kastanjechampignons",
+              "amount": "250 g"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het bladerdeeg en afwerking",
+          "ingredients": [
+            {
+              "name": "vierkante plakken roomboter-bladerdeeg (kant-en-klaar uit de supermarkt)",
+              "amount": "2–3"
+            },
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "melk",
+              "amount": "1 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Flinterdunne champignonlaag drogen",
+          "description": "Verwarm de oven voor op 90°C. Snijd de champignons met een mandoline in plakjes van ongeveer 1 mm. Leg ze dakpansgewijs op een met bakpapier beklede bakplaat tot één rechthoek die groot genoeg is om de ossenhaas volledig te omwikkelen. Laat 25-35 minuten drogen — de plakjes moeten veel vocht verliezen maar nog soepel en samenhangend blijven, niet bros. Laat volledig afkoelen."
+        },
+        {
+          "action": "Ossenhaas dichtschroeien",
+          "description": "Verwijder alle vliezen en bind het vlees zo nodig op voor een gelijkmatige dikte. Dep zeer goed droog. Bestrooi vlak voor het bakken licht met zout en peper. Verhit een gietijzeren pan tot echt heet, voeg de olie toe en schroei het vlees 30-40 seconden per zijde dicht, inclusief de kopse kanten — alleen kleuren, niet garen."
+        },
+        {
+          "action": "Uitgebreid koelen",
+          "description": "Laat het vlees volledig afkoelen op een rooster. Leg het daarna onafgedekt in de koelkast, minimaal 6 uur, bij voorkeur een hele nacht, zodat het oppervlak volledig droog wordt. Dit is de belangrijkste stap in het hele recept: een droog oppervlak is de basis van een krokant eindresultaat."
+        },
+        {
+          "action": "Bladerdeeg samenvoegen en inpakken",
+          "description": "Laat 2 plakken bladerdeeg net lang genoeg ontdooien om te kunnen verwerken, maar houd ze zo koud mogelijk. Leg ze naast elkaar met een overlap van ongeveer 2 cm. Bevochtig de overlappende rand licht met een beetje water, druk de plakken op elkaar, en rol met een deegroller heel licht over de naad — niet het hele vel plat rollen, alleen de naad zelf dichtwerken tot er één naadloos vel ligt. Nog niet groot genoeg om de filet ruim te omwikkelen? Voeg dan op dezelfde manier een derde plak toe aan één kant. Bestrijk de koude filet met een flinterdun laagje Dijonmosterd. Leg de flinterdunne champignonlaag eromheen en druk licht aan. Leg de filet op het samengestelde bladerdeegvel, met de \"gelaste\" naad idealiter aan de onderkant of opzij — niet precies bovenop, want dat is de plek die het eerst kan opengaan tijdens het bakken. Vouw het deeg strak om het vlees, snijd overtollig deeg weg en druk de naden zorgvuldig dicht. Leg met de naad naar beneden op een met bakpapier beklede bakplaat."
+        },
+        {
+          "action": "Tweede keer koelen",
+          "description": "Zet de ingepakte Wellington nogmaals in de koelkast om vorm en deeg te laten opstijven."
+        },
+        {
+          "action": "Bakken",
+          "description": "Verwarm de oven volledig voor op 220°C (boven- en onderwarmte). Meng de eidooier met de melk en bestrijk het deeg dun en gelijkmatig. Snijd een paar kleine inkepingen zodat stoom kan ontsnappen. Steek een kernthermometer precies in het midden van de filet. Bak tot het deeg diep goudbruin is en de kerntemperatuur 47-48°C bedraagt — laat de thermometer leidend zijn, niet de klok."
+        },
+        {
+          "action": "Rusten",
+          "description": "Haal uit de oven en laat 10 minuten rusten. De kern loopt door naar ongeveer 51-53°C, ideaal voor medium-rare."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Snijd met een scherp, gekarteld mes plakken van ongeveer 2,5 cm dik, zodat je het deeg niet platdrukt. Serveer direct, met een krachtige rodewijnjus, pommes Anna of romige aardappelpuree en haricots verts. In de doorsnede moet je de flinterdunne champignonlaag amper zien — dat is precies het punt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Klassieke duxelles bevat vaak veel vocht en vormt een dikke laag tussen vlees en deeg — daardoor wordt het geheel zwaar en verdwijnt de ossenhaas naar de achtergrond. De flinterdunne champignonlaag houdt vocht tegen als een dunne, samenhangende buffer zonder die zwaarte, en geeft tegelijk paddenstoelsmaak terug die een prosciutto-laag zou missen. Door het vlees na het schroeien lang en onafgedekt te laten koelen, wordt het oppervlak echt droog voordat het deeg eromheen gaat — en doordat het vlees ijskoud de oven ingaat, krijgt het bladerdeeg genoeg tijd om volledig te garen voordat de gewenste kerntemperatuur is bereikt. De licht gerolde naad tussen de samengevoegde bladerdeegplakken smelt tijdens het bakken vrijwel onzichtbaar samen, omdat bladerdeeg toch al is opgebouwd uit laagjes die tijdens het bakken opnieuw \"aan elkaar rijzen\" — hard aandrukken zou die laagjes juist plat drukken en een taaie naad geven."
+        }
+      ],
+      "chef_tip": "Beginnersalternatief: Eerste keer proberen en geen risico willen? Vervang de champignonlaag door 8-10 flinterdunne plakjes prosciutto — minder paddenstoelsmaak, maar een bewezen, zeer betrouwbare vochtbarrière.\n\nThermometer: Gebruik een kernthermometer — die bepaalt het succes veel meer dan de baktijd.\n\nVoor gevorderden: rol zelf bladerdeeg op maat, met de onderkant iets dikker (2 mm) dan de bovenkant (1,5 mm) — de onderkant krijgt het meeste vocht te verduren, de bovenkant hoeft alleen mooi te kleuren.\n\nSaus: Serveer met een jus, geen zware champignonsaus — die zou de lichte, minimalistische opbouw van deze Wellington juist tenietdoen.\n\nDeeg koud houden: Laat het bladerdeeg tijdens het inpakken zo koud mogelijk blijven — werk vlot, en zet tussendoor kort terug in de koelkast als het te zacht wordt.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Pauillac (Bordeaux)",
+          "druif": "Cabernet Sauvignon-blend",
+          "smaakprofiel": "Rijp donker fruit, cassis, ceder en een stevige, fluwelen tanninestructuur.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de klassieke pairing bij ossenhaas — de structuur houdt moeiteloos stand tegen het rijke deeg, zonder de subtiliteit van het vlees te overweldigen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Côte-Rôtie (Syrah)",
+          "druif": "Syrah",
+          "smaakprofiel": "Elegant, kruidig, met viooltjes, zwarte peper en rood-zwart fruit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de kruidige, peperige ondertoon geeft een verfijnder, iets lichter alternatief dan een zware Bordeaux, zonder aan structuur in te boeten."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Rioja Gran Reserva",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Rijp fruit, subtiele vanille en kruiden van houtrijping, met voldoende frisheid.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een betaalbaardere, rijpe rode wijn die door zijn lange rijping al zachte tannines heeft — precies genoeg body voor het rundvlees zonder de scherpte van een jonge wijn."
+        }
+      ]
     }
   ]
 }
