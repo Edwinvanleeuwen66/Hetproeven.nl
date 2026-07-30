@@ -70842,6 +70842,634 @@
           "waarom_werkt_dit": "een betaalbaardere, rijpe rode wijn die door zijn lange rijping al zachte tannines heeft — precies genoeg body voor het rundvlees zonder de scherpte van een jonge wijn."
         }
       ]
+    },
+    {
+      "title": "Lomo Saltado — Peruaans-Chinese rundvlees-roerbak met friet en rijst",
+      "slug": "lomo-saltado-peruaans-chinese-rundvlees-roerbak",
+      "location": "Lima, Peru",
+      "time": "30 min voorbereiding + 15 min marineren + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/lomo-saltado-peruaans-chinese-rundvlees-roerbak.jpg",
+      "short_description": "Bliksemsnel gewokt rundvlees met ají amarillo, tomaat en sojasaus, met Pont Neuf-frietjes die rechtstreeks de wok in gaan naast een portie rijst. De hele geschiedenis van de Chinese immigratie in Peru, in één hap.",
+      "description": "Tussen 1849 en 1874 kwamen tienduizenden Kantonese contractarbeiders naar Peru om te werken op suikerplantages, onder zware, uitbuitende omstandigheden. Wie bleef, bracht de wok mee, en met de Peruaanse tomaat, ají amarillo en aardappel ontstond chifa: de Peruaans-Chinese fusiekeuken die vandaag de tweede keuken van het land is, met duizenden restaurants alleen al in Lima. Lomo saltado is het gerecht waarin je die hele geschiedenis in één hap proeft: bliksemsnel gewokt rundvlees met sojasaus en azijn, en — het detail dat niemand verwacht — frietjes die rechtstreeks de wok in gaan, naast een portie rijst.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de Pont Neuf-friet",
+          "ingredients": [
+            {
+              "name": "kruimige aardappelen (bijv. Agria), geschild en in frieten van 12-15 mm dik",
+              "amount": "900 g"
+            },
+            {
+              "name": "olie om te frituren",
+              "amount": "royaal"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "biefstuk (diamanthaas, entrecote of kogelbiefstuk), in repen van ongeveer 1 cm dik, tegen de draad gesneden",
+              "amount": "500 g"
+            },
+            {
+              "name": "sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "rodewijnazijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de wok",
+          "ingredients": [
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            },
+            {
+              "name": "geklaarde boter",
+              "amount": "15 g"
+            },
+            {
+              "name": "grote rode ui, in dikke partjes",
+              "amount": "1"
+            },
+            {
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "ají amarillo, in dunne reepjes (of rode Spaanse peper)",
+              "amount": "1"
+            },
+            {
+              "name": "rijpe tomaten, zaadlijsten verwijderd, in stevige partjes",
+              "amount": "2"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "3 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "rodewijnazijn",
+              "amount": "2 el"
+            },
+            {
+              "name": "krachtige runderfond",
+              "amount": "75 ml"
+            },
+            {
+              "name": "donkere basterdsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "pisco (of witte rum), om te flamberen (optioneel)",
+              "amount": "2 el"
+            },
+            {
+              "name": "bosuitjes, in ringetjes",
+              "amount": "2"
+            },
+            {
+              "name": "verse koriander, grof gehakt",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Om erbij te serveren",
+          "ingredients": [
+            {
+              "name": "witte rijst",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pont Neuf-friet, eerste ronde",
+          "description": "Frituur de frieten 8 minuten op 140°C. Laat volledig afkoelen."
+        },
+        {
+          "action": "Vlees marineren",
+          "description": "Meng het vlees met sojasaus, azijn, zout en peper. Laat 15 minuten marineren."
+        },
+        {
+          "action": "Rijst koken",
+          "description": "Kook de rijst volgens de aanwijzingen op de verpakking, houd warm."
+        },
+        {
+          "action": "Vlees dichtschroeien",
+          "description": "Verhit de olie met de geklaarde boter in een wok of zware pan tot bijna rokend. Schroei het vlees in kleine porties 30-45 seconden dicht, zonder de pan te overladen. Haal eruit en zet apart."
+        },
+        {
+          "action": "Ui, knoflook en ají amarillo",
+          "description": "Bak de rode ui ongeveer 2 minuten op hoog vuur tot de randen net beginnen te kleuren maar de ui nog stevig is. Voeg knoflook en ají amarillo toe en bak 30 seconden mee."
+        },
+        {
+          "action": "Tomaten",
+          "description": "Voeg de tomatenpartjes toe en schep heel kort om — ze moeten warm worden maar hun vorm behouden."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "Voeg de lichte en donkere sojasaus, azijn, runderfond en basterdsuiker toe. Laat krachtig inkoken tot ongeveer de helft. Neem de pan van het vuur en roer de koude boter erdoor tot een dunne, glanzende saus ontstaat."
+        },
+        {
+          "action": "Vlees terug en deglaceren",
+          "description": "Voeg het vlees terug in de pan. Voor het theatrale effect: voeg de pisco toe en steek voorzichtig aan met een lange lucifer (houd je gezicht en losse mouwen op afstand), laat de vlam vanzelf doven."
+        },
+        {
+          "action": "Tweede frituurronde",
+          "description": "Frituur de afgekoelde frieten nogmaals, op 185°C, tot goudbruin en krokant. Bestrooi direct met zeezout."
+        },
+        {
+          "action": "Afmaken",
+          "description": "Voeg de hete frieten toe aan de pan en schud hooguit 5-10 seconden om — een deel van de frieten mag licht met saus bedekt zijn, terwijl de bovenste hun krokante korst behouden. Meng de bosui en koriander erdoor."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep direct op een grote warme schaal, met een paar frieten zichtbaar bovenop. Serveer onmiddellijk, met witte rijst ernaast."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer direct uit de wok op een grote, warme schaal, met de glanzende, sojagelakte stukken vlees tussen de nog knapperige frietjes en de net verwarmde tomatenpartjes. Zorg dat enkele frieten zichtbaar bovenop liggen, zodat hun krokante structuur goed te zien is. Rijst apart ernaast — dat is precies het beeld waar dit gerecht om bekendstaat: twee zetmelen naast elkaar op één bord."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Het geheim van een geweldige lomo saltado is snelheid: het rundvlees krijgt een diepe karamellisatie zonder door te garen, de ui blijft stevig, de tomaat behoudt zijn frisheid en de met koude boter gemonteerde saus vormt slechts een dunne, glanzende lak in plaats van een zware jus. Ají amarillo geeft een fruitige, zonnige hitte die typisch Peruaans is en soja en azijn een heel andere richting op stuurt dan een gewone Chinese roerbak. De frieten worden pas op het allerlaatste moment toegevoegd, waardoor ze net genoeg saus opnemen voor extra smaak maar hun krokante buitenkant behouden — precies het contrast waar dit iconische gerecht om bekendstaat."
+        }
+      ],
+      "chef_tip": "Ají amarillo-alternatief: Geen verse ají amarillo te vinden? Vervang door 1-2 eetlepels ají amarillo-pasta, toegevoegd samen met de knoflook — minder visueel, maar smaakvol een prima alternatief.\n\nAardappelkeuze: Gebruik uitsluitend kruimige aardappelen zoals Agria voor de beste friet-structuur.\n\nTomaten voorbereiden: Verwijder altijd de zaadlijsten uit de tomaten — anders wordt de saus waterig.\n\nZonder alcohol: Zonder pisco: laat de flambeerstap gewoon weg, het gerecht werkt ook prima zonder.\n\nSnijtechniek: Snijd het vlees altijd haaks op de draad voor de malsste structuur.\n\nDirect serveren: Serveer direct — na een paar minuten verliezen de frieten hun krokantheid.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Malbec (Mendoza, Argentinië)",
+          "druif": "Malbec",
+          "smaakprofiel": "Rijp donker fruit — pruim, braam, een vleugje viool — met een zachte, fluwelen tanninestructuur.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de Zuid-Amerikaanse oorsprong sluit thematisch mooi aan, en de zachte tannines omhullen het rundvlees zonder te botsen met de zurige, sojarijke saus."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Carménère Reserva (Chili)",
+          "druif": "Carménère",
+          "smaakprofiel": "Kruidig, met rood en zwart fruit, een subtiele paprika-ondertoon en zachte tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de kruidigheid sluit mooi aan bij de Aziatisch-Peruaanse smaken van soja en ají amarillo, terwijl de zachte structuur het vlees goed begeleidt zonder te overheersen."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Rioja Crianza",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Elegant, met rood fruit, lichte kruiden en voldoende frisheid.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de frisheid houdt de tomaat en azijn in de saus mooi in balans, terwijl de zachte structuur toegankelijk en breed inzetbaar blijft."
+        }
+      ]
+    },
+    {
+      "title": "Crispy Orange Beef — knapperig sinaasappelrundvlees",
+      "slug": "crispy-orange-beef-sinaasappelrundvlees",
+      "location": "New York, Verenigde Staten",
+      "time": "30 min voorbereiding + 20 min marineren + 10 min rusten na paneren + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/crispy-orange-beef-sinaasappelrundvlees.jpg",
+      "short_description": "Dubbel gefrituurd rundvlees met een extreem krokante korst en een glanzende, dunne sinaasappellak — het gerecht dat in 1971 alle Chinees-Amerikaanse menukaarten veroverde.",
+      "description": "In 1971 bedacht chef T.T. Wang in zijn Hunan Restaurant aan Second Avenue in New York het gerecht dat later over de hele wereld op elke Chinees-Amerikaanse kaart zou belanden — samen met General Tso's Chicken, ook van zijn hand. Crispy orange beef is, ondanks de naam, geen traditioneel Hunan-gerecht maar een puur Amerikaanse uitvinding. Deze versie gebruikt drie technieken die de meeste thuiskoks overslaan — velveting, dubbel frituren met rust ertussen, en een dunne lak in plaats van een dikke saus — voor precies het verschil tussen \"lekker\" en \"restaurantwaardig krokant\".",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "diamanthaas, dwars op de draad in reepjes van ongeveer 1 cm gesneden",
+              "amount": "600 g"
+            },
+            {
+              "name": "zout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "eiwit",
+              "amount": "1"
+            },
+            {
+              "name": "Shaoxing-rijstwijn (of droge sherry)",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de coating",
+          "ingredients": [
+            {
+              "name": "aardappelzetmeel",
+              "amount": "90 g"
+            },
+            {
+              "name": "maizena",
+              "amount": "40 g"
+            },
+            {
+              "name": "zonnebloemolie, om te frituren",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de sinaasappellak",
+          "ingredients": [
+            {
+              "name": "vers geperst sinaasappelsap",
+              "amount": "150 ml"
+            },
+            {
+              "name": "rasp van sinaasappel",
+              "amount": "1"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 el"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte basterdsuiker",
+              "amount": "40 g"
+            },
+            {
+              "name": "honing",
+              "amount": "20 g"
+            },
+            {
+              "name": "Chinese zwarte rijstazijn (of rijstazijn)",
+              "amount": "2 el"
+            },
+            {
+              "name": "Shaoxing-rijstwijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "runderbouillon",
+              "amount": "200 ml"
+            },
+            {
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "verse gember, fijngehakt",
+              "amount": "20 g"
+            },
+            {
+              "name": "chilivlokken (of 1-2 verkruimelde gedroogde rode pepertjes)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "maizena, aangelengd met 2 el koud water",
+              "amount": "2 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de garnering",
+          "ingredients": [
+            {
+              "name": "bosui, in ringetjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "geroosterde witte en zwarte sesamzaadjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "extra sinaasappelrasp",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "dunne ringetjes rode peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "sinaasappelolie (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees marineren",
+          "description": "Meng het vlees met zout, witte peper, eiwit, Shaoxing-wijn en lichte sojasaus. Laat 20 minuten marineren — deze klassieke velveting-techniek houdt het vlees vanbinnen zijdezacht, ook na het frituren."
+        },
+        {
+          "action": "Paneren en laten rusten",
+          "description": "Meng het aardappelzetmeel met de maizena. Haal elk stukje vlees royaal door dit mengsel en druk de coating stevig aan. Laat 10 minuten rusten zodat de coating zich hecht."
+        },
+        {
+          "action": "Lak maken",
+          "description": "Fruit knoflook en gember kort in een klein scheutje olie. Voeg beide sojasauzen toe, dan sinaasappelsap, runderbouillon, honing, suiker, azijn, Shaoxing-wijn en chilivlokken. Laat inkoken tot ongeveer tweederde van het volume. Roer de maizena met het koude water glad en voeg beetje bij beetje toe tot een dunne, glanzende lak ontstaat — dun genoeg om het vlees te lakken, niet om in te zwemmen. Roer de sesamolie en sinaasappelrasp er als laatste door. Houd warm."
+        },
+        {
+          "action": "Eerste keer frituren",
+          "description": "Verhit de olie tot 160°C. Frituur het vlees in kleine porties ongeveer 2,5 minuut — diamanthaas is malser dan een stevigere snit en heeft minder tijd nodig om door te garen. Laat volledig uitlekken en 5 minuten rusten."
+        },
+        {
+          "action": "Tweede keer frituren",
+          "description": "Verhoog de olietemperatuur naar 190°C. Frituur het vlees nogmaals, in porties, 45 tot 60 seconden tot extreem krokant."
+        },
+        {
+          "action": "Lakken",
+          "description": "Doe het vlees direct uit de frituur in een grote kom. Voeg net zoveel lak toe als nodig om alle stukjes licht te bedekken. Schep hooguit 10-15 seconden om. Serveer onmiddellijk."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Schep een berg jasmijnrijst op het bord, leg er kort geroerbakte paksoi of gai lan naast. Verdeel de crispy orange beef er luchtig overheen — niet opgestapeld, zodat de crunch zichtbaar blijft. Bestrooi met witte en zwarte sesam, bosui, rode peperringetjes en veel verse sinaasappelrasp. Voor de laatste luxe: een scheutje sinaasappelolie over het geheel."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De combinatie van aardappelzetmeel en maizena levert een uitzonderlijk lichte, knapperige korst op — lichter dan bloem ooit zou geven. Door twee keer te frituren, met een rustperiode ertussen, verdampt vrijwel al het resterende vocht uit de coating, wat de extreme crunch geeft. De lak wordt niet meegekookt met het vlees maar apart klaargemaakt en pas op het allerlaatste moment toegevoegd als een dunne glazuur, zodat de korst krokant blijft terwijl het vlees toch volledig met smaak bedekt is. Diamanthaas is van zichzelf al mals en mild van smaak, waardoor de sinaasappellak — niet het vlees — de hoofdrol speelt, precies waar dit gerecht om draait."
+        }
+      ],
+      "chef_tip": "Mildere variant: Wil je nóg milder? Kogelbiefstuk of ossenhaaspuntjes werken ook uitstekend en zijn nog subtieler van smaak dan diamanthaas.\n\nVoor extra authentieke smaak: vervang een deel van de verse sinaasappelrasp door een stukje gedroogde mandarijnschil (chenpi), geweekt in warm water.\n\nSinaasappelsap: Gebruik uitsluitend vers uitgeperst sinaasappelsap — kant-en-klaar sap mist de frisse scherpte die de lak nodig heeft.\n\nFrituurtemperatuur: Frituur in kleine porties zodat de olietemperatuur stabiel blijft.\n\nTiming sinaasappelrasp: Rasp de sinaasappel pas op het laatste moment voor maximaal aroma.\n\nPittigheid aanpassen: Minder pittig? Laat de chilivlokken weg of halveer de hoeveelheid.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Mosel Riesling Kabinett",
+          "druif": "Riesling",
+          "smaakprofiel": "Licht, met een subtiele restzoetheid, groene appel, perzik en een levendige, steenachtige mineraliteit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een van de gerechten waar Riesling écht de beste match is — de lichte zoetheid tempert de chili, terwijl de frisse zuren de sinaasappel en rijstazijn in de lak versterken."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Noir (Oregon)",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Licht, sappig rood fruit, zachte tannines, een frisse, elegante afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "licht genoeg om de citrus niet te overheersen, maar met genoeg body om het rundvlees te ondersteunen — een verrassend goede rode-wijnkeuze bij een overwegend krokant, zoet-pittig gerecht."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Chenin Blanc (Zuid-Afrika)",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Rijp fruit, frisse zuren, voldoende body voor de kleverige glazuur.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de ronde, rijpe stijl houdt stand tegen de intensiteit van de lak, terwijl de onderliggende frisheid het geheel licht houdt."
+        }
+      ]
+    },
+    {
+      "title": "Bò Lúc Lắc (Vietnamese Shaking Beef) — geschroeide rundvleesblokjes",
+      "slug": "bo-luc-lac-vietnamese-shaking-beef",
+      "location": "Saigon (Ho Chi Minh-stad), Vietnam",
+      "time": "30 min voorbereiding + 30-45 min marineren + 10 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/bo-luc-lac-vietnamese-shaking-beef.jpg",
+      "short_description": "Boterzachte blokjes rundvlees, puur geschroeid en apart gelakt met een glanzende, met boter gemonteerde saus. Simpel, elegant, en het gerecht dat ooit alleen bij Tet op tafel kwam.",
+      "description": "Tot de Franse kolonisatie was rundvlees in Vietnam nauwelijks in trek — koeien waren te waardevol als werkdier. De Fransen veranderden dat, en bò lúc lắc, letterlijk \"schuddend rundvlees\" naar het schudden van de wok tijdens het schroeien, werd geboren op de straten van oud Saigon. Lange tijd een luxegerecht voor Tet en bruiloften, nu een klassieker die in elk goed Vietnamees restaurant op de kaart staat.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "diamanthaas of ossenhaaspuntjes, in blokjes van 2,5 cm (ribeye kan ook, voor meer vet en beefy smaak)",
+              "amount": "700 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "vissaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Shaoxing-rijstwijn (niet traditioneel, maar een mooie smaakversterker)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "1 tl"
+            },
+            {
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de laksaus",
+          "ingredients": [
+            {
+              "name": "oestersaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "runderfond",
+              "amount": "40 ml"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "20 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de salade",
+          "ingredients": [
+            {
+              "name": "waterkers",
+              "amount": "2 grote handen"
+            },
+            {
+              "name": "kleine rode ui, flinterdun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "azijn (om de ui kort te marineren)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "suiker (om de ui kort te marineren)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "rijpe tomaat, in partjes",
+              "amount": "1"
+            },
+            {
+              "name": "sap van limoen (voor de dressing)",
+              "amount": "½"
+            },
+            {
+              "name": "zout (voor de dressing)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "suiker (voor de dressing)",
+              "amount": "mespuntje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de peper-limoendip",
+          "ingredients": [
+            {
+              "name": "sap van limoen",
+              "amount": "1"
+            },
+            {
+              "name": "zeezout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "grof gemalen zwarte peper",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineren",
+          "description": "Meng alle marinade-ingrediënten en meng ze door de vleesblokjes. Laat 30 tot 45 minuten marineren, niet langer dan een uur. Haal het vlees ruim op tijd uit de koelkast voor het bakken, zodat het niet ijskoud de pan ingaat."
+        },
+        {
+          "action": "Laksaus voorbereiden",
+          "description": "Meng alle ingrediënten voor de laksaus, behalve de boter. Houd apart."
+        },
+        {
+          "action": "Ui marineren",
+          "description": "Meng de flinterdun gesneden rode ui met azijn en suiker en laat 10 minuten staan om de scherpte te temperen."
+        },
+        {
+          "action": "Rundvlees bakken",
+          "description": "Verhit een zware stalen of gietijzeren pan tot echt rookheet. Voeg een beetje olie toe en bak het vlees in kleine porties, zonder de pan te overladen. Schud de pan voortdurend. Bak slechts 60 tot 90 seconden — het vlees moet diep gekarameliseerd zijn maar vanbinnen nog rood. Haal direct uit de pan."
+        },
+        {
+          "action": "Glaceren",
+          "description": "Veeg de pan kort schoon. Voeg de laksaus toe en laat ongeveer 1 minuut inkoken. Monteer met de koude boter tot een glanzende, gebonden saus. Voeg het vlees terug en schud de pan nog 10 seconden zodat elk blokje een dun laagje glans krijgt — niet langer."
+        },
+        {
+          "action": "Salade dresseren",
+          "description": "Besprenkel de waterkers en tomaat met limoensap, zout en een mespuntje suiker vlak voor serveren."
+        },
+        {
+          "action": "Serveren",
+          "description": "Verdeel waterkers, gemarineerde rode ui en tomaat over een grote schaal. Leg het hete, glanzende rundvlees erop. Serveer direct met de peper-limoendip apart."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg de gedresste waterkers-tomaat-uisalade als bedje, het glanzend gelakte vlees er direct bovenop zodat de restwarmte de blaadjes net laat slinken. De peper-limoendip in een klein kommetje ernaast. Voor de volledige klassieke ervaring: serveer met cơm chiên đỏ, de Vietnamese tomatenrijst die traditioneel als \"zusje\" van dit gerecht geldt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Het vlees wordt niet gaar gestoofd in zijn saus, maar eerst apart en puur gekarameliseerd, en pas daarna kort door een separaat opgebouwde, met boter gemonteerde laksaus geschud. Zo blijft de kern rosé en sappig terwijl de buitenkant een intense, glanzende laag krijgt — precies het verschil tussen \"goed\" en \"restaurantwaardig\". De frisse waterkers, tomaat, gemarineerde ui en de klassieke peper-limoendip zorgen voor precies genoeg frisheid om de rijke, gekarameliseerde smaken in balans te brengen."
+        }
+      ],
+      "chef_tip": "Porties: Bak het vlees in meerdere kleine porties — te veel tegelijk laat het stomen in plaats van schroeien.\n\nPankeuze: Gebruik een zware pan die veel hitte vasthoudt.\n\nBoter timen: Voeg de boter pas op het einde toe voor een zijdezachte glans.\n\nCơm chiên đỏ (tomatenrijst) erbij: bak gekookte rijst kort met een lepel tomatenpuree, een teentje knoflook en een klontje boter tot de rijst een lichtroze kleur krijgt.\n\nWaterkers: Gebruik verse waterkers — die lichte peperigheid hoort bij het gerecht.\n\nDirect serveren: Serveer direct uit de pan voor maximale sappigheid.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Cru Beaujolais (Fleurie of Morgon)",
+          "druif": "Gamay",
+          "smaakprofiel": "Sappig rood bessenfruit, lage tannine, lichte kruidigheid, licht gekoeld geserveerd.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de lage tannine botst niet met soja en vissaus, en het sappige fruit weerspiegelt de zoetheid van de palmsuiker in de marinade zonder de frisse salade te overweldigen."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Grüner Veltliner",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Peperig en kruidig, met groene appel, witte peper en een minerale ondertoon.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de peperige kruidigheid sluit direct aan bij de peper-limoendip, terwijl de strakke zuren de rijkdom van de boter-glaceersaus in balans houden."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud pilsener bier",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht bitter, met een droge, schone afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de koolzuurprikkeling reset je smaakpapillen tussen de rijke, gekarameliseerde happen vlees en de frisse, zure salade door."
+        }
+      ]
     }
   ]
 }
