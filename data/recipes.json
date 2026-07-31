@@ -73051,6 +73051,241 @@
           "serveertemperatuur": "Serveer koud, rond 6-8°C."
         }
       ]
+    },
+    {
+      "title": "Schaschlik — luxe spiesjes met wit spek en schaschliksaus",
+      "slug": "schaschlik-spiesjes-wit-spek-schaschliksaus",
+      "location": "Duitsland",
+      "time": "1 uur voorbereiding + 8 uur (liefst een hele nacht) marineren + 45 min saus + 15-18 min grillen",
+      "servings": "4 personen (8 kleine spiesjes, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/schaschlik-spiesjes-wit-spek-schaschliksaus.jpg",
+      "short_description": "Sappige procureur, smeltende blokjes wit spek, geroosterde paprika en ui, afgewerkt met een onweerstaanbaar rijke schaschliksaus. De luxe versie van een absolute klassieker.",
+      "description": "Het woord \"schaschlik\" komt van het Krim-Tataarse woord voor spies, en de bereiding reisde via de Kaukasus en Rusland naar het westen. In de DDR werd het een vaste waarde op kermissen en zomerfeesten — kleine stukjes gemarineerd varkensvlees aan het spit, boven houtskool gegrild — en na de Duitse hereniging trok het gerecht verder westwaarts tot het overal in Duitsland een vertrouwde snack werd. Wat de Duitsers eraan toevoegden was typisch eigen: reepjes spek tussen het vlees, en een pittig-zoete tomaat-paprikasaus die inmiddels net zo bekend is als het gerecht zelf. Deze versie neemt die twee Duitse toevoegingen — spek en de beroemde saus — en tilt ze naar een luxe niveau: sappige procureur, een saus die uren lijkt te hebben geprutteld, en spiesjes die in dunne lagen worden gelakt tot ze glanzen.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de spiesjes",
+          "ingredients": [
+            {
+              "name": "procureur, in blokjes van ongeveer 2,5 x 2,5 cm",
+              "amount": "900 g"
+            },
+            {
+              "name": "wit spek van een verse speklap (uitsluitend het witte vet), in blokjes van ongeveer 2 cm",
+              "amount": "180 g"
+            },
+            {
+              "name": "grote rode paprika's, in stukken van ongeveer 2,5 cm",
+              "amount": "2"
+            },
+            {
+              "name": "middelgrote groene paprika's, in stukken van ongeveer 2,5 cm",
+              "amount": "2"
+            },
+            {
+              "name": "grote uien, in grove parten",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "zonnebloemolie",
+              "amount": "3 el"
+            },
+            {
+              "name": "ketchup",
+              "amount": "2 el"
+            },
+            {
+              "name": "Worcestersaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zoet paprikapoeder",
+              "amount": "2 tl"
+            },
+            {
+              "name": "tenen knoflook, geraspt",
+              "amount": "2"
+            },
+            {
+              "name": "mosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "bruine basterdsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de schaschliksaus",
+          "ingredients": [
+            {
+              "name": "roomboter",
+              "amount": "40 g"
+            },
+            {
+              "name": "grote uien, fijngesneden",
+              "amount": "2"
+            },
+            {
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "rode paprika's, zeer fijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "70 g"
+            },
+            {
+              "name": "runderfond",
+              "amount": "300 ml"
+            },
+            {
+              "name": "passata",
+              "amount": "200 ml"
+            },
+            {
+              "name": "ketchup",
+              "amount": "80 ml"
+            },
+            {
+              "name": "Worcestersaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "zoet paprikapoeder",
+              "amount": "2 tl"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "milde chilipoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "laurierblad",
+              "amount": "1"
+            },
+            {
+              "name": "bruine basterdsuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "appelazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "20 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Om erbij te serveren",
+          "ingredients": [
+            {
+              "name": "knapperig stokbrood, friet of romige aardappelsalade",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees voorbereiden",
+          "description": "Snijd de procureur in blokjes van ongeveer 2,5 cm. Snijd uit de speklap uitsluitend het witte vet en maak hiervan blokjes van ongeveer 2 cm. Snijd de paprika's in stukken van 2,5 cm en pel de uien, in grove, stevige parten."
+        },
+        {
+          "action": "Marineren",
+          "description": "Meng alle marinade-ingrediënten. Schep het vlees zorgvuldig om tot elk blokje dun bedekt is. Dek af en laat minimaal 8 uur marineren. Paprika, ui en spek blijven ongemarineerd."
+        },
+        {
+          "action": "Rijgen",
+          "description": "Rijg per spies afwisselend: procureur, wit spek, ui, procureur, rode paprika, procureur, wit spek, groene paprika, procureur. Druk alles stevig tegen elkaar zonder de stukjes te pletten."
+        },
+        {
+          "action": "Schaschliksaus maken",
+          "description": "Smelt de boter en bak de ui op laag vuur ongeveer 15 minuten tot goudbruin en zoet. Voeg de paprika toe en bak nog 10 minuten. Roer de knoflook erdoor. Voeg de tomatenpuree toe en bak 3 minuten mee om het zure te laten verdwijnen. Voeg de passata, ketchup, runderfond, Worcestersaus, beide paprikapoeders, chilipoeder, bruine basterdsuiker en het laurierblad toe. Laat zonder deksel ongeveer 40 minuten zacht inkoken. Verwijder het laurierblad, pureer de saus volledig glad, en roer de appelazijn en koude boter erdoor. Breng op smaak met zout en peper. De saus moet dik genoeg zijn om aan een lepel én aan de spies te blijven hangen."
+        },
+        {
+          "action": "Grillen",
+          "description": "Maak de barbecue gereed voor directe hitte van ongeveer 200-220°C. Gril de spiesjes eerst ongeveer 8 minuten, regelmatig draaiend. Bestrijk daarna dun met de schaschliksaus. Gril nog ongeveer 5 minuten. Lak opnieuw, herhaal dit nog één keer. De saus moet glanzen en licht karamelliseren zonder zwart te worden. Laat de spiesjes 5 minuten rusten."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer per persoon twee spiesjes op een warme, langwerpige schaal. Lepel wat warme schaschliksaus op de bodem van het bord en geef extra saus apart erbij, in een klein pannetje of sauskom. Serveer met stokbrood, friet of een romige aardappelsalade."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg de glanzend gelakte spiesjes op een streep warme saus op het bord, met extra saus apart erbij om zelf bij te doseren. De afwisseling van vlees, spek, ui en twee kleuren paprika moet goed zichtbaar zijn — dat maakt meteen duidelijk dat dit geen snackbar-versie is, maar een doordachte, verfijnde uitvoering van een klassieker."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Procureur heeft precies genoeg vet om tijdens het grillen sappig te blijven, ook bij een langere gaartijd met meerdere lak-rondes. De blokjes puur wit spek smelten langzaam tussen het vlees en bedruipen de spies van binnenuit, waardoor iedere hap extra mals wordt. De ui karamelliseert, de paprika krijgt een licht geroosterd aroma, en de saus bouwt diepte op door langzaam inkoken met runderfond in plaats van verdikken met maizena — precies het verschil tussen een snelle sausje-uit-een-pak en een saus die \"uren lijkt te hebben geprutteld\". Door de spiesjes pas aan het einde in meerdere dunne lagen te lakken, ontstaat een glanzende, licht gekarameliseerde korst zonder verbrande suikers."
+        }
+      ],
+      "chef_tip": "Barbecue-methode: Barbecue op houtskool geeft veruit het mooiste resultaat dankzij de lichte rooksmaak.\n\nAlternatief zonder bbq: Geen barbecue? Een gietijzeren grillpan is het beste alternatief, gevolgd door de oven onder de grillstand. Een gewone koekenpan kan ook, maar mist de karakteristieke grillsmaak.\n\nFrituren: Frituren is mogelijk voor een snackachtige variant, maar geeft een duidelijk ander resultaat — je mist dan de geroosterde, licht rokerige smaak van de barbecue, die precies het karakter van dit gerecht bepaalt. Voor déze verfijnde versie raad ik het af.\n\nVleeskeuze: Gebruik uitsluitend procureur — hamlappen of magerder vlees drogen sneller uit bij deze techniek.\n\nGelijkmatig snijden: Snijd alle ingrediënten zo gelijkmatig mogelijk voor een gelijkmatige garing.\n\nVooruitwerken: De schaschliksaus kun je een dag van tevoren maken — de smaak wordt dan nog voller.\n\nSnelle route: Geen tijd om de saus zelf te maken? Kant-en-klare schaschliksaus (bijv. uit de supermarkt of toko) is een prima noodgreep — je mist wel de diepte van zelf langzaam ingekookte runderfond, maar voor een snelle doordeweekse versie werkt het uitstekend.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Spätburgunder (Duitse Pinot Noir)",
+          "druif": "Spätburgunder (Pinot Noir)",
+          "smaakprofiel": "Rood fruit — kers, framboos — met zachte tannines, een lichte kruidigheid en een frisse, sappige afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "een Duitse rode wijn bij een gerecht met Duitse wortels is een samenhangende keuze — de zachte tannines botsen niet met de zoet-pittige saus, en het sappige rode fruit weerspiegelt de tomaat en bruine suiker in de schaschliksaus.",
+          "serveertemperatuur": "Serveer licht gekoeld, rond 14-16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Rioja Crianza",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Zachte houtrijping, rijp rood fruit en een kruidige, licht vanilleachtige ondertoon.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de houttonen sluiten mooi aan bij de geroosterde paprika en de gekarameliseerde ui in de saus, terwijl de zachte structuur het gegrilde vlees goed begeleidt zonder te overheersen.",
+          "serveertemperatuur": "Serveer rond 16-18°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud pilsener bier",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht bitter, met een droge, schone afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "precies de metgezel waarmee dit gerecht al decennialang op Duitse kermissen en zomerfeesten wordt gegeten — de koolzuurprikkeling snijdt door de rijke, pittige saus.",
+          "serveertemperatuur": "Serveer goed gekoeld, rond 4-6°C."
+        }
+      ]
     }
   ]
 }
