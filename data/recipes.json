@@ -33504,15 +33504,11 @@
       "description": "De koningin van de Provençaalse keuken met werkelijk diepe smaak. Aangebakken visgraten, Pastis, gekaramelliseerde tomatenpuree en sinaasappelschil. Het grote geheim: grof blenden vóór het zeven voor maximale smaakonttrekking. Saffraan in twee fasen. Aan tafel ingeschonken.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de diepe bouillon",
+          "group_name": "Voor de bouillon",
           "ingredients": [
             {
-              "name": "visgraten en -koppen",
-              "amount": "1 kg"
-            },
-            {
-              "name": "soepvis of kleine rotsvis (optioneel)",
-              "amount": "300 g"
+              "name": "goede visfond of visbouillon (kant-en-klaar, bijv. van de viswinkel, in blik of zelfgemaakt)",
+              "amount": "1,5 l"
             },
             {
               "name": "olijfolie",
@@ -33555,10 +33551,6 @@
               "amount": "150 ml"
             },
             {
-              "name": "koud water",
-              "amount": "1,5 l"
-            },
-            {
               "name": "sinaasappelschil + laurier + tijm + peterseliesteeltjes + peperkorrels",
               "amount": "naar smaak"
             },
@@ -33594,7 +33586,12 @@
             {
               "name": "Zeeuwse mosselen",
               "amount": "400 g"
-            },
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de aardappelgarnering",
+          "ingredients": [
             {
               "name": "kleine vastkokende aardappelen, in schijfjes",
               "amount": "4"
@@ -33618,7 +33615,7 @@
           "group_name": "Rouille",
           "ingredients": [
             {
-              "name": "aardappel, gaargekookt",
+              "name": "kleine aardappel (apart gekookt, zie stap \"Rouille-aardappel koken\")",
               "amount": "1"
             },
             {
@@ -33634,7 +33631,7 @@
               "amount": "1 tl"
             },
             {
-              "name": "harissa",
+              "name": "sambal (bijv. sambal oelek)",
               "amount": "1 tl"
             },
             {
@@ -33671,50 +33668,41 @@
       ],
       "steps": [
         {
-          "action": "Visgraten aanbakken",
-          "description": "visgraten 6–8 min AANBAKKEN op hoog vuur. Maillard-reactie = smaakdiepte."
+          "action": "Aromaten aanfruiten",
+          "description": "Verhit de olijfolie in een grote soeppan. Fruit de ui, prei, venkel en venkelzaad 8-10 minuten op middelhoog vuur tot zacht. Voeg de knoflook en tomatenpuree toe en bak 2 minuten mee tot de tomatenpuree licht karamelliseert."
         },
         {
-          "action": "Aromaten",
-          "description": "aromaten + tomatenpuree karamelliseren. Pastis 2 min inkoken."
+          "action": "Blussen en bouillon opbouwen",
+          "description": "Blus af met de Pastis en laat kort inkoken. Voeg de witte wijn toe en laat grotendeels inkoken. Voeg de tomaten, de kruiden (sinaasappelschil, laurier, tijm, peterseliesteeltjes, peperkorrels), de saffraan (fase 1) en de visfond toe. Breng aan de kook en laat 30-40 minuten zachtjes trekken zonder deksel. Gebruik deze tijd om de rouille te maken (volgende twee stappen)."
         },
         {
-          "action": "Bouillon trekken",
-          "description": "witte wijn inkoken. Tomaten + kruiden + saffraan fase 1 + water toevoegen. 45–50 min ZONDER DEKSEL trekken."
-        },
-        {
-          "action": "Blenden en zeven",
-          "description": "GROF BLENDEN voor het zeven (15–20 sec). Dan krachtig door zeef persen."
-        },
-        {
-          "action": "Inkoken en aardappelen",
-          "description": "10–15 min inkoken voor concentratie. Aardappelen 12–15 min garen. Bewaren."
+          "action": "Rouille-aardappel koken",
+          "description": "Kook, terwijl de bouillon trekt, een kleine aardappel (in de schil) in een steelpannetje met gezouten water in ongeveer 15-20 minuten gaar. Laat iets afkoelen en pel."
         },
         {
           "action": "Rouille maken",
-          "description": "aardappel + knoflook + eidooier + mosterd + harissa + saffraan stampen. Olijfolie druppelsgewijs toevoegen."
+          "description": "Stamp de gare rouille-aardappel samen met de knoflook, eidooier, mosterd, sambal en saffraan in een vijzel of mengkom tot een gladde pasta. Voeg de olijfolie druppelsgewijs toe, al roerend, tot een dikke, glanzende mayonaise-achtige saus ontstaat. Breng op smaak met zout. Dek af en zet tot gebruik in de koelkast."
         },
         {
-          "action": "Stokbrood",
-          "description": "schijfjes op 200°C 8–10 min. Knoflook inwrijven na het bakken."
+          "action": "Grof blenden en zeven",
+          "description": "Dit is de stap die de bouillabaisse zijn karakteristieke, volle lichaam geeft: blend de bouillon inclusief alle groenten kort en grof met een staafmixer (15-20 seconden, niet volledig glad). Giet daarna door een fijne zeef en druk met de rug van een lepel stevig op de groenten om alle smaak en substantie eruit te persen — gooi pas weg wat echt niet meer door de zeef wil. Breng op smaak met cayennepeper en zout. Je houdt nu ongeveer 1,3 tot 1,5 liter smaakvolle, volle bouillon over — precies genoeg om zo direct alle vis, schaaldieren en aardappelen in te garen. Voeg naar smaak nog een scheutje extra visfond of water toe als de bouillon te dik of te geconcentreerd aanvoelt."
+        },
+        {
+          "action": "Aardappelgarnering garen",
+          "description": "Voeg de aardappelschijfjes pas ná het zeven toe aan de heldere, warme bouillon en laat 15-20 minuten zachtjes garen tot ze net gaar zijn — ze dienen puur als garnituur naast de vis, niet om de soep te binden of dikker te maken. Schep ze eruit en zet apart; ze gaan pas bij het pocheren van de vis weer terug in de pan om mee op te warmen."
+        },
+        {
+          "action": "Stokbrood roosteren",
+          "description": "Bak de schuin gesneden stokbroodschijfjes op 200°C 8-10 minuten tot goudbruin en krokant. Wrijf ze direct na het bakken in met het knoflookteentje."
         },
         {
           "action": "Vis pocheren",
-          "description": "bouillon TEGEN de kook. Saffraan fase 2. Zeeduivel 4 min. Zeebaars + gambas 2–3 min. Mosselen 2 min."
+          "description": "Breng de bouillon terug tegen de kook aan, laat niet hard koken. Voeg de saffraan (fase 2) toe. Voeg de zeeduivel toe en poch 4 minuten. Voeg de zeebaars, kabeljauw en gambas toe en poch nog 2-3 minuten. Voeg de mosselen toe en poch tot ze opengaan, ongeveer 2 minuten — gooi mosselen weg die dicht blijven. Voeg de aardappelschijfjes (uit de soep, niet de rouille-aardappel) terug toe om ze mee op te warmen."
         },
         {
           "action": "Serveren",
-          "description": "vis in warme borden. Bouillon AAN TAFEL ingeschonken vanuit terrine. Stokbrood + rouille apart."
+          "description": "Druppel vlak voor het serveren de citroensap, olijfolie en venkelgroen (uit 'saffraan fase 2') over de vis voor een frisse, laatste afwerking. Verdeel de vis, schaaldieren en aardappelen over warme borden. Schenk de hete bouillon er apart bij aan tafel, vanuit een terrine of grote kan. Serveer met de rouille en de krokante stokbroodschijfjes."
         }
-      ],
-      "tips": [
-        "Grof blenden voor zeven: de grootste verbetering die thuiskoks missen.",
-        "Saffraan in twee fasen: helft in bouillon voor kleur, helft vlak voor serveren voor aroma.",
-        "Pastis gedoseerd: 80 ml geeft diepte zonder dat het gerecht naar drank smaakt.",
-        "Vis pocheren, niet koken: bouillon TEGEN de kook, niet rollend.",
-        "Variatie — langoustines: vervang gambas door langoustines voor luxere versie.",
-        "Alternatief zonder Pastis: extra venkelzaad + 1 tl venkelpoeder.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt."
       ],
       "wines": [
         {
@@ -33742,21 +33730,7 @@
           "waarom_werkt_dit": "Vermentino geeft mediterrane citrus, venkel en een licht zilt bittertje; ideaal bij olijfolie, vis, groene kruiden en citroen. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
         }
       ],
-      "wine": {
-        "naam": "Cassis Blanc AOC — Provence",
-        "druif": "Marsanne, Clairette, Ugni Blanc",
-        "toelichting": "Droog, mediterraan, fris, licht kruidig, mineraal en ziltig. De klassieke wijn bij bouillabaisse uit de kleine appellation vlak naast Marseille. Droge mineraliteit en kruidige tonen sluiten aan op de rijke visbouillon en de Provençaalse aromaten. Serveer gekoeld op 10°C.",
-        "alternatief": "Bandol Rosé of Vermentino di Corsica"
-      },
-      "tips_full": [
-        "Grof blenden voor zeven: de grootste verbetering die thuiskoks missen.",
-        "Saffraan in twee fasen: helft in bouillon voor kleur, helft vlak voor serveren voor aroma.",
-        "Pastis gedoseerd: 80 ml geeft diepte zonder dat het gerecht naar drank smaakt.",
-        "Vis pocheren, niet koken: bouillon TEGEN de kook, niet rollend.",
-        "Variatie — langoustines: vervang gambas door langoustines voor luxere versie.",
-        "Alternatief zonder Pastis: extra venkelzaad + 1 tl venkelpoeder.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt."
-      ]
+      "chef_tip": "Waarom blenden en zeven: dit is de stap die de meeste thuiskoks overslaan, en precies die stap geeft de bouillabaisse zijn kenmerkende, volle lichaam in plaats van een dun soepje. Niet overslaan, ook niet als je haast hebt.\n\nSaffraan in twee fasen: gebruik de helft van de saffraan in de bouillon voor kleur, en de andere helft vlak voor het pocheren van de vis voor een fris, krachtig aroma.\n\nPastis doseren: 80 ml geeft diepte zonder dat het gerecht naar drank smaakt — meer wordt al snel te overheersend.\n\nVis pocheren, niet koken: houd de bouillon tegen de kook aan, niet rollend kokend — zo blijft de vis mals in plaats van taai.\n\nVariatie met langoustines: vervang de gambas door langoustines voor een luxere versie.\n\nAlternatief zonder Pastis: vervang de Pastis door extra venkelzaad en 1 tl venkelpoeder voor een vergelijkbaar anijsachtig aroma.\n\nTiming: gaar vis en schaaldieren pas op het allerlaatste moment. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.\n\nZelf bouillon trekken: wil je toch zelf een fond maken in plaats van kant-en-klare visfond te gebruiken? Bak 1 kg visgraten en -koppen (bij voorkeur van witvis, geen vette vis) 6-8 minuten goed aan in olijfolie tot ze diep gekleurd zijn, blus af met een scheut witte wijn, voeg 1,5 liter koud water toe en laat 30-40 minuten zachtjes trekken. Zeef daarna grondig door een fijne zeef of doek en gebruik deze fond in plaats van de kant-en-klare versie in dit recept.\n\nRouille op het stokbrood vóór het bakken: bestrijk de stokbroodschijfjes met een dun laagje rouille vóórdat ze de oven ingaan, in plaats van los erbij te serveren — de rouille droogt dan iets in en wordt knapperiger, met een intensere smaak gebakken in het brood.\n\nRouille door de soep: laat gasten zelf een lepel rouille direct door hun bord bouillon roeren — dat geeft, voor wie dat wil, alsnog een dikkere, romigere textuur aan de soep zelf, zonder dat je dat standaard in de bereiding hoeft te verwerken."
     },
     {
       "title": "Soupe à l'Oignon Gratinée — de perfecte Franse uiensoep",
@@ -73284,6 +73258,1764 @@
           "omschrijving": "",
           "waarom_werkt_dit": "precies de metgezel waarmee dit gerecht al decennialang op Duitse kermissen en zomerfeesten wordt gegeten — de koolzuurprikkeling snijdt door de rijke, pittige saus.",
           "serveertemperatuur": "Serveer goed gekoeld, rond 4-6°C."
+        }
+      ]
+    },
+    {
+      "title": "Heilbot met droge tandoorikorst en ijskoude tuinbonencrème",
+      "slug": "heilbot-tandoorikorst-tuinbonencreme",
+      "location": "Gemert, Nederland",
+      "time": "1 uur voorbereiding + minimaal 4 uur koelen + 10 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gevorderd",
+      "keuken": "Nederlands",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/heilbot-tandoorikorst-tuinbonencreme.jpg",
+      "short_description": "Perfect gegaarde heilbot met een fluweelzachte, dieprode tandoorikorst en een ijskoude tuinbonencrème. Minimalistisch, spannend en verrassend verfijnd.",
+      "description": "Bij GEM in het kasteel van Gemert combineert chef Soenil Bahadoer zijn Surinaams-Hindoestaanse wortels met Franse techniek. Dit gerecht is dat DNA in miniatuur: zijdezachte heilbot met een droge tandoorikorst naast een ijskoude tuinbonencrème — geen saus, alleen een kruidige deken en een spel tussen warm en koud.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de heilbot",
+          "ingredients": [
+            {
+              "name": "verse heilbotfilet, strak vierkant gesneden",
+              "amount": "4 x 140 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "20 g"
+            },
+            {
+              "name": "koud water",
+              "amount": "500 ml"
+            },
+            {
+              "name": "geklaarde boter",
+              "amount": "30 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de droge tandoorikorst",
+          "ingredients": [
+            {
+              "name": "kashmiri-chilipoeder",
+              "amount": "2 tl"
+            },
+            {
+              "name": "tandoorimasala",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gemalen komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "gemalen koriander",
+              "amount": "½ tl"
+            },
+            {
+              "name": "kurkuma",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "poedersuiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "panko, fijngemalen tot poeder in een koffiemolen",
+              "amount": "10 g"
+            },
+            {
+              "name": "maltodextrine (optioneel, voor een extra luchtig mondgevoel)",
+              "amount": "10 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tuinbonencrème",
+          "ingredients": [
+            {
+              "name": "dubbel gedopte tuinbonen",
+              "amount": "350 g"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "100 g"
+            },
+            {
+              "name": "volle room",
+              "amount": "30 ml"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "jonge tuinboontjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "dille",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "bieslookolie",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Heilbot pekelen",
+          "description": "Los het zout op in het koude water. Leg de heilbot 20 minuten in de pekel. Spoel kort af en dep volledig droog."
+        },
+        {
+          "action": "Laten drogen",
+          "description": "Laat de vis nog 30 minuten onafgedekt in de koelkast drogen — dit maakt de structuur steviger en zorgt voor een gelijkmatiger garing."
+        },
+        {
+          "action": "Tuinbonencrème maken",
+          "description": "Kook de tuinbonen 2 minuten, koel direct terug in ijswater. Pureer met crème fraîche, room en citroensap tot een volledig gladde crème. Passeer door een fijne zeef voor een extra fluweelzachte structuur. Laat minimaal 4 uur goed koud worden."
+        },
+        {
+          "action": "Droge tandoorikorst maken",
+          "description": "Meng alle droge ingrediënten. Maal kort in een kleine hakmolen tot een zeer fijn rood poeder. Zeef nog eenmaal tot een bijna fluweelzachte specerijenmix."
+        },
+        {
+          "action": "Heilbot bakken",
+          "description": "Verwarm een koekenpan. Bak de heilbot rustig in de geklaarde boter, ongeveer 3 minuten op de eerste zijde. Draai voorzichtig om en bak nog 1,5 tot 2 minuten, tot een kerntemperatuur van 46-48°C. Laat vervolgens 2 minuten rusten."
+        },
+        {
+          "action": "Afwerken",
+          "description": "Bestrooi uitsluitend de bovenzijde van de warme heilbot royaal met de droge tandoorimix — de warmte van de vis fixeert de kruiden vanzelf. Niet meer verhitten."
+        },
+        {
+          "action": "Serveren",
+          "description": "Neem de tuinbonencrème vlak voor het serveren uit de koelkast en spuit op of vorm als quenelle."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg het strakke vierkant heilbot iets uit het midden van een warm bord, de bovenzijde volledig bedekt met de dieprode tandoorikorst. Leg daarnaast een quenelle ijskoude tuinbonencrème. Garneer met enkele jonge tuinboontjes, een paar druppels bieslookolie en enkele plukjes dille. Houd de opmaak rustig — de kracht van dit gerecht zit in de eenvoud."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de vis eerst te pekelen en daarna te laten drogen, krijgt de heilbot een steviger structuur die gelijkmatig gaart tot precies de juiste kerntemperatuur — zacht, sappig, parelwit. De droge specerijenkorst, pas na het bakken aangebracht, laat je eerst de pure, delicate vis proeven voordat de warme tandoorikruiden zich ontvouwen — een natte marinade zou dat omdraaien en de textuur van de vis verstoren. Panko geeft een bijna onmerkbare textuur aan de korst, terwijl poedersuiker de kruiden afrondt zonder zoet te proeven. De ijskoude tuinbonencrème, dubbel gezeefd tot volledig glad, vormt het perfecte tegenwicht: romig, fris en zacht, waardoor elke hap een spel wordt tussen warm en koud, kruidig en romig."
+        }
+      ],
+      "chef_tip": "Verskeuze: Gebruik uitsluitend kraakverse heilbot — dit gerecht draait om de pure smaak van de vis.\n\nTuinbonen doppen: Dubbel dop de tuinbonen voor een fluweelzachte, heldergroene crème.\n\nSous-vide optie: Liever sous-vide? Gaar de heilbot dan op 46-48°C gedurende 15-18 minuten in plaats van te bakken, en breng de korst op dezelfde manier pas na het garen aan.\n\nKorst droog houden: De tandoorikorst hoort droog te zijn en mag nooit veranderen in een pasta.\n\nServeertemperatuur crème: Serveer de tuinbonencrème echt ijskoud voor maximaal temperatuurcontrast.\n\nVooruitwerken: de tuinbonencrème en de tandoorikorst kunnen beide een dag vooraf gemaakt worden.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Condrieu",
+          "druif": "Viognier",
+          "smaakprofiel": "Rijk, aromatisch, met abrikoos, perzik en een zachte, volle body zonder scherpe zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "rijk en aromatisch genoeg om zowel de tandoorikruiden als de delicate heilbot te dragen — een klassieke, weloverwogen pairing bij specerijrijke visgerechten.",
+          "serveertemperatuur": "Serveer rond 12-14°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Meursault",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Subtiel hout, boterigheid en mineraliteit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de boterige stijl van Meursault sluit direct aan bij de geklaarde boter waarin de vis gebakken wordt, terwijl de onderliggende mineraliteit de heilbot zelf niet overschaduwt.",
+          "serveertemperatuur": "Serveer rond 11-12°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Grüner Veltliner Smaragd",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Frisse zuren en een lichte, peperige kruidigheid.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "de levendige frisheid houdt het gerecht luchtig, terwijl de subtiele kruidigheid mooi aansluit bij de tandoorikorst zonder deze te overstemmen.",
+          "serveertemperatuur": "Serveer rond 9-11°C."
+        }
+      ]
+    },
+    {
+      "title": "Gai Yang Saté met tamarinde, korianderwortel en gedroogde chili",
+      "slug": "gai-yang-sate-tamarinde-korianderwortel",
+      "location": "Londen, Verenigd Koninkrijk",
+      "time": "30 min voorbereiding + minimaal 8 uur (liefst een nacht) marineren + 12-15 min bereiding",
+      "servings": "4 personen (8 kleine spiesjes, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/gai-yang-sate-tamarinde-korianderwortel.jpg",
+      "short_description": "Golvend gevouwen kipreepjes, rokerig gegrild met een in lagen opgebouwde tamarinde-chililak. Geen zoete pindasaus — puur de rokerige, hartige kant van Noord-Thailand.",
+      "description": "In Soho grilt chef Ben Chapman bij restaurant Kiln alles boven een op maat gebouwde houtoven — de rokerige, pittige keuken van Noord-Thailand, met invloeden uit Birma en Yunnan. Zijn gai yang, kip gemarineerd in citroengras en vissaus en boven vuur gegrild, is een van de gerechten waar de zaak zijn naam aan dankt. Deze versie neemt die smaakwereld — rokerig, zuur, hartig, geen zoete pindasaus — en maakt er kleine, verfijnde spiesjes van met een glanzende tamarinde-chililak.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "kipdijfilet zonder vel, in lange repen van ongeveer 3 cm breed gesneden",
+              "amount": "800 g"
+            },
+            {
+              "name": "korianderwortels (of 30 g korianderstelen)",
+              "amount": "5"
+            },
+            {
+              "name": "tenen knoflook",
+              "amount": "5"
+            },
+            {
+              "name": "witte peperkorrels",
+              "amount": "2 tl"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "kurkumapoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tamarinde-chililak",
+          "ingredients": [
+            {
+              "name": "gedroogde rode chilipepers",
+              "amount": "4–5"
+            },
+            {
+              "name": "tamarindepasta, opgelost in 3 el warm water",
+              "amount": "3 el"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "2 el"
+            },
+            {
+              "name": "vissaus",
+              "amount": "2 el"
+            },
+            {
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tamarinde-dip",
+          "ingredients": [
+            {
+              "name": "tamarindepasta",
+              "amount": "2 el"
+            },
+            {
+              "name": "vissaus",
+              "amount": "1½ el"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "sap van limoen",
+              "amount": "½"
+            },
+            {
+              "name": "kleine rode chili, fijngehakt",
+              "amount": "1"
+            },
+            {
+              "name": "fijngesneden koriander",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "extra geroosterde, verkruimelde gedroogde chili",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "krokant gebakken sjalot",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "verse koriander",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "partjes limoen",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marinadepasta maken",
+          "description": "Vijzel korianderwortel, knoflook en witte peperkorrels tot een grove pasta. Meng met vissaus, lichte sojasaus, oestersaus, kurkuma, palmsuiker en olie."
+        },
+        {
+          "action": "Kip marineren",
+          "description": "Meng de kipreepjes zorgvuldig met de marinade. Dek af en laat minimaal 8 uur, liefst een hele nacht, marineren in de koelkast."
+        },
+        {
+          "action": "Chili roosteren",
+          "description": "Rooster de gedroogde chilipepers kort droog in een pan tot ze geurig worden en iets donkerder kleuren — let goed op, ze verbranden snel. Laat afkoelen en verkruimel of maal grof."
+        },
+        {
+          "action": "Tamarinde-chililak maken",
+          "description": "Verwarm het tamarindewater met palmsuiker, vissaus en knoflook in een steelpannetje. Laat 5-6 minuten zachtjes inkoken tot een dikke, glanzende lak. Roer de geroosterde chili erdoor."
+        },
+        {
+          "action": "Tamarinde-dip maken",
+          "description": "Meng alle ingrediënten voor de dip. Laat minimaal 15 minuten staan zodat de smaken samenkomen."
+        },
+        {
+          "action": "Rijgen — golvend gevouwen",
+          "description": "Vouw elke kipreep losjes dubbel of in een lichte zigzagvorm en rijg 'm aan een klein spiesje — niet strak aandrukken, zodat de hitte er goed omheen kan circuleren."
+        },
+        {
+          "action": "Grillen met opgebouwde lak",
+          "description": "Maak een houtskoolbarbecue gereed voor directe hitte van ongeveer 220°C. Gril de spiesjes ongeveer 2 minuten per zijde, bestrijk daarna heel dun met de lak, draai om, lak opnieuw. Herhaal dit nog twee keer, zodat er in totaal vier dunne laklagen ontstaan. De kip moet net gaar zijn met licht zwartgeblakerde randjes."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer direct, bestrooid met extra geroosterde chili, krokante sjalot en verse koriander, met de tamarinde-dip en partjes limoen erbij."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer twee spiesjes per persoon op een langwerpig, donker bord, glanzend van de in lagen opgebouwde lak met hier en daar een geblakerd randje zichtbaar. De tamarinde-dip in een klein schaaltje ernaast, gegarneerd met koriander, dun gesneden rode chili en een partje limoen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Kipdij blijft sappig, zelfs boven zeer hoge hitte, en door de repen golvend te vouwen in plaats van in blokjes te rijgen ontstaat veel meer grilloppervlak — en dus meer smaak en meer plek voor de lak om te hechten. Korianderwortel geeft een typisch Thaise, citrusachtige kruidigheid die je met alleen blad nooit bereikt, en lichte sojasaus en oestersaus voegen een umami-laag toe die de vissaus versterkt. Door de gedroogde chili apart te roosteren voordat hij de lak in gaat, krijg je een rokerige diepte die losse chilivlokken nooit zouden geven. En door de lak in vier dunne lagen op te bouwen tijdens het hele grillproces in plaats van er pas op het einde overheen te gaan, ontstaat een gelijkmatig gekarameliseerde, glanzende korst zonder dat de suikers verbranden."
+        }
+      ],
+      "chef_tip": "Extra diepte (optioneel): voor extra diepte en textuur in de dip: roer er een theelepel geroosterd rijstpoeder (khao khua) doorheen — rooster hiervoor 2 el rauwe kleefrijst of jasmijnrijst droog in een pan tot goudbruin en geurig, en maal fijn in een vijzel. Geeft een nootachtige crunch die de dip een authentieke, Isaanse diepte geeft. Niet noodzakelijk, wel een leuke upgrade als je verder wilt gaan.\n\nRomigere variant: vervang de tamarinde-chililak door 80 ml kokosroom, opgewarmd met 1 el tamarindepasta, 1 el palmsuiker en 1 el vissaus tot de suiker is opgelost (niet laten koken) — een zachtere, romigere glans voor wie dat liever heeft.\n\nVooruitwerken: de lak en de dip kunnen beide een paar dagen vooraf gemaakt worden.\n\nAlternatief zonder houtskool: geen houtskool? Een gietijzeren grillpan op hoog vuur komt het dichtst in de buurt, al mis je dan de rokerige diepte.\n\nPittigheid aanpassen: minder pittig? Halveer het aantal gedroogde chilipepers in de lak en laat de chili in de dip weg.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Condrieu (Rhône, Frankrijk)",
+          "druif": "Viognier",
+          "smaakprofiel": "Een rijke, aromatische witte wijn met verleidelijke geuren van abrikoos, rijpe perzik, acaciabloesem, kamperfoelie en een subtiele hint van sinaasappelbloesem. In de mond vol en romig, met tonen van geel steenfruit, een lichte kruidigheid, zachte mineraliteit en een lange, elegante afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De romige structuur van Viognier sluit prachtig aan bij de sappige, golvend gegrilde kip, terwijl de bloemige aroma's de korianderwortel subtiel versterken. De frisse zuren houden de scherpe tamarinde mooi in balans en voorkomen dat de kleverige lak zwaar aanvoelt, terwijl de lichte kruidigheid van de wijn naadloos aansluit op de geroosterde chili en witte peper uit de marinade.",
+          "serveertemperatuur": "Serveer rond 10-12°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Grüner Veltliner (Wachau, Oostenrijk)",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Droog en levendig, met geuren van groene appel, witte peper, verse kruiden en een subtiele minerale, bijna stenige ondertoon. In de mond strak en peperig, met een frisse, schone afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De peperige kruidigheid is een directe echo van de witte peperkorrels in de marinade, terwijl de strakke, hoge zuurgraad de zoetzure tamarindelak in balans houdt zonder de rokerige grillsmaak te overstemmen.",
+          "serveertemperatuur": "Serveer rond 9-11°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud Aziatisch lager bier",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht, met een subtiele graanzoetheid en een droge, verkoelende afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De klassieke metgezel bij rokerig, pittig gegrild eten — de koolzuurprikkeling reset je smaakpapillen tussen de zure, rokerige happen door, precies zoals bij Kiln zelf aan de bar geserveerd zou worden.",
+          "serveertemperatuur": "Serveer goed gekoeld, 4-6°C."
+        }
+      ]
+    },
+    {
+      "title": "Krokante viswonton met Thaise basilicum, limoenblad en romige chilidip",
+      "slug": "krokante-viswonton-thaise-basilicum-chilidip",
+      "location": "Parijs, Frankrijk",
+      "time": "45 min voorbereiding + 10 min bereiding",
+      "servings": "4 personen (8 wontons, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/krokante-viswonton-thaise-basilicum-chilidip.jpg",
+      "short_description": "Een luchtige mousse van zeebaars en kabeljauw, Thaise basilicum en limoenblad, in een krokant wontonjasje met een romige zoete chilidip. De Frans-Aziatische signatuur van twee Parijse zussen, in één hap.",
+      "description": "De Frans-Filipijnse zussen Tatiana en Katia Levha runnen Le Servan in Parijs; Tatiana groeide op tussen Manilla, Bangkok en Parijs. Thaise basilicum en vissaus naast Franse bistrotechniek — deze krokante viswonton is dat DNA in één hap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de visvulling",
+          "ingredients": [
+            {
+              "name": "zeebaarsfilet",
+              "amount": "90 g"
+            },
+            {
+              "name": "kabeljauwfilet",
+              "amount": "60 g"
+            },
+            {
+              "name": "koude slagroom",
+              "amount": "40 ml"
+            },
+            {
+              "name": "eiwit",
+              "amount": "1"
+            },
+            {
+              "name": "limoenblad, flinterdun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "Thaise basilicum, zeer fijngehakt",
+              "amount": "5 blaadjes"
+            },
+            {
+              "name": "vissaus",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijne suiker",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "mespuntje"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de wontons",
+          "ingredients": [
+            {
+              "name": "verse wontonvellen",
+              "amount": "8"
+            },
+            {
+              "name": "losgeklopt ei",
+              "amount": "1"
+            },
+            {
+              "name": "zonnebloemolie, om te frituren",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de romige chilidip",
+          "ingredients": [
+            {
+              "name": "mayonaise",
+              "amount": "40 g"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "20 g"
+            },
+            {
+              "name": "zoete chilisaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "sriracha",
+              "amount": "½ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "vissaus",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "Thaise basilicumblaadjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "limoenrasp",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zwarte sesamzaadjes",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vis voorkoelen",
+          "description": "Snijd de zeebaars en kabeljauw in blokjes en leg 20 minuten in de vriezer tot ijskoud maar niet bevroren."
+        },
+        {
+          "action": "Vismousse maken",
+          "description": "Pureer de vis samen met het eiwit volledig glad in een keukenmachine. Voeg de koude slagroom toe en mix kort verder — niet te lang, dat houdt de mousse luchtig. Roer voorzichtig het limoenblad, de Thaise basilicum, vissaus, suiker, zout en witte peper erdoor."
+        },
+        {
+          "action": "Laten opstijven",
+          "description": "Laat de mousse 30 minuten opstijven in de koelkast."
+        },
+        {
+          "action": "Chilidip mengen",
+          "description": "Meng alle ingrediënten voor de dip tot een gladde saus. Laat minimaal 30 minuten in de koelkast rusten voor een mooiere smaakbalans."
+        },
+        {
+          "action": "Wontons vouwen",
+          "description": "Leg op elk wontonvel ongeveer 1 theelepel vismousse. Bestrijk de randen dun met het losgeklopte ei. Vouw diagonaal dicht en druk alle lucht zorgvuldig uit de wonton voordat je de randen stevig dichtdrukt."
+        },
+        {
+          "action": "Frituren",
+          "description": "Verhit de olie tot 175°C. Frituur de wontons in kleine porties tot goudbruin en krokant. Laat uitlekken op keukenpapier."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg twee wontons schuin tegen elkaar op een klein bordje, spuit een quenelle van de chilidip ernaast. Werk af met limoenrasp, basilicum en zwarte sesamzaadjes."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg de wontons schuin tegen elkaar op een klein, donker amusebordje, met een nette quenelle of stip chilidip ernaast. Flinterdunne limoenrasp, een paar basilicumblaadjes en zwarte sesamzaadjes als laatste, verzorgde afwerking."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door twee vissoorten te combineren ontstaat een mousse die zowel stevig als zijdezacht is: zeebaars geeft een verfijnde smaak, kabeljauw zorgt voor een luchtige structuur. Limoenblad en Thaise basilicum brengen een fris, aromatisch karakter zonder de delicate vis te overheersen. De krokante wonton vormt een mooi contrast met de romige vulling, en de licht pittige, romige chilidip verbindt alle smaken tot één geheel."
+        }
+      ],
+      "chef_tip": "Viskeuze: Gebruik ijskoude vis voor een perfect gladde mousse.\n\nSlagroom timen: Mix de slagroom pas op het einde kort door de mousse, zodat deze luchtig blijft.\n\nLucht eruit drukken: Druk alle lucht uit de wontons voordat je ze dichtvouwt — voorkomt openbarsten tijdens het frituren.\n\nFrituurtemperatuur: Frituur niet te veel wontons tegelijk, zodat de olietemperatuur stabiel blijft.\n\nVooruitwerken: je kunt de wontons enkele uren vooraf vullen en afgedekt koel bewaren.\n\nAlternatief zonder frituur: geen frituur? Bak ze in een laagje olie in een koekenpan en draai regelmatig om voor een goudbruine korst.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Blanc de Blancs (Champagne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Citroen, groene appel, witte bloemen, brioche en krijtachtige mineraliteit. Strak en levendig, met fijne mousse, frisse citrus en een lange minerale afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De frisse zuren snijden door het krokante laagje en de romige vismousse, terwijl de fijne bubbels het gehemelte reinigen na iedere hap. De briochetonen vormen een subtiele brug naar de goudbruin gefrituurde wonton.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Grüner Veltliner (Wachau, Oostenrijk)",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Limoen, groene appel, witte peper en verse kruiden. Levendige zuurgraad, lichte mineraliteit, droge elegante afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De peperige kruidigheid sluit mooi aan bij de Thaise basilicum, en de frisse citrusaccenten ondersteunen het limoenblad zonder de vis te overheersen.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Albariño (Rías Baixas, Spanje)",
+          "druif": "Albariño",
+          "smaakprofiel": "Citrus, witte perzik, groene kruiden en een duidelijke zilte mineraliteit. Fris, sappig, verfijnd.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De zilte frisheid versterkt de smaak van de vis, terwijl het rijpe fruit contrasteert met de zachte chilidip.",
+          "serveertemperatuur": "Serveer rond 9-11°C."
+        }
+      ]
+    },
+    {
+      "title": "Kreeftkroket met vloeibare bisquekern",
+      "slug": "kreeftkroket-vloeibare-bisquekern",
+      "location": "Barcelona, Spanje",
+      "time": "1 uur voorbereiding + minimaal 4 uur (liefst een nacht) invriezen (in twee fases) + 4 min bereiding",
+      "servings": "4 personen (8 kroketjes, 2 per persoon)",
+      "difficulty": "Gevorderd",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/kreeftkroket-vloeibare-bisquekern.jpg",
+      "short_description": "Een flinterdunne krokante korst, grote stukken kreeft en een warme kern van geconcentreerde schaaldierenbisque die bij de eerste hap langzaam uitloopt. Pure luxe in één perfecte amuse.",
+      "description": "In een steegje bij La Rambla staat Bar Cañete al decennialang vol — chef Guillem Oliva, eerder bij het legendarische Can Fabes, tilt hier klassieke Catalaanse tapas naar een hoger niveau. Hun kreeftkroket geldt als een van hun meest geroemde gerechten. Deze versie gaat een stap verder: een stevige ragout vol grote stukken kreeft die een apart bevroren bolletje bisque omsluit, dat bij de eerste hap langzaam uitloopt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de vloeibare bisquekern",
+          "ingredients": [
+            {
+              "name": "sterk ingekookte kreeftenbisque (zelfgemaakt van schalen, of goede kant-en-klare bisque flink ingekookt)",
+              "amount": "200 ml"
+            },
+            {
+              "name": "blaadje gelatine",
+              "amount": "1½"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de ragout",
+          "ingredients": [
+            {
+              "name": "gekookt kreeftenvlees, in grove stukken van ongeveer 1 cm",
+              "amount": "250 g"
+            },
+            {
+              "name": "roomboter",
+              "amount": "40 g"
+            },
+            {
+              "name": "bloem",
+              "amount": "40 g"
+            },
+            {
+              "name": "volle melk",
+              "amount": "350 ml"
+            },
+            {
+              "name": "krachtige kreeftenbisque",
+              "amount": "150 ml"
+            },
+            {
+              "name": "room",
+              "amount": "80 ml"
+            },
+            {
+              "name": "cognac",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "cayennepeper",
+              "amount": "snuf"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de panerlaag",
+          "ingredients": [
+            {
+              "name": "bloem",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "eieren, losgeklopt",
+              "amount": "2"
+            },
+            {
+              "name": "panko",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zonnebloemolie, om te frituren",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het serveren",
+          "ingredients": [
+            {
+              "name": "citroen-aioli",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "bieslook",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "citroenrasp",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "zalmeitjes",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bisquekern maken",
+          "description": "Week de gelatine 5 minuten in koud water. Verwarm de bisque, knijp de gelatine uit en los op in de warme bisque. Giet in een siliconenvorm met halve bolletjes van ongeveer 2 cm. Vries volledig hard."
+        },
+        {
+          "action": "Ragout maken",
+          "description": "Smelt de boter, voeg de bloem toe en gaar 3 minuten. Voeg beetje bij beetje de melk toe, dan de bisque, dan de room, onder goed roeren tot een gladde, gebonden ragout. Laat rustig inkoken tot stevig. Voeg cognac, gerookt paprikapoeder, cayennepeper, zout en witte peper toe. Roer als laatste het grof gesneden kreeftenvlees erdoor. Laat volledig afkoelen."
+        },
+        {
+          "action": "Kroketten vormen",
+          "description": "Neem ongeveer 45 gram ragout, druk plat. Leg een bevroren bisquebolletje in het midden en vouw de ragout eromheen dicht. Rol mooi cilindrisch. Laat opnieuw minstens 2 uur opstijven in de koelkast."
+        },
+        {
+          "action": "Dubbel paneren",
+          "description": "Haal elke kroket door de bloem, dan het ei, dan de panko. Herhaal de ei- en panko-stap voor een extra dunne maar stevige korst."
+        },
+        {
+          "action": "Frituren",
+          "description": "Verhit de olie tot 175°C. Frituur de kroketten ongeveer 3,5 minuut tot de korst goudbruin is, de ragout gloeiend heet en de kern nét vloeibaar."
+        },
+        {
+          "action": "Serveren",
+          "description": "Laat de kroketten na het frituren 1 minuut rusten — dan wordt de kern perfect vloeibaar. Serveer op een warm bordje met een klein lepeltje citroen-aioli, bieslook, citroenrasp en een paar zalmeitjes."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de kroketjes op een warm, donker amusebord, met een minimale toef citroen-aioli en een paar zalmeitjes — geen kaviaar, dat zou hier alleen maar afleiden. Snijd er eentje voor het oog van je gasten doormidden zodat de vloeibare bisque zichtbaar naar buiten loopt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De ragout wordt bewust steviger gemaakt dan bij een klassieke kroket, zodat hij de bevroren bisquekern volledig omsluit en zijn vorm behoudt tijdens het frituren. Tijdens het frituren warmt de ragout op, terwijl de gelatine in de kern weer vloeibaar wordt — bij de eerste hap loopt een warme, geconcentreerde schaaldierenbisque langzaam uit zonder dat de kroket zijn vorm verliest. Grote stukken kreeft zorgen voor herkenbare structuur en een luxe uitstraling die je in de meeste kreeftkroketten mist, terwijl cognac en gerookt paprikapoeder de ragout extra diepte geven."
+        }
+      ],
+      "chef_tip": "Bisquekwaliteit: Gebruik een zelfgemaakte, krachtig ingekookte bisque — daarin zit de ziel van het gerecht.\n\nKreeftstukken: Snijd het kreeftenvlees in grove stukken van ongeveer 1 cm zodat je het echt proeft.\n\nAfkoelen: Laat de ragout volledig afkoelen voordat je de kroketten vormt.\n\nFrituurtemperatuur: Frituur niet meer dan vier kroketten tegelijk om de olietemperatuur stabiel te houden.\n\nAlternatief: geen kreeft? Gebruik langoustines of Hollandse garnalen, maar maak de bisque altijd van schaaldierschalen voor maximale diepgang.\n\nVooruitwerken: de gevormde, gepaneerde kroketten kunnen dagen van tevoren gemaakt worden en blijven prima in de vriezer tot het frituren.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Blanc de Blancs (Champagne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Elegant en verfijnd, met citroen, groene appel, brioche, geroosterde amandel en krijtachtige mineraliteit. Fijne mousse, levendige zuren, een frisse, lange afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De frisse bubbels snijden moeiteloos door de romige ragout, terwijl de minerale tonen de zoete smaak van de kreeft versterken. De subtiele briochearoma's sluiten prachtig aan bij de goudbruine krokante korst.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Meursault (Bourgogne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Rijk en romig, met boter, hazelnoot, rijpe appel, citrus en subtiele houttonen. Vol van smaak, maar altijd elegant.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De romigheid van de wijn sluit naadloos aan bij de bisqueragout, terwijl frisse zuren voorkomen dat het geheel te rijk wordt. De lichte houtinvloed versterkt de geroosterde tonen van de panko.",
+          "serveertemperatuur": "Serveer rond 11-12°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Albariño (Rías Baixas, Spanje)",
+          "druif": "Albariño",
+          "smaakprofiel": "Fris en zilt, met limoen, witte perzik, groene appel en natte stenen. Elegant, sappig, mineraal.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De zilte mineraliteit ondersteunt de schaaldierensmaak, en de frisse citrusaccenten geven een heerlijk tegenwicht aan de romige vulling.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        }
+      ]
+    },
+    {
+      "title": "De Rolex — krokante pancetta met foie gras en gebakken eidooier",
+      "slug": "de-rolex-pancetta-foie-gras-eidooier",
+      "location": "Madrid, Spanje",
+      "time": "30 min voorbereiding + 20-25 min bereiding",
+      "servings": "4 personen (1 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/de-rolex-pancetta-foie-gras-eidooier.jpg",
+      "short_description": "Een lange krokante pancetta als horlogeband, een ronde schijf foie gras en een glanzende eidooier die bij de eerste hap openvloeit. Een iconische amuse uit Madrid, verrassend eenvoudig thuis te maken.",
+      "description": "Sala de Despiece zit in een voormalige slagerij in Madrid, vleeshaken nog aan het plafond, personeel dat gerechten met keukenbranders aan tafel dichtschroeit. Hun beroemdste creatie is de \"Rolex\": pancetta als horlogeband, foie gras als kast en een glanzende eidooier als wijzerplaat — vlak voor het eten dichtgevouwen tot één romige hap.",
+      "ingredient_groups": [
+        {
+          "group_name": "Hoofdingrediënten",
+          "ingredients": [
+            {
+              "name": "lange, flinterdunne plakken pancetta",
+              "amount": "4"
+            },
+            {
+              "name": "foie gras entier uit blik, ijskoud",
+              "amount": "100 g"
+            },
+            {
+              "name": "eidooiers",
+              "amount": "4"
+            },
+            {
+              "name": "klein klontje roomboter, om de dooiers te bakken",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "bieslook, zeer fijn gesneden",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "oude Pedro Ximénez-azijn (optioneel)",
+              "amount": "enkele druppels"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pancetta krokant bakken",
+          "description": "Verwarm de oven voor op 160°C. Leg de plakken pancetta tussen twee vellen bakpapier, met een tweede bakplaat erbovenop zodat ze volledig vlak blijven. Bak 18 tot 22 minuten tot diep goudbruin en krokant. Laat volledig afkoelen op een rooster — de pancetta moet recht blijven, als een horlogeband."
+        },
+        {
+          "action": "Foie gras uitsteken",
+          "description": "Laat de foie gras 10 minuten uit de koelkast komen. Steek met een ronde uitsteker van ongeveer 4 cm vier nette schijven uit. Is de foie te zacht om netjes te steken, leg 'm dan nog 10 minuten terug in de koelkast."
+        },
+        {
+          "action": "Dooiers bakken",
+          "description": "Splits de eieren, bewaar alleen de dooiers. Verhit een klein klontje boter op laag vuur in een kleine pan. Laat de dooiers er, één voor één, voorzichtig in glijden en bak elk 30-45 seconden tot de buitenkant nét dof en licht gestold is, maar de kern nog volledig vloeibaar blijft. Schep er voorzichtig uit met een lepel."
+        },
+        {
+          "action": "Opbouwen — als een horloge",
+          "description": "Leg één lange, krokante pancettaplak horizontaal op een langwerpig bord. Plaats precies in het midden de ronde schijf foie gras. Leg daarop voorzichtig de warme dooier."
+        },
+        {
+          "action": "Afwerken",
+          "description": "Bestrooi met een paar kristallen fleur de sel en versgemalen zwarte peper. Werk af met fijngesneden bieslook. Voor wie van een subtiel zoetzuur accent houdt: één minuscuul druppeltje Pedro Ximénez-azijn op de foie gras."
+        },
+        {
+          "action": "Serveren en vouwen",
+          "description": "Serveer direct, zodat het contrast tussen warme dooier en koele foie gras op zijn mooist is. Vouw vlak voor het eten de twee uiteinden van de pancetta omhoog en over de foie en dooier heen, tot één klein pakketje, en eet in één hap."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "De pancetta blijft volledig zichtbaar en vormt letterlijk de \"horlogeband\". De ronde foie gras is de kast van het horloge. De glanzende eidooier vormt de gouden wijzerplaat. Presenteer het zo — plat, herkenbaar als horloge — en laat je gasten het pas op het laatste moment dichtvouwen en in één hap opeten, precies zoals het bij het origineel gaat."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Dit gerecht bewijst dat perfectie vaak in eenvoud zit. De pancetta levert een zoute, krokante basis met een subtiele rooksmaak. De foie gras is koel, boterzacht en smelt langzaam door de warmte van de dooier. Door de dooier apart en heel kort te bakken, blijft de buitenkant net stevig genoeg om zijn vorm te houden, terwijl de kern volledig vloeibaar blijft. Wanneer de dooier openbreekt, ontstaat vanzelf een rijke saus die geen verdere toevoegingen nodig heeft. Door het geheel eerst plat te presenteren — als een echt horloge — en pas vlak voor het eten dicht te vouwen, krijg je zowel het visuele \"aha\"-moment van de naam als het intieme, warme een-hap-moment waar dit gerecht om bekendstaat."
+        }
+      ],
+      "chef_tip": "Foie gras keuze: Gebruik uitsluitend foie gras entier uit blik — die heeft de mooiste structuur en is constanter dan verse foie gras.\n\nPancetta bakken: De pancetta moet volledig krokant zijn, maar mag niet donkerbruin of bitter worden.\n\nVooruitwerken: Maak de pancetta enkele uren van tevoren en bewaar luchtdicht zodat hij krokant blijft.\n\nFoie gras timen: Haal de foie gras pas kort voor het serveren uit de koelkast, zodat hij mooi strak blijft en netjes te steken is.\n\nBord: Gebruik een langwerpig bord zodat de pancetta echt als een horlogeband oogt.\n\nAlternatieve dooiertechniek: kook het hele ei 6,5 tot 7 minuten (oeuf mollet), koel terug in ijswater, pel voorzichtig en haal de dooier er met een lepeltje uit.\n\nLuxe optie: een paar flinterdunne schaafjes zwarte wintertruffel zijn een luxe toevoeging, maar niet noodzakelijk.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Vintage Blanc de Blancs (Champagne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Verfijnd, met brioche, geroosterde amandelen, rijpe appel, citroenschil en krijtachtige mineraliteit. Levendig en elegant, met een romige mousse, frisse citruszuren en een lange, licht geroosterde afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De frisse zuren snijden prachtig door de rijke foie gras en de romige dooier, waardoor iedere hap opnieuw licht aanvoelt. De brioche- en notentonen sluiten naadloos aan bij de krokante pancetta.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Sauternes (Bordeaux, Frankrijk)",
+          "druif": "Sémillon, Sauvignon Blanc & Muscadelle",
+          "smaakprofiel": "Weelderig en intens, met abrikoos, honing, gekonfijte citrus, saffraan en vanille. Fluweelzacht, rijk, verrassend fris dankzij levendige zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Foie gras en Sauternes behoren tot de beroemdste wijn-spijscombinaties ter wereld — de honingachtige rijkdom omarmt de romigheid van de foie, terwijl de frisse zuren het geheel licht houden.",
+          "serveertemperatuur": "Serveer rond 10-12°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Meursault (Bourgogne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Vol en elegant, met boter, geroosterde hazelnoten, rijpe appel, citrus en subtiele houtinvloeden.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De boterige textuur sluit naadloos aan bij de foie gras, terwijl de frisse zuren de rijke dooier in balans brengen.",
+          "serveertemperatuur": "Serveer rond 11-12°C."
+        }
+      ]
+    },
+    {
+      "title": "Tomaat als steak met geroosterde tomatenjus, basilicumolie en amandel",
+      "slug": "tomaat-als-steak-tomatenjus-basilicumolie",
+      "location": "Madrid, Spanje",
+      "time": "45 min voorbereiding + 1 uur marineren + 1 uur bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/tomaat-als-steak-tomatenjus-basilicumolie.jpg",
+      "short_description": "Op het eerste gezicht een perfect stuk vlees, maar bij de eerste snede blijkt het een langzaam gemarineerde tomaat te zijn. Een spectaculair vegetarisch gerecht vol umami, elegantie en verrassende eenvoud.",
+      "description": "Sala de Despiece is ingericht als een oude slagerij, vleeshaken aan het plafond. Toch is een van hun beroemdste gerechten juist geen vlees: een ontvelde tomaat uit Navarra, urenlang gemarineerd tot sappig én stevig. Deze versie bakt en lakt de tomaat als een echte tournedos, met een jus die glanst als vleesjus — pas bij het aansnijden ontdek je dat het puur groente is.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tomaten",
+          "ingredients": [
+            {
+              "name": "grote Coeur de Boeuf- of Marmande-tomaten, perfect rijp maar stevig",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 el"
+            },
+            {
+              "name": "olijfolie extra vierge",
+              "amount": "1 el"
+            },
+            {
+              "name": "oude sherryazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "donkere balsamico",
+              "amount": "1 tl"
+            },
+            {
+              "name": "klein teentje knoflook, geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "honing",
+              "amount": "1 tl"
+            },
+            {
+              "name": "takje tijm",
+              "amount": "1"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de geroosterde tomatenjus",
+          "ingredients": [
+            {
+              "name": "rijpe tomaten",
+              "amount": "700 g"
+            },
+            {
+              "name": "sjalotten",
+              "amount": "2"
+            },
+            {
+              "name": "tenen knoflook",
+              "amount": "5"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "2 el"
+            },
+            {
+              "name": "takje tijm",
+              "amount": "1"
+            },
+            {
+              "name": "groentebouillon",
+              "amount": "250 ml"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "koude boter",
+              "amount": "30 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de basilicumolie",
+          "ingredients": [
+            {
+              "name": "basilicumblaadjes",
+              "amount": "40 g"
+            },
+            {
+              "name": "druivenpitolie",
+              "amount": "120 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de amandelcrumble",
+          "ingredients": [
+            {
+              "name": "blanke amandelen",
+              "amount": "60 g"
+            },
+            {
+              "name": "panko",
+              "amount": "20 g"
+            },
+            {
+              "name": "boter",
+              "amount": "15 g"
+            },
+            {
+              "name": "zeezout",
+              "amount": "snuf"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Tomaten pellen",
+          "description": "Breng een pan water aan de kook. Kerf de tomaten kruislings in. Dompel 12 seconden onder in kokend water, koel direct terug in ijswater. Verwijder de schil voorzichtig zonder de tomaat te beschadigen."
+        },
+        {
+          "action": "Laten uitlekken",
+          "description": "Leg de gepelde tomaten op keukenpapier en laat 30 minuten uitlekken — dat haalt overtollig vocht weg, zodat de tomaat de marinade straks beter opneemt en steviger blijft."
+        },
+        {
+          "action": "Marineren",
+          "description": "Meng alle ingrediënten van de marinade. Leg de tomaten erin, keer regelmatig voorzichtig om. Marineer precies 1 uur — niet langer, anders worden ze te zacht."
+        },
+        {
+          "action": "Geroosterde tomatenjus maken",
+          "description": "Verwarm de oven voor op 190°C. Snijd de tomaten voor de jus doormidden, leg samen met sjalotten en knoflook op een bakplaat en rooster 45 minuten. Doe alles in een pan, voeg tomatenpuree, tijm, bouillon en sherryazijn toe. Laat 30 minuten zacht trekken. Pureer alles en passeer twee keer door een fijne zeef voor een zijdezachte textuur. Kook in tot een fluweelzachte saus. Monteer vlak voor het serveren met de koude boter tot de saus glanst als een perfecte vleesjus."
+        },
+        {
+          "action": "Basilicumolie maken",
+          "description": "Blancheer de basilicum 10 seconden, koel direct terug, knijp volledig droog. Pureer 3 minuten met de olie. Passeer door een koffiefilter. Bewaar ijskoud."
+        },
+        {
+          "action": "Amandelcrumble maken",
+          "description": "Hak de amandelen grof. Bak samen met de panko in de boter goudbruin. Breng op smaak met een klein beetje zout. Laat volledig afkoelen."
+        },
+        {
+          "action": "Tomaat afwerken",
+          "description": "Dep de tomaten droog. Verhit een koekenpan met een klein beetje olijfolie. Bak de tomaten rondom slechts 30 seconden per zijde tot een lichte karamellisatie, en lak tijdens het bakken enkele keren met wat van de overgebleven marinade."
+        },
+        {
+          "action": "Serveren",
+          "description": "Lepel een spiegel van de warme tomatenjus op een warm bord. Plaats de tomaat precies in het midden. Druppel er heldergroene basilicumolie omheen. Bestrooi met de amandelcrumble. Werk af met enkele basilicumblaadjes."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Lepel de warme jus als een spiegel op het bord, de gelakte, licht gekarameliseerde tomaat precies in het midden — het geheel moet op het eerste gezicht op een perfect gebakken tournedos lijken. Basilicumolie eromheen gedruppeld, amandelcrumble erover gestrooid, een paar verse basilicumblaadjes als laatste accent."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de tomaat eerst te pellen, te laten uitlekken en daarna te marineren, dringen de smaken veel dieper door dan wanneer de schil intact blijft, en blijft de tomaat steviger van structuur. Het korte aanbakken met de marinade als lak zorgt voor lichte karamellisatie zonder dat de tomaat zijn vorm verliest — precies het \"steak\"-effect. De geroosterde tomatenjus, tweemaal gezeefd en met koude boter gemonteerd, levert een diepe umamismaak die verrassend dicht in de buurt komt van een rijke vleesjus. De basilicumolie brengt frisheid en de amandelcrumble zorgt voor het krokante element dat de zachte textuur van de tomaat perfect aanvult."
+        }
+      ],
+      "chef_tip": "Tomatenkwaliteit: Gebruik uitsluitend perfect rijpe, geurige tomaten — de kwaliteit van de tomaat bepaalt het succes van het gerecht.\n\nTomatensoort: Coeur de Boeuf of Marmande zijn ideaal vanwege hun stevige vruchtvlees en diepe smaak.\n\nMarineertijd: Laat de tomaten niet langer dan één uur marineren, anders worden ze te zacht.\n\nVooruitwerken: De basilicumolie kun je een dag van tevoren maken en gekoeld bewaren.\n\nBakduur: Bak de tomaten slechts heel kort — ze moeten hun vorm behouden.\n\nServeren: Serveer op warme borden zodat de jus mooi op temperatuur blijft.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Etna Rosso (Sicilië, Italië)",
+          "druif": "Nerello Mascalese",
+          "smaakprofiel": "Elegant, lichtgekleurd, met zure kersen, wilde aardbeien, rozen, mediterrane kruiden en vulkanische mineraliteit. Verfijnde tannines, levendige zuren, een opvallend frisse, lange afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De frisse zuren sluiten prachtig aan bij de natuurlijke frisheid van de tomaat, terwijl de aardse mineraliteit de geroosterde tomatenjus extra diepgang geeft. Een zeldzaam gerecht waarbij een elegante rode wijn beter werkt dan wit.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Vermentino di Gallura (Sardinië, Italië)",
+          "druif": "Vermentino",
+          "smaakprofiel": "Fris en aromatisch, met citrus, witte perzik, mediterrane kruiden en een subtiele ziltigheid.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De frisse citrusaroma's brengen de tomaat tot leven, terwijl de kruidige tonen mooi aansluiten op de basilicumolie.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Noir (Bourgogne, Frankrijk)",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Verfijnd, met kersen, frambozen, gedroogde rozen en lichte aardse tonen. Zijdezachte tannines, levendige zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De subtiele aardse tonen sluiten mooi aan bij de geroosterde tomatenjus, terwijl het frisse rode fruit het zoete karakter van de tomaat versterkt.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        }
+      ]
+    },
+    {
+      "title": "Hongaarse goulashsoep met csipetke",
+      "slug": "hongaarse-goulashsoep-csipetke",
+      "location": "Boedapest, Hongarije",
+      "time": "40 min voorbereiding + 3-3,5 uur bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "soep",
+      "image": "/assets/images/hongaarse-goulashsoep-csipetke.jpg",
+      "short_description": "Runderschenkel als geheel gegrild, een uienbasis die anderhalf uur langzaam wordt opgebouwd, en een messcherpe, frisse topping van selderij en citroenschil. De zijdeachtige goulash zoals Boedapest's beste bistro hem serveert — geen stoofpot, een soep.",
+      "description": "In de Hold utca-markthal in Boedapest runnen chef-koppel Szabina Szulló en Tamás Széll — ook van het twee-Michelinsterren-restaurant Stand — hun bistro Stand25. Hun goulash is geen stoofpot maar een zijdeachtige soep: runderschenkel als geheel gegrild, een langzaam opgebouwde uienbasis, en een messcherpe, frisse topping die de rijkdom in balans houdt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de soep",
+          "ingredients": [
+            {
+              "name": "runderschenkel zonder bot, aan één stuk",
+              "amount": "700 g"
+            },
+            {
+              "name": "ui, fijngesneden",
+              "amount": "230 g"
+            },
+            {
+              "name": "reuzel (of neutrale olie als alternatief)",
+              "amount": "3 el"
+            },
+            {
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "klein stukje verse tomaat, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "groene Hongaarse peper of milde groene chili, fijngesneden",
+              "amount": "⅓"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "hele karwijzaadjes",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "goed Hongaars zoet paprikapoeder (ongeveer 2 el)",
+              "amount": "10 g"
+            },
+            {
+              "name": "scherp Hongaars paprikapoeder",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "krachtige runderbouillon",
+              "amount": "1,5–1,7 l"
+            },
+            {
+              "name": "vastkokende aardappel, in blokjes",
+              "amount": "200 g"
+            },
+            {
+              "name": "wortel, in stevige stukken",
+              "amount": "200 g"
+            },
+            {
+              "name": "pastinaak, in kleine blokjes",
+              "amount": "70 g"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de csipetke",
+          "ingredients": [
+            {
+              "name": "ei",
+              "amount": "1"
+            },
+            {
+              "name": "bloem",
+              "amount": "100 g"
+            },
+            {
+              "name": "zout",
+              "amount": "mespuntje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de frisse topping",
+          "ingredients": [
+            {
+              "name": "heel fijne brunoise van bleekselderij, plus wat fijngesneden selderijblad",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijngesneden sjalot",
+              "amount": "1 el"
+            },
+            {
+              "name": "heel weinig groene chili, zeer fijn gesneden",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fijngehakte zure paprikapickle",
+              "amount": "1 tl"
+            },
+            {
+              "name": "fijn geraspte ingelegde citroenschil (of gewone citroenschil)",
+              "amount": "minuscuul beetje"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees dichtschroeien",
+          "description": "Gril de runderschenkel als geheel boven houtskool, of kleur hem rondom zeer donker in een gietijzeren pan op hoog vuur. Laat kort rusten en snijd in blokken van ongeveer 3 cm."
+        },
+        {
+          "action": "Karwij roosteren",
+          "description": "Rooster de karwijzaadjes droog in een pannetje tot geurig, laat afkoelen en maal fijn."
+        },
+        {
+          "action": "Uienbasis opbouwen",
+          "description": "Smelt de reuzel in een ruime pan en laat de ui op laag vuur langzaam goudgeel en volledig zacht worden. Voeg knoflook, de verse tomaat en groene peper toe. Voeg gedurende 75-90 minuten telkens een scheutje water toe, laat dat steeds volledig verdampen en bak de basis opnieuw droog. Zo ontstaat een zijdezachte, geconcentreerde basis."
+        },
+        {
+          "action": "Vlees en karwij toevoegen",
+          "description": "Voeg de tomatenpuree, het rundvlees en de geroosterde, gemalen karwij toe. Bak op hoog vuur tot vlees en uienbasis samen donker en geconcentreerd worden en vrijwel al het vocht weer is verdampt."
+        },
+        {
+          "action": "Paprika en bouillon",
+          "description": "Neem de pan even van het vuur, voeg zoet en scherp paprikapoeder toe, roer 15-20 seconden en schenk onmiddellijk de hete bouillon erbij."
+        },
+        {
+          "action": "Stoven",
+          "description": "Laat de soep behoorlijk levendig doorkoken (niet heel voorzichtig) tot het rund bijna mals is — reken op 2 tot 3 uur, afhankelijk van het vlees. Vul zo nodig tussendoor bouillon of water aan en proef meerdere keren op zout."
+        },
+        {
+          "action": "Groenten apart aanbakken",
+          "description": "Bak wortel, aardappel en pastinaak afzonderlijk kort in een beetje reuzel tot ze lichte kleur krijgen. Voeg ze toe wanneer het rundvlees nog ongeveer 25-30 minuten nodig heeft."
+        },
+        {
+          "action": "Csipetke maken",
+          "description": "Meng het ei met de bloem en het zout tot een stevig deeg. Knijp met je vingers kleine, onregelmatige stukjes deeg af (csipetke betekent letterlijk \"geknepen\") en laat ze de laatste paar minuten meekoken in de soep, of kook ze apart in water als je de soep later opnieuw wilt opwarmen."
+        },
+        {
+          "action": "Rusten",
+          "description": "Laat de goulash na het koken 20 minuten rusten. Verwijder eventueel overtollig vet, maar niet alles — een paar rode paprikadruppels horen op het oppervlak te blijven."
+        },
+        {
+          "action": "Topping maken",
+          "description": "Meng alle ingrediënten voor de frisse topping vlak voor het serveren."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep de goulash in kommen en geef bovenop slechts één klein lepeltje van de frisse topping — niet door de hele pan."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Een diepe kom met de zijdeachtige, roodbruine soep, stukjes vlees, aardappel, wortel en csipetke goed zichtbaar. Eén klein, precies gepositioneerd lepeltje van de frisse topping bovenop — dat kleine accent maakt het verschil tussen een goede en een uitzonderlijke goulash."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het vlees als geheel te grillen voordat het in blokken wordt gesneden, krijgt de hele soep rook- en Maillardsmaak zonder dat elk stukje apart hoeft te worden aangebakken. De langzaam opgebouwde uienbasis — telkens met water losgemaakt en weer drooggebakken — geeft een geconcentreerde, zijdezachte body zonder bloem of andere binders. Paprika, pas toegevoegd als de pan van het vuur af is, behoudt zijn volle, felle kleur en smaak. Aardappel, wortel en pastinaak apart aangebakken geven meer eigen smaak en een helderder uiterlijk dan wanneer ze rauw worden meegekookt. En de frisse topping van bleekselderij, sjalot, chili, pickle en citroenschil is het element dat de rijke, diepe soep precies op tijd doorbreekt — messcherp, in een klein lepeltje, niet verdund door de hele pan."
+        }
+      ],
+      "chef_tip": "Variatie zonder aardappel/wortel in de soep: liever een stevigere maaltijd met bijgerecht? Laat de aardappel en wortel dan weg uit de soep en serveer in plaats daarvan een romige aardappelpuree ernaast — een prima, andere richting, alleen niet de authentieke Stand25-versie.\n\nAlternatief voor reuzel: geen reuzel? Neutrale olie werkt ook, al mis je dan een deel van de klassieke, ronde smaak.\n\nVooruitwerken: de soep (zonder csipetke en topping) is de volgende dag nog beter. Kook de csipetke apart en voeg pas toe bij het opwarmen.\n\nCitroenschil-alternatief: geen ingelegde citroenschil te vinden? Gewone verse citroenschil werkt ook, gebruik dan echt maar een minuscule hoeveelheid.\n\nPeper-alternatief: geen groene Hongaarse peper? Een milde groene chili of zelfs een klein stukje groene paprika komt in de buurt.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Egri Bikavér (Eger, Hongarije)",
+          "druif": "Kékfrankos-gebaseerde blend",
+          "smaakprofiel": "Kruidig rood fruit — kers, pruim — met peper, een licht rokerige ondertoon en zachte tannines. Vol maar niet zwaar, met een levendige, kruidige afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De Hongaarse \"stierenbloed\" is de thuiswedstrijd-pairing bij uitstek — de kruidige, peperige body sluit direct aan bij de paprika en de rooksmaak van het gegrilde vlees, terwijl de zachte tannines goed standhouden tegen de rijke, geconcentreerde uienbasis.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Furmint (Tokaj, Hongarije)",
+          "druif": "Furmint",
+          "smaakprofiel": "Droog, met citrus, groene appel en een levendige, bijna vurige mineraliteit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De frisse, minerale zuren snijden door de rijkdom van de soep, terwijl de citrustonen de citroenschil en de frisse topping weerspiegelen.",
+          "serveertemperatuur": "Serveer rond 9-11°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud Hongaars lager bier",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht, met een droge, schone afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De eenvoudige, verfrissende metgezel waarmee goulash in Hongarije van oudsher wordt gedronken — de koolzuurprikkeling reset het gehemelte tussen de rijke, kruidige happen door.",
+          "serveertemperatuur": "Serveer rond 4-6°C."
+        }
+      ]
+    },
+    {
+      "title": "Het ultieme broodje tartaar (Franse bistrostijl)",
+      "slug": "ultieme-broodje-tartaar-franse-bistrostijl",
+      "location": "Parijs, Frankrijk",
+      "time": "30 min voorbereiding + 10 min bereiding",
+      "servings": "4 personen (4 kleine broodjes)",
+      "difficulty": "Makkelijk",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/ultieme-broodje-tartaar-franse-bistrostijl.jpg",
+      "short_description": "Zacht wit broodje, goede boter, ijskoude tartaar en een mimosa-ei — laag voor laag opgebouwd in plaats van vooraf aangemaakt. Simpel, precies, en om die reden juist zo veeleisend om goed te doen.",
+      "description": "Pain, beurre, viande — brood, boter, vlees. In Parijse bistro's is dat de basisformule voor het beste broodje tartaar: een zacht broodje, goede gezouten boter en ijskoude tartaar, laag voor laag opgebouwd in plaats van vooraf aangemaakt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Hoofdingrediënten",
+          "ingredients": [
+            {
+              "name": "zachte witte puntjes of kleine melkbroodjes",
+              "amount": "4"
+            },
+            {
+              "name": "zeer verse rundertartaar, geschikt om rauw te eten",
+              "amount": "300 g"
+            },
+            {
+              "name": "gezouten roomboter van topkwaliteit (bijvoorbeeld Échiré, Isigny of een goede boerenroomboter), 1 uur op kamertemperatuur",
+              "amount": "40 g"
+            },
+            {
+              "name": "eieren",
+              "amount": "2"
+            },
+            {
+              "name": "kleine sjalot",
+              "amount": "1"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "Worcestersaus",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "bieslook, in flinterdunne ringetjes",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "royaal versgemalen zwarte peper (bij voorkeur Tellicherry of Kampot)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Eieren koken",
+          "description": "Kook de eieren 9 minuten hard. Laat ze direct schrikken in koud water, pel ze en laat volledig afkoelen."
+        },
+        {
+          "action": "Sjalot voorbereiden",
+          "description": "Snijd de sjalot zo fijn mogelijk. Leg 5 minuten in ijskoud water — dat houdt hem krokant en tempert de scherpte. Laat goed uitlekken en dep echt goed droog met keukenpapier, anders krijg je vocht op het brood."
+        },
+        {
+          "action": "Mimosa-ei maken",
+          "description": "Scheid het eiwit en de dooier. Hak het eiwit zeer fijn. Druk de dooiers door een fijne zeef tot een luchtig kruim (het echte mimosa-effect). Meng eiwit en dooier daarna losjes door elkaar."
+        },
+        {
+          "action": "Vlees koud houden",
+          "description": "Houd de rundertartaar tot vlak voor het serveren goed gekoeld."
+        },
+        {
+          "action": "Broodjes opensnijden",
+          "description": "Snijd de broodjes open zonder ze volledig door te snijden. Besmeer beide snijkanten dun met de kamerwarme boter."
+        },
+        {
+          "action": "Opbouwen — laag voor laag",
+          "description": "Verdeel de rauwe tartaar royaal maar luchtig over de broodjes, zonder hem vooraf te mengen. Trek er dunne streepjes Dijonmosterd overheen, druppel er 3-4 druppels Worcestersaus over, maal er zwarte peper over en bestrooi met een klein beetje zout. Verdeel de mimosa-ei, de uitgelekte sjalot en de bieslookringetjes erover."
+        },
+        {
+          "action": "Serveren",
+          "description": "Maal er vlak voor het serveren nog wat extra peper over en serveer onmiddellijk."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Laat de lagen — vlees, mosterdstreepjes, ei, sjalot, bieslook — zichtbaar blijven in plaats van alles door elkaar te scheppen. Dat laat precies zien dat dit geen aangemaakte tartaar is, maar een zorgvuldig opgebouwd broodje waarin elk ingrediënt zijn eigen moment krijgt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Dit broodje draait volledig om balans. Het zachte brood, de romige boter en het luchtige mimosa-ei verzachten het rauwe rundvlees, terwijl sjalot, mosterd en Worcestersaus precies genoeg frisheid en kruidigheid geven. Omdat de tartaar niet wordt aangemaakt of overwerkt, blijft hij luchtig en los, waardoor iedere hap licht aanvoelt ondanks de rijke ingrediënten — je proeft het vlees zelf, in plaats van een gemarineerde massa."
+        }
+      ],
+      "chef_tip": "Bij de slager: Vraag bij de slager expliciet om rundertartaar die geschikt is om rauw te eten, en gebruik hem dezelfde dag.\n\nRestaurantgeheim: laat de tartaar 10 minuten in de koelkast liggen nadat hij is geportioneerd op het brood — dan wordt hij net iets steviger en blijft hij mooier liggen. Breng pas op het allerlaatste moment op smaak.\n\nStevigere variant: Liever een steviger broodje dat niet uit elkaar valt? Meng de mosterd en Worcestersaus dan alsnog héél licht door het vlees zelf, vlak voor het opscheppen — minder elegant, maar praktischer om vast te houden.\n\nBroodkeuze: Een zacht wit puntje werkt beter dan een zoete briochebol — het brood mag de tartaar niet overheersen. Rooster het brood niet.\n\nTiming: Maak de broodjes pas vlak voor het serveren, anders trekt het vleesvocht in het brood.\n\n🇫🇷 Parijs-variant: cornichons en kappertjes: 1 el fijngehakte cornichons en 1 tl fijngehakte kappertjes per 300 g vlees.\n\n🇧🇪 Brussel-variant: een dun laagje mayonaise op de onderste broodhelft, in plaats van (niet naast) extra boter.\n\n🇳🇱 Klassiek Nederlandse variant: precies deze versie — hardgekookt ei, sjalot en boter, zonder cornichons of kappertjes.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Beaujolais-Villages (Beaujolais, Frankrijk)",
+          "druif": "Gamay",
+          "smaakprofiel": "Licht robijnrood, met aroma's van rijpe kersen, frambozen, viooltjes en een subtiele kruidigheid. Sappig en fris in de mond, met nauwelijks tannines, waardoor de wijn elegant en verrassend doordrinkbaar blijft.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De frisse zuren snijden mooi door de romigheid van de boter en het ei, terwijl de zachte tannines het rauwe rundvlees niet overheersen. De lichte kruidigheid sluit bovendien prachtig aan bij de zwarte peper en de sjalot.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Spätburgunder (Baden, Duitsland)",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Kers, rode bes, subtiele aardse tonen en zachte zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Pinot Noir sluit van nature mooi aan bij rauw rundvlees zonder het broodje zwaar te maken — een iets serieuzere, maar nog steeds lichte metgezel.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cinsault (Zuid-Afrika)",
+          "druif": "Cinsault",
+          "smaakprofiel": "Licht, sappig, peperig, lekker licht gekoeld te drinken.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De kruidigheid pakt de zwarte peper en sjalot op, terwijl het frisse fruit de tartaar zijn helderheid laat behouden.",
+          "serveertemperatuur": "Serveer rond 12-13°C."
+        }
+      ]
+    },
+    {
+      "title": "Het ultieme Michelin-tafelbrood met opgeklopte restaurantboter",
+      "slug": "michelin-tafelbrood-restaurantboter",
+      "location": "Frankrijk",
+      "time": "30 min actief, verdeeld over 2 dagen + 40-45 min bereiding",
+      "servings": "4-6 personen (1 rond brood van circa 18-20 cm)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/michelin-tafelbrood-restaurantboter.jpg",
+      "short_description": "Dat warme, ronde tafelbrood uit een Michelinrestaurant waar je stiekem het hele diner voor terug zou willen. Flinterdunne korst, luchtige kruim en onweerstaanbare opgeklopte boter.",
+      "description": "Dit is het warme tafelbrood waar je in een driesterrenrestaurant stiekem een tweede keer om vraagt: een flinterdunne, knisperende mahoniekleurige korst, een boterzachte open kruim en een diepe tarwesmaak, lauwwarm geserveerd met opgeklopte gezouten boter.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het deeg",
+          "ingredients": [
+            {
+              "name": "Franse T65-bloem",
+              "amount": "700 g"
+            },
+            {
+              "name": "Manitoba-bloem",
+              "amount": "200 g"
+            },
+            {
+              "name": "licht volkorenmeel",
+              "amount": "100 g"
+            },
+            {
+              "name": "ijskoud water",
+              "amount": "740 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "22 g"
+            },
+            {
+              "name": "instantgist",
+              "amount": "2 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de restaurantboter",
+          "ingredients": [
+            {
+              "name": "ongezouten roomboter (82-84% vet), 18°C",
+              "amount": "250 g"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "12 g"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "4 g"
+            },
+            {
+              "name": "extra fleur de sel, om te serveren",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Autolyse",
+          "description": "Meng de drie soorten bloem met het ijskoude water tot er geen droge bloem meer zichtbaar is. Kneed nog niet. Dek af en laat 30 minuten rusten."
+        },
+        {
+          "action": "Gist toevoegen",
+          "description": "Voeg de instantgist toe. Kneed 6 minuten op lage snelheid."
+        },
+        {
+          "action": "Zout toevoegen",
+          "description": "Voeg het zout toe. Kneed nog 5 minuten. Het deeg moet glad, elastisch en licht glanzend zijn. Streef naar een deegtemperatuur van ongeveer 24°C."
+        },
+        {
+          "action": "Stretch & Fold",
+          "description": "Laat het deeg 45 minuten rusten. Rek vervolgens één zijde van het deeg omhoog en vouw deze terug over zichzelf. Draai de kom een kwartslag en herhaal totdat alle vier de zijden zijn gevouwen. Herhaal dit hele proces nog twee keer, telkens na 45 minuten rust — in totaal dus drie stretch-and-fold-rondes."
+        },
+        {
+          "action": "Koude fermentatie",
+          "description": "Dek het deeg goed af en laat het 24 uur rijpen in de koelkast."
+        },
+        {
+          "action": "Op temperatuur laten komen (dag 2)",
+          "description": "Haal het deeg uit de koelkast en laat 1 uur op kamertemperatuur komen."
+        },
+        {
+          "action": "Vormen",
+          "description": "Vorm het deeg tot een strakke ronde bol. Leg deze met de naad naar boven in een royaal bebloemde rijsmand of een kom bekleed met een goed bebloemde theedoek. Dek af en laat 2½ tot 3 uur rijzen."
+        },
+        {
+          "action": "Oven voorverwarmen",
+          "description": "Plaats de Dutch oven met deksel in de oven. Verwarm minimaal 45 minuten voor op 250°C."
+        },
+        {
+          "action": "Bakken",
+          "description": "Keer het deeg voorzichtig op een vel bakpapier. Snijd met een scherp mes één of meerdere insnijdingen. Laat het brood met behulp van het bakpapier in de gloeiend hete Dutch oven zakken. Doe direct het deksel erop. Bak 20 minuten op 250°C met deksel, verwijder dan het deksel, verlaag naar 220°C en bak nog 20 minuten. Zet de laatste 5 minuten de ovendeur op een kier zodat overtollige stoom kan ontsnappen en de korst volledig kan uitdrogen. Het brood is gaar wanneer het diep mahoniekleurig is en hol klinkt wanneer je op de onderkant klopt."
+        },
+        {
+          "action": "Afkoelen",
+          "description": "Laat het brood minimaal 45 minuten afkoelen op een rooster. Snijd het niet eerder aan — de kruim gaart tijdens het afkoelen nog verder."
+        },
+        {
+          "action": "Restaurantboter maken",
+          "description": "Klop de boter 2 minuten los. Voeg de crème fraîche toe en klop nog 30 seconden. Voeg de fleur de sel toe en klop nog 20 seconden. De boter moet zijdezacht zijn, niet luchtig als slagroom. Bestrooi vlak voor het serveren met enkele extra vlokken fleur de sel."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer het brood lauwwarm op een houten plank of in een met linnen beklede broodmand. Geef de opgeklopte boter in een klein gekoeld schaaltje. Breek het brood aan tafel met de hand in plaats van het te snijden; dat behoudt de luchtige kruim en geeft de mooiste presentatie."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De lange koude fermentatie ontwikkelt een diepe tarwesmaak en complexe aroma's die met een snelle rijs onmogelijk zijn te bereiken. De combinatie van Franse T65, Manitoba en een klein deel volkoren zorgt voor een luchtige kruim met voldoende structuur. De Dutch oven houdt tijdens de eerste bakfase de natuurlijke stoom vast, waardoor het brood maximaal kan uitzetten voordat de korst zich vormt. Door de laatste minuten zonder deksel én met de ovendeur op een kier te bakken, ontstaat die flinterdunne, knisperende korst die zo kenmerkend is voor het brood in de beste restaurants. De opgeklopte boter met een vleugje crème fraîche sluit daar perfect op aan: romig, fris en zijdezacht."
+        }
+      ],
+      "chef_tip": "Restaurantgeheim: Professionele bakkers laten een brood voor dit type korst veel verder kleuren dan de meeste thuiskoks durven. Wees daarom niet bang voor een diep mahoniekleurige korst; juist die extra karamellisatie zorgt voor de intense geroosterde aroma's en de karakteristieke dunne, breekbare korst die je kent uit de beste Michelinrestaurants.\n\nRestauranttip — moutpoeder: Voeg 5 g diastatisch moutpoeder toe aan het deeg. Je proeft het vrijwel niet terug, maar het zorgt voor een diepere mahoniekleurige korst, een krachtigere ovenrijs en een rijker, ambachtelijk bakaroma. Het is een klein ingrediënt dat door veel professionele bakkers wordt gebruikt om brood nét dat beetje mooier, luchtiger en smaakvoller te maken. Gebruik niet meer dan 5 g; een grotere hoeveelheid kan de kruim juist kleverig maken.\n\nGeen rijsmand?: Gebruik een vergiet of kom bekleed met een royaal bebloemde theedoek.\n\nRestjes: Warm het brood de volgende dag 8 minuten op in een oven van 180°C.\n\nInvriezen: Dit brood laat zich uitstekend invriezen; warm het bevroren brood 12-15 minuten op in een oven van 180°C.\n\nTijdschema (voorbeeld): dag 1 begin je rond 9:00 met mengen en kneden; rond 12:00 zijn alle stretch-and-folds klaar en gaat het deeg afgedekt de koelkast in voor 24 uur. Dag 2 haal je het rond 12:00 uit de koelkast, vorm je het rond 13:00, en bak je het rond 15:30 — zodat het rond 17:00 warm op tafel staat.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Blanc de Blancs (Champagne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Helder strogeel met een verfijnde mousse en aroma's van geroosterde brioche, citroenrasp, groene appel, witte bloemen, geroosterde hazelnoot en een subtiele krijtachtige mineraliteit. De wijn is strak, levendig en elegant, met een lange, frisse afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De levendige zuren en fijne bubbels snijden prachtig door de rijke boter, terwijl de brioche- en noottonen naadloos aansluiten bij de geroosterde korst van het brood. De minerale spanning houdt iedere hap fris, waardoor je automatisch nog een stuk brood afbreekt.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chablis (Bourgogne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Strak en mineraal met aroma's van groene appel, limoen, witte bloemen, natte steen en een subtiele ziltigheid. Droog, fris en zuiver met een lange minerale afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De strakke zuren en minerale spanning vormen een prachtig contrast met de romige boter, terwijl de subtiele citrusaroma's de tarwesmaak van het brood nog beter laten uitkomen.",
+          "serveertemperatuur": "Serveer rond 10-12°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Frans tarwebier of een klassieke pilsener",
+          "druif": "Bier",
+          "smaakprofiel": "Licht moutig met frisse citrusaroma's, zachte hopbitterheid en een droge, verfrissende afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De koolzuurprikkeling en lichte bitterheid zorgen voor een mooi tegenwicht aan de boter, terwijl de mouttonen prachtig aansluiten bij de geroosterde korst.",
+          "serveertemperatuur": "Serveer rond 5-7°C."
+        }
+      ]
+    },
+    {
+      "title": "Het ultieme Michelin-briochebrood met opgeklopte restaurantboter",
+      "slug": "michelin-briochebrood-restaurantboter",
+      "location": "Frankrijk",
+      "time": "30 min actief, verdeeld over 2 dagen + 30-35 min bereiding",
+      "servings": "4-6 personen (1 rond brood van circa 16-17 cm)",
+      "difficulty": "Gevorderd",
+      "keuken": "Frans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/michelin-briochebrood-restaurantboter.jpg",
+      "short_description": "Flinterdunne glanzende korst, lange boterige draden en een zijdezachte kruim. Dit is het warme briochebrood waarvoor je in een Michelinrestaurant stiekem nog een tweede mandje bestelt.",
+      "description": "Warm, glanzend en boterzacht: dit is de brioche waarvoor je in een driesterrenrestaurant stiekem een tweede mandje vraagt. Flinterdunne korst, lange boterige draden, nauwelijks zoet maar onweerstaanbaar rijk — perfect om royaal met boter te eten.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het deeg",
+          "ingredients": [
+            {
+              "name": "Franse T45-bloem",
+              "amount": "500 g"
+            },
+            {
+              "name": "instantgist",
+              "amount": "8 g"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "8 g"
+            },
+            {
+              "name": "vloeibare honing",
+              "amount": "8 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "10 g"
+            },
+            {
+              "name": "middelgrote eieren (ca. 300 g), koelkastkoud",
+              "amount": "6"
+            },
+            {
+              "name": "ongezouten roomboter (82-84% vet), in blokjes van 1 cm, op 13-14°C",
+              "amount": "250 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de glans",
+          "ingredients": [
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "volle melk",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "snufje"
+            },
+            {
+              "name": "gesmolten ongezouten boter",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de restaurantboter",
+          "ingredients": [
+            {
+              "name": "ongezouten roomboter (82-84% vet), op 18°C",
+              "amount": "250 g"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "12 g"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "4 g"
+            },
+            {
+              "name": "extra fleur de sel, voor het serveren",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Deeg opzetten",
+          "description": "Doe bloem, gist, suiker, honing en de koude eieren in de kom van een keukenmachine. Kneed 8 minuten op lage snelheid."
+        },
+        {
+          "action": "Zout",
+          "description": "Voeg het zout toe. Kneed nog 5 minuten tot een soepel deeg."
+        },
+        {
+          "action": "Boter toevoegen",
+          "description": "Voeg de boter blokje voor blokje toe. Voeg pas een nieuw blokje toe wanneer het vorige volledig is opgenomen. Neem hiervoor ongeveer 15 minuten. Aan het einde moet het deeg volledig loskomen van de kom en glad, elastisch en bijna zijdeachtig aanvoelen."
+        },
+        {
+          "action": "Eerste rijs",
+          "description": "Laat het deeg 60 minuten rijzen. Geef na 30 minuten één Stretch & Fold."
+        },
+        {
+          "action": "Koude fermentatie",
+          "description": "Dek de kom af. Laat het deeg 12-18 uur rijpen in de koelkast — hier ontwikkelt zich vrijwel alle smaak."
+        },
+        {
+          "action": "Vormen",
+          "description": "Haal het deeg uit de koelkast. Vorm het direct, terwijl het nog koud is, tot een strakke ronde bol. Leg op een met bakpapier beklede bakplaat."
+        },
+        {
+          "action": "Tweede rijs",
+          "description": "Laat de brioche bij ongeveer 24°C rijzen totdat hij bijna in volume is verdubbeld. Wanneer je zacht met een vinger op het deeg drukt, moet de afdruk langzaam terugveren. Dat duurt meestal 2½ tot 3 uur."
+        },
+        {
+          "action": "Glans",
+          "description": "Meng eidooier, melk en een snufje zout. Bestrijk de brioche zeer dun. Wacht 10 minuten. Bestrijk daarna nogmaals. Kerf eventueel een subtiel decoratief patroon in de bovenkant."
+        },
+        {
+          "action": "Bakken",
+          "description": "Verwarm de oven voor op 175°C (boven- en onderwarmte). Bak de brioche ongeveer 30-35 minuten. Controleer de kerntemperatuur — deze moet 92-94°C zijn. Wordt de bovenkant te donker? Dek de brioche dan na ongeveer 20 minuten losjes af met aluminiumfolie."
+        },
+        {
+          "action": "Afwerking",
+          "description": "Bestrijk de warme brioche direct na het bakken flinterdun met de gesmolten boter. Hierdoor krijgt hij die prachtige zijdeachtige restaurantglans."
+        },
+        {
+          "action": "Afkoelen",
+          "description": "Laat afkoelen op een rooster. Serveer wanneer de brioche nog ongeveer 38-40°C is."
+        },
+        {
+          "action": "Restaurantboter",
+          "description": "Klop de boter 2 minuten los. Voeg de crème fraîche toe. Klop nog 30 seconden. Voeg de fleur de sel toe. Klop nog 20 seconden. De boter moet zijdezacht zijn, niet luchtig als slagroom. Bestrooi vlak voor het serveren met enkele vlokken fleur de sel."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de brioche lauwwarm op een houten plank of in een met linnen beklede broodmand. Geef de opgeklopte boter in een klein gekoeld schaaltje. Breek de brioche aan tafel met de hand; zo komen de lange boterige draden het mooist zichtbaar."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Deze brioche bevat bewust weinig suiker en is daardoor geen zoet ontbijtbrood, maar een verfijnd tafelbrood dat vrijwel overal bij past. De enorme hoeveelheid boter geeft de karakteristieke lange, zijdeachtige draden, terwijl de koude fermentatie een diepe, licht nootachtige smaak ontwikkelt. Doordat de boter langzaam wordt geëmulgeerd in het deeg ontstaat een sterk glutennetwerk dat ondanks het hoge vetgehalte uitzonderlijk luchtig blijft. De dubbele eistrijk en het dunne laagje gesmolten boter na het bakken zorgen samen voor die diepe, zijdeachtige glans die je kent uit de beste restaurants."
+        }
+      ],
+      "chef_tip": "Restaurantgeheim: Professionele keukens vormen brioche vrijwel altijd terwijl het deeg nog koud is. Koud deeg plakt veel minder, houdt de boter beter vast en laat zich veel strakker op spanning brengen. Daardoor rijst de brioche mooier op en ontstaat die karakteristieke lange, boterige draadstructuur.\n\nRestauranttip — boterkeuze: Gebruik boter met minimaal 84% vet, zoals Échiré of Isigny Sainte-Mère. Het hogere vetgehalte geeft een luchtigere kruim, een vollere botersmaak en een luxere textuur.\n\nGaarheid controleren: Controleer de gaarheid altijd met een kernthermometer; die is betrouwbaarder dan baktijd alleen.\n\nInvriezen: Vries restjes in dikke plakken in en warm ze later 5-8 minuten op in een oven van 160°C.\n\nErbij serveren: Deze brioche is ook fantastisch met foie gras, gerookte zalm, kaviaar, oude Comté of een goede gezouten boter.\n\nTijdschema (voorbeeld): dag 1 begin je 's avonds rond 20:00 met het deeg, en rond 21:30 gaat het afgedekt de koelkast in voor 12-18 uur. Dag 2 vorm je de brioche rond 13:00 zodra hij nog koud is, en bak je 'm rond 16:00 — zodat hij rond 17:00 lauwwarm op tafel staat.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Champagne Blanc de Blancs (Champagne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Helder strogeel met een verfijnde mousse en aroma's van brioche, geroosterde amandelen, citroenrasp, witte bloemen, groene appel, verse boter en een subtiele krijtachtige mineraliteit. Elegant, levendig en lang.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De subtiele briochetonen in de wijn vormen een natuurlijke brug naar het warme brood, terwijl de frisse zuren en fijne bubbels de rijke boter prachtig in balans brengen. De minerale spanning houdt iedere hap licht en verfijnd.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Meursault (Bourgogne, Frankrijk)",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Vol en romig met aroma's van boter, geroosterde hazelnoot, rijpe appel, citrus, vanille en subtiele houttonen. Zijdezacht, rijk en mineraal.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De boterige structuur sluit naadloos aan bij de brioche, terwijl de frisse zuren voorkomen dat het geheel zwaar wordt. De nootachtige aroma's versterken bovendien de goudbruine korst.",
+          "serveertemperatuur": "Serveer rond 11-12°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Vin Jaune (Jura, Frankrijk)",
+          "druif": "Savagnin",
+          "smaakprofiel": "Complex met aroma's van walnoten, geroosterde amandelen, gedroogde appel, curry, zoutige mineraliteit en een lange, droge afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Voor wie iets bijzonders zoekt is dit een spectaculaire combinatie. De nootachtige diepte sluit perfect aan bij de boter en de geroosterde korst, terwijl de droge stijl de brioche verrassend licht houdt.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         }
       ]
     }
