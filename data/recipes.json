@@ -12138,23 +12138,23 @@
       ]
     },
     {
-      "title": "Surinaams broodje kip kerrie met zelfgemaakte komkommer atjar",
+      "title": "Surinaams broodje kip kerrie — droge toko-stijl, zonder tomaat",
       "slug": "surinaams-broodje-kip-kerrie",
-      "location": "Paramaribo",
-      "time": "50 min + 2 uur rijzen (puntje) + 1 uur atjar",
+      "location": "Nederland",
+      "time": "30 min voorbereiding + minimaal 1 dag rusten (voor het beste resultaat) + 25 min bereiding (plus broodbakken)",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/surinaams-broodje-kip-kerrie.jpg",
-      "short_description": "Kip kerrie in diepe Surinaamse stijl — met geactiveerde curry, Madame Jeanette en glanzende ketjapsaus op een luchtig puntje met komkommer atjar.",
-      "description": "Een Surinaams broodje kip kerrie is geen toevallig samenstel — het is een evenwicht. Zoet van ketjap, kruidig van kerrie, pittig van Madame Jeanette, fris van atjar. De kip moet glanzen en plakken, niet zwemmen. Het broodje mag licht vochtig worden, niet zompig.",
+      "short_description": "Droge, glanzende kip kerrie zoals bij de beste toko — geen saus die uit het broodje lekt, alleen kip die plakt. Peper en zuur worden er apart bij geserveerd, precies zoals het hoort.",
+      "description": "Bij de beste Surinaamse broodjeszaken zwemt de kip niet in saus — hij plakt en glanst, droog genoeg om zonder gemorste vinger op te eten. Peper en zuur worden pas bij het opbouwen gevraagd, niet vooraf meegekookt. Deze versie laat tomaat en dikke saus achterwege voor precies die strakke, droge toko-stijl.",
       "ingredient_groups": [
         {
-          "group_name": "Surinaamse puntjes (zelfgebakken)",
+          "group_name": "Voor de Surinaamse puntjes (zelfgebakken)",
           "ingredients": [
             {
-              "name": "tarwebloem (11–12% eiwit)",
+              "name": "tarwebloem (11-12% eiwit)",
               "amount": "500 g"
             },
             {
@@ -12178,69 +12178,29 @@
               "amount": "15 g"
             },
             {
-              "name": "fijn griesmeel of semola om in te rollen",
+              "name": "fijn griesmeel of semola, om in te rollen",
               "amount": "1 handvol"
             }
           ]
         },
         {
-          "group_name": "Kip kerrie",
+          "group_name": "Voor het pocheren",
           "ingredients": [
             {
-              "name": "kipdijfilet of kipfilet, in hapklare stukken",
+              "name": "kipdijfilet (of kipfilet), heel gelaten",
               "amount": "500 g"
             },
             {
-              "name": "grote ui, fijngesnipperd",
+              "name": "water",
+              "amount": "500 ml"
+            },
+            {
+              "name": "laurierblaadje",
               "amount": "1"
             },
             {
-              "name": "knoflookteentjes, fijngehakt",
-              "amount": "3"
-            },
-            {
-              "name": "kerriepoeder of masala",
-              "amount": "1½ tl"
-            },
-            {
-              "name": "ketjap manis",
-              "amount": "4 el"
-            },
-            {
-              "name": "sambal oelek",
-              "amount": "1 tl"
-            },
-            {
-              "name": "tomaten uit blik",
-              "amount": "2 el"
-            },
-            {
-              "name": "tomatenpuree",
-              "amount": "1 el"
-            },
-            {
-              "name": "kippenbouillon",
-              "amount": "150 ml"
-            },
-            {
-              "name": "paprikapoeder",
-              "amount": "½ tl"
-            },
-            {
-              "name": "bruine suiker",
-              "amount": "snuf"
-            },
-            {
-              "name": "Madame Jeanette peper, heel gelaten",
-              "amount": "1"
-            },
-            {
-              "name": "klontje boter",
-              "amount": "1"
-            },
-            {
-              "name": "neutrale olie",
-              "amount": "2 el"
+              "name": "ui, in parten",
+              "amount": "½"
             },
             {
               "name": "zout",
@@ -12249,45 +12209,71 @@
           ]
         },
         {
-          "group_name": "Komkommer atjar",
+          "group_name": "Voor de droge kerriebasis",
           "ingredients": [
             {
-              "name": "komkommer, in de lengte gehalveerd, kern uitgelepeld, dun gesneden",
+              "name": "neutrale olie",
+              "amount": "2 el"
+            },
+            {
+              "name": "grote ui, fijngesnipperd",
               "amount": "1"
             },
             {
-              "name": "kleine ui, in dunne halve ringen",
-              "amount": "½"
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "3"
             },
             {
-              "name": "natuurazijn",
-              "amount": "100 ml"
+              "name": "kerriepoeder of masala",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "pocheervocht (bewaar de rest voor het opwarmen)",
+              "amount": "3-4 el"
             },
             {
               "name": "suiker",
-              "amount": "1½ el"
+              "amount": "klein snufje"
             },
             {
               "name": "zout",
-              "amount": "½ tl"
-            },
-            {
-              "name": "kurkuma",
-              "amount": "½ tl"
-            },
-            {
-              "name": "sambal of chilivlokken (optioneel)",
-              "amount": "kleine tl"
+              "amount": "naar smaak"
             }
           ]
         },
         {
-          "group_name": "Serveren",
+          "group_name": "Voor de Madame Jeanette-sambal",
           "ingredients": [
             {
-              "name": "Surinaamse puntjes of kleine stokbroodjes",
-              "amount": "4"
+              "name": "Madame Jeanette-peper, zeer fijn gesneden of gestampt",
+              "amount": "1"
             },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "azijn of limoensap",
+              "amount": "paar druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het zuur (kies één, of beide)",
+          "ingredients": [
+            {
+              "name": "dunne schijfjes verse komkommer",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "komkommeratjar (komkommer, ui, azijn, suiker, zout, kurkuma — zie tips voor het volledige recept)",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te serveren",
+          "ingredients": [
             {
               "name": "mayonaise",
               "amount": "naar smaak"
@@ -12298,86 +12284,78 @@
       "steps": [
         {
           "action": "Puntjes bakken",
-          "description": "meng bloem en water, dek af en laat 20 minuten rusten (autolyse). Kneed dan met gist, suiker, zout en olie tot soepel elastisch deeg — ±10 minuten. Laat 60–75 minuten rijzen. Verdeel in 8 bolletjes van ±100 g, rol ovaal en draai strak op tot een puntje, naad goed dichtknippen. Maak een lengtegleuf. Tweede rijs: 30–40 minuten. Bak op 230°C met stoom (kommetje heet water onderin de oven) — 8 minuten, dan terugdraaien naar 205°C nog 8–10 minuten tot lichtgoud. Direct op rooster afkoelen, nooit afdekken."
+          "description": "Meng bloem en water, dek af en laat 20 minuten rusten (autolyse). Kneed dan met gist, suiker, zout en olie tot een soepel, elastisch deeg — ongeveer 10 minuten. Laat 60-75 minuten rijzen. Verdeel in 8 bolletjes van ±100 g, rol ovaal en draai strak op tot een puntje, naad goed dichtknijpen. Maak een lengtegleuf. Tweede rijs: 30-40 minuten. Bak op 230°C met stoom (kommetje heet water onderin de oven) — 8 minuten, dan terugdraaien naar 205°C, nog 8-10 minuten tot lichtgoud. Direct op een rooster afkoelen, nooit afdekken."
         },
         {
-          "action": "Atjar voorbereiden",
-          "description": "lepel de zachte kern uit de komkommer. Snijd in dunne plakjes. Bestrooi met zout en laat 10 minuten staan, knijp daarna licht uit. Meng met de ui. Verwarm azijn, suiker, kurkuma en zout — niet koken, alleen oplossen. Giet warm over de komkommer. Laat minimaal een uur trekken in de koelkast — langer is beter."
+          "action": "Kip pocheren",
+          "description": "Breng het water met laurier, ui en een snufje zout aan de kook. Zet het vuur laag zodat het water nauwelijks trilt (niet koken), en pocheer de hele kipfilets 15-18 minuten tot net gaar. Haal van het vuur en laat de kip volledig afkoelen in het pocheervocht — dat houdt hem sappig. Zeef het vocht en bewaar het."
+        },
+        {
+          "action": "Kip snijden",
+          "description": "Snijd de afgekoelde, gepocheerde kip in kleine, hapklare blokjes."
         },
         {
           "action": "Kerrie activeren",
-          "description": "verhit olie in een pan op laag vuur. Fruit ui en knoflook rustig glazig. Voeg het kerriepoeder toe en laat 1–2 minuten bakken in de olie. Dit is essentieel — rauwe kerrie is poederig, gebakken kerrie is diep."
+          "description": "Verhit de olie in een pan op laag vuur. Fruit de ui en knoflook rustig glazig. Voeg het kerriepoeder toe en laat 1-2 minuten meebakken in de olie — dit is essentieel, rauwe kerrie is poederig, gebakken kerrie is diep en aromatisch."
         },
         {
-          "action": "Tomaat bakken",
-          "description": "voeg tomatenpuree en tomaat uit blik toe. Bak 2–3 minuten mee tot de zuurheid eraf is en de saus rond ruikt."
+          "action": "Kip droog trekken",
+          "description": "Voeg de kipblokjes, 3-4 eetlepels pocheervocht en het snufje suiker toe. Laat op middelhoog vuur zachtjes doortrekken tot de masala als een droge, kleverige laag aan de kip hangt en er geen vrije saus meer in de pan staat. Breng op smaak met zout."
         },
         {
-          "action": "Kip bakken",
-          "description": "voeg de kip toe en bak tot lichtgoudbruin aan alle kanten."
+          "action": "Laten rusten",
+          "description": "Laat de kip afkoelen en zet minimaal een paar uur, liefst een hele dag, in de koelkast — de smaak trekt er dieper in."
         },
         {
-          "action": "Saus bouwen en sudderen",
-          "description": "voeg ketjap, sambal, paprikapoeder, suiker en bouillon toe. Leg de hele Madame Jeanette erin — heel, niet doorgesneden. Laat 10–15 minuten zacht pruttelen tot de saus dik en plakkerig is."
+          "action": "Sambal maken",
+          "description": "Meng de fijngesneden Madame Jeanette met zout en een paar druppels azijn of limoensap. Zet apart."
         },
         {
-          "action": "Finish",
-          "description": "haal de Madame Jeanette eruit. Voeg het klontje boter en een laatste scheutje ketjap toe. Roer door — de saus gaat glanzen en plakken. Dat is het moment."
+          "action": "Opwarmen",
+          "description": "Doe de koude kip in een koekenpan met 1-2 eetlepels water of bewaard pocheervocht (per 500 g kip). Doe het deksel erop en verwarm 4-5 minuten op laag vuur, af en toe omscheppen. Haal het deksel eraf, schep nog 30-60 seconden door tot het toegevoegde vocht weer is verdampt en de kip weer droog en stomend heet is. Niet in de magnetron opwarmen — dan wordt de kip taai."
         },
         {
-          "action": "Broodje bouwen",
-          "description": "rooster het puntje licht. Smeer een dun laagje mayo. Leg de kip royaal op het brood. Laat de atjar even uitlekken en leg er flink wat op. Serveer direct."
+          "action": "Broodje opbouwen",
+          "description": "Snijd het puntje open. Smeer een dun laagje mayonaise. Leg de warme kip royaal op het brood. Serveer de Madame Jeanette-sambal en het zuur apart erbij, zodat iedereen zelf kan doseren."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer het broodje met de kip zichtbaar droog en glanzend — geen saus die eruit lekt. Zet de sambal en het zuur in kleine schaaltjes ernaast, precies zoals bij de toko: eerst het broodje, dan de vraag \"peper? zuur?\""
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de kip apart te pocheren en af te laten koelen in zijn eigen vocht, blijft hij mals, terwijl je daarna volledige controle hebt over hoe droog de uiteindelijke kerriebasis wordt. Door kerriepoeder eerst in hete olie te bakken, ontwikkelt het een veel dieper aroma dan wanneer het rauw wordt toegevoegd. Zonder tomaat, ketjap of veel bouillon blijft de basis droog genoeg om aan de kip te kleven in plaats van los in de pan te blijven — precies het verschil tussen een broodje dat \"zwemt\" en een broodje dat plakt en glanst. Door peper en zuur pas bij het opbouwen toe te voegen in plaats van mee te stoven, blijven beide fris en scherp, en geef je iedereen de vrijheid om zijn eigen hap te bepalen."
         }
       ],
-      "tips": [
-        "laat de kip na het sudderen 10 minuten rusten — de saus trekt er nog verder in. Laat de atjar de avond ervoor maken voor meer smaak.",
-        "Techniek: activeer het kerriepoeder door het 1-2 minuten in de olie te bakken voor de kip erbij gaat — rauwe kerrie is poederig, gebakken kerrie is diep en aromatisch.",
-        "Presentatie: laat de atjar goed uitlekken voor je hem op het broodje legt — natte atjar maakt de korst zompig, droge atjar geeft fris contrast en behoud van knapperigheid.",
-        "Variatie: voeg een heel Madame Jeanette-pepertje toe aan de saus — heel, niet doorgesneden — voor sluimerende hitte die de kerrie verdiept zonder brandend heet te worden.",
-        "Alternatief: geen Surinaams puntje? Gebruik een stevig ciabatta of een Turks broodje — dezelfde knapperige korst en luchtige binnenkant die de saus opvangt zonder te verzuipen.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Snel broodje-alternatief: geen zin om zelf te bakken? Gebruik half afgebakken (afbak) witte pistoletjes. Bak ze eerst 8 minuten in een voorverwarmde oven op 180°C. Laat volledig afkoelen. Snijd daarna open en gril de binnenkant kort in een grillpan of onder de ovengrill tot licht krokant met wat kleur — dat geeft precies het knapperige, warme contrast dat bij een goed belegd broodje hoort.\n\nVolledige komkommeratjar: lepel de zachte kern uit een gehalveerde komkommer, snijd dun, bestrooi met zout, laat 10 minuten staan en knijp licht uit. Meng met dun gesneden ui. Verwarm 100 ml azijn met 1½ el suiker, ½ tl zout en ½ tl kurkuma tot opgelost (niet koken), giet warm over de komkommer en laat minimaal een uur, liefst een nacht, trekken.\n\nVooruitwerken: de kip kerrie is de volgende dag echt beter — maak 'm gerust een dag van tevoren en bewaar het pocheervocht apart voor het opwarmen.\n\nExtra diepte: voor extra diepte zonder de droogte te verliezen: een heel klein beetje geraspte gember door de kerriebasis.\n\nGarneringen klaarzetten: zet alle garneringen klaar voordat je opbouwt — dit broodje verliest snel kwaliteit als je nog moet snijden terwijl het al ligt te wachten.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Vouvray sec of demi-sec — Loire, Frankrijk",
+          "naam": "Vouvray demi-sec (Loire, Frankrijk)",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren",
-          "omschrijving": "De fruitige frisheid en lichte residuele zoetheid van een Loire Chenin Blanc Kabinett tempert de hitte van de Madame Jeanette en sluit aan op de ketjap in de kerriesaus.",
-          "waarom_werkt_dit": "De appel- en citrusnoten van de Chenin Blanc geven verfrissend contrast na elke kruidige, zoetzure hap kip. De lage alcohol maakt het drinkbaar bij dit hartige broodje. Een Kabinett heeft precies genoeg zoetheid om de scherpe Madame Jeanette-hitte te neutraliseren zonder het droge, minerale karakter te verliezen. Serveer gekoeld op 9°C."
+          "smaakprofiel": "Een verleidelijke geur van rijpe appel, kweepeer, honing en een vleugje citrus, met in de mond een levendige, bijna knisperende zuurgraad die de lichte restzoetheid mooi in evenwicht houdt. Rond zonder zwaar te worden, met een lange, frisse afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De lichte zoetheid van deze Loire-Chenin tempert de hitte van de Madame Jeanette-sambal, terwijl de frisse appel- en kweepeertonen de gebakken kerriebasis omarmen zonder die te overheersen. De levendige zuren houden het geheel luchtig, precies wat een gerecht met deze kruidige diepte nodig heeft om niet te zwaar te worden.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
         },
         {
           "type": "alternatief",
-          "naam": "Off-dry Gewürztraminer",
-          "druif": "Gewurztraminer",
-          "smaakprofiel": "Aromatisch, lychee, rooswater, gember, specerijachtig, rond",
-          "omschrijving": "bloemiger en aromatischer, werkt uitstekend bij de complexe Surinaamse kruidenmix",
-          "waarom_werkt_dit": "De lychee-, rozen- en gembertonen kunnen aromatische specerijen, mango, koriander of Aziatische hitte dragen zonder hard te worden. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "naam": "Gewürztraminer (halfdroog, Elzas, Frankrijk)",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Aromatisch en weelderig, met lychee, rozenblaadje, gember en een subtiele specerijkruidigheid, volle body met een frisse afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De bloemige, kruidige aromatiek sluit goed aan bij de complexe Surinaamse masala, en de volle body houdt stand tegen de scherpte van de sambal zonder de wijn zelf hard te maken.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Chenin Blanc demi-sec — Stellenbosch, Zuid-Afrika",
-          "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, levendige zuren",
-          "omschrijving": "Chenin Blanc combineert spanning met ronding; droog of licht demi-sec afhankelijk van het gerecht.",
-          "waarom_werkt_dit": "Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "type": "meest-toegankelijk",
+          "naam": "Koud pilsener bier",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht bitter, met een droge, verkoelende afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De eenvoudige, onopgesmukte metgezel die bij een broodje uit de toko hoort — de koolzuurprikkeling spoelt de kerrie en de pit van de sambal weg tussen elke hap door.",
+          "serveertemperatuur": "Serveer rond 4-6°C."
         }
-      ],
-      "wine": {
-        "naam": "Vouvray sec of demi-sec — Loire, Frankrijk",
-        "druif": "Chenin Blanc",
-        "toelichting": "De fruitige frisheid en lichte residuele zoetheid van een Loire Chenin Blanc Kabinett tempert de hitte van de Madame Jeanette en sluit aan op de ketjap in de kerriesaus. De appel- en citrusnoten van de Chenin Blanc geven verfrissend contrast na elke kruidige, zoetzure hap kip. De lage alcohol maakt het drinkbaar bij dit hartige broodje. Een Kabinett heeft precies genoeg zoetheid om de scherpe Madame Jeanette-hitte te neutraliseren zonder het droge, minerale karakter te verliezen. Serveer gekoeld op 9°C.",
-        "alternatief": "Off-dry Gewürztraminer — bloemiger en aromatischer, werkt uitstekend bij de complexe Surinaamse kruidenmix"
-      },
-      "tips_full": [
-        "laat de kip na het sudderen 10 minuten rusten — de saus trekt er nog verder in. Laat de atjar de avond ervoor maken voor meer smaak.",
-        "Techniek: activeer het kerriepoeder door het 1-2 minuten in de olie te bakken voor de kip erbij gaat — rauwe kerrie is poederig, gebakken kerrie is diep en aromatisch.",
-        "Presentatie: laat de atjar goed uitlekken voor je hem op het broodje legt — natte atjar maakt de korst zompig, droge atjar geeft fris contrast en behoud van knapperigheid.",
-        "Variatie: voeg een heel Madame Jeanette-pepertje toe aan de saus — heel, niet doorgesneden — voor sluimerende hitte die de kerrie verdiept zonder brandend heet te worden.",
-        "Alternatief: geen Surinaams puntje? Gebruik een stevig ciabatta of een Turks broodje — dezelfde knapperige korst en luchtige binnenkant die de saus opvangt zonder te verzuipen.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
     },
     {
@@ -75016,6 +74994,163 @@
           "omschrijving": "",
           "waarom_werkt_dit": "Voor wie iets bijzonders zoekt is dit een spectaculaire combinatie. De nootachtige diepte sluit perfect aan bij de boter en de geroosterde korst, terwijl de droge stijl de brioche verrassend licht houdt.",
           "serveertemperatuur": "Serveer rond 13-14°C."
+        }
+      ]
+    },
+    {
+      "title": "Salade Niçoise — verfijnd voorgerecht vol vitaminen",
+      "slug": "salade-nicoise-verfijnd-voorgerecht",
+      "location": "Nice, Frankrijk",
+      "time": "25 min voorbereiding + 8 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Frans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/salade-nicoise-verfijnd-voorgerecht.jpg",
+      "short_description": "Gezouten tomaat, sperziebonen, hardgekookt ei, goede tonijn uit blik en een dressing als glanzende bodem op het bord. Licht, kleurrijk en boordevol goede dingen.",
+      "description": "De salade niçoise komt uit Nice, waar vissers hem ooit maakten met wat tuin en zee die dag opleverden. Onze versie houdt het licht: geen aardappel, wel knapperige sperziebonen en tonijn, met een dressing als glanzende bodem in plaats van eroverheen gegoten — klein detail, groot verschil.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de salade",
+          "ingredients": [
+            {
+              "name": "mooie, rijpe tomaten, in partjes",
+              "amount": "2"
+            },
+            {
+              "name": "fijn zeezout, om de tomaat te bestrooien",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "sperziebonen, puntjes verwijderd",
+              "amount": "150 g"
+            },
+            {
+              "name": "eieren",
+              "amount": "2"
+            },
+            {
+              "name": "kleine niçoise-olijven",
+              "amount": "12"
+            },
+            {
+              "name": "ansjovisfilets",
+              "amount": "4"
+            },
+            {
+              "name": "rode ui, flinterdun gesneden",
+              "amount": "½"
+            },
+            {
+              "name": "goede tonijn op olijfolie (ongeveer 150-160 g totaal, uitgelekt), in grove stukken verdeeld",
+              "amount": "2 blikken"
+            },
+            {
+              "name": "verse basilicumblaadjes",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de dressing",
+          "ingredients": [
+            {
+              "name": "goede extra vierge olijfolie",
+              "amount": "6 el"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "1½ el"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "klein teentje knoflook, fijngeperst",
+              "amount": "1"
+            },
+            {
+              "name": "ansjovisfilets, zeer fijn geprakt",
+              "amount": "2"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Tomaat zouten",
+          "description": "Leg de tomatenpartjes op een bord of rooster, bestrooi licht met zout en laat 10-15 minuten staan. Dit trekt overtollig vocht eruit en concentreert de smaak. Dep voorzichtig droog voor gebruik."
+        },
+        {
+          "action": "Sperziebonen blancheren",
+          "description": "Kook de sperziebonen 4-5 minuten in ruim kokend, gezouten water tot ze net gaar zijn maar nog stevig bijten. Koel direct terug in ijswater om de felgroene kleur te behouden en het garen te stoppen. Dep goed droog."
+        },
+        {
+          "action": "Eieren koken",
+          "description": "Kook de eieren 9 minuten voor een klassiek hardgekookt ei (of 6,5 minuut voor een zachter ei mollet). Koel direct terug in ijswater, pel voorzichtig en snijd in parten."
+        },
+        {
+          "action": "Dressing maken",
+          "description": "Klop olijfolie, azijn, mosterd, knoflook en de fijngeprakte ansjovis samen tot een gladde, geëmulgeerde dressing. Breng op smaak met zout en peper."
+        },
+        {
+          "action": "Tonijn voorbereiden",
+          "description": "Laat de tonijn goed uitlekken en verdeel in grove, natuurlijke stukken — niet te fijn prakken, je wilt herkenbare stukken op het bord."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Lepel eerst een bodempje dressing op elk bord. Verdeel de gezouten tomatenpartjes, sperziebonen, olijven, ansjovis en rode ui erover. Leg de stukken tonijn erbovenop, met de eierpartjes ernaast. Verdeel wat basilicumblaadjes erover."
+        },
+        {
+          "action": "Afwerken",
+          "description": "Lepel nog een klein beetje extra dressing over de tonijn en het ei vlak voor het serveren."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "De dressing als bodemlaag op het bord in plaats van er overheen gedruppeld — dat geeft een modernere, strakkere presentatie. Bouw de rest van de salade er losjes bovenop, zodat je door de compositie heen af en toe de glanzende dressing eronder ziet. De felgroene sperziebonen tegen het rood van de tomaat, het geel-wit van de eierpartjes en het bleke roze van de tonijn geven het bord meteen kleur en frisheid."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de tomaat eerst licht te zouten en te laten uitlekken, concentreert de smaak zich en voorkom je een waterige salade. De kort geblancheerde sperziebonen geven precies de knapperige bite en felgroene kleur die dit gerecht nodig heeft, zonder zwaar te worden zoals aardappel dat zou doen. Het hardgekookte ei geeft romigheid en body die de rest van de compositie draagt. Goede tonijn op olijfolie, gewoon uit blik geschept en in grove stukken verdeeld, is de authentieke, oorspronkelijke keuze — geen extra bereiding nodig, en de olijfolie waarin de tonijn zit voegt zelf al smaak toe. De dressing — olijfolie, azijn, mosterd, knoflook en geprakte ansjovis — geeft een diepe, zilte umami die de hele salade draagt, en door 'm eerst op het bord te lepelen blijft de presentatie strak."
+        }
+      ],
+      "chef_tip": "Elegantere bonen: Voor een nog verfijndere versie: vervang de sperziebonen door haricots verts (de dunnere Franse variant) — kortere blancheertijd (2-3 min) en een tikje elegantere bite en uitstraling.\n\nAlternatief voor ansjovis: Geen ansjovis in huis of hou je er niet van? Vervang de ansjovis in de dressing door 1 tl Worcestersaus en 1 tl fijngehakte kappertjes — geeft een vergelijkbare zilte umami-diepte langs een andere route.\n\nVerse tonijn: Liever verse tonijn? Schroei twee stukjes verse tonijn (sushikwaliteit) 30-40 seconden per kant in een hete pan met een scheutje olijfolie, tot de kern nog rosé is, en snijd in plakken — een lekker, iets luxer alternatief.\n\nVooruitwerken: de dressing kan een dag vooraf gemaakt worden en wordt er zelfs beter van. De sperziebonen kunnen enkele uren vooraf geblancheerd worden.\n\nOlijfolie: Gebruik écht goede olijfolie voor de dressing — dat is hier geen bijzaak maar het hoofdingrediënt.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Côtes de Provence Rosé (Provence, Frankrijk)",
+          "druif": "Grenache, Cinsault, Syrah",
+          "smaakprofiel": "Bleekroze in het glas, met een verleidelijke geur van verse aardbei, rode bes, witte perzik en een vleugje kruidige garrigue — dat typisch mediterrane geurenboeket van tijm en rozemarijn dat over de heuvels van de Provence waait. In de mond is hij droog, licht en levendig, met sappig rood fruit en een frisse, bijna sappige afdronk die je meteen naar de volgende hap laat verlangen.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Dit is dé klassieke, onopgesmukte pairing bij salade niçoise, en met reden: de frisse, droge stijl snijdt moeiteloos door de olijfolie in de dressing en de tonijn, terwijl het sappige rode fruit precies aansluit bij de tomaat en de rode ui. De lichte kruidigheid van de garrigue-tonen vindt bovendien een mooie echo in de ansjovis en olijven.",
+          "serveertemperatuur": "Serveer rond 8-10°C, goed gekoeld."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Sancerre (Loire, Frankrijk)",
+          "druif": "Sauvignon Blanc",
+          "smaakprofiel": "Een heldere, stralende geur van grapefruit, verse kruiden, groene appel en een vleugje versgemaaid gras, met in de mond een levendige, bijna knisperende zuurgraad die het gehemelte meteen fris maakt.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De kruidige, groene aroma's van Sauvignon Blanc grijpen de basilicum en de rauwe groenten vast, terwijl de scherpe, frisse zuren de dressing en de zilte ansjovis en tonijn precies in balans houden.",
+          "serveertemperatuur": "Serveer rond 9-11°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Picpoul de Pinet (Languedoc, Frankrijk)",
+          "druif": "Picpoul",
+          "smaakprofiel": "Fris en licht, met citroen, groene appel en een zachte, bijna zilte ondertoon die doet denken aan een zeebries — vandaar dat dit van oudsher de wijn is die je aan de Franse Middellandse Zeekust bij schaal- en schelpdieren drinkt.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een heerlijk toegankelijke, betaalbare witte wijn die de zilte kant van het gerecht — ansjovis, olijven, tonijn — moeiteloos begeleidt zonder er ook maar iets ingewikkelds aan te doen.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         }
       ]
     }
