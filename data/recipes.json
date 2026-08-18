@@ -53916,53 +53916,36 @@
       "full_title_docx": "153. APPEL TATIN 'DECONSTRUCTED' MET BLADERDEEGCRUNCH EN VANILLEROOM"
     },
     {
-      "title": "Ayam Betutu",
+      "title": "Ayam Betutu — klein Balinees rijsttafelgerecht met geconcentreerde basa gede",
       "slug": "ayam-betutu",
       "location": "Bali, Indonesië",
-      "time": "45 min + 45–60 min garen",
-      "servings": "4 kleine/middelgrote porties",
+      "time": "45 min voorbereiding + 20-30 min garen",
+      "servings": "4 personen (klein rijsttafelgerecht)",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
-      "categorie": "vlees",
+      "categorie": "hapjes-tapas",
       "image": "/assets/images/ayam-betutu.jpg",
-      "short_description": "Verfijnde Balinese kipbereiding: sappige kippendij in een geconcentreerde glanzende bumbu van sjalot, galangal, kurkuma, kencur, citroengras en kemiri, met rauwe sambal matah als frisse tegenstem.",
-      "description": "Een verfijnde Balinese kipbereiding waarin de iconische bumbu — sjalot, galangal, kurkuma, kencur, citroengras, kemiri en trassi — alles draagt. Geen zware stoofpot, maar sappige kippendij in een geconcentreerde, glanzende kruidenpasta met aroma's van sereh en limoenblad. Intens, kruidig en aromatisch, maar elegant genoeg voor een klein hoofdgerecht in een meergangendiner of als kroonstuk van een rijsttafel.",
-      "full_intro": "Een verfijnde Balinese kipbereiding waarin de iconische bumbu — sjalot, galangal, kurkuma, kencur, citroengras, kemiri en trassi — alles draagt. Geen zware stoofpot, maar sappige kippendij in een geconcentreerde, glanzende kruidenpasta met aroma's van sereh en limoenblad. Intens, kruidig en aromatisch, maar elegant genoeg voor een klein hoofdgerecht in een meergangendiner of als kroonstuk van een rijsttafel.",
+      "short_description": "Sappige kippendij onder een geconcentreerde, glanzende laag Balinese basa gede — sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi. Intens en complex, maar niet zwaar: het kroonstuk van een rijsttafel, niet een zware kipstoof.",
+      "description": "Ayam Betutu draait volledig om de Balinese basa gede: een explosief aromatische kruidenpasta van sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi. De kippendij gaart kort en zacht onder bananenblad; daarna wordt de bumbu gereduceerd tot een glanzende kruidenlaag rond de sappige kip. Intens en complex, maar niet zwaar — perfect als klein gerecht binnen een rijsttafel.",
       "ingredient_groups": [
         {
           "group_name": "Voor de kip",
           "ingredients": [
             {
-              "name": "kippendijfilet, zonder bot en vel",
-              "amount": "600g"
-            },
-            {
-              "name": "limoensap",
-              "amount": "1 el"
+              "name": "kippendijfilet, zonder bot en vel, in stukken van 4-5 cm",
+              "amount": "400 g"
             },
             {
               "name": "fijn zeezout",
-              "amount": "1 tl"
+              "amount": "naar smaak"
             },
             {
               "name": "neutrale olie of kokosolie",
               "amount": "2 el"
             },
             {
-              "name": "stengels citroengras, gekneusd",
-              "amount": "2"
-            },
-            {
-              "name": "limoenblaadjes (djeruk purut), gekneusd",
-              "amount": "4"
-            },
-            {
-              "name": "salambladeren (of 1 laurierblad)",
-              "amount": "2"
-            },
-            {
-              "name": "lichte kippenbouillon of water",
-              "amount": "100ml"
+              "name": "lichte ongezouten kippenbouillon of water",
+              "amount": "60-75 ml"
             },
             {
               "name": "pisangblad, kort boven gasvlam soepel gemaakt (optioneel)",
@@ -53971,112 +53954,92 @@
           ]
         },
         {
+          "group_name": "Extra aromaten tijdens het garen",
+          "ingredients": [
+            {
+              "name": "stengel sereh, gekneusd",
+              "amount": "1"
+            },
+            {
+              "name": "limoenblaadjes, gekneusd",
+              "amount": "3"
+            },
+            {
+              "name": "daun salam",
+              "amount": "2"
+            }
+          ]
+        },
+        {
           "group_name": "Voor de bumbu (basa gede)",
           "ingredients": [
             {
-              "name": "sjalotten, grof gesneden",
-              "amount": "8"
+              "name": "sjalotten",
+              "amount": "6"
             },
             {
               "name": "tenen knoflook",
-              "amount": "4"
+              "amount": "3"
             },
             {
-              "name": "rode Spaanse pepers (lombok), zonder zaadlijst",
-              "amount": "2"
+              "name": "grote rode lombok, zonder zaadlijsten",
+              "amount": "1"
             },
             {
-              "name": "rode bird's eye-chilies (rawit), naar smaak",
-              "amount": "1–2"
+              "name": "rawit, eventueel 2 voor pittiger",
+              "amount": "1"
             },
             {
-              "name": "verse gember, geschild",
-              "amount": "25g"
+              "name": "verse gember",
+              "amount": "15 g"
             },
             {
-              "name": "verse galangal (laos), geschild",
-              "amount": "25g"
+              "name": "verse laos",
+              "amount": "15 g"
             },
             {
-              "name": "verse kurkuma, of 1½ tl kurkumapoeder",
-              "amount": "15g"
+              "name": "verse kurkuma (of ±1 tl poeder)",
+              "amount": "10 g"
             },
             {
-              "name": "verse kencur, of ½ tl kencurpoeder",
-              "amount": "10g"
+              "name": "verse kencur (of ±⅓-½ tl kencurpoeder)",
+              "amount": "7-8 g"
             },
             {
-              "name": "stengels citroengras, alleen het zachte witte deel, fijn gesneden",
-              "amount": "2"
+              "name": "sereh, alleen het zachte witte deel",
+              "amount": "1½ stengel"
             },
             {
-              "name": "limoenblaadjes (djeruk purut), middennerf eruit, fijn gesneden",
-              "amount": "4"
+              "name": "limoenblaadjes, middennerf verwijderd",
+              "amount": "3"
             },
             {
-              "name": "kemiri-noten (of macadamia/cashew), kort geroosterd",
-              "amount": "4"
+              "name": "geroosterde kemirinoten",
+              "amount": "3"
             },
             {
               "name": "korianderzaad",
-              "amount": "1 tl"
+              "amount": "¾ tl"
             },
             {
               "name": "komijnzaad",
-              "amount": "½ tl"
+              "amount": "¼-½ tl"
             },
             {
-              "name": "terasi (trassi), kort geroosterd in droge pan",
-              "amount": "1 tl"
+              "name": "geroosterde trassi",
+              "amount": "¾ tl"
             },
             {
-              "name": "palmsuiker (gula merah), fijn geraspt",
+              "name": "gula djawa",
               "amount": "1 tl"
             },
             {
               "name": "witte peper",
-              "amount": "½ tl"
-            },
-            {
-              "name": "fijn zeezout",
-              "amount": "1 tl"
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de sambal matah",
-          "ingredients": [
-            {
-              "name": "sjalotten, flinterdun gesneden",
-              "amount": "4"
-            },
-            {
-              "name": "stengel citroengras, alleen wit deel, flinterdun",
-              "amount": "1"
-            },
-            {
-              "name": "limoenblaadjes (djeruk purut), middennerf eruit, flinterdun",
-              "amount": "4"
-            },
-            {
-              "name": "rode bird's eye-chilies, flinterdun",
-              "amount": "2–3"
-            },
-            {
-              "name": "terasi, geroosterd",
-              "amount": "½ tl"
-            },
-            {
-              "name": "kokosolie, lauwwarm",
-              "amount": "3 el"
-            },
-            {
-              "name": "limoensap",
-              "amount": "1 tl"
+              "amount": "¼-½ tl"
             },
             {
               "name": "zout",
-              "amount": "snufje"
+              "amount": "naar smaak"
             }
           ]
         },
@@ -54084,204 +54047,92 @@
           "group_name": "Voor de afwerking",
           "ingredients": [
             {
-              "name": "krokant gebakken uitjes",
-              "amount": "2 el"
+              "name": "flinterdunne rauwe sjalot",
+              "amount": "naar smaak"
             },
             {
-              "name": "limoen, in partjes",
-              "amount": "1"
+              "name": "flinterdun limoenblad",
+              "amount": "naar smaak"
             },
             {
-              "name": "fijngesneden lente-ui",
-              "amount": "1 el"
+              "name": "zeer dunne ringetjes rawit (optioneel)",
+              "amount": "naar smaak"
             },
             {
-              "name": "korianderblad of Thaise basilicum",
-              "amount": "handje"
-            },
-            {
-              "name": "gekookte jasmijnrijst of pandanrijst",
-              "amount": "300g"
+              "name": "krokant gebakken sjalot",
+              "amount": "naar smaak"
             }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de kip",
-          "ingredients": [
-            "600g kippendijfilet, zonder bot en vel",
-            "1 el limoensap",
-            "1 tl fijn zeezout",
-            "2 el neutrale olie of kokosolie",
-            "2 stengels citroengras, gekneusd",
-            "4 limoenblaadjes (djeruk purut), gekneusd",
-            "2 salambladeren (of 1 laurierblad als alternatief)",
-            "100ml lichte kippenbouillon of water",
-            "Optioneel: 1 stuk pisangblad, kort boven gasvlam soepel gemaakt"
-          ]
-        },
-        {
-          "group_name": "Voor de bumbu (basa gede)",
-          "ingredients": [
-            "8 sjalotten, grof gesneden",
-            "4 tenen knoflook",
-            "2 rode Spaanse pepers (lombok), zonder zaadlijst",
-            "1–2 rode bird's eye-chilies (rawit), naar smaak",
-            "25g verse gember, geschild",
-            "25g verse galangal (laos), geschild",
-            "15g verse kurkuma, of 1½ tl kurkumapoeder",
-            "10g verse kencur, of ½ tl kencurpoeder",
-            "2 stengels citroengras, alleen het zachte witte deel, fijn gesneden",
-            "4 limoenblaadjes (djeruk purut), middennerf eruit, fijn gesneden",
-            "4 kemiri-noten (of macadamia/cashew), kort geroosterd",
-            "1 tl korianderzaad",
-            "½ tl komijnzaad",
-            "1 tl terasi (trassi), kort geroosterd in droge pan",
-            "1 tl palmsuiker (gula merah), fijn geraspt",
-            "½ tl witte peper",
-            "1 tl fijn zeezout"
-          ]
-        },
-        {
-          "group_name": "Voor de sambal matah",
-          "ingredients": [
-            "4 sjalotten, flinterdun gesneden",
-            "1 stengel citroengras, alleen wit deel, flinterdun",
-            "4 limoenblaadjes (djeruk purut), middennerf eruit, flinterdun",
-            "2–3 rode bird's eye-chilies, flinterdun",
-            "½ tl terasi, geroosterd",
-            "3 el kokosolie, lauwwarm",
-            "1 tl limoensap",
-            "Snuf zout"
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            "2 el krokant gebakken uitjes (toko of supermarkt)",
-            "1 limoen, in partjes",
-            "1 el fijngesneden lente-ui",
-            "Handje korianderblad of Thaise basilicum",
-            "300g gekookte jasmijnrijst of pandanrijst"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
           "action": "Bumbu maken",
-          "description": "Rooster het korianderzaad, komijnzaad en de kemiri kort in een droge pan tot ze geuren. Doe over in een hakmolen of vijzel. Voeg alle overige bumbu-ingrediënten toe en maal tot een grove, samenhangende pasta. Wat textuur in de bumbu mag — het hoeft geen babyvoeding te zijn."
+          "description": "Rooster het korianderzaad, komijnzaad en de kemiri kort in een droge pan tot ze geuren. Doe over in een hakmolen of vijzel. Voeg de overige bumbu-ingrediënten toe en maal tot een fijne, maar niet volledig gladde pasta."
         },
         {
-          "number": 2,
-          "action": "Kip marineren",
-          "description": "Snijd de kippendijfilet in grote stukken van ongeveer 4–5cm. Meng met limoensap en zout en laat 15 minuten staan."
+          "action": "Kip zouten",
+          "description": "Bestrooi de kippenstukken licht met zeezout. Zet apart."
         },
         {
-          "number": 3,
-          "action": "Bumbu aanfruiten en kip stoven",
-          "description": "Verhit de olie in een ruime, brede pan op middelhoog vuur. Voeg de bumbu toe en bak 10–15 minuten rustig aan tot hij donkerder wordt, glanst, intens geurig is en de olie zich aan de rand begint te scheiden. Roer regelmatig — deze stap is cruciaal. Voeg het gekneusde citroengras, de limoenblaadjes en salambladeren toe en bak 1 minuut mee. Voeg de kip toe en schep grondig om tot alle stukken volledig met bumbu zijn bedekt. Bak 4–5 minuten mee. Schenk de bouillon erbij en breng zachtjes aan de kook. Leg eventueel het pisangblad direct op de kip. Doe de deksel op de pan en laat 45–60 minuten heel zacht garen tot de kip mals is en de saus dik en geconcentreerd rond de stukken hangt."
+          "action": "Bumbu uitbakken",
+          "description": "Verhit de olie in een ruime, brede pan op middelhoog vuur. Voeg de bumbu toe en bak 10-15 minuten rustig aan tot hij donkerder wordt, glanst en intens geurig is — de olie mag zich aan de randen beginnen af te scheiden. Roer regelmatig; deze stap niet inkorten."
         },
         {
-          "number": 4,
-          "action": "Sambal matah maken",
-          "description": "Meng alle sambal matah-ingrediënten in een kom, knijp lichtjes met je vingers om de aroma's vrij te laten komen en laat 10 minuten rusten."
+          "action": "Kip toevoegen en garen",
+          "description": "Voeg de sereh, limoenblaadjes en daun salam toe en bak 1 minuut mee. Voeg de kip toe en schep om tot alle stukken bedekt zijn met bumbu. Schenk de bouillon of het water erbij. Leg eventueel het pisangblad direct op de kip, doe het deksel op de pan en laat 20-30 minuten zeer zacht garen tot de kip sappig en mals is, maar nog als mooie, intacte stukken."
         },
         {
-          "number": 5,
-          "action": "Afwerking en serveren",
-          "description": "Verwijder pisangblad, citroengras en salambladeren uit de pan. Proef en corrigeer met zout, limoensap of een snuf palmsuiker. Serveer per bord: een compacte schep rijst iets uit het midden, 3–4 stukken glanzende kip met bumbu ernaast, een lepel sambal matah, krokante uitjes, koriander of Thaise basilicum, lente-ui en een partje limoen."
+          "action": "Kip apart zetten en bumbu reduceren",
+          "description": "Haal de kip uit de pan en zet apart. Verwijder sereh, limoenblad, salam en eventueel pisangblad uit de pan. Laat de bumbu zonder deksel rustig reduceren tot hij geconcentreerd, glanzend en niet waterig is — een dikke kruidenlaag die om de kip kan hangen."
+        },
+        {
+          "action": "Kip terug en wentelen",
+          "description": "Voeg de kip terug in de pan en wentel voorzichtig door de gereduceerde bumbu tot alle stukken glanzend bedekt zijn."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep de Ayam Betutu in een klein, warm schaaltje. Werk af met een paar flintertjes rauwe sjalot, flinterdun limoenblad, eventueel een paar dunne ringetjes rawit en een klein beetje krokante sjalot. Rijst staat apart op de rijsttafel."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer in een klein warm schaaltje: sappige stukken kip duidelijk zichtbaar, royaal bedekt met de glanzende basa gede. Enkele flintertjes sjalot en limoenblad, een klein beetje krokante sjalot erover — verder niets. Het schaaltje moet vooral zeggen: Ayam Betutu, geen generiek Indonesisch gerecht met zes toppings eromheen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de kip pas na het garen uit de pan te halen en de bumbu apart te reduceren, krijg je het beste van twee werelden: sappige, mals gegaarde kip én een extreem geconcentreerde, glanzende kruidenlaag die niet had kunnen ontstaan als alles samen was blijven pruttelen. De relatief grote hoeveelheid bumbu ten opzichte van de kip zorgt dat de Balinese basa gede — sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi — echt de hoofdrol speelt, precies wat een klein, intens rijsttafelgerecht nodig heeft."
         }
       ],
-      "steps_full": [
-        {
-          "number": 1,
-          "section": "Bumbu maken",
-          "description": "Rooster het korianderzaad, komijnzaad en de kemiri kort in een droge pan tot ze geuren. Doe over in een hakmolen of vijzel. Voeg alle overige bumbu-ingrediënten toe en maal tot een grove, samenhangende pasta. Wat textuur in de bumbu mag — het hoeft geen babyvoeding te zijn."
-        },
-        {
-          "number": 2,
-          "section": "Kip marineren",
-          "description": "Snijd de kippendijfilet in grote stukken van ongeveer 4–5cm. Meng met limoensap en zout en laat 15 minuten staan."
-        },
-        {
-          "number": 3,
-          "section": "Bumbu aanfruiten en kip stoven",
-          "description": "Verhit de olie in een ruime, brede pan op middelhoog vuur. Voeg de bumbu toe en bak 10–15 minuten rustig aan tot hij donkerder wordt, glanst, intens geurig is en de olie zich aan de rand begint te scheiden. Roer regelmatig — deze stap is cruciaal. Voeg het gekneusde citroengras, de limoenblaadjes en salambladeren toe en bak 1 minuut mee. Voeg de kip toe en schep grondig om tot alle stukken volledig met bumbu zijn bedekt. Bak 4–5 minuten mee. Schenk de bouillon erbij en breng zachtjes aan de kook. Leg eventueel het pisangblad direct op de kip. Doe de deksel op de pan en laat 45–60 minuten heel zacht garen tot de kip mals is en de saus dik en geconcentreerd rond de stukken hangt."
-        },
-        {
-          "number": 4,
-          "section": "Sambal matah maken",
-          "description": "Meng alle sambal matah-ingrediënten in een kom, knijp lichtjes met je vingers om de aroma's vrij te laten komen en laat 10 minuten rusten."
-        },
-        {
-          "number": 5,
-          "section": "Afwerking en serveren",
-          "description": "Verwijder pisangblad, citroengras en salambladeren uit de pan. Proef en corrigeer met zout, limoensap of een snuf palmsuiker. Serveer per bord: een compacte schep rijst iets uit het midden, 3–4 stukken glanzende kip met bumbu ernaast, een lepel sambal matah, krokante uitjes, koriander of Thaise basilicum, lente-ui en een partje limoen."
-        }
-      ],
-      "tips": [
-        "Bumbu echt gaar bakken — niet inkorten: de smaak van betutu staat of valt met deze stap. De olie moet zichtbaar uittreden en de pasta moet donker, glanzend en diep geurig zijn. Te kort gebakken bumbu blijft scherp en rauw.",
-        "Kencur is karakteristiek, maar lastig verkrijgbaar: deze typisch Balinese wortel heeft een kamfer-achtige frisse kruidigheid. Verse kencur of kencurpoeder bij de Aziatische toko — laat desnoods weg, maar gebruik geen vervanger.",
-        "Kemiri vervangen kan probleemloos: geen kemiri-noten? Macadamia of ongezouten cashew geven dezelfde rijke, romige textuur aan de bumbu.",
-        "Trassi geroosterd, niet rauw: wikkel het stukje terasi in folie of leg het kort in een droge pan tot het rookt en nootachtig ruikt. Dan ontstaat de diepe umami.",
-        "Pisangblad is mooi, maar niet verplicht: geeft een subtiel grasachtig aroma tijdens het stoven. Diepvries bij de toko. Niet in huis? Laat weg.",
-        "Sambal matah is geen optie, maar bijna noodzakelijk: de rauwe, knapperige frisheid is het noodzakelijke tegenwicht voor de rijke geconcentreerde kip.",
-        "Kant-en-klare gebakken uitjes zijn hier perfect: goede Aziatische krokante sjalot uit een potje geeft precies de juiste crunch — zelf frituren is onnodig.",
-        "Variatie: hele kip of eend voor traditioneel: wrijf in met de bumbu, wikkel in pisangblad, stoom 1,5–2 uur en rooster 30 minuten af in de oven op 180°C."
-      ],
-      "tips_full": [
-        "Bumbu echt gaar bakken — niet inkorten: de smaak van betutu staat of valt met deze stap. De olie moet zichtbaar uittreden en de pasta moet donker, glanzend en diep geurig zijn. Te kort gebakken bumbu blijft scherp en rauw.",
-        "Kencur is karakteristiek, maar lastig verkrijgbaar: deze typisch Balinese wortel heeft een kamfer-achtige frisse kruidigheid. Verse kencur of kencurpoeder bij de Aziatische toko — laat desnoods weg, maar gebruik geen vervanger.",
-        "Kemiri vervangen kan probleemloos: geen kemiri-noten? Macadamia of ongezouten cashew geven dezelfde rijke, romige textuur aan de bumbu.",
-        "Trassi geroosterd, niet rauw: wikkel het stukje terasi in folie of leg het kort in een droge pan tot het rookt en nootachtig ruikt. Dan ontstaat de diepe umami.",
-        "Pisangblad is mooi, maar niet verplicht: geeft een subtiel grasachtig aroma tijdens het stoven. Diepvries bij de toko. Niet in huis? Laat weg.",
-        "Sambal matah is geen optie, maar bijna noodzakelijk: de rauwe, knapperige frisheid is het noodzakelijke tegenwicht voor de rijke geconcentreerde kip.",
-        "Kant-en-klare gebakken uitjes zijn hier perfect: goede Aziatische krokante sjalot uit een potje geeft precies de juiste crunch — zelf frituren is onnodig.",
-        "Variatie: hele kip of eend voor traditioneel: wrijf in met de bumbu, wikkel in pisangblad, stoom 1,5–2 uur en rooster 30 minuten af in de oven op 180°C."
-      ],
-      "opmaak_presentatie": "Warm ondiep bord of klein diep bord in donker aardewerk, antraciet of terracotta. Rijst compact iets uit het midden. Kipstukken er strak tegenaan, glanzende bumbu rondom. Sambal matah als klein hoopje ernaast — fris groen-rood-wit. Krokante uitjes over de kip, lente-ui, koriander en limoenpartje aan de rand. Rustig houden — dit gerecht heeft al veel aromatische kracht.",
+      "chef_tip": "Bumbu echt gaar bakken — niet inkorten: de smaak van betutu staat of valt met deze stap. De olie moet zichtbaar uittreden en de pasta moet donker, glanzend en diep geurig zijn. Te kort gebakken bumbu blijft scherp en rauw.\n\nKencur is karakteristiek, maar lastig verkrijgbaar: deze typisch Balinese wortel heeft een kamferachtige, frisse kruidigheid. Verse kencur of kencurpoeder bij de Aziatische toko — laat desnoods weg, maar gebruik geen vervanger.\n\nKemiri vervangen: kemiri is de eerste keuze. Geen kemiri-noten? Macadamia is een goede noodvervanger. Cashew kan eventueel, maar geeft niet exact hetzelfde, rijke karakter.\n\nTrassi geroosterd, niet rauw: wikkel het stukje trassi in folie of leg het kort in een droge pan tot het rookt en nootachtig ruikt. Dan ontstaat de diepe umami.\n\nPisangblad is mooi, maar niet verplicht: geeft een subtiel grasachtig aroma tijdens het stoven. Diepvries bij de toko. Niet in huis? Laat weg.\n\nKant-en-klare gebakken uitjes zijn hier perfect: goede Aziatische krokante sjalot uit een potje geeft precies de juiste crunch — zelf frituren is onnodig.\n\nVariatie: hele kip of eend voor een traditionelere versie: wrijf in met de bumbu, wikkel in pisangblad, stoom 1,5-2 uur en rooster 30 minuten af in de oven op 180°C.\n\nVooruitwerken: de bumbu kan prima een dag vooraf gemaakt en gekoeld bewaard worden. Dat maakt dit gerecht tijdens een grote rijsttafel veel makkelijker af te maken.\n\nRestaurantgeheim: gaar de kippendij niet door tot hij uit elkaar valt. Haal de kip uit de pan zodra hij sappig en mals is en reduceer daarna alleen de bumbu. Zo krijg je het beste van twee werelden: sappige kip én de extreem geconcentreerde, glanzende kruidenlaag die goede Betutu zo onweerstaanbaar maakt.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Gewürztraminer Alsace, droog tot licht off-dry",
+          "naam": "Stoneburn Gewürztraminer (Marlborough, Nieuw-Zeeland, ongehout)",
           "druif": "Gewürztraminer",
-          "smaakprofiel": "Aromatisch, kruidig, intense aroma's van lychee, rozen, gember, witte peper, mango en gekonfijte gember. Vol mondgevoel, lichte restzoetheid.",
-          "omschrijving": "Klassieke droge tot off-dry Gewürztraminer uit de Elzas — Trimbach, Hugel, Zind-Humbrecht of Domaine Marcel Deiss. Serveer goed gekoeld (8–10°C).",
-          "waarom_werkt_dit": "Gewürztraminer heeft van nature een exotisch, kruidig parfum dat naadloos aansluit bij sereh, limoenblad, gember, galangal en chili. De lichte restzoetheid tempert de chili-hitte, en het volle mondgevoel kan de geconcentreerde kruidenpasta moeiteloos dragen."
+          "smaakprofiel": "Lychee, rijpe peer, guave en ander tropisch fruit, met florale tonen en warme specerijen, een rond mondgevoel en een aromatisch maar droog karakter.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Het uitgesproken aromatische karakter kan de basa gede aan en sluit prachtig aan bij kencur, sereh, gember, laos en limoenblad.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
           "type": "alternatief",
-          "naam": "Vouvray Demi-Sec AOC — Loire, Frankrijk",
+          "naam": "Chenin Blanc (Zuid-Afrika, droog en ongehout)",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Halfdroog, fris, rijpe appel, kweepeer, honing, citrus, witte bloemen, lichte kruidigheid. Stevige natuurlijke zuren, fluwelen finale.",
-          "omschrijving": "Halfzoete Vouvray — de combinatie van lichte restzoetheid en uitgesproken zuren is de handtekening van Chenin. Serveer goed gekoeld (8–10°C).",
-          "waarom_werkt_dit": "De lichte zoetheid vangt de chili op, terwijl de hoge zuren door de olie en de geconcentreerde bumbu snijden — een dubbele functie die weinig wijnen vervullen. De honingachtige ronding sluit mooi aan bij palmsuiker en gebakken sjalot."
+          "smaakprofiel": "Gele appel, rijpe peer, kweepeer en witte perzik, met subtiele florale en kruidige tonen en frisse maar niet scherpe zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Voldoende rijp fruit voor de krachtige bumbu, terwijl de frisheid de olie en kippendij licht houdt.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Pinot Gris Alsace, licht off-dry",
-          "druif": "Pinot Gris",
-          "smaakprofiel": "Vol, semi-droog, rijpe peer, gele pruim, perzik, honing, lichte rook en subtiel kruidig accent. Glycerinrijk mondgevoel, lange finale.",
-          "omschrijving": "Meer body dan Riesling en minder aromatische bombast dan Gewürztraminer — een gastronomische middenweg. Kies een versie met een subtiel restzoetje.",
-          "waarom_werkt_dit": "De volle, ronde textuur sluit naadloos aan bij de sappige kip en de olieachtige bumbu. Het lichte restzoet helpt tegen de pittigheid, de zachte rookachtige toets versterkt de geroosterde terasi."
+          "type": "meest-toegankelijk",
+          "naam": "Morgon / Cru Beaujolais (Gamay, zonder merkbaar hout)",
+          "druif": "Gamay",
+          "smaakprofiel": "Sappige kers, framboos en braam, met viooltjes, een subtiele peperige ondertoon en zachte tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Niet de theoretisch perfecte Betutu-wijn, maar wel de beste rode concessiewijn binnen de complete rijsttafel.",
+          "serveertemperatuur": "Serveer licht gekoeld, rond 13-14°C."
         }
-      ],
-      "wine": {
-        "naam": "Gewürztraminer Alsace, droog tot licht off-dry",
-        "druif": "Gewürztraminer",
-        "toelichting": "Gewürztraminer heeft van nature een exotisch, kruidig parfum dat naadloos aansluit bij sereh, limoenblad, gember en galangal. De lichte restzoetheid tempert de chili-hitte en het volle mondgevoel draagt de geconcentreerde bumbu moeiteloos. Serveer op 8–10°C.",
-        "alternatief": "Vouvray Demi-Sec AOC of Pinot Gris Alsace (licht off-dry)"
-      },
-      "metadata": {
-        "bereidingstijd": "45 min + 45–60 min garen",
-        "porties": "4 kleine/middelgrote porties",
-        "type_gerecht": "Klein hoofdgerecht / rijsttafel",
-        "niveau": "Gemiddeld"
-      },
-      "source_recipe_number": 154,
-      "full_title_docx": "154. AYAM BETUTU"
+      ]
     },
     {
       "title": "Daging Se'i-Stijl: Gerookt Rund met Sambal Lu'at",
