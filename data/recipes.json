@@ -9542,44 +9542,40 @@
       ]
     },
     {
-      "title": "Babi Kecap — gestoofd varkensnekstuk met steranijs en dikke kecap",
+      "title": "Babi Kecap — klein rijsttafelgerecht van gestoofd varkensnekje in ketjapsaus",
       "slug": "babi-kecap",
       "location": "Jakarta",
-      "time": "30 min + 2 uur stoven",
-      "servings": "4 personen",
+      "time": "30 min voorbereiding + 1½-2 uur stoven + 10-20 min reduceren",
+      "servings": "4 personen (klein rijsttafelgerecht)",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
-      "categorie": "vlees",
+      "categorie": "hapjes-tapas",
       "image": "/assets/images/babi-kecap.jpg",
-      "short_description": "Varkensnekstuk langzaam gestoofd in dikke kecap ABC, steranijs en palmsuiker — donker, diep en stroperig.",
-      "description": "Babi kecap is geen gerecht dat haast verdraagt. Varkensnekstuk — vet, dooraderd, perfect voor stoven — zakt in twee uur weg in een glanzende saus van dikke kecap, steranijs en gula djawa. Geen kokosmelk. Geen water. Alleen diepte.",
+      "short_description": "Langzaam gestoofd varkensnekstuk in een donkere, glanzende saus van ketjap, gember en warme specerijen — eerst zacht gegaard, dan pas gereduceerd tot een mahoniekleurige lak. Als klein, rijk hapje binnen de rijsttafel.",
+      "description": "Babi kecap draait om langzaam gegaard procureur in een donkere, glanzende saus van ketjap, gember en warme specerijen. Eerst zacht stoven, daarna pas reduceren tot de saus zich als een mahoniekleurige lak om het vlees sluit.",
       "ingredient_groups": [
         {
           "group_name": "Vlees en basis",
           "ingredients": [
             {
-              "name": "varkensnekstuk (procureur), in blokken van 3 cm",
-              "amount": "800 g"
+              "name": "procureur (varkensnekstuk), in blokken van 3 cm",
+              "amount": "350 g"
             },
             {
-              "name": "sjalotjes, gesnipperd",
-              "amount": "4"
+              "name": "sjalotten, gesnipperd",
+              "amount": "2"
             },
             {
-              "name": "knoflookteentjes, fijngehakt",
-              "amount": "5"
+              "name": "tenen knoflook, fijngehakt",
+              "amount": "2"
             },
             {
-              "name": "verse gember, fijngehakt",
-              "amount": "8 cm"
+              "name": "verse gember, fijngehakt of geraspt",
+              "amount": "2 cm"
             },
             {
-              "name": "plantaardige olie",
-              "amount": "3 el"
-            },
-            {
-              "name": "roomboter",
-              "amount": "50 g"
+              "name": "neutrale olie",
+              "amount": "1 el"
             }
           ]
         },
@@ -9587,32 +9583,44 @@
           "group_name": "Saus en specerijen",
           "ingredients": [
             {
-              "name": "dikke kecap ABC (ketjap manis extra dik)",
-              "amount": "300 ml"
+              "name": "ketjap manis",
+              "amount": "65 ml"
+            },
+            {
+              "name": "water of lichte ongezouten kippenbouillon",
+              "amount": "110 ml"
             },
             {
               "name": "gula djawa (palmsuiker)",
-              "amount": "30 g"
+              "amount": "5 g"
             },
             {
-              "name": "stuks steranijs",
-              "amount": "6"
+              "name": "steranijs",
+              "amount": "1"
             },
             {
-              "name": "ketumbar (gemalen koriander)",
-              "amount": "1½ tl"
+              "name": "kaneelstok, klein stukje van ongeveer 3 cm",
+              "amount": "1"
             },
             {
-              "name": "zwarte peper, grof gemalen",
-              "amount": "1½ tl"
+              "name": "gemalen koriander",
+              "amount": "½ tl"
+            },
+            {
+              "name": "grof gemalen zwarte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "daun salam",
+              "amount": "1"
+            },
+            {
+              "name": "verse laos, ongeveer 2 cm, gekneusd",
+              "amount": "1 stuk"
             },
             {
               "name": "zout",
-              "amount": "1 tl"
-            },
-            {
-              "name": "kaneelstokje",
-              "amount": "1"
+              "amount": "naar smaak"
             }
           ]
         },
@@ -9621,94 +9629,90 @@
           "ingredients": [
             {
               "name": "gebakken uitjes",
-              "amount": "2 el"
+              "amount": "1-2 el"
             },
             {
-              "name": "verse rode chili, in dunne ringen",
-              "amount": "1"
+              "name": "verse rode chili, in flinterdunne ringen (optioneel)",
+              "amount": "naar smaak"
             },
             {
-              "name": "limoensap",
-              "amount": "1 tl"
+              "name": "rijstazijn (alleen indien nodig, zie tips)",
+              "amount": "½ tl, optioneel"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Gember-knoflookpasta",
-          "description": "maal gember en knoflook samen tot een pasta in een blender of vijzel."
+          "action": "Vlees aanbakken",
+          "description": "Dep het vlees goed droog. Bak in 2 porties op hoog vuur donkerbruin aan in de olie. Haal het vlees uit de pan en zet apart."
         },
         {
-          "action": "Basis fruiten",
-          "description": "verhit olie en boter in een zware stoofpan. Fruit sjalotjes op laag vuur tot goudbruin (±8 minuten). Voeg de gember-knoflookpasta toe en bak 2 minuten mee."
+          "action": "Sjalot fruiten",
+          "description": "Fruit de sjalot in dezelfde pan tot goudbruin. Voeg de knoflook en gember toe en bak kort mee. Voeg de koriander toe en bak nog even mee tot geurig."
         },
         {
-          "action": "Vlees aanbraden",
-          "description": "zet het vuur hoog. Voeg het vlees toe en bak rondom bruin — neem de tijd, dit is de basis van de smaak."
+          "action": "Vlees terug en ketjap karamelliseren",
+          "description": "Voeg het vlees terug in de pan. Voeg de ketjap toe en schep 30-60 seconden om — niet laten verbranden."
         },
         {
-          "action": "Saus opbouwen",
-          "description": "voeg kecap, gula djawa, steranijs, ketumbar, peper, zout en kaneel toe. Roer goed. Breng aan de kook."
+          "action": "Stoven opbouwen",
+          "description": "Voeg het water of de bouillon, gula djawa, steranijs, kaneel, daun salam, laos en zwarte peper toe. Breng aan de kook."
         },
         {
-          "action": "Stoven",
-          "description": "zet het vuur heel laag. Laat het vlees in 2 uur gaarsmoren met de deksel half op de pan. Roer af en toe — de saus moet inkoken tot hij stroperig en glanzend is."
+          "action": "Zacht stoven",
+          "description": "Zet het vuur heel laag en laat het vlees, grotendeels met het deksel op de pan, 1½ tot 2 uur heel zacht stoven tot het boterzacht is maar nog intact — niet uit elkaar vallend."
         },
         {
-          "action": "Afwerken en serveren",
-          "description": "druppel op het eind een tl limoensap erdoor om het zoet te breken. Garneer met gebakken uitjes en chiliringen. Serveer met witte rijst."
+          "action": "Reduceren",
+          "description": "Haal het deksel eraf. Verwijder de steranijs, kaneel, salam en laos. Laat de saus 10-20 minuten rustig inkoken tot hij donker, glanzend en nappant is — hij moet om het vlees hangen, niet als soep onderin liggen."
+        },
+        {
+          "action": "Op smaak brengen",
+          "description": "Breng op smaak met zout. Smaakt de saus na het reduceren echt te zoet, roer er dan ½ tl rijstazijn door en proef opnieuw."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep in een klein, warm schaaltje. Garneer met gebakken uitjes en, als je wilt, een paar flinterdunne ringetjes rode chili."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer als klein, rijk hapje binnen de rijsttafel: een warm schaaltje met glanzende blokjes procureur, net genoeg saus om ze te lakken, gebakken sjalot en eventueel enkele dunne chiliringen. Geen grote berg witte rijst ernaast — noem rijst alleen als onderdeel van de bredere rijsttafel."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het vlees eerst apart aan te bakken voordat de aromaten de pan in gaan, ontstaat echte Maillardkleur zonder dat knoflook of gember verbrandt. Door daarna in voldoende vocht te stoven in plaats van meteen in dikke ketjap te smoren, wordt het vlees boterzacht terwijl de saus niet te vroeg stroperig of verbrand wordt. Pas als het vlees mals is, wordt de saus zonder deksel gereduceerd tot een glanzende, geconcentreerde lak — dat geeft het verschil tussen een zoete, dikke ketjapstoof en een verfijnd klein rijsttafelgerecht."
         }
       ],
-      "tips": [
-        "procureur is geen toeval — het dooraderde vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Nooit mager varkensvlees gebruiken.",
-        "Techniek: bak de ui echt goed bruin — 8 tot 10 minuten op laag vuur. Die diepe karamelisatie is het fundament van de smaakdiepte van babi kecap.",
-        "Presentatie: serveer met witte rijst — de glanzende, mahoniekleurige saus naast de witte rijst is een klassiek Indonesisch kleurcontrast dat direct eetlust opwekt.",
-        "Variatie: voeg een kaneelstokje en een steranijs toe tijdens het stoven voor een warmere, complexere smaak die de kecap dieper maakt.",
-        "Alternatief: geen dikke kecap ABC? Gebruik ketjap manis en kook hem 5 minuten extra in om hem dikker en geconcentreerder te maken — bereikt 80% van het resultaat.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
+      "chef_tip": "Vleeskeuze: procureur is geen toeval — het dooraderde vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Nooit mager varkensvlees gebruiken.\n\nTechniek sjalot: bak de sjalot echt goed bruin — dat is het fundament van de smaakdiepte van babi kecap.\n\nPresentatie: serveer als klein, rijk hapje binnen de rijsttafel — de glanzende, mahoniekleurige saus is een klassiek Indonesisch kleurcontrast dat direct eetlust opwekt naast de andere gerechten.\n\nVooruitwerken: dit gerecht is de volgende dag vaak nog lekkerder. Laat het vlees afkoelen in de saus, koel af, verwijder eventueel gestold overtollig vet en warm de volgende dag langzaam op. Reduceer de saus pas tijdens het opwarmen tot de perfecte glans.\n\nRestaurantgeheim: stoof het vlees eerst in voldoende vocht en reduceer pas wanneer het mals is. Zo krijg je zacht procureur én een dikke glanzende ketjapsaus. Als je vanaf het begin alleen in dikke ketjap smoort, wordt de saus eerder stroperig dan het vlees mals.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Zinfandel",
-          "druif": "Zinfandel",
-          "smaakprofiel": "Droog, vol, rijp donker fruit, zwarte peper, kruidig, licht rokerig",
-          "omschrijving": "De rijpe zwarte vruchten, hoge alcoholgraad en lichte zoetheid van een Californische Zinfandel sluiten naadloos aan bij de donkere kecap en steranijs in de babi kecap.",
-          "waarom_werkt_dit": "De jamachtige bramen- en pruimentonen van de Zinfandel weerspiegelen de geconcentreerde zoetzure kecap. Genoeg kracht om het vette procureur bij te houden, genoeg fruitigheid om de palmsuiker te spiegelen. Zinfandel heeft ook een karakteristiek kruidige, peperachtige afdronk die de specerijen in het gerecht versterkt. Serveer op 17°C."
+          "naam": "Morgon / Cru Beaujolais (Beaujolais, Frankrijk)",
+          "druif": "Gamay",
+          "smaakprofiel": "Sappige kers, braam en viooltjes, met een subtiele peperige, aardse ondertoon en zachte tannines zonder merkbaar hout.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Genoeg body voor de procureur en de ketjap, maar veel frisser en minder zwaar dan een Zinfandel of Shiraz — precies wat dit lichtere, verfijndere gerecht nodig heeft.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         },
         {
           "type": "alternatief",
-          "naam": "Primitivo di Manduria",
-          "druif": "Zinfandel",
-          "smaakprofiel": "Droog, vol, rijp donker fruit, zwarte peper, kruidig, licht rokerig",
-          "omschrijving": "de Italiaanse neef van Zinfandel, even donker en krachtig maar iets eleganter",
-          "waarom_werkt_dit": "Biedt meer Zinfandel-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
+          "naam": "Droge Gewürztraminer (ongehout)",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Lychee, peer, roos en warme specerijen, met zachte zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Sluit prachtig aan bij steranijs, gember en de zoet-hartige ketjap.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Barossa Valley Shiraz — Zuid-Australië",
-          "druif": "Shiraz / Syrah",
-          "smaakprofiel": "Droog, vol, zwarte bes, peper, kruidnagel, zachte rijpe tannines",
-          "omschrijving": "Kruidige, volle rode wijn met genoeg kracht voor geroosterd vlees en specerijen.",
-          "waarom_werkt_dit": "Shiraz brengt zwarte peper, donker fruit en kruidigheid mee; precies wat rijkere BBQ-, stoof- en specerijgerechten nodig hebben. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "type": "meest-toegankelijk",
+          "naam": "Chenin Blanc (Zuid-Afrika, droog en ongehout)",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Gele appel, kweepeer, peer en witte perzik, met frisse maar niet scherpe zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Voldoende rijpheid voor de ketjap en genoeg frisheid om het varkensvet licht te houden.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
         }
-      ],
-      "wine": {
-        "naam": "Zinfandel",
-        "druif": "Zinfandel",
-        "toelichting": "De rijpe zwarte vruchten, hoge alcoholgraad en lichte zoetheid van een Californische Zinfandel sluiten naadloos aan bij de donkere kecap en steranijs in de babi kecap. De jamachtige bramen- en pruimentonen van de Zinfandel weerspiegelen de geconcentreerde zoetzure kecap. Genoeg kracht om het vette procureur bij te houden, genoeg fruitigheid om de palmsuiker te spiegelen. Zinfandel heeft ook een karakteristiek kruidige, peperachtige afdronk die de specerijen in het gerecht versterkt. Serveer op 17°C.",
-        "alternatief": "Primitivo di Manduria — de Italiaanse neef van Zinfandel, even donker en krachtig maar iets eleganter"
-      },
-      "tips_full": [
-        "procureur is geen toeval — het dooraderde vet smelt tijdens het stoven en geeft de saus zijn glanzende body. Nooit mager varkensvlees gebruiken.",
-        "Techniek: bak de ui echt goed bruin — 8 tot 10 minuten op laag vuur. Die diepe karamelisatie is het fundament van de smaakdiepte van babi kecap.",
-        "Presentatie: serveer met witte rijst — de glanzende, mahoniekleurige saus naast de witte rijst is een klassiek Indonesisch kleurcontrast dat direct eetlust opwekt.",
-        "Variatie: voeg een kaneelstokje en een steranijs toe tijdens het stoven voor een warmere, complexere smaak die de kecap dieper maakt.",
-        "Alternatief: geen dikke kecap ABC? Gebruik ketjap manis en kook hem 5 minuten extra in om hem dikker en geconcentreerder te maken — bereikt 80% van het resultaat.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
       ]
     },
     {
