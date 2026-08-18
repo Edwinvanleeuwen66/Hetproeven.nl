@@ -27505,33 +27505,28 @@
       "full_title_docx": "84. THE ULTIMATE FISH AND CHIPS — BEER & VODKA BATTERED COD MET TRIPLE-COOKED CHIPS"
     },
     {
-      "title": "Crudo van zeebaars — rauwe zeebaars met venkel-jalapeño bouillon, Conference peer, jalapeño-crème en Oscietra kaviaar",
+      "title": "Crudo van zeebaars met venkel-jalapeñobouillon, peer en Oscietra",
       "slug": "crudo-zeebaars-venkel-jalapeno-bouillon-peer-kaviaar",
       "location": "België",
-      "time": "30 min + 30 min koelen bouillon",
-      "servings": "4 voorgerechten",
+      "time": "30 min voorbereiding + 30 min koelen (bouillon)",
+      "servings": "4 personen",
       "difficulty": "Gevorderd",
       "keuken": "Frans",
       "categorie": "vis-zeevruchten",
       "image": "/assets/images/crudo-zeebaars-venkel-jalapeno-bouillon-peer-kaviaar.jpg",
-      "short_description": "Geïnspireerd op Belgische Michelin-stijl. Puur rauwe zeebaars — paperdun gesneden, ongerept — op een bevroren bord met drie elementen die alles samenbrengen: een dot koude jalapeño-crème, fijne peer met champagneazijn, paperdunne venkel uit ijswater.",
-      "description": "Geïnspireerd op Belgische Michelin-stijl. Puur rauwe zeebaars — paperdun gesneden, ongerept — op een bevroren bord met drie elementen die alles samenbrengen: een dot koude jalapeño-crème, fijne peer met champagneazijn, paperdunne venkel uit ijswater. Dan aan tafel: de heldere koude venkel-jalapeño bouillon ingeschonken rondom de vis.",
-      "full_intro": "Geïnspireerd op Belgische Michelin-stijl. Puur rauwe zeebaars — paperdun gesneden, ongerept — op een bevroren bord met drie elementen die alles samenbrengen: een dot koude jalapeño-crème, fijne peer met champagneazijn, paperdunne venkel uit ijswater. Dan aan tafel: de heldere koude venkel-jalapeño bouillon ingeschonken rondom de vis.",
+      "short_description": "Flinterdunne rauwe zeebaars met frisse Conference-peer, zachte jalapeñocrème, Oscietra-kaviaar en een ijskoude heldere venkel-jalapeñobouillon die aan tafel wordt ingeschonken.",
+      "description": "Flinterdun gesneden, ongerepte zeebaars, geserveerd met een zachte jalapeñocrème, frisse Conference-peer en drie kleine quenelles Oscietra-kaviaar. Aan tafel wordt een ijskoude, heldere venkel-jalapeñobouillon rondom de vis geschonken — verfijnd, elegant en bewust niet te zuur.",
       "ingredient_groups": [
         {
           "group_name": "Voor de vis",
           "ingredients": [
             {
-              "name": "zeebaars (bar/loup de mer — altijd sashimi-kwaliteit, vraag expliciet aan de visboer)",
+              "name": "zeebaars (bar/loup de mer — altijd sashimi-kwaliteit, vraag expliciet aan de visboer; alternatief: dorade royale)",
               "amount": "280 g"
             },
             {
-              "name": "alternatief: dorade royale",
-              "amount": ""
-            },
-            {
-              "name": "paar druppels milde extra vergine olijfolie",
-              "amount": ""
+              "name": "milde extra vierge olijfolie",
+              "amount": "paar druppels"
             },
             {
               "name": "fleur de sel",
@@ -27544,14 +27539,14 @@
           ]
         },
         {
-          "group_name": "Voor de jalapeño-crème (geconcentreerde hitte-dot)",
+          "group_name": "Voor de jalapeño-crème",
           "ingredients": [
             {
-              "name": "groene jalapeños",
+              "name": "groene jalapeño's",
               "amount": "2"
             },
             {
-              "name": "crème double of volle crème fraîche",
+              "name": "volle crème fraîche",
               "amount": "80 g"
             },
             {
@@ -27559,13 +27554,13 @@
               "amount": "1 tl"
             },
             {
-              "name": "snuf fijn zeezout",
-              "amount": ""
+              "name": "fijn zeezout",
+              "amount": "snuf"
             }
           ]
         },
         {
-          "group_name": "Voor de venkel-jalapeño-bouillon (aan tafel ingeschonken)",
+          "group_name": "Voor de venkel-jalapeño-bouillon",
           "ingredients": [
             {
               "name": "kleine venkelknol, fijngesneden",
@@ -27592,16 +27587,16 @@
               "amount": "250 ml"
             },
             {
-              "name": "vers limoensap",
-              "amount": "1 tl"
-            },
-            {
               "name": "champagneazijn (of witte balsamico)",
               "amount": "½ tl"
             },
             {
               "name": "honing",
               "amount": "½ tl"
+            },
+            {
+              "name": "vers limoensap (pas na afkoelen, druppelsgewijs toevoegen)",
+              "amount": "enkele druppels"
             },
             {
               "name": "venkeltopjes (allerlaatst — aromaat)",
@@ -27622,20 +27617,16 @@
             },
             {
               "name": "vers limoensap",
-              "amount": "1 tl"
-            },
-            {
-              "name": "champagneazijn",
               "amount": "½ tl"
             },
             {
-              "name": "snuf fijn zeezout",
-              "amount": ""
+              "name": "fleur de sel",
+              "amount": "snuf"
             }
           ]
         },
         {
-          "group_name": "Voor de venkel",
+          "group_name": "Voor de venkel (garnering)",
           "ingredients": [
             {
               "name": "kleine venkelknol",
@@ -27643,10 +27634,10 @@
             },
             {
               "name": "ijswater + 1 tl citroensap",
-              "amount": ""
+              "amount": "naar behoefte"
             },
             {
-              "name": "venkeltopjes (als garnering)",
+              "name": "venkeltopjes, als garnering",
               "amount": "naar smaak"
             }
           ]
@@ -27655,11 +27646,11 @@
           "group_name": "Voor de afwerking",
           "ingredients": [
             {
-              "name": "oscietra kaviaar",
-              "amount": "20–24 g"
+              "name": "Oscietra kaviaar",
+              "amount": "20-24 g"
             },
             {
-              "name": "micro-cress (shiso cress, borage cress of Vene Cress)",
+              "name": "micro-cress (borage cress of Vene Cress)",
               "amount": "naar smaak"
             },
             {
@@ -27669,230 +27660,82 @@
           ]
         }
       ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de vis",
-          "ingredients": [
-            "280g zeebaars (bar/loup de mer — altijd sashimi-kwaliteit, vraag expliciet aan de visboer)"
-          ]
-        },
-        {
-          "group_name": "Alternatief: dorade royale",
-          "ingredients": [
-            "Paar druppels milde extra vergine olijfolie",
-            "Fleur de sel",
-            "Fijne limoenrasp"
-          ]
-        },
-        {
-          "group_name": "Voor de jalapeño-crème (geconcentreerde hitte-dot)",
-          "ingredients": [
-            "2 groene jalapeños",
-            "80g crème double of volle crème fraîche",
-            "1 tl vers limoensap",
-            "Snuf fijn zeezout"
-          ]
-        },
-        {
-          "group_name": "Voor de venkel-jalapeño-bouillon (aan tafel ingeschonken)",
-          "ingredients": [
-            "1 kleine venkelknol, fijngesneden",
-            "1 kleine sjalot, fijngesneden",
-            "½ groene jalapeño, zonder zaadjes",
-            "1 el milde olijfolie",
-            "60ml droge witte wijn",
-            "250ml lichte groente- of visbouillon",
-            "1 tl vers limoensap",
-            "½ tl champagneazijn (of witte balsamico)",
-            "½ tl honing",
-            "Venkeltopjes (allerlaatst — aromaat)",
-            "Zout en witte peper"
-          ]
-        },
-        {
-          "group_name": "Voor de peer",
-          "ingredients": [
-            "1 stevige Conference- of Doyenné-peer (niet te rijp — fris-zoet en strak)",
-            "1 tl vers limoensap",
-            "½ tl champagneazijn",
-            "Snuf fijn zeezout"
-          ]
-        },
-        {
-          "group_name": "Voor de venkel",
-          "ingredients": [
-            "1 kleine venkelknol",
-            "IJswater + 1 tl citroensap",
-            "Venkeltopjes (als garnering)"
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            "20–24g oscietra kaviaar",
-            "Micro-cress (shiso cress, borage cress of Vene Cress)",
-            "Fijne limoenrasp"
-          ]
-        }
-      ],
       "steps": [
         {
-          "number": 1,
-          "action": "Jalapeño-crème (van tevoren)",
-          "description": "Jalapeños roosteren direct op gasvlam of onder de grill tot de schil zwart geblakerd is. In een kom afdekken met plasticfolie — 5 minuten stomen. Schil afpellen. Zaadjes verwijderen. Geroosterde jalapeños blenden met crème double, limoensap en zout. Door een fijne zeef wrijven — de crème moet absoluut glad zijn. Koel bewaren in een spuitzak."
+          "action": "Jalapeño-crème maken (van tevoren)",
+          "description": "Rooster de jalapeño's direct op een gasvlam of onder de grill tot de schil zwart geblakerd is. Dek af met plasticfolie in een kom en laat 5 minuten stomen. Pel de schil eraf en verwijder de zaadjes. Blend de geroosterde jalapeño's met de crème fraîche, limoensap en zout. Wrijf door een fijne zeef tot de crème absoluut glad is. Bewaar koel in een spuitzak."
         },
         {
-          "number": 3,
-          "action": "De koude venkel-jalapeño-bouillon (minimaal 30 min van tevoren)",
-          "description": "Verhit olijfolie in een kleine pan. Venkel en sjalot 3–4 minuten zachtjes fruiten — glazig, niet gekleurd. Witte wijn toevoegen. Inkoken tot de helft. Bouillon toevoegen. 8 minuten zacht laten trekken. Jalapeño en venkeltopjes toevoegen. 2 minuten mee laten trekken. Blenden met limoensap, champagneazijn, honing, zout en witte peper. Door een fijne zeef persen. Volledig laten afkoelen. Dan minimaal 30 minuten in de koelkast."
+          "action": "Bouillon opbouwen",
+          "description": "Verhit de olijfolie in een kleine pan. Fruit venkel en sjalot 3-4 minuten zachtjes — glazig, niet gekleurd. Voeg de witte wijn toe en laat inkoken tot de helft. Voeg de bouillon, champagneazijn en honing toe en laat 8 minuten zacht trekken. Voeg de jalapeño en venkeltopjes toe en laat nog 2 minuten mee trekken."
         },
         {
-          "number": 7,
-          "action": "Venkel uit ijswater",
-          "description": "Venkelknol paperdun schaven op mandoline. Direct in ijskoud water met citroensap — 10 minuten. Daarna goed uitlekken en voorzichtig droogdeppen."
+          "action": "Bouillon passeren",
+          "description": "Passeer de bouillon door een zeer fijne zeef of een doek — pers de groenten niet uit en pureer ze niet, je wilt een heldere vloeistof, geen dikke soep. Laat de bouillon volledig afkoelen."
         },
         {
-          "number": 8,
-          "action": "Peer",
-          "description": "Peer schillen. In fijne brunoise van 2mm of paperdunne halve plakjes. Direct mengen met limoensap, champagneazijn en zout. Koel bewaren."
+          "action": "Bouillon op smaak brengen",
+          "description": "Proef de volledig koude bouillon. Voeg pas nu, druppelsgewijs, wat limoensap toe en proef opnieuw. De bouillon moet fris zijn, niet scherp zuur. Breng verder op smaak met zout en witte peper. Zet minimaal 30 minuten in de koelkast."
         },
         {
-          "number": 9,
-          "action": "De vis (vlak voor serveren)",
-          "description": "20 minuten in de vriezer — de vis firmt op en is makkelijker paperdun te snijden. Met een scherp japans mes dwars op de vezels in plakjes van 2–3mm snijden."
+          "action": "Venkel voorbereiden",
+          "description": "Schaaf de venkelknol paperdun op een mandoline. Leg direct in ijskoud water met citroensap, 10 minuten. Laat goed uitlekken en dep voorzichtig droog."
         },
         {
-          "number": 11,
-          "action": "Opbouwen (bevroren borden — altijd)",
-          "description": "Borden 30 minuten in de vriezer. Kleine dots jalapeño-crème op het bord. Visplakjes elegant overlappend in een losse halve cirkel. Druppels olijfolie. Limoenrasp. Fleur de sel. Peer fijn verdeeld. Venkelkrullen luchtig eroverheen. Oscietra kaviaar als kleine, precieze quenelles op 3–4 punten. Micro-cress en venkeltopjes. Tableside: de ijskoude venkel-jalapeño-bouillon voorzichtig rondom de vis ingeschonken."
+          "action": "Peer voorbereiden",
+          "description": "Schil de peer. Snijd in een fijne brunoise van 2 mm of in paperdunne halve plakjes. Meng direct met het limoensap en een snuf fleur de sel. Bewaar koel."
+        },
+        {
+          "action": "Vis snijden (vlak voor serveren)",
+          "description": "Leg de vis 20 minuten in de vriezer — dat maakt hem steviger en makkelijker paperdun te snijden. Snijd met een scherp Japans mes dwars op de vezels in plakjes van 2-3 mm. Werk de vis verder alleen af met een paar druppels milde olijfolie, fleur de sel en fijne limoenrasp — geen limoensap direct op de rauwe vis."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Zet de borden 20-30 minuten in de koelkast, of kort in de vriezer — goed gekoeld, niet bevroren. Zet enkele dots jalapeño-crème op het bord. Leg de visplakjes er losjes overlappend overheen. Verdeel de fijne peer en leg er luchtige venkelkrullen overheen. Zet de Oscietra kaviaar als drie kleine lepeltjes of quenelles. Werk af met minimale micro-cress."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schenk de ijskoude venkel-jalapeño-bouillon pas aan tafel, voorzichtig rondom de vis."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "De vis blijft parelwit en glanzend, losjes overlappend zodat elk plakje zichtbaar blijft. Peer en venkel als lichte, frisse accenten, kaviaar als drie precieze zwarte accenten — niet uitgesmeerd over het hele bord. Houd de opbouw bewust rustig: dit gerecht wint bij minder, niet bij meer."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De rauwe zeebaars blijft puur doordat er geen zuur direct op de vis komt — alleen olie, zout en limoenrasp. De jalapeño-crème geeft een zachte, geconcentreerde hitte, de Conference-peer een subtiele, natuurlijke zoetheid, en de venkel een fris anijsachtig aroma. Kaviaar voegt ziltigheid en luxe toe zonder de vis te overheersen. De heldere bouillon, apart getrokken en pas na het afkoelen op smaak gebracht met een paar druppels limoen, verbindt alle elementen zonder het gerecht troebel of zwaar te maken."
         }
       ],
-      "steps_full": [
-        {
-          "number": null,
-          "section": "Jalapeño-crème (van tevoren)",
-          "description": "Jalapeños roosteren direct op gasvlam of onder de grill tot de schil zwart geblakerd is. In een kom afdekken met plasticfolie — 5 minuten stomen. Schil afpellen. Zaadjes verwijderen."
-        },
-        {
-          "number": null,
-          "section": "Jalapeño-crème (van tevoren)",
-          "description": "Geroosterde jalapeños blenden met crème double, limoensap en zout. Door een fijne zeef wrijven — de crème moet absoluut glad zijn. Koel bewaren in een spuitzak."
-        },
-        {
-          "number": null,
-          "section": "De koude venkel-jalapeño-bouillon (minimaal 30 min van tevoren)",
-          "description": "Verhit olijfolie in een kleine pan. Venkel en sjalot 3–4 minuten zachtjes fruiten — glazig, niet gekleurd."
-        },
-        {
-          "number": null,
-          "section": "De koude venkel-jalapeño-bouillon (minimaal 30 min van tevoren)",
-          "description": "Witte wijn toevoegen. Inkoken tot de helft. Bouillon toevoegen. 8 minuten zacht laten trekken."
-        },
-        {
-          "number": null,
-          "section": "De koude venkel-jalapeño-bouillon (minimaal 30 min van tevoren)",
-          "description": "Jalapeño en venkeltopjes toevoegen. 2 minuten mee laten trekken."
-        },
-        {
-          "number": null,
-          "section": "De koude venkel-jalapeño-bouillon (minimaal 30 min van tevoren)",
-          "description": "Blenden met limoensap, champagneazijn, honing, zout en witte peper. Door een fijne zeef persen. Volledig laten afkoelen. Dan minimaal 30 minuten in de koelkast."
-        },
-        {
-          "number": null,
-          "section": "Venkel uit ijswater",
-          "description": "Venkelknol paperdun schaven op mandoline. Direct in ijskoud water met citroensap — 10 minuten. Daarna goed uitlekken en voorzichtig droogdeppen."
-        },
-        {
-          "number": null,
-          "section": "Peer",
-          "description": "Peer schillen. In fijne brunoise van 2mm of paperdunne halve plakjes. Direct mengen met limoensap, champagneazijn en zout. Koel bewaren."
-        },
-        {
-          "number": null,
-          "section": "De vis (vlak voor serveren)",
-          "description": "20 minuten in de vriezer — de vis firmt op en is makkelijker paperdun te snijden."
-        },
-        {
-          "number": null,
-          "section": "De vis (vlak voor serveren)",
-          "description": "Met een scherp japans mes dwars op de vezels in plakjes van 2–3mm snijden."
-        },
-        {
-          "number": null,
-          "section": "Opbouwen (bevroren borden — altijd)",
-          "description": "Borden 30 minuten in de vriezer. Kleine dots jalapeño-crème op het bord. Visplakjes elegant overlappend in een losse halve cirkel. Druppels olijfolie. Limoenrasp. Fleur de sel."
-        },
-        {
-          "number": null,
-          "section": "Opbouwen (bevroren borden — altijd)",
-          "description": "Peer fijn verdeeld. Venkelkrullen luchtig eroverheen. Oscietra kaviaar als kleine, precieze quenelles op 3–4 punten. Micro-cress en venkeltopjes."
-        },
-        {
-          "number": null,
-          "section": "Opbouwen (bevroren borden — altijd)",
-          "description": "Tableside: de ijskoude venkel-jalapeño-bouillon voorzichtig rondom de vis ingeschonken."
-        }
-      ],
-      "tips": [
-        "Inkopen: Sashimi-kwaliteit is niet onderhandelbaar: Vraag expliciet aan de visboer of de vis rauw gegeten kan worden.",
-        "Bevroren borden: De meest onderschatte stap. Koude borden houden de vis koud.",
-        "Bouillon echt koud serveren: IJskoud geeft spanning en verfijning.",
-        "Jalapeño: Jalapeño subtiel in de bouillon: Zaadjes altijd verwijderen, nooit te lang laten trekken.",
-        "Variatie — licht gecuurd: Bestrooi de vis 5–10 min voor het snijden met zeezout + limoensap. Dep droog. Steviger van textuur.",
-        "Alternatief kaviaar: Zalm-roe of foreleitjes als toegankelijker alternatief.",
-        "Vis ijskoud snijden: Leg de zeebaars 15–20 minuten in de vriezer voordat je snijdt. De vis wordt steviger, waardoor je dunner en strakker kunt werken zonder de structuur te beschadigen."
-      ],
-      "tips_full": [
-        "Inkopen: Sashimi-kwaliteit is niet onderhandelbaar: Vraag expliciet aan de visboer of de vis rauw gegeten kan worden.",
-        "Bevroren borden: De meest onderschatte stap. Koude borden houden de vis koud.",
-        "Bouillon echt koud serveren: IJskoud geeft spanning en verfijning.",
-        "Jalapeño: Jalapeño subtiel in de bouillon: Zaadjes altijd verwijderen, nooit te lang laten trekken.",
-        "Variatie — licht gecuurd: Bestrooi de vis 5–10 min voor het snijden met zeezout + limoensap. Dep droog. Steviger van textuur.",
-        "Alternatief kaviaar: Zalm-roe of foreleitjes als toegankelijker alternatief.",
-        "Vis ijskoud snijden: Leg de zeebaars 15–20 minuten in de vriezer voordat je snijdt. De vis wordt steviger, waardoor je dunner en strakker kunt werken zonder de structuur te beschadigen."
-      ],
-      "opmaak_presentatie": "Bevroren platte borden. De vis parelwit en glanzend. Peerblokjes als zachte gele accenten. Venkelkrullen als fris groen. Kaviaar als zwarte parels op 3 punten. Jalapeño-crème als kleine witte-groene dots. De koude bouillon als heldere, licht groene glanzende vijver — aan tafel ingeschonken.",
+      "chef_tip": "Restaurantgeheim: Maak de bouillon niet door de groenten te pureren. Laat de aromaten trekken en passeer daarna zo fijn mogelijk. Zo krijg je een heldere, geconcentreerde bouillon die de rauwe vis ondersteunt zonder het gerecht troebel of zwaar te maken.\n\nInkopen: Sashimi-kwaliteit is niet onderhandelbaar — vraag expliciet aan de visboer of de vis rauw gegeten kan worden.\n\nVis strak snijden: Leg de zeebaars 15-20 minuten in de vriezer voordat je snijdt. De vis wordt steviger, waardoor je dunner en strakker kunt werken zonder de structuur te beschadigen.\n\nBouillon serveren: Serveer de bouillon echt ijskoud — dat geeft spanning en verfijning.\n\nJalapeño: verwijder altijd de zaadjes en laat de jalapeño nooit te lang meetrekken in de bouillon, anders wordt de hitte dominant.\n\nAlternatief kaviaar: zalm-roe of foreleitjes als toegankelijker alternatief.\n\nRoom-alternatief: crème double kan in plaats van crème fraîche voor een nog rijkere, dikkere jalapeño-crème.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Champagne Blanc de Blancs Extra Brut AOC — Champagne, Frankrijk",
+          "naam": "Champagne Blanc de Blancs Extra Brut (Champagne, Frankrijk)",
           "druif": "Chardonnay",
-          "smaakprofiel": "Droog, strak, mineraal, citrus, fijne mousse, lichte brioche, geen restsui-ker",
+          "smaakprofiel": "Citroen, groene appel, witte bloemen, krijt en fijne briochetonen, met een zeer droge, verfijnde mousse.",
           "omschrijving": "De meest precieze en feestelijke keuze bij rauwe vis en kaviaar.",
-          "waarom_werkt_dit": "De mousse ruimt het mondgevoel op. De mineraliteit versterkt het zilte karakter van vis en kaviaar. De citrusnoten sluiten aan op limoen en champagneazijn."
+          "waarom_werkt_dit": "De mousse reinigt het mondgevoel, de mineraliteit sluit aan op de rauwe vis en kaviaar, en de citrustonen ondersteunen venkel, peer en jalapeño zonder de vis te overheersen.",
+          "serveertemperatuur": "Serveer rond 8-9°C."
         },
         {
           "type": "alternatief",
-          "naam": "Albariño Rias Baixas DO — Galicië, Spanje",
+          "naam": "Albariño Rías Baixas (Galicië, Spanje)",
           "druif": "Albariño",
-          "smaakprofiel": "Droog, fris, licht ziltig, citrus, witte perzik, levendig",
+          "smaakprofiel": "Witte perzik, citrus, een zilte mineraliteit en een frisse, sappige afdronk.",
           "omschrijving": "De meest elegante stille wijnkeuze bij koude visgerechten.",
-          "waarom_werkt_dit": "De ziltigheid spiegelt de vis en kaviaar. De citrusfrisheid sluit aan op de bouillon en limoen."
+          "waarom_werkt_dit": "De ziltigheid spiegelt de vis en kaviaar, terwijl de citrusfrisheid aansluit op de bouillon en de limoenrasp.",
+          "serveertemperatuur": "Serveer rond 8-9°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Chablis Premier Cru AOC — Bourgogne, Frankrijk",
-          "druif": "Chardonnay",
-          "smaakprofiel": "Droog, mineraal, citrus, groene appel, krijtige spanning, strak",
-          "omschrijving": "Strakker en stiller dan Champagne — klassiek Frans.",
-          "waarom_werkt_dit": "De krijtige mineraliteit is de klassieke match bij rauwe vis en kaviaar."
+          "type": "meest-toegankelijk",
+          "naam": "Muscadet Sèvre-et-Maine Sur Lie (Loire, Frankrijk)",
+          "druif": "Melon de Bourgogne",
+          "smaakprofiel": "Ongehout, zilt en strak, met een licht gistige, sur-lie-toon en een droge, frisse afdronk.",
+          "omschrijving": "Een klassieke, betaalbare metgezel bij rauwe vis en schaal- en schelpdieren.",
+          "waarom_werkt_dit": "De zilte, strakke stijl en de licht gistige sur-lie-toon werken van oudsher uitstekend bij rauwe vis en kaviaar, zonder de delicate smaken te overheersen.",
+          "serveertemperatuur": "Serveer rond 8-9°C."
         }
-      ],
-      "wine": {
-        "naam": "Champagne Blanc de Blancs Extra Brut AOC — Champagne, Frankrijk",
-        "druif": "Chardonnay",
-        "toelichting": "Droog, strak, mineraal, citrus, fijne mousse, lichte brioche, geen restsui-ker De meest precieze en feestelijke keuze bij rauwe vis en kaviaar. De mousse ruimt het mondgevoel op. De mineraliteit versterkt het zilte karakter van vis en kaviaar. De citrusnoten sluiten aan op limoen en champagneazijn.",
-        "alternatief": "Albariño Rias Baixas DO — Galicië, Spanje — Albariño. Droog, fris, licht ziltig, citrus, witte perzik, levendig De meest elegante stille wijnkeuze bij koude visgerechten. De ziltigheid spiegelt de vis en kaviaar. De citrusfrisheid sluit aan op de bouillon en limoen. | Chablis Premier Cru AOC — Bourgogne, Frankrijk — Chardonnay. Droog, mineraal, citrus, groene appel, krijtige spanning, strak Strakker en stiller dan Champagne — klassiek Frans. De krijtige mineraliteit is de klassieke match bij rauwe vis en kaviaar."
-      },
-      "metadata": {
-        "bereidingstijd": "30 min (plus 30 min koelen bouillon)",
-        "porties": "4 voorgerechten",
-        "type_gerecht": "Voorgerecht",
-        "niveau": "Gevorderd"
-      },
-      "source_recipe_number": 85,
-      "full_title_docx": "85. CRUDO VAN ZEEBAARS — RAUWE ZEEBAARS MET VENKEL-JALAPEÑO BOUILLON, CONFERENCE PEER, JALAPEÑO-CRÈME EN OSCIETRA KAVIAAR"
+      ]
     },
     {
       "title": "De Aardappel — dulse beurre blanc, forel- en haringkuit, azijnchip",
