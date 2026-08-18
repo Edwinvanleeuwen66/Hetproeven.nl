@@ -8859,24 +8859,36 @@
       ]
     },
     {
-      "title": "Sajoer Lodeh Culinair — tropische kokosmelkgroenten",
+      "title": "Sajoer Lodeh — Javaans bijgerecht met kokos, laos en kemiri",
       "slug": "sajoer-lodeh-culinair",
       "location": "Betawi",
-      "time": "20 min",
-      "servings": "2 personen",
+      "time": "15 min voorbereiding + 20-25 min bereiding",
+      "servings": "4 personen (bijgerecht-portie)",
       "difficulty": "Makkelijk",
       "keuken": "Indonesisch",
       "categorie": "soep",
       "image": "/assets/images/sajoer-lodeh.jpg",
-      "short_description": "Romige kokosmelksoep met seizoensgroenten, citroengras en kurkuma — het aromatische rustpunt van de rijsttafel.",
-      "description": "Een zachte, aromatische kokosmelksoep met groenten, citroengras, kurkuma en laos. Snel klaar met kant-en-klare soepgroente, maar met een zorgvuldig opgebouwde kruidenbasis die de indruk wekt van uren sudderen.",
+      "short_description": "Groenten die rustig garen in een lichte kokosbouillon met laos, sereh, daun salam, kemiri en een vleugje trassi. Niet scherp en niet zwaar, maar romig, kruidig en troostend tussen alle pittige gerechten.",
+      "description": "Sajoer lodeh is het zachte hart van een Indonesische rijsttafel: groenten die rustig garen in een lichte kokosbouillon met laos, sereh, daun salam, kemiri en een vleugje trassi. Niet scherp en niet zwaar, maar romig, kruidig en troostend tussen alle pittige gerechten.",
       "ingredient_groups": [
         {
           "group_name": "Groenten",
           "ingredients": [
             {
-              "name": "soepgroente of Chinese roerbakmix",
-              "amount": "250 g"
+              "name": "witte kool",
+              "amount": "160 g"
+            },
+            {
+              "name": "sperziebonen",
+              "amount": "120 g"
+            },
+            {
+              "name": "wortel",
+              "amount": "100 g"
+            },
+            {
+              "name": "courgette",
+              "amount": "100 g"
             }
           ]
         },
@@ -8884,48 +8896,52 @@
           "group_name": "Bumbu (kruidenbasis)",
           "ingredients": [
             {
-              "name": "sjalotjes of ½ ui, fijngehakt",
-              "amount": "2"
+              "name": "sjalotten",
+              "amount": "4"
             },
             {
-              "name": "knoflookteentjes, fijngehakt",
-              "amount": "2"
+              "name": "tenen knoflook",
+              "amount": "4"
+            },
+            {
+              "name": "kemirinoten",
+              "amount": "4"
             },
             {
               "name": "kurkuma (kunyit)",
               "amount": "1 tl"
             },
             {
-              "name": "laos of gemberpoeder",
-              "amount": "½ tl"
-            },
-            {
               "name": "korianderpoeder (ketumbar)",
-              "amount": "½ tl"
-            },
-            {
-              "name": "sereh (citroengras), gekneusd",
-              "amount": "1 stengel"
-            },
-            {
-              "name": "daun salam of laurierblad",
-              "amount": "1"
-            },
-            {
-              "name": "sambal oelek",
-              "amount": "½–1 tl"
-            },
-            {
-              "name": "trassi (optioneel)",
               "amount": "1 tl"
             },
             {
-              "name": "palmsuiker of bruine suiker",
-              "amount": "½ tl"
+              "name": "verse laos, gekneusd",
+              "amount": "4-6 cm"
+            },
+            {
+              "name": "sereh (citroengras), gekneusd",
+              "amount": "2 stengels"
+            },
+            {
+              "name": "daun salam",
+              "amount": "4"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1 tl"
+            },
+            {
+              "name": "geroosterde trassi",
+              "amount": "1 tl"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1 tl"
             },
             {
               "name": "neutrale olie",
-              "amount": "1 el"
+              "amount": "2 el"
             }
           ]
         },
@@ -8933,95 +8949,99 @@
           "group_name": "Vocht en afwerking",
           "ingredients": [
             {
-              "name": "kokosmelk, volvet",
-              "amount": "200 ml"
+              "name": "volle kokosmelk",
+              "amount": "350 ml"
             },
             {
               "name": "water",
-              "amount": "100 ml"
+              "amount": "350 ml"
             },
             {
               "name": "zout",
               "amount": "naar smaak"
             },
             {
-              "name": "limoensap",
-              "amount": "½ tl"
-            },
-            {
               "name": "gebakken uitjes",
-              "amount": "1 handvol"
+              "amount": "2 handvol"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Bumbu maken",
-          "description": "verhit olie in een pan. Fruit sjalot en knoflook tot geurig en licht goudbruin. Voeg sambal, trassi, kurkuma, laos, koriander en suiker toe en roer 30 seconden."
+          "action": "Bumbu fijnmalen",
+          "description": "Maal de kemirinoten, sjalot en knoflook samen tot een grove, fijne pasta."
         },
         {
-          "action": "Saus opbouwen",
-          "description": "voeg sereh, daun salam, kokosmelk en water toe. Laat 2 minuten zacht pruttelen zodat de smaken samenkomen — deze stap maakt het verschil."
+          "action": "Bumbu bakken",
+          "description": "Verhit de olie in een pan. Bak de bumbu op middelhoog vuur rustig uit tot geurig en licht goudbruin."
         },
         {
-          "action": "Groenten garen",
-          "description": "voeg de soepgroente toe en roer goed om. Laat 5–6 minuten zachtjes koken tot de groenten net gaar zijn — nog met een beetje bite."
+          "action": "Kruiden toevoegen",
+          "description": "Voeg de sambal oelek, trassi, kurkuma, koriander en palmsuiker toe en bak 30 seconden mee."
         },
         {
-          "action": "Afmaken en serveren",
-          "description": "breng op smaak met zout en een kneepje limoensap. Verwijder sereh en laurier. Schep in een kommetje en garneer met gebakken uitjes."
+          "action": "Aromaten erbij",
+          "description": "Voeg de verse laos, sereh en daun salam toe en bak nog even kort mee tot alles goed geurt."
+        },
+        {
+          "action": "Kokosbouillon opbouwen",
+          "description": "Voeg de kokosmelk en het water toe. Laat 4-5 minuten heel zacht trekken zodat de smaken zich met de bouillon vermengen."
+        },
+        {
+          "action": "Stevige groenten garen",
+          "description": "Voeg de wortel, witte kool en sperziebonen toe. Laat 10-12 minuten zachtjes garen tot ze zacht en volledig doortrokken zijn van de kokosbouillon."
+        },
+        {
+          "action": "Courgette toevoegen",
+          "description": "Voeg de courgette toe en laat de laatste 4-5 minuten meegaren tot alle groenten zacht zijn."
+        },
+        {
+          "action": "Afmaken",
+          "description": "Breng op smaak met zout. Verwijder de sereh, laos en daun salam."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep in een warm kommetje en bestrooi met de gebakken uitjes."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de sajoer lodeh in een warm, diep kommetje als rustpunt tussen de pittigere gerechten van de rijsttafel — de zachte, romige kleur en textuur vormen bewust een tegenwicht tegen alle felrode sambalgerechten ernaast. De gebakken uitjes geven net genoeg krokant contrast zonder het zachte karakter te verstoren."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Kemiri geeft de bumbu extra romigheid en body, terwijl verse laos en daun salam een dieper, complexer aroma geven dan poeder of gewone laurier ooit zouden kunnen. Door de kokosmelk te verdunnen met evenveel water ontstaat een lichte bouillon in plaats van een dikke curry — precies het zachte, troostende karakter dat dit gerecht tussen de andere, pittigere rijsttafelgerechten moet hebben. Doordat de groenten rustig en langer garen in plaats van kort geblancheerd te worden, nemen ze de kokosbouillon volledig in zich op, en geeft de kleine hoeveelheid trassi net genoeg diepte zonder de rust van het gerecht te verstoren."
         }
       ],
-      "tips": [
-        "gebruik volle kokosmelk — geen light. Laat de sereh en daun salam twee minuten meepruttelen in de kokosmelk vóór de groenten erin gaan voor maximale aromaoverdracht.",
-        "Techniek: laat de kokosmelk nooit hard koken — altijd zacht sudderen. Hoge hitte scheidt de kokosmelk en geeft een korrelige, onaantrekkelijke textuur.",
-        "Presentatie: serveer in een warm diep kommetje als rustpunt tussen de pittige gerechten op de rijsttafel — de romige, zachte kleur is bewust rustgevend te midden van alle rode sambalgerechten.",
-        "Variatie: voeg een paar blokjes tempé of tofu toe in de laatste minuten voor extra eiwit en textuur, of een handvol jonge jackfruit voor een vlezige bite.",
-        "Alternatief: geen soepgroente mix? Gebruik elke combinatie van witte kool, wortel, courgette en paksoi — de bumbu draagt het gerecht, niet de specifieke groente.",
-        "Textuur: mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.",
-        "Afwerking: voeg frisse olie, kruiden of crunch pas aan tafel toe. Zo blijft de soep levendig en oogt hij direct luxer."
-      ],
+      "chef_tip": "Snelle variant: Geen tijd om apart groenten te snijden? Gebruik in plaats van de vier losse groenten een kant-en-klare soepgroente- of Chinese roerbakmix (ongeveer 240 g) — praktisch, al verliest het gerecht dan wat van zijn zorgvuldig opgebouwde textuurcontrast.\n\nKokosmelk: gebruik volle kokosmelk — geen light. Laat de kokosmelk nooit hard koken — altijd zacht sudderen. Hoge hitte scheidt de kokosmelk en geeft een korrelige, onaantrekkelijke textuur.\n\nVariatie: voeg een paar blokjes tempé of tofu toe in de laatste minuten voor extra eiwit en textuur, of een handvol jonge jackfruit voor een vlezige bite.\n\nZonder daun salam: geen daun salam? Liever weglaten dan vervangen door gewone laurier — die smaakt echt anders.\n\nRestaurantgeheim: laat de groenten bewust zacht garen in de lichte kokosbouillon. Sajoer lodeh hoeft hier niet knapperig of modern te zijn; juist doordat kool, sperziebonen en wortel de bouillon opnemen, krijgt het gerecht zijn troostende, diepe smaak.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Viognier",
           "druif": "Viognier",
-          "smaakprofiel": "Droog, abrikoos, perzik, witte bloesem, zachte zuren, rond",
-          "omschrijving": "Viognier geeft aromatisch volume bij kruidige, kokosrijke of licht pittige gerechten.",
-          "waarom_werkt_dit": "De lichte rondheid van de Viognier gaat mee met de zachte, troostende textuur van de sajoer. Geen zure of scherpe wijn — de lodeh vraagt om warmte en aromatische overeenkomst. Vermijd houtgerijpte Viognier, die overspoelt de delicate bumbu. Serveer op 12°C."
+          "smaakprofiel": "Rijp, aromatisch en rond, met abrikoos, witte perzik, sinaasappelbloesem en zachte specerijen, gedragen door een volle, ronde textuur met frisse maar milde zuren.",
+          "omschrijving": "Viognier geeft aromatisch volume bij kruidige, kokosrijke gerechten zonder scherp te worden.",
+          "waarom_werkt_dit": "De ronde, aromatische body van Viognier spiegelt de romige kokosbouillon en versterkt de bloemige tonen van sereh en laos in de bumbu, terwijl de milde zuren precies genoeg frisheid geven zonder de zachte, troostende textuur te verstoren. Vermijd een houtgerijpte Viognier — die zou de delicate bumbu en kemiri overspoelen.",
+          "serveertemperatuur": "Serveer rond 11-12°C."
         },
         {
           "type": "alternatief",
           "naam": "Droge Muscat of aromatische Torrontés",
           "druif": "Muscat of Torrontés",
-          "smaakprofiel": "Droog tot aromatisch, bloemig, citrus, druivig, licht exotisch, fris",
+          "smaakprofiel": "Droog tot aromatisch, bloemig, citrus, druivig, licht exotisch, fris.",
           "omschrijving": "Aromatische witte wijn die kokos, kruiden en lichte hitte kan dragen zonder zwaar te worden.",
-          "waarom_werkt_dit": "Biedt meer Muscat of Torrontés-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
+          "waarom_werkt_dit": "Biedt een meer uitgesproken bloemig en druivig karakter als contrast met de ronde Viognier — een fruitiger, aromatischer alternatief bij hetzelfde gerecht, dat vooral goed werkt bij de kemiri en kokos.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
+          "type": "meest-toegankelijk",
+          "naam": "Grüner Veltliner Federspiel (Wachau, Oostenrijk)",
           "druif": "Grüner Veltliner",
-          "smaakprofiel": "Droog, fris, witte peper, groene appel, citrus, mineraal",
+          "smaakprofiel": "Droog, fris, witte peper, groene appel, citrus, mineraal.",
           "omschrijving": "Een Oostenrijkse witte wijn met peperige frisheid en gastronomische spanning.",
-          "waarom_werkt_dit": "De typische witte peper en kruidigheid van Grüner Veltliner past bij groente, kruiden en lichte sauzen. De frisse zuren houden het gerecht levendig zonder te overheersen."
+          "waarom_werkt_dit": "De typische witte peper en kruidigheid van Grüner Veltliner past bij de zachte groenten en kruiden, terwijl de frisse zuren het gerecht levendig houden zonder de rust van de bouillon te verstoren.",
+          "serveertemperatuur": "Serveer rond 9-11°C."
         }
-      ],
-      "wine": {
-        "naam": "Viognier",
-        "druif": "Viognier",
-        "toelichting": "De volle, aromatische body van een Rhône Viognier — met tonen van witte perzik, abrikoos en witte bloesem — spiegelt de romige kokosmelk en versterkt de bloemige tonen van citroengras en kurkuma in de bumbu. De lichte rondheid van de Viognier gaat mee met de zachte, troostende textuur van de sajoer. Geen zure of scherpe wijn — de lodeh vraagt om warmte en aromatische overeenkomst. Vermijd houtgerijpte Viognier, die overspoelt de delicate bumbu. Serveer op 12°C.",
-        "alternatief": "Droge Muscat of aromatische Torrontés — even bloemig en tropisch, werkt uitstekend bij kokosgerechten"
-      },
-      "tips_full": [
-        "gebruik volle kokosmelk — geen light. Laat de sereh en daun salam twee minuten meepruttelen in de kokosmelk vóór de groenten erin gaan voor maximale aromaoverdracht.",
-        "Techniek: laat de kokosmelk nooit hard koken — altijd zacht sudderen. Hoge hitte scheidt de kokosmelk en geeft een korrelige, onaantrekkelijke textuur.",
-        "Presentatie: serveer in een warm diep kommetje als rustpunt tussen de pittige gerechten op de rijsttafel — de romige, zachte kleur is bewust rustgevend te midden van alle rode sambalgerechten.",
-        "Variatie: voeg een paar blokjes tempé of tofu toe in de laatste minuten voor extra eiwit en textuur, of een handvol jonge jackfruit voor een vlezige bite.",
-        "Alternatief: geen soepgroente mix? Gebruik elke combinatie van witte kool, wortel, courgette en paksoi — de bumbu draagt het gerecht, niet de specifieke groente.",
-        "Textuur: mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.",
-        "Afwerking: voeg frisse olie, kruiden of crunch pas aan tafel toe. Zo blijft de soep levendig en oogt hij direct luxer."
       ]
     },
     {
