@@ -76347,6 +76347,1464 @@
           "serveertemperatuur": "Serveer rond 4-6°C."
         }
       ]
+    },
+    {
+      "title": "Chaliapin Steak Don — rosé entrecôte met boterige uienjus en ume-rijst",
+      "slug": "chaliapin-steak-don-entrecote-uienjus-ume-rijst",
+      "location": "Tokio, Japan",
+      "time": "30 min voorbereiding + een nacht marineren + 25 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "vlees",
+      "image": "/assets/images/chaliapin-steak-don-entrecote-uienjus-ume-rijst.jpg",
+      "short_description": "Rundvlees, een nacht gemarineerd in een absurde hoeveelheid ui, geserveerd met een donkere boter-sojajus op zurige pruimenrijst. Het Japanse gerecht dat in 1934 werd bedacht voor een operazanger met gebitsproblemen.",
+      "description": "Chaliapin Steak ontstond in 1934 in het Imperial Hotel in Tokio voor de Russische operazanger Fjodor Chaliapin, die door problemen met zijn gebit moeite had met het eten van taaiere sneden vlees. De chef liet zich naar verluidt inspireren door sukiyaki: rundvlees werd met ui malser gemaakt en kreeg, in plaats van een klassieke saus, een royale laag gebakken ui. Deze donburi-versie — met soja, rode wijn, boter en umeboshi-rijst — is veel jonger en werd beroemd door de anime Food Wars.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de steak",
+          "ingredients": [
+            {
+              "name": "entrecote, 2 dikke steaks van ongeveer 325 g, 3-3,5 cm dik",
+              "amount": "650 g"
+            },
+            {
+              "name": "gele ui",
+              "amount": "700 g"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "⅔ tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "4 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de uien-boterjus",
+          "ingredients": [
+            {
+              "name": "de gebakken ui (zie boven)",
+              "amount": "alles"
+            },
+            {
+              "name": "Japanse sojasaus",
+              "amount": "2,5 el"
+            },
+            {
+              "name": "droge rode wijn (drinkkwaliteit)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "3,5 el"
+            },
+            {
+              "name": "alle vrijgekomen vleessappen",
+              "amount": "alles"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de ume-rijst",
+          "ingredients": [
+            {
+              "name": "Japanse kortkorrelrijst, ongekookt (ca. 550-600 g gekookt)",
+              "amount": "240 g"
+            },
+            {
+              "name": "milde umeboshi (rond 10% zout), ontpit en zeer fijn gehakt",
+              "amount": "80 g"
+            },
+            {
+              "name": "bosui, zeer fijn gesneden",
+              "amount": "4 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Ui klaarmaken",
+          "description": "Snijd de helft van de ui extreem fijn of rasp hem grof. Snijd de andere helft in zeer fijne blokjes en houd apart. Maak aan beide zijden van de entrecote met een scherp mes een ondiep ruitpatroon van hooguit 1-2 mm diep — niet door het vlees heen."
+        },
+        {
+          "action": "Marineren",
+          "description": "Leg de steaks tussen de fijngesneden/geraspte helft van de ui. Dek af en zet een hele nacht in de koelkast."
+        },
+        {
+          "action": "Rijst koken",
+          "description": "Spoel de rijst enkele malen met koud water tot het water vrijwel helder blijft en kook volgens de verpakking. Laat na het koken nog 10 minuten afgedekt rusten."
+        },
+        {
+          "action": "Steak voorbereiden",
+          "description": "Haal de entrecote uit de ui en schraap de ui zorgvuldig van het vlees — bewaar die ui. Dep het vlees zeer goed droog. Bestrooi met zout en zwarte peper. Laat een zware gietijzeren of RVS-pan goed heet worden."
+        },
+        {
+          "action": "Steak bakken",
+          "description": "Doe de olie in de hete pan en bak de entrecote krachtig aan: eerste zijde ongeveer 1,5-2 minuten, tweede zijde hetzelfde, eventueel nog kort op de zijkanten. Bak daarna rustiger door tot een kerntemperatuur van ongeveer 52-53°C. Haal uit de pan en laat 6-8 minuten rusten — de temperatuur loopt door naar ongeveer 54-55°C, mooi rosé/medium-rare."
+        },
+        {
+          "action": "Ui bakken",
+          "description": "Zet het vuur terug naar middelhoog. Doe zowel de ui waarin het vlees heeft gelegen als de resterende verse ui in dezelfde pan. Bak tot de ui zacht wordt met licht gebruinde randjes, maar de stukjes nog duidelijk herkenbaar blijven — dit is geen Franse ui-confit, je moet de ui nog kunnen zien. Wordt de ui te donker voordat hij zacht is, voeg dan 1 el water toe."
+        },
+        {
+          "action": "Jus maken",
+          "description": "Schuif de ui enigszins opzij en giet de sojasaus rechtstreeks op het hete pan-oppervlak. Laat 15-20 seconden bruisen en licht karamelliseren. Voeg de rode wijn toe, roer alle aanbaksels los en laat stevig reduceren tot nog ongeveer een derde van het oorspronkelijke vocht over is. Giet ook het sap dat tijdens het rusten uit de steak is gelopen erbij. De saus moet nu krachtig smaken — zoete ui, rund, soja en wijn — maar niet duidelijk naar rode wijn."
+        },
+        {
+          "action": "Monteren",
+          "description": "Neem de pan van het vuur. Boter kan hier ook basting-gewijs op de steak worden gebruikt tijdens het bakken, maar in dit recept bewaren we hem bewust voor de saus: klop de koude boter er krachtig doorheen tot de ui glanst in een dikke, bijna stroperige vleessaus."
+        },
+        {
+          "action": "Umeboshi door de rijst",
+          "description": "Meng vlak voor het serveren voorzichtig de fijngehakte umeboshi door de rijst — niet volledig homogeen, af en toe een klein zilt-zuur stukje is juist lekker."
+        },
+        {
+          "action": "Vlees snijden",
+          "description": "Snijd de entrecote tegen de draad in in plakken van 5-7 mm. Voeg eventueel vrijkomend sap opnieuw bij de uienjus."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep per persoon een bescheiden laag ume-rijst in een lage, brede kom. Leg de rosé plakken entrecote er trapsgewijs overheen. Schep royaal de donkere, boterige ui over het midden van het vlees — laat bewust wat saus tussen de rijst lopen. Werk af met ragfijn gesneden bosui. Verder niets."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Gebruik liever een lage, brede kom dan een traditionele diepe rijstkom. De hap moet ongeveer zo verlopen: zachte warme rijst → boterige zoete ui → sappige entrecote → donkere soja-vleesjus → een klein zilt-zuur tikje umeboshi. Geen sesamzaad, geen koriander, geen wortel, geen mayonaise, geen extra pickles — de overdreven hoeveelheid ui is zelf al de garnituur."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Ui bevat proteolytische enzymen die het vlees mals maken; door de helft van de ui extreem fijn te snijden of te raspen, krijg je maximaal enzymcontact tijdens de nacht marineren. De ondiepe inkepingen tenderiseren mechanisch zonder de sappigheid van het vlees op te offeren. Door zowel de marinade-ui als verse ui samen te bakken tot zacht met gebruinde randjes — maar niet volledig gekarameliseerd — ontstaat een zoete, boterige basis die toch nog herkenbare stukjes ui behoudt. De sojasaus rechtstreeks op het hete pan-oppervlak karamelliseren, dan deglaceren met rode wijn tot een derde van het volume, geeft diepte en een donkere glans zonder dat het gerecht naar Europese steak-met-wijnsaus gaat smaken. Koude boter, na het vuur gemonteerd, bindt alles tot een dikke, glanzende jus. En de umeboshi door de rijst geeft precies dat verrassende, zilt-zure tikje dat de rijkdom van vlees en ui in balans houdt."
+        }
+      ],
+      "chef_tip": "Umeboshi doseren: Hou je van uitgesproken zuur-zout en gebruik je een zeer milde umeboshi? Dan kun je oplopen tot 100-120 g. Bij een zoutere umeboshi blijf je beter bij 80 g of minder.\n\nGoedkopere snit: Voor een taaiere, goedkopere snit (bijvoorbeeld runderlappen): snijd de inkepingen dieper — tot ongeveer een derde van de dikte — en marineer eventueel nog een paar uur langer.\n\nWijnkeuze bij het koken: Gebruik drinkwijn, geen \"kookwijn\" — de kwaliteit van de wijn proef je terug in de gereduceerde saus.\n\nInkopen: Umeboshi en Japanse kortkorrelrijst zijn bij een Aziatische toko te vinden.\n\nVooruitwerken: de ume-rijst kan je vooraf koken, maar meng de umeboshi er pas vlak voor het serveren door.\n\nKortere marinade: Geen tijd voor een hele nacht? 3 tot 4 uur marineren kan ook, met de kanttekening dat het malmakende effect van de ui dan minder ver doorgetrokken is — de steak wordt iets minder zacht dan bij de volledige nacht, en de uismaak dringt minder diep door. Voor een entrecote die al van zichzelf mals is, is dat prima te doen; voor een taaiere snit (zie tip 2) is de volle nacht wel echt de moeite waard.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Pinot Noir (Bourgogne, Frankrijk)",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Elegant, met kersen, rode bes, gedroogde rozenblaadjes en lichte aardse tonen. Zijdezachte tannines, levendige zuren, een lange, harmonieuze afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De saus zelf is al gebouwd op rode wijn — een glas van dezelfde lichte, elegante stijl erbij is bijna een echo van wat er al in het gerecht zit. Soja en ui vragen om fruit en umami, maar een zware Cabernet zou de Japanse finesse van dit gerecht dooddrukken.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Spätburgunder (Baden, Duitsland)",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Kers, rode bes, subtiele aardse tonen en zachte zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een net iets frissere, minder plechtige stijl Pinot Noir dan Bourgogne — past goed bij het informele, huiselijke karakter van een donburi-gerecht.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud Japans lager bier",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht, met een droge, schone afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De klassieke Japanse metgezel bij yōshoku-gerechten — de koolzuurprikkeling reset het gehemelte tussen de rijke, boterige happen door.",
+          "serveertemperatuur": "Serveer rond 4-6°C."
+        }
+      ]
+    },
+    {
+      "title": "Beef Salpicao — Filipijnse knoflooksteak met glanzende botersaus",
+      "slug": "beef-salpicao-filipijnse-knoflooksteak-botersaus",
+      "location": "Filipijnen",
+      "time": "30 min voorbereiding + 30 min marineren + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/beef-salpicao-filipijnse-knoflooksteak-botersaus.jpg",
+      "short_description": "Boterzachte ossenhaasblokjes in een zoutig-zoete saus van sojasaus, Worcestershiresaus en koude boter, rijkelijk bezaaid met krokante knoflooksnippers. Traditioneel bij een ijskoud biertje, hier met knoflookrijst als volwaardige maaltijd.",
+      "description": "De naam komt vermoedelijk van het Spaanse \"salpicar\" — bespatten — een verwijzing naar de knoflooksnippers die het hele gerecht bezaaien. De precieze oorsprong is niet vastgesteld, al wordt vaak gewezen op Spaans-koloniale invloeden. Filipijnse koks bouwden er een intens, zoet-hartig gerecht van — sojasaus, Worcestershiresaus en een klodder koude boter naast de knoflook.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het rundvlees",
+          "ingredients": [
+            {
+              "name": "ossenhaas, in blokjes van 3 cm",
+              "amount": "700 g"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de knoflook",
+          "ingredients": [
+            {
+              "name": "tenen knoflook, flinterdun in plakjes gesneden (voor de krokante garnering en de knoflookolie)",
+              "amount": "15"
+            },
+            {
+              "name": "tenen knoflook, fijngehakt (voor zachte knoflook in de saus)",
+              "amount": "2-3"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "120 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de saus",
+          "ingredients": [
+            {
+              "name": "Worcestershiresaus (6 tl)",
+              "amount": "30 g"
+            },
+            {
+              "name": "oestersaus (4 tl)",
+              "amount": "20 g"
+            },
+            {
+              "name": "lichte sojasaus (3 tl)",
+              "amount": "15 g"
+            },
+            {
+              "name": "bruine basterdsuiker (ongeveer 1,5 tl)",
+              "amount": "6 g"
+            },
+            {
+              "name": "water (5 tl)",
+              "amount": "25 g"
+            },
+            {
+              "name": "koude, ongezouten roomboter",
+              "amount": "45 g"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de knoflookrijst (sinangag)",
+          "ingredients": [
+            {
+              "name": "gekookte, het liefst dag-oude jasmijnrijst",
+              "amount": "600 g"
+            },
+            {
+              "name": "knoflook, fijngehakt (3-4 tenen)",
+              "amount": "15 g"
+            },
+            {
+              "name": "van de zelfgemaakte knoflookolie",
+              "amount": "20 g"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees marineren",
+          "description": "Laat het vlees op kamertemperatuur komen, dep goed droog en kruid rijkelijk met zout en peper. Laat 30 minuten marineren."
+        },
+        {
+          "action": "Knoflook frituren",
+          "description": "Verhit de olie in een pan op laag-middelhoog vuur. Voeg de flinterdun gesneden knoflook toe en bak, constant roerend, tot goudbruin en krokant. Schep met een schuimspaan uit de olie en laat uitlekken op keukenpapier. Bewaar de knoflookolie."
+        },
+        {
+          "action": "Vlees dichtschroeien",
+          "description": "Verhit een deel van de knoflookolie in een grote pan of wok tot goed heet. Schroei het vlees in kleine porties dicht, zonder de pan te overladen, tot een donkere korst vanbuiten en rosé vanbinnen. Zet apart."
+        },
+        {
+          "action": "Zachte knoflook meebakken",
+          "description": "Voeg de fijngehakte knoflook toe aan dezelfde pan en bak kort, tot geurig maar niet bruin."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "Voeg Worcestershiresaus, oestersaus, sojasaus, bruine suiker en water toe. Breng aan de kook en laat 1-2 minuten zachtjes inkoken tot licht ingedikt. Breng op smaak met zwarte peper."
+        },
+        {
+          "action": "Vlees terugbrengen",
+          "description": "Doe het gebakken vlees terug in de pan en schep kort om zodat het rondom bedekt is met de saus."
+        },
+        {
+          "action": "Boter monteren",
+          "description": "Haal de pan van het vuur. Voeg de koude boter toe en zwenk of roer tot volledig gesmolten en de saus dik, glanzend en geëmulgeerd is."
+        },
+        {
+          "action": "Krokante knoflook erdoor",
+          "description": "Schep het grootste deel van de krokante knoflook erdoor, bewaar een handvol voor de afwerking."
+        },
+        {
+          "action": "Knoflookrijst maken",
+          "description": "Verhit de knoflookolie in een aparte pan. Bak de fijngehakte knoflook tot goudbruin en geurig. Voeg de dag-oude rijst toe en bak op hoog vuur, goed omscheppend, tot heet en licht krokant. Breng op smaak met zout."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep de knoflookrijst op borden. Lepel het glanzende vlees met saus ernaast. Bestrooi met de resterende krokante knoflook."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer direct: het donkere, glanzende vlees met de saus eromheen, rijkelijk bezaaid met krokante knoflooksnippers, de witte knoflookrijst ernaast. Houd het bord rustig — alleen donker glanzend rund, goudkleurige knoflook en witte rijst, verder niets."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de knoflook apart te frituren tot krokant en de gearomatiseerde olie te gebruiken om het vlees in te schroeien, doordringt de knoflooksmaak het gerecht op meerdere niveaus: krokant als garnering, subtiel via de olie, en zacht meegebakken in de saus zelf. Ossenhaas, kort en fel geschroeid in blokken van 3 cm, blijft boterzacht binnen de heftige, zoutig-zoete saus eromheen. Worcestershiresaus geeft de herkenbare identiteit, oestersaus een ronde umami, een klein beetje sojasaus het Filipijnse karakter, en slechts een tikje suiker rondt de scherpe zoute kanten af zonder het gerecht zoet te maken. Water zorgt dat de saus daadwerkelijk kan reduceren zonder een zoutbom te worden, en koude boter, na het vuur gemonteerd, bindt alles tot een glanzende glans. Dag-oude rijst voor de sinangag blijft korrelig in plaats van klef, en neemt de knoflooksmaak beter op dan verse rijst zou doen."
+        }
+      ],
+      "chef_tip": "Traditionelere snit: Vervang de ossenhaas door ribeye of lende — de meest gebruikte snit in klassieke Filipijnse versies, dankzij de vetmarmering iets voller van smaak, al iets minder boterzacht dan ossenhaas.\n\nVariatie: Voeg wat champignons toe aan het vlees voor een populaire, aardsere variant.\n\nGroen accent (optioneel): Houd je toch van een groen accent? Een beetje fijngesneden bosui erover is een veelgemaakte, prima toevoeging — wij laten het bewust weg voor een strakker, rustiger bord.\n\nRijstkeuze: Gebruik echt dag-oude rijst voor de sinangag — vers gekookte rijst wordt klef.\n\nVooruitwerken: de knoflook kan vooraf gefrituurd worden en blijft een paar dagen goed in een afgesloten pot.\n\nServeerwijze: Serveer traditioneel als pulutan in kleinere porties bij bier, of als volwaardig hoofdgerecht met de knoflookrijst.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Fleurie (Cru Beaujolais, Beaujolais, Frankrijk)",
+          "druif": "Gamay",
+          "smaakprofiel": "Licht robijnrood, met rijpe kersen, frambozen, viooltjes en een subtiele kruidigheid. Sappig, fris, met nauwelijks tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Bij zoveel soja en umami wordt een zware, alcoholrijke rode wijn al snel te veel. De lage tannine en het sappige fruit van Fleurie botsen niet met de zoutig-zoete saus, terwijl de frisheid de rijke, boterige afwerking licht houdt.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Malbec (Mendoza, Argentinië)",
+          "druif": "Malbec",
+          "smaakprofiel": "Rijp donker fruit — pruim, braam — met een zachte, fluwelen tanninestructuur.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Voor wie liever iets vollers drinkt: de zachte tannines en het rijpe fruit staan nog steeds goed tegen de gekarameliseerde, zoute saus, zonder de knoflook te overweldigen.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud Aziatisch lager bier (bijvoorbeeld San Miguel)",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht, met een droge, verkoelende afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De authentieke, traditionele pairing — beef salpicao wordt in de Filipijnen bij uitstek gegeten als pulutan naast een ijskoud biertje.",
+          "serveertemperatuur": "Serveer rond 4-6°C."
+        }
+      ]
+    },
+    {
+      "title": "Çökertme Kebabı met Entrecôte — krokante aardappelstro, knoflookyoghurt en rosé rund",
+      "slug": "cokertme-kebabi-entrecote-aardappelstro-knoflookyoghurt",
+      "location": "Bodrum, Turkije",
+      "time": "25 min voorbereiding + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/cokertme-kebabi-entrecote-aardappelstro-knoflookyoghurt.jpg",
+      "short_description": "Krokante aardappelstro, koele knoflookyoghurt en rosé gebakken entrecôte, afgemaakt met een geconcentreerde tomaten-paprikaboter. Een dubbel contrast van heet-koel-heet en krokant-romig-mals, in 1964 uitgevonden in Bodrum.",
+      "description": "Çökertme kebabı is geen eeuwenoud Ottomaans gerecht — het werd in 1964 uitgevonden door Ali Bülüç en zijn broer in Bodrum, die er een kookwedstrijd mee wonnen. In augustus 2025 kreeg het een officiële Turkse geografische registratie: flinterdunne gefrituurde aardappel, dikke knoflookyoghurt, en rund dat eerst heel wordt dichtgeschroeid en pas daarna in repen teruggaat in boter en specerijen.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de entrecôte",
+          "ingredients": [
+            {
+              "name": "entrecôte, liefst 2 dikke steaks",
+              "amount": "600 g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "gemalen komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "mild paprikapoeder",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "roomboter",
+              "amount": "4 tl"
+            },
+            {
+              "name": "gedroogde tijm",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de krokante aardappelstro",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappelen",
+              "amount": "600 g"
+            },
+            {
+              "name": "frituurolie",
+              "amount": "royaal"
+            },
+            {
+              "name": "zout",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de knoflookyoghurt",
+          "ingredients": [
+            {
+              "name": "Turkse of Griekse yoghurt, liefst 10% vet",
+              "amount": "300 g"
+            },
+            {
+              "name": "flinke tenen knoflook",
+              "amount": "2"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "⅓ tl"
+            },
+            {
+              "name": "water, alleen indien nodig",
+              "amount": "3-5 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de warme tomaten-paprikaboter",
+          "ingredients": [
+            {
+              "name": "rijpe tomaat, grof geraspt",
+              "amount": "200 g"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "roomboter (verdeeld: 2 tl om te beginnen, 4 tl koud aan het einde)",
+              "amount": "6 tl"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "2 tl"
+            },
+            {
+              "name": "pul biber of Aleppo-peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "⅙ tl"
+            },
+            {
+              "name": "suiker, alleen als de tomaten echt zuur zijn (optioneel)",
+              "amount": "½ tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Yoghurt maken",
+          "description": "Pers of rasp de knoflook extreem fijn. Meng met de yoghurt, olijfolie en zout tot glad. De yoghurt moet dik maar lepelbaar zijn — voeg alleen indien nodig wat water toe. Zet niet ijskoud terug in de koelkast; laat 30 minuten op temperatuur komen."
+        },
+        {
+          "action": "Aardappelstro maken",
+          "description": "Snijd de aardappelen in luciferdunne reepjes van ongeveer 2x2 mm en 5-7 cm lang — een mandoline met julienneblad is ideaal. Spoel de reepjes en laat ze 10-15 minuten in koud, licht gezouten water staan. Spoel opnieuw en droog daarna extreem goed met theedoeken en keukenpapier — nat aardappelstro in hete olie geeft spatten en minder crunch."
+        },
+        {
+          "action": "Tomaten-paprikaboter maken",
+          "description": "Smelt 2 tl boter met de olijfolie op middelhoog vuur. Bak de tomatenpuree 30-45 seconden tot iets donkerder. Voeg de geraspte tomaat en het zout toe. Laat 6-8 minuten rustig inkoken tot vrijwel al het water verdwenen is. Voeg de pul biber toe. Haal van het vuur en roer de resterende koude boter erdoor tot een glanzende, geconcentreerde tomatenboter — geen rode pastasaus. Proef; voeg alleen bij echt zure tomaten wat suiker toe."
+        },
+        {
+          "action": "Aardappelstro frituren",
+          "description": "Verhit de frituurolie tot 175-180°C. Frituur de aardappelstro in kleine porties, ongeveer 2,5-4 minuten, tot egaal goudblond en krokant. Haal eruit, laat uitlekken en zout onmiddellijk licht. Niet afdekken."
+        },
+        {
+          "action": "Entrecôte dichtschroeien",
+          "description": "Dep de steaks zeer goed droog en bestrooi met zout en peper. Verhit een zware gietijzeren of RVS-pan zeer heet, voeg de olijfolie toe en schroei de entrecôte 45-60 seconden per kant — je wilt alleen een prachtige korst, de kern blijft bewust nog vrijwel rauw. Haal uit de pan en laat 2 minuten liggen."
+        },
+        {
+          "action": "Snijden",
+          "description": "Snijd de entrecôte tegen de draad in repen van ongeveer 8 mm breed en 6-8 cm lang — geen flinterdunne, dönerachtige slierten, je moet nog steeds entrecôte herkennen."
+        },
+        {
+          "action": "Vlees-boterjus maken",
+          "description": "Laat dezelfde pan op middelhoog vuur staan, met de aanbaksels erin. Voeg de boter toe met komijn, paprikapoeder en eventueel extra zwarte peper. Laat 15 seconden opschuimen. Doe de entrecôterepen plus alle vrijgekomen vleessappen terug in de pan en schep 30-45 seconden krachtig om. Vuur uit, pas nu de tijm erbij. Doeltemperatuur: ongeveer 53-55°C, mooi rosé."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Verdeel per bord een losse berg gloeiend krokante aardappelstro. Lepel er ongeveer 2 royale lepels knoflookyoghurt overheen — niet helemaal bedekken, een deel van de friet moet droog blijven voor de crunch. Leg de warme rosé entrecôterepen erop. Lepel er een beetje van de boterige vleesjus overheen. Werk af met hier en daar 1-2 kleine lepeltjes warme tomaten-paprikaboter — niet alles rood maken."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Dit gerecht moet gestapeld worden, niet als salade uitgewaaierd. Geen peterselie, rucola, muntblaadjes, cherrytomaatjes, ingelegde ui, feta, sumak, granaatappel of microgreens — de identiteit zit in aardappel, knoflookyoghurt, rund en boter/specerijen. De tomatenboter geeft al voldoende kleur en zuur."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Elke vork combineert knisperende aardappel, koele romige knoflookyoghurt, warm rosé rund, boterige vleessappen, komijn en paprika, en geconcentreerde warme tomaat — een dubbel contrast van temperatuur (heet-koel-heet) en textuur (krokant-romig-mals). Door de entrecôte eerst als geheel kort en fel dicht te schroeien en pas ná het rusten in repen te snijden, blijft het vlees veel sappiger dan wanneer je rauw vlees meteen in dunne reepjes zou snijden — dat geeft binnen no-time grijze, overgare 'schoenveters'. De tweede, heel korte garing met boter en specerijen brengt het vlees precies op temperatuur zonder het verder te garen."
+        }
+      ],
+      "chef_tip": "Dubbel frituren: Dubbel frituren is niet per se nodig bij écht dun gesneden aardappelstro (2x2 mm) — bij die dikte is er nauwelijks een 'kern' die apart gaar moet worden, dus één goede frituurronde op de juiste temperatuur geeft al maximale crunch. Wil je toch extra zekerheid, of ben je onzeker over je snijwerk? Frituur dan eerst op 160°C, laat uitlekken, en frituur een tweede keer op 185-190°C.\n\nSnijgereedschap: Gebruik een mandoline met julienneblad — met de hand is het lastig alle reepjes even dun te krijgen, en gelijke dikte is essentieel voor gelijkmatig frituren.\n\nVooruitwerken: de knoflookyoghurt en de tomaten-paprikaboter kunnen beide vooraf gemaakt worden.\n\nAardappelstro drogen: Extreem goed drogen van het aardappelstro is de belangrijkste stap in het hele recept — nat stro geeft spatten en minder crunch.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Öküzgözü (Elazığ, Turkije)",
+          "druif": "Öküzgözü",
+          "smaakprofiel": "Sappig rood fruit — kers, rode bes — fris, niet overdreven tanninerijk, met een levendige afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Kan omgaan met yoghurt, tomaat én gegrild rund zonder het gerecht loodzwaar te maken — een authentieke Anatolische druif bij een authentiek Anatolisch gerecht.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Fleurie (Cru Beaujolais, Beaujolais, Frankrijk)",
+          "druif": "Gamay",
+          "smaakprofiel": "Licht robijnrood, sappig rood fruit, weinig tannine, elegant.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Zacht genoeg om de koele yoghurt niet te overweldigen, fris genoeg voor de tomatenboter.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Grenache/Garnacha",
+          "druif": "Grenache",
+          "smaakprofiel": "Rijp rood fruit, niet te alcoholisch, nauwelijks hout.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Werkt mooi met paprika, komijn en tomaat zonder het fragiele krokante karakter van het gerecht plat te drukken.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
+        }
+      ]
+    },
+    {
+      "title": "Espetada Madeirense met Entrecôte — Madeira's rundvleesspies met laurier en knoflook",
+      "slug": "espetada-madeirense-entrecote-laurier-knoflook",
+      "location": "Madeira, Portugal",
+      "time": "30 min voorbereiding + 2 uur rijzen (brood) + minimaal 4 uur (liefst een nacht) opstijven (maïspap) + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/espetada-madeirense-entrecote-laurier-knoflook.jpg",
+      "short_description": "Enorme blokken entrecôte, pas vlak voor het grillen ingewreven met zout, knoflook en laurier, hangend boven warm brood met knoflookboter dat het druipende vet opvangt. Vuur, vlees en niets anders — de meest onderscheidende van de hele reeks.",
+      "description": "Espetada was eeuwenlang een feestgerecht — bij dorpsfeesten en pelgrimstochten gegeten met alleen brood en wijn, met de hand. Rond 1950 opende Francisco da Silva Freitas het eerste espetada-restaurant in Madeira. Het geheim blijft radicale eenvoud: grof zeezout, knoflook en laurier, pas vlak vóór het grillen op het vlees gewreven — geen marinade, geen olie.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de espetada",
+          "ingredients": [
+            {
+              "name": "entrecôte, in blokken van 4,5-5 cm",
+              "amount": "750-800 g"
+            },
+            {
+              "name": "knoflook (ongeveer 5 flinke tenen), grof geplet",
+              "amount": "25 g"
+            },
+            {
+              "name": "grof zeezout",
+              "amount": "8-10 g"
+            },
+            {
+              "name": "verse laurierblaadjes, gescheurd",
+              "amount": "6-8"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de bolo do caco (Madeirees zoete-aardappelbrood)",
+          "ingredients": [
+            {
+              "name": "bloem",
+              "amount": "500 g"
+            },
+            {
+              "name": "zoete aardappel, gekookt en fijngeprakt",
+              "amount": "150 g"
+            },
+            {
+              "name": "gedroogde gist",
+              "amount": "7 g"
+            },
+            {
+              "name": "suiker",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "lauwwarm water",
+              "amount": "200-250 ml"
+            },
+            {
+              "name": "extra bloem, om te bestuiven",
+              "amount": "naar behoefte"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de knoflookboter",
+          "ingredients": [
+            {
+              "name": "roomboter, zacht",
+              "amount": "100 g"
+            },
+            {
+              "name": "tenen knoflook, fijngeperst",
+              "amount": "3"
+            },
+            {
+              "name": "peterselie, fijngehakt",
+              "amount": "2 el"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de milho frito (gefrituurde maïspap, Madeirees)",
+          "ingredients": [
+            {
+              "name": "fijn maïsmeel (polenta)",
+              "amount": "150 g"
+            },
+            {
+              "name": "water",
+              "amount": "600 ml"
+            },
+            {
+              "name": "groene kool of spitskool, zeer fijn gesneden",
+              "amount": "40 g"
+            },
+            {
+              "name": "kleine teen knoflook, zeer fijn",
+              "amount": "1"
+            },
+            {
+              "name": "boter (of reuzel)",
+              "amount": "10 g"
+            },
+            {
+              "name": "zout",
+              "amount": "3 g"
+            },
+            {
+              "name": "verse tijm (optioneel)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "olie, om te frituren",
+              "amount": "royaal"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Deeg maken",
+          "description": "Meng bloem, gist, suiker en zout. Voeg de zoete aardappelpuree en het lauwwarme water toe en kneed 8-10 minuten tot een soepel deeg."
+        },
+        {
+          "action": "Rijzen",
+          "description": "Dek af en laat op een warme plek rijzen tot verdubbeld, ongeveer 1,5-2 uur."
+        },
+        {
+          "action": "Vormen en bakken",
+          "description": "Verdeel in 6-8 stukken, vorm tot platte, ronde broodjes van ongeveer 1,5 cm dik. Bak op een droge, hete koekenpan of grillplaat 4-6 minuten per kant tot goudbruin met donkere plekken."
+        },
+        {
+          "action": "Knoflookboter maken",
+          "description": "Meng de zachte boter met knoflook, peterselie en zout. Bestrijk de warme broodjes direct na het bakken rijkelijk."
+        },
+        {
+          "action": "Maïspap koken",
+          "description": "Breng het water met zout aan de kook. Voeg het maïsmeel al roerend geleidelijk toe. Voeg na een paar minuten de fijngesneden kool en knoflook toe en blijf roeren tot een zeer dikke pap ontstaat, ongeveer 20 minuten. Roer de boter erdoor."
+        },
+        {
+          "action": "Opstijven",
+          "description": "Strijk de pap ongeveer 2 cm dik uit in een met bakpapier beklede schaal. Laat afkoelen en zet minimaal 4 uur, liefst een nacht, in de koelkast tot volledig stevig."
+        },
+        {
+          "action": "Snijden en frituren",
+          "description": "Snijd in blokjes van 2,5-3 cm. Frituur op 180°C tot goudbruin en krokant."
+        },
+        {
+          "action": "Kruiden",
+          "description": "Kneus knoflook, zeezout en laurier grof samen (bijvoorbeeld met de plat van een mes of in een vijzel) en masseer stevig met je handen in het vlees, vlak vóór het grillen. Geen olie, geen peper."
+        },
+        {
+          "action": "Rijgen",
+          "description": "Rijg de vleesblokken op metalen spiezen, met tussenruimte, en steek af en toe een vers laurierblaadje tussen de stukken."
+        },
+        {
+          "action": "Grillen",
+          "description": "Verhit een houtskoolbarbecue tot gloeiend hete kolen. Gril de spiezen 8-12 cm boven de kolen, regelmatig kerend, tot rondom geblakerd. Haal de grootste stukken van het vuur bij een kerntemperatuur van ongeveer 50-52°C en laat 5 minuten rusten — de temperatuur loopt door naar 53-55°C, mooi rosé. Tik de spiezen na het grillen tegen elkaar om overtollige zoutkristallen eraf te schudden."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Snijd het bolo do caco horizontaal open, rooster de snijkanten kort boven de barbecue en smeer rijkelijk met knoflookboter. Snijd in dikke repen. Leg de stukken warm brood op een schaal en hang de hete spies er direct boven — met een verticale spieshouder, of geïmproviseerd met twee steunen dwars over de schaal — zodat het rundvet en de vleessappen op het brood druppelen terwijl het vlees rust. Serveer de milho frito ernaast."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Per persoon: 2-3 enorme blokken entrecôte aan de spies, 2 kleine stukken bolo do caco met knoflookboter eronder, 3-4 krokante blokjes milho frito. Geen salade, geen saus, geen extra garnering. Laat het vlees letterlijk boven het brood hangen terwijl het rust — dat is de handtekening van deze versie."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De radicale eenvoud is het hele punt: zout, knoflook en laurier, pas vlak vóór het grillen ingemasseerd, geven precies genoeg smaak zonder het pure, rokerige karakter van het vlees te overschaduwen. Door niet te marineren en geen olie te gebruiken, blijft de buitenkant droog genoeg om echt te schroeien boven de kolen in plaats van te stomen. Milho frito met fijngesneden kool en knoflook is de authentieke Madeirese variant — subtieler en interessanter dan kale polenta. En het warme brood dat onder de hangende spies wacht, vangt het rundvet en de vleessappen op terwijl het vlees rust: geen kommetje saus nodig, de smaak druipt er vanzelf op."
+        }
+      ],
+      "chef_tip": "Authentieke variant: bij echte, veilige laurierstruiken kun je het vlees traditioneel aan een verse laurierstok rijgen in plaats van een metalen spies.\n\nVooruitwerken: de milho frito-pap moet echt minimaal 4 uur, liefst een nacht, opstijven. Bolo do caco-deeg en knoflookboter kunnen ook vooraf.\n\nVleeskeuze: Kies vlees met wat vetranden — dat geeft extra smaak en rokerigheid boven de kolen.\n\nAlternatief zonder houtskool: Geen houtskoolbarbecue? Een hete grillpan werkt ook, al mis je dan de rokerige diepte.\n\nImproviseren zonder spieshouder: Geen spieshouder? Leg twee metalen steunen of lange stokjes dwars over de schaal met brood en laat de spies daarop rusten, zodat het vlees net erboven hangt.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Dão Reserva (Dão, Portugal)",
+          "druif": "Touriga Nacional, Alfrocheiro, Tinta Roriz (blend)",
+          "smaakprofiel": "Donker rood fruit, kruidig maar niet loodzwaar, met genoeg frisheid om het vet en de knoflook te begeleiden.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een klassieke Portugese rode wijn met precies genoeg structuur voor het gegrilde vlees, zonder de subtiele laurier te overschaduwen.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Douro tinto (Douro, Portugal)",
+          "druif": "Douro-blend (o.a. Touriga Nacional, Touriga Franca)",
+          "smaakprofiel": "Voller dan Dão, met rijp donker fruit en een stevige structuur, zonder overdreven nieuw hout.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Past mooi bij de houtskoolkorst van het vlees, met genoeg body om de knoflook en het brood te begeleiden.",
+          "serveertemperatuur": "Serveer rond 16-17°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud Portugees lager bier (bijvoorbeeld Coral of Sagres)",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht, met een droge, verkoelende afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De eenvoudige, feestelijke metgezel waarmee dit gerecht van oudsher wordt gedeeld.",
+          "serveertemperatuur": "Serveer rond 4-6°C."
+        }
+      ]
+    },
+    {
+      "title": "Steak Diane — de ultieme tafeltheater-classics, in perfectie",
+      "slug": "steak-diane-tafeltheater-cognacsaus",
+      "location": "New York, Verenigde Staten",
+      "time": "15 min voorbereiding + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld tot gevorderd",
+      "keuken": "Frans",
+      "categorie": "vlees",
+      "image": "/assets/images/steak-diane-tafeltheater-cognacsaus.jpg",
+      "short_description": "Dikke tournedos van ossenhaas in een korte, felle, glanzende panjus van cognac, Dijon en Worcestersaus, afgemaakt met de klassieke flambeerstap. Geen champignonroomsaus — puur theater en precisie, zoals ze het in de jaren vijftig in New York deden.",
+      "description": "Steak Diane werd vermoedelijk in de jaren dertig in Londen bedacht, vernoemd naar Diana, de Romeinse godin van de jacht. Legendarisch werd het pas in de jaren vijftig in New York: obers die met een gueridon-wagentje cognac in de hete pan gooiden en het geheel in vlammen lieten opgaan voor het oog van de gasten. Geen zware champignonroomsaus, maar een korte, felle, glanzende panjus van cognac, Dijon en Worcestershire.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tournedos",
+          "ingredients": [
+            {
+              "name": "tournedos van ossenhaas, elk 150-170 g, ongeveer 3 cm dik (niet platgeklopt)",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de Diane-saus",
+          "ingredients": [
+            {
+              "name": "sjalot, zeer fijn gesneden",
+              "amount": "40 g"
+            },
+            {
+              "name": "teen knoflook, zeer fijn gehakt",
+              "amount": "1½"
+            },
+            {
+              "name": "kastanjechampignons, flinterdun gesneden (optioneel, subtiel)",
+              "amount": "60-80 g"
+            },
+            {
+              "name": "cognac (bij voorkeur een goede, drinkbare kwaliteit)",
+              "amount": "60-80 ml"
+            },
+            {
+              "name": "sterke kalfsfond of demi-glace",
+              "amount": "120 ml"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "2,5 tl"
+            },
+            {
+              "name": "Worcestersaus",
+              "amount": "4 tl"
+            },
+            {
+              "name": "slagroom",
+              "amount": "20-30 ml"
+            },
+            {
+              "name": "koude roomboter, in blokjes",
+              "amount": "35 g"
+            },
+            {
+              "name": "fijngehakte platte peterselie",
+              "amount": "2 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Alles klaarzetten",
+          "description": "Zet sjalot, knoflook, champignons, cognac, fond, Dijon, Worcestersaus, room, boter en peterselie allemaal binnen handbereik — dit gerecht gaat te snel om nog te zoeken naar een ingrediënt terwijl de pan droogkookt."
+        },
+        {
+          "action": "Vlees voorbereiden",
+          "description": "Laat de tournedos op kamertemperatuur komen, dep goed droog en kruid vlak voor het bakken met zout en peper."
+        },
+        {
+          "action": "Tournedos schroeien",
+          "description": "Verhit een zware pan goed heet met alleen de olie (geen boter — die verbrandt bij deze hitte). Schroei de tournedos 2 minuten per kant, en indien nodig nog 30 seconden op de zijkanten, tot een mooie korst. Mik op ongeveer 48-50°C uit de pan. Haal uit de pan en laat rusten op een warm bord — de temperatuur loopt door naar ongeveer 52-54°C."
+        },
+        {
+          "action": "Champignons (optioneel)",
+          "description": "Gebruik je champignons, bak ze dan heel kort, hooguit 1 minuut, in dezelfde pan tot ze net kleur krijgen — niet tot een natte massa."
+        },
+        {
+          "action": "Sjalot en knoflook",
+          "description": "Zet het vuur iets lager. Bak de sjalot 30-45 seconden, voeg de knoflook toe en bak nog 15 seconden — het moet geuren, niet kleuren."
+        },
+        {
+          "action": "De flambé",
+          "description": "Giet de cognac erbij. Kantel de pan licht van het vuur af zodat de damp vlam vat, of steek voorzichtig aan met een lange keukenaansteker (nooit onder een dampkap met het ventilatiesysteem aan — dat wakkert de vlammen juist aan). Laat 10-15 seconden uitbranden tot de vlammen vanzelf doven en de scherpe alcohollucht grotendeels weg is."
+        },
+        {
+          "action": "Saus opbouwen",
+          "description": "Voeg de kalfsfond, Dijonmosterd en Worcestersaus toe. Roer goed los en laat 1,5-2 minuten krachtig inkoken tot een mooie, licht stroperige saus."
+        },
+        {
+          "action": "Room toevoegen",
+          "description": "Voeg de room toe — écht een bescheiden hoeveelheid, dit moet geen roomsaus worden. Laat nog 20-30 seconden koken."
+        },
+        {
+          "action": "Monteren",
+          "description": "Zet het vuur uit of heel laag. Klop de koude boter er in blokjes doorheen tot de saus glanzend en gebonden is. Roer de peterselie erdoor. Proef: de saus moet de pittigheid van mosterd hebben, de hartige diepte van Worcestersaus, de warmte van cognac en de ronde glans van boter."
+        },
+        {
+          "action": "Vlees terug",
+          "description": "Leg de tournedos met hun vrijgekomen vleessappen nog 20-30 seconden terug in de saus — niet langer, alleen om ze te lakken en licht op temperatuur te brengen."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg de tournedos op warme borden, lepel de Diane-saus royaal erover en ernaast."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Houd het bord vrij kaal en chic: één tournedos, een royale lepel Diane-saus eroverheen en ernaast, eventueel enkele flinterdunne champignonplakjes als subtiele verwijzing — verder niets op het vlees. Klassiek erbij: pommes soufflées of heel dunne frietjes, of een romige aardappelpuree met veel boter. Niet te veel groente, geen poespas."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Steak Diane draait niet om exotische specerijen, maar om een snel opgebouwde sausarchitectuur: aanbaksels van de steak, dan sjalot en knoflook, dan cognac, dan Dijon en Worcestersaus, dan fond, en tot slot boter. Door alleen olie te gebruiken voor het dichtschroeien, voorkom je dat boter verbrandt voordat het vlees goed gekleurd is — de boter komt pas later, waar hij de saus juist glans en romigheid geeft. De flambé is geen loos vertoon: het verbranden van de alcohol laat een geconcentreerde, gekarameliseerde cognacsmaak achter. Door champignons en room bewust bescheiden te houden, blijft de saus kort, fel en glanzend in plaats van een dikke, retro roomsaus — precies het verschil tussen een steak met champignonsaus en een echte Diane."
+        }
+      ],
+      "chef_tip": "Historisch-authentieke variant: klop de tournedos tussen plasticfolie plat tot ongeveer 1-1,5 cm — dat was oorspronkelijk de reden dat dit gerecht snel genoeg was om voor de ogen van gasten aan tafel te bereiden. Bak dan slechts 1-1,5 minuut per kant en breng ook maar 10-15 seconden terug in de saus.\n\nKlassieke steakhouse-touch: wikkel elke tournedos vóór het bakken in een plakje ontbijtspek, vastgezet met keukentouw — niet essentieel, maar historisch onderdeel van de steakhouse-sfeer waarin Diane populair werd.\n\nFlambeerveiligheid: houd een deksel binnen handbereik om de vlam eventueel snel te kunnen doven.\n\nWorcestersaus essentieel: Worcestersaus is essentieel — niet vervangen door sojasaus, niet weglaten. Dat donkere, hartige, licht gefermenteerde karakter ís Steak Diane.\n\nCognac-alternatief: Geen cognac in huis? Goede brandy werkt ook.\n\nVleeskeuze: Gebruik geen magere kogelbiefstuk — tournedos of mooie ossenhaasmedaillons zijn hier de juiste keuze.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Pinot Noir (Bourgogne, Frankrijk)",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Elegant, met kersen, rode bes, gedroogde rozenblaadjes en lichte aardse tonen. Zijdezachte tannines, levendige zuren, een lange, harmonieuze afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De saus bevat cognac, mosterd en Worcestersaus — je wilt rood fruit en finesse, geen zwaar hout en stevige tannine. Pinot Noir sluit prachtig aan bij de champignons, zonder de theatrale cognacsaus te overweldigen.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Fleurie / Morgon (Cru Beaujolais, Beaujolais, Frankrijk)",
+          "druif": "Gamay",
+          "smaakprofiel": "Sappig, licht kruidig, niet te zwaar.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een frisse, elegante keuze die het steakhouse-karakter van de saus goed begeleidt zonder log te worden.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Rioja Crianza (Rioja, Spanje)",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Zachte houtrijping, rijp rood fruit, kruidigheid.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een elegante, niet te zware Rioja werkt prachtig bij het steakhouse-karakter van de Diane-saus, met net genoeg structuur voor de ossenhaas.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        }
+      ]
+    },
+    {
+      "title": "Bò Nướng Lá Lốt — Vietnamese rundvleesrolletjes in lá lốt-blad met mỡ hành, pinda en mắm nêm",
+      "slug": "bo-nuong-la-lot-vietnamese-rundvleesrolletjes",
+      "location": "Zuid-Vietnam",
+      "time": "30 min voorbereiding + 30 min marineren + 15 min bereiding",
+      "servings": "4 personen (24 kleine rolletjes, 6 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/bo-nuong-la-lot-vietnamese-rundvleesrolletjes.jpg",
+      "short_description": "Gekruid rundergehakt met citroengras, strak gerold in lá lốt-blad en gegrild tot het blad zijn wierookachtige geur vrijgeeft, afgemaakt met bosuiolie, pinda en een funky ananas-vissausdip. Een van de zeven gerechten van bò 7 món, Vietnams feestelijke \"rund op zeven manieren\".",
+      "description": "In Zuid-Vietnam is bò nướng lá lốt een van de zeven gerechten van bò 7 món — \"rund op zeven manieren\". Het bijzondere zit in het blad zelf: lá lốt, rauw peperig-kruidig, maar boven houtskool ontwikkelt het een uitgesproken, bijna wierookachtig aroma. Dat is de reden waarom dit gerecht bestaat.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de rundvulling",
+          "ingredients": [
+            {
+              "name": "gewoon rundergehakt (bij voorkeur half-om-half met varkensgehakt voor extra sappigheid, of anders rundergehakt met wat vetpercentage — niet het allermagerste soort)",
+              "amount": "500 g"
+            },
+            {
+              "name": "citroengras (wit deel), extreem fijn gehakt",
+              "amount": "4 tl"
+            },
+            {
+              "name": "sjalot, zeer fijn gehakt",
+              "amount": "4 tl"
+            },
+            {
+              "name": "knoflook, zeer fijn gehakt",
+              "amount": "2 tl"
+            },
+            {
+              "name": "vissaus",
+              "amount": "3 tl"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "fijne suiker",
+              "amount": "1¼ tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "kleine of beschadigde lá lốt-blaadjes, zeer fijn gehakt (optioneel maar een aanrader)",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de rolletjes",
+          "ingredients": [
+            {
+              "name": "grote lá lốt-blaadjes",
+              "amount": "24-30"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de mỡ hành (bosuiolie)",
+          "ingredients": [
+            {
+              "name": "bosui (alleen het groen), zeer fijn gesneden",
+              "amount": "30 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "7 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "⅙ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de mắm nêm met ananas",
+          "ingredients": [
+            {
+              "name": "mắm nêm (gefermenteerde vissaus)",
+              "amount": "50 g"
+            },
+            {
+              "name": "verse ananas, zeer fijn geraspt",
+              "amount": "30 g"
+            },
+            {
+              "name": "olie",
+              "amount": "½ tl"
+            },
+            {
+              "name": "water",
+              "amount": "4 tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflook, zeer fijn",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "kleine rode chilipeper, zeer fijn",
+              "amount": "½"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "geroosterde pinda's, grof gehakt",
+              "amount": "30 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vulling maken",
+          "description": "Meng alle ingrediënten voor het gehakt. Meng ongeveer 45-60 seconden, niet langer — je wilt geen worstfarce, alleen tot het vlees net licht plakkerig wordt. Dek af en laat 30 minuten in de koelkast marineren."
+        },
+        {
+          "action": "Mắm nêm maken",
+          "description": "Bak knoflook en ananas heel kort in de halve theelepel olie. Voeg mắm nêm, water en suiker toe en laat 1 minuut koken. Laat afkoelen en roer dan pas het limoensap en de chilipeper erdoor. De saus moet funky, zout, licht zoet en subtiel fruitig zijn — niet zuur."
+        },
+        {
+          "action": "Mỡ hành maken",
+          "description": "Verhit de olie tot goed heet en giet over de bosui en het zout. Roer en laat staan."
+        },
+        {
+          "action": "Blaadjes voorbereiden",
+          "description": "Was de lá lốt-blaadjes voorzichtig en dep volledig droog. Leg elk blad met de doffe (matte) zijde naar boven, de glanzende zijde naar beneden."
+        },
+        {
+          "action": "Rollen",
+          "description": "Leg ongeveer 20 g gehakt bij de brede zijde van elk blad, vorm een worstje van 5-6 cm. Vouw de zijkantjes eventueel iets naar binnen en rol strak op — de glanzende zijde komt zo uiteindelijk aan de buitenkant."
+        },
+        {
+          "action": "Spiesen",
+          "description": "Rijg ongeveer 5-6 rolletjes op één spies, zo dat ze elkaar net raken — dat houdt de rolletjes ook beter dicht."
+        },
+        {
+          "action": "Grillen",
+          "description": "Bestrijk de rollen licht met olie. Gril boven hete houtskool (niet midden in hoge vlammen), ongeveer 2 minuten, draaien, nog 2 minuten, draaien, en dan nog 1-2 minuten tot alle kanten donker gevlekt zijn. Het blad moet sterk verschrompelen en glanzen, met hier en daar echt zwart geblakerde plekjes — maar niet volledig verbranden. Kerntemperatuur van het gehakt: ongeveer 68-70°C."
+        },
+        {
+          "action": "Afmaken",
+          "description": "Trek de rollen van de spies. Lepel een klein beetje mỡ hành over elke rol en bestrooi met de geroosterde pinda's."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Per persoon: 5-6 donker glanzende lá lốt-rolletjes, een beetje bosuiolie erover, grove geroosterde pinda's, en een klein kommetje mắm nêm-ananas ernaast. Geen grote schaal met sla, kruiden, komkommer en vermicelli — dat verdwijnt het kleine, bijzondere rolletje juist in een Vietnamese saladebar. De gerimpelde, donkere, bijna geblakerde stukken blad hoeven niet netjes groen te blijven — dat houtskoolkarakter is precies de charme."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Lá lốt is rauw bijna geurloos, maar zodra het blad de hitte van houtskool raakt, komt er een intens, bijna wierookachtig aroma vrij dat door niets anders te vervangen is. Door citroengras, sjalot en knoflook rauw en extreem fijn door het gehakt te mengen, bakken ze tijdens het grillen mee in het eigen rundvet en houden ze een frisse, directe aromatische punch — in plaats van de zachtere, gemellowde smaak die voorbakken zou geven. Mỡ hành geeft een warme, licht zoete ui-olie zonder dat er een saus over de rolletjes hoeft, en de mắm nêm-ananasdip — gefermenteerd, zout, licht zoet en subtiel fruitig — is de klassieke, functionele metgezel bij dit specifieke gerecht."
+        }
+      ],
+      "chef_tip": "Vleeskeuze: dit recept gebruikt bewust gewoon rundergehakt voor het gemak. Wil je het net iets authentieker en grover van structuur? Vraag de slager om grof gemalen sukade of rundernek (ongeveer 20% vet) in plaats van standaard gehakt.\n\nVoorbakken als alternatief: Voorbakken van citroengras, sjalot en knoflook geeft een zachtere, gemellowde smaak in plaats van de frisse, directe punch — een prima alternatief als je dat liever hebt, gewoon kort aanbakken in een scheutje olie voordat je het door het gehakt mengt.\n\nMildere dip: Milder alternatief voor mắm nêm: nước chấm (vissaus, water, suiker, limoensap, knoflook, chili) is een lichtere, minder intense dipsaus die ook regelmatig bij dit gerecht wordt geserveerd.\n\nAlternatief voor houtskool: Geen houtskool? Een zeer hete ovengrill werkt beter dan een grillpan — die geeft hitte rondom, zodat het blad kan verschrompelen zonder dat je het rolletje moet platdrukken. Volgorde van voorkeur: houtskool, dan ovengrill, dan grillpan, dan een gewone koekenpan.\n\nComplete maaltijd: Voor een complete maaltijd: serveer alsnog met rijstvermicelli, sla, verse Vietnamese kruiden en komkommer erbij, zoals bij een traditionele Vietnamese tafel — dat maakt er een volledige maaltijd van in plaats van een geïsoleerd hapje.\n\nVooruitwerken: de vulling, mỡ hành en mắm nêm kunnen allemaal vooraf gemaakt worden. Rol de rolletjes pas kort voor het grillen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Fleurie (Cru Beaujolais, Beaujolais, Frankrijk)",
+          "druif": "Gamay",
+          "smaakprofiel": "Licht robijnrood, sappig rood fruit, weinig tannine, een frisse, elegante afdronk. Licht gekoeld geserveerd, rond 13-14°C.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De lage tannine botst niet met vissaus en mắm nêm, terwijl het sappige, frisse fruit genoeg tegenwicht biedt aan het citroengras zonder ermee te concurreren.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Zweigelt (Oostenrijk)",
+          "druif": "Zweigelt",
+          "smaakprofiel": "Sappig, licht peperig, fris rood fruit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De lichte kruidigheid past goed bij het gegrilde, geblakerde blad, terwijl de frisheid het geheel licht houdt.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Koud Aziatisch lager bier (bijvoorbeeld Saigon of 333)",
+          "druif": "Bier",
+          "smaakprofiel": "Fris, licht, met een droge, verkoelende afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De klassieke Vietnamese metgezel bij đồ ăn nhậu (borrelhapjes) — de koolzuurprikkeling reset je smaakpapillen tussen de rokerige, funky happen door.",
+          "serveertemperatuur": "Serveer rond 4-6°C."
+        }
+      ]
+    },
+    {
+      "title": "Peposo all'Impruneta — Toscaanse Chianti-peperstoof met geroosterd landbrood",
+      "slug": "peposo-allimpruneta-chianti-peperstoof",
+      "location": "Impruneta, Toscane, Italië",
+      "time": "15 min voorbereiding + 3-3,5 uur bereiding (grotendeels wachttijd)",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "vlees",
+      "image": "/assets/images/peposo-allimpruneta-chianti-peperstoof.jpg",
+      "short_description": "Rundvlees, knoflook, bergen zwarte peper en Chianti — urenlang samen gegaard zonder aanbraden of soffritto, precies zoals de fornacini van Impruneta het voor Brunelleschi's koepelbouwers maakten. Met dik geroosterd brood dat alle saus opzuigt.",
+      "description": "Bijna zwart, boterzacht rundvlees in een intense saus van Chianti en grof gekneusde zwarte peper — geen groenten, geen kruiden, alleen rund, wijn, knoflook en peper, urenlang samen gegaard. Ontstaan bij de ovens van Impruneta, waar dakpannenbakkers hun lunch urenlang lieten garen terwijl ze werkten aan de terracotta voor Brunelleschi's koepel.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de peposo",
+          "ingredients": [
+            {
+              "name": "runderschenkel of wangvlees, in blokken van 4-5 cm",
+              "amount": "800 g"
+            },
+            {
+              "name": "knoflook (ongeveer 4 flinke tenen), gekneusd met de zijkant van een mes, heel gelaten",
+              "amount": "20 g"
+            },
+            {
+              "name": "hele zwarte peperkorrels, grof gekneusd (met de bodem van een pan of in een vijzel) — gebruik echt verse peperkorrels",
+              "amount": "10-12 g"
+            },
+            {
+              "name": "Chianti, liefst Chianti Classico",
+              "amount": "600 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Om erbij te serveren",
+          "ingredients": [
+            {
+              "name": "vers, stevig landbrood of ciabatta, in dikke plakken (ongeveer 2 cm)",
+              "amount": "1"
+            },
+            {
+              "name": "goede olijfolie (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Alles in de pan",
+          "description": "Leg de vleesblokken in een zware, ovenvaste pan met deksel (Dutch oven of, authentiek, een terracotta pot). Verdeel de knoflooktenen ertussen. Bestrooi met de gekneusde peperkorrels en zout. Giet de Chianti erover tot het vlees vrijwel volledig onderstaat."
+        },
+        {
+          "action": "Langzaam garen",
+          "description": "Verwarm de oven voor op 140-150°C. Doe het deksel op de pan en zet in de oven (of laat op het fornuis op het allerlaagste vuur sudderen, met het deksel schuin). Laat 3 tot 3,5 uur garen, zonder te roeren in het eerste uur. Controleer daarna af en toe: het vlees moet zonder enige weerstand uit elkaar willen vallen. Nog stevig? Nog 30-60 minuten laten garen. Dreigt het te droog te worden, voeg dan een scheutje extra Chianti of, desnoods, wat water toe — nooit bouillon, dat verandert het karakter van het gerecht."
+        },
+        {
+          "action": "De saus laten binden",
+          "description": "Haal het deksel eraf. Is er nog veel vloeistof, laat dan op het fornuis rustig verder inkoken. Laat een paar stukken vlees aan de rand bewust wat uit elkaar vallen en roer dat door de saus — samen met het opgeloste collageen en de gereduceerde wijn bindt dat vanzelf tot een donkere, glanzende, bijna crème-achtige saus. Proef nu pas op zout."
+        },
+        {
+          "action": "Brood roosteren",
+          "description": "Rooster de dikke plakken landbrood kort tot goudbruin, besprenkel eventueel licht met olijfolie."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg de peposo met zijn donkere saus in een diepe kom of op een bord, met de geroosterde plakken brood ernaast of deels eronder, zodat een deel de rijke saus opzuigt terwijl de rest krokant blijft."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Schep de peposo met zijn donkere, glanzende saus in een diepe kom of op een laag bord, met een dikke plak geroosterd brood eronder of ernaast — laat een deel van het brood in de saus doorweken, terwijl een ander deel krokant blijft. Laat de blokjes vlees en de zachte knoflooktenen goed zichtbaar — dit is een rustiek gerecht, geen fijn opgemaakt bordje."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Het geheim van peposo zit 'm juist in wat er níét gebeurt: geen aanbraden, geen soffritto, geen extra kruiden. Rauw vlees, knoflook, peper en wijn samen urenlang laten garen betekent dat elke smaak zich langzaam in elkaar vlecht in plaats van los naast elkaar te blijven staan. De zwarte peperkorrels, die aan het begin nog fel en scherp zijn, worden na uren zacht garen mild en bijna zoet. Chianti geeft de saus zijn donkere, zure diepte, en het collageen in de schenkel of wangen zet om in gelatine, wat het vlees zijn kenmerkende, bijna smeltende textuur geeft — en precies dat opgeloste collageen, samen met de gereduceerde wijn, bindt de saus vanzelf tot een donkere, romige peper-vleescrème, zonder bloem of andere hulpmiddelen. Het geroosterde brood is geen bijzaak maar een functioneel onderdeel: het zuigt de intense, peperige saus op en geeft precies het contrast van krokant en doorweekt dat dit simpele arbeidersgerecht zijn karakter geeft."
+        }
+      ],
+      "chef_tip": "Puristenversie: de allervroegste peposo-recepten bevatten geen tomaat — tomaten kwamen pas later vanuit Amerika naar Europa. Houd je hieraan voor de meest authentieke smaak.\n\nMeer diepte willen? Schroei het vlees dan eerst krachtig aan in een beetje olijfolie of het eigen vet, tot alle kanten echt donkerbruin zijn, voordat je het met de rest in de pan doet. Dat is niet de authentieke, radicaal pure methode, maar geeft wel een donkerdere saus en meer directe vleessmaak — een legitieme, lekkere keuze als je liever iets meer diepte proeft.\n\nVooruitwerken: peposo is de volgende dag nog beter — de smaken trekken verder in. Warm langzaam op.\n\nBrood: Geen knoflook op het brood — daar zit al genoeg van in de peposo zelf.\n\nRestjes: Restjes saus zijn ook heerlijk over pasta, of over een romige aardappelpuree in plaats van het klassieke brood — de boterige puree vangt de pittige, peperige saus minstens zo goed op.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chianti Classico (Toscane, Italië)",
+          "druif": "Sangiovese",
+          "smaakprofiel": "Rijp rood fruit — kers, pruim — met een kruidige, aardse ondertoon en een levendige, droge zuurgraad.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Dezelfde wijn die in de pan zit, terug in het glas — een directe, harmonieuze spiegeling die niet beter kan. Gebruik in de pan gerust een fatsoenlijke Chianti, geen fles van vijftig euro.",
+          "serveertemperatuur": "Serveer rond 16-17°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Brunello di Montalcino (Toscane, Italië)",
+          "druif": "Sangiovese (Brunello-clone)",
+          "smaakprofiel": "Rijper en krachtiger dan Chianti, met donker fruit, leer en een lange, complexe afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Voor een feestelijkere gelegenheid: meer body en diepte, die goed standhoudt tegen de intense pepersmaak.",
+          "serveertemperatuur": "Serveer rond 17-18°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Sangiovese di Romagna",
+          "druif": "Sangiovese",
+          "smaakprofiel": "Fris rood fruit, lichte kruidigheid, minder complex dan Chianti Classico.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een betaalbare, toegankelijke versie van dezelfde druif — trouw aan de regionale herkomst zonder de prijs van een Chianti Classico.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        }
+      ]
+    },
+    {
+      "title": "Matambre Arrollado — Argentijnse koude rundvleesrol met ei, paprika en wortel",
+      "slug": "matambre-arrollado-rundvleesrol-ei-paprika-wortel",
+      "location": "Argentinië",
+      "time": "45 min voorbereiding + 2-2,5 uur pocheren + minimaal 8 uur (liefst een nacht) persen en koelen",
+      "servings": "4-6 personen (als voorgerecht)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/matambre-arrollado-rundvleesrol-ei-paprika-wortel.jpg",
+      "short_description": "Riblappen, gevuld met ei, geroosterde paprika en wortel, strak opgerold, zacht gepocheerd en een nacht geperst. Bij het aansnijden onthult elke plak een spectaculaire spiraal — het klassieke koude voorgerecht van de Argentijnse kersttafel.",
+      "description": "\"Matambre\" betekent letterlijk \"doodt de honger\" — een dunne huidspier die bij het traditionele asado snel klaar was, van oudsher dus praktisch straatvoedsel. Matambre arrollado gebruikt die platte vorm om een kleurrijke vulling in op te rollen, urenlang zacht te garen en onder gewicht te persen tot een compacte rol. Koud geserveerd, als het klassieke feestelijke voorgerecht van de Argentijnse kersttafel.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "riblappen, zo groot mogelijk, tegen de draad in gesneden tot plakken van 4-5 mm dik (of, als je 'm kunt krijgen: 1 matambre van ongeveer 1-1,2 kg) — vraag je slager hier specifiek om, dit is geen standaard snijwijze",
+              "amount": "1 kg"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de kruidenlaag",
+          "ingredients": [
+            {
+              "name": "platte peterselie, zeer fijn gehakt",
+              "amount": "20 g"
+            },
+            {
+              "name": "knoflook, fijn geraspt",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "2 tl"
+            },
+            {
+              "name": "wittewijnazijn",
+              "amount": "3 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "ají molido (of milde chilivlokken)",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vulling",
+          "ingredients": [
+            {
+              "name": "eieren",
+              "amount": "4"
+            },
+            {
+              "name": "wortel",
+              "amount": "150 g"
+            },
+            {
+              "name": "rode paprika, geroosterd en ontveld",
+              "amount": "180 g"
+            },
+            {
+              "name": "Reggianito of Parmezaanse kaas, fijn geraspt",
+              "amount": "50 g"
+            },
+            {
+              "name": "groene olijven, in de lengte in dunne reepjes (optioneel)",
+              "amount": "30 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de pocheervloeistof",
+          "ingredients": [
+            {
+              "name": "water",
+              "amount": "2 l"
+            },
+            {
+              "name": "ui, gehalveerd",
+              "amount": "1"
+            },
+            {
+              "name": "wortel, grof gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "tenen knoflook",
+              "amount": "2"
+            },
+            {
+              "name": "laurierblaadjes",
+              "amount": "2"
+            },
+            {
+              "name": "zout",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zwarte peperkorrels",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het serveren",
+          "ingredients": [
+            {
+              "name": "goede extra vierge olijfolie",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "kleine salsa criolla zonder tomaat (ragfijne rode ui, ragfijne rode paprika, olijfolie, wittewijnazijn, zout) (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Verder",
+          "ingredients": [
+            {
+              "name": "keukentouw",
+              "amount": "naar behoefte"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees tot één rechthoek",
+          "description": "Leg de dunne riblapplakken op een groot vel bakpapier 2-3 cm overlappend naast elkaar tot een rechthoek van ongeveer 30 x 40 cm. Klop het geheel heel licht plat met een vleeshamer om de naden wat te egaliseren — riblap heeft vanzelf al een fijnere, gelijkmatigere structuur dan bovenbil, dus je hoeft niet hard te kloppen. Heb je echte matambre: verwijder dikke stukken vet en vlies, maar laat een dun vetlaagje zitten, en snijd de randen bij tot een rechthoek."
+        },
+        {
+          "action": "Kruidenlaag maken en aanbrengen",
+          "description": "Meng peterselie, knoflook, Dijon, azijn, zout, peper en ají molido tot een dikke pasta. Verdeel zeer dun over het vlees — geen dikke laag, alleen genoeg voor geur en kruiding in de spiraal. Strooi de geraspte kaas erover."
+        },
+        {
+          "action": "Vulling voorbereiden",
+          "description": "Kook de eieren 9 minuten, koel onmiddellijk in ijswater en pel ze. Snijd de wortel in lange, dunne staafjes van ongeveer 5 mm en blancheer 3 minuten — hij moet nog stevig zijn. Rooster de paprika tot de huid zwart geblakerd is, laat afgedekt stomen, verwijder de huid en snijd in lange repen. Snijd eventueel de olijven in dunne reepjes."
+        },
+        {
+          "action": "Rangschikken",
+          "description": "Leg parallel aan de korte zijde, in duidelijke banen: rij wortel, rij paprika, rij hele eieren (achter elkaar over de breedte), rij paprika, rij wortel. Eventueel dunne lijntjes olijf ertussen. Laat rondom ongeveer 3 cm vlees vrij."
+        },
+        {
+          "action": "Strak oprollen",
+          "description": "Rol vanaf de kant met de eieren, terwijl je rolt steeds trekken en aandrukken zodat er geen luchtkamers ontstaan. Eindig met de naad onder. Bind met keukentouw om de 2,5-3 cm, en bind ook één of twee lange touwen over de lengte — het moet aanvoelen als een stevig opgebonden rollade."
+        },
+        {
+          "action": "Pocheren",
+          "description": "Breng de ingrediënten voor de pocheervloeistof aan de kook en zet dan terug tot ongeveer 88-92°C — heel rustig, niet hard koken. Leg de rol erin en pocheer 1,5 tot 2 uur, tot het vlees volledig mals is."
+        },
+        {
+          "action": "Persen",
+          "description": "Haal de rol uit de vloeistof en laat 20 minuten uitdampen. Leg hem tussen twee vlakke bakplaten of snijplanken en zet er ongeveer 2-3 kg gewicht op (bijvoorbeeld een zware braadpan). Laat eerst verder afkoelen, zet dan — nog steeds onder druk — minimaal 8 uur, liefst een hele nacht, in de koelkast."
+        },
+        {
+          "action": "Snijden",
+          "description": "Verwijder het touw. Snijd met een vlijmscherp lang mes plakken van 1-1,2 cm — dik genoeg om de volledige spiraal duidelijk te zien."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg per persoon twee dikke plakken licht overlappend op een klein bord. Werk af met alleen een paar druppels goede olijfolie en wat fleur de sel, of een heel klein beetje salsa criolla — verder niets."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Twee dikke plakken per persoon, licht overlappend op een klein bord — de kleurrijke spiraal van geel ei, oranje wortel, rode paprika en groen van de peterselie geeft zelf al genoeg kleur. Alleen een paar druppels olijfolie en fleur de sel, geen grote kom chimichurri of salade ernaast — hoe minder onderdelen, hoe scherper de spiraal."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Riblap heeft precies het bindweefsel en vet dat dit gerecht nodig heeft: genoeg om tijdens de 1,5-2 uur pocheren sappig te blijven, en genoeg structuur om na het koelen mooi stevig te snijden — een technisch betere match dan magerdere sneden voor deze specifieke, lang gegaarde en koud geperste bereiding. Door de vulling in duidelijke, parallelle banen te rangschikken in plaats van willekeurig te verdelen, krijg je na het snijden echt herkenbare lijnen en kleuren. Het rustige pocheren op 88-92°C, in plaats van hard koken, zorgt dat het bindweefsel geleidelijk in gelatine verandert zonder het vlees droog te koken. En het persen onder gewicht, een hele nacht in de koelkast, is de stap die alles samenbrengt: het perst de rol compact, sluit eventuele luchtkamers, en is precies wat het verschil maakt tussen een losse gevulde rollade en de strak gesneden, charcuterie-achtige plak die dit gerecht kenmerkt."
+        }
+      ],
+      "chef_tip": "Slagerskeuze, van meest naar minst authentiek: echte matambre is de authentieke, ideale keuze. Dun gesneden riblap, tegen de draad, is de beste praktische Nederlandse vervanger — het bindweefsel en vet zorgen dat het vlees na het lange pocheren sappig blijft en na het koelen mooi stevig snijdt. Dunne bovenbil of platte bil is netter en magerder, maar iets minder sappig. Ossenhaas is een luxere route, maar vereist een compleet andere, kortere garing (zie tip 2). Bavette kan ook, maar heeft een grovere draad die minder mooi snijdt.\n\nLuxe-variant met ossenhaas: vraag de slager om 800-900 g ossenhaas in dunne plakken van 4-5 mm te snijden, overlappend tot één rechthoek te leggen. Gebruik dezelfde kruidenlaag en vulling, rol strak op, maar pocheer deze versie NIET 1,5-2 uur — dat zou de malsheid van de ossenhaas juist tenietdoen. Gaar in plaats daarvan zeer zacht tot een kerntemperatuur van ongeveer 56-58°C, laat volledig afkoelen, en pers daarna een nacht onder licht gewicht. Dit geeft een luxere, zachtere doorsnede dan de klassieke versie.\n\nSlager: Vraag je slager specifiek om de riblap in zo groot mogelijke, dunne plakken te snijden — dit is geen standaard verzoek, dus leg even uit waar het voor is.\n\nVooruitwerken: dit gerecht moet sowieso een dag van tevoren gemaakt worden vanwege het persen — plan dit dus altijd op tijd.\n\nSnijgereedschap: Gebruik een vlijmscherp, lang mes om nette plakken te snijden — een kartelmes verstoort de spiraal.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Malbec (Mendoza, Argentinië)",
+          "druif": "Malbec",
+          "smaakprofiel": "Rijp donker fruit — pruim, braam — met een vleugje viool en zachte, fluwelen tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Koud vlees, paprika en kruiden kunnen wel wat fruit gebruiken — een zachte Argentijnse Malbec heeft genoeg body zonder dat er een zware, warme saus naast staat.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Cabernet Franc (Mendoza, Argentinië)",
+          "druif": "Cabernet Franc",
+          "smaakprofiel": "Kruidig, met rood fruit, paprika en een frisse, levendige zuurgraad.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De kruidige, groene ondertoon sluit mooi aan bij de geroosterde paprika en peterselie in de vulling.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Bonarda (Argentinië)",
+          "druif": "Bonarda",
+          "smaakprofiel": "Sappig, minder zwaar dan Malbec, fris rood fruit.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een lichtere keuze, ideaal wanneer dit gerecht als voorgerecht wordt geserveerd in plaats van als hoofdgerecht.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
+        }
+      ]
     }
   ]
 }
