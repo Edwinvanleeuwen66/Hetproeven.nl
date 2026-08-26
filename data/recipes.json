@@ -7350,153 +7350,137 @@
       "title": "Saucijzenbroodjes — het definitieve recept",
       "slug": "saucijzenbroodjes-definitief",
       "location": "Nederland",
-      "time": "45 min",
-      "servings": "10 stuks",
+      "time": "25 min voorbereiding + 10-15 min vriezer + 22-28 min bakken (in drie fasen)",
+      "servings": "8-10 stuks",
       "difficulty": "Makkelijk",
       "keuken": "Nederlands",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/SB.jpg",
-      "short_description": "Het perfecte saucijzenbroodje — subtiel gekruid met nootmuskaat, foelie en een geheim druppeltje Maggi. Droog, stevig en dooreetbaar.",
-      "description": "Na vele testronden is dit het definitieve recept. Subtiele kruiding, droge stevige bite, geen glibberig gevoel en warmte die je niet kunt aanwijzen. Eet er één direct uit de oven en één na 10 minuten — als ze allebei goed zijn, heb je het perfecte recept.",
+      "short_description": "Het geheim zit in een zachte, mild gekruide vulling en vooral in het bladerdeeg: luchtig, licht goudgeel en extreem krokant, dankzij een korte vriezerstap en bakken in drie temperaturen.",
+      "description": "Het geheim van deze saucijzenbroodjes zit in een zachte, mild gekruide vulling en vooral in het bladerdeeg: luchtig, licht goudgeel en extreem krokant. Een goede slagersgehaktmix geeft eenvoudig de karakteristieke warme saucijssmaak. Door de gevormde broodjes voor het bakken kort in de vriezer te zetten en vervolgens in drie temperaturen te bakken, krijgt het bladerdeeg eerst maximale lift en kan het daarna krokant drogen zonder te donker te worden.",
       "ingredient_groups": [
         {
-          "group_name": "Vulling",
+          "group_name": "Vulling (voor 300 g gehakt)",
           "ingredients": [
             {
               "name": "half-om-half gehakt",
               "amount": "300 g"
             },
             {
-              "name": "ei, losgeklopt (gebruik de helft)",
-              "amount": "1"
+              "name": "slagersgehaktmix",
+              "amount": "17 g"
             },
             {
-              "name": "paneermeel",
-              "amount": "20 g"
+              "name": "fijn naturel paneermeel",
+              "amount": "25 g"
             },
             {
-              "name": "zout",
-              "amount": "2,2 g"
+              "name": "ijskoud water",
+              "amount": "35 ml"
             },
             {
-              "name": "Maggi (± 8-9 druppels)",
-              "amount": "0,9 g"
+              "name": "ei, losgeklopt (±25 g); gebruik de helft in de vulling",
+              "amount": "½"
             },
             {
-              "name": "nootmuskaat",
-              "amount": "0,32 g"
+              "name": "tomatenpoeder, afgestreken",
+              "amount": "1 tl"
             },
             {
-              "name": "foelie",
-              "amount": "0,09 g"
+              "name": "extra zout",
+              "amount": "0,25 g"
             },
             {
-              "name": "witte peper",
-              "amount": "0,42 g"
-            },
-            {
-              "name": "gedroogde selderij",
-              "amount": "0,35 g"
-            },
-            {
-              "name": "gladde mosterd",
-              "amount": "4 g"
+              "name": "extra witte peper",
+              "amount": "0,10 g"
             }
           ]
         },
         {
-          "group_name": "Opbouw en afwerking",
+          "group_name": "Opbouw",
           "ingredients": [
             {
-              "name": "kant-en-klare plakjes bladerdeeg",
-              "amount": "10"
+              "name": "standaard vierkante plakjes bladerdeeg",
+              "amount": "8-10"
             },
             {
-              "name": "ei voor het bestrijken",
-              "amount": "1"
+              "name": "resterende ½ ei",
+              "amount": "½"
             },
             {
-              "name": "scheutje melk",
-              "amount": "1"
+              "name": "melk",
+              "amount": "1 el"
+            },
+            {
+              "name": "water, voor de sluitrand",
+              "amount": "beetje"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Meng het gehakt",
-          "description": "meng het gehakt eerst met zout en Maggi. Voeg dan het halve ei en het paneermeel toe. Voeg alle kruiden toe en meng kort tot net samenhangend. Niet doorkneden — anders krijg je worststructuur."
+          "action": "Vulling maken",
+          "description": "Houd het gehakt goed koelkastkoud. Meng met slagersgehaktmix, paneermeel, tomatenpoeder, extra zout en witte peper. Voeg ½ ei en 35 ml ijskoud water toe. Meng goed tot een zachte, gelijkmatige en samenhangende farce, maar kneed niet langer dan nodig."
         },
         {
-          "action": "Portioneer de vulling",
-          "description": "verdeel de vulling in 10 porties van ±30 g. Rol elk portie licht langwerpig met je handen."
+          "action": "Portioneren",
+          "description": "Verdeel in porties van 30-35 g en vorm smalle worstjes."
         },
         {
-          "action": "Opbouwen",
-          "description": "leg een portie vulling op een plakje bladerdeeg. Vouw het deeg dicht en druk de rand goed aan zodat hij niet openbarst."
+          "action": "Vouwen",
+          "description": "Laat het bladerdeeg ontdooien tot het nog koud maar soepel is. Leg de vulling iets uit het midden, zodat de bovenste deeghelft iets ruimer over de vulling valt. Bevochtig alleen de sluitrand licht met water, vouw dicht en druk met de vingers aan. Geen vork gebruiken. Leg met de naad naar beneden."
         },
         {
-          "action": "Eerste eilaag en vriezer",
-          "description": "klop het ei los met een klein scheutje melk. Kwast de broodjes licht in. Leg ze 10-15 minuten in de vriezer — dit voorkomt openbarsten en lekken."
+          "action": "Vriezer",
+          "description": "Zet de volledig gevormde broodjes 10-15 minuten in de vriezer. Het gaat dus nadrukkelijk om de broodjes, niet om het losse gehakt. Ze moeten goed koud worden, niet bevriezen."
         },
         {
-          "action": "Tweede eilaag",
-          "description": "haal de broodjes uit de vriezer en smeer nogmaals licht in met het eiermengsel voor een mooie glanzende goudbruine korst."
+          "action": "Bestrijken",
+          "description": "Meng het resterende ½ ei met 1 el melk. Bestrijk de bovenkant één keer dun. Laat geen eimengsel over de snijranden lopen."
         },
         {
           "action": "Bakken",
-          "description": "verwarm de oven op 220°C (boven/onderwarmte). Bak de broodjes 25 minuten tot ze diep goudbruin en krokant zijn."
+          "description": "Verwarm de oven volledig voor op 210°C hetelucht. Bak 8-10 minuten op 210°C, daarna circa 8 minuten op 180°C, en vervolgens 6-10 minuten op 160-165°C. Het resultaat moet licht goudgeel, sterk gerezen, droog en krokant zijn — niet donkerbruin zoals een zwaar bakkerssaucijzenbroodje. Het vlees moet minimaal 72°C kern hebben. Laat 5 minuten op een rooster rusten."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de saucijzenbroodjes warm, direct van het rooster. Snijd ze eventueel schuin door zodat de zachte vulling en de vele luchtige bladerdeeglagen goed zichtbaar zijn."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de gevormde broodjes eerst kort in de vriezer te zetten, blijft het bladerdeeg tijdens het bakken extra koud en stevig, wat een sterkere, hogere rijzing geeft. De drie bakfasen — hoog voor maximale lift, dan geleidelijk lager — laten het deeg eerst volledig opbollen en daarna rustig krokant en droog worden zonder dat de buitenkant te donker verbrandt. Zo krijg je een licht goudgeel, extreem krokant broodje in plaats van het zwaardere resultaat van een standaard hoge-temperatuur-bakbeurt."
         }
       ],
-      "tips": [
-        "dit is het belangrijkste — eet er één direct uit de oven en één na een uur. Het verschil leert je meer over bladerdeeg dan elk recept.",
-        "Techniek: zorg dat het gehakt volledig droog is voor je het in het bladerdeeg rolt — overtollig vocht maakt de bodem zompig en verhindert een krokante onderkant.",
-        "Presentatie: bestrijk royaal met eigeel voor een diepe, goudbruine glans. Snijd na het bakken schuin door — zo is de spiraaldoorsnede zichtbaar en ziet het gerecht er verfijnd uit.",
-        "Variatie: voeg gerookte paprika of fijngehakte jalapeño toe aan het gehakt voor extra pit, of wikkel de broodjes in jamon serrano voor een Spaanse upgrade.",
-        "Alternatief: geen bladerdeeg? Gebruik briochedeeg voor een rijker, zachter resultaat, of gebruik croissantdeeg uit een rol voor een snelle maar even lekkere versie.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Welke slagersgehaktmix?: Gebruik een goede slagersgehaktmix. Deze bevat idealiter naast zout en peper ook ui, nootmuskaat/foelie, koriander en gember. Ingrediënten als gistextract, glucose/dextrose, soja-eiwit en aroma zijn juist interessant voor die zachte, herkenbare saucijssmaak. Van Beekum Slagers Gehaktmix is een geschikt voorbeeld, maar het recept moet merk-onafhankelijk blijven.\n\nGeen slagersgehaktmix? Maak hem zelf.: Gebruik bij 300 g gehakt 30 g naturel paneermeel in plaats van 25 g en vervang de slagersmix door: 2,5 g zout (±½ tl), 1,0 g uienpoeder (±½ tl), 0,6 g witte peper (±¼ tl), 0,6 g gemalen koriander/ketoembar (±¼ tl), 0,3 g gemberpoeder (±⅛ tl), 0,3 g nootmuskaat (±⅛ tl), 0,1 g foelie (klein snufje), 0,6 g gistextract (hoeveelheid in tl afhankelijk van het product) en 0,5 g suiker of dextrose (±⅛ tl) — samen ongeveer 6,5 g smaakcomponenten. De afgestreken tl tomatenpoeder uit het hoofdrecept blijft daarnaast gewoon staan. Probeer niet 17 g slagersmix simpelweg door 17 g pure kruiden te vervangen: een commerciële mix bevat ook paneer/bindmiddelen en andere hulpstoffen.\n\nMeer klassieke bakkerssmaak: voeg een fractie extra nootmuskaat en foelie toe. Gebruik voor een rijker resultaat roomboterbladerdeeg; dit wordt voller van smaak en wat donkerder.\n\nMeer supermarkt-/bake-offstijl: gebruik gewoon margarinebladerdeeg en bij voorkeur een gehaktmix met gistextract, glucose/dextrose en aroma. Houd de specerijen juist subtiel.\n\nGeen tomatenpoeder?: vervang door een kleine hoeveelheid mild paprikapoeder. Dit is geen exacte vervanger, maar geeft wel een zachte warme achtergrond.\n\nMeer kruidige diepte: gebruik een klein snufje majoraan/marjolein voor een warme worsttoon óf een klein beetje gedroogd selderijblad voor een bouillonachtige achtergrond. Doseer terughoudend.\n\nExtra krokant: niet langer op hoge temperatuur bakken. De laatste fase op 160-165°C droogt de bladerdeeglagen krokant terwijl de kleur relatief licht blijft.\n\nPortiegrootte: houd 30-35 g vulling per broodje aan. Daarmee blijft de verhouding tussen zachte saucijs en krokant bladerdeeg mooi in balans.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Cava Brut",
           "druif": "Macabeo, Xarel·lo, Parellada",
-          "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig",
+          "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig.",
           "omschrijving": "Saucijzenbroodjes en Cava — een combinatie die in elke Spaanse feestelijke setting werkt.",
-          "waarom_werkt_dit": "De droge bellen snijden door het rijke bladerdeeg en het vette gehakt; de gisttonen sluiten aan op de luchtige gebakken structuur. Cava Brut heeft net genoeg dosage voor een licht ronde afdronk die de hartige vulling complementeert zonder te zoet te worden. Een fles Cava bij een schaal saucijzenbroodjes is de meest toegankelijke, gezelligste manier om een tapas-avond te beginnen. Serveer ijskoud op 7°C."
+          "waarom_werkt_dit": "De droge bellen snijden door het rijke bladerdeeg en het vette gehakt; de gisttonen sluiten aan op de luchtige gebakken structuur. Cava Brut heeft net genoeg dosage voor een licht ronde afdronk die de hartige vulling complementeert zonder te zoet te worden. Een fles Cava bij een schaal saucijzenbroodjes is de meest toegankelijke, gezelligste manier om een tapas-avond te beginnen.",
+          "serveertemperatuur": "Serveer ijskoud op 7°C."
         },
         {
           "type": "alternatief",
           "naam": "Rioja Joven",
           "druif": "Tempranillo",
-          "smaakprofiel": "Droog, kers, pruim, vanille, kruidigheid, middelzware tannines",
-          "omschrijving": "licht en fris, werkt als warme rode begeleider bij de hartige gehaktvulling",
-          "waarom_werkt_dit": "Tempranillo sluit met kers, kruiden en lichte houtrijping aan op geroosterde paprika, tomaat, aioli, vleesjus en Spaanse specerijen. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact."
+          "smaakprofiel": "Droog, kers, pruim, vanille, kruidigheid, middelzware tannines.",
+          "omschrijving": "Licht en fris, werkt als warme rode begeleider bij de hartige gehaktvulling.",
+          "waarom_werkt_dit": "Tempranillo sluit met kers, kruiden en lichte houtrijping aan op de warme kruiding van de vulling. De wijn snijdt door het bladerdeeg en het vet, maar laat de zachte, milde kruiding intact.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         },
         {
           "type": "alternatief",
           "naam": "Crémant d'Alsace Brut — Alsace, Frankrijk",
           "druif": "Pinot Blanc, Auxerrois en/of Chardonnay",
-          "smaakprofiel": "Droog, appel, citrus, zachte mousse, lichte brioche",
+          "smaakprofiel": "Droog, appel, citrus, zachte mousse, lichte brioche.",
           "omschrijving": "Een toegankelijkere, logischer bubbel bij Nederlands bladerdeegcomfort dan Champagne.",
-          "waarom_werkt_dit": "De mousse ruimt vet bladerdeeg en kruidig gehakt op. De lichte briochetoon sluit aan op het gebakken deeg."
+          "waarom_werkt_dit": "De mousse ruimt vet bladerdeeg en kruidig gehakt op. De lichte briochetoon sluit aan op het gebakken deeg.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         }
-      ],
-      "wine": {
-        "naam": "Cava Brut",
-        "druif": "Macabeo, Xarel·lo, Parellada",
-        "toelichting": "De droge bellen snijden door het rijke bladerdeeg en het vette gehakt; de gisttonen sluiten aan op de luchtige gebakken structuur. Cava Brut heeft net genoeg dosage voor een licht ronde afdronk die de hartige vulling complementeert zonder te zoet te worden. Een fles Cava bij een schaal saucijzenbroodjes is de meest toegankelijke, gezelligste manier om een tapas-avond te beginnen. Serveer ijskoud op 7°C.",
-        "alternatief": "Rioja Joven — Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen; Crémant d'Alsace Brut — Alsace, Frankrijk — Droog, appel, citrus, zachte mousse, lichte brioche"
-      },
-      "tips_full": [
-        "dit is het belangrijkste — eet er één direct uit de oven en één na een uur. Het verschil leert je meer over bladerdeeg dan elk recept.",
-        "Techniek: zorg dat het gehakt volledig droog is voor je het in het bladerdeeg rolt — overtollig vocht maakt de bodem zompig en verhindert een krokante onderkant.",
-        "Presentatie: bestrijk royaal met eigeel voor een diepe, goudbruine glans. Snijd na het bakken schuin door — zo is de spiraaldoorsnede zichtbaar en ziet het gerecht er verfijnd uit.",
-        "Variatie: voeg gerookte paprika of fijngehakte jalapeño toe aan het gehakt voor extra pit, of wikkel de broodjes in jamon serrano voor een Spaanse upgrade.",
-        "Alternatief: geen bladerdeeg? Gebruik briochedeeg voor een rijker, zachter resultaat, of gebruik croissantdeeg uit een rol voor een snelle maar even lekkere versie.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
     },
     {
