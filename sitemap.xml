@@ -368,7 +368,7 @@
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/gado-gado-culinair/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -404,7 +404,7 @@
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/babi-kecap/</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -416,7 +416,7 @@
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/rendang-sapi-slowoven/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1442,19 +1442,19 @@
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/ayam-betutu/</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/daging-sei-stijl-gerookt-rund-sambal-luat/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/perkedel-jagung-luxe-krokante-maiskoekjes-limoenblad-chili/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1820,7 +1820,7 @@
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/otak-otak-bakar-kabeljauw-bananenblad/</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1904,7 +1904,7 @@
   </url>
   <url>
     <loc>https://hetproeven.nl/indonesische-recepten/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -1919,5 +1919,17 @@
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hetproeven.nl/recepten/iga-bakar-kecap-indonesische-runderribben/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hetproeven.nl/recepten/empal-gepuk-draadjesrund-krokante-rand/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

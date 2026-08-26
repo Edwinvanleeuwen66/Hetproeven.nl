@@ -8341,15 +8341,15 @@
     {
       "title": "Gado Gado Culinair — warme salade met zijdezachte pindasaus",
       "slug": "gado-gado-culinair",
-      "location": "Jakarta",
+      "location": "Jakarta (Betawi), Indonesië",
       "time": "30 min",
       "servings": "2 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
       "categorie": "groente-salade",
       "image": "/assets/images/gado-gado-culinair.jpg",
-      "short_description": "Geblancheerde groenten met zachtgekookt ei en een zijdezachte pindasaus op kokosmelkbasis.",
-      "description": "Een culinaire gado gado zonder wortel — sperziebonen, kool, komkommer, taugé en een zachtgekookt ei op een bedje van romige pindasaus op kokosmelkbasis. De kracht zit in de temperatuurcontrasten: lauwwarme groenten, rauwe komkommer, warme saus.",
+      "short_description": "Geblancheerde groenten met zachtgekookt ei en een zijdezachte pindasaus op kokosmelkbasis — een verfijnde HetProeven-versie van Gado-Gado Betawi.",
+      "description": "Een verfijnde HetProeven-versie van Gado-Gado Betawi: lauwwarme sperziebonen en kool, frisse komkommer, taugé en zacht ei met een warme, zijdezachte pindasaus. De klassieke volledige versie bevat vaak ook tofu, tempeh, aardappel en/of ketupat; hier houden we hem bewust lichter en strakker. De kracht zit in de temperatuurcontrasten: lauwwarme groenten, rauwe komkommer, warme saus.",
       "ingredient_groups": [
         {
           "group_name": "Groenten en basis",
@@ -8359,7 +8359,7 @@
               "amount": "200 g"
             },
             {
-              "name": "fijn gesneden witte of spitskool, 1–2 min geblancheerd",
+              "name": "fijn gesneden witte of spitskool, 1-2 min geblancheerd",
               "amount": "150 g"
             },
             {
@@ -8367,11 +8367,11 @@
               "amount": "½"
             },
             {
-              "name": "eieren, zachtgekookt (6 min)",
+              "name": "eieren, zachtgekookt (6 min) — traditioneel wordt ook vaak hardgekookt ei gebruikt",
               "amount": "2"
             },
             {
-              "name": "taugé, kort overgoten met kokend water",
+              "name": "taugé",
               "amount": "1 handvol"
             },
             {
@@ -8379,7 +8379,7 @@
               "amount": "1 el"
             },
             {
-              "name": "koriander of peterselie (optioneel)",
+              "name": "seledri/bladselderij (optioneel), of als bewuste variant: koriander",
               "amount": "paar takjes"
             }
           ]
@@ -8388,7 +8388,7 @@
           "group_name": "Pindasaus",
           "ingredients": [
             {
-              "name": "ongezouten pinda's of 100% pindakaas",
+              "name": "ongezouten pinda's, geroosterd en gemalen — of 100% pindakaas, direct te verwerken zonder roosteren",
               "amount": "75 g"
             },
             {
@@ -8416,6 +8416,10 @@
               "amount": "1 tl"
             },
             {
+              "name": "daun jeruk, fijngesneden (optioneel)",
+              "amount": "1 klein"
+            },
+            {
               "name": "zout",
               "amount": "naar smaak"
             }
@@ -8425,74 +8429,62 @@
       "steps": [
         {
           "action": "Pindasaus maken",
-          "description": "rooster de pinda's kort in een droge pan. Maal met knoflook en chili tot pasta. Verwarm met kokosmelk, ketjap, limoensap en suiker op laag vuur. Laat rustig indikken tot een zijdeachtige saus. Proef: pittig, zoet, zout en zuur in balans."
+          "description": "Gebruik je hele pinda's: rooster ze kort in een droge pan en maal ze met knoflook en chili tot een pasta. Gebruik je 100% pindakaas: verwerk die direct, zonder roosteren of malen — meng met knoflook en chili. Verwarm met kokosmelk, ketjap, limoensap, palmsuiker en eventueel daun jeruk op laag vuur. Laat rustig indikken tot een zijdeachtige saus. Proef: pittig, zoet, zout en zuur in balans. Te dik? Verdun eventueel met een scheutje water."
         },
         {
           "action": "Groenten blancheren",
-          "description": "blancheer sperziebonen en kool apart in gezouten water — knapperig, mooi kleurbehoud. Laat uitlekken en houd lauwwarm. De komkommer blijft rauw."
+          "description": "Blancheer sperziebonen en kool apart in gezouten water — knapperig, mooi kleurbehoud. Laat uitlekken en houd lauwwarm. De komkommer blijft rauw."
         },
         {
           "action": "Eieren koken",
-          "description": "kook 6 minuten, laat schrikken, pel en halveer. Het geel moet nog zacht zijn."
+          "description": "Kook 6 minuten voor een zacht ei, laat schrikken, pel en halveer. Het geel moet nog zacht zijn. Liever traditioneel hardgekookt? Kook dan 9-10 minuten."
         },
         {
           "action": "Taugé voorbereiden",
-          "description": "giet kokend water over de taugé en laat direct uitlekken. Niet koken — alleen de rauwe rand eraf."
+          "description": "Spoel de taugé en dompel circa 5 seconden volledig onder in kokend water; laat direct uitlekken."
         },
         {
           "action": "Opmaken en serveren",
-          "description": "lepel warme pindasaus subtiel over het midden van een ondiep bord. Maak een ring van kool en sperziebonen eromheen. Leg komkommerlinten speels ertussen. Halveer de eieren en leg erop. Bestrooi met taugé, krokante sjalotjes en verse kruiden."
+          "description": "Lepel warme pindasaus subtiel over het midden van een ondiep bord. Maak een ring van kool en sperziebonen eromheen. Leg komkommerlinten speels ertussen. Halveer de eieren en leg erop. Bestrooi met taugé, krokante sjalotjes en eventueel verse seledri of koriander."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Rangschik de toppings in duidelijke kleurvlakken op het bord — groen naast geel naast wit — zodat elk groente-element zijn eigen textuur en kleur behoudt. Saus subtiel over het midden, nooit als dikke deken overal overheen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de groenten apart te blancheren en lauwwarm te serveren in plaats van heet, behouden ze hun kleur en bite. De rauwe komkommer geeft een fris, koel contrast tegenover de warme pindasaus. Bij hele pinda's brengt roosteren extra diepte; bij kant-en-klare 100% pindakaas is dat al gebeurd en hoeft de saus alleen nog opgewarmd en op smaak gebracht te worden. Het resultaat is een gado-gado die door temperatuur- en textuurcontrast levendig blijft in plaats van plat en eenvormig."
         }
       ],
-      "tips": [
-        "serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.",
-        "Techniek: lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.",
-        "Presentatie: rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.",
-        "Variatie: voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.",
-        "Alternatief: geen kokosmelk voor de pindasaus? Gebruik volle slagroom — geeft een rijkere, minder tropische saus die in de winter uitstekend werkt.",
-        "Balans: geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.",
-        "Timing: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal."
-      ],
+      "chef_tip": "Serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.\n\nTechniek: lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.\n\nPresentatie: rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.\n\nVariatie: voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.\n\nGeen kokosmelk? Gebruik eventueel wat water om de pindasaus op dikte te brengen, in plaats van slagroom — dat verandert het karakter te veel.\n\nTiming: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Vouvray sec of demi-sec — Loire, Frankrijk",
+          "naam": "Vouvray Demi-Sec — Loire, Frankrijk",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren",
-          "omschrijving": "De fruitige frisheid en citrusmineraliteit van een droge Chenin Blanc Kabinett snijdt door de romigheid van de pindasaus op kokosmelkbasis en houdt het gerecht licht en verfrissend.",
-          "waarom_werkt_dit": "De appel- en perziktonen van de Kabinett sluiten aan op de kokosmelk en de palmsuiker in de saus. Een fractie residuele suiker in de wijn bouwt een brug naar de zoetheid zonder het droge karakter te verliezen. De Chenin Blanc is licht genoeg om de delicate groenten niet te overstemmen maar heeft genoeg karakter voor de pindasaus. Serveer gekoeld op 9°C."
+          "smaakprofiel": "Peer, gele appel, kweepeer, citrus, lichte honing/wax, hoge zuren en klein restzoetje.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De zuren verfrissen pindasaus, kokos en eidooier. Een beetje restzoet sluit aan op kecap/palmsuiker en verzacht chili, terwijl peer en kweepeer fris genoeg blijven bij komkommer en groene groenten.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
         },
         {
           "type": "alternatief",
-          "naam": "Droge Vouvray",
-          "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren",
-          "omschrijving": "Een Loire-wijn met spanning, frisheid en soms net genoeg ronding voor kruidige of rijke gerechten.",
-          "waarom_werkt_dit": "Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact."
+          "naam": "New Zealand Pinot Gris, licht off-dry",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Rijpe peer, witte perzik, meloen, lichte gember/bloemigheid, rond mondgevoel.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Peer en perzik passen bij de zachte zoetheid van pinda en kokos, een beetje restzoet vangt sambal op en het zachte zuurprofiel werkt prettig met komkommer en ei.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Chenin Blanc",
-          "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren",
-          "omschrijving": "aromatischer en voller, werkt als de pindasaus centraal staat",
-          "waarom_werkt_dit": "Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact."
+          "type": "meest-toegankelijk",
+          "naam": "Cava Brut Reserva — Penedès, Spanje",
+          "druif": "Macabeo, Xarel·lo, Parellada",
+          "smaakprofiel": "Groene appel, citroen, lichte amandel/brioche, fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De mousse maakt pindasaus en zacht ei lichter. Citrus houdt sperziebonen, kool en komkommer fris en de bescheiden dosage past beter bij kecap en palmsuiker dan een extreem droge Brut Nature.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         }
-      ],
-      "wine": {
-        "naam": "Vouvray sec of demi-sec — Loire, Frankrijk",
-        "druif": "Chenin Blanc",
-        "toelichting": "De fruitige frisheid en citrusmineraliteit van een droge Chenin Blanc Kabinett snijdt door de romigheid van de pindasaus op kokosmelkbasis en houdt het gerecht licht en verfrissend. De appel- en perziktonen van de Kabinett sluiten aan op de kokosmelk en de palmsuiker in de saus. Een fractie residuele suiker in de wijn bouwt een brug naar de zoetheid zonder het droge karakter te verliezen. De Chenin Blanc is licht genoeg om de delicate groenten niet te overstemmen maar heeft genoeg karakter voor de pindasaus. Serveer gekoeld op 9°C.",
-        "alternatief": "Droge Vouvray of Chenin Blanc — aromatischer en voller, werkt als de pindasaus centraal staat"
-      },
-      "tips_full": [
-        "serveer de groenten lauwwarm, niet heet — dan houd je de textuur en kleur. De komkommer blijft altijd rauw voor fris contrast.",
-        "Techniek: lepel de pindasaus subtiel over het midden, nooit over alles — de groenten moeten zichtbaar blijven en elk element moet zijn eigen textuur behouden.",
-        "Presentatie: rangschik de toppings in kleurvlakken op het bord — groen naast geel naast wit — zodat het gerecht eruitziet als een Indonesisch schilderij.",
-        "Variatie: voeg een dot sambal badjak toe naast de pindasaus voor wie meer pit wil, of vervang de sausdrizzle door een kleine kom pindasaus apart voor meer controle.",
-        "Alternatief: geen kokosmelk voor de pindasaus? Gebruik volle slagroom — geeft een rijkere, minder tropische saus die in de winter uitstekend werkt.",
-        "Balans: geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.",
-        "Timing: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal."
       ]
     },
     {
@@ -9342,15 +9334,15 @@
     {
       "title": "Babi Kecap — klein rijsttafelgerecht van gestoofd varkensnekje in ketjapsaus",
       "slug": "babi-kecap",
-      "location": "Jakarta",
+      "location": "Chinees-Indonesisch",
       "time": "30 min voorbereiding + 1½-2 uur stoven + 10-20 min reduceren",
       "servings": "4 personen (klein rijsttafelgerecht)",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/babi-kecap.jpg",
-      "short_description": "Langzaam gestoofd varkensnekstuk in een donkere, glanzende saus van ketjap, gember en warme specerijen — eerst zacht gegaard, dan pas gereduceerd tot een mahoniekleurige lak. Als klein, rijk hapje binnen de rijsttafel.",
-      "description": "Babi kecap draait om langzaam gegaard procureur in een donkere, glanzende saus van ketjap, gember en warme specerijen. Eerst zacht stoven, daarna pas reduceren tot de saus zich als een mahoniekleurige lak om het vlees sluit.",
+      "short_description": "Langzaam gestoofd varkensnekstuk in een donkere, glanzende saus van ketjap, gember en warme specerijen — een Chinees-Indonesische klassieker, hier als klein, rijk hapje binnen de rijsttafel.",
+      "description": "Babi kecap is een Chinees-Indonesische klassieker waarin varkensvlees langzaam gaart in kecap manis en aromaten. Voor deze compacte HetProeven-rijsttafelversie gebruiken we dooraderde procureur, eerst zacht gestoofd en pas daarna gereduceerd tot een donkere, glanzende, mahoniekleurige lak.",
       "ingredient_groups": [
         {
           "group_name": "Vlees en basis",
@@ -9497,7 +9489,7 @@
           "type": "alternatief",
           "naam": "Droge Gewürztraminer (ongehout)",
           "druif": "Gewürztraminer",
-          "smaakprofiel": "Lychee, peer, roos en warme specerijen, met zachte zuren.",
+          "smaakprofiel": "Droog, lychee, peer, roos en warme specerijen, met zachte zuren.",
           "omschrijving": "",
           "waarom_werkt_dit": "Sluit prachtig aan bij steranijs, gember en de zoet-hartige ketjap.",
           "serveertemperatuur": "Serveer rond 9-10°C."
@@ -9506,7 +9498,7 @@
           "type": "meest-toegankelijk",
           "naam": "Chenin Blanc (Zuid-Afrika, droog en ongehout)",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Gele appel, kweepeer, peer en witte perzik, met frisse maar niet scherpe zuren.",
+          "smaakprofiel": "Droog, gele appel, kweepeer, peer en witte perzik, met frisse maar niet scherpe zuren.",
           "omschrijving": "",
           "waarom_werkt_dit": "Voldoende rijpheid voor de ketjap en genoeg frisheid om het varkensvet licht te houden.",
           "serveertemperatuur": "Serveer rond 9-10°C."
@@ -9688,17 +9680,17 @@
       ]
     },
     {
-      "title": "Rendang Sapi — award-winning slowoven rendang (110°C, 4 uur)",
+      "title": "Rendang Sapi — droge Minangkabau-rendang uit de slowoven (110°C, 4 uur)",
       "slug": "rendang-sapi-slowoven",
-      "location": "Padang",
+      "location": "Padang, West-Sumatra, Indonesië",
       "time": "30 min + 4 uur oven",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
       "categorie": "vlees",
       "image": "/assets/images/rendang-sapi.jpg",
-      "short_description": "Sucadelappen langzaam gegaard op 110°C met bumbu, kokosmelk en kerisik — droog, donker en draadjesmals.",
-      "description": "Echte rendang is droog, niet nat. Het vlees moet donkerbruin zijn, de saus volledig ingekookt en de kerisik — geroosterd kokosrasp — gehecht aan elk stukje vlees. De oven op 110°C doet in vier uur wat een pitje in drie uur nooit haalt: gelijkmatige, zachte hitte die het vlees draadjesmals maakt zonder te drogen.",
+      "short_description": "Sucadelappen langzaam gegaard op 110°C met bumbu, kokosmelk en ambu-ambu — droog, donker en draadjesmals.",
+      "description": "Echte droge Minangkabau-rendang is donker, heeft vrijwel geen losse saus, en de kokosolie en bumbu hechten zich aan elk stukje vlees. Traditioneel wordt rendang urenlang laag op het vuur ingekookt, via de tussenstadia gulai (nat, kokosrijk) en kalio (halfnat, roodbruin) naar de uiteindelijk droge rendang. In deze HetProeven-versie gebruiken we 110°C ovenwarmte voor een gelijkmatige, gecontroleerde garing en laten we de rendang aan het einde volledig indrogen.",
       "ingredient_groups": [
         {
           "group_name": "Bumbu",
@@ -9717,7 +9709,7 @@
             },
             {
               "name": "rode rawits (naar smaak)",
-              "amount": "2–3"
+              "amount": "2-3"
             },
             {
               "name": "verse gember, geschild",
@@ -9728,7 +9720,7 @@
               "amount": "4 cm"
             },
             {
-              "name": "kemirínoten, droog geroosterd",
+              "name": "kemirinoten, droog geroosterd",
               "amount": "4"
             },
             {
@@ -9757,11 +9749,11 @@
               "amount": "400 ml"
             },
             {
-              "name": "water",
-              "amount": "150 ml"
+              "name": "water, afhankelijk van pan en verdamping",
+              "amount": "100-150 ml"
             },
             {
-              "name": "kerisik (geroosterd kokosrasp, fijngemalen)",
+              "name": "ambu-ambu / kerisik (geroosterd kokosrasp, fijngemalen)",
               "amount": "4 el"
             },
             {
@@ -9790,8 +9782,12 @@
               "amount": "6"
             },
             {
-              "name": "daun salam of laurierblad",
+              "name": "daun salam",
               "amount": "3"
+            },
+            {
+              "name": "daun kunyit / kurkumablad (optioneel maar aanbevolen)",
+              "amount": "1"
             },
             {
               "name": "kaneelstokje",
@@ -9802,83 +9798,67 @@
       ],
       "steps": [
         {
-          "action": "Kerisik maken",
-          "description": "rooster het kokosrasp droog in een koekenpan op middelhoog vuur, constant roerend, tot diep goudbruin. Vijzel of maal fijn tot een olieachtige pasta. Zet apart — dit is het geheime wapen."
+          "action": "Ambu-ambu maken",
+          "description": "Rooster het kokosrasp droog in een koekenpan op middelhoog vuur, constant roerend, tot diep goudbruin. Vijzel of maal fijn tot een olieachtige pasta. Zet apart."
         },
         {
           "action": "Bumbu blenden",
-          "description": "blend sjalotten, knoflook, lomboks, rawits, gember, laos, kemiri, ketumbar, komijn en kurkuma tot een gladde pasta."
+          "description": "Blend sjalotten, knoflook, lomboks, rawits, gember, laos, kemiri, ketumbar, komijn en kurkuma tot een gladde pasta."
         },
         {
           "action": "Bumbu aanfruiten",
-          "description": "verwarm de oven voor op 110°C. Verhit de olie in een zware gietijzeren pan of braadpan op het vuur. Bak de bumbu 8–10 minuten op middelhoog vuur tot de olie eruit trekt en de pasta donkerder kleurt."
+          "description": "Verwarm de oven voor op 110°C. Verhit de olie in een zware gietijzeren pan of braadpan op het vuur. Bak de bumbu 8-10 minuten op middelhoog vuur tot de olie eruit trekt en de pasta donkerder kleurt."
         },
         {
           "action": "Vlees aanbraden",
-          "description": "voeg het vlees toe en bak rondom bruin op hoog vuur. Niet te veel tegelijk — werk in porties als nodig."
+          "description": "Voeg het vlees toe en bak rondom bruin op hoog vuur — onze HetProeven-techniek voor extra geroosterde, Maillard-diepte. Niet te veel tegelijk; werk in porties als nodig."
         },
         {
           "action": "Saus opbouwen",
-          "description": "voeg kokosmelk, water, kerisik, sereh, limoenblaadjes, salam, kaneel, palmsuiker en zout toe. Roer goed. Breng aan de kook."
+          "description": "Voeg kokosmelk, water, ambu-ambu, sereh, limoenblaadjes, salam, daun kunyit, kaneel, palmsuiker en zout toe. Roer goed. Breng aan de kook."
         },
         {
           "action": "Oven in — 4 uur op 110°C",
-          "description": "zet de deksel half op de pan. Schuif in de oven op 110°C. Na 3 uur de deksel eraf — de laatste uur verdampt de resterende vloeistof en hecht de kerisik zich aan het vlees. De rendang is klaar als de saus volledig is ingekookt en het vlees donkerbruin en droog glanst."
+          "description": "Zet de deksel half op de pan. Schuif in de oven op 110°C. Na 3 uur de deksel eraf — de laatste uur verdampt de resterende vloeistof en hecht de ambu-ambu zich aan het vlees. De rendang is klaar als de saus volledig is ingekookt en het vlees donkerbruin en droog glanst."
+        },
+        {
+          "action": "Eventueel narestellen",
+          "description": "Is het vlees na vier uur perfect mals maar de rendang nog te nat? Zet de pan op laag tot middelhoog vuur en roer regelmatig verder tot de kokosolie vrijkomt en de donkere kruidenmassa vrijwel droog om het vlees zit."
         },
         {
           "action": "Serveren",
-          "description": "laat 10 minuten rusten. Verwijder sereh, salam en kaneel. Serveer met witte rijst en eventueel atjar."
+          "description": "Laat 10 minuten rusten. Verwijder sereh, salam, daun kunyit en kaneel. Serveer met witte rijst en eventueel atjar."
         }
       ],
-      "tips": [
-        "kerisik is niet optioneel — het is het onderscheid tussen gewone en award-winning rendang. Maak hem van tevoren en bewaar droog. Gebruik sucadelap, niet riblap.",
-        "Techniek: oven op 110°C met eerste 3 uur afgedekt, laatste uur zonder deksel — dat laatste uur droogt de saus in en hecht de kerisik aan het vlees. Dat is het moment van de rendang.",
-        "Presentatie: een goede rendang heeft geen zichtbare saus — alleen droog, donkerbruin, glanzend vlees bedekt met kerisik. Als er veel vocht zichtbaar is, is hij nog niet klaar.",
-        "Variatie: voeg een stuk gedroogde tamarinde toe aan de saus voor extra zure diepte, of een extra stuk galanga voor een scherpere, aardsere ondertoon.",
-        "Alternatief: geen sucadelap? Gebruik korte rib (short rib) — meer vet, meer collageen, smelt nog malser na vier uur en geeft een rijkere, zwaardere rendang.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
+      "chef_tip": "Ambu-ambu (kerisik): in deze HetProeven-versie een bewuste toevoeging voor extra geroosterde kokossmaak, kleur en binding.\n\nTechniek: oven op 110°C met eerste 3 uur afgedekt, laatste uur zonder deksel — dat laatste uur droogt de saus in en hecht de ambu-ambu aan het vlees. Dat is het moment van de rendang.\n\nPresentatie: een goede rendang heeft geen zichtbare saus — alleen droog, donkerbruin, glanzend vlees bedekt met ambu-ambu. Als er veel vocht zichtbaar is, is hij nog niet klaar.\n\nDaun salam: geen daun salam? Laat het liever weg. Eventueel kan 1 klein Europees laurierblad als praktische noodoplossing worden gebruikt, maar de smaak is anders.\n\nTamarinde (optioneel): voeg een stuk gedroogde tamarinde toe aan de saus voor extra zure diepte in authentieke richting, of een extra stuk galanga voor een scherpere, aardsere ondertoon.\n\nAlternatief: geen sucadelap? Gebruik korte rib (short rib) — meer vet, meer collageen, smelt nog malser na vier uur en geeft een rijkere, zwaardere rendang.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Barossa Valley Shiraz",
-          "druif": "Shiraz",
-          "smaakprofiel": "Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen",
-          "omschrijving": "De volle body, donkere vruchten en peperige ondertonen van een Barossa Valley Shiraz zijn het enige dat de complexe, gelaagde diepte van een award-winning rendang bijhoudt.",
-          "waarom_werkt_dit": "Blackberry, pruim, donkere chocolade en een vleugje gerookt vlees in de wijn resoneert met de geconcentreerde kokossaus en de geroosterde kerisik. Hoge alcohol (14-15%) draagt het vet; rijpe tannines werken samen met de geconcentreerde bumbu. Rendang is het rijkste, meest complexe gerecht in de Indonesische keuken — de wijn moet evenaardig zijn. Serveer op 17°C."
+          "naam": "South Australian / McLaren Vale Grenache (circa 13-14%, niet zwaar houtgerijpt)",
+          "druif": "Grenache",
+          "smaakprofiel": "Rode kers, framboos, pruim, zwarte peper, gedroogde kruiden, zachte tannine.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Rijp rood fruit sluit aan op donker ingekookte kokos en gula djawa. Peper en kruiden pakken de bumbu op, terwijl zachte tannines de rawit niet extra hard maken. Grenache heeft voldoende body voor rund zonder de alcoholische zwaarte van een grote Shiraz.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
         },
         {
           "type": "alternatief",
-          "naam": "Amarone della Valpolicella",
-          "druif": "Corvina, Rondinella en Corvinone",
-          "smaakprofiel": "Droog tot rijk, gedroogd fruit, cacao, kruidigheid, krachtige structuur",
-          "omschrijving": "Italiaanse tegenpool met dezelfde concentratie en diepte als Barossa Shiraz",
-          "waarom_werkt_dit": "Biedt meer Corvina-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
+          "naam": "Licht off-dry Gewürztraminer",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Lychee, roos, rijpe peer, gember, exotische specerijen.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De aromatiek sluit aan op gember, laos, sereh en limoenblad. Een klein beetje restzoet tempert rawit en geeft rondeur naast de geconcentreerde kruidenmassa.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Pinotage — Swartland of Stellenbosch, Zuid-Afrika",
-          "druif": "Pinotage",
-          "smaakprofiel": "Droog, donker fruit, pruim, rook, koffie, zachte tannines, kruidig",
-          "omschrijving": "Zuid-Afrikaanse rode wijn met rokerige diepte en sappig donker fruit.",
-          "waarom_werkt_dit": "Pinotage geeft rook, pruim en een licht koffieachtig randje; dat past sterk bij gegrild vlees, ketjap, saté, paprika en donkere marinades. Het aromatische profiel vangt zoet, zuur en pittigheid op zonder bitter of alcoholisch te worden."
+          "type": "meest-toegankelijk",
+          "naam": "Gamay / Cru Beaujolais",
+          "druif": "Gamay",
+          "smaakprofiel": "Kers, framboos, viooltjes, peper, lage tannine.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Het sappige fruit houdt de donkere rendang fris, de lage tannine botst niet met chili en de zuren reinigen na kokos, rund en ambu-ambu.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         }
-      ],
-      "wine": {
-        "naam": "Barossa Valley Shiraz",
-        "druif": "Shiraz",
-        "toelichting": "De volle body, donkere vruchten en peperige ondertonen van een Barossa Valley Shiraz zijn het enige dat de complexe, gelaagde diepte van een award-winning rendang bijhoudt. Blackberry, pruim, donkere chocolade en een vleugje gerookt vlees in de wijn resoneert met de geconcentreerde kokossaus en de geroosterde kerisik. Hoge alcohol (14-15%) draagt het vet; rijpe tannines werken samen met de geconcentreerde bumbu. Rendang is het rijkste, meest complexe gerecht in de Indonesische keuken — de wijn moet evenaardig zijn. Serveer op 17°C.",
-        "alternatief": "Amarone della Valpolicella — Italiaanse tegenpool met dezelfde concentratie en diepte als Barossa Shiraz"
-      },
-      "tips_full": [
-        "kerisik is niet optioneel — het is het onderscheid tussen gewone en award-winning rendang. Maak hem van tevoren en bewaar droog. Gebruik sucadelap, niet riblap.",
-        "Techniek: oven op 110°C met eerste 3 uur afgedekt, laatste uur zonder deksel — dat laatste uur droogt de saus in en hecht de kerisik aan het vlees. Dat is het moment van de rendang.",
-        "Presentatie: een goede rendang heeft geen zichtbare saus — alleen droog, donkerbruin, glanzend vlees bedekt met kerisik. Als er veel vocht zichtbaar is, is hij nog niet klaar.",
-        "Variatie: voeg een stuk gedroogde tamarinde toe aan de saus voor extra zure diepte, of een extra stuk galanga voor een scherpere, aardsere ondertoon.",
-        "Alternatief: geen sucadelap? Gebruik korte rib (short rib) — meer vet, meer collageen, smelt nog malser na vier uur en geeft een rijkere, zwaardere rendang.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
       ]
     },
     {
@@ -53649,7 +53629,7 @@
       "full_title_docx": "153. APPEL TATIN 'DECONSTRUCTED' MET BLADERDEEGCRUNCH EN VANILLEROOM"
     },
     {
-      "title": "Ayam Betutu — klein Balinees rijsttafelgerecht met geconcentreerde basa gede",
+      "title": "Ayam Betutu — klein Balinees rijsttafelgerecht met base genep",
       "slug": "ayam-betutu",
       "location": "Bali, Indonesië",
       "time": "45 min voorbereiding + 20-30 min garen",
@@ -53658,8 +53638,8 @@
       "keuken": "Indonesisch",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/ayam-betutu.jpg",
-      "short_description": "Sappige kippendij onder een geconcentreerde, glanzende laag Balinese basa gede — sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi. Intens en complex, maar niet zwaar: het kroonstuk van een rijsttafel, niet een zware kipstoof.",
-      "description": "Ayam Betutu draait volledig om de Balinese basa gede: een explosief aromatische kruidenpasta van sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi. De kippendij gaart kort en zacht onder bananenblad; daarna wordt de bumbu gereduceerd tot een glanzende kruidenlaag rond de sappige kip. Intens en complex, maar niet zwaar — perfect als klein gerecht binnen een rijsttafel.",
+      "short_description": "Sappige kippendij onder een geconcentreerde, glanzende laag Balinese base genep — sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi. De compacte HetProeven-rijsttafelversie van Ayam Betutu.",
+      "description": "Dit is de compacte HetProeven-rijsttafelversie van Ayam Betutu: sappige kippendij met een geconcentreerde Balinese base genep (ook base of basa gede genoemd). Traditioneel wordt Betutu vaak met een hele kip, royaal gekruid, in bananenblad en met lange garing bereid. Hier vertalen we dat smaakprofiel naar een klein, intens gerecht.",
       "ingredient_groups": [
         {
           "group_name": "Voor de kip",
@@ -53673,7 +53653,7 @@
               "amount": "naar smaak"
             },
             {
-              "name": "neutrale olie of kokosolie",
+              "name": "kokosolie, of neutrale olie als alternatief",
               "amount": "2 el"
             },
             {
@@ -53704,7 +53684,7 @@
           ]
         },
         {
-          "group_name": "Voor de bumbu (basa gede)",
+          "group_name": "Voor de bumbu (base genep)",
           "ingredients": [
             {
               "name": "sjalotten",
@@ -53780,7 +53760,7 @@
           "group_name": "Voor de afwerking",
           "ingredients": [
             {
-              "name": "flinterdunne rauwe sjalot",
+              "name": "krokant gebakken sjalot",
               "amount": "naar smaak"
             },
             {
@@ -53788,11 +53768,11 @@
               "amount": "naar smaak"
             },
             {
-              "name": "zeer dunne ringetjes rawit (optioneel)",
+              "name": "flinterdunne rauwe sjalot (optioneel, spaarzaam)",
               "amount": "naar smaak"
             },
             {
-              "name": "krokant gebakken sjalot",
+              "name": "zeer dunne ringetjes rawit (optioneel, spaarzaam)",
               "amount": "naar smaak"
             }
           ]
@@ -53813,7 +53793,7 @@
         },
         {
           "action": "Kip toevoegen en garen",
-          "description": "Voeg de sereh, limoenblaadjes en daun salam toe en bak 1 minuut mee. Voeg de kip toe en schep om tot alle stukken bedekt zijn met bumbu. Schenk de bouillon of het water erbij. Leg eventueel het pisangblad direct op de kip, doe het deksel op de pan en laat 20-30 minuten zeer zacht garen tot de kip sappig en mals is, maar nog als mooie, intacte stukken."
+          "description": "Voeg de sereh, limoenblaadjes en daun salam toe en bak 1 minuut mee. Voeg de kip toe en schep om tot alle stukken bedekt zijn met bumbu. Schenk de bouillon of het water erbij. Leg eventueel het pisangblad direct op de kip — traditioneel draagt bananenblad bij aan de bereiding en het aroma, in deze compacte rijsttafelversie is het niet noodzakelijk. Doe het deksel op de pan en laat 20-30 minuten zeer zacht garen tot de kip sappig en mals is, maar nog als mooie, intacte stukken."
         },
         {
           "action": "Kip apart zetten en bumbu reduceren",
@@ -53825,68 +53805,67 @@
         },
         {
           "action": "Serveren",
-          "description": "Schep de Ayam Betutu in een klein, warm schaaltje. Werk af met een paar flintertjes rauwe sjalot, flinterdun limoenblad, eventueel een paar dunne ringetjes rawit en een klein beetje krokante sjalot. Rijst staat apart op de rijsttafel."
+          "description": "Schep de Ayam Betutu in een klein, warm schaaltje. Werk af met krokante sjalot en enkele flintertjes limoenblad; eventueel spaarzaam wat rauwe sjalot of dunne ringetjes rawit. Rijst staat apart op de rijsttafel."
         },
         {
           "action": "Opbouw en presentatie",
-          "description": "Serveer in een klein warm schaaltje: sappige stukken kip duidelijk zichtbaar, royaal bedekt met de glanzende basa gede. Enkele flintertjes sjalot en limoenblad, een klein beetje krokante sjalot erover — verder niets. Het schaaltje moet vooral zeggen: Ayam Betutu, geen generiek Indonesisch gerecht met zes toppings eromheen."
+          "description": "Serveer in een klein warm schaaltje: sappige stukken kip duidelijk zichtbaar, royaal bedekt met de glanzende base genep. Krokante sjalot en limoenblad als vaste afwerking — verder niets. Het schaaltje moet vooral zeggen: Ayam Betutu, geen generiek Indonesisch gerecht met zes toppings eromheen."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Door de kip pas na het garen uit de pan te halen en de bumbu apart te reduceren, krijg je het beste van twee werelden: sappige, mals gegaarde kip én een extreem geconcentreerde, glanzende kruidenlaag die niet had kunnen ontstaan als alles samen was blijven pruttelen. De relatief grote hoeveelheid bumbu ten opzichte van de kip zorgt dat de Balinese basa gede — sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi — echt de hoofdrol speelt, precies wat een klein, intens rijsttafelgerecht nodig heeft."
+          "description": "Door de kip pas na het garen uit de pan te halen en de bumbu apart te reduceren, krijg je het beste van twee werelden: sappige, mals gegaarde kip én een extreem geconcentreerde, glanzende kruidenlaag die niet had kunnen ontstaan als alles samen was blijven pruttelen. De relatief grote hoeveelheid bumbu ten opzichte van de kip zorgt dat de Balinese base genep — sjalot, laos, gember, kurkuma, kencur, sereh, kemiri en trassi — echt de hoofdrol speelt, precies wat een klein, intens rijsttafelgerecht nodig heeft."
         }
       ],
-      "chef_tip": "Bumbu echt gaar bakken — niet inkorten: de smaak van betutu staat of valt met deze stap. De olie moet zichtbaar uittreden en de pasta moet donker, glanzend en diep geurig zijn. Te kort gebakken bumbu blijft scherp en rauw.\n\nKencur is karakteristiek, maar lastig verkrijgbaar: deze typisch Balinese wortel heeft een kamferachtige, frisse kruidigheid. Verse kencur of kencurpoeder bij de Aziatische toko — laat desnoods weg, maar gebruik geen vervanger.\n\nKemiri vervangen: kemiri is de eerste keuze. Geen kemiri-noten? Macadamia is een goede noodvervanger. Cashew kan eventueel, maar geeft niet exact hetzelfde, rijke karakter.\n\nTrassi geroosterd, niet rauw: wikkel het stukje trassi in folie of leg het kort in een droge pan tot het rookt en nootachtig ruikt. Dan ontstaat de diepe umami.\n\nPisangblad is mooi, maar niet verplicht: geeft een subtiel grasachtig aroma tijdens het stoven. Diepvries bij de toko. Niet in huis? Laat weg.\n\nKant-en-klare gebakken uitjes zijn hier perfect: goede Aziatische krokante sjalot uit een potje geeft precies de juiste crunch — zelf frituren is onnodig.\n\nVariatie: hele kip of eend voor een traditionelere versie: wrijf in met de bumbu, wikkel in pisangblad, stoom 1,5-2 uur en rooster 30 minuten af in de oven op 180°C.\n\nVooruitwerken: de bumbu kan prima een dag vooraf gemaakt en gekoeld bewaard worden. Dat maakt dit gerecht tijdens een grote rijsttafel veel makkelijker af te maken.\n\nRestaurantgeheim: gaar de kippendij niet door tot hij uit elkaar valt. Haal de kip uit de pan zodra hij sappig en mals is en reduceer daarna alleen de bumbu. Zo krijg je het beste van twee werelden: sappige kip én de extreem geconcentreerde, glanzende kruidenlaag die goede Betutu zo onweerstaanbaar maakt.",
+      "chef_tip": "Bumbu echt gaar bakken — niet inkorten: de smaak van betutu staat of valt met deze stap. De olie moet zichtbaar uittreden en de pasta moet donker, glanzend en diep geurig zijn. Te kort gebakken bumbu blijft scherp en rauw.\n\nKencur is karakteristiek, maar lastig verkrijgbaar: deze typisch Balinese wortel heeft een kamferachtige, frisse kruidigheid. Verse kencur of kencurpoeder bij de Aziatische toko — laat desnoods weg, maar gebruik geen vervanger.\n\nKemiri vervangen: kemiri is de eerste keuze. Geen kemiri-noten? Macadamia is een goede noodvervanger. Cashew kan eventueel, maar geeft niet exact hetzelfde, rijke karakter.\n\nTrassi kort roosteren, niet verbranden: wikkel het stukje trassi in folie of leg het kort in een droge pan tot het intens geurig is, zonder te verbranden. Dan ontstaat de diepe umami.\n\nPisangblad is mooi, maar niet verplicht: geeft een subtiel grasachtig aroma tijdens het stoven. Diepvries bij de toko. Niet in huis? Laat weg.\n\nKant-en-klare gebakken uitjes zijn hier perfect: goede Aziatische krokante sjalot uit een potje geeft precies de juiste crunch — zelf frituren is onnodig.\n\nVariatie: voor een traditionelere hele-kipversie: wrijf en vul de kip royaal met base genep, wikkel strak in bananenblad en stoom circa 1½-2 uur tot mals. Voor een geroosterd accent kan de kip daarna nog kort, circa 10-20 minuten, bij ongeveer 180°C kleuren.\n\nVooruitwerken: de bumbu kan prima een dag vooraf gemaakt en gekoeld bewaard worden. Dat maakt dit gerecht tijdens een grote rijsttafel veel makkelijker af te maken.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Stoneburn Gewürztraminer (Marlborough, Nieuw-Zeeland, ongehout)",
+          "naam": "Licht off-dry Gewürztraminer (bij voorkeur New World / Marlborough)",
           "druif": "Gewürztraminer",
-          "smaakprofiel": "Lychee, rijpe peer, guave en ander tropisch fruit, met florale tonen en warme specerijen, een rond mondgevoel en een aromatisch maar droog karakter.",
+          "smaakprofiel": "Lychee, roos, rijpe peer, guave, gember en warme specerijen; aromatisch, rond, met een klein beetje restzoet.",
           "omschrijving": "",
-          "waarom_werkt_dit": "Het uitgesproken aromatische karakter kan de basa gede aan en sluit prachtig aan bij kencur, sereh, gember, laos en limoenblad.",
+          "waarom_werkt_dit": "Het exotische parfum sluit direct aan op sereh, limoenblad, gember, laos en kencur. Een klein beetje restzoet verzacht rawit, terwijl het aromatische mondgevoel sterk genoeg blijft voor de geconcentreerde base genep.",
           "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
           "type": "alternatief",
-          "naam": "Chenin Blanc (Zuid-Afrika, droog en ongehout)",
+          "naam": "Chenin Blanc met lichte restzoetheid",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Gele appel, rijpe peer, kweepeer en witte perzik, met subtiele florale en kruidige tonen en frisse maar niet scherpe zuren.",
+          "smaakprofiel": "Kweepeer, gele appel, peer, witte perzik, lichte honing/wax, frisse zuren.",
           "omschrijving": "",
-          "waarom_werkt_dit": "Voldoende rijp fruit voor de krachtige bumbu, terwijl de frisheid de olie en kippendij licht houdt.",
-          "serveertemperatuur": "Serveer rond 9-10°C."
+          "waarom_werkt_dit": "De zuren verfrissen kokosolie en kippendij, terwijl een klein beetje restzoet de rawit afrondt. Kweepeer en peer sluiten aan op gula djawa en de langzaam gebakken kruidenpasta.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Morgon / Cru Beaujolais (Gamay, zonder merkbaar hout)",
+          "naam": "Gamay / lichte Cru Beaujolais",
           "druif": "Gamay",
-          "smaakprofiel": "Sappige kers, framboos en braam, met viooltjes, een subtiele peperige ondertoon en zachte tannines.",
+          "smaakprofiel": "Kers, framboos, viooltjes, subtiele peper, weinig tannine.",
           "omschrijving": "",
-          "waarom_werkt_dit": "Niet de theoretisch perfecte Betutu-wijn, maar wel de beste rode concessiewijn binnen de complete rijsttafel.",
-          "serveertemperatuur": "Serveer licht gekoeld, rond 13-14°C."
+          "waarom_werkt_dit": "Het sappige rode fruit past bij kip en gebakken specerijen, terwijl de lage tannine de chili niet versterkt. Licht gekoeld blijft Gamay fris naast de intens aromatische bumbu.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         }
       ]
     },
     {
       "title": "Daging Se'i-Stijl: Gerookt Rund met Sambal Lu'at",
       "slug": "daging-sei-stijl-gerookt-rund-sambal-luat",
-      "location": "Oost-Nusa Tenggara, Indonesië",
+      "location": "Rote, Oost-Nusa Tenggara, Indonesië",
       "time": "35 min + 30 min marineren",
       "servings": "4 kleine/middelgrote porties",
       "difficulty": "Makkelijk",
       "keuken": "Indonesisch",
       "categorie": "vlees",
       "image": "/assets/images/daging-sei-stijl-gerookt-rund-sambal-luat.jpg",
-      "short_description": "Verfijnde interpretatie van se'i sapi: dun gesneden entrecôte kort gegrild met beukenrook, lauwwarm geserveerd met sambal lu'at van rauwe chili, sjalot, tomaat, kemangi en limoen — rokerig, licht en helder.",
-      "description": "Een verfijnde interpretatie van se'i sapi uit Oost-Nusa Tenggara: dun gesneden entrecôte kort gegrild met een vleugje beukenrook, geserveerd lauwwarm met sambal lu'at — een vurige, frisse sambal van rauwe chili, sjalot, tomaat, kemangi en limoen. Totaal anders dan rendang: droger, lichter, rokeriger en helder van smaak. Klein en strak op het bord, perfect als rokerige stap in een Indonesische rijsttafel.",
-      "full_intro": "Een verfijnde interpretatie van se'i sapi uit Oost-Nusa Tenggara: dun gesneden entrecôte kort gegrild met een vleugje beukenrook, geserveerd lauwwarm met sambal lu'at — een vurige, frisse sambal van rauwe chili, sjalot, tomaat, kemangi en limoen. Totaal anders dan rendang: droger, lichter, rokeriger en helder van smaak. Klein en strak op het bord, perfect als rokerige stap in een Indonesische rijsttafel.",
+      "short_description": "Kort gerookte, dun gesneden entrecôte, lauwwarm geserveerd met sambal lu'at van rauwe chili, sjalot, tomaat, kemangi en limoenzeste — de verfijnde HetProeven-interpretatie van se'i uit Rote/NTT.",
+      "description": "Traditionele se'i komt uit Rote, Oost-Nusa Tenggara (NTT), waar lange repen rundvlees langzaam worden gerookt, klassiek vaak boven kosambi-hout. Dit is de verfijnde, snelle HetProeven-interpretatie met dun gesneden entrecôte, geserveerd lauwwarm met een frisse sambal lu'at van rauwe chili, sjalot, tomaat, kemangi en limoen. Totaal anders dan rendang: droger, lichter, rokeriger en helder van smaak.",
       "ingredient_groups": [
         {
           "group_name": "Voor het rundvlees",
           "ingredients": [
             {
-              "name": "entrecôte in één geheel (ca. 3cm dik)",
-              "amount": "450g"
+              "name": "entrecôte in één geheel (ca. 3 cm dik)",
+              "amount": "450 g"
             },
             {
               "name": "grof zeezout",
@@ -53918,15 +53897,15 @@
           "group_name": "Voor de rook",
           "ingredients": [
             {
-              "name": "rookchips (beuk, appel of eik), 20 min geweekt in water",
+              "name": "rookchips (beuk, appel of eik — traditioneel wordt kosambi-hout gebruikt), 20 min geweekt in water",
               "amount": "2 el"
             },
             {
               "name": "aluminiumfolie",
-              "amount": ""
+              "amount": "naar behoefte"
             },
             {
-              "name": "of als shortcut: gerookt paprikapoeder toegevoegd aan de marinade",
+              "name": "gerookt paprikapoeder, alleen als noodoplossing zonder rookchips",
               "amount": "½ tl"
             }
           ]
@@ -53940,14 +53919,14 @@
             },
             {
               "name": "rode bird's eye-chilies (rawit), fijn gehakt",
-              "amount": "1–2"
+              "amount": "1-2"
             },
             {
               "name": "sjalotten, zeer fijn gesneden",
               "amount": "3"
             },
             {
-              "name": "kleine rijpe tomaten (pomodorino of San Marzano), zonder zaadjes, fijn gehakt",
+              "name": "kleine rijpe tomaten, zonder zaadjes, fijn gehakt",
               "amount": "2"
             },
             {
@@ -53955,8 +53934,12 @@
               "amount": "1"
             },
             {
-              "name": "limoenblaadjes (djeruk purut), middennerf eruit, flinterdun gesneden",
-              "amount": "4"
+              "name": "zeer fijne julienne/zeste van onbehandelde limoen, zonder dik wit merg",
+              "amount": "van ½ limoen"
+            },
+            {
+              "name": "flinterdun gesneden daun jeruk (optioneel, HetProeven-accent)",
+              "amount": "1"
             },
             {
               "name": "limoensap",
@@ -53997,173 +53980,80 @@
             },
             {
               "name": "blaadjes hele kemangi of Thaise basilicum",
-              "amount": ""
+              "amount": "naar smaak"
             },
             {
               "name": "kort geblancheerde spinazie of waterspinazie, of warme jasmijnrijst (optioneel)",
-              "amount": ""
+              "amount": "naar smaak"
             }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor het rundvlees",
-          "ingredients": [
-            "450g entrecôte in één geheel (ca. 3cm dik)",
-            "1½ tl grof zeezout",
-            "1 tl lichte palmsuiker of basterdsuiker",
-            "1 tl korianderzaad, gemalen",
-            "½ tl zwarte peper, vers gemalen",
-            "½ tl knoflookpoeder",
-            "1 el neutrale olie"
-          ]
-        },
-        {
-          "group_name": "Voor de rook (optioneel maar aanbevolen)",
-          "ingredients": [
-            "2 el rookchips (beuk, appel of eik), 20 min geweekt in water",
-            "Aluminiumfolie",
-            "Of als shortcut: ½ tl gerookt paprikapoeder toegevoegd aan de marinade"
-          ]
-        },
-        {
-          "group_name": "Voor de sambal lu'at",
-          "ingredients": [
-            "2 rode Spaanse pepers (lombok), zonder zaadlijst, zeer fijn gehakt",
-            "1–2 rode bird's eye-chilies (rawit), fijn gehakt",
-            "3 sjalotten, zeer fijn gesneden",
-            "2 kleine rijpe tomaten (pomodorino of San Marzano), zonder zaadjes, fijn gehakt",
-            "1 teen knoflook, zeer fijn (optioneel)",
-            "4 limoenblaadjes (djeruk purut), middennerf eruit, flinterdun gesneden",
-            "Sap van 1 limoen",
-            "½ tl fijne palmsuiker of kristalsuiker",
-            "1 tl zeezout",
-            "1 el neutrale olie",
-            "1 royale handvol kemangi (Indonesisch citroenbasilicum) of Thaise basilicum, fijn gehakt",
-            "Optioneel: ½ tl terasi, geroosterd en fijngewreven"
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            "1 limoen, in partjes",
-            "2 el krokant gebakken uitjes",
-            "Enkele blaadjes hele kemangi of Thaise basilicum",
-            "Eventueel: kort geblancheerde spinazie of waterspinazie, of 200g warme jasmijnrijst"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
           "action": "Vlees marineren",
           "description": "Haal het vlees minimaal 30 minuten voor bereiding uit de koelkast. Dep grondig droog. Meng zout, palmsuiker, korianderpoeder, zwarte peper, knoflookpoeder en olie tot een korte marinade. Bij gebruik van de shortcut: voeg ½ tl gerookt paprikapoeder toe. Wrijf het vlees rondom in en laat 30 minuten op kamertemperatuur staan."
         },
         {
-          "number": 2,
           "action": "Sambal lu'at maken",
-          "description": "Hak alle ingrediënten zeer fijn met een scherp mes — niet pureren, de textuur moet rauw en grof blijven. Meng chili, sjalot, tomaat, knoflook, limoenblad, limoensap, palmsuiker, zout en olie in een kom. Knijp lichtjes met je vingers om de aroma's vrij te laten komen. Indien gebruikt: roer een klein beetje geroosterde terasi door. Laat 15 minuten rusten."
+          "description": "Hak alle ingrediënten zeer fijn met een scherp mes — niet pureren, de textuur moet rauw en grof blijven. Meng chili, sjalot, tomaat, knoflook, limoenzeste, limoensap, palmsuiker, zout en olie in een kom. Knijp lichtjes met je vingers om de aroma's vrij te laten komen. Indien gebruikt: roer een klein beetje geroosterde terasi en het flinterdun gesneden daun jeruk erdoor. Dit is een verse sambal lu'at-stijl voor directe service; laat 15 minuten rusten voordat je de kemangi toevoegt."
         },
         {
-          "number": 3,
-          "action": "Rookpakketje en grillen",
-          "description": "Maak het rookpakketje: leg de geweekte rookchips op aluminiumfolie, vouw dicht en prik 5–6 gaatjes. Verhit een gietijzeren grillpan op hoog vuur tot rokend heet. Leg het rookpakketje op een naastliggende pit tot het zichtbaar rookt. Grill de entrecôte 3–4 minuten per kant voor mooi rosé (kerntemperatuur 52–54°C). Verplaats het vlees na het draaien naar een iets koelere zone en dek de pan af 2–3 minuten zodat het rookaroma zich kan hechten. Laat 8–10 minuten rusten onder aluminiumfolie."
+          "action": "Vlees grillen",
+          "description": "Verhit een gietijzeren grillpan of een grote droge pan/wok tot goed heet. Grill de entrecôte hard tot een kerntemperatuur van circa 48-50°C, ongeveer 3-4 minuten per kant."
         },
         {
-          "number": 4,
+          "action": "Roken",
+          "description": "Leg het gegrilde vlees in een grote droge pan of wok. Maak het rookpakketje: leg de geweekte rookchips op aluminiumfolie, vouw dicht en prik 5-6 gaatjes. Leg het rookpakketje in dezelfde pan naast het vlees, zonder dat vlees en pakketje elkaar raken. Verhit tot het pakketje zichtbaar rook produceert, dek de pan dan strak af en rook ongeveer 2-3 minuten — zorg voor goede ventilatie en laat het hout niet vlammen. Het vlees moet nu op circa 52-54°C uitkomen voor een mooi rosé resultaat. Laat 8-10 minuten losjes onder folie rusten."
+        },
+        {
           "action": "Snijden en serveren",
-          "description": "Snijd het vlees met een scherp mes flinterdun tegen de draad in — 3 tot 4mm dik. Roer vlak voor het serveren de fijngehakte kemangi door de sambal lu'at. Verdeel het vlees over vier lauwwarme borden in een lichte overlappende waaier. Lepel een hoopje sambal lu'at deels naast, deels over het vlees. Werk af met krokante uitjes, een paar hele blaadjes kemangi en een limoenpartje aan de zijkant."
+          "description": "Snijd het vlees met een scherp mes flinterdun tegen de draad in — 3 tot 4 mm dik. Roer vlak voor het serveren de fijngehakte kemangi door de sambal lu'at. Verdeel het vlees over vier lauwwarme borden in een lichte overlappende waaier. Lepel een hoopje sambal lu'at deels naast, deels over het vlees. Werk af met krokante uitjes, een paar hele blaadjes kemangi en een limoenpartje aan de zijkant."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Donker keramisch bord of warm aardewerk in antraciet, terracotta of warm bruin. Per bord 4 tot 5 dunne plakjes rund in een strakke lage waaier, licht overlappend. Sambal lu'at deels naast, deels over het vlees. Krokante uitjes, blaadjes kemangi en limoenpartje aan de zijkant. Rokerig, warm en krachtig — maar door de heldere sambal fris en levendig."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het vlees eerst hard te grillen en pas daarna in dezelfde afgesloten pan te roken, krijgt het rundvlees een duidelijke korst én een geconcentreerd rookaroma zonder dat het vlees zelf verder doorgaart. Flinterdun snijden tegen de draad maakt zelfs een stevige entrecôte extreem mals. De rauwe, grof gehakte sambal lu'at — met verse limoenzeste in plaats van alleen blad — geeft precies het felle, frisse tegenwicht dat de rokerige, hartige kern van dit gerecht nodig heeft."
         }
       ],
-      "steps_full": [
-        {
-          "number": 1,
-          "section": "Vlees marineren",
-          "description": "Haal het vlees minimaal 30 minuten voor bereiding uit de koelkast. Dep grondig droog. Meng zout, palmsuiker, korianderpoeder, zwarte peper, knoflookpoeder en olie tot een korte marinade. Bij gebruik van de shortcut: voeg ½ tl gerookt paprikapoeder toe. Wrijf het vlees rondom in en laat 30 minuten op kamertemperatuur staan."
-        },
-        {
-          "number": 2,
-          "section": "Sambal lu'at maken",
-          "description": "Hak alle ingrediënten zeer fijn met een scherp mes — niet pureren, de textuur moet rauw en grof blijven. Meng chili, sjalot, tomaat, knoflook, limoenblad, limoensap, palmsuiker, zout en olie in een kom. Knijp lichtjes met je vingers om de aroma's vrij te laten komen. Indien gebruikt: roer een klein beetje geroosterde terasi door. Laat 15 minuten rusten."
-        },
-        {
-          "number": 3,
-          "section": "Rookpakketje en grillen",
-          "description": "Maak het rookpakketje: leg de geweekte rookchips op aluminiumfolie, vouw dicht en prik 5–6 gaatjes. Verhit een gietijzeren grillpan op hoog vuur tot rokend heet. Leg het rookpakketje op een naastliggende pit tot het zichtbaar rookt. Grill de entrecôte 3–4 minuten per kant voor mooi rosé (kerntemperatuur 52–54°C). Verplaats het vlees na het draaien naar een iets koelere zone en dek de pan af 2–3 minuten zodat het rookaroma zich kan hechten. Laat 8–10 minuten rusten onder aluminiumfolie."
-        },
-        {
-          "number": 4,
-          "section": "Snijden en serveren",
-          "description": "Snijd het vlees met een scherp mes flinterdun tegen de draad in — 3 tot 4mm dik. Roer vlak voor het serveren de fijngehakte kemangi door de sambal lu'at. Verdeel het vlees over vier lauwwarme borden in een lichte overlappende waaier. Lepel een hoopje sambal lu'at deels naast, deels over het vlees. Werk af met krokante uitjes, een paar hele blaadjes kemangi en een limoenpartje aan de zijkant."
-        }
-      ],
-      "tips": [
-        "Entrecôte is hier de eerste keuze: het vet absorbeert rook prachtig en geeft veel smaak. Voor een luxer resultaat is ossenhaas een alternatief — sneller gegaard (2–3 min per kant) maar minder uitgesproken van smaak.",
-        "Snijd altijd dwars op de draad: bekijk de richting van de vezels en snijd er loodrecht op. Dunne plakken (3–4mm) maken zelfs ferm vlees extreem mals.",
-        "Vlees op kamertemperatuur voor het grillen: koud uit de koelkast geeft ongelijke garing. Minimaal 30 minuten op het aanrecht.",
-        "Rookpakketje maakt het verschil — of gebruik de shortcut: de rokerigheid is de signatuur van se'i. Geen rookchips? Een ½ tl gerookt paprikapoeder in de marinade geeft een werkbare illusie.",
-        "Sambal lu'at moet rauw, grof en fris zijn: alles fijnhakken met een scherp mes, niet pureren. De textuur en de afzonderlijke smaken moeten herkenbaar blijven.",
-        "Basilicum/kemangi pas op het laatste moment: verse groene kruiden verliezen snel hun frisheid in zure marinade. Roer pas door vlak voor serveren.",
-        "Lauwwarm serveren, niet heet: op handwarme temperatuur komen rook, rundvlees en limoen het beste tot hun recht. Bord lichtjes voorverwarmen, niet gloeiend.",
-        "Variatie: varkenshaas voor authentiek se'i: origineel werd se'i met varken gemaakt. Vervang door varkenshaas of dun gesneden varkensschouder, grillen tot 60°C kerntemperatuur."
-      ],
-      "tips_full": [
-        "Entrecôte is hier de eerste keuze: het vet absorbeert rook prachtig en geeft veel smaak. Voor een luxer resultaat is ossenhaas een alternatief — sneller gegaard (2–3 min per kant) maar minder uitgesproken van smaak.",
-        "Snijd altijd dwars op de draad: bekijk de richting van de vezels en snijd er loodrecht op. Dunne plakken (3–4mm) maken zelfs ferm vlees extreem mals.",
-        "Vlees op kamertemperatuur voor het grillen: koud uit de koelkast geeft ongelijke garing. Minimaal 30 minuten op het aanrecht.",
-        "Rookpakketje maakt het verschil — of gebruik de shortcut: de rokerigheid is de signatuur van se'i. Geen rookchips? Een ½ tl gerookt paprikapoeder in de marinade geeft een werkbare illusie.",
-        "Sambal lu'at moet rauw, grof en fris zijn: alles fijnhakken met een scherp mes, niet pureren. De textuur en de afzonderlijke smaken moeten herkenbaar blijven.",
-        "Basilicum/kemangi pas op het laatste moment: verse groene kruiden verliezen snel hun frisheid in zure marinade. Roer pas door vlak voor serveren.",
-        "Lauwwarm serveren, niet heet: op handwarme temperatuur komen rook, rundvlees en limoen het beste tot hun recht. Bord lichtjes voorverwarmen, niet gloeiend.",
-        "Variatie: varkenshaas voor authentiek se'i: origineel werd se'i met varken gemaakt. Vervang door varkenshaas of dun gesneden varkensschouder, grillen tot 60°C kerntemperatuur."
-      ],
-      "opmaak_presentatie": "Donker keramisch bord of warm aardewerk in antraciet, terracotta of warm bruin. Per bord 4 tot 5 dunne plakjes rund in een strakke lage waaier — licht overlappend. Sambal lu'at deels naast, deels over het vlees. Krokante uitjes, blaadjes kemangi en limoenpartje aan de zijkant. Rokerig, warm en krachtig — maar door de heldere sambal fris en levendig.",
+      "chef_tip": "Entrecôte is hier de eerste keuze: het vet absorbeert rook prachtig en geeft veel smaak. Voor een luxer resultaat is ossenhaas een alternatief — sneller gegaard (2-3 min per kant) maar minder uitgesproken van smaak.\n\nSnijd altijd dwars op de draad: bekijk de richting van de vezels en snijd er loodrecht op. Dunne plakken (3-4 mm) maken zelfs ferm vlees extreem mals.\n\nVlees op kamertemperatuur voor het grillen: koud uit de koelkast geeft ongelijke garing. Minimaal 30 minuten op het aanrecht.\n\nRookhout: traditioneel gebruikt men in NTT kosambi-hout. Praktische Europese alternatieven zijn beuk, appel of eik. Gerookt paprikapoeder in de marinade is alleen een noodoplossing voor een rookaccent — geen gelijkwaardige vervanging voor echt roken.\n\nSambal lu'at moet rauw, grof en fris zijn: alles fijnhakken met een scherp mes, niet pureren. Dit is een verse stijl voor directe service; traditioneel bestaan ook varianten die langer rusten.\n\nBasilicum/kemangi pas op het laatste moment: verse groene kruiden verliezen snel hun frisheid. Roer pas door vlak voor serveren.\n\nLauwwarm serveren, niet heet: op handwarme temperatuur komen rook, rundvlees en limoen het beste tot hun recht.\n\nVleesvariatie: in NTT wordt se'i van rund en varken gemaakt. Deze versie gebruikt rund; varkenshaas of dun gesneden varkensschouder, gegrild tot 60°C kerntemperatuur, is eveneens een bekende regionale variant.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Spätburgunder uit Baden of Ahr — Duitsland (licht gekoeld)",
           "druif": "Spätburgunder / Pinot Noir",
-          "smaakprofiel": "Licht tot middelvol, droog, rode kers, framboos, aardbei, subtiele rook, lichte aardse kruidigheid. Zachte tannines, frisse zuren.",
-          "omschrijving": "Een goede Duitse Spätburgunder combineert de elegantie van Bourgogne met iets meer dichtheid. Meyer-Näkel, Bernhard Huber of Friedrich Becker. Serveer licht gekoeld bij 14–15°C.",
-          "waarom_werkt_dit": "Het gerecht is rokerig en hartig maar niet zwaar. Pinot Noir sluit prachtig aan bij sappig rund en de lichte rook, de frisse zuren gaan mooi om met limoen en tomaat in de sambal. Zachte tannines botsen niet met chili."
+          "smaakprofiel": "Rode kers, framboos, wilde aardbei, subtiele aarde, lichte rook/kruiden, frisse zuren, fijne tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Rood fruit past bij rosé rund. Aardse en licht rokerige tonen sluiten aan op de rook, de zuren werken met limoen en tomaat en de lage tannine maakt rawit niet scherper.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
         },
         {
           "type": "alternatief",
           "naam": "Blaufränkisch uit Burgenland — Oostenrijk",
           "druif": "Blaufränkisch",
-          "smaakprofiel": "Middelvol, droog, zwarte kers, bramen, zwarte peper, kruiden, viooltje en hartige ondertoon. Frisse zuren, fijne maar aanwezige tannine.",
-          "omschrijving": "Kruidiger en donkerder dan Pinot Noir, maar fris en energiek door de hoge zuurgraad. Moric, Wachter-Wiesler of Heinrich. Serveren bij 15–16°C.",
-          "waarom_werkt_dit": "De peperige kruidigheid spiegelt direct de zwarte peper in de marinade en de pittigheid van sambal lu'at. De frisse zuren snijden door het rundvet. De meest gastronomische rode keuze."
+          "smaakprofiel": "Zwarte kers, braam, viooltjes, zwarte peper, hartige kruiden, levendige zuren, fijne tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Peper sluit aan op de vleesmarinade. Frisse zuren werken met rund, limoen en tomaat en het donkere fruit kan de rook aan.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Bandol Rosé (Provence) of Etna Rosato (Sicilië)",
-          "druif": "Mourvèdre, Grenache en Cinsault (Bandol); Nerello Mascalese (Etna Rosato)",
-          "smaakprofiel": "Droog, gestructureerd, rood fruit, bloedsinaasappel, kruiden, mineraliteit en bij Etna een lichte rokerigheid. Lichte tannine, frisse zuren.",
-          "omschrijving": "Een serieuze gastronomische rosé. Bandol voller en kruidiger, Etna Rosato met meer mineraliteit en vulkanische rokerigheid. Serveren bij 12–14°C.",
-          "waarom_werkt_dit": "Rosé heeft de frisheid voor limoen en tomaat maar genoeg structuur voor gegrild rund. Etna Rosato heeft een natuurlijke vulkanische rokerigheid die direct spiegelt aan de beukenrook."
+          "type": "meest-toegankelijk",
+          "naam": "Swartland Cinsault — Zuid-Afrika",
+          "druif": "Cinsault",
+          "smaakprofiel": "Rode kers, cranberry, aardbei, rooibos/kruiden, peper, lage tannine.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Het sappige rode fruit past bij het rund, terwijl lage tannine veilig is met chili. Kruidige tonen passen bij rook en kemangi, en de frisse structuur vangt limoen en tomaat op.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         }
-      ],
-      "wine": {
-        "naam": "Spätburgunder uit Baden of Ahr — Duitsland (licht gekoeld)",
-        "druif": "Spätburgunder / Pinot Noir",
-        "toelichting": "Pinot Noir sluit prachtig aan bij sappig rund en de lichte rook, terwijl de frisse zuren mooi omgaan met limoen en tomaat in de sambal. Dunne plakjes lauwwarm rund vragen om een elegante partner, niet om een tannine-bom. Serveer licht gekoeld op 14–15°C.",
-        "alternatief": "Blaufränkisch uit Burgenland of Bandol Rosé / Etna Rosato"
-      },
-      "metadata": {
-        "bereidingstijd": "35 min + 30 min marineren",
-        "porties": "4 kleine/middelgrote porties",
-        "type_gerecht": "Klein hoofdgerecht / tussengerecht",
-        "niveau": "Makkelijk tot gemiddeld"
-      },
-      "source_recipe_number": 155,
-      "full_title_docx": "155. DAGING SE'I-STIJL: GEROOKT RUND MET SAMBAL LU'AT"
+      ]
     },
     {
       "title": "Perkedel Jagung Luxe: Krokante Maiskoekjes met Limoenblad en Chili",
       "slug": "perkedel-jagung-luxe-krokante-maiskoekjes-limoenblad-chili",
-      "location": "Java en Bali, Indonesië",
+      "location": "Manado-invloeden, Indonesië",
       "time": "30 min",
       "servings": "4 porties (8 koekjes)",
       "difficulty": "Makkelijk",
@@ -54171,15 +54061,14 @@
       "categorie": "hapjes-tapas",
       "image": "/assets/images/perkedel-jagung-luxe-krokante-maiskoekjes-limoenblad-chili.jpg",
       "short_description": "Verfijnde Indonesische klassieker: zoete mais met limoenblad, seledri en bosui gebonden met rijstbloem en goudbruin gebakken tot krokante koekjes met sappig hart — met sambal kecap als zoet-zilte dip.",
-      "description": "Een verfijnde versie van de Indonesische klassieker uit Java en Bali. Zoete mais, limoenblad (djeruk purut), seledri en bosui gebonden met ei en rijstbloem en goudbruin gefrituurd tot kleine, krokante maiskoekjes met een sappig hart en aromatische diepte. Geserveerd met klassieke sambal kecap als dip — zoet, ziltig, pittig en fris. Iedereen vindt dit lekker, maar door de juiste kruiden en techniek wordt het culinair.",
-      "full_intro": "Een verfijnde versie van de Indonesische klassieker uit Java en Bali. Zoete mais, limoenblad (djeruk purut), seledri en bosui gebonden met ei en rijstbloem en goudbruin gefrituurd tot kleine, krokante maiskoekjes met een sappig hart en aromatische diepte. Geserveerd met klassieke sambal kecap als dip — zoet, ziltig, pittig en fris. Iedereen vindt dit lekker, maar door de juiste kruiden en techniek wordt het culinair.",
+      "description": "Een verfijnde HetProeven-versie van Indonesische perkedel/bakwan jagung, met duidelijke Manado-invloeden: veel zoete mais, daun jeruk, bosui en seledri. Zoete mais, limoenblad (djeruk purut), seledri en bosui gebonden met ei en rijstbloem en goudbruin gefrituurd tot kleine, krokante maiskoekjes met een sappig hart en aromatische diepte. Geserveerd met klassieke sambal kecap als dip — zoet, ziltig, pittig en fris.",
       "ingredient_groups": [
         {
           "group_name": "Voor de maiskoekjes",
           "ingredients": [
             {
               "name": "maiskorrels (verse mais van 2 kolven, diepvries of goed uitgelekte blikmais)",
-              "amount": "300g"
+              "amount": "300 g"
             },
             {
               "name": "stengels bosui, fijngesneden",
@@ -54206,7 +54095,7 @@
               "amount": "1"
             },
             {
-              "name": "seledri (Indonesisch selderijblad) of korianderblad, fijngehakt",
+              "name": "seledri (Chinese celery/bladselderij), fijngehakt — of koriander als bewuste smaakvariant",
               "amount": "1 royale handvol"
             },
             {
@@ -54215,11 +54104,11 @@
             },
             {
               "name": "rijstbloem",
-              "amount": "35g"
+              "amount": "35 g"
             },
             {
               "name": "tarwebloem",
-              "amount": "20g"
+              "amount": "20 g"
             },
             {
               "name": "bakpoeder",
@@ -54243,7 +54132,7 @@
             },
             {
               "name": "zonnebloem- of arachideolie om in te bakken",
-              "amount": "300ml"
+              "amount": "300 ml"
             }
           ]
         },
@@ -54285,7 +54174,7 @@
             },
             {
               "name": "blaadjes seledri of koriander",
-              "amount": ""
+              "amount": "naar smaak"
             },
             {
               "name": "stengel bosui, fijngesneden",
@@ -54298,155 +54187,62 @@
           ]
         }
       ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de maiskoekjes",
-          "ingredients": [
-            "300g maiskorrels (verse mais van 2 kolven, diepvries of goed uitgelekte blikmais)",
-            "2 stengels bosui, fijngesneden",
-            "1 rode Spaanse peper (lombok), zonder zaadlijst, fijngehakt",
-            "1 rode bird's eye-chili (rawit), fijngehakt (optioneel)",
-            "4 limoenblaadjes (djeruk purut), middennerf eruit, flinterdun gesneden",
-            "1 sjalot, zeer fijn gesneden",
-            "1 teen knoflook, fijngeperst",
-            "1 royale handvol seledri (Indonesisch selderijblad) of korianderblad, fijngehakt",
-            "1 groot ei",
-            "35g rijstbloem",
-            "20g tarwebloem",
-            "½ tl bakpoeder",
-            "½ tl korianderpoeder",
-            "1 tl lichte sojasaus",
-            "½ tl fijn zeezout",
-            "¼ tl witte peper",
-            "300ml zonnebloem- of arachideolie om in te bakken"
-          ]
-        },
-        {
-          "group_name": "Voor de sambal kecap-dip",
-          "ingredients": [
-            "4 el kecap manis (Indonesische zoete sojasaus)",
-            "1 el limoensap",
-            "1 rode Spaanse peper, zonder zaadlijst, zeer fijn gehakt",
-            "1 rode bird's eye-chili (rawit), fijn gehakt",
-            "1 sjalot, zeer fijn gesneden",
-            "1 kleine rijpe tomaat, zonder zaadjes, in mini brunoise (optioneel)"
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            "1 limoen, in partjes",
-            "Enkele blaadjes seledri of koriander",
-            "1 stengel bosui, fijngesneden",
-            "Eventueel: 2 el krokant gebakken uitjes"
-          ]
-        }
-      ],
       "steps": [
         {
-          "number": 1,
           "action": "Beslag maken",
-          "description": "Dep de maiskorrels grondig droog. Houd ongeveer een derde apart. Stamp of pulseer de rest kort in een hakmolen tot een grove massa — niet pureren. Meng in een ruime kom de gepulseerde en hele mais met bosui, lombok, rawit, fijngesneden limoenblad, sjalot, knoflook en seledri. Voeg het ei, rijstbloem, tarwebloem, bakpoeder, korianderpoeder, sojasaus, zout en witte peper toe. Meng tot een stevig, grof beslag dat net samenhangt — schepbaar maar niet vloeibaar. Laat 5–10 minuten rusten."
+          "description": "Dep de maiskorrels grondig droog. Houd ongeveer een derde apart. Stamp of pulseer de rest kort in een hakmolen tot een grove massa — niet pureren. Meng in een ruime kom de gepulseerde en hele mais met bosui, lombok, rawit, fijngesneden limoenblad, sjalot, knoflook en seledri. Voeg het ei, rijstbloem, tarwebloem, bakpoeder, korianderpoeder, sojasaus, zout en witte peper toe. Meng tot een stevig, grof beslag dat net samenhangt — schepbaar maar niet vloeibaar. Laat 5-10 minuten rusten."
         },
         {
-          "number": 2,
           "action": "Sambal kecap-dip maken",
           "description": "Meng alle ingrediënten in een kommetje en laat 10 minuten staan voor de smaken zich verbinden."
         },
         {
-          "number": 3,
           "action": "Bakken",
-          "description": "Verhit de olie in een ruime koekenpan tot ongeveer 170°C. Bak eerst één proefkoekje om smaak en structuur te checken — corrigeer eventueel zout, chili of structuur. Schep met een eetlepel ronde hoopjes beslag in de hete olie. Druk lichtjes plat met de bol van de lepel tot schijfjes van 4–5cm doorsnede. Bak per keer 4 koekjes — niet te vol. Bak 2 tot 3 minuten per kant tot diep goudbruin en krokant. Laat kort uitlekken op keukenpapier. Bak de rest in batches."
+          "description": "Verhit de olie in een ruime koekenpan tot ongeveer 170°C. Bak eerst één proefkoekje om smaak en structuur te checken — corrigeer eventueel zout, chili of structuur. Schep met een eetlepel ronde hoopjes beslag in de hete olie. Druk lichtjes plat met de bol van de lepel tot schijfjes van 4-5 cm doorsnede. Bak per keer 4 koekjes — niet te vol. Bak 2 tot 3 minuten per kant tot diep goudbruin en krokant. Laat kort uitlekken op keukenpapier. Bak de rest in batches."
         },
         {
-          "number": 4,
           "action": "Serveren",
           "description": "Schik 2 koekjes per bord met een klein kommetje sambal kecap ernaast. Werk af met een limoenpartje, enkele blaadjes seledri, fijngesneden bosui en eventueel een snuf krokante uitjes. Direct serveren — warm en krokant."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Kleine warme borden of donkere tegels in antraciet, terracotta of aardewerk. 2 koekjes per bord, licht overlappend. Kommetje sambal kecap ernaast. Groene blaadjes seledri of koriander, fijngesneden bosui, limoenpartje en eventueel krokante uitjes. Rustig houden — de koekjes spreken voor zichzelf."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door een derde van de mais heel te laten en twee derde grof te pulseren, krijg je zowel bite als binding in hetzelfde koekje. Rijstbloem geeft in deze HetProeven-versie extra krokantheid en een kleine hoeveelheid bakpoeder zorgt voor een wat luchtiger binnenste. Door limoenblad zeer fijn te snijden komt de aromatische olie beter vrij zonder taaie stukjes achter te laten. De zoet-zilte sambal kecap geeft precies het contrast dat de zoete mais nodig heeft."
         }
       ],
-      "steps_full": [
-        {
-          "number": 1,
-          "section": "Beslag maken",
-          "description": "Dep de maiskorrels grondig droog. Houd ongeveer een derde apart. Stamp of pulseer de rest kort in een hakmolen tot een grove massa — niet pureren. Meng in een ruime kom de gepulseerde en hele mais met bosui, lombok, rawit, fijngesneden limoenblad, sjalot, knoflook en seledri. Voeg het ei, rijstbloem, tarwebloem, bakpoeder, korianderpoeder, sojasaus, zout en witte peper toe. Meng tot een stevig, grof beslag dat net samenhangt — schepbaar maar niet vloeibaar. Laat 5–10 minuten rusten."
-        },
-        {
-          "number": 2,
-          "section": "Sambal kecap-dip maken",
-          "description": "Meng alle ingrediënten in een kommetje en laat 10 minuten staan voor de smaken zich verbinden."
-        },
-        {
-          "number": 3,
-          "section": "Bakken",
-          "description": "Verhit de olie in een ruime koekenpan tot ongeveer 170°C. Bak eerst één proefkoekje om smaak en structuur te checken — corrigeer eventueel zout, chili of structuur. Schep met een eetlepel ronde hoopjes beslag in de hete olie. Druk lichtjes plat met de bol van de lepel tot schijfjes van 4–5cm doorsnede. Bak per keer 4 koekjes — niet te vol. Bak 2 tot 3 minuten per kant tot diep goudbruin en krokant. Laat kort uitlekken op keukenpapier. Bak de rest in batches."
-        },
-        {
-          "number": 4,
-          "section": "Serveren",
-          "description": "Schik 2 koekjes per bord met een klein kommetje sambal kecap ernaast. Werk af met een limoenpartje, enkele blaadjes seledri, fijngesneden bosui en eventueel een snuf krokante uitjes. Direct serveren — warm en krokant."
-        }
-      ],
-      "tips": [
-        "Verse mais is best, maar blikmais is prima: verse mais van de kolf geeft optimale zoetheid en crunch, maar goed uitgelekte blikmais is een betrouwbare keuze. Altijd grondig droogdeppen.",
-        "Niet alle mais pureren: een derde hele korrels en twee derde grof gestampt geeft het ideale evenwicht — hele korrels voor beet, gepulseerde mais voor binding.",
-        "Rijstbloem en bakpoeder maken het verschil: rijstbloem geeft de karakteristieke knapperige korst. Bakpoeder zorgt voor luchtigheid in het binnenste. Beide essentieel.",
-        "Limoenblad zeer fijn snijden: verwijder de stevige middennerf en snijd flinterdun — anders krijg je taaie stukjes. De aromatische olie komt dan ook beter vrij.",
-        "Eerste proefkoekje bakken is slim: test smaak en structuur met één koekje. Te zout, te flauw, te plat — alles is nog te corrigeren in het resterende beslag.",
-        "Olie op middelhoog vuur, niet te heet: te koud (onder 160°C) zuigen de koekjes olie op. Te heet (boven 180°C) verbrandt de buitenkant. 170°C is de sweet spot.",
-        "Direct serveren: perkedel jagung verliest snel zijn crunch. Beslag een uur vooraf maken en koud zetten, maar bakken op het laatste moment.",
-        "Variatie: garnaal of mildere dip: voor luxere versie 100g grof gehakte rauwe garnalen door het beslag. Voor mildere dip: mayonaise + yoghurt + sambal oelek + limoensap."
-      ],
-      "tips_full": [
-        "Verse mais is best, maar blikmais is prima: verse mais van de kolf geeft optimale zoetheid en crunch, maar goed uitgelekte blikmais is een betrouwbare keuze. Altijd grondig droogdeppen.",
-        "Niet alle mais pureren: een derde hele korrels en twee derde grof gestampt geeft het ideale evenwicht — hele korrels voor beet, gepulseerde mais voor binding.",
-        "Rijstbloem en bakpoeder maken het verschil: rijstbloem geeft de karakteristieke knapperige korst. Bakpoeder zorgt voor luchtigheid in het binnenste. Beide essentieel.",
-        "Limoenblad zeer fijn snijden: verwijder de stevige middennerf en snijd flinterdun — anders krijg je taaie stukjes. De aromatische olie komt dan ook beter vrij.",
-        "Eerste proefkoekje bakken is slim: test smaak en structuur met één koekje. Te zout, te flauw, te plat — alles is nog te corrigeren in het resterende beslag.",
-        "Olie op middelhoog vuur, niet te heet: te koud (onder 160°C) zuigen de koekjes olie op. Te heet (boven 180°C) verbrandt de buitenkant. 170°C is de sweet spot.",
-        "Direct serveren: perkedel jagung verliest snel zijn crunch. Beslag een uur vooraf maken en koud zetten, maar bakken op het laatste moment.",
-        "Variatie: garnaal of mildere dip: voor luxere versie 100g grof gehakte rauwe garnalen door het beslag. Voor mildere dip: mayonaise + yoghurt + sambal oelek + limoensap."
-      ],
-      "opmaak_presentatie": "Kleine warme borden of donkere tegels in antraciet, terracotta of aardewerk. 2 koekjes per bord, licht overlappend. Kommetje sambal kecap ernaast. Groene blaadjes seledri of koriander, fijngesneden bosui, limoenpartje en eventueel krokante uitjes. Rustig houden — de koekjes spreken voor zichzelf.",
+      "chef_tip": "Verse mais is best, maar blikmais is prima: verse mais van de kolf geeft optimale zoetheid en crunch, maar goed uitgelekte blikmais is een betrouwbare keuze. Altijd grondig droogdeppen.\n\nNiet alle mais pureren: een derde hele korrels en twee derde grof gestampt geeft het ideale evenwicht — hele korrels voor beet, gepulseerde mais voor binding.\n\nLimoenblad zeer fijn snijden: verwijder de stevige middennerf en snijd flinterdun — anders krijg je taaie stukjes. De aromatische olie komt dan ook beter vrij.\n\nEerste proefkoekje bakken is slim: test smaak en structuur met één koekje. Te zout, te flauw, te plat — alles is nog te corrigeren in het resterende beslag.\n\nOlie op middelhoog vuur, niet te heet: te koud (onder 160°C) zuigen de koekjes olie op. Te heet (boven 180°C) verbrandt de buitenkant. 170°C is de sweet spot.\n\nDirect serveren: perkedel jagung verliest snel zijn crunch. Beslag een uur vooraf maken en koud zetten, maar bakken op het laatste moment.\n\nManado-variant: serveer eventueel met dabu-dabu lilang van tomaat, sjalot, rawit en limoen naast (of in plaats van) de sambal kecap.\n\nVariatie: garnaal of mildere dip: voor luxere versie 100 g grof gehakte rauwe garnalen door het beslag. Voor mildere dip: mayonaise + yoghurt + sambal oelek + limoensap.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Grüner Veltliner Federspiel — Wachau of Kamptal, Oostenrijk",
+          "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
           "druif": "Grüner Veltliner",
-          "smaakprofiel": "Droog, fris, groene appel, peer, citrus, witte peper, verse kruiden en lichte mineraliteit. Levendige zuren, middellichte body, kruidige finale.",
-          "omschrijving": "Federspiel — droger en frisser dan de vollere Smaragd. F.X. Pichler, Bründlmayer, Hirsch of Loimer zijn topreferenties. Serveer goed gekoeld bij 8–10°C.",
-          "waarom_werkt_dit": "De karakteristieke witte peper in de wijn spiegelt direct de chili en witte peper in het beslag. De heldere zuren snijden door de gefrituurde rijkdom, de kruidige aroma's gaan hand in hand met seledri, limoenblad en koriander."
+          "smaakprofiel": "Groene appel, peer, limoen, witte peper, verse kruiden, minerale afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Witte peper en groene kruidigheid sluiten aan op witte peper, seledri, bosui en daun jeruk. Frisse zuren maken de gebakken korst lichter en citrus sluit aan op limoen in de sambal kecap.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
           "type": "alternatief",
           "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
           "druif": "Albariño",
-          "smaakprofiel": "Droog, fris, groene appel, witte perzik, citrus, lichte witte bloemen en typisch ziltig-mineraal accent. Levendige zuren, slank maar aromatisch.",
-          "omschrijving": "Levendige, expressieve witte wijn met spanning en frisheid. Pazo de Señorans, Do Ferreiro, Albamar of Forjas del Salnés. Serveren bij 8–10°C.",
-          "waarom_werkt_dit": "De ziltige minerale toets is verrassend goed bij de zoete mais — een speels smaakcontrast. De frisse zuren snijden door de gefrituurde olie en sluiten aan bij limoen, de chili-hitte wordt gebalanceerd."
+          "smaakprofiel": "Witte perzik, limoen, groene appel, witte bloemen, zilte/minerale finale.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Witte perzik sluit aan op zoete mais. Ziltigheid werkt met de soja in sambal kecap en de zuren ruimen frituurolie op.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Cava Brut Nature DO — Penedès, Spanje",
+          "type": "meest-toegankelijk",
+          "naam": "Cava Brut — Penedès, Spanje",
           "druif": "Macabeo, Xarel·lo, Parellada",
-          "smaakprofiel": "Droog, bruisend, fijne bubbels, groene appel, citrus, witte amandel, brioche en lichte zilte mineraliteit. Knapperige zuren, schone finale.",
-          "omschrijving": "De allerdroogste Cava-stijl — zonder toegevoegde dosering. Recaredo, Gramona, Raventós i Blanc of Pares Baltà. Serveer bij 6–8°C.",
-          "waarom_werkt_dit": "Bubbels en gefrituurd eten zijn een paar in de hemel — de fijne mousse reinigt het palet en versterkt de crunch. De droogheid houdt het geheel scherp en helder. Een glas Cava geeft direct feestelijkheid."
+          "smaakprofiel": "Groene appel, citroen, lichte amandel/brioche, fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De mousse reinigt na de krokante frituur en versterkt het gevoel van crunch. Citrus houdt limoen en chili levendig, terwijl een kleine dosage vriendelijker is naast zoete mais en kecap manis dan een extreem droge Brut Nature.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         }
-      ],
-      "wine": {
-        "naam": "Grüner Veltliner Federspiel — Wachau of Kamptal, Oostenrijk",
-        "druif": "Grüner Veltliner",
-        "toelichting": "De karakteristieke witte peper spiegelt de chili en witte peper in het beslag. De heldere zuren snijden door de gefrituurde rijkdom en de kruidige aroma's sluiten aan bij seledri, limoenblad en koriander. Serveer goed gekoeld op 8–10°C.",
-        "alternatief": "Albariño Rías Baixas DO of Cava Brut Nature DO"
-      },
-      "metadata": {
-        "bereidingstijd": "30 min",
-        "porties": "4 porties (8 koekjes)",
-        "type_gerecht": "Amuse / bijgerecht / rijsttafel",
-        "niveau": "Makkelijk"
-      },
-      "source_recipe_number": 156,
-      "full_title_docx": "156. PERKEDEL JAGUNG LUXE: KROKANTE MAISKOEKJES MET LIMOENBLAD EN CHILI"
+      ]
     },
     {
       "title": "Langoustine in Filodeeg met Appel-Gember en Dragon",
@@ -71924,8 +71720,8 @@
       "keuken": "Indonesisch",
       "categorie": "vlees",
       "image": "/assets/images/iga-bakar-kecap-indonesische-runderribben.jpg",
-      "short_description": "Runderribben, eerst urenlang mals gegaard in de oven met citroengras en limoenblad, dan laag voor laag gegrild met een kleverige lak van kecap manis en tamarinde tot de randen donker geblakerd zijn. Mals met bite, zoet-hartig en rokerig — een gegarandeerde publieksknaller.",
-      "description": "Waar Amerikaanse BBQ-ribs vaak pas op het allerlaatste moment worden overgoten met een zure tomatensaus, werkt de Indonesische keuken andersom: de runderribben worden eerst ingewreven met een geroosterde kruidenpasta en urenlang gegaard in een geurige bouillon van citroengras, galanga en limoenblad, tot het vlees tot op het bot doordrenkt is van smaak. Pas daarna gaan ze de grill op, laag voor laag bestreken met een dikke, kleverige lak van kecap manis tot de randen donker en glanzend geblakerd zijn.",
+      "short_description": "Runderribben, eerst urenlang mals gegaard in de oven met citroengras en limoenblad, dan laag voor laag gegrild met een kleverige lak van kecap manis en tamarinde tot de randen donker geblakerd zijn.",
+      "description": "Dit is HetProeven's Indonesische iga bakar kecap — er bestaat geen enkele nationale canonieke bereidingsmethode voor dit gerecht, elke regio en elk gezin heeft een eigen route. Waar Amerikaanse BBQ-ribs vaak pas op het allerlaatste moment worden overgoten met een zure tomatensaus, werkt onze versie andersom: de runderribben worden eerst ingewreven met een geroosterde kruidenpasta en urenlang gegaard in een geurige bouillon van citroengras, galanga en limoenblad, tot het vlees tot op het bot doordrenkt is van smaak. Pas daarna gaan ze de grill op, laag voor laag bestreken met een dikke, kleverige lak van kecap manis tot de randen donker en glanzend geblakerd zijn.",
       "ingredient_groups": [
         {
           "group_name": "Voor de kruidenpasta",
@@ -71972,8 +71768,8 @@
               "amount": "1,5 kg"
             },
             {
-              "name": "runderbouillon",
-              "amount": "1,5 l"
+              "name": "lichte/ongezouten runderbouillon, genoeg om de ribben ongeveer half tot twee derde onder te zetten",
+              "amount": "circa 1-1,5 l"
             },
             {
               "name": "citroengras, gekneusd",
@@ -71988,8 +71784,8 @@
               "amount": "4"
             },
             {
-              "name": "laurierblaadjes",
-              "amount": "2"
+              "name": "daun salam",
+              "amount": "3"
             },
             {
               "name": "grote ui, grof gesneden",
@@ -72017,8 +71813,8 @@
               "amount": "3"
             },
             {
-              "name": "palmsuiker",
-              "amount": "1 el"
+              "name": "palmsuiker, alleen indien nodig — kecap manis is zelf al zoet",
+              "amount": "0-1 el"
             },
             {
               "name": "versgemalen zwarte peper",
@@ -72029,7 +71825,7 @@
               "amount": "3"
             },
             {
-              "name": "koude roomboter",
+              "name": "koude roomboter (HetProeven-restaurantfinish voor extra glans en hechting; optioneel — laat weg en reduceer iets verder voor een traditionelere, minder rijke lak)",
               "amount": "30 g"
             }
           ]
@@ -72059,7 +71855,7 @@
         },
         {
           "action": "Ribben inwrijven en garen in de oven",
-          "description": "Verwarm de oven voor op 100°C (boven-/onderwarmte, geen hetelucht — die droogt sneller uit). Dep de ribben droog en wrijf ze rondom in met de warme kruidenpasta. Leg de ribben in een ruime braadpan of ovenschaal met deksel (of dicht afgedekt met aluminiumfolie), voeg de runderbouillon, citroengras, galanga, limoenblad, laurier en ui toe. Breng op het fornuis eerst kort tegen de kook aan, zet dan het deksel erop en zet de pan in de oven. Laat 2,5 tot 3 uur garen. Controleer vanaf 2,5 uur: de ribben moeten gemakkelijk zijn af te bijten maar nog stevig aan het bot zitten, niet vanzelf van het bot vallen. Gebruik gerust een kernthermometer — bij ongeveer 90-93°C interne temperatuur is het collageen meestal net genoeg omgezet in zachte gelatine zonder dat het vlees uit elkaar valt."
+          "description": "Verwarm de oven voor op 100°C (boven-/onderwarmte, geen hetelucht — die droogt sneller uit). Dep de ribben droog en wrijf ze rondom in met de warme kruidenpasta. Leg de ribben in een ruime braadpan of ovenschaal met deksel (of dicht afgedekt met aluminiumfolie), voeg de bouillon, citroengras, galanga, limoenblad, daun salam en ui toe. Breng op het fornuis eerst kort tegen de kook aan, zet dan het deksel erop en zet de pan in de oven. Laat 2,5 tot 3 uur garen. Controleer vanaf 2,5 uur: de ribben moeten gemakkelijk zijn af te bijten maar nog stevig aan het bot zitten, niet vanzelf van het bot vallen. Gebruik gerust een kernthermometer als hulpmiddel: begin rond 90°C kern te controleren. Het vlees moet zeer mals zijn maar nog aan het bot blijven."
         },
         {
           "action": "Ribben laten rusten",
@@ -72067,11 +71863,11 @@
         },
         {
           "action": "Kecap-lak maken",
-          "description": "Meng kecap manis, tamarindepasta, lichte sojasaus, geraspte knoflook, palmsuiker en zwarte peper in een steelpan. Laat 5 minuten zacht inkoken tot een glanzende, stroperige lak. Neem van het vuur en roer de koude boter en de flinterdun gesneden limoenblaadjes erdoor."
+          "description": "Meng kecap manis, tamarindepasta, lichte sojasaus, geraspte knoflook en zwarte peper in een steelpan; voeg palmsuiker alleen toe als de saus dat echt nodig heeft. Laat 5 minuten zacht inkoken tot een glanzende, stroperige lak. Neem van het vuur en roer de koude boter en de flinterdun gesneden limoenblaadjes erdoor."
         },
         {
           "action": "Grillen",
-          "description": "Verhit een barbecue of grillpan tot zeer heet. Gril de ribben eerst ongeveer 2 minuten per kant zonder lak. Bestrijk vervolgens dun met de kecap-lak en gril opnieuw. Herhaal dit drie tot vier keer, zodat er laag voor laag een donkere, kleverige korst met licht geblakerde randjes ontstaat zonder dat de lak verbrandt."
+          "description": "Verhit een barbecue of grillpan tot zeer heet. Gril de ribben eerst ongeveer 2 minuten per kant zonder lak. Bestrijk vervolgens dun met de kecap-lak en gril opnieuw. Herhaal dit drie tot vier keer, zodat er laag voor laag een donkere, kleverige korst met licht geblakerde randjes ontstaat. Kecap verbrandt snel: de randjes mogen wat char krijgen, maar laat de hele suikerlaag niet zwart verbranden."
         },
         {
           "action": "Serveren",
@@ -72086,31 +71882,34 @@
           "description": "Door de ribben eerst met een geroosterde kruidenpasta in te wrijven en dan langzaam op een gecontroleerde, lage oventemperatuur te garen, verandert een deel van het collageen in zachte gelatine — het vlees wordt mals en sappig zonder zijn structuur te verliezen. De oven houdt die temperatuur veel stabieler vast dan een pan op het fornuis. Pas daarna gaan de ribben op hoge temperatuur de grill op, eerst kort zonder lak voor wat directe kleur, en dan in meerdere dunne lagen gelakt. Zo karamelliseert de kecap manis perfect en ontstaan donkere, licht rokerige randjes terwijl het vlees zijn stevige, sappige bite behoudt. Tamarinde brengt frisse zuren die de zoete kecap in balans houden, en het fijngesneden limoenblad geeft een subtiel citrusaroma."
         }
       ],
-      "chef_tip": "Ribkeuze: Kies dikke, goed dooraderde runderribben voor het mooiste resultaat.\n\nLak opbouwen: Bouw de lak op in meerdere dunne lagen in plaats van één dikke laag.\n\nHoutskool: Op een houtskoolbarbecue krijgt dit gerecht een extra authentiek rookaroma.\n\nErbij serveren: Serveer met atjar, sambal en geurige pandan- of jasmijnrijst.\n\nVooruitwerken: de ribben kunnen een dag vooraf gegaard worden. Bewaar afgedekt in de koelkast en gril ze de volgende dag met verse lak.",
+      "chef_tip": "Ribkeuze: Kies dikke, goed dooraderde runderribben voor het mooiste resultaat.\n\nLak opbouwen: Bouw de lak op in meerdere dunne lagen in plaats van één dikke laag.\n\nHoutskool: Op een houtskoolbarbecue krijgt dit gerecht een extra authentiek rookaroma.\n\nDaun salam: geen daun salam? Laat het liever weg. Eventueel kan 1 klein Europees laurierblad als praktische noodoplossing worden gebruikt, maar de smaak is anders.\n\nErbij serveren: Serveer met atjar, sambal en geurige pandan- of jasmijnrijst.\n\nVooruitwerken: de ribben kunnen een dag vooraf gegaard worden. Bewaar afgedekt in de koelkast en gril ze de volgende dag met verse lak.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Shiraz (Barossa Valley)",
-          "druif": "Shiraz",
-          "smaakprofiel": "Rijp donker fruit — braam, pruim — met een kruidige, peperige ondertoon en een volle, warme body met zachte tannines.",
+          "naam": "McLaren Vale Grenache",
+          "druif": "Grenache",
+          "smaakprofiel": "Rode kers, framboos, pruim, peper, gedroogde kruiden, zachte tannines.",
           "omschrijving": "",
-          "waarom_werkt_dit": "de rijpe, kruidige diepte staat moeiteloos tegen de zoetheid van de kecap-lak en de rokerige, gekarameliseerde randen van het vlees — een wijn met genoeg kracht om niet onder te sneeuwen."
+          "waarom_werkt_dit": "Rood fruit sluit aan op gekaramelliseerde kecap. Peper pakt de bumbu op, terwijl zachte tannines niet botsen met tamarinde of sambal. Genoeg body voor rund zonder zware alcohol.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
         },
         {
           "type": "alternatief",
-          "naam": "Elzasser Gewürztraminer (halfdroog)",
+          "naam": "Licht off-dry Gewürztraminer",
           "druif": "Gewürztraminer",
-          "smaakprofiel": "Aromatisch, lychee, rozenblaadje, kruidig, volle body met een frisse afdronk.",
+          "smaakprofiel": "Lychee, roos, rijpe peer, gember, exotische kruiden.",
           "omschrijving": "",
-          "waarom_werkt_dit": "de exotische, bloemige aroma's sluiten mooi aan bij galanga, citroengras en limoenblad, terwijl de lichte zoetheid de kecap manis weerspiegelt."
+          "waarom_werkt_dit": "De aromatiek sluit aan op galanga, sereh en limoenblad. Een klein beetje restzoet past bij kecap en verzacht chili, terwijl het mondgevoel voldoende rijk is voor de rib.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Koud Aziatisch lager bier",
-          "druif": "Bier",
-          "smaakprofiel": "Fris, licht, verkoelend.",
+          "naam": "Koude Aziatische lager",
+          "druif": "n.v.t. — bier",
+          "smaakprofiel": "Fris, licht moutig, weinig bitter, veel koolzuur.",
           "omschrijving": "",
-          "waarom_werkt_dit": "de klassieke metgezel bij plakkerige, zoet-hartige gegrilde gerechten — de koolzuurprikkeling en kou geven precies de verfrissing die tussen de rijke happen door nodig is."
+          "waarom_werkt_dit": "Koolzuur ruimt vet en kleverige glaze op, lage alcohol versterkt de chili niet en de schone afdronk laat bumbu en kecap spreken.",
+          "serveertemperatuur": "Serveer rond 4-6°C."
         }
       ]
     },
@@ -72119,13 +71918,13 @@
       "slug": "empal-gepuk-draadjesrund-krokante-rand",
       "location": "West-Java, Indonesië",
       "time": "30 min voorbereiding + 2,5 uur bereiding + 10 min bakken",
-      "servings": "4 personen",
+      "servings": "4 royale hoofdgerechtporties of circa 8 kleine rijsttafelporties",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
       "categorie": "vlees",
       "image": "/assets/images/empal-gepuk-draadjesrund-krokante-rand.jpg",
-      "short_description": "Runderschenkel, urenlang mals gegaard in kokosmelk, kemiri en kruiden, plat geslagen en dan krokant gebakken tot de randen karameliseren. Denk aan rendang en beef jerky die elkaar ontmoeten — maar dan veel malser.",
-      "description": "\"Empal\" is Sundanees voor rundvlees dat urenlang langzaam gaart tot mals, en dan gefrituurd wordt tot donker en krokant. Het \"gepuk\"-deel is de techniek die dit gerecht uit West-Java onderscheidt: het gegaarde vlees wordt met een vleeshamer plat geslagen, waardoor de vezels loskomen en zich verder uitspreiden — zodat de kruidenpasta zich letterlijk door elke draad heen kan nestelen voordat het vlees de hete olie in gaat.",
+      "short_description": "Runderschenkel, urenlang mals gegaard in kokosmelk, kemiri en kruiden, plat geslagen en dan krokant gebakken tot de randen karameliseren.",
+      "description": "Empal gepuk is een Sundanees rundvleesgerecht uit West-Java. \"Gepuk\" verwijst naar het voorzichtig platslaan van het gare vlees, waardoor de vezels losser worden voordat het vlees kort wordt gebakken tot donkere, gekarameliseerde randjes.",
       "ingredient_groups": [
         {
           "group_name": "Voor de bumbu halus (kruidenpasta)",
@@ -72172,7 +71971,7 @@
               "amount": "400 ml"
             },
             {
-              "name": "laurierblaadjes",
+              "name": "daun salam",
               "amount": "3"
             },
             {
@@ -72184,8 +71983,8 @@
               "amount": "2 stengels"
             },
             {
-              "name": "tamarindepasta, opgelost in 3 el warm water",
-              "amount": "2 el"
+              "name": "geconcentreerde tamarindepasta, verdund met wat warm water",
+              "amount": "10-15 g"
             },
             {
               "name": "palmsuiker, geraspt",
@@ -72239,7 +72038,7 @@
         },
         {
           "action": "Vlees garen",
-          "description": "Leg het rundvlees in een braadpan. Voeg de kruidenpasta, kokosmelk, runderbouillon, laurier, limoenblad, citroengras, tamarindewater, palmsuiker en zout toe. Breng rustig aan de kook, leg het deksel schuin op de pan en laat ongeveer 2,5 uur zacht stoven. Controleer vanaf 2 uur: het vlees moet gemakkelijk uit elkaar te trekken zijn, maar nog voldoende samenhang hebben."
+          "description": "Leg het rundvlees in een braadpan. Voeg de kruidenpasta, kokosmelk, runderbouillon, daun salam, limoenblad, citroengras, tamarindewater, palmsuiker en zout toe. Breng rustig aan de kook, leg het deksel schuin op de pan en laat ongeveer 2,5 uur zacht stoven. Controleer vanaf 2 uur: het vlees moet gemakkelijk uit elkaar te trekken zijn, maar nog voldoende samenhang hebben. Bij zwakkere commerciële tamarindepasta kan meer nodig zijn — het moet achtergrondzuur geven naast de palmsuiker, niet uitgesproken zuur worden."
         },
         {
           "action": "Laten afkoelen in het kookvocht",
@@ -72247,7 +72046,7 @@
         },
         {
           "action": "Plat slaan",
-          "description": "Haal de stukken vlees voorzichtig uit de pan en dep licht droog. Leg tussen twee vellen bakpapier en sla elk stuk voorzichtig plat tot ongeveer 1 tot 1,5 cm dik — de structuur moet zichtbaar blijven, het vlees mag niet uit elkaar vallen."
+          "description": "Haal de stukken vlees voorzichtig uit de pan en dep licht droog. Leg tussen twee vellen bakpapier en sla elk stuk voorzichtig plat tot ongeveer 1 tot 1,5 cm dik — de structuur moet zichtbaar blijven, het vlees mag niet uit elkaar vallen. Wil je extra smaak: strijk een klein beetje gereduceerd kookvocht over het platgeslagen vlees."
         },
         {
           "action": "Bakken",
@@ -72266,31 +72065,34 @@
           "description": "Door het rundvlees langzaam te garen in kokosmelk en een kruidenpasta van geroosterde kemiri, koriander, galanga en gember, trekken de smaken diep in het vlees terwijl het collageen omzet in zachte gelatine. Het afkoelen in het kookvocht voorkomt dat het uitdroogt. Door het vlees daarna voorzichtig plat te slaan ontstaat een groter bakoppervlak, waardoor tijdens het bakken veel meer gekarameliseerde randjes ontstaan. Tamarinde geeft de zure tegenhanger die de zoetheid van de palmsuiker in balans houdt."
         }
       ],
-      "chef_tip": "Vleeskeuze: Sukadelappen of runderschenkel geven de mooiste combinatie van draadjes en sappigheid.\n\nAfkoelen: Laat het vlees afkoelen in het kookvocht — daardoor blijft het veel malser.\n\nBakvuur: Bak op middelhoog tot hoog vuur; verbrande palmsuiker wordt bitter.\n\nKokosrasp: Rooster de kokosrasp zelf voor extra aroma.\n\nVooruitwerken: Dit gerecht is de volgende dag minstens zo lekker.\n\nAls rijsttafel: Ook heerlijk als onderdeel van een uitgebreide rijsttafel.",
+      "chef_tip": "Vleeskeuze: Sukadelappen of runderschenkel geven de mooiste combinatie van draadjes en sappigheid.\n\nDaun salam: geen daun salam? Laat het liever weg. Eventueel kan 1 klein Europees laurierblad als praktische noodoplossing worden gebruikt, maar de smaak is anders.\n\nAfkoelen: Laat het vlees afkoelen in het kookvocht — daardoor blijft het veel malser.\n\nBakvuur: Bak op middelhoog tot hoog vuur; verbrande palmsuiker wordt bitter.\n\nKokosrasp: Rooster de kokosrasp zelf voor extra aroma.\n\nVooruitwerken: Dit gerecht is de volgende dag minstens zo lekker.\n\nAls rijsttafel: Ook heerlijk als onderdeel van een uitgebreide rijsttafel — reken dan op circa 8 kleine porties.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Amontillado sherry",
-          "druif": "Sherry",
-          "smaakprofiel": "Droog, nootachtig, met tonen van amandel, gedroogde vijg en een warme, umami-rijke afdronk.",
+          "naam": "Droge Amontillado",
+          "druif": "Palomino",
+          "smaakprofiel": "Amandel, hazelnoot, gedroogde citrusschil, tabak/hout/specerijen, droge hartige afdronk.",
           "omschrijving": "",
-          "waarom_werkt_dit": "de nootachtige, oxidatieve stijl weerspiegelt bijna letterlijk de geroosterde kemiri en de gekarameliseerde buitenkant van het vlees, terwijl de droge afdronk de zoetheid van de palmsuiker in balans houdt."
+          "waarom_werkt_dit": "De oxidatieve noottonen sluiten aan op kemiri, geroosterde kokos en de gekaramelliseerde vleesrand. De wijn is volledig droog en vormt daardoor een mooi tegengewicht voor palmsuiker, terwijl de hartige intensiteit rund aankan zonder zware tannines.",
+          "serveertemperatuur": "Serveer rond 12-14°C."
         },
         {
           "type": "alternatief",
-          "naam": "Malbec (Mendoza)",
+          "naam": "Mendoza Malbec (frisse, niet overdreven houtige stijl)",
           "druif": "Malbec",
-          "smaakprofiel": "Rijp donker fruit — pruim, braam — met een zachte, fluwelen tanninestructuur.",
+          "smaakprofiel": "Pruim, braam, viooltjes, cacao/kruiden, zachte rijpe tannines.",
           "omschrijving": "",
-          "waarom_werkt_dit": "de zachte tannines en het rijpe fruit staan moeiteloos tegen de gekarameliseerde, zoet-kruidige buitenkant van het vlees, zonder de kokos- en tamarindetonen te overweldigen."
+          "waarom_werkt_dit": "Donker rijp fruit past bij de karamellisatie, terwijl zachte tannines goed passen bij het malse rund. Frisse zuren werken met tamarinde en atjar.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Koud Aziatisch lager bier",
-          "druif": "Bier",
-          "smaakprofiel": "Fris, licht, verkoelend.",
+          "naam": "Swartland Cinsault — Zuid-Afrika",
+          "druif": "Cinsault",
+          "smaakprofiel": "Rode kers, cranberry, aardbei, rooibos/kruiden, peper, lage tannine.",
           "omschrijving": "",
-          "waarom_werkt_dit": "de klassieke metgezel bij rijke, zoet-kruidige Indonesische gerechten — de koolzuurprikkeling reset je smaakpapillen tussen de geconcentreerde, kruidige happen door."
+          "waarom_werkt_dit": "Sappig rood fruit werkt met het zoet-kruidige rund. Lage tannine blijft vriendelijk met sambal en de frisse stijl maakt kokos en palmsuiker lichter.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         }
       ]
     },
@@ -75332,13 +75134,13 @@
       "slug": "otak-otak-bakar-kabeljauw-bananenblad",
       "location": "Palembang, Zuid-Sumatra, Indonesië",
       "time": "40 min voorbereiding + 10 min koelen + ±15 min bereiding",
-      "servings": "4 personen (8 kleine pakketjes)",
+      "servings": "4 personen (8 royale pakketjes, met wat extra visvulling over)",
       "difficulty": "Gemiddeld",
       "keuken": "Indonesisch",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/otak-otak-bakar-kabeljauw-bananenblad.jpg",
       "short_description": "Zijdezachte vismousse van kabeljauw, kokos, citroengras en chili, strak verpakt in bananenblad en geroosterd tot het blad zwart blakert. Sappig vanbinnen, rokerig vanbuiten, met een frisse sambal ernaast.",
-      "description": "Otak-otak komt oorspronkelijk uit Palembang, aan de oostkust van Sumatra, bekend om zijn vis-gebaseerde lekkernijen. Traditioneel gemaakt met makreel — maar kabeljauw werkt net zo goed als je 'm behandelt als een echte farce: koud verwerkt, met net genoeg tapioca om te binden zonder rubberachtig te worden.",
+      "description": "Otak-Otak is sterk verbonden met Palembang en Zuid-Sumatra en kent inmiddels vele regionale vormen in Indonesië en de Maleise wereld. Traditioneel wordt vaak ikan tenggiri gebruikt, een stevige makreelachtige zeevis. Hier gebruiken we kabeljauw voor een toegankelijke en fijne visfarce, behandeld als een echte koude farce: koud verwerkt, met net genoeg tapioca om te binden zonder rubberachtig te worden. Onze gecontroleerde thuismethode: eerst de farce rustig garen, daarna het bananenblad kort hard roosteren voor rook en aroma — niet de historische Palembangse bereidingswijze, maar wel het effect dat we zoeken.",
       "ingredient_groups": [
         {
           "group_name": "Voor de otak-otak",
@@ -75483,7 +75285,7 @@
         },
         {
           "action": "Pakketjes maken",
-          "description": "Leg ongeveer 45-50 g vismousse in een langwerpig staafje in het midden van elk blad, tot een smalle cilinder van ongeveer 10 x 2,5 cm. Rol het bananenblad er strak omheen en zet de uiteinden vast met cocktailprikkers."
+          "description": "Leg ruim vismousse in een langwerpig staafje in het midden van elk blad, tot een smalle cilinder van ongeveer 10 x 2,5 cm — voor 8 royale pakketjes, met wat extra visvulling over. Rol het bananenblad er strak omheen en zet de uiteinden vast met cocktailprikkers."
         },
         {
           "action": "Eerst garen (oven)",
@@ -75506,33 +75308,33 @@
           "description": "De vis wordt niet simpelweg fijngemalen, maar verwerkt als een lichte farce: het zout helpt de viseiwitten binden, terwijl eiwit en een bescheiden hoeveelheid tapioca voldoende stevigheid geven zonder de mousse rubberachtig te maken. Kokosmelk, geleidelijk en koud toegevoegd, houdt de mousse sappig en rond zonder de emulsie te breken. De tweefasentechniek is de echte sleutel: de oven gaart de farce gecontroleerd en gelijkmatig, zodat hij sappig blijft, terwijl het daaropvolgende korte, extreem hete contact met de pan het bananenblad laat blakeren zonder de vis verder uit te drogen — precies de rokerige, geroosterde geur die dit gerecht zijn karakter geeft. Citroengras, limoenblad, chili en kurkuma geven daaronder de frisse Indonesische kruidigheid, en de lichte, zure sambal doorbreekt de romigheid van de kokosmelk precies op het juiste moment."
         }
       ],
-      "chef_tip": "Elegantere viskeuze: Voor een elegantere, iets stevigere versie: vervang de kabeljauw door zeebaars of dorade — kabeljauw werkt technisch prima, maar is zachter en neutraler van smaak.\n\nKabeljauw gebruiken: Neem bij voorkeur dikke haasstukken en dep ze vooraf zeer goed droog.\n\nKlassieke route: serveer met pindasaus in plaats van de frisse sambal voor een rijkere, romigere combinatie — even authentiek, alleen zwaarder.\n\nKurkuma-alternatief: Geen verse kurkuma? Gebruik ¾ tl gemalen kurkuma.\n\nVooruitwerken: de pakketjes kunnen enkele uren vooraf gemaakt en gekoeld bewaard worden. Grill ze pas vlak voor het serveren.\n\nZonder trassi: Geen trassi gewenst? Laat 'm weg en voeg ongeveer 1 tl vissaus aan de mousse toe — de smaak wordt iets minder diep, maar nog steeds uitstekend.\n\nPittigheid aanpassen: Wil je hem milder? Laat alleen de rawit weg, behoud de rode peper vanwege zijn fruitige smaak en mooie kleur.\n\nBeproefde techniek: oven + loeihete pan is onze voorkeursmethode. Deze methode is getest en gaf een duidelijk beter resultaat dan de pakketjes volledig in de grillpan te garen.",
+      "chef_tip": "Elegantere viskeuze: Voor een elegantere, iets stevigere versie: vervang de kabeljauw door zeebaars of dorade — kabeljauw werkt technisch prima, maar is zachter en neutraler van smaak.\n\nKabeljauw gebruiken: Neem bij voorkeur dikke haasstukken en dep ze vooraf zeer goed droog.\n\nPalembangse klassieke variant: serveer met cuko, een scherpe zoet-zure saus van palmsuiker, azijn, chili en knoflook. Pindasaus hoort bij andere regionale otak-otaktradities en geeft een rijkere, zwaardere combinatie.\n\nKurkuma-alternatief: Geen verse kurkuma? Gebruik ¾ tl gemalen kurkuma.\n\nVooruitwerken: de pakketjes kunnen enkele uren vooraf gemaakt en gekoeld bewaard worden. Grill ze pas vlak voor het serveren.\n\nZonder trassi: Geen trassi gewenst? Laat 'm weg en voeg ongeveer 1 tl vissaus aan de mousse toe — de smaak wordt iets minder diep, maar nog steeds uitstekend.\n\nPittigheid aanpassen: Wil je hem milder? Laat alleen de rawit weg, behoud de rode peper vanwege zijn fruitige smaak en mooie kleur.\n\nBeproefde techniek: oven + loeihete pan is onze voorkeursmethode. Deze methode is getest en gaf een duidelijk beter resultaat dan de pakketjes volledig in de grillpan te garen.\n\nOvergebleven farce: kan als klein viskoekje in de pan worden gebakken als proefhapje of extra portie.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Albariño (Rías Baixas, Spanje)",
           "druif": "Albariño",
-          "smaakprofiel": "Helder en aromatisch, met witte perzik, citrus, groene appel en witte bloemen, gevolgd door een kenmerkende zilte mineraliteit. Fris en energiek, maar met voldoende rijp fruit om niet scherp te worden.",
+          "smaakprofiel": "Witte perzik, limoen, groene appel, witte bloemen, zilt-minerale afdronk.",
           "omschrijving": "",
-          "waarom_werkt_dit": "De zilte frisheid sluit prachtig aan bij de vis, terwijl citrus en witte perzik mooi samengaan met citroengras en limoenblad. De zuren verfrissen na de kokosmelk en de lichte chili, zonder het subtiele rokerige aroma van het bananenblad weg te drukken.",
+          "waarom_werkt_dit": "De ziltigheid sluit aan op vis. Citrus en groene appel pakken sereh en limoenblad op, terwijl de zuren kokosmelk lichter maken. Witte perzik rondt matige chili af zonder het geroosterde bananenblad te maskeren.",
           "serveertemperatuur": "Serveer rond 9-10°C."
         },
         {
           "type": "alternatief",
-          "naam": "Chenin Blanc (Zuid-Afrika)",
+          "naam": "Frisse Zuid-Afrikaanse Chenin Blanc (ongehout of zeer licht hout, gematigd alcohol)",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Gele appel, peer, witte perzik en kweepeer, met subtiele florale tonen en een licht kruidige, minerale afdronk. Kies een droge, niet te zwaar houtgerijpte stijl.",
+          "smaakprofiel": "Gele appel, kweepeer, peer, witte perzik, lichte bloemige/waxy tonen.",
           "omschrijving": "",
-          "waarom_werkt_dit": "Het iets rijpere fruit vangt de chili op, terwijl Chenin voldoende frisheid heeft voor de kokos en vis. De lichte kruidigheid sluit bovendien mooi aan bij kurkuma en het geroosterde bananenblad.",
+          "waarom_werkt_dit": "Het fruit vangt chili en palmsuiker op, terwijl de zuren kokos en vis verfrissen. De lichte kruidigheid werkt met kurkuma en het geblakerde bananenblad.",
           "serveertemperatuur": "Serveer rond 9-10°C."
         },
         {
           "type": "meest-toegankelijk",
           "naam": "Vermentino (Sardinië, Italië)",
           "druif": "Vermentino",
-          "smaakprofiel": "Citrus, groene appel, witte bloemen en mediterrane kruiden, met een subtiele ziltigheid en een klein bittertje in de afdronk.",
+          "smaakprofiel": "Citroen, groene appel, witte bloemen, kruiden, ziltigheid, lichte amandelbitterheid.",
           "omschrijving": "",
-          "waarom_werkt_dit": "Vooral het groene, kruidige karakter is hier interessant — het pakt citroengras en limoenblad op, terwijl de ziltigheid een natuurlijke verbinding met de vis vormt.",
+          "waarom_werkt_dit": "Het groene kruidige karakter sluit aan op sereh en limoenblad. Ziltigheid verbindt met de vis en het lichte amandelbittertje werkt fraai met het geroosterde blad en kokos.",
           "serveertemperatuur": "Serveer rond 9-10°C."
         }
       ]
