@@ -1,135 +1,6 @@
 {
   "recipes": [
     {
-      "title": "Pintxo de chistorra met paprika, aioli en kappertjes",
-      "slug": "chistorra-pintxo-origineel",
-      "location": "Bilbao",
-      "time": "20 min",
-      "servings": "6 pintxos",
-      "difficulty": "Makkelijk",
-      "keuken": "Spaans",
-      "categorie": "hapjes-tapas",
-      "image": "/assets/images/chistorra-pintxo-origineel.jpg",
-      "short_description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en zilte kappertjes.",
-      "description": "Pittige Baskische worst op brood met zelfgemaakte aioli, geroosterde paprika en kappertjes. De kappertjes zijn hier geen garnering — ze zijn de zilte tegenhanger van het vet.",
-      "ingredient_groups": [
-        {
-          "group_name": "Pintxo",
-          "ingredients": [
-            {
-              "name": "chistorra (Baskische dunne worst)",
-              "amount": "300 g"
-            },
-            {
-              "name": "sneetjes stokbrood",
-              "amount": "6"
-            },
-            {
-              "name": "geroosterde paprika uit blik",
-              "amount": "150 g"
-            },
-            {
-              "name": "kappertjes, uitgelekt",
-              "amount": "20 g"
-            },
-            {
-              "name": "bieslook, fijngehakt",
-              "amount": "15 g"
-            }
-          ]
-        },
-        {
-          "group_name": "Aioli",
-          "ingredients": [
-            {
-              "name": "eidooier",
-              "amount": "1"
-            },
-            {
-              "name": "knoflookteentjes, geperst",
-              "amount": "2"
-            },
-            {
-              "name": "olijfolie extra vierge",
-              "amount": "150 ml"
-            },
-            {
-              "name": "citroensap",
-              "amount": "1 tl"
-            },
-            {
-              "name": "zout",
-              "amount": "snuf"
-            }
-          ]
-        }
-      ],
-      "steps": [
-        {
-          "action": "Aioli maken",
-          "description": "klop eidooier met knoflook. Voeg druppelsgewijs de olie toe tot een dikke emulsie. Breng op smaak met citroensap en zout."
-        },
-        {
-          "action": "Chistorra bakken",
-          "description": "snijd in stukjes en bak 5 minuten krokant in een droge pan."
-        },
-        {
-          "action": "Beleg en serveer",
-          "description": "rooster het brood. Smeer aioli erop. Leg chistorra en paprika erop. Bestrooi met kappertjes en bieslook."
-        }
-      ],
-      "tips": [
-        "chistorra kan een dag van tevoren worden gesneden en koud bewaard. Kappertjes op keukenpapier deppen voor gebruik.",
-        "Techniek: bak de chistorra op hoog vuur en beweeg hem weinig — zo krijg je een mooie bruine krokante buitenkant zonder hem uit te drogen.",
-        "Presentatie: prik de kappertjes en chistorrastukjes op een tandenstoker in volgorde van grootte — dat geeft elk pintxo een strakke, uniforme look.",
-        "Variatie: vervang kappertjes door ingelegde cornichons voor een zachtere zuurheid, of voeg een dot mosterd toe voor extra pit.",
-        "Alternatief: geen chistorra? Gebruik chorizo fresco of morcilla — beide geven een andere maar even authentieke Spaanse smaak.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
-      "wines": [
-        {
-          "type": "aanbevolen",
-          "naam": "Rioja Crianza",
-          "druif": "Tempranillo",
-          "smaakprofiel": "Droog, rood fruit, zachte tannines, vanille, kruiden, frisse zuren",
-          "omschrijving": "De Rioja Crianza op basis van Tempranillo heeft zachte, goed geïntegreerde tannines en aroma's van rijpe kers, gedroogde kruiden en een vleugje vanille van de Amerikaanse eik.",
-          "waarom_werkt_dit": "Die lichte houtrijping snijdt feilloos door het vet van de chistorra zonder de smaak te overstemmen. De tomatige zuurgraad van de Tempranillo spiegelt de licht zure kappertjes. Een klassieker in de Riojaanse tapascultuur die al eeuwen bewezen heeft te werken. Serveer op 16°C."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Garnacha Joven uit Navarra",
-          "druif": "Garnacha",
-          "smaakprofiel": "Droog, sappig rood fruit, zachte tannines, kruidig, fris",
-          "omschrijving": "fruitiger en lichter, werkt even goed bij gegrild vlees",
-          "waarom_werkt_dit": "Garnacha geeft sappig rood fruit en zachte tannines; daardoor blijft het gerecht doordrinkbaar bij paprika, chorizo, tomaat of gegrild vlees. De zuren en fruittonen sluiten aan op tomaat en paprika, zonder de saus met tannine bitter te maken."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Cava Brut Nature Rosado Reserva — Penedès, Spanje",
-          "druif": "Garnacha, Trepat en/of Pinot Noir",
-          "smaakprofiel": "Droog, fris, rood fruit, fijne mousse, strak en dorstlessend",
-          "omschrijving": "Een Spaanse, droge mousserende rosé met genoeg fruit voor de chistorra en genoeg spanning voor aioli en kappertjes.",
-          "waarom_werkt_dit": "De mousse ruimt het vet van de worst en aioli op. Het rode fruit sluit aan op paprika en chistorra, terwijl Brut Nature droog genoeg blijft voor de zilte kappertjes."
-        }
-      ],
-      "wine": {
-        "naam": "Rioja Crianza",
-        "druif": "Tempranillo",
-        "toelichting": "Die lichte houtrijping snijdt feilloos door het vet van de chistorra zonder de smaak te overstemmen. De tomatige zuurgraad van de Tempranillo spiegelt de licht zure kappertjes. Een klassieker in de Riojaanse tapascultuur die al eeuwen bewezen heeft te werken. Serveer op 16°C.",
-        "alternatief": "Garnacha Joven uit Navarra — Droog, sappig rood fruit, zachte tannines, kruidig, fris; Cava Brut Nature Rosado Reserva — Penedès, Spanje — Droog, fris, rood fruit, fijne mousse, strak en dorstlessend"
-      },
-      "tips_full": [
-        "chistorra kan een dag van tevoren worden gesneden en koud bewaard. Kappertjes op keukenpapier deppen voor gebruik.",
-        "Techniek: bak de chistorra op hoog vuur en beweeg hem weinig — zo krijg je een mooie bruine krokante buitenkant zonder hem uit te drogen.",
-        "Presentatie: prik de kappertjes en chistorrastukjes op een tandenstoker in volgorde van grootte — dat geeft elk pintxo een strakke, uniforme look.",
-        "Variatie: vervang kappertjes door ingelegde cornichons voor een zachtere zuurheid, of voeg een dot mosterd toe voor extra pit.",
-        "Alternatief: geen chistorra? Gebruik chorizo fresco of morcilla — beide geven een andere maar even authentieke Spaanse smaak.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ]
-    },
-    {
       "title": "Watermeloen-feta-shot",
       "slug": "watermeloen-feta-shot",
       "location": "Andalusië",
@@ -519,17 +390,17 @@
       ]
     },
     {
-      "title": "Patatas bravas — de echte Madrileense versie",
+      "title": "Patatas Bravas — Madrileense stijl",
       "slug": "patatas-bravas-madrid",
-      "location": "Madrid",
-      "time": "35 min",
+      "location": "Madrid, Spanje",
+      "time": "20 min voorbereiding + 20 min bereiding",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/patatas-bravas.jpg",
-      "short_description": "Krokante aardappels met de originele bravasaus zonder tomaat — pikant, rokerig en echt Madrileens.",
-      "description": "De enige echte Madrileense patatas bravas — krokante aardappels met een pittige olie-knoflook-pimentónsaus zonder tomaat, en een snelle aioli ernaast. Zo worden ze al decennialang geserveerd in de oude bodegas van Madrid.",
+      "short_description": "Krokante aardappels met een warme, pittige pimentónsaus op basis van bouillon — geen tomaat, wel de juiste balans tussen pit en zuur.",
+      "description": "Patatas bravas in klassieke Madrileense stijl: krokant gefrituurde aardappels met een warme, pittige pimentónsaus op basis van bouillon, zonder tomaat. Een eenvoudige tapa waarin vooral de textuur van de aardappel en de balans tussen pimentón, zuur en pit het verschil maken.",
       "ingredient_groups": [
         {
           "group_name": "Aardappelen",
@@ -552,124 +423,95 @@
           "group_name": "Bravasaus",
           "ingredients": [
             {
-              "name": "olijfolie extra vierge",
-              "amount": "100 ml"
+              "name": "olijfolie",
+              "amount": "30 ml"
             },
             {
-              "name": "knoflookteentjes, fijn gehakt",
-              "amount": "3"
+              "name": "kleine ui, zeer fijn gesneden",
+              "amount": "½"
             },
             {
-              "name": "pimentón picante",
-              "amount": "2 tl"
+              "name": "bloem",
+              "amount": "10 g"
             },
             {
               "name": "pimentón dulce",
               "amount": "1 tl"
             },
             {
-              "name": "bloem",
-              "amount": "1 tl"
+              "name": "pimentón picante",
+              "amount": "1½ tl"
             },
             {
               "name": "warme kippenbouillon",
-              "amount": "100 ml"
+              "amount": "250 ml"
             },
             {
-              "name": "rode wijnazijn",
-              "amount": "15 ml"
-            }
-          ]
-        },
-        {
-          "group_name": "Snelle aioli",
-          "ingredients": [
-            {
-              "name": "mayonaise uit de pot",
-              "amount": "150 g"
-            },
-            {
-              "name": "knoflookteen, geperst",
-              "amount": "1"
-            },
-            {
-              "name": "citroensap",
+              "name": "sherryazijn of rodewijnazijn",
               "amount": "10 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Aioli",
-          "description": "meng mayonaise met knoflook en citroensap. Zet koud weg."
-        },
-        {
           "action": "Eerste frituurronde",
-          "description": "verhit olie op 140°C. Frituur de aardappelblokjes 8 minuten — gaar maar nog niet bruin. Schep eruit."
+          "description": "Verhit de olie op 140°C. Frituur de aardappelblokjes 8 minuten — gaar maar nog niet bruin. Schep eruit."
         },
         {
           "action": "Tweede frituurronde",
-          "description": "verhit olie naar 190°C. Frituur nog 3-4 minuten tot goudbruin en krokant. Bestrooi direct met zout."
+          "description": "Verhit de olie naar 190°C. Frituur nog 3-4 minuten tot goudbruin en krokant. Bestrooi direct met zout."
         },
         {
           "action": "Bravasaus",
-          "description": "bak knoflook goudgeel in olijfolie. Voeg bloem toe, roer 1 minuut. Voeg pimentón toe, dan warme bouillon. Laat 3 minuten inkoken. Blus met azijn."
+          "description": "Fruit de ui zeer zacht in de olijfolie, zonder te kleuren. Haal de pan kort van het vuur en roer de pimentón dulce en picante erdoor, zodat de kruiden niet verbranden. Voeg de bloem toe en gaar kort mee. Voeg de warme bouillon geleidelijk toe, zoals bij een lichte velouté. Laat circa 8-10 minuten zacht koken. Pureer de saus fijn. Breng pas aan het einde op smaak met azijn en zout."
         },
         {
-          "action": "Serveer",
-          "description": "giet de warme bravasaus over de aardappels. Zet de koude aioli apart ernaast."
+          "action": "Serveren",
+          "description": "Giet de warme bravasaus gedeeltelijk over de krokante aardappels."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de patatas bravas direct, met de saus gedeeltelijk over de aardappels gelepeld zodat de krokante stukken zichtbaar blijven — niet alles onderdompelen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de ui eerst zacht te fruiten zonder te kleuren en de pimentón pas van het vuur af toe te voegen, blijft de paprika fris van smaak in plaats van bitter verbrand. De bloem geeft de saus, opgebouwd zoals een lichte velouté met warme bouillon, precies genoeg body zonder zwaar te worden. Door pas aan het einde met azijn te balanceren, blijft de saus fris en pittig in plaats van plat. Dubbel frituren — eerst gaar op lage temperatuur, dan krokant op hoge temperatuur — geeft de aardappel een stevige, lang knapperige korst."
         }
       ],
-      "tips": [
-        "de bravassaus een dag of zelfs twee dagen van tevoren maken — die extra rijptijd geeft de saus een diepere, aardsere smaak.",
-        "Techniek: dubbel frituren is het geheim — eerst op 140°C gaar frituren, dan laten rusten, dan op 190°C krokant frituren. Eén keer frituren geeft zachte patatas, twee keer geeft taberna-waardige crunch.",
-        "Presentatie: nooit saus over alle patatas — altijd apart serveren of slechts gedeeltelijk begieten zodat de krokante stukken zichtbaar blijven.",
-        "Variatie: voor de Barcelonese versie: bravassaus combineren met aioli in een zigzagpatroon over de patatas. In Madrid is aioli een no-go bij bravas — in Barcelona niet.",
-        "Alternatief: geen Pimentón de la Vera? De gerookte paprikapoeder is echt essentieel — gewone paprikapoeder geeft een volledig ander en vlakker resultaat. Online bestellen is de moeite waard.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Vooruitwerken: de bravassaus kan een dag of zelfs twee dagen van tevoren gemaakt worden — die extra rijptijd geeft de saus een diepere, aardsere smaak.\n\nTechniek: dubbel frituren is het geheim — eerst op 140°C gaar frituren, dan laten rusten, dan op 190°C krokant frituren. Eén keer frituren geeft zachte patatas, twee keer geeft taberna-waardige crunch.\n\nPresentatie: nooit saus over alle patatas — altijd apart serveren of slechts gedeeltelijk begieten zodat de krokante stukken zichtbaar blijven.\n\nBarcelona-variant: in Barcelona worden bravas regelmatig gecombineerd met aioli. Voor deze Madrileense versie blijft de pittige brava echter de hoofdsaus.\n\nPimentón: goede Spaanse pimentón geeft diepte en kleur. Gerookte Pimentón de la Vera kan een extra rokerig accent geven, maar is geen absolute voorwaarde voor een Madrileense brava.\n\nBalans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Mahou Cinco Estrellas of koude rode vermout",
-          "druif": "n.v.t. — bier/vermouth",
-          "smaakprofiel": "IJskoud, fris, licht bitter, dorstlessend, schoon",
-          "omschrijving": "In de oude bodegas van Madrid worden patatas bravas altijd geserveerd met een koud glas Mahou Cinco Estrellas — het lokale bier dat al meer dan 130 jaar Madrileens straatvoedsel begeleidt.",
-          "waarom_werkt_dit": "De lichte bitterheid en koolzuur snijden door de bravassaus en reinigen de mond na elke krokante hap. Een alternatief is koude rode vermout uit de tap — zoet-bitter en kruidig, perfect bij de gerookte paprika. Dit is geen wijnsituatie maar een taberna-situatie. Serveer ijskoud."
+          "druif": "n.v.t. — bier/vermout",
+          "smaakprofiel": "Fris en licht bitter bij het bier; kruidig, citrusachtig en zoet-bitter bij vermout.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een koude lager is misschien wel de meest ontspannen combinatie bij patatas bravas. Fris koolzuur, lichte moutigheid en een aangenaam bittertje maken de mond schoon na de gefrituurde aardappel en temperen de warmte van de pimentón. Rode vermout kiest een andere route: aroma's van sinaasappelschil, kruiden en specerijen sluiten juist mooi aan bij het paprika- en azijnkarakter van de saus.",
+          "serveertemperatuur": "Serveer beide goed gekoeld."
         },
         {
           "type": "alternatief",
-          "naam": "Garnacha Joven uit Campo de Borja",
+          "naam": "Garnacha Joven — Campo de Borja",
           "druif": "Garnacha",
-          "smaakprofiel": "Droog, sappig rood fruit, zachte tannines, kruidig, fris",
-          "omschrijving": "licht, fris en fruitig, werkt verrassend goed bij de pittige bravassaus",
-          "waarom_werkt_dit": "Garnacha geeft sappig rood fruit en zachte tannines; daardoor blijft het gerecht doordrinkbaar bij paprika, chorizo, tomaat of gegrild vlees. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "smaakprofiel": "Droog, sappige kers en framboos, rode pruim, lichte peperigheid, zachte tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een jonge Garnacha geeft rijp rood fruit zonder veel tannine of hout. Dat sappige fruit vangt de pittigheid van de pimentón op, terwijl de frisse zuren de gefrituurde aardappel lichter laten smaken. Juist het ontbreken van zware tannines voorkomt dat de hitte van de saus harder wordt.",
+          "serveertemperatuur": "Serveer licht gekoeld rond 13-14°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Cava Brut Nature Reserva — Penedès, Spanje",
+          "type": "meest-toegankelijk",
+          "naam": "Cava Brut Nature Reserva",
           "druif": "Xarel·lo, Macabeo, Parellada",
-          "smaakprofiel": "Kurkdroog, citrus, appel, broodkorst, fijne mousse",
-          "omschrijving": "De Spaanse mousserende keuze bij gefrituurde tapas: strak, droog en betaalbaar gastronomisch.",
-          "waarom_werkt_dit": "De mousse snijdt door frituurvet en aioli. De droge citrus houdt de pittige bravassaus fris zonder het taberna-karakter te chic te maken."
+          "smaakprofiel": "Kurkdroog, citroen, groene appel, amandel, lichte broodkorst en fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De mousse en hoge frisheid ruimen olie en krokante aardappel direct op. Citrus en groene appel houden de pittige saus levendig, terwijl de subtiele amandel- en broodtonen mooi aansluiten op de goudbruine frituurkorst. Brut Nature blijft strak genoeg om het gerecht niet zoeter of zwaarder te laten smaken.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         }
-      ],
-      "wine": {
-        "naam": "Mahou Cinco Estrellas of koude rode vermout",
-        "druif": "N.v.t.",
-        "toelichting": "De lichte bitterheid en koolzuur snijden door de bravassaus en reinigen de mond na elke krokante hap. Een alternatief is koude rode vermout uit de tap — zoet-bitter en kruidig, perfect bij de gerookte paprika. Dit is geen wijnsituatie maar een taberna-situatie. Serveer ijskoud.",
-        "alternatief": "Garnacha Joven uit Campo de Borja — Droog, sappig rood fruit, zachte tannines, kruidig, fris; Cava Brut Nature Reserva — Penedès, Spanje — Kurkdroog, citrus, appel, broodkorst, fijne mousse"
-      },
-      "tips_full": [
-        "de bravassaus een dag of zelfs twee dagen van tevoren maken — die extra rijptijd geeft de saus een diepere, aardsere smaak.",
-        "Techniek: dubbel frituren is het geheim — eerst op 140°C gaar frituren, dan laten rusten, dan op 190°C krokant frituren. Eén keer frituren geeft zachte patatas, twee keer geeft taberna-waardige crunch.",
-        "Presentatie: nooit saus over alle patatas — altijd apart serveren of slechts gedeeltelijk begieten zodat de krokante stukken zichtbaar blijven.",
-        "Variatie: voor de Barcelonese versie: bravassaus combineren met aioli in een zigzagpatroon over de patatas. In Madrid is aioli een no-go bij bravas — in Barcelona niet.",
-        "Alternatief: geen Pimentón de la Vera? De gerookte paprikapoeder is echt essentieel — gewone paprikapoeder geeft een volledig ander en vlakker resultaat. Online bestellen is de moeite waard.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
     },
     {
@@ -2405,17 +2247,17 @@
       ]
     },
     {
-      "title": "Pintxo de chistorra met geroosterde paprika, aioli en kappertjes",
+      "title": "Pintxo de Chistorra met Piquillo, Aioli en Kappertjes",
       "slug": "chistorra-paprika-aioli-kappertjes",
-      "location": "Bilbao",
+      "location": "Navarra / Baskenland, Spanje",
       "time": "20 min",
-      "servings": "4 personen",
+      "servings": "4 personen (8 pintxos)",
       "difficulty": "Makkelijk",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/chistorra-paprika-aioli-kappertjes.jpg",
-      "short_description": "Knapperig brood met aioli, geroosterde paprika, krokante chistorra en kappertjes.",
-      "description": "Knapperig geroosterd brood met aioli, geroosterde rode paprika, gebakken chistorra en kappertjes — een kleurrijke pintxo die er prachtig uitziet op tafel.",
+      "short_description": "Krokant gebakken chistorra met zoete piquillopepers, snelle knoflookmayonaise en zilte kappertjes op geroosterd stokbrood.",
+      "description": "Chistorra — of txistorra — is een dunne, kruidige worst die sterk verbonden is met Navarra en Baskenland. In deze HetProeven-pintxo combineren we hem met piquillo, knoflookmayonaise en kappertjes.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -2429,95 +2271,87 @@
               "amount": "250 g"
             },
             {
-              "name": "rode paprika's",
-              "amount": "2"
-            },
-            {
-              "name": "mayonaise uit de pot",
+              "name": "piquillopepers uit pot, zeer goed uitgelekt",
               "amount": "150 g"
             },
             {
-              "name": "knoflookteen, geperst",
+              "name": "mayonaise",
+              "amount": "80-100 g"
+            },
+            {
+              "name": "teen knoflook, geperst",
               "amount": "1"
             },
             {
               "name": "citroensap",
-              "amount": "10 ml"
+              "amount": "5-10 ml"
             },
             {
-              "name": "kappertjes",
-              "amount": "30 g"
+              "name": "kappertjes, uitgelekt",
+              "amount": "20-30 g"
             },
             {
-              "name": "platte peterselie, fijngehakt",
-              "amount": "15 g"
+              "name": "bieslook of platte peterselie, fijngehakt",
+              "amount": "3-5 g"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Paprika roosteren",
-          "description": "rooster paprika's op gaspit of onder de grill rondom zwart. Leg in afgesloten zak 10 minuten. Pel, verwijder zaadjes en snijd in reepjes."
+          "action": "Chistorra bakken",
+          "description": "Bak de chistorra in een droge pan op middelhoog tot hoog vuur. Keer regelmatig tot de worst rondom mooi bruin en gaar is. Is er veel vet vrijgekomen, laat de chistorra dan kort uitlekken zodat het brood niet zompig wordt."
         },
         {
-          "action": "Aioli en chistorra",
-          "description": "meng mayonaise met knoflook en citroensap. Bak chistorra in droge pan 2-3 min per kant tot goudbruin."
+          "action": "Knoflookmayonaise maken",
+          "description": "Meng de mayonaise met geperste knoflook en citroensap tot een snelle knoflookmayonaise."
+        },
+        {
+          "action": "Piquillo en kappertjes voorbereiden",
+          "description": "Snijd de piquillopepers in reepjes. Dep piquillo en kappertjes goed droog met keukenpapier."
         },
         {
           "action": "Beleg en serveer",
-          "description": "rooster brood. Smeer aioli erop. Leg paprika en chistorra erop. Strooi kappertjes en peterselie erover. Serveer direct."
+          "description": "Rooster het brood licht. Smeer de knoflookmayonaise erop. Leg de piquillo en de chistorra erop. Strooi de kappertjes en bieslook of peterselie erover. Serveer direct."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de pintxos direct na het opbouwen, met de piquillo als kleurrijke basis, de chistorra erop en de kappertjes verspreid als zilte accenten."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De chistorra wordt in een droge pan gebakken zodat het eigen vet vrijkomt en de worst rondom goed bruint. De zoete, geroosterde piquillo is de zoete tegenhanger van de pittige, vette worst, terwijl de snelle knoflookmayonaise romigheid toevoegt zonder een aparte allioli te hoeven kloppen. De kappertjes zijn hier geen garnering maar een bewuste zilte, zure tegenhanger van het vet — precies de balans die deze pintxo compositie zijn karakter geeft."
         }
       ],
-      "tips": [
-        "rooster de paprika's van tevoren en bewaar in olijfolie in de koelkast — ze worden lekkerder na een dag en zijn weken houdbaar.",
-        "Techniek: snijd de chistorra schuin — dat vergroot het bakoppervlak en geeft meer karamelisatie en smaak dan rechte sneden.",
-        "Presentatie: leg de geroosterde paprikarepen als basis, dan de chistorra en aioli als witte stippen — rood-wit-groen geeft een aantrekkelijk kleurenpalet.",
-        "Variatie: voeg een paar druppels balsamicoglazuur toe voor een zoetzure diepte die de geroosterde paprika mooi aanvult.",
-        "Alternatief: geen geroosterde paprika? Gebruik piquillo-pepers uit een potje — al geroosterd en gepeld, een uitstekend tijdbesparend alternatief.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Vooruitwerken: de chistorra kan een dag van tevoren gesneden en koud bewaard worden.\n\nTechniek: bak de chistorra op hoog vuur en beweeg hem weinig — zo krijg je een mooie bruine, krokante buitenkant zonder hem uit te drogen.\n\nPiquillo en kappertjes: dep beide goed droog voor gebruik, anders wordt het brood snel zompig.\n\nDeze combinatie van piquillo, knoflookmayonaise en kappertjes is een HetProeven-compositie — geen historisch vastgelegde, enige juiste Bilbao-pintxo.\n\nVariatie: geen chistorra? Chorizo fresco of morcilla geven een andere maar even Spaanse smaak.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Rioja Joven",
           "druif": "Tempranillo",
-          "smaakprofiel": "Droog, sappig rood fruit, lichte kruidigheid, frisse zuren, weinig hout",
-          "omschrijving": "Een jonge, ongerijpte Rioja Joven heeft de frisheid en het fruitige karakter om de pittigheid van de chistorra en de rijkdom van de aioli te balanceren zonder te overweldigen.",
-          "waarom_werkt_dit": "De levendige tonen van rood fruit — kers, framboos — sluiten aan op de zoetigheid van de geroosterde paprika. Zonder houtrijping behoudt de wijn zijn directe, drinkbare frisheid die perfect is bij tapas. Een Joven wordt nooit moe tijdens een lange tapas-avond. Serveer licht gekoeld op 14°C."
+          "smaakprofiel": "Droog, sappige kers, framboos en rode pruim, lichte kruidigheid, frisse zuren en weinig tot geen hout.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een jonge Rioja heeft genoeg rood fruit voor de geroosterde zoetheid van piquillo en genoeg frisheid voor het vet van chistorra en knoflookmayonaise. De zachte tannines voorkomen dat het pittige worstkarakter harder wordt en de frisse afdronk blijft prettig bij de zilte kappertjes.",
+          "serveertemperatuur": "Serveer licht gekoeld rond 13-14°C."
         },
         {
           "type": "alternatief",
-          "naam": "Garnacha Rosado",
+          "naam": "Garnacha Joven uit Navarra",
           "druif": "Garnacha",
-          "smaakprofiel": "Droog, rood fruit, citrus, fris, soepel",
-          "omschrijving": "de lichte roodvruchtentonen en frisse zuurgraad werken even goed bij geroosterde groenten",
-          "waarom_werkt_dit": "Garnacha geeft sappig rood fruit en zachte tannines; daardoor blijft het gerecht doordrinkbaar bij paprika, chorizo, tomaat of gegrild vlees. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "smaakprofiel": "Droog, aardbei, rode kers, rijpe framboos, mediterrane kruiden, peper en zachte tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Garnacha uit Navarra geeft een mooie regionale aansluiting op chistorra. Het sappige rode fruit sluit aan bij de zoete piquillo, terwijl zachte tannines en een kruidige afdronk goed samengaan met de worst zonder de knoflookmayonaise te overheersen.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest-toegankelijk",
           "naam": "Cava Brut Nature Rosado Reserva — Penedès, Spanje",
           "druif": "Garnacha, Trepat en/of Pinot Noir",
-          "smaakprofiel": "Droog, fris, rood fruit, fijne mousse, licht kruidig",
-          "omschrijving": "Spaanse rosé-bubbels die veel logischer voelen bij chistorra dan Champagne.",
-          "waarom_werkt_dit": "Het rode fruit past bij paprika en worst, de mousse reinigt het vet, en de droge afdronk houdt het hapje strak."
+          "smaakprofiel": "Kurkdroog, aardbei en rode bes, citrus, lichte kruidigheid en fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Rosé-Cava geeft precies genoeg rood fruit voor chistorra en piquillo, maar blijft door de Brut Nature-stijl strak en droog. De mousse reinigt het mondgevoel na worst en knoflookmayonaise, terwijl de frisse zuren goed werken met de zilte kappertjes.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         }
-      ],
-      "wine": {
-        "naam": "Rioja Joven",
-        "druif": "Tempranillo",
-        "toelichting": "De levendige tonen van rood fruit — kers, framboos — sluiten aan op de zoetigheid van de geroosterde paprika. Zonder houtrijping behoudt de wijn zijn directe, drinkbare frisheid die perfect is bij tapas. Een Joven wordt nooit moe tijdens een lange tapas-avond. Serveer licht gekoeld op 14°C.",
-        "alternatief": "Garnacha Rosado — Droog, rood fruit, citrus, fris, soepel; Cava Brut Nature Rosado Reserva — Penedès, Spanje — Droog, fris, rood fruit, fijne mousse, licht kruidig"
-      },
-      "tips_full": [
-        "rooster de paprika's van tevoren en bewaar in olijfolie in de koelkast — ze worden lekkerder na een dag en zijn weken houdbaar.",
-        "Techniek: snijd de chistorra schuin — dat vergroot het bakoppervlak en geeft meer karamelisatie en smaak dan rechte sneden.",
-        "Presentatie: leg de geroosterde paprikarepen als basis, dan de chistorra en aioli als witte stippen — rood-wit-groen geeft een aantrekkelijk kleurenpalet.",
-        "Variatie: voeg een paar druppels balsamicoglazuur toe voor een zoetzure diepte die de geroosterde paprika mooi aanvult.",
-        "Alternatief: geen geroosterde paprika? Gebruik piquillo-pepers uit een potje — al geroosterd en gepeld, een uitstekend tijdbesparend alternatief.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
     },
     {
@@ -3869,15 +3703,15 @@
     {
       "title": "La Bomba de la Barceloneta",
       "slug": "la-bomba-barceloneta",
-      "location": "Barcelona",
-      "time": "50 min",
-      "servings": "4 personen",
+      "location": "Barceloneta, Barcelona, Spanje",
+      "time": "40 min voorbereiding + 20 min bereiding",
+      "servings": "4 personen (6-8 bomba's)",
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/la-bomba-barceloneta.jpg",
-      "short_description": "De iconische tapa van Barceloneta — knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd en geserveerd met bravasaus en aioli.",
-      "description": "De iconische tapa van Barceloneta uit 1944 — een grote knapperige aardappelbal gevuld met pittig gekruid gehakt, gefrituurd tot goudbruin en geserveerd met bravasaus én aioli.",
+      "short_description": "Krokant gefrituurde aardappelbal met een pittig gekruide vulling van varkens- en rundergehakt, geserveerd met aioli en een pittige rode saus.",
+      "description": "La Bomba ontstond in de jaren vijftig in La Cova Fumada in Barceloneta; volgens de familie rond 1955. De aardappelbal met vleesvulling groeide uit tot een van de bekendste tapas van de wijk.",
       "ingredient_groups": [
         {
           "group_name": "Ballen",
@@ -3887,8 +3721,12 @@
               "amount": "600 g"
             },
             {
+              "name": "varkensgehakt",
+              "amount": "150 g"
+            },
+            {
               "name": "rundergehakt",
-              "amount": "250 g"
+              "amount": "100 g"
             },
             {
               "name": "ui, fijn gesnipperd",
@@ -3904,10 +3742,6 @@
             },
             {
               "name": "pimentón dulce",
-              "amount": "1 tl"
-            },
-            {
-              "name": "komijnpoeder",
               "amount": "1 tl"
             },
             {
@@ -3933,35 +3767,39 @@
           ]
         },
         {
-          "group_name": "Bravasaus",
+          "group_name": "Pittige rode saus",
           "ingredients": [
             {
               "name": "olijfolie",
-              "amount": "100 ml"
+              "amount": "20 ml"
             },
             {
-              "name": "knoflookteentjes, fijn gehakt",
-              "amount": "2"
+              "name": "klein teentje knoflook",
+              "amount": "1"
             },
             {
               "name": "pimentón picante",
-              "amount": "2 tl"
+              "amount": "1 tl"
             },
             {
               "name": "pimentón dulce",
-              "amount": "1 tl"
+              "amount": "½ tl"
+            },
+            {
+              "name": "cayennepeper, naar gewenste hitte",
+              "amount": "snuf"
             },
             {
               "name": "bloem",
-              "amount": "1 tl"
+              "amount": "5 g"
             },
             {
-              "name": "warme kippenbouillon",
-              "amount": "100 ml"
+              "name": "kippenbouillon",
+              "amount": "120 ml"
             },
             {
-              "name": "rode wijnazijn",
-              "amount": "15 ml"
+              "name": "rodewijn- of sherryazijn",
+              "amount": "10 ml"
             }
           ]
         },
@@ -3986,74 +3824,62 @@
       "steps": [
         {
           "action": "Aardappelpuree",
-          "description": "kook aardappelen in gezouten water. Giet af en stamp tot een droge puree — geen melk of boter. Laat volledig afkoelen."
+          "description": "Kook de aardappelen in gezouten water. Giet af en stamp tot een droge puree — geen melk of boter. Laat volledig afkoelen."
         },
         {
           "action": "Gehaktvulling",
-          "description": "bak ui glazig. Voeg knoflook, gehakt en kruiden toe. Bak 8 minuten tot gaar. Laat volledig afkoelen."
+          "description": "Bak de ui glazig. Voeg knoflook, het varkens- en rundergehakt, pimentón dulce en pimentón picante toe. Bak circa 8 minuten tot gaar. Laat volledig afkoelen."
         },
         {
           "action": "Sauzen",
-          "description": "maak aioli: meng mayonaise met knoflook en citroensap. Maak bravasaus: bak knoflook in olijfolie, voeg bloem toe, dan pimentón, dan bouillon. Laat inkoken, blus met azijn."
+          "description": "Maak de aioli: meng mayonaise met knoflook en citroensap — dit is een snelle, praktische thuisversie, niet de geheime originele allioli van La Cova Fumada. Maak de pittige rode saus: fruit de knoflook kort in de olijfolie, roer er pimentón dulce, picante en eventueel cayenne door, voeg de bloem toe en gaar kort. Voeg de bouillon geleidelijk toe en laat kort binden. Breng op het eind op smaak met azijn."
         },
         {
           "action": "Ballen vormen",
-          "description": "neem een handvol aardappelpuree, druk plat in de handpalm. Leg een eetlepel gehaktvulling in het midden. Sluit tot een stevige bal ter grootte van een tennisbal."
+          "description": "Neem een handvol aardappelpuree, druk plat in de handpalm. Leg een eetlepel gehaktvulling in het midden. Sluit tot een stevige bal van ongeveer 6 cm doorsnee — je maakt zo 6-8 bomba's."
         },
         {
           "action": "Paneren en frituren",
-          "description": "wentel elke bal door ei en dan door paneermeel. Frituur op 180°C 3-4 minuten tot goudbruin. Serveer direct met BEIDE sauzen."
+          "description": "Wentel elke bal door ei en dan door paneermeel. Frituur op 175°C circa 3-4 minuten tot goudbruin. Serveer direct."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer de bomba's warm, met een lepel van de pittige rode saus en een toef aioli ernaast. De bekendste presentatie is met zowel knoflook-aioli als de pittige rode saus."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de vulling apart te garen en volledig te laten afkoelen voordat de ballen gevormd worden, blijft de vorm tijdens het frituren stevig — de vulling is immers al gaar, het frituren is puur voor een goudbruine, krokante korst. Het dubbele laagje ei en paneermeel geeft die korst extra stevigheid. De lichte, aparte pittige saus en de romige aioli vormen samen het klassieke contrast van Barceloneta's bekendste tapa."
         }
       ],
-      "tips": [
-        "de aardappelpuree moet zo droog mogelijk zijn — gebruik meelachtige aardappels en stamp droog, zonder melk. Serveer altijd met BEIDE sauzen naast elkaar.",
-        "Techniek: frituur de bommen op 170°C — te hoog en de buitenkant brandt voor de vulling gaar is. Test altijd een kleine bal eerst voor je de hele batch frituurt.",
-        "Presentatie: snijd één bom doormidden zodat de goudbruine buitenkant en de kleurrijke vulling zichtbaar zijn — dat geeft tafelgenoten een eetlustopwekkende inkijk.",
-        "Variatie: voeg chorizo of morcilla toe aan de vulling voor extra Spaanse smaakdiepte, of gebruik kabeljauw (bacalao) in plaats van gehakt voor een visversie.",
-        "Alternatief: geen frituurpan? Gebruik een diepe pan met neutrale olie — zorg dat de olie minstens 4 cm diep is zodat de bom volledig ondergedompeld kan worden.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Historisch: het precieze recept van de pittige saus van La Cova Fumada is een familiegeheim. Dit is daarom de HetProeven-versie van een pittige rode Barceloneta-saus, geen claim op de geheime originele formule.\n\nAardappelpuree: houd de puree zo droog mogelijk — gebruik meelachtige aardappels en stamp droog, zonder melk.\n\nTechniek: frituur de bommen op 175°C — te hoog en de buitenkant kleurt voordat de korst goed is opgebouwd. Test altijd een kleine bal eerst voor je de hele batch frituurt.\n\nPresentatie: snijd één bom doormidden zodat de goudbruine buitenkant en de kleurrijke vulling zichtbaar zijn.\n\nVariatie: voeg chorizo of morcilla toe aan de vulling voor extra Spaanse smaakdiepte, of gebruik kabeljauw (bacalao) in plaats van gehakt voor een visversie.\n\nAlternatief: geen frituurpan? Gebruik een diepe pan met neutrale olie — zorg dat de olie minstens 4 cm diep is zodat de bom volledig ondergedompeld kan worden.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Estrella Damm",
           "druif": "n.v.t. — bier",
-          "smaakprofiel": "IJskoud, fris, licht bitter, dorstlessend, schoon",
-          "omschrijving": "La Bomba is geboren in de visserskwartier van Barceloneta en wordt al meer dan 100 jaar geserveerd met een koud glas Estrella Damm — het Barcelonese biermerk dat al net zo lang deel uitmaakt van de stad als de Sagrada Família.",
-          "waarom_werkt_dit": "De lichte bitterheid en het koolzuur snijden door het frituurvet en de rijke aardappelvulling. Dit is geen wijnsituatie maar een authentieke stadscultuur — een glas wijn bij La Bomba is even vreemd als een biertje bij een fine dining degustatiemenu. Serveer ijskoud."
+          "smaakprofiel": "Fris, licht moutig, subtiel bitter en bruisend.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een koude Barcelona-lager past uitstekend bij de warme aardappel, krokante korst, vleesvulling en knoflooksaus. Koolzuur en bitterheid maken de mond schoon na iedere hap en houden de combinatie van frituur, aardappel en saus verrassend licht.",
+          "serveertemperatuur": "Serveer goed gekoeld."
         },
         {
           "type": "alternatief",
           "naam": "Cava Brut",
           "druif": "Xarel·lo, Macabeo en Parellada",
-          "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig",
-          "omschrijving": "als je toch wijn wilt: de bellen doen hetzelfde werk als het bierscbuim",
-          "waarom_werkt_dit": "De droge mousse maakt vet, zout en krokante korst direct lichter; Xarel·lo geeft bovendien meer Spaanse hartigheid dan een neutrale bubbel. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "smaakprofiel": "Droog, citroen, groene appel, zachte broodtoon en fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De fijne mousse vervult bij de bomba dezelfde verfrissende rol als koolzuur in bier. Citrus en frisse zuren snijden door aardappel, vlees en knoflooksaus, terwijl de lichte broodtoon mooi aansluit op de goudbruine korst.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest-toegankelijk",
           "naam": "Corpinnat Brut Nature Reserva — Penedès, Spanje",
           "druif": "Xarel·lo, Macabeo en/of Parellada",
-          "smaakprofiel": "Kurkdroog, citrus, appel, brioche, fijne mousse",
-          "omschrijving": "De gastronomische Catalaanse bubbel bij een Catalaanse frituurklassieker.",
-          "waarom_werkt_dit": "De mousse ruimt aardappel, vlees en saus op. De droge stijl voorkomt dat de bomba zwaar of zoet gaat smaken."
+          "smaakprofiel": "Kurkdroog, citrus, rijpe appel, brioche, amandel en zeer fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Corpinnat geeft de combinatie een serieuzere Catalaanse wijnroute zonder de bomba zwaar te maken. De droge mousse ruimt frituur en saus op; appel en citrus zorgen voor spanning en de brioche- en amandeltonen sluiten aan op de krokante korst.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         }
-      ],
-      "wine": {
-        "naam": "Estrella Damm",
-        "druif": "N.v.t.",
-        "toelichting": "De lichte bitterheid en het koolzuur snijden door het frituurvet en de rijke aardappelvulling. Dit is geen wijnsituatie maar een authentieke stadscultuur — een glas wijn bij La Bomba is even vreemd als een biertje bij een fine dining degustatiemenu. Serveer ijskoud.",
-        "alternatief": "Cava Brut — Droog, fris, fijne mousse, citrus, licht broodachtig; Corpinnat Brut Nature Reserva — Penedès, Spanje — Kurkdroog, citrus, appel, brioche, fijne mousse"
-      },
-      "tips_full": [
-        "de aardappelpuree moet zo droog mogelijk zijn — gebruik meelachtige aardappels en stamp droog, zonder melk. Serveer altijd met BEIDE sauzen naast elkaar.",
-        "Techniek: frituur de bommen op 170°C — te hoog en de buitenkant brandt voor de vulling gaar is. Test altijd een kleine bal eerst voor je de hele batch frituurt.",
-        "Presentatie: snijd één bom doormidden zodat de goudbruine buitenkant en de kleurrijke vulling zichtbaar zijn — dat geeft tafelgenoten een eetlustopwekkende inkijk.",
-        "Variatie: voeg chorizo of morcilla toe aan de vulling voor extra Spaanse smaakdiepte, of gebruik kabeljauw (bacalao) in plaats van gehakt voor een visversie.",
-        "Alternatief: geen frituurpan? Gebruik een diepe pan met neutrale olie — zorg dat de olie minstens 4 cm diep is zodat de bom volledig ondergedompeld kan worden.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
     },
     {
@@ -6081,17 +5907,17 @@
       ]
     },
     {
-      "title": "Huevos rellenos endiablados — duivelse eieren met piquillo en olijf",
+      "title": "Huevos Rellenos Endiablados — duivelse eieren met piquillo en olijf",
       "slug": "huevos-rellenos-endiablados",
       "location": "Spanje",
       "time": "25 min",
-      "servings": "4 personen",
+      "servings": "4 personen · 16 halve eitjes · 4 p.p.",
       "difficulty": "Makkelijk",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/huevos-rellenos-endiablados.jpg",
-      "short_description": "De allerbeste duivelse eieren — romige vulling met tabasco, mosterd, piquillo en zwarte olijven.",
-      "description": "De allerbeste duivelse eieren — romige vulling van eidooier, mayo, mosterd en tabasco met fijngehakte piquillo en zwarte olijven, afgewerkt met een ringetje olijf en een streepje piquillo.",
+      "short_description": "Romige eidooier met mayo, Dijon en Tabasco, piquillo, zwarte olijf en een lichte dust pimentón picante.",
+      "description": "Onze Spaanse draai aan deviled eggs: romige eidooier met mayo, Dijon en Tabasco, gecombineerd met piquillo, zwarte olijf en een lichte dust van pimentón picante.",
       "ingredient_groups": [
         {
           "group_name": "Eieren en vulling",
@@ -6102,31 +5928,31 @@
             },
             {
               "name": "mayonaise",
-              "amount": "60 g"
+              "amount": "50-60 g"
             },
             {
               "name": "Dijonmosterd",
-              "amount": "15 g"
+              "amount": "8-10 g"
             },
             {
               "name": "tabasco",
               "amount": "1 tl"
             },
             {
-              "name": "piquillopepers uit blik, half fijngehakt en half in reepjes",
+              "name": "piquillopepers uit blik, zeer goed uitgelekt en drooggedept, half fijngehakt en half in reepjes",
               "amount": "4"
             },
             {
-              "name": "zwarte olijven zonder pit, half fijngehakt en half in ringetjes",
+              "name": "zwarte olijven zonder pit, zeer goed uitgelekt en drooggedept, half fijngehakt en half in ringetjes",
               "amount": "60 g"
             },
             {
               "name": "citroensap",
-              "amount": "10 ml"
+              "amount": "circa 10 ml, naar smaak"
             },
             {
               "name": "zout en peper",
-              "amount": "naar smaak"
+              "amount": "naar smaak, pas toevoegen nadat de olijven erdoor zitten"
             }
           ]
         },
@@ -6139,7 +5965,7 @@
             },
             {
               "name": "olijfolie extra vierge",
-              "amount": "15 ml"
+              "amount": "enkele druppels, max. 5 ml"
             }
           ]
         }
@@ -6147,74 +5973,62 @@
       "steps": [
         {
           "action": "Eieren koken",
-          "description": "kook eieren exact 10 minuten in kokend water. Direct in ijswater. Laat volledig afkoelen en pel voorzichtig."
+          "description": "Kook grote eieren circa 9½-10 minuten en koel onmiddellijk terug in ijswater. Voorkom te lange garing en daarmee de groene rand rond de dooier."
         },
         {
           "action": "Halveren",
-          "description": "snijd elk ei in de lengte doormidden. Schep dooiers eruit en doe in een kom."
+          "description": "Snijd elk ei in de lengte doormidden. Schep de dooiers eruit en doe ze in een kom."
         },
         {
           "action": "Duivelse vulling",
-          "description": "prak dooiers fijn. Voeg mayo, mosterd, tabasco, citroensap, zout en peper toe. Mix tot gladde romige vulling."
+          "description": "Prak de dooiers fijn. Voeg de mayonaise, Dijonmosterd, tabasco en citroensap toe. Mix tot een gladde, romige vulling."
         },
         {
           "action": "Piquillo en olijf",
-          "description": "roer fijngehakte piquillo en fijngehakte olijven door de vulling."
+          "description": "Laat piquillo en olijven zeer goed uitlekken en dep goed droog. Hak fijn en roer door de vulling. Breng nu pas op smaak met zout en peper."
         },
         {
           "action": "Vullen en garneren",
-          "description": "spuit of schep de vulling royaal in elk eiwit. Leg een ringetje olijf en een reepje piquillo op elk ei. Bestrooi met pimentón picante en druppel olijfolie erover. Serveer koud."
+          "description": "Spuit of schep de vulling royaal in elk eiwit. Leg een ringetje olijf en een reepje piquillo op elk ei. Bestrooi met pimentón picante en enkele druppels olijfolie. Serveer koud."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Gebruik een spuitzak met stervormig mondstuk voor een elegant swirl. Leg de eitjes op een schaal met het ringetje olijf en het reepje piquillo goed zichtbaar boven op de vulling."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de eieren niet langer dan ongeveer 10 minuten te koken en direct terug te koelen, voorkom je de grauwgroene rand rond de dooier en blijft de dooier fris geel. Piquillo en olijven worden eerst goed drooggedept zodat ze de romige vulling niet verdunnen. Zout gaat er pas bij nadat de olijven — die zelf al zout zijn — erdoor zitten, zodat de vulling niet te zout wordt."
         }
       ],
-      "tips": [
-        "kook de eieren exact 10 minuten — zo zijn de dooiers perfect geel. Gebruik een spuitzak voor een nette, gelijke vulling.",
-        "Techniek: dep de eiwitholtes droog voor het vullen — vocht verhindert dat de vulling goed hecht aan het eiwit en geeft een glibberig resultaat.",
-        "Presentatie: gebruik een spuitzak met stervormig mondstuk voor een elegant swirl in de vulling — dat geeft het hapje direct meer charme dan een gladde gelepelde dot.",
-        "Variatie: voeg een dot sriracha toe aan de dooiermix voor extra hitte, of garneer met gefrituurde kappertjes voor een krokant zout accent.",
-        "Alternatief: geen Tabasco? Gebruik sriracha voor meer Aziatische hitte, of harissa voor een Noord-Afrikaans karakter — beide geven pit op een andere manier.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Kook de eieren circa 9½-10 minuten voor een mooie gele dooier zonder groene rand. Gebruik een spuitzak voor een nette, gelijke vulling.\n\nTechniek: dep de eiwitholtes droog voor het vullen — vocht verhindert dat de vulling goed hecht aan het eiwit.\n\nPresentatie: gebruik een spuitzak met stervormig mondstuk voor een elegant swirl in de vulling.\n\nSpaanse variatie: voor extra pit, gebruik meer pimentón picante of enkele druppels sherryazijn in plaats van internationale hete sauzen.\n\nEventueel: gefrituurde kappertjes geven een krokant, zout accent boven op de vulling.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Cava Brut",
           "druif": "Macabeo, Xarel·lo, Parellada",
-          "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig",
-          "omschrijving": "De droge Cava Brut is de perfecte tegenhanger voor de pittige 'endiablada' vulling — de bellen reinigen de mond na elke pikante hap, terwijl de friszuurheid de rijkdom van de mayonaisevulling doorsnijdt.",
-          "waarom_werkt_dit": "Cava heeft ook een lichte gisttoon die aansluit op het eigeel. De droogheid van de Brut balanceert de lichte zoetheid van de mosterd in de vulling. Een hapje dat vraagt om frisheid — en Cava levert dat per definitie. Serveer ijskoud op 7°C."
+          "smaakprofiel": "Droog, citroen, groene appel, lichte witte bloemen/brioche en fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Cava geeft precies de frisheid die de romige eidooier en mayonaise nodig hebben. De mousse maakt de mond schoon, citrus houdt de pittige Tabasco en piquillo helder en de subtiele broodtoon sluit verrassend mooi aan op het rijke eigeel.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         },
         {
           "type": "alternatief",
           "naam": "Manzanilla",
           "druif": "Palomino",
-          "smaakprofiel": "Kurkdroog, zilt, amandel, flor-karakter, strak",
-          "omschrijving": "de droge ziltheid sluit aan op de ansjovis in sommige versies van dit recept",
-          "waarom_werkt_dit": "De uitgesproken zilte droogheid sluit aan op zee, ansjovis, knoflook en olijfolie, terwijl flor en amandel het gerecht gastronomische diepte geven. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "smaakprofiel": "Beendroog, zilt, groene appel, kamille, amandel en uitgesproken flor-karakter.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De zilte, beendroge stijl van Manzanilla is sterk bij zwarte olijf en piquillo. Flor en amandel geven diepte aan ei en mayonaise zonder extra gewicht toe te voegen, terwijl de droge afdronk de lichte hitte van Tabasco strak houdt.",
+          "serveertemperatuur": "Serveer goed gekoeld rond 6-8°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Cava Brut Nature — Penedès, Spanje",
-          "druif": "Xarel·lo, Macabeo, Parellada",
-          "smaakprofiel": "Kurkdroog, citrus, groene appel, fijne mousse",
-          "omschrijving": "Een droge Spaanse bubbel bij romige, pittige borrelhapjes.",
-          "waarom_werkt_dit": "De mousse ruimt mayo en eidooier op. De citrus houdt piquillo, olijf en lichte hitte fris."
+          "type": "meest-toegankelijk",
+          "naam": "Txakoli",
+          "druif": "Hondarrabi Zuri",
+          "smaakprofiel": "Kurkdroog, limoen, groene appel, witte bloemen, hoge frisheid, zilt-minerale afdronk en soms een lichte prikkel.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Txakoli is de lichtste en meest verfrissende route. De hoge zuren snijden door mayo en eidooier, citrus houdt de piquillo fris en het lichte zilte karakter sluit mooi aan op de zwarte olijf. Een subtiele natuurlijke prikkel, wanneer aanwezig, maakt het hapje nog levendiger.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         }
-      ],
-      "wine": {
-        "naam": "Cava Brut",
-        "druif": "Macabeo, Xarel·lo, Parellada",
-        "toelichting": "Cava heeft ook een lichte gisttoon die aansluit op het eigeel. De droogheid van de Brut balanceert de lichte zoetheid van de mosterd in de vulling. Een hapje dat vraagt om frisheid — en Cava levert dat per definitie. Serveer ijskoud op 7°C.",
-        "alternatief": "Manzanilla — Kurkdroog, zilt, amandel, flor-karakter, strak; Cava Brut Nature — Penedès, Spanje — Kurkdroog, citrus, groene appel, fijne mousse"
-      },
-      "tips_full": [
-        "kook de eieren exact 10 minuten — zo zijn de dooiers perfect geel. Gebruik een spuitzak voor een nette, gelijke vulling.",
-        "Techniek: dep de eiwitholtes droog voor het vullen — vocht verhindert dat de vulling goed hecht aan het eiwit en geeft een glibberig resultaat.",
-        "Presentatie: gebruik een spuitzak met stervormig mondstuk voor een elegant swirl in de vulling — dat geeft het hapje direct meer charme dan een gladde gelepelde dot.",
-        "Variatie: voeg een dot sriracha toe aan de dooiermix voor extra hitte, of garneer met gefrituurde kappertjes voor een krokant zout accent.",
-        "Alternatief: geen Tabasco? Gebruik sriracha voor meer Aziatische hitte, of harissa voor een Noord-Afrikaans karakter — beide geven pit op een andere manier.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
     },
     {
@@ -6948,32 +6762,36 @@
       ]
     },
     {
-      "title": "Pintxo de puerro — Baskische preisalade met ham op brood",
+      "title": "Pintxo de Puerro — Baskische preisalade met ham en ei",
       "slug": "pintxo-puerro-ham",
-      "location": "Bilbao",
+      "location": "Bilbao, Spanje",
       "time": "35 min + 1 uur koelen",
-      "servings": "4 pintxos",
+      "servings": "4 personen (8 pintxos)",
       "difficulty": "Makkelijk",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/pintxo-puerro-ham.jpg",
-      "short_description": "Romige preisalade met ham en ei op licht geroosterd stokbrood — zoals in de beste bars van Bilbao.",
-      "description": "De iconische Baskische pintxo de puerro — romige preisalade met ham en ei op licht geroosterd stokbrood, afgewerkt met bieslook en een druppel olijfolie.",
+      "short_description": "Romige preisalade met ham en ei op licht geroosterd stokbrood — een klassieke Bilbao-pintxo.",
+      "description": "Een klassieke Bilbao-pintxo van romige preisalade met gekookte ham en ei op licht geroosterd brood.",
       "ingredient_groups": [
         {
           "group_name": "Preisalade",
           "ingredients": [
             {
-              "name": "prei, alleen wit en lichtgroen deel, in ringen",
-              "amount": "350 g"
+              "name": "prei, alleen wit en lichtgroen deel, fijngesneden",
+              "amount": "300 g"
             },
             {
-              "name": "gekookte ham, in kleine blokjes van 5 mm",
-              "amount": "100 g"
+              "name": "goede gekookte ham / jamón cocido, in kleine blokjes",
+              "amount": "150 g"
             },
             {
-              "name": "hardgekookte eieren, fijngehakt",
+              "name": "hardgekookte eieren, zeer fijngehakt of fijn geraspt",
               "amount": "2"
+            },
+            {
+              "name": "kleine bosui/cebolleta, zeer fijn",
+              "amount": "1"
             }
           ]
         },
@@ -6982,11 +6800,7 @@
           "ingredients": [
             {
               "name": "mayonaise",
-              "amount": "50 g"
-            },
-            {
-              "name": "crème fraîche of room",
-              "amount": "15 g"
+              "amount": "60 g"
             },
             {
               "name": "Dijonmosterd",
@@ -6997,12 +6811,8 @@
               "amount": "1 tl"
             },
             {
-              "name": "olijfolie extra vierge",
-              "amount": "1 el"
-            },
-            {
-              "name": "zout",
-              "amount": "1 tl"
+              "name": "zout en peper",
+              "amount": "naar smaak"
             }
           ]
         },
@@ -7010,87 +6820,75 @@
           "group_name": "Brood en afwerking",
           "ingredients": [
             {
-              "name": "sneetjes stokbrood",
-              "amount": "4"
+              "name": "dunne sneetjes stokbrood",
+              "amount": "8"
             },
             {
               "name": "bieslook, fijngehakt",
               "amount": "10 g"
             },
             {
-              "name": "olijfolie extra vierge voor de afwerking",
-              "amount": "1 el"
+              "name": "goede olijfolie",
+              "amount": "enkele druppels"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Prei koken en drogen",
-          "description": "snijd de prei fijn of in dunne halve ringen. Kook of blancheer 3–5 minuten in licht gezouten water tot net zacht, maar nog fris — niet langer, anders wordt de prei papperig en waterig. Spoel direct koud af om de garing te stoppen en laat zeer goed uitlekken. Dep droog in een schone theedoek en knijp licht uit — dit is dé stap die amateurs verpesten."
+          "action": "Prei blancheren",
+          "description": "Snijd de prei fijn, blancheer circa 2-3 minuten in licht gezouten water tot hij net zacht is. Koel direct terug in ijswater, laat zeer goed uitlekken en dep/droog de prei grondig voordat de salade wordt gemengd."
         },
         {
           "action": "Snijtechniek",
-          "description": "hak de uitgelekte prei nog iets fijner. Snij ham in blokjes van 5 mm. Hak eieren fijn. Alles ongeveer dezelfde grootte."
+          "description": "Hak de uitgelekte prei nog iets fijner. Snijd de ham in kleine blokjes. Hak de eieren zeer fijn of rasp ze fijn. Snijd de bosui zeer fijn."
         },
         {
           "action": "Dressing en mengen",
-          "description": "meng mayonaise, crème fraîche, mosterd, azijn en olijfolie. Meng eerst prei, ham en eieren. Voeg dressing geleidelijk toe. Zet minstens 1 uur koud."
+          "description": "Meng mayonaise, Dijonmosterd en sherryazijn of citroensap tot een gladde dressing. Meng eerst prei, ham, ei en bosui. Voeg de dressing geleidelijk toe en breng op smaak met zout en peper. Zet minstens 1 uur koud."
         },
         {
           "action": "Beleg en serveer",
-          "description": "rooster brood licht. Schep een royale dot preisalade op elk sneetje. Bestrooi met bieslook en druppel olijfolie erover. Serveer koud."
+          "description": "Rooster het brood licht. Schep een royale dot preisalade op elk sneetje. Werk af met een beetje bieslook en enkele druppels olijfolie. Serveer koud."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Schep de preisalade in een royale, ietwat hoge dot op het brood in plaats van plat uit te strijken — dat geeft het pintxo meer hoogte."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de prei kort te blancheren en daarna grondig uit te lekken en droog te deppen, blijft de salade romig zonder waterig te worden — natte prei is de meest voorkomende oorzaak van een papperig pintxo. Het fijngehakte of fijngeraspte ei mengt door de salade voor romigheid en binding, zonder als grove losse stukken te domineren. Ham en bosui geven een hartige, frisse tegenhanger aan de zachte prei."
         }
       ],
-      "tips": [
-        "het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. Natte prei geeft een waterige, smakeloze vulling.",
-        "Techniek: kook of blancheer de prei kort — 3 tot 5 minuten in licht gezouten water tot net zacht maar nog fris, nooit langer. Spoel daarna direct koud af om de garing te stoppen, laat goed uitlekken en dep droog; natte of te lang gekookte prei geeft een papperige, waterige vulling.",
-        "Presentatie: schep de preisalade in een royale, ietwat hoge dot op het brood in plaats van plat uit te strijken — dat geeft het pintxo meer hoogte en een luxere uitstraling.",
-        "Variatie: voeg een dot truffelmayo toe aan de preicrème voor luxe diepte, of gebruik fijn gesneden gerookte ham in plaats van gekookte ham voor een aanzienlijk rijker, hartiger karakter.",
-        "Alternatief: geen gekookte ham? Gebruik fijngesneden achterham of casselerrib — beide werken net zo goed en zijn overal verkrijgbaar.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Het goed uitlekken van de prei is de belangrijkste stap — natte prei geeft een waterige, minder romige salade.\n\nTechniek: blancheer de prei kort, 2-3 minuten, tot net zacht maar nog fris. Spoel daarna direct koud af, laat goed uitlekken en dep droog.\n\nPresentatie: schep de preisalade in een royale, ietwat hoge dot op het brood in plaats van plat uit te strijken.\n\nHam: gebruik een goede gekookte ham (jamón cocido) — dat is de basis van deze pintxo, geen gerookte ham of casselerrib nodig.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Txakoli",
           "druif": "Hondarrabi Zuri",
-          "smaakprofiel": "Droog, licht sprankelend, citrus, zilt, laag alcohol, zeer fris",
-          "omschrijving": "Dit typisch Baskische pintxo vraagt om de typisch Baskische wijn — Txakoli.",
-          "waarom_werkt_dit": "De licht sprankelende, friszure, minerale Txakoli snijdt door de romige preicrème en tempert de zoutheid van de jamon serrano. De lage alcohol (10-11%) maakt het perfect als aperitief bij meerdere pintxos. In San Sebastián en Bilbao wordt Txakoli van hoogte ingeschonken om te luchten en de mousse te activeren — dat is niet alleen traditie maar ook techniek. Serveer ijskoud op 7°C."
+          "smaakprofiel": "Kurkdroog, groene appel, citroen, witte bloemen, uitgesproken frisheid, zilt-minerale afdronk en soms een heel lichte natuurlijke prikkel.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Txakoli is de meest logische regionale match. De hoge frisheid snijdt door mayonaise en eidooier, terwijl het zilt-minerale karakter mooi aansluit op de gekookte ham. Groene appel en citrus houden de zachte, lichtzoete smaak van de prei levendig.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         },
         {
           "type": "alternatief",
           "naam": "Cava Brut",
           "druif": "Xarel·lo, Macabeo en Parellada",
-          "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig",
-          "omschrijving": "dezelfde sprankelende frisheid met iets meer body en complexiteit",
-          "waarom_werkt_dit": "De droge mousse maakt vet, zout en krokante korst direct lichter; Xarel·lo geeft bovendien meer Spaanse hartigheid dan een neutrale bubbel. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact."
+          "smaakprofiel": "Droog, citroen, groene appel, lichte amandel/brioche en fijne mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De mousse maakt de romige salade lichter en verfrist na mayonaise en ei. Citrus geeft spanning aan de zachte prei, terwijl de subtiele broodtoon juist mooi aansluit bij het geroosterde stokbrood.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
-          "druif": "Grüner Veltliner",
-          "smaakprofiel": "Droog, fris, witte peper, groene appel, citrus, mineraal",
-          "omschrijving": "Een Oostenrijkse witte wijn met peperige frisheid en gastronomische spanning.",
-          "waarom_werkt_dit": "De typische witte peper en kruidigheid van Grüner Veltliner past bij groente, kruiden en lichte sauzen. De frisse zuren houden het gerecht levendig zonder te overheersen."
+          "type": "meest-toegankelijk",
+          "naam": "Albariño — Rías Baixas",
+          "druif": "Albariño",
+          "smaakprofiel": "Droog, limoen en citroen, witte perzik, bloesem en een frisse zilt-minerale afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Albariño combineert levendige zuren met iets meer aromatische ronding dan Txakoli. Citrus houdt de mayo en het ei fris, de lichte perziktoon sluit aan op de zachte prei en het zilte karakter ondersteunt de ham zonder het pintxo zwaarder te maken.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
         }
-      ],
-      "wine": {
-        "naam": "Txakoli",
-        "druif": "Hondarrabi Zuri",
-        "toelichting": "Dit typisch Baskische pintxo vraagt om de typisch Baskische wijn — Txakoli. De licht sprankelende, friszure, minerale Txakoli snijdt door de romige preicrème en tempert de zoutheid van de jamon serrano. De lage alcohol (10-11%) maakt het perfect als aperitief bij meerdere pintxos. In San Sebastián en Bilbao wordt Txakoli van hoogte ingeschonken om te luchten en de mousse te activeren — dat is niet alleen traditie maar ook techniek. Serveer ijskoud op 7°C.",
-        "alternatief": "Cava Brut — dezelfde sprankelende frisheid met iets meer body en complexiteit"
-      },
-      "tips_full": [
-        "het goed uitlekken van de prei is de allerbelangrijkste stap — sla dit nooit over. Natte prei geeft een waterige, smakeloze vulling.",
-        "Techniek: kook of blancheer de prei kort — 3 tot 5 minuten in licht gezouten water tot net zacht maar nog fris, nooit langer. Spoel daarna direct koud af om de garing te stoppen, laat goed uitlekken en dep droog; natte of te lang gekookte prei geeft een papperige, waterige vulling.",
-        "Presentatie: schep de preisalade in een royale, ietwat hoge dot op het brood in plaats van plat uit te strijken — dat geeft het pintxo meer hoogte en een luxere uitstraling.",
-        "Variatie: voeg een dot truffelmayo toe aan de preicrème voor luxe diepte, of gebruik fijn gesneden gerookte ham in plaats van gekookte ham voor een aanzienlijk rijker, hartiger karakter.",
-        "Alternatief: geen gekookte ham? Gebruik fijngesneden achterham of casselerrib — beide werken net zo goed en zijn overal verkrijgbaar.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ]
     },
     {
@@ -61757,24 +61555,23 @@
       }
     },
     {
-      "source_recipe_number": 184,
       "title": "Cecina de León met geconfijte Pedro Ximénez-peer en Manchego-tuile",
       "slug": "cecina-leon-geconfijte-pedro-ximenez-peer-manchego-tuile",
-      "location": "Castilië en León / Andalusië",
+      "location": "Castilië en León, Spanje",
       "time": "30 min hands-on + 30 min afkoeltijd",
-      "servings": "12 stuks (3 per persoon)",
+      "servings": "4 personen · 12 hapjes · 3 per persoon",
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/cecina-leon-geconfijte-pedro-ximenez-peer-manchego-tuile.jpg",
       "short_description": "Flinterdunne Cecina de León met een mini-blokje Pedro Ximénez-geconfijte peer, een krokante Manchego-tuile en een glanzende PX-lak.",
-      "description": "Een verfijnd alternatief op de klassieke chorizo-tapa: flinterdunne plakjes Cecina de León — gerookt en gedroogd rundvlees uit Castilië en León — luchtig gevouwen op een donker bordje. Daarnaast een mini-blokje peer geconfijt in Pedro Ximénez-sherry, een knapperige Manchego-tuile rechtop als visueel middelpunt, en een paar stippen ingekookte PX-lak. Chiquer, droger en rokeriger dan chorizo, met de diepte van Spaanse charcuterie op zijn best.",
+      "description": "Flinterdunne Cecina de León IGP — gerijpt rundvlees uit León met een geconcentreerd, licht rokerig karakter — gecombineerd met peer in Pedro Ximénez, krokante oude Manchego en een paar druppels PX-lak. Een verfijnde HetProeven-compositie rond een authentiek Spaans streekproduct.",
       "ingredient_groups": [
         {
           "group_name": "Cecina",
           "ingredients": [
             {
-              "name": "Cecina de León, flinterdun gesneden (1 mm)",
+              "name": "echte Cecina de León IGP, circa 1 mm dun gesneden",
               "amount": "100 g"
             }
           ]
@@ -61783,16 +61580,12 @@
           "group_name": "Geconfijte peer en PX-lak",
           "ingredients": [
             {
-              "name": "stevige peer (Conference of Doyenné du Comice)",
-              "amount": "1"
+              "name": "stevige peer (Conference of Doyenné du Comice), afhankelijk van formaat",
+              "amount": "½-1"
             },
             {
               "name": "Pedro Ximénez-sherry",
-              "amount": "100 ml"
-            },
-            {
-              "name": "honing",
-              "amount": "1 tl"
+              "amount": "75-100 ml"
             },
             {
               "name": "roomboter",
@@ -61803,7 +61596,7 @@
               "amount": "1"
             },
             {
-              "name": "staafje kaneel (optioneel)",
+              "name": "staafje kaneel (optioneel, zeer subtiel)",
               "amount": "1"
             },
             {
@@ -61850,11 +61643,11 @@
       "steps": [
         {
           "action": "Peer pocheren en PX-lak maken",
-          "description": "Schil de peer, verwijder het klokhuis en snijd in mini-blokjes van 5 mm. Smelt de boter in een klein steelpannetje en voeg de PX, honing, tijm en eventueel kaneel toe. Voeg de peerblokjes toe en laat 8–10 minuten zachtjes pocheren tot de peer zacht maar nog stevig is en de PX is ingedikt tot een lichte siroop. Schep de peerblokjes eruit met een schuimspaan. Verwijder tijm en kaneel en laat het pocheervocht nog 1–2 minuten verder reduceren tot stroopconsistentie — het moet aan de lepel blijven hangen. Voeg zwarte peper toe en houd warm-lauw tot plating."
+          "description": "Schil de peer, verwijder het klokhuis en snijd in nette blokjes van ongeveer 8-10 mm — genoeg voor 12 stuks. Smelt de boter in een klein steelpannetje en voeg de PX, tijm en eventueel het staafje kaneel toe. Voeg de peerblokjes toe en laat zacht pocheren tot de peer bijna zacht is, maar haal de blokjes eruit vóórdat ze helemaal zacht worden — ze moeten hun vorm behouden. Verwijder tijm en kaneel en laat het pocheervocht apart verder reduceren tot een lichte, glanzende lak die aan de lepel blijft hangen. Breng op smaak met zwarte peper en houd lauw tot serveren."
         },
         {
           "action": "Manchego-tuiles bakken",
-          "description": "Verwarm de oven op 180°C en bekleed een bakplaat met bakpapier. Vorm 12 kleine hoopjes geraspt Manchego (ca. 5 g per stuk) als rondjes van 4 cm doorsnede. Strooi een minuscuul beetje zwarte peper en eventueel een snufje pimentón op elk hoopje. Bak 4–6 minuten tot diepgoudbruin en glanzend — houd de tuiles goed in het oog vanaf minuut 4, Manchego brandt snel. Haal direct na het bakken voorzichtig los met een paletmes terwijl ze nog warm en plooibaar zijn. Bewaar luchtdicht tot serveren."
+          "description": "Verwarm de oven op 180°C en bekleed een bakplaat met bakpapier. Vorm 12 kleine hoopjes geraspt Manchego (ca. 5 g per stuk) als rondjes van 4 cm doorsnede. Strooi een minuscuul beetje zwarte peper en eventueel een snufje pimentón op elk hoopje. Bak 4-6 minuten tot diepgoudbruin en glanzend — houd de tuiles goed in het oog vanaf minuut 4, Manchego brandt snel. Haal direct na het bakken voorzichtig los met een paletmes terwijl ze nog warm en plooibaar zijn. Bewaar luchtdicht tot serveren."
         },
         {
           "action": "Cecina op kamertemperatuur brengen",
@@ -61862,42 +61655,47 @@
         },
         {
           "action": "Plating en serveren",
-          "description": "Plaats 3 gevouwen cecina-stukjes per bord in een driehoek of rij. Zet naast elke cecina één geconfijt peerblokje. Plaats één Manchego-tuile rechtop of schuin tegen de cecina voor verticale architectuur. Druppel 2–3 stippen ingedikte PX-lak naast de cecina op het bord. Plaats één blaadje waterkers per hapje, druppel wat olijfolie en geef een draai zwarte peper. Direct serveren."
+          "description": "Plaats 3 gevouwen cecina-stukjes per bord in een driehoek of rij. Zet naast elke cecina één geconfijt peerblokje. Plaats één Manchego-tuile rechtop of schuin tegen de cecina voor verticale architectuur. Druppel 2-3 stippen ingedikte PX-lak naast de cecina op het bord. Plaats één blaadje waterkers per hapje, druppel wat olijfolie en geef een draai zwarte peper. Direct serveren."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Gebruik kleine donkere bordjes van ongeveer 14 cm. Drie gevouwen cecina-stukjes naast elkaar als drie satijnen bloemblaadjes, met het mahoniekleurige vlees contrasterend tegen het lichtgouden peerblokje, de goudbruine tuile en het donkerglanzende PX-lakje. Zet de tuile rechtop of schuin tegen de cecina voor hoogte, en houd verder negatieve ruimte rondom de compositie."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Cecina komt pas op kamertemperatuur volledig tot zijn recht — vet en rookaroma's zijn dan het meest uitgesproken. De peer wordt bewust vóór volledige zachtheid uit het pocheervocht gehaald, zodat de blokjes hun vorm behouden terwijl de PX apart verder inkookt tot een geconcentreerde lak. Oude Manchego is droog genoeg om tot een echt krokante tuile te bakken — dat lukt met jongere, vochtigere kaas veel minder goed. Samen geven vlees, fruit, kaas en lak een compositie van zilt, zoet, rokerig en krokant in één hap."
         }
       ],
-      "chef_tip": "Mise-en-place: de geconfijte peer en de PX-lak kunnen een dag vooraf worden gemaakt — aroma's verbinden zich en de lak wordt nog dieper van smaak. De Manchego-tuiles kunnen uren vooraf worden gebakken en luchtdicht worden bewaard. De cecina 15 minuten voor serveren uit de koelkast halen. Pas in de laatste 5 minuten assembleren — tuiles worden snel zacht door luchtvocht en de PX-lak droogt op.\n\nTechniek: de Manchego-tuile vraagt aandacht bij het bakken — diepgoudbruin is perfect, één minuut te lang maakt hem bitter. Houd de oven goed in de gaten vanaf minuut 4. Haal de tuiles direct los met een paletmes terwijl ze nog warm zijn; ze harden uit zodra ze afkoelen.\n\nPresentatie: gebruik kleine donkere bordjes van 14 cm (zwart leisteen, donker hout of donker keramiek). Drie gevouwen cecina-stukjes naast elkaar als drie satijnen bloemblaadjes. Het mahonie-rode van de cecina contrasteert met het lichtgouden peerblokje, de helderbruine tuile en het donkerglanzende PX-lakje. De tuile rechtop of schuin tegen de cecina geeft hoogte en is het visuele middelpunt. Houd negatieve ruimte rondom de drie composities.\n\nVariatie: gebruik Oloroso in plaats van Pedro Ximénez voor de peer — geeft een drogere, minder zoete en meer nootachtige route die ook prachtig werkt met de cecina.\n\nAlternatief: geen Cecina de León in de buurt? Bresaola of Coppa di Parma zijn acceptabele alternatieven — Italiaans en niet gerookt, maar even verfijnd van karakter.\n\nCecina de León van topkwaliteit is essentieel: echte gerookte gedroogde cecina uit León (Cecina Astorgana, El Aguazal of een goede artisanale variant), flinterdun gesneden door de slager op 1 mm.\n\nOude Manchego (12+ maanden), niet jong: jonge Manchego heeft te veel vocht en bakt niet goed tot tuile. Oude Manchego is droger en geeft een glanzende, krokante korst.\n\nPeer stevig houden: gebruik Conference of Doyenné du Comice, nooit een te rijpe peer. 8–10 minuten pocheren is genoeg — de blokjes moeten hun vorm behouden.",
+      "chef_tip": "Mise-en-place: de geconfijte peer en de PX-lak kunnen een dag vooraf worden gemaakt — aroma's verbinden zich en de lak wordt nog dieper van smaak. De Manchego-tuiles kunnen uren vooraf worden gebakken en luchtdicht worden bewaard. Haal de cecina 15 minuten voor serveren uit de koelkast. Assembleer pas in de laatste 5 minuten — tuiles worden snel zacht door luchtvocht en de PX-lak droogt op.\n\nTechniek: de Manchego-tuile vraagt aandacht bij het bakken — diepgoudbruin is perfect, één minuut te lang maakt hem bitter. Houd de oven goed in de gaten vanaf minuut 4. Haal de tuiles direct los met een paletmes terwijl ze nog warm zijn; ze harden uit zodra ze afkoelen.\n\nPresentatie: gebruik kleine donkere bordjes van 14 cm. Drie gevouwen cecina-stukjes naast elkaar als drie satijnen bloemblaadjes, met de tuile rechtop of schuin tegen de cecina voor hoogte.\n\nVariatie: gebruik droge Oloroso in plaats van Pedro Ximénez voor de peer — geeft een drogere, minder zoete en meer nootachtige route die ook prachtig werkt met de cecina.\n\nAlternatief: geen Cecina de León in de buurt? Bresaola is een acceptabel alternatief — Italiaans en niet gerookt, maar even verfijnd van karakter.\n\nGebruik echte Cecina de León IGP, flinterdun gesneden door de slager op ongeveer 1 mm.\n\nGebruik liefst Manchego van 12 maanden of ouder; die is droger, geconcentreerder van smaak en wordt makkelijker krokant.\n\nPeer stevig houden: gebruik Conference of Doyenné du Comice, nooit een te rijpe peer. Haal de blokjes uit het pocheervocht vóórdat ze helemaal zacht zijn — zo behouden ze hun vorm.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Oloroso Sherry Seco — Jerez, Spanje",
-          "druif": "Palomino Fino",
-          "smaakprofiel": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer. Oxidatieve rijping zonder flor-bescherming geeft diepte en nootachtige rijkheid. Hoog alcoholgehalte (17–18%), lange afdronk.",
-          "omschrijving": "Lustau Don Nuño Oloroso, González Byass Solera 1847 (droog), Bodegas Tradición Oloroso. €15–25. Serveer op 14–16°C in een catavinos — niet ijskoud, anders verlies je de aroma's.",
-          "waarom_werkt_dit": "Oloroso bij gedroogd Spaans rundvlees is gastronomisch onverslaanbaar. De walnoot-en-gedroogd-fruit-aroma's vinden de cecina en de PX-geconfijte peer in dezelfde oxidatieve aromatische taal; de oxidatieve diepte respecteert de bittere, nootachtige Manchego-tuile; en het stevige alcoholgehalte draagt het umami-rijke profiel van het gerecht zonder te overheersen. Wat in elke goede Andalusische taberna bij charcuterie aan tafel komt."
+          "naam": "Droge Oloroso — bijv. González Byass Alfonso Oloroso, Lustau Don Nuño of Bodegas Tradición Oloroso (Jerez, Spanje)",
+          "druif": "Palomino",
+          "smaakprofiel": "Droog en krachtig, walnoot, hazelnoot, gedroogde sinaasappelschil, tabak, leer en een lange hartige afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Droge Oloroso sluit aromatisch prachtig aan op gerijpte cecina en oude Manchego. Walnoot en hazelnoot spiegelen de geroosterde, hartige tonen van vlees en kaas; gedroogd fruit en sinaasappelschil pakken het kleine zoete accent van de PX-peer op zonder er nóg meer suiker naast te zetten. De wijn heeft genoeg kracht voor umami en gerijpte smaken, maar blijft droog.",
+          "serveertemperatuur": "Serveer rond 12-14°C."
         },
         {
           "type": "alternatief",
-          "naam": "Mencía — Bierzo of Ribeira Sacra, Castilië en León/Galicië, Spanje",
+          "naam": "Mencía — Bierzo, Castilië en León",
           "druif": "Mencía",
-          "smaakprofiel": "Droog, medium-licht, granaatappel, donkere kers, violet, subtiele kruidigheid en mineraliteit. Zachte maar aanwezige tannine, levendige frisse zuren.",
-          "omschrijving": "Descendientes de J. Palacios 'Pétalos', Pittacum, Castro Ventosa El Castro. €10–15. Serveer lichtjes gekoeld op 14–16°C — koeler dan een zware Rioja.",
-          "waarom_werkt_dit": "Mencía komt uit dezelfde regio als de cecina (Castilië en León en aangrenzend Galicië) — perfecte regionale coherentie op het bord. De lichtere body en lagere tannine maken hem geschikter voor charcuterie-amuse dan een volle Rioja Reserva die het fijne vlees zou overstemmen. Granaatappel-en-kers-aroma's verbinden met de cecina; de mineraliteit raakt de Manchego-tuile."
+          "smaakprofiel": "Droog, zure kers, framboos, viooltjes, zwarte peper, mineraliteit, frisse zuren en zachte tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Mencía uit Bierzo is een mooie regionale combinatie: Bierzo ligt in de provincie León, net als de oorsprong van de Cecina de León. Het sappige rode fruit verfrist het gedroogde rundvlees, de zachte tannines respecteren de fijne textuur en de florale, peperige mineraliteit geeft spanning naast Manchego en PX-peer.",
+          "serveertemperatuur": "Serveer licht gekoeld rond 14-15°C."
         },
         {
           "type": "meest-toegankelijk",
           "naam": "Cava Brut Nature — Penedès, Catalonië, Spanje",
           "druif": "Xarel·lo, Macabeo, Parellada",
-          "smaakprofiel": "Volledig droog, bruisend, groene appel, citrus, lichte amandel en gistige diepte. Fijne persistente mousse, strakke zuren.",
-          "omschrijving": "Recaredo Terrers, Gramona Imperial, Llopart Reserva Brut Nature. €15–25. Serveer goed gekoeld op 7–9°C in een champagneflûte.",
-          "waarom_werkt_dit": "Voor wie liever bubbels bij vlees-amuse: de fijne mousse snijdt door de vetheid van de cecina en de Manchego-tuile; de groene-appel-zuren spiegelen de geconfijte peer; en de gistige diepte verbindt met de nootachtige cecina-aroma's. Een feestelijker route — Catalaans-Spaans coherent en breed verkrijgbaar in elke goede slijterij."
+          "smaakprofiel": "Kurkdroog, groene appel, citroen, amandel, lichte brioche en fijne persistente mousse.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Cava kiest voor contrast. De mousse en frisse zuren reinigen na het zoute gerijpte rundvlees en de krokante Manchego, terwijl groene appel de peer frisser laat smaken. Amandel en brioche geven net genoeg hartigheid om bij de cecina aan te sluiten.",
+          "serveertemperatuur": "Serveer rond 7-9°C."
         }
-      ],
-      "wine": {
-        "naam": "Oloroso Sherry Seco",
-        "druif": "Palomino Fino",
-        "toelichting": "Droog, vol en complex, met aroma's van walnoot, gedroogd fruit, karamel, tabak en leer — Lustau Don Nuño, González Byass Solera India of Bodegas Tradición Oloroso (€15–25). Oloroso bij gedroogd Spaans rundvlees is gastronomisch onverslaanbaar: de walnoot-en-gedroogd-fruit-aroma's vinden de cecina en de PX-peer in dezelfde aromatische taal, de oxidatieve diepte respecteert de Manchego-tuile, en de stevige alcohol draagt het umami-rijke profiel feilloos. Serveer op 14–16°C in een catavinos.",
-        "alternatief": "Mencía (Bierzo, Castilië en León) — droog, medium-licht, granaatappel, kers, violet en mineraliteit (Descendientes de J. Palacios, Pittacum, €10–15, lichtjes gekoeld op 14–16°C). Perfecte regionale coherentie: Mencía komt uit dezelfde streek als de cecina, met een lichtere body en lagere tannine die beter past bij charcuterie-amuse dan een volle Rioja Reserva."
-      }
+      ]
     },
     {
       "source_recipe_number": 185,
