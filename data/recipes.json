@@ -34724,7 +34724,7 @@
       "slug": "pizza-napoletana-margherita-perfect-deeg",
       "location": "Napels",
       "time": "30 min actief + 6/24/48 uur fermentatie",
-      "servings": "2 pizza's van ±350 g",
+      "servings": "2 pizza's van ±280 g",
       "difficulty": "Gemiddeld",
       "keuken": "Italiaans",
       "categorie": "pasta-rijst",
@@ -34733,46 +34733,46 @@
       "description": "Vier ingrediënten, drie fermentatiemethoden en één doel: een cornicione die explosief opbolt bij 500°C. Het deeg op 63% hydratatie geeft de stoom die de rand doet rijzen. San Marzano DOP rauw en met de handen geknepen. Mozzarella gescheurd en uitgelekt.",
       "ingredient_groups": [
         {
-          "group_name": "Basisformule deeg (voor 2 x 350 g)",
+          "group_name": "Basisformule deeg (voor 2 x 280 g)",
           "ingredients": [
             {
-              "name": "Tipo 00 bloem (Caputo Pizzeria) — 100%",
-              "amount": "422 g"
+              "name": "Tipo 00 bloem — Caputo Pizzeria is ideaal voor 6 en 24 uur; voor de 48-uursmethode geeft een sterkere 00-bloem, zoals Caputo Cuoco, extra zekerheid en structuur",
+              "amount": "338 g"
             },
             {
-              "name": "koud kraanwater — 63%",
-              "amount": "266 g"
+              "name": "koud kraanwater — 63% hydratatie",
+              "amount": "213 g"
             },
             {
               "name": "fijn zeezout — 2,8%",
-              "amount": "12 g"
+              "amount": "9,5 g"
             },
             {
               "name": "verse gist — 6 uur kamertemperatuur",
-              "amount": "1,5 g"
+              "amount": "1,2 g"
             },
             {
               "name": "of instant droge gist — 6 uur",
-              "amount": "0,5 g"
+              "amount": "0,40 g"
             },
             {
               "name": "verse gist — 24 uur koude rijzing",
-              "amount": "0,4 g"
+              "amount": "0,32 g"
             },
             {
               "name": "of instant droge gist — 24 uur",
-              "amount": "0,15 g"
+              "amount": "0,12 g"
             },
             {
-              "name": "verse gist — 48 uur koude rijzing (beste resultaat)",
-              "amount": "0,2 g"
+              "name": "verse gist — 48 uur koude rijzing (meeste smaakontwikkeling)",
+              "amount": "0,16 g"
             },
             {
               "name": "of instant droge gist — 48 uur",
-              "amount": "0,07 g"
+              "amount": "0,06 g"
             },
             {
-              "name": "BELANGRIJK: precisieweegschaal nodig die tot 0,1 g nauwkeurig meet",
+              "name": "BELANGRIJK: voor deze zeer kleine gisthoeveelheden bij voorkeur een precisieweegschaal van 0,01 g gebruiken",
               "amount": ""
             }
           ]
@@ -34781,7 +34781,7 @@
           "group_name": "Tomatensaus",
           "ingredients": [
             {
-              "name": "San Marzano DOP tomaten uit blik — NOOIT koken, altijd rauw, fijnknijpen met de HANDEN",
+              "name": "San Marzano DOP tomaten uit blik — nooit koken, altijd rauw, fijnknijpen met de handen",
               "amount": "1 blik (400 g)"
             },
             {
@@ -34799,15 +34799,19 @@
           "ingredients": [
             {
               "name": "tomatensaus",
-              "amount": "70–80 g"
+              "amount": "60–80 g"
             },
             {
-              "name": "mozzarella fior di latte of bufala, MINIMAAL 30 min uitgelekt, gescheurd",
-              "amount": "90–100 g"
+              "name": "mozzarella fior di latte of bufala, minimaal 30–60 min uitgelekt, gescheurd",
+              "amount": "80–100 g"
             },
             {
-              "name": "verse basilicumblaadjes (ALTIJD na het bakken)",
+              "name": "verse basilicumblaadjes (enkele vóór het bakken; eventueel extra verse blaadjes na het bakken)",
               "amount": "5–6"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "circa 6–7 g"
             }
           ]
         }
@@ -34815,49 +34819,40 @@
       "steps": [
         {
           "action": "Kneden",
-          "description": "zout oplossen in 240 ml water. 340 g bloem (80%) toevoegen. Gist apart oplossen in resterende water + bloem. Mengen. 10–12 min kneden (machine laagste stand). Windowpane test."
+          "description": "Los het zout op in ongeveer 190 g van het water. Voeg circa 270 g bloem toe en meng. Los de gist apart op in het resterende water en voeg toe. Werk daarna de resterende bloem erdoor. Kneed circa 10–12 minuten op lage stand tot een glad, elastisch deeg ontstaat. Het deeg moet soepel zijn en de windowpane-test grotendeels doorstaan."
         },
         {
           "action": "Methode 6 uur",
-          "description": "2 uur bulkrijzing kamertemperatuur. Bollen. 4 uur tweede rijzing kamertemperatuur."
+          "description": "Laat circa 2 uur bulkrijzen bij 20–22°C. Verdeel in twee bollen van circa 280 g en laat nog ongeveer 4 uur rijzen bij 20–22°C."
         },
         {
           "action": "Methode 24 uur",
-          "description": "30 min rusten. Vouwstap. 30 min rusten. Bollen. 18–20 uur koelkast (4°C). 3–4 uur voor bakken eruit."
+          "description": "Laat 30 minuten rusten. Vouw het deeg eenmaal, laat nog 30 minuten rusten en verdeel in twee bollen. Laat 18–20 uur afgedekt in de koelkast bij circa 4°C rijzen. Haal de bollen ongeveer 3–4 uur vóór het bakken uit de koelkast."
         },
         {
-          "action": "Methode 48 uur (beste)",
-          "description": "45 min rusten. Vouwstap. 15 min rusten. Bollen. 42–44 uur koelkast. 4–5 uur voor bakken eruit."
+          "action": "Methode 48 uur",
+          "description": "Laat 45 minuten rusten. Vouw eenmaal, laat nog 15 minuten rusten en verdeel in twee bollen. Laat 42–44 uur afgedekt in de koelkast bij circa 4°C rijzen. Haal de bollen ongeveer 4–5 uur vóór het bakken uit de koelkast. Dit is de methode met de meeste smaakontwikkeling."
         },
         {
           "action": "Tomatensaus",
-          "description": "tomaten met handen fijnknijpen. Nooit blender. Zout erdoor. Nooit koken."
+          "description": "Knijp de San Marzano DOP-tomaten met de handen fijn. Niet blenderen en niet koken. Breng alleen licht op smaak met zout."
         },
         {
           "action": "Vormen",
-          "description": "pizzaoven 45 min voorverwarmen op max. Werkblad licht met semolina bestrooien. Van midden naar buiten drukken. BUITENSTE 2 CM NOOIT AANRAKEN. Nooit deegroller."
+          "description": "Verwarm de pizzaoven minimaal 45 minuten volledig voor. Bestuif het werkblad licht met 00-bloem. Druk de deegbol voorzichtig vanuit het midden naar buiten uit en laat de buitenste circa 2 cm volledig onaangeraakt. Gebruik geen deegroller. Rek de pizza voorzichtig verder uit tot ongeveer 30–33 cm. Bestuif de pizzaschep slechts heel licht met semola rimacinata of bloem en verwijder overtollig meel."
         },
         {
-          "action": "Beleggen",
-          "description": "70–80 g saus. Mozzarella losjes. Schieten met peel."
+          "action": "Beleggen & inschieten",
+          "description": "Leg het gevormde deeg op een héél licht met semola rimacinata of bloem bestoven pizzaschep. Controleer met een korte schudbeweging of de pizza vrij over de schep glijdt. Verdeel 60–80 g tomaat over de bodem, gevolgd door 80–100 g goed uitgelekte fior di latte of mozzarella, enkele basilicumblaadjes en circa 6–7 g extra vergine olijfolie. Houd de buitenste 2 cm vrij. Beleg snel, controleer nog eenmaal of de pizza glijdt en schuif hem direct met één korte, besliste beweging op de hete ovenvloer."
         },
         {
           "action": "Bakken",
-          "description": "bij 500°C: vloer 450–480°C, koepel 400–430°C. Vloer iets heter dan koepel — zo bakt de bodem krokant zonder dat de bovenkant verbrandt. 60–90 seconden. Elke 15–20 sec draaien. Cornicione explosief hoog met donkere leopardvlekken."
+          "description": "Streef in een pizzaoven naar een vloer/steen van circa 400–430°C en een oven/koepeltemperatuur van circa 450–485°C. Bak ongeveer 60–90 seconden. Draai de pizza na circa 20 seconden en daarna zo nodig iedere 15–20 seconden. Houd hem bij het draaien zoveel mogelijk op hetzelfde gedeelte van de ovenvloer. De bodem moet gaar en gespikkeld zijn, niet zwart; de cornicione moet sterk gerezen, luchtig en plaatselijk donker gevlekt zijn."
         },
         {
           "action": "Na het bakken",
-          "description": "basilicum + eventueel druppel olijfolie. Direct serveren."
+          "description": "Serveer direct. Voeg desgewenst nog enkele verse basilicumblaadjes of een paar druppels extra vergine olijfolie toe."
         }
-      ],
-      "tips": [
-        "Inkopen: Tipo 00 Caputo Pizzeria is niet onderhandelbaar: supermarktbloem werkt niet bij 500°C.",
-        "63% hydratatie: 63% hydratatie voor de cornicione: meer water = meer stoom = explosievere rand.",
-        "48 uur is het sweet spot: beste smaak, beste structuur, mooiste cornicione.",
-        "De cornicione is heilig: nooit aanraken bij vormen. Alle lucht moet naar de oven.",
-        "Mozzarella 30–60 min uitlekken: nat midden = slappe pizza.",
-        "Variatie — pizza marinara: tomatensaus + knoflook + oregano + olijfolie, geen mozzarella.",
-        "Alternatief mozzarella: fior di latte smelt gelijkmatiger dan bufala — betrouwbaarder thuis."
       ],
       "wines": [
         {
@@ -34885,22 +34880,7 @@
           "waarom_werkt_dit": "Biedt meer Falanghina-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
         }
       ],
-      "wine": {
-        "naam": "Gragnano della Penisola Sorrentina DOC",
-        "druif": "Piedirosso, Sciascinoso, Aglianico",
-        "toelichting": "Licht pétillant, droog, fris rood fruit, laag in tannine. Dé klassieke pizza-wijn van Napels — licht mousserend en fris, snijdt door de rijke mozzarella en de tomatensaus. Fruitige lichtheid zorgt dat de pizza de hoofdrol houdt. Serveer licht gekoeld op 14°C.",
-        "alternatief": "Lacryma Christi del Vesuvio Rosso of Falanghina del Sannio"
-      },
-      "tips_full": [
-        "Inkopen: Tipo 00 Caputo Pizzeria is niet onderhandelbaar: supermarktbloem werkt niet bij 500°C.",
-        "63% hydratatie: 63% hydratatie voor de cornicione: meer water = meer stoom = explosievere rand.",
-        "48 uur is het sweet spot: beste smaak, beste structuur, mooiste cornicione.",
-        "De cornicione is heilig: nooit aanraken bij vormen. Alle lucht moet naar de oven.",
-        "Mozzarella 30–60 min uitlekken: nat midden = slappe pizza.",
-        "Variatie — pizza marinara: tomatensaus + knoflook + oregano + olijfolie, geen mozzarella.",
-        "Alternatief mozzarella: fior di latte smelt gelijkmatiger dan bufala — betrouwbaarder thuis."
-      ],
-      "chef_tip": "Inkopen: Tipo 00 Caputo Pizzeria is niet onderhandelbaar: supermarktbloem werkt niet bij 500°C.\n\n63% hydratatie: 63% hydratatie voor de cornicione: meer water = meer stoom = explosievere rand.\n\n48 uur is het sweet spot: beste smaak, beste structuur, mooiste cornicione.\n\nDe cornicione is heilig: nooit aanraken bij vormen. Alle lucht moet naar de oven.\n\nMozzarella 30–60 min uitlekken: nat midden = slappe pizza.\n\nVariatie — pizza marinara: tomatensaus + knoflook + oregano + olijfolie, geen mozzarella.\n\nAlternatief mozzarella: fior di latte smelt gelijkmatiger dan bufala — betrouwbaarder thuis."
+      "chef_tip": "Tipo 00 bloem: gebruik een sterke pizzabloem zoals Caputo Pizzeria (6 en 24 uur) of Caputo Cuoco (48 uur) — gewone supermarktbloem heeft over het algemeen te weinig glutenkracht voor deze hoge baktemperaturen.\n\n63% hydratatie: 63% hydratatie geeft een soepel en goed rekbaar deeg en helpt bij een open, luchtige cornicione. De ovenrijs ontstaat uit de combinatie van goede fermentatie, voorzichtig vormen en zeer hoge hitte.\n\n48 uur is het sweet spot: de meeste smaakontwikkeling, een fijne structuur en een mooie cornicione.\n\nCornicione: raak bij het vormen de buitenste circa 2 cm zo min mogelijk aan. Daar zit het fermentatiegas dat in de oven de luchtige rand vormt.\n\nMozzarella: laat fior di latte/mozzarella minimaal 30–60 minuten uitlekken. Te natte mozzarella maakt het midden van de pizza slap en waterig.\n\nPizzaschep: gebruik zo weinig mogelijk bloem of semola op de pizzaschep. Te veel verbrandt bij deze temperaturen en kan een bittere bodem geven. Controleer vóór het inschieten altijd of de pizza vrij over de schep glijdt.\n\nGeen pizzaoven?: gebruik bij voorkeur een pizzastaal (baking steel: een dikke, massieve stalen plaat voor in de oven). Een pizzasteen is een goed alternatief. Plaats staal of steen hoog in de oven en verwarm minimaal 45–60 minuten voor op de hoogste stand. Gebruik indien mogelijk de bovengrill voor extra bovenwarmte. Bak de pizza ongeveer 4–7 minuten, afhankelijk van de oven, en draai indien nodig tussentijds. Een gewone dunne bakplaat kan ook, maar geeft duidelijk minder ovenrijs en een minder goede bodem dan pizzastaal of pizzasteen. Verwacht in een huishoudoven niet exact dezelfde 60–90-secondenkorst als uit een echte pizzaoven.\n\nVariatie — pizza marinara: tomatensaus, knoflook, oregano en olijfolie, geen mozzarella.\n\nAlternatief mozzarella: fior di latte smelt gelijkmatiger dan bufala — betrouwbaarder thuis."
     },
     {
       "title": "Hollandse nieuwe op Japanse wijze — haringrol in nori met sushirijst, gepickelde komkommer en wasabi-crème fraîche",
