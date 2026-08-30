@@ -18813,365 +18813,211 @@
       "chef_tip": "Kippendij is verplicht: Kipfilet wordt droog bij het hoge vuur dat nodig is voor de karakteristieke shoarmarandjes. Kippendij blijft altijd sappig.\n\nEen nacht marineren: De yoghurt verzacht de kip enzymatisch. Minimaal 4 uur, maar een nacht is de echte game-changer.\n\nPita 3–4mm uitrollen: Dit is de meest gemaakte fout. Dikker dan 4mm = geen opbolving, geen pocket. Gelijkmatig uitrollen is even belangrijk.\n\nSteen op 320–380°C voor pita: Na het voorverwarmen op max terugzetten naar laag. Bij 500°C+ verbrandt de pita aan de onderkant voor hij kan rijzen.\n\nDirect in een doek: Houdt de stoom vast en maakt de pita zacht. Zonder doek = harde pita.\n\nVoorbereiding: Pitadeeg kan enkele uren van tevoren gemaakt worden. Bolletjes afgedekt koel bewaren en 45 minuten voor bakken op kamertemperatuur laten komen.\n\nVariatie — sumak over de kip: Bestrooi de gegrilde kip ook met een snuf sumak voor een extra citrusachtige toon.\n\nVariatie — harissa: 1 tl harissa door de marinade voor een pittiger, Noord-Afrikaans karakter.\n\nVariatie — lamsvlees: Vervang kip door lamsreepjes voor een diepere, rijkere shoarmasmaak.\n\nAlternatief knoflooksaus: Alleen Griekse yoghurt + knoflook + citroen + zout voor een lichtere, frissere versie zonder mayo."
     },
     {
-      "title": "Lahmacun — Turkse pizza met lamsgehakt uit de pizzaoven",
+      "title": "Lahmacun — Turkse pizza met rundgehakt",
       "slug": "lahmacun-turkse-pizza-lamsgehakt-pizzaoven",
       "location": "Turkije",
-      "time": "30 min actief + 1 uur rijzen",
-      "servings": "2 grote lahmacun (2 personen)",
+      "time": "20 min actief + 4-6 uur rijzen (deeg) + 5-7 min bakken per stuk",
+      "servings": "4 lahmacun (4 personen)",
       "difficulty": "Gemiddeld",
       "keuken": "Overig",
       "categorie": "vlees",
       "image": "/assets/images/lahmacun-turkse-pizza-lamsgehakt-pizzaoven.jpg",
-      "short_description": "De beste lahmacun die je ooit at. Een ultradun deeg van 2–3mm uitgerold tot 30–35cm, bedekt met een smeerbare laag van fijngehakt lamsgehakt, geraspt tomaat, biber salçası, sumak en verse peterselie — aangedrukt en in één geheel gebakken op de hete steen.",
-      "description": "De beste lahmacun die je ooit at. Een ultradun deeg van 2–3mm uitgerold tot 30–35cm, bedekt met een smeerbare laag van fijngehakt lamsgehakt, geraspt tomaat, biber salçası, sumak en verse peterselie — aangedrukt en in één geheel gebakken op de hete steen. Oprollen met verse peterselie, rode ui en een royale kneep citroen. Eten met je handen.",
-      "full_intro": "De beste lahmacun die je ooit at. Een ultradun deeg van 2–3mm uitgerold tot 30–35cm, bedekt met een smeerbare laag van fijngehakt lamsgehakt, geraspt tomaat, biber salçası, sumak en verse peterselie — aangedrukt en in één geheel gebakken op de hete steen. Oprollen met verse peterselie, rode ui en een royale kneep citroen. Eten met je handen.",
+      "short_description": "Dun, soepel Turks brood met een kruidige laag rundergehakt, gebakken in een gewone hete oven tot gaar en oprolbaar — geen cracker, maar zacht genoeg om moeiteloos op te rollen.",
+      "description": "Lahmacun is Turks streetfood: flinterdun deeg met een kruidige laag gehakt, gebakken tot gaar en soepel — nooit hard als een cracker. Deze versie gebruikt gewoon rundergehakt (lamsgehakt kan als variatie) en werkt met een normale hete huisoven in plaats van een pizzaoven, met een zachter deeg dat makkelijk dun is uit te rollen en na het bakken moeiteloos oprolt.",
       "ingredient_groups": [
         {
-          "group_name": "Voor het deeg (2 grote lahmacun)",
+          "group_name": "Voor het deeg (4 lahmacun)",
           "ingredients": [
             {
-              "name": "sterke broodbloem (12–14% eiwit — Caputo of Manitoba)",
+              "name": "gewone tarwebloem of patentbloem, ca. 11-12% eiwit",
               "amount": "300 g"
             },
             {
-              "name": "lauwwarm water (38–40°C)",
-              "amount": "190 ml"
+              "name": "water",
+              "amount": "185 g"
             },
             {
               "name": "instant droge gist",
-              "amount": "5 g"
+              "amount": "1 g"
             },
             {
               "name": "fijn zeezout",
               "amount": "6 g"
             },
             {
-              "name": "extra vergine olijfolie",
-              "amount": "8 g"
-            },
-            {
               "name": "fijne kristalsuiker",
-              "amount": "4 g"
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de kruidige vleestopping",
-          "ingredients": [
-            {
-              "name": "lamsgehakt (traditioneel) of rundergehakt",
-              "amount": "300 g"
-            },
-            {
-              "name": "rijpe trostomaten, geraspt op een grove rasp (nooit gesneden of geblend)",
-              "amount": "2"
-            },
-            {
-              "name": "rode puntpaprika, in keukenmachine fijn gehakt",
-              "amount": "1"
-            },
-            {
-              "name": "kleine ui, in keukenmachine fijn gehakt",
-              "amount": "1"
-            },
-            {
-              "name": "teentjes knoflook, fijn geraspt",
-              "amount": "2"
-            },
-            {
-              "name": "dubbel geconcentreerde tomatenpuree",
-              "amount": "1 el"
-            },
-            {
-              "name": "biber salçası (Turkse rode peperpuree — bij de toko; vervangbaar door 1 extra el tomatenpuree + 1 tl harissa)",
-              "amount": "1 el"
-            },
-            {
-              "name": "verse platte peterselie, zeer fijn gehakt",
-              "amount": "1 flinke hand"
-            },
-            {
-              "name": "komijnpoeder",
-              "amount": "1 tl"
-            },
-            {
-              "name": "zoet paprikapoeder",
-              "amount": "1 tl"
-            },
-            {
-              "name": "pul biber of cayennepeper",
-              "amount": "½ tl"
-            },
-            {
-              "name": "gemalen korianderzaad (optioneel)",
-              "amount": "¼ tl"
-            },
-            {
-              "name": "sumak (in de vulling — geeft frisse citrusnoot)",
-              "amount": "½ tl"
-            },
-            {
-              "name": "citroensap (in de vulling)",
-              "amount": "1 tl"
+              "amount": "3 g"
             },
             {
               "name": "olijfolie",
-              "amount": "1 el"
-            },
-            {
-              "name": "fijn zeezout + versgemalen zwarte peper",
-              "amount": "1 tl"
+              "amount": "12 g"
             }
           ]
         },
         {
-          "group_name": "Voor de garnering",
+          "group_name": "Voor de vleestopping",
           "ingredients": [
             {
-              "name": "verse platte peterselie (grof gehakt — royaal)",
-              "amount": "grote hand"
+              "name": "rundergehakt, liefst 15-20% vet",
+              "amount": "250 g"
             },
             {
-              "name": "rode ui, in flinterdunne ringen (+ 1 tl sumak + snuf zout + paar druppels citroensap — 15 min marineren)",
-              "amount": "½"
-            },
-            {
-              "name": "handvol rucola of little gem, fijn gesneden",
-              "amount": ""
-            },
-            {
-              "name": "citroenpartjes per persoon (VERPLICHT — over de lahmacun knijpen voor het oprollen)",
+              "name": "rijpe trostomaten, ca. 180-200 g",
               "amount": "2"
             },
             {
-              "name": "eventueel: yoghurt-sumakdip (150g Griekse yoghurt + 1 tl sumak + 1 klein geperst knoflookteentje)",
-              "amount": ""
+              "name": "rode puntpaprika, ca. 70 g",
+              "amount": "½"
+            },
+            {
+              "name": "kleine ui, ca. 60 g",
+              "amount": "1"
+            },
+            {
+              "name": "teentjes knoflook",
+              "amount": "2"
+            },
+            {
+              "name": "platte peterselie",
+              "amount": "20 g"
+            },
+            {
+              "name": "dubbel geconcentreerde tomatenpuree",
+              "amount": "15 g"
+            },
+            {
+              "name": "biber salçası (Turkse rode peperpuree — bij de toko; vervangbaar door dubbel geconcentreerde tomatenpuree met een extra tl harissa of sambal oelek voor de pit)",
+              "amount": "20 g"
+            },
+            {
+              "name": "komijnpoeder",
+              "amount": "1 g / ½ tl"
+            },
+            {
+              "name": "zoet paprikapoeder",
+              "amount": "2 g / 1 tl"
+            },
+            {
+              "name": "pul biber (Turkse chilivlokken — vervangbaar door gewone gedroogde chilivlokken, bijvoorbeeld peperoncino)",
+              "amount": "1 g / ½ tl"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "10 g / 2 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "5 g / ca. 1 tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
             }
           ]
-        }
-      ],
-      "ingredient_groups_full": [
+        },
         {
-          "group_name": "Voor het deeg (2 grote lahmacun)",
+          "group_name": "Voor de sumak-ui (apart)",
           "ingredients": [
-            "300g sterke broodbloem (12–14% eiwit — Caputo of Manitoba)",
-            "190ml lauwwarm water (38–40°C)",
-            "5g instant droge gist",
-            "6g fijn zeezout",
-            "8g extra vergine olijfolie",
-            "4g fijne kristalsuiker"
+            {
+              "name": "rode ui, flinterdun gesneden",
+              "amount": "½"
+            },
+            {
+              "name": "sumak (citroenachtig Turks kruid — bij de toko; vervangbaar door fijne rasp van citroen, komt qua frisse citrustoon het dichtst in de buurt)",
+              "amount": "2 g / ca. 1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            }
           ]
         },
         {
-          "group_name": "Voor de kruidige vleestopping",
+          "group_name": "Voor het serveren",
           "ingredients": [
-            "300g lamsgehakt (traditioneel — geeft de rijkste, meest authentieke smaak) of rundergehakt",
-            "2 rijpe trostomaten, geraspt op een grove rasp (nooit gesneden of geblend)",
-            "1 rode puntpaprika, in keukenmachine fijn gehakt",
-            "1 kleine ui, in keukenmachine fijn gehakt",
-            "2 teentjes knoflook, fijn geraspt",
-            "1 el dubbel geconcentreerde tomatenpuree",
-            "1 el biber salçası (Turkse rode peperpuree — bij de toko; vervangbaar door 1 extra el tomatenpuree + 1 tl harissa)",
-            "1 flinke hand verse platte peterselie, zeer fijn gehakt",
-            "1 tl komijnpoeder",
-            "1 tl zoet paprikapoeder",
-            "½ tl pul biber of cayennepeper",
-            "¼ tl gemalen korianderzaad (optioneel)",
-            "½ tl sumak (in de vulling — geeft frisse citrusnoot)",
-            "1 tl citroensap (in de vulling)",
-            "1 el olijfolie",
-            "1 tl fijn zeezout + versgemalen zwarte peper"
-          ]
-        },
-        {
-          "group_name": "Voor de garnering",
-          "ingredients": [
-            "Grote hand verse platte peterselie (grof gehakt — royaal)",
-            "½ rode ui, in flinterdunne ringen (+ 1 tl sumak + snuf zout + paar druppels citroensap — 15 min marineren)",
-            "Handvol rucola of little gem, fijn gesneden",
-            "2 citroenpartjes per persoon (VERPLICHT — over de lahmacun knijpen voor het oprollen)",
-            "Eventueel: yoghurt-sumakdip (150g Griekse yoghurt + 1 tl sumak + 1 klein geperst knoflookteentje)"
+            {
+              "name": "verse citroen, in partjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "platte peterselie",
+              "amount": "naar smaak"
+            }
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
-          "action": "Het deeg",
-          "description": "Meng water, gist en suiker. 10 minuten staan tot schuimig. Voeg olijfolie, zout en bloem toe. 8–10 minuten kneden tot glad en elastisch. In een licht ingeoliede kom, afgedekt. 1 uur rijzen op kamertemperatuur. Verdeel in 2 gelijke ballen. Afdekken. 15 minuten rusten."
+          "action": "Deeg maken (4-6 uur vooraf)",
+          "description": "Meng bloem, water, gist en suiker. Laat 10 minuten rusten. Voeg zout en olijfolie toe. Kneed 8-10 minuten tot glad en elastisch. Laat afgedekt 4-5 uur rijzen bij ca. 20-22°C. Verdeel daarna in 4 deegballen van ca. 125 g. Laat nog 30-45 minuten afgedekt ontspannen."
         },
         {
-          "number": 3,
-          "action": "De vleestopping (tegelijk met deeg)",
-          "description": "Tomaten raspen: halveer trostomaten en rasp het vruchtvlees op een grove rasp. Schil weggooien. Je hebt nu tomatenpulp met weinig vocht. Ui, knoflook en rode puntpaprika in de keukenmachine pulseren tot bijna pasta. Knijp overtollig vocht uit met je handen of in een schone theedoek — te nat = slappe bodem. Meng in een grote kom: lamsgehakt, geraspte tomaat, uitgeknepen groentenmengsel, tomatenpuree, biber salçası, peterselie, komijn, paprikapoeder, pul biber, optioneel korianderzaad, sumak, citroensap, olijfolie, zout en peper. Kneed het mengsel 1–2 minuten krachtig met je hand tot het bijna smeerbaar is — dit is de cruciale lahmacuntechniek. Geen losse gehaktkorrels maar een samenhangende vleescrème die als één geheel in het deeg bakt. Te droog? Druppel extra olijfolie. 15 minuten koud stellen zodat de smaken samenkomen."
+          "action": "Sumak-ui maken",
+          "description": "Snijd de rode ui flinterdun. Meng met sumak en een snuf zout. Kneus kort met je vingers en laat 10 minuten staan."
         },
         {
-          "number": 7,
-          "action": "Pizzaoven voorbereiden",
-          "description": "Verhit pizzaoven op maximale temperatuur gedurende 45 minuten. Daarna terugzetten naar lage stand. De steen moet 330–380°C zijn — niet de maximale pizzatemperatuur. Bij hogere temperatuur verbrandt de dunne bodem voordat het vlees gaar is."
+          "action": "Vleestopping maken",
+          "description": "Ontwater de tomaten: rasp of hak fijn en knijp overtollig vocht eruit. Maak de paprika, ui en knoflook zeer fijn (keukenmachine) en knijp ook hier het overtollige vocht uit. Meng alles met het rundergehakt, tomatenpuree, biber salçası, peterselie, komijn, paprikapoeder, pul biber, olijfolie, zout en peper. Kneed 1-2 minuten krachtig tot een zachte, smeerbare vleespasta — geen losse gehaktkorrels."
         },
         {
-          "number": 8,
+          "action": "Oven voorbereiden",
+          "description": "Zet een zware bakplaat ondersteboven in de oven. Verwarm de oven maximaal voor, idealiter 250-275°C. Laat minstens 40-45 minuten volledig voorverwarmen."
+        },
+        {
           "action": "Uitrollen en beleggen",
-          "description": "Rol elke deegbal op een licht bebloemd werkblad uit tot een schijf van 30–35 cm diameter en 2–3 mm dik — ultradun en gelijkmatig. Dit is het meest onderscheidende kenmerk van lahmacun. Leg op de licht bebloemde pizzapeel. Verdeel de helft van de vleestopping over het deeg — tot bijna aan de rand, dun en egaal. Druk de topping met je vingertoppen of de achterkant van een lepel goed in het deeg — zo bakt alles als één geheel en schuift de vulling niet los van de bodem."
+          "description": "Rol elke deegbal op een licht bebloemd werkblad uit tot ca. 28-30 cm diameter en echt dun — ongeveer 1,5-2 mm. Het deeg moet bijna doorschijnend zijn maar niet scheuren. Verdeel de vleestopping dun en egaal tot bijna aan de rand en druk lichtjes aan met je vingertoppen."
         },
         {
-          "number": 11,
           "action": "Bakken",
-          "description": "Schiet op de hete steen. Bak 2–4 minuten afhankelijk van de oven. Draai halverwege als één kant sneller kleurt. De rand moet licht krokant zijn, de onderkant goudbruin met wat donkere plekjes en het vlees volledig gaar maar nog sappig. Verwijder met pizzapeel of tang. Direct onder een schone theedoek — zo blijft hij soepel genoeg om op te rollen."
+          "description": "Schuif de lahmacun op bakpapier op de hete plaat. Bak ca. 5-7 minuten. Niet bakken tot hij hard en krokant is als een cracker — het doel is gaar, soepel en oprolbaar, met hier en daar wat bruine of krokante plekjes."
         },
         {
-          "number": 13,
+          "action": "Direct afdekken",
+          "description": "Leg elke lahmacun meteen na het bakken op een bord of plank en dek direct af met een schone theedoek. Leg de volgende erbovenop en dek opnieuw af. Dit is essentieel om ze soepel en goed oprolbaar te houden."
+        },
+        {
           "action": "Serveren",
-          "description": "Leg de lahmacun op een houten plank. Besprenkel direct met royaal citroensap. Leg de salade in een smalle baan over het midden — geen dikke berg, maar een streep zodat je hem strak kunt oprollen. Peterselie, gemarineerde rode ui en rucola erop. Eventueel pul biber. Oprollen en bijten."
+          "description": "Werk af met verse citroen, de sumak-ui en platte peterselie. Verder niets nodig. Oprollen en eten."
         },
         {
-          "number": 14,
-          "action": "Snelle versie met tortilla",
-          "description": "Kant-en-klare grote bloem tortilla als basis. Vleestopping dun erop smeren. Bakken op de pizzasteen bij 300–330°C gedurende 1,5–2,5 minuten — tortilla verbrandt sneller dan vers deeg, dus goed in de gaten houden. Alternatief: in een droge koekenpan met deksel op middelhoog vuur, 3–4 minuten. Minder authentiek en minder luchtig, maar verrassend goed als snelle doordeweekse versie."
+          "action": "Opbouw en presentatie",
+          "description": "Lahmacun op een houten plank of warm bord, half opgerold met de vulling zichtbaar aan één kant. Sumak-ui en peterselie er los overheen, citroenpartjes ernaast. Luxe streetfood — warm, kruidig, fris, dun en soepel."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Gewone tarwebloem geeft veel minder glutenweerstand dan sterke broodbloem, waardoor het deeg makkelijk tot 1,5-2 mm uitrolt zonder terug te veren of te scheuren. Het vocht zorgvuldig uit tomaat, paprika en ui knijpen voorkomt een slappe bodem — de vleestopping moet smeerbaar zijn, niet nat. Direct na het bakken afdekken met een theedoek houdt de lahmacun soepel: zonder die stap droogt de rand snel uit en wordt oprollen lastig of breekt het deeg. Een gewone hete huisoven met een voorverwarmde zware bakplaat benadert het effect van een pizzasteen goed genoeg om de bodem gaar en licht gevlekt te krijgen zonder hem te verbranden."
         }
       ],
-      "steps_full": [
-        {
-          "number": null,
-          "section": "Het deeg",
-          "description": "Meng water, gist en suiker. 10 minuten staan tot schuimig. Voeg olijfolie, zout en bloem toe. 8–10 minuten kneden tot glad en elastisch."
-        },
-        {
-          "number": null,
-          "section": "Het deeg",
-          "description": "In een licht ingeoliede kom, afgedekt. 1 uur rijzen op kamertemperatuur. Verdeel in 2 gelijke ballen. Afdekken. 15 minuten rusten."
-        },
-        {
-          "number": null,
-          "section": "De vleestopping (tegelijk met deeg)",
-          "description": "Tomaten raspen: halveer trostomaten en rasp het vruchtvlees op een grove rasp. Schil weggooien. Je hebt nu tomatenpulp met weinig vocht."
-        },
-        {
-          "number": null,
-          "section": "De vleestopping (tegelijk met deeg)",
-          "description": "Ui, knoflook en rode puntpaprika in de keukenmachine pulseren tot bijna pasta. Knijp overtollig vocht uit met je handen of in een schone theedoek — te nat = slappe bodem."
-        },
-        {
-          "number": null,
-          "section": "De vleestopping (tegelijk met deeg)",
-          "description": "Meng in een grote kom: lamsgehakt, geraspte tomaat, uitgeknepen groentenmengsel, tomatenpuree, biber salçası, peterselie, komijn, paprikapoeder, pul biber, optioneel korianderzaad, sumak, citroensap, olijfolie, zout en peper."
-        },
-        {
-          "number": null,
-          "section": "De vleestopping (tegelijk met deeg)",
-          "description": "Kneed het mengsel 1–2 minuten krachtig met je hand tot het bijna smeerbaar is — dit is de cruciale lahmacuntechniek. Geen losse gehaktkorrels maar een samenhangende vleescrème die als één geheel in het deeg bakt. Te droog? Druppel extra olijfolie. 15 minuten koud stellen zodat de smaken samenkomen."
-        },
-        {
-          "number": null,
-          "section": "Pizzaoven voorbereiden",
-          "description": "Verhit pizzaoven op maximale temperatuur gedurende 45 minuten. Daarna terugzetten naar lage stand. De steen moet 330–380°C zijn — niet de maximale pizzatemperatuur. Bij hogere temperatuur verbrandt de dunne bodem voordat het vlees gaar is."
-        },
-        {
-          "number": null,
-          "section": "Uitrollen en beleggen",
-          "description": "Rol elke deegbal op een licht bebloemd werkblad uit tot een schijf van 30–35 cm diameter en 2–3 mm dik — ultradun en gelijkmatig. Dit is het meest onderscheidende kenmerk van lahmacun."
-        },
-        {
-          "number": null,
-          "section": "Uitrollen en beleggen",
-          "description": "Leg op de licht bebloemde pizzapeel. Verdeel de helft van de vleestopping over het deeg — tot bijna aan de rand, dun en egaal."
-        },
-        {
-          "number": null,
-          "section": "Uitrollen en beleggen",
-          "description": "Druk de topping met je vingertoppen of de achterkant van een lepel goed in het deeg — zo bakt alles als één geheel en schuift de vulling niet los van de bodem."
-        },
-        {
-          "number": null,
-          "section": "Bakken",
-          "description": "Schiet op de hete steen. Bak 2–4 minuten afhankelijk van de oven. Draai halverwege als één kant sneller kleurt. De rand moet licht krokant zijn, de onderkant goudbruin met wat donkere plekjes en het vlees volledig gaar maar nog sappig."
-        },
-        {
-          "number": null,
-          "section": "Bakken",
-          "description": "Verwijder met pizzapeel of tang. Direct onder een schone theedoek — zo blijft hij soepel genoeg om op te rollen."
-        },
-        {
-          "number": null,
-          "section": "Serveren",
-          "description": "Leg de lahmacun op een houten plank. Besprenkel direct met royaal citroensap. Leg de salade in een smalle baan over het midden — geen dikke berg, maar een streep zodat je hem strak kunt oprollen. Peterselie, gemarineerde rode ui en rucola erop. Eventueel pul biber. Oprollen en bijten."
-        },
-        {
-          "number": null,
-          "section": "Serveren",
-          "description": "SNELLE VERSIE MET TORTILLA"
-        },
-        {
-          "number": null,
-          "section": "Serveren",
-          "description": "Kant-en-klare grote bloem tortilla als basis. Vleestopping dun erop smeren. Bakken op de pizzasteen bij 300–330°C gedurende 1,5–2,5 minuten — tortilla verbrandt sneller dan vers deeg, dus goed in de gaten houden. Alternatief: in een droge koekenpan met deksel op middelhoog vuur, 3–4 minuten. Minder authentiek en minder luchtig, maar verrassend goed als snelle doordeweekse versie."
-        }
-      ],
-      "tips": [
-        "\"bijna: \"Bijna smeerbaar\" is het toverwoord: De vulling moet als een dunne vleescrème over het deeg smeerbaar zijn. Kneed het mengsel 1–2 min krachtig — dit is wat lahmacun onderscheidt van pizza met gehakt.",
-        "Snijden: Tomaten raspen is beter dan hakken: Raspen geeft maximale smaak met minimaal vocht. Gehakte tomaat geeft te veel water wat de bodem slap maakt.",
-        "Vocht uitknijpen: Altijd paprika en tomaat uitknijpen voor het door het gehakt gaat. Dit is het verschil tussen een krokante en een slappe bodem.",
-        "2–3mm uitrollen: Dunner dan je ooit durfde. Dit is wat lahmacun zijn karakter geeft.",
-        "330–380°C: Na het voorverwarmen op max terugzetten naar laag. Heter = verbrande bodem, rauw vlees.",
-        "Citroen is verplicht: Royaal knijpen voor het oprollen. Dit tilt het gerecht volledig.",
-        "Variatie — rundgehakt: Prima alternatief, makkelijker verkrijgbaar. Iets minder rijke smaak dan lam maar even lekker.",
-        "Variatie — vegetarisch: Vervang gehakt door fijngesneden champignons + walnoten in keukenmachine. Kort bakken voor gebruik om vocht te laten verdampen.",
-        "Voorbereiding: Topping enkele uren van tevoren maken. Deeg van tevoren en koel bewaren — 45 min voor bakken op kamertemperatuur laten komen."
-      ],
-      "tips_full": [
-        "\"bijna: \"Bijna smeerbaar\" is het toverwoord: De vulling moet als een dunne vleescrème over het deeg smeerbaar zijn. Kneed het mengsel 1–2 min krachtig — dit is wat lahmacun onderscheidt van pizza met gehakt.",
-        "Snijden: Tomaten raspen is beter dan hakken: Raspen geeft maximale smaak met minimaal vocht. Gehakte tomaat geeft te veel water wat de bodem slap maakt.",
-        "Vocht uitknijpen: Altijd paprika en tomaat uitknijpen voor het door het gehakt gaat. Dit is het verschil tussen een krokante en een slappe bodem.",
-        "2–3mm uitrollen: Dunner dan je ooit durfde. Dit is wat lahmacun zijn karakter geeft.",
-        "330–380°C: Na het voorverwarmen op max terugzetten naar laag. Heter = verbrande bodem, rauw vlees.",
-        "Citroen is verplicht: Royaal knijpen voor het oprollen. Dit tilt het gerecht volledig.",
-        "Variatie — rundgehakt: Prima alternatief, makkelijker verkrijgbaar. Iets minder rijke smaak dan lam maar even lekker.",
-        "Variatie — vegetarisch: Vervang gehakt door fijngesneden champignons + walnoten in keukenmachine. Kort bakken voor gebruik om vocht te laten verdampen.",
-        "Voorbereiding: Topping enkele uren van tevoren maken. Deeg van tevoren en koel bewaren — 45 min voor bakken op kamertemperatuur laten komen."
-      ],
-      "opmaak_presentatie": "Lahmacun op een houten plank of warm bord. Half opgerold, vulling zichtbaar aan één kant. Salade in smalle baan zodat hij strak oprolbaar blijft. Royale peterselie, rucola, rode ui. Twee partjes citroen. Yoghurt-sumakdip in een klein schaaltje apart. Dit is luxe streetfood — warm, kruidig, fris, dun en sappig.",
+      "chef_tip": "Pizzaoven-optie: wie een pizzaoven heeft, kan de steen verhitten tot ca. 320-350°C en de lahmacun ca. 2-3 minuten bakken — ook dan niet doorbakken tot hard/krokant, en direct afdekken na het bakken.\n\nLamsgehakt-variant: lamsgehakt werkt ook uitstekend als authentiekere variant met een rijkere smaak — vervang het rundergehakt 1-op-1.\n\nTortilla-noodoplossing: een grote zachte bloemtortilla werkt als snelle noodoplossing en rolt makkelijk, maar zelfgemaakt deeg blijft qua smaak de beste versie als de techniek hierboven goed wordt gevolgd.\n\nBiber salçası lastig te vinden?: vervang door dubbel geconcentreerde tomatenpuree met een extra tl harissa of sambal oelek voor de pit — niet exact hetzelfde, maar een goede benadering.\n\nPul biber lastig te vinden?: gewone gedroogde chilivlokken (bijvoorbeeld Italiaanse peperoncino) werken prima als vervanger, iets minder complex van smaak maar zeker werkbaar.\n\nSumak lastig te vinden?: fijne rasp van citroen komt qua frisse, citrusachtige toon het dichtst in de buurt — gebruik de rasp van een halve tot hele citroen als vervanger, zowel in de ui-garnering als eventueel in de vulling.\n\nVocht uitknijpen is cruciaal: altijd tomaat en paprika/ui goed uitknijpen voordat ze door het gehakt gaan — dit is het verschil tussen een soepele, goed gare bodem en een slappe, natte bodem.\n\nVooruitwerken: de vleestopping kan enkele uren van tevoren gemaakt en koel bewaard worden. Het deeg moet sowieso 4-6 uur vooraf gemaakt worden vanwege de rijstijd.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Agiorgitiko — Nemea, Griekenland",
           "druif": "Agiorgitiko (Saint George)",
-          "smaakprofiel": "Droog, rijp donker fruit, zachte tannines, kruidig, warm, Mediterraans karakter",
+          "smaakprofiel": "Droog, rijp donker fruit, zachte tannines, kruidig, warm, Mediterraans karakter.",
           "omschrijving": "Een volle, rijpe rode wijn uit de Peloponnesos — Mediterraans en kruidig met zachte tannines die nooit overstemmen.",
-          "waarom_werkt_dit": "De rijke fruitigheid sluit aan op lamsgehakt en warme specerijen. Zachte tannines gaan niet botsen met de zuurheid van citroen en tomaat. Mediterraan bij een Mediterraans streetfoodklassieker."
+          "waarom_werkt_dit": "De rijke fruitigheid sluit aan op het gehakt en de warme specerijen. Zachte tannines botsen niet met de zuurheid van citroen en tomaat.",
+          "serveertemperatuur": "Serveer rond 15-16°C."
         },
         {
           "type": "alternatief",
           "naam": "Öküzgözü — Turkije",
           "druif": "Öküzgözü",
-          "smaakprofiel": "Droog, sappig rood fruit, frisse zuren, lichte kruidigheid, zacht",
-          "omschrijving": "De meest authentieke keuze: een Turkse rode wijn met frisheid en fruit. Licht gekoeld serveren.",
-          "waarom_werkt_dit": "De sappige zuren houden lamsgehakt, tomaat, citroen en kruiden fris. Het fruit sluit aan op de warme specerijen zonder de lahmacun log te maken."
+          "smaakprofiel": "Droog, sappig rood fruit, frisse zuren, lichte kruidigheid, zacht.",
+          "omschrijving": "De meest authentieke keuze: een Turkse rode wijn met frisheid en fruit.",
+          "waarom_werkt_dit": "De sappige zuren houden gehakt, tomaat, citroen en kruiden fris. Het fruit sluit aan op de warme specerijen zonder de lahmacun log te maken.",
+          "serveertemperatuur": "Serveer licht gekoeld rond 14-15°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest-toegankelijk",
           "naam": "Primitivo di Manduria — Puglia, Italië",
           "druif": "Primitivo",
-          "smaakprofiel": "Droog, rijp donker fruit, warm, zacht, kruidig",
+          "smaakprofiel": "Droog, rijp donker fruit, warm, zacht, kruidig.",
           "omschrijving": "Een vollere mediterrane rode wijn voor een rijkere, kruidige versie.",
-          "waarom_werkt_dit": "Het rijpe donkere fruit past bij lamsgehakt en paprika/tomaat. De warme kruidigheid sluit aan op komijn en pul biber; serveer niet te warm om het fris te houden."
+          "waarom_werkt_dit": "Het rijpe donkere fruit past bij het gehakt en de paprika/tomaat. De warme kruidigheid sluit aan op komijn en pul biber.",
+          "serveertemperatuur": "Serveer rond 16-17°C."
         }
-      ],
-      "wine": {
-        "naam": "Agiorgitiko — Nemea, Griekenland",
-        "druif": "Agiorgitiko (Saint George)",
-        "toelichting": "Droog, rijp donker fruit, zachte tannines, kruidig, warm, Mediterraans karakter Een volle, rijpe rode wijn uit de Peloponnesos — Mediterraans en kruidig met zachte tannines die nooit overstemmen. De rijke fruitigheid sluit aan op lamsgehakt en warme specerijen. Zachte tannines gaan niet botsen met de zuurheid van citroen en tomaat. Mediterraan bij een Mediterraans streetfoodklassieker.",
-        "alternatief": "Öküzgözü (Turkije — de meest authentieke keuze: sappig rood fruit, frisse zuren, licht gekoeld serveren) of Primitivo di Manduria (rijp, warm, donker fruit). — ."
-      },
-      "metadata": {
-        "bereidingstijd": "30 min actief (plus 1 uur rijzen)",
-        "porties": "2 grote lahmacun (2 personen)",
-        "type_gerecht": "Hoofdgerecht / streetfood",
-        "niveau": "Gemiddeld"
-      },
-      "source_recipe_number": 61,
-      "full_title_docx": "61. LAHMACUN — TURKSE PIZZA MET LAMSGEHAKT UIT DE PIZZAOVEN",
-      "chef_tip": "\"bijna: \"Bijna smeerbaar\" is het toverwoord: De vulling moet als een dunne vleescrème over het deeg smeerbaar zijn. Kneed het mengsel 1–2 min krachtig — dit is wat lahmacun onderscheidt van pizza met gehakt.\n\nSnijden: Tomaten raspen is beter dan hakken: Raspen geeft maximale smaak met minimaal vocht. Gehakte tomaat geeft te veel water wat de bodem slap maakt.\n\nVocht uitknijpen: Altijd paprika en tomaat uitknijpen voor het door het gehakt gaat. Dit is het verschil tussen een krokante en een slappe bodem.\n\n2–3mm uitrollen: Dunner dan je ooit durfde. Dit is wat lahmacun zijn karakter geeft.\n\n330–380°C: Na het voorverwarmen op max terugzetten naar laag. Heter = verbrande bodem, rauw vlees.\n\nCitroen is verplicht: Royaal knijpen voor het oprollen. Dit tilt het gerecht volledig.\n\nVariatie — rundgehakt: Prima alternatief, makkelijker verkrijgbaar. Iets minder rijke smaak dan lam maar even lekker.\n\nVariatie — vegetarisch: Vervang gehakt door fijngesneden champignons + walnoten in keukenmachine. Kort bakken voor gebruik om vocht te laten verdampen.\n\nVoorbereiding: Topping enkele uren van tevoren maken. Deeg van tevoren en koel bewaren — 45 min voor bakken op kamertemperatuur laten komen."
+      ]
     },
     {
       "title": "Chili con carne in zelfgemaakte bloem tortilla's",
@@ -76498,6 +76344,188 @@
           "omschrijving": "",
           "waarom_werkt_dit": "Een lichtere keuze, ideaal wanneer dit gerecht als voorgerecht wordt geserveerd in plaats van als hoofdgerecht.",
           "serveertemperatuur": "Serveer rond 14-15°C."
+        }
+      ]
+    },
+    {
+      "title": "Gnocchi Parisienne \"Croque Monsieur\"",
+      "slug": "gnocchi-parisienne-croque-monsieur",
+      "location": "Parijs, Frankrijk",
+      "time": "40 min voorbereiding + 15-20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/gnocchi-parisienne-croque-monsieur.jpg",
+      "short_description": "Luchtige gnocchi van pâte à choux, krokant gebakken in boter, met zachte jambon de Paris en een dunne, fluweelzachte Comté-Dijonsaus. Drie texturen, één sterk idee — geen zes trucs tegelijk.",
+      "description": "Parisian gnocchi worden niet van aardappel gemaakt, maar van pâte à choux — hetzelfde deeg als voor soesjes en éclairs. Jacques Pépin maakte het gerecht beroemd: eerst gepocheerd tot luchtige, lichte bolletjes, dan afgebakken tot een goudbruine, krokante korst. Deze versie combineert die techniek met de smaken van een croque monsieur — zachte jambon de Paris, jonge Comté en een dunne, fluweelzachte Dijon-saus. Drie texturen, niet meer: luchtig vanbinnen, krokant vanbuiten, en een dun, glanzend sausje dat de gnocchi juist zichtbaar laat, niet verdrinkt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de gnocchi Parisienne",
+          "ingredients": [
+            {
+              "name": "water",
+              "amount": "250 ml"
+            },
+            {
+              "name": "ongezouten roomboter",
+              "amount": "80 g"
+            },
+            {
+              "name": "zout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "bloem",
+              "amount": "150 g"
+            },
+            {
+              "name": "middelgrote eieren (ongeveer 190-200 g zonder schaal), losgeklopt, plus mogelijk iets meer",
+              "amount": "4"
+            },
+            {
+              "name": "jonge Comté (8-12 maanden), zeer fijn geraspt — of jonge Gruyère/Emmental als toegankelijker alternatief",
+              "amount": "25 g"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "versgeraspte nootmuskaat",
+              "amount": "klein mespuntje"
+            },
+            {
+              "name": "roomboter, om de gnocchi krokant te bakken",
+              "amount": "25 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de lichte Dijon-Comté-saus",
+          "ingredients": [
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "bloem",
+              "amount": "20 g"
+            },
+            {
+              "name": "volle melk",
+              "amount": "250 ml"
+            },
+            {
+              "name": "slagroom",
+              "amount": "50 ml"
+            },
+            {
+              "name": "jonge Comté (8-12 maanden), fijn geraspt — of jonge Gruyère/Emmental als toegankelijker alternatief",
+              "amount": "40-45 g"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "2 tl"
+            },
+            {
+              "name": "nootmuskaat",
+              "amount": "klein mespuntje"
+            },
+            {
+              "name": "zout, versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "goede, zachte gekookte ham (jambon de Paris)",
+              "amount": "120 g"
+            },
+            {
+              "name": "jonge Comté, fijn geraspt — of jonge Gruyère/Emmental",
+              "amount": "25-30 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Pâte à choux maken",
+          "description": "Doe het water, de boter en het zout in een steelpan. Breng aan de kook tot de boter volledig gesmolten is. Voeg de bloem in één keer toe en roer onmiddellijk stevig door. Blijf het deeg 2-3 minuten op middelhoog vuur omscheppen tot het een gladde bal vormt en er een dun wit laagje op de bodem van de pan ontstaat — dit droogt het deeg, cruciaal voor stevige gnocchi."
+        },
+        {
+          "action": "Laten afkoelen",
+          "description": "Schep het deeg in een kom en laat 3-4 minuten afkoelen."
+        },
+        {
+          "action": "Eieren en kaas erdoor",
+          "description": "Voeg het losgeklopte ei beetje bij beetje toe, telkens volledig opnemen voordat je meer toevoegt. Voeg het laatste beetje niet automatisch toe — het deeg is klaar zodra het glad, glanzend en stevig genoeg is om in een dikke V-vorm van een spatel te vallen. Meng de Comté, peper en nootmuskaat erdoor. Doe het deeg in een spuitzak met een opening van ongeveer 1,5 cm."
+        },
+        {
+          "action": "Gnocchi pocheren",
+          "description": "Breng een brede pan met ruim gezouten water tegen de kook aan — het moet zacht bewegen, niet hard koken. Spuit boven het water telkens ongeveer 2,5 cm deeg uit de zak en knip af met een natte keukenschaar. Pocheer maximaal 8-10 tegelijk. Zodra ze boven komen drijven, nog ongeveer 1 minuut laten pocheren. Schep eruit met een schuimspaan, leg op een licht ingevette schaal en laat volledig uitdampen."
+        },
+        {
+          "action": "Saus maken",
+          "description": "Smelt de boter in een steelpan, voeg de bloem toe en roer 2 minuten op laag-middelhoog vuur — de roux mag niet kleuren. Voeg de melk geleidelijk toe onder stevig kloppen. Laat 4 minuten zachtjes koken tot licht gebonden en glad. Voeg de room toe. Haal van het vuur, roer de Comté erdoor tot gesmolten, dan de Dijonmosterd en nootmuskaat. Breng op smaak met zout en peper. De saus moet vloeiend en fluweelachtig blijven, van een lepel lopen — beslist niet zo dik als kaassaus voor macaroni."
+        },
+        {
+          "action": "Gnocchi krokant bakken",
+          "description": "Verhit een ruime koekenpan op middelhoog-hoog vuur en smelt de 25 g boter. Voeg de goed uitgedampte gnocchi toe en bak 4-5 minuten, regelmatig draaiend, tot rondom goudbruin met hier en daar een donkerbruin, krokant randje."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Verwarm de ovengrill op de hoogste stand. Verdeel een dunne laag van de saus over de bodem van vier kleine, ondiepe ovenschaaltjes — ongeveer 2 eetlepels per persoon. Verdeel de krokant gebakken gnocchi erover. Scheur of vouw de ham losjes tussen de gnocchi, zodat hij zichtbaar blijft. Lepel nog een klein beetje saus (ongeveer 1 eetlepel) tussen de gnocchi, niet eroverheen — de gnocchi moeten bovenop zichtbaar blijven. Bestrooi met de resterende Comté, spaarzaam."
+        },
+        {
+          "action": "Heel kort gratineren — 60-90 sec",
+          "description": "Zet de schaaltjes dicht onder de hete grill. Gratineer slechts 60-90 seconden, tot de kaas net gesmolten is en op twee of drie plekjes begint te kleuren — niet langer, anders worden de krokante gnocchi weer zacht."
+        },
+        {
+          "action": "Serveren",
+          "description": "Direct serveren, eventueel met een laatste draai zwarte peper. Verder niets."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Houd het bord bewust clean: goudbruin gebakken gnocchi, dunne plooien zachte ham, een klein beetje glanzende Dijon-Comté-saus onderin en ertussen, een klein beetje licht gesmolten Comté — meer niet. De saus zichtbaar houden onder en tussen de gnocchi, niet eroverheen gieten, zodat de goudbruine, krokante buitenkant van de gnocchi het beeld blijft domineren."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Dit gerecht draait bewust om drie texturen, niet meer: luchtig en zacht vanbinnen dankzij de pâte à choux, goudbruin en krokant vanbuiten dankzij het bakken in boter, en romig-glanzend dankzij een dunne, spaarzaam gebruikte Comté-Dijonsaus. Door de saus vooral onderin en ertussen te leggen in plaats van eroverheen te gieten, blijft de krokante buitenkant van de gnocchi zichtbaar en intact — een dikke gegratineerde korst zou die net bereikte crunch binnen een minuut weer zacht maken. Jonge Comté, in plaats van oude, geeft een lichte, fluweelzachte smelt zonder een dominante, nootachtige smaak die de subtiele ham en Dijon zou overstemmen — en omdat de kaas in de croque-monsieur-traditie zelf altijd Gruyère of Comté is, blijft de identiteit van het gerecht intact in plaats van te verschuiven naar iets anders."
+        }
+      ],
+      "chef_tip": "Ei toevoegen: het ei is de kritische stap — voeg het laatste deel langzaam toe, te slap chouxdeeg is nauwelijks meer te herstellen.\n\nAfkoeltijd deeg: 3-4 minuten is een richtlijn, geen exacte klok — het deeg moet écht handwarm aanvoelen voordat het ei erbij gaat, anders schroeit het ei gedeeltelijk dicht en wordt het deeg korrelig in plaats van glad. Voel liever even met een schone vinger dan blind op de tijd te vertrouwen.\n\nPocheerwater: laat het pocheerwater niet hard koken — een rollende kook maakt de gnocchi onregelmatig en kan ze openbreken.\n\nKaaskeuze: gebruik echt jonge Comté (8-12 maanden) — oudere Comté is krachtiger en nootachtiger, en overheerst dan de rest van het gerecht.\n\nComté lastig te vinden?: jonge Gruyère of Emmental zijn de beste alternatieven — beide smelten net zo soepel en zijn milder dan oude Comté. Vermijd sterk gerijpte, korrelige kazen (zoals oude Comté, oude Gouda of Parmezaan) als vervanger; die overheersen het gerecht en smelten minder soepel.\n\nHam: gebruik zachte gekookte ham of jambon de Paris — Serrano, Parmaham of krokant gebakken spek maakt er een ander gerecht van. dit is gewoon goede, zachte gekookte ham (kookham), bij vrijwel elke supermarkt of poelier verkrijgbaar — geen speciale bestelling nodig.\n\nSaus: maak de saus bewust iets dunner dan een klassieke kaassaus — tijdens het korte gratineren dikt hij nog iets verder in.\n\nVooruitwerken: de gnocchi kunnen een dag vooraf gemaakt en gepocheerd worden. Laat volledig afkoelen, meng met een klein beetje neutrale olie en bewaar afgedekt in de koelkast. Maak de saus maximaal een paar uur vooraf en verwarm langzaam, verdun zo nodig met een lepel melk. Bak de gnocchi pas vlak voor het serveren krokant.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Mâcon-Villages Chardonnay — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Droog, rijp geel fruit, zachte citrus en een romige textuur, met genoeg frisheid om niet zwaar te worden.",
+          "omschrijving": "Onze eerste keuze — de combinatie van rijp fruit en frisheid maakt dit de meest complete, harmonieuze partner voor dit romig-krokante gerecht.",
+          "waarom_werkt_dit": "De romige textuur sluit mooi aan bij de Comté en de saus, terwijl de frisheid boter en kaas optilt zonder dat de wijn scherp wordt.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Crémant de Bourgogne Brut",
+          "druif": "Chardonnay, Pinot Noir, Aligoté",
+          "smaakprofiel": "Droog, fijne mousse, frisse structuur, licht en elegant.",
+          "omschrijving": "Kies liever een ronde Brut dan een zeer strakke Extra Brut.",
+          "waarom_werkt_dit": "De fijne bubbels maken elke hap opnieuw lichter — vooral sterk bij de combinatie van gesmolten kaas en boter.",
+          "serveertemperatuur": "Serveer rond 8-9°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Blanc — Elzas, Frankrijk",
+          "druif": "Pinot Blanc",
+          "smaakprofiel": "Droog, zacht fruitig, subtiel bloemig, vriendelijke zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Een rustige wijn die de ham en Dijon niet overstemt en goed werkt bij het romige karakter van het gerecht.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
         }
       ]
     }
