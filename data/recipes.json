@@ -76528,6 +76528,776 @@
           "serveertemperatuur": "Serveer rond 9-10°C."
         }
       ]
+    },
+    {
+      "title": "Uova in Purgatorio — Napolitaanse Eieren in Pittige Tomatensaus",
+      "slug": "uova-in-purgatorio-napolitaanse-eieren-tomatensaus",
+      "location": "Napels, Campania, Italië",
+      "time": "10 min voorbereiding + 30 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Italiaans",
+      "categorie": "groente-salade",
+      "image": "/assets/images/uova-in-purgatorio-napolitaanse-eieren-tomatensaus.jpg",
+      "short_description": "Eieren zacht gepocheerd in een dikke, pittige tomatensaus met sjalot, knoflook en peperoncino, afgemaakt met basilicum. De Napolitaanse cucina povera-klassieker uit 1837, in radicale eenvoud.",
+      "description": "In 1837 werd dit gerecht voor het eerst genoemd in Ippolito Cavalcanti's kookboek \"Cucina teorico-pratica\" — maar het is veel ouder dan dat, geworteld in de Napolitaanse cucina povera. De naam verwijst naar de zestiende-eeuwse verering van de zielen in het vagevuur: de witte eieren zijn de zielen, de borrelende, felrode tomatensaus is het vagevuur waarin ze wachten. Het gerecht heeft juist kracht doordat er zo weinig in zit — een diep ingekookte tomatensaus, goede olijfolie en eieren die precies goed worden gegaard.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tomatensaus",
+          "ingredients": [
+            {
+              "name": "hele gepelde San Marzano-tomaten uit blik",
+              "amount": "800 g"
+            },
+            {
+              "name": "sjalot of kleine ui, zeer fijn gesneden",
+              "amount": "60 g"
+            },
+            {
+              "name": "tenen knoflook (ongeveer 8 g), fijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "2 el"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "gedroogde peperoncino, of naar smaak",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "verse basilicumblaadjes",
+              "amount": "8-10"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de eieren",
+          "ingredients": [
+            {
+              "name": "zeer verse eieren, klein tot middelgroot",
+              "amount": "8"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "goede extra vierge olijfolie",
+              "amount": "enkele druppels"
+            }
+          ]
+        },
+        {
+          "group_name": "Erbij",
+          "ingredients": [
+            {
+              "name": "dunne sneetjes goed landbrood of zuurdesembrood",
+              "amount": "4"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "klein beetje"
+            },
+            {
+              "name": "Parmigiano Reggiano of Grana Padano, vers geraspt (optioneel, maximaal 5 g per persoon)",
+              "amount": "optioneel"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Tomaten voorbereiden",
+          "description": "Knijp de gepelde tomaten met je handen grof fijn."
+        },
+        {
+          "action": "Sjalot fruiten — 5-6 min",
+          "description": "Verhit de olijfolie in een brede koekenpan van ongeveer 28 cm op laag-middelhoog vuur. Fruit de sjalot 5-6 minuten zachtjes tot volledig zacht en glazig — niet laten kleuren."
+        },
+        {
+          "action": "Knoflook en peperoncino",
+          "description": "Voeg de knoflook en peperoncino toe en bak nog 30-45 seconden, tot de knoflook geurt maar beslist niet bruin wordt."
+        },
+        {
+          "action": "Tomatenpuree bakken — 1 min",
+          "description": "Voeg de tomatenpuree toe en bak ongeveer 1 minuut mee — dat laat de rauwe smaak verdwijnen en verdiept de tomatensmaak."
+        },
+        {
+          "action": "Tomaten toevoegen",
+          "description": "Voeg de gepelde tomaten en het zout toe en roer goed door."
+        },
+        {
+          "action": "Inkoken — 18-22 min",
+          "description": "Laat de saus zonder deksel zachtjes pruttelen, af en toe roeren, tot hij duidelijk indikt maar nog sappig blijft. Trek met een houten lepel door de pan: de saus mag zich langzaam weer sluiten. Scheur 4-5 basilicumblaadjes erdoor en proef. Corrigeer eventueel met wat zout of peperoncino — voeg geen suiker toe, een goede tomaat heeft dat niet nodig."
+        },
+        {
+          "action": "Brood roosteren",
+          "description": "Bestrijk de sneetjes brood licht met olijfolie en rooster ze in een droge grillpan, koekenpan of onder de grill tot lichtgoud aan beide kanten — niet keihard krokant, het brood moet straks de saus en dooier kunnen opnemen. Houd warm."
+        },
+        {
+          "action": "Kuiltjes maken",
+          "description": "Zet het vuur onder de saus laag. Maak met de achterkant van een lepel 8 kleine kuiltjes."
+        },
+        {
+          "action": "Eieren erin",
+          "description": "Breek elk ei eerst voorzichtig in een klein kommetje en laat het dan zachtjes in een kuiltje glijden — zo houd je de dooier heel. Bestrooi alleen het eiwit met een heel klein beetje zout."
+        },
+        {
+          "action": "Pocheren — 3-5 min",
+          "description": "Doe het deksel op de pan en laat op zeer laag vuur 3-5 minuten garen. Controleer al na 3 minuten: het eiwit moet volledig gestold zijn, de dooier warm maar nog volledig vloeibaar. Haal zodra het eiwit net gestold is van het vuur — de restwarmte gaart nog even door, dus niet voor de zekerheid langer laten staan."
+        },
+        {
+          "action": "Afmaken",
+          "description": "Scheur de resterende basilicum grof over het gerecht, maal er wat zwarte peper over en druppel enkele druppels goede olijfolie over de saus. Meer niet — tenzij je toch een beetje kaas wilt, zie tips."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Verdeel per persoon ongeveer 2 eieren met ruim tomatensaus over een klein, warm, diep bord. Leg één dun geroosterd sneetje brood ernaast. Snijd bij de eerste hap de dooier open zodat hij zich mengt met de hete tomatensaus — dat moment is waarom dit eenvoudige gerecht ineens veel rijker smaakt dan de ingrediënten doen vermoeden."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de sjalot eerst rustig te fruiten en pas daarna de knoflook toe te voegen, ontstaat een zoetere, rondere basis dan knoflook alleen zou geven. Tomatenpuree, kort meegebakken, verdiept de tomatensmaak nog verder voordat de gepelde tomaten erbij gaan. Door de saus goed te laten inkoken tot dik en geconcentreerd, ontstaat een stevige basis die de eieren letterlijk kan dragen — een dunne saus zou ze laten wegzakken en uit elkaar vallen. Het ei eerst in een kommetje breken en dan pas laten glijden voorkomt een gebroken dooier en schaaldeeltjes. Het deksel tijdens het pocheren houdt de stoom vast, waardoor het eiwit gelijkmatig gaart terwijl de dooier zacht en lopend blijft."
+        }
+      ],
+      "chef_tip": "Tomatenkeuze: gebruik als het kan echte hele San Marzano DOP-tomaten — goede hele gepelde Italiaanse tomaten zijn een prima alternatief.\n\nNiet te veel saus: dit is geen tomatensoep met eieren. Laat de saus voldoende reduceren voordat de eieren erin gaan.\n\nPittigheid: de peperoncino moet achterin de mond een lichte warmte geven — het gerecht hoeft niet echt heet te zijn.\n\nVooruitwerken: de tomatensaus kan uitstekend 1-2 dagen vooraf gemaakt worden. Warm langzaam op en voeg de eieren pas vlak voor het serveren toe.\n\nToch kaas?: rasp dan maximaal 5 g Parmigiano Reggiano of Grana Padano per persoon over het gerecht — maar proef hem eerst zonder. Het gerecht heeft al drie krachtige smaken (zoete geconcentreerde tomaat, peperoncino, romige eidooier), en kaas kan de aandacht van dat contrast wegtrekken.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Barbera d'Asti — Piemonte, Italië",
+          "druif": "Barbera",
+          "smaakprofiel": "Droog, sappig rood fruit, weinig harde tannine en voldoende frisheid.",
+          "omschrijving": "Onze eerste keuze — de combinatie van sappig fruit, frisse zuren en lage tannine maakt Barbera d'Asti de meest complete partner voor de tomatendominantie van dit gerecht.",
+          "waarom_werkt_dit": "Het gerecht wordt gedomineerd door geconcentreerde, zoete tomaat en chilihitte — precies het profiel waarbij een lichte, laag-tannine rode wijn beter werkt dan wit. Barbera blijft licht genoeg voor het ei en heeft genoeg smaak voor de peperoncino.",
+          "serveertemperatuur": "Serveer rond 14-15°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Falanghina — Campania, Italië",
+          "druif": "Falanghina",
+          "smaakprofiel": "Droog, fris en aromatisch, met citrus, groene appel en een levendige zuurgraad.",
+          "omschrijving": "Voor wie liever wit drinkt: dezelfde regio als het gerecht zelf.",
+          "waarom_werkt_dit": "Frisse zuren die door de rijke tomatensaus en romige eidooier snijden.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cerasuolo d'Abruzzo",
+          "druif": "Montepulciano",
+          "smaakprofiel": "Droog, kersenfruit, meer structuur dan een bleke Provence-rosé.",
+          "omschrijving": "Een stevige Italiaanse rosé.",
+          "waarom_werkt_dit": "Lekker bij tomaat, basilicum en de romige dooier, met net genoeg lichaam om niet te verdwijnen naast de chili.",
+          "serveertemperatuur": "Serveer rond 10-12°C."
+        }
+      ]
+    },
+    {
+      "title": "Çılbır — Turkse Eieren met Knoflookyoghurt en Warme Peperboter",
+      "slug": "cilbir-turkse-eieren-knoflookyoghurt-peperboter",
+      "location": "Turkije",
+      "time": "15 min voorbereiding + 10-15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Makkelijk",
+      "keuken": "Overig",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/cilbir-turkse-eieren-knoflookyoghurt-peperboter.jpg",
+      "short_description": "Perfect gepocheerde eieren op fluweelzachte knoflookyoghurt met warme pul biber-boter. Een eeuwenoud Ottomaans gerecht, radicaal puur gehouden.",
+      "description": "Gepocheerde eieren heten al sinds de vijftiende eeuw çılbır in het Ottomaanse rijk — de combinatie met yoghurt zoals we die nu kennen, zou volgens sommige bronnen pas later zijn gecodificeerd. Koele, romige yoghurt, een ei met een volledig vloeibare dooier, en boter die rood kleurt van pul biber en als een warme, pittige saus over het gerecht loopt. Radicaal eenvoudig, en precies daarom zo goed.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de knoflookyoghurt",
+          "ingredients": [
+            {
+              "name": "Turkse süzme yoghurt of volle Griekse yoghurt (10%)",
+              "amount": "500 g"
+            },
+            {
+              "name": "grote teen knoflook, fijngeraspt",
+              "amount": "1"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "lauwwarm water",
+              "amount": "30-40 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de eieren",
+          "ingredients": [
+            {
+              "name": "zeer verse, middelgrote eieren",
+              "amount": "8"
+            },
+            {
+              "name": "natuurazijn of wittewijnazijn",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de warme peperboter",
+          "ingredients": [
+            {
+              "name": "ongezouten roomboter",
+              "amount": "80 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "2 tl"
+            },
+            {
+              "name": "pul biber of Aleppo-peper",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "gerookt paprikapoeder (optioneel)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Erbij",
+          "ingredients": [
+            {
+              "name": "kleine Turkse pidebroden of zachte flatbreads",
+              "amount": "2"
+            },
+            {
+              "name": "goede olijfolie",
+              "amount": "enkele druppels"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Yoghurt voorbereiden",
+          "description": "Haal de yoghurt minimaal 30 minuten van tevoren uit de koelkast. Meng de geraspte knoflook en het zout erdoor. Laat 20-30 minuten staan zodat de scherpe, rauwe knoflooksmaak zachter wordt. Roer vlak voor het serveren beetje bij beetje het lauwwarme water erdoor tot de yoghurt dik genoeg is om op het bord te blijven liggen, maar zacht genoeg om langzaam van een lepel te vallen — bijna de structuur van een zeer lichte crème."
+        },
+        {
+          "action": "Brood verwarmen",
+          "description": "Verwarm de oven tot 180°C. Maak het brood met een paar druppels water heel licht vochtig en verwarm 4-5 minuten. Scheur in grove stukken. Het brood moet warm en zacht zijn, niet hard geroosterd."
+        },
+        {
+          "action": "Peperboter maken",
+          "description": "Smelt de boter samen met de olijfolie op middelhoog vuur. Laat ongeveer 1 minuut verder verwarmen tot lichtjes schuimend en subtiel nootachtig geurend — niet donker laten worden. Haal van het vuur, voeg de pul biber en eventueel het gerookte paprikapoeder toe, roer en laat 30 seconden trekken tot de boter diep oranjerood kleurt. Proef en voeg zo nodig een heel klein beetje zout toe. Houd warm."
+        },
+        {
+          "action": "Eieren voorbewerken",
+          "description": "Breek elk ei apart in een fijnmazige zeef en laat kort staan zodat het losse, waterige deel van het eiwit wegloopt. Laat elk ei daarna voorzichtig in een klein kopje glijden."
+        },
+        {
+          "action": "Eieren pocheren — 3 min",
+          "description": "Breng een ruime pan water aan de kook en zet dan terug tot het water slechts heel zacht beweegt. Voeg de azijn toe. Laat maximaal vier eieren tegelijk voorzichtig in het water glijden. Pocheer ongeveer 3 minuten, tot het eiwit net volledig gestold is en de dooier warm en volledig vloeibaar blijft. Schep eruit met een schuimspaan en laat kort uitlekken op keukenpapier."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Verdeel per persoon ongeveer 125 g knoflookyoghurt over een warm, ondiep bord. Maak met de achterkant van een lepel een brede, zachte cirkel. Leg er twee gepocheerde eieren op."
+        },
+        {
+          "action": "Afwerken",
+          "description": "Lepel de warme rode peperboter royaal rond en gedeeltelijk over de eieren, zodat ook wat van de pul biber meekomt."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer onmiddellijk met het warme, zachte brood. Breek de dooier pas aan tafel open, zodat hij zich vermengt met yoghurt en peperboter tot de echte saus van het gerecht."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Een brede cirkel knoflookyoghurt op een warm bord, met de eieren erop en de rode peperboter er royaal omheen en gedeeltelijk over gelepeld. Geen salade, geen feta, geen kruiden, geen noten of krokantjes — alleen yoghurt, ei, boter en brood."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de yoghurt op kamertemperatuur te brengen en losser te maken met een beetje lauwwarm water, smelt de warme boter er direct in en blijft de textuur zijdezacht in plaats van koud en stug. Eén teen knoflook, laten trekken in plaats van rauw toegevoegd, geeft smaak zonder overheersing. De boter die alleen licht schuimt en subtiel nootachtig wordt — nooit echt donker — behoudt het zuivere contrast tussen yoghurt, ei en de felrode pul biber; ga je verder richting een volledige beurre noisette, dan verdwijnt precies dat contrast. Pul biber pas ná het vuur toevoegen voorkomt bitterheid door verbranden. Het zachte, warme brood is geen aparte krokante textuur maar een functioneel onderdeel: het neemt yoghurt, dooier en boter moeiteloos op."
+        }
+      ],
+      "chef_tip": "Welke yoghurt?: Turkse süzme yoghurt heeft de voorkeur. Kun je die niet vinden, neem dan Griekse yoghurt met ongeveer 10% vet — gebruik geen magere yoghurt.\n\nPul biber of Aleppo-peper?: beide werken uitstekend. Cayennepeper is veel scherper en geeft niet hetzelfde resultaat.\n\nAcht eieren niet allemaal à la minute willen pocheren?: pocheer ze eerder op de dag ongeveer 2,5 minuut, koel direct terug in ijswater en bewaar koud. Leg ze vlak voor het serveren 45-60 seconden in heet, niet kokend water.\n\nVooruitwerken: de knoflookyoghurt kan 4-6 uur vooraf gemaakt worden en afgedekt in de koelkast bewaard. Haal minimaal 30 minuten voor het serveren eruit. De peperboter kan ongeveer een uur vooraf gemaakt en voorzichtig opnieuw verwarmd worden. Pocheer de eieren het liefst à la minute.\n\nBrood: warm Turks pidebrood is de eerste keuze — geen hard geroosterde zuurdesemtoast.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Soave Classico — Veneto, Italië",
+          "druif": "Garganega",
+          "smaakprofiel": "Droog, zacht citrusfruit, amandel en voldoende frisheid zonder agressieve zuren.",
+          "omschrijving": "Onze eerste keuze — de zachte frisheid zonder scherpte maakt Soave Classico de meest evenwichtige partner voor dit delicate, romige gerecht.",
+          "waarom_werkt_dit": "Çılbır is door yoghurt en ei lastiger te matchen dan het lijkt — geen tanninerijke rode wijn, geen messcherpe witte. Soave's zachte, ronde stijl past goed bij de yoghurt en de boterige eidooier.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Viognier",
+          "druif": "Viognier",
+          "smaakprofiel": "Droog, rond, zacht, licht bloemig.",
+          "omschrijving": "Kies geen zwaar houtgerijpte versie.",
+          "waarom_werkt_dit": "De volle structuur sluit mooi aan bij de yoghurt en boter, terwijl het fruit de pul biber opvangt.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Crémant de Bourgogne Brut",
+          "druif": "Chardonnay, Pinot Noir, Aligoté",
+          "smaakprofiel": "Droog, fijne mousse, frisse structuur.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De mousse snijdt door de boter en eidooier, maar een ronde Brut blijft vriendelijk genoeg voor de yoghurt.",
+          "serveertemperatuur": "Serveer rond 8-9°C."
+        }
+      ]
+    },
+    {
+      "title": "Murgh Makhani — Butter Chicken op Michelin-Niveau",
+      "slug": "murgh-makhani-butter-chicken-michelin-niveau",
+      "location": "Delhi, India",
+      "time": "60-75 min actief + 4-12 uur marineren + 45 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gevorderd",
+      "keuken": "Overig",
+      "categorie": "vlees",
+      "image": "/assets/images/murgh-makhani-butter-chicken-michelin-niveau.jpg",
+      "short_description": "Geblakerde tandoori kip in een dubbel gezeefde, zijdezachte tomaat-botersaus. Restauranttechniek die het verschil maakt.",
+      "description": "Ontstaan in de jaren vijftig bij Moti Mahal in Delhi, uit restjes tandoori kip die dreigden uit te drogen. Geblakerde, rokerige kip in een zijdezachte tomaat-botersaus — geen ui, geen kokosmelk, nauwelijks zoet.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de kip",
+          "ingredients": [
+            {
+              "name": "kippendijfilet zonder vel, in stukken van 4 cm",
+              "amount": "700 g"
+            },
+            {
+              "name": "verse gember, zeer fijn geraspt",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "knoflook, zeer fijn geraspt",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "volle Griekse of Turkse yoghurt",
+              "amount": "80 g"
+            },
+            {
+              "name": "Kashmiri chilipoeder",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "garam masala",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de makhani-saus",
+          "ingredients": [
+            {
+              "name": "goede hele gepelde tomaten uit blik, liefst San Marzano",
+              "amount": "800 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "verse gember, grof gesneden",
+              "amount": "12 g"
+            },
+            {
+              "name": "groene kardemompeulen, licht gekneusd",
+              "amount": "4"
+            },
+            {
+              "name": "kruidnagels",
+              "amount": "3"
+            },
+            {
+              "name": "kaneelstokje (4 cm)",
+              "amount": "1"
+            },
+            {
+              "name": "laurierblaadjes",
+              "amount": "2"
+            },
+            {
+              "name": "kleine groene chili, ingesneden (optioneel)",
+              "amount": "1"
+            },
+            {
+              "name": "ongezouten cashewnoten",
+              "amount": "15 g"
+            },
+            {
+              "name": "dubbel geconcentreerde tomatenpuree",
+              "amount": "2 tl"
+            },
+            {
+              "name": "Kashmiri chilipoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            },
+            {
+              "name": "zout, naar smaak",
+              "amount": "¾-1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "slagroom",
+              "amount": "60 ml"
+            },
+            {
+              "name": "kasuri methi",
+              "amount": "2 royale tl"
+            },
+            {
+              "name": "ijskoude roomboter, in blokjes",
+              "amount": "40 g"
+            },
+            {
+              "name": "heldere honing, alleen indien nodig",
+              "amount": "max. 1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Om erbij te serveren",
+          "ingredients": [
+            {
+              "name": "naanbrood en/of basmatirijst",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kip marineren",
+          "description": "Meng gember, knoflook, yoghurt, Kashmiri chili, garam masala, olie en zout. Meng door de kip. Dek af en marineer minimaal 4, liefst 6-12 uur in de koelkast. Haal 30 minuten voor het grillen uit de koelkast."
+        },
+        {
+          "action": "Cashewnoten roosteren",
+          "description": "Rooster de cashewnoten enkele minuten in een droge pan tot licht gekleurd. Zet apart."
+        },
+        {
+          "action": "Specerijen bakken",
+          "description": "Verhit de olie, voeg kardemom, kruidnagel, kaneel, laurier, chili en gember toe. Bak 1,5-2 minuten tot geurig."
+        },
+        {
+          "action": "Tomaten garen",
+          "description": "Voeg de tomaten met sap toe, maak grof stuk. Laat 20 minuten zonder deksel pruttelen tot volledig zacht."
+        },
+        {
+          "action": "Eerste zeef",
+          "description": "Giet door een fijne zeef boven een kom, druk het vocht erdoor. Bewaar de vaste massa, verwijder de hele specerijen eruit."
+        },
+        {
+          "action": "Pureren",
+          "description": "Blend de overgebleven tomaten-gembermassa met de geroosterde cashewnoten en wat opgevangen tomatenvocht tot volledig glad."
+        },
+        {
+          "action": "Tweede zeef",
+          "description": "Druk door een zeer fijne zeef bij het eerder opgevangen vocht. Wat achterblijft mag weg."
+        },
+        {
+          "action": "Tweede reductie",
+          "description": "Terug in de pan met tomatenpuree, chilipoeder, boter en zout. Laat 18-20 minuten zacht inkoken tot de saus dun de achterkant van een lepel bedekt, glanst maar nog soepel loopt."
+        },
+        {
+          "action": "Kip grillen",
+          "description": "Verwarm de ovengrill 15 minuten voor op de hoogste stand. Grill de kip op een rooster, 10 cm onder de grill, 4-5 minuten, omdraaien, nog 3-5 minuten tot donkere, bijna zwarte plekjes en minimaal 74°C kern. Laat rusten."
+        },
+        {
+          "action": "Kasuri methi en room",
+          "description": "Wrijf de kasuri methi fijn tussen je handpalmen, roer door de saus samen met de room. Laat 2 minuten op zeer laag vuur trekken."
+        },
+        {
+          "action": "Proeven",
+          "description": "Proef eerst. Alleen bij te scherpe tomaat: ½ tl honing toevoegen, proeven, eventueel tot max. 1 tl."
+        },
+        {
+          "action": "Kip erbij",
+          "description": "Voeg de kip en wat vrijgekomen vleessap toe. Laat 2-3 minuten op zeer laag vuur trekken — niet langer."
+        },
+        {
+          "action": "Monteren",
+          "description": "Vuur uit. Voeg de ijskoude boter in vier porties toe, telkens volledig laten opnemen voordat de volgende erbij gaat. Niet meer koken."
+        },
+        {
+          "action": "Serveren",
+          "description": "Laat 3 minuten rusten, proef op zout, en serveer met naan en/of een kleine hoeveelheid basmatirijst."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Saus eerst in het bord, kip erop met de geblakerde kant zichtbaar, een laatste beetje glanzende saus erover gelepeld. Verder niets — geen roomspiraal, geen koriander, geen noten."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Kip en saus apart bereiden geeft de kip echte, geroosterde tandoorismaak in plaats van gekookt te worden in tomatensaus. Dubbel zeven verwijdert alle vel, pit en vezel voor een saus die zijdezacht aanvoelt in plaats van grof. Koude boter, op het einde in porties gemonteerd, emulgeert tot de saus in plaats van erbovenop te drijven."
+        }
+      ],
+      "chef_tip": "Kashmiri chili: gebruik echte Kashmiri chili, niet zomaar cayenne — geeft kleur en zachte warmte, geen scherpte.\n\nKasuri methi: is essentieel voor de herkenbare restaurantgeur.\n\nVooruitwerken: marineer de kip een dag vooraf, maak de saus tot en met de tweede reductie vooraf.\n\nBarbecue of pizzaoven?: gril de kip daarboven voor nog meer tandoor-karakter.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Viognier — Condrieu, Frankrijk",
+          "druif": "Viognier",
+          "smaakprofiel": "Droog, perzik, abrikoos, zachte bloemigheid.",
+          "omschrijving": "Onze eerste keuze.",
+          "waarom_werkt_dit": "Combineert uitstekend met tandoori-kruiden en kasuri methi.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Vouvray Demi-Sec",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Lichte restzoet.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Vangt de Kashmiri chili op.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Tavel — Rhône, Frankrijk",
+          "druif": "Grenache, Cinsault en andere Rhône-rassen",
+          "smaakprofiel": "Droog, steviger gebouwde rosé, rood fruit en mediterrane kruidigheid.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Sterk genoeg voor char en tomaat.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        }
+      ]
+    },
+    {
+      "title": "Gong Bao Ji Ding (Kung Pao Chicken) — De Perfecte Sichuan Kip",
+      "slug": "gong-bao-ji-ding-kung-pao-chicken-sichuan",
+      "location": "Sichuan, China",
+      "time": "30 min voorbereiding + 15-20 min marineren + 4 min wokken",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/gong-bao-ji-ding-kung-pao-chicken-sichuan.jpg",
+      "short_description": "Húlà en lìzhī wèi: het geroosterde, bijna verschroeide aroma van gedroogde chili en Sichuanpeper, in balans met hartig, licht zoet en fris zuur. Geen paprika, geen wortel, geen plas saus op het bord.",
+      "description": "Vernoemd naar Ding Baozhen, een negentiende-eeuwse gouverneur van Sichuan wiens titel \"Gongbao\" (Paleiswachter) aan het gerecht bleef kleven. Dit is niet de zoete, stroperige kung pao chicken die je buiten China vaak krijgt voorgeschoteld. De echte Sichuanese versie draait om húlà — het geroosterde, bijna verschroeide aroma van gedroogde chili en Sichuanpeper — met een subtiele lìzhī wèi-balans van hartig, licht zoet en fris zuur. Geen paprika, geen wortel, geen plas saus op het bord.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de kip",
+          "ingredients": [
+            {
+              "name": "kippendijfilet zonder vel, in blokjes van 1,5 cm",
+              "amount": "450 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "2 tl"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "2 tl"
+            },
+            {
+              "name": "water",
+              "amount": "2 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gongbao-saus",
+          "ingredients": [
+            {
+              "name": "Chinkiang zwarte rijstazijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "3½ tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "kippenbouillon of water",
+              "amount": "4 tl"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "1 tl"
+            },
+            {
+              "name": "geroosterde sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de wok",
+          "ingredients": [
+            {
+              "name": "arachideolie of andere neutrale olie",
+              "amount": "35 g"
+            },
+            {
+              "name": "gedroogde Chinese rode chilipepers (bijv. Facing Heaven of Erjingtiao), in stukken van 2 cm geknipt, meeste zaadjes uitgeschud",
+              "amount": "10-12"
+            },
+            {
+              "name": "hele rode Sichuanpeper",
+              "amount": "1 tl"
+            },
+            {
+              "name": "verse gember, dun in plakjes",
+              "amount": "12 g"
+            },
+            {
+              "name": "knoflook, dun in plakjes",
+              "amount": "10 g"
+            },
+            {
+              "name": "dikke lente-uitjes, wit en lichtgroen deel, in stukken van 1,5 cm",
+              "amount": "5"
+            },
+            {
+              "name": "ongezouten geroosterde pinda's",
+              "amount": "65 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kip snijden en marineren",
+          "description": "Snijd de kip in gelijke blokjes van ongeveer 1,5 cm. Meng met sojasaus, Shaoxing wijn, zout, witte peper en water. Meng 30 seconden stevig door tot de vloeistof grotendeels is opgenomen. Voeg het aardappelzetmeel toe, meng opnieuw en laat 15-20 minuten staan."
+        },
+        {
+          "action": "Saus mengen",
+          "description": "Meng alle sausingrediënten in een kommetje tot suiker en zetmeel zijn opgelost. Zet naast de wok."
+        },
+        {
+          "action": "Alles klaarzetten",
+          "description": "Chili, Sichuanpeper, gember, knoflook, lente-ui en pinda's allemaal binnen handbereik."
+        },
+        {
+          "action": "Wok gloeiend heet maken",
+          "description": "Verhit een koolstofstalen wok leeg op het hoogste vuur tot hij bijna rookt. Voeg de olie toe en verdeel over de bodem."
+        },
+        {
+          "action": "Húlà-olie maken — 10-15 sec",
+          "description": "Voeg direct de gedroogde chili en Sichuanpeper toe. Roerbak slechts 10-15 seconden tot de chili donkerder rood wordt en intens geurt, met hier en daar een licht geschroeid randje — nooit zwart, dat wordt bitter."
+        },
+        {
+          "action": "Kip erin",
+          "description": "Voeg de kip direct toe, verdeel over de wok. Laat 15-20 seconden vrijwel met rust zodat één zijde kan kleuren. Wok daarna krachtig 60-90 seconden tot grotendeels gaar met goudbruine plekjes. Niet voortdurend roeren — dat koelt de wok af."
+        },
+        {
+          "action": "Aromaten",
+          "description": "Voeg gember en knoflook toe, wok 15 seconden. Voeg de lente-ui toe, wok nog 20-30 seconden tot warm en licht geschroeid maar nog sappig."
+        },
+        {
+          "action": "Saus toevoegen",
+          "description": "Roer de saus nog eens door (het zetmeel zakt snel) en giet langs de hete zijkant van de wok, niet midden over de kip. Wok krachtig 20-30 seconden tot de vloeistof verandert in een dunne, glanzende laklaag rondom de kip. Stop zodra dat gebeurt — er hoort nauwelijks vrije saus in de wok te liggen."
+        },
+        {
+          "action": "Pinda's",
+          "description": "Zet het vuur uit. Voeg de pinda's toe en schep 10 seconden om."
+        },
+        {
+          "action": "Serveren",
+          "description": "Direct op een warm, ondiep bord scheppen — niet netjes gepositioneerd, alsof het rechtstreeks uit een hete wok is gevallen."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Glanzende kip, rode gedroogde chili, groene stukken lente-ui, goudbruine pinda's en een paar Sichuanpeperkorrels — zichtbaar, rommelig, direct uit de wok. Niets erop: geen koriander, geen sesamzaad, geen extra garnering. Serveer met neutrale, gestoomde jasmijnrijst — geen knoflookrijst of gebakken rijst, het hoofdgerecht heeft al genoeg smaak."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Aardappelzetmeel geeft de kip een uiterst dun, beschermend laagje dat de buitenkant zijdezacht houdt in de extreme hitte van de wok. Het verschroeien van chili en Sichuanpeper in hete olie — vlak tegen verbranden aan, maar nooit eroverheen — is de kern van het húlà-aroma: een diepe, rokerige pit die compleet anders is dan rauwe chilihitte. Door de saus langs de hete wokwand te gieten in plaats van over de kip, blijft de temperatuur hoog genoeg om de vloeistof binnen seconden te laten reduceren tot een dunne laklaag in plaats van een plas saus. En doordat de pinda's pas met het vuur uit worden toegevoegd, behouden ze hun volledige crunch."
+        }
+      ],
+      "chef_tip": "Portiegrootte: wok in kleine porties als je een dubbele hoeveelheid maakt — een overvolle wok is de snelste manier om dit gerecht te verpesten.\n\nAzijn: Chinkiang-azijn niet vervangen door balsamico — koop echte Chinese zwarte azijn, het is een kernsmaak.\n\nGeen wok?: gebruik een grote, zware stalen of gietijzeren koekenpan, bij voorkeur in twee porties. Een kleine antiaanbakpan is hier de slechtste keuze.\n\nPit aanpassen: voor milder gebruik je minder gedroogde chili, maar behoud de Sichuanpeper. Voor pittiger: meer geurige Chinese chilipepers, geen cayennepoeder.\n\nVooruitwerken: kip snijden en marineren, saus mengen, chili knippen, aromaten snijden en pinda's roosteren kan allemaal uren vooraf. Wokken doe je pas à la minute — van hete wok tot tafel duurt nauwelijks 4 minuten.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Vouvray Demi-Sec — Loire, Frankrijk",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Rijp appel- en kweepeerfruit met een lichte restzoetheid en een levendige onderliggende zuurgraad.",
+          "omschrijving": "Onze eerste keuze — de combinatie van rijp fruit en gecontroleerde restzoetheid maakt Vouvray demi-sec de meest complete partner voor de húlà-hitte en de lìzhī wèi-balans van dit gerecht.",
+          "waarom_werkt_dit": "Het rijpe fruit en de lichte zoetheid vangen de chilihitte op, terwijl voldoende frisheid de zoet-zure gongbao-balans scherp houdt.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Gris — Elzas, Frankrijk",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Rijp peerfruit, zachte zuren, ronde textuur. Kies droog tot heel licht off-dry.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Werkt uitstekend bij Sichuanpeper en geroosterde pinda dankzij de zachte, ronde structuur.",
+          "serveertemperatuur": "Serveer rond 10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cru Beaujolais — Fleurie",
+          "druif": "Gamay",
+          "smaakprofiel": "Droog, sappig rood fruit, weinig tannine.",
+          "omschrijving": "Voor wie liever rood drinkt.",
+          "waarom_werkt_dit": "Licht gekoeld blijft deze wijn fris genoeg voor de chili en botst niet met de Chinkiang-azijn.",
+          "serveertemperatuur": "Serveer licht gekoeld rond 13-14°C."
+        }
+      ]
     }
   ]
 }
