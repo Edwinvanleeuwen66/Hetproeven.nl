@@ -77298,6 +77298,484 @@
           "serveertemperatuur": "Serveer licht gekoeld rond 13-14°C."
         }
       ]
+    },
+    {
+      "title": "Pollo alla Diavola al Mattone — Krokante Kippendij onder de Baksteen met Duivelse Chili-Knoflookboter",
+      "slug": "pollo-alla-diavola-al-mattone-krokante-kip-baksteen",
+      "location": "Toscane/Rome, Italië",
+      "time": "15 min voorbereiding + 4-12 uur droog zouten + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "vlees",
+      "image": "/assets/images/pollo-alla-diavola-al-mattone-krokante-kip-baksteen.jpg",
+      "short_description": "Sappige kippendij met extreem krokant vel, gebakken onder een baksteen en geserveerd met pittige chili-knoflookboter. Geen saus, geen marinade — alleen kip, krokant vel en duivelse boter.",
+      "description": "\"Duivelse stijl\" — de naam verwijst volgens sommige bronnen naar de felle hitte van de grill waarboven dit gerecht traditioneel gaart, volgens andere naar de scherpe peperoncino erin. Deze versie combineert de klassieke al mattone-techniek met kippendij: geen natte marinade, maar droog gezouten vel dat onder een baksteen bijna crackerachtig krokant wordt. Pas na het bakken komt de smaak: een kleine hoeveelheid duivelse boter van het uitgebakken kippenvet, geroosterde knoflook, chili en rozemarijn.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de kip",
+          "ingredients": [
+            {
+              "name": "grote kippendijen met vel, zonder bot, 160-180 g per stuk",
+              "amount": "4"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "1¼ tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "2 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de diavola-boter",
+          "ingredients": [
+            {
+              "name": "gewone chilivlokken",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "tenen knoflook, ongepeld",
+              "amount": "3"
+            },
+            {
+              "name": "flinke tak verse rozemarijn, zeer fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "biologische citroen (rasp en sap)",
+              "amount": "1"
+            },
+            {
+              "name": "ongezouten roomboter",
+              "amount": "25 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "2-3 tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "fleur de sel",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Materiaal",
+          "ingredients": [
+            {
+              "name": "grote gietijzeren of zware stalen koekenpan",
+              "amount": "1"
+            },
+            {
+              "name": "schone bakstenen, dubbel in aluminiumfolie gewikkeld (of een tweede zware pan)",
+              "amount": "1-2"
+            },
+            {
+              "name": "bakpapier",
+              "amount": "naar behoefte"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kip droog zouten — 4-12 uur vooraf",
+          "description": "Dep de kippendijen zeer goed droog. Snijd zo nodig een ondiep sneetje in het dikste deel voor gelijke dikte — niet door het vel snijden. Bestrooi beide kanten met het zout. Leg met de velzijde omhoog, onafgedekt, in de koelkast, minimaal 4, liefst 8-12 uur."
+        },
+        {
+          "action": "Kip op temperatuur brengen",
+          "description": "Haal 20-30 minuten voor het bakken uit de koelkast. Dep alleen het vel nog een keer goed droog. Maal wat zwarte peper over de vleeskant — verder niets op het vel."
+        },
+        {
+          "action": "Bakken met knoflook",
+          "description": "Verwarm een grote, zware pan 2 minuten op middelhoog vuur, voeg de olie toe. Leg de ongepelde knoflooktenen aan de zijkant. Leg de kippendijen met de velzijde naar beneden. Leg een stuk bakpapier op de vleeskant en zet daarop de in folie verpakte baksteen. Druk de eerste 10 seconden stevig aan, zet dan het vuur naar middellaag."
+        },
+        {
+          "action": "Onder het gewicht bakken — 8-10 min",
+          "description": "Niet schuiven, niet steeds kijken. Controleer na ongeveer 7 minuten: het vel moet egaal goudbruin, hier en daar donkerder, hard en krokant zijn, en makkelijk loskomen van de pan. Nog bleek? Nog 1-2 minuten."
+        },
+        {
+          "action": "Omdraaien",
+          "description": "Verwijder de baksteen en het bakpapier, draai de kip om. Bak de vleeskant 2-3 minuten zonder gewicht, tot een kerntemperatuur van ongeveer 75-78°C. Leg met het krokante vel naar boven op een rooster of warm bord. Laat 5 minuten rusten, niet afdekken."
+        },
+        {
+          "action": "Pan voorbereiden",
+          "description": "Schep overtollig vet uit de pan tot ongeveer 1 eetlepel kippenvet overblijft. Haal de zachte, geroosterde knoflook uit zijn vel en prak fijn."
+        },
+        {
+          "action": "Duivelse boter maken",
+          "description": "Haal de pan 20-30 seconden van het vuur. Voeg boter, geroosterde knoflook, chilivlokken en rozemarijn toe. Zet terug op laag vuur en laat 20-30 seconden bruisen tot oranjerood en sterk geurend — de chili mag niet bruin worden."
+        },
+        {
+          "action": "Citroen als correctie",
+          "description": "Haal de pan definitief van het vuur. Rasp er ½ tl citroenschil door, voeg eerst 2 tl citroensap toe, roer, dan de olijfolie. Proef: je moet achtereenvolgens kip, geroosterde knoflook, boter, chili, rozemarijn en pas dan een klein fris tikje citroen proeven. Voeg alleen indien nodig nog wat citroensap toe."
+        },
+        {
+          "action": "Serveren",
+          "description": "Snijd elke dij in twee royale stukken. Lepel ongeveer 1 eetlepel warme diavolaboter op het bord, leg de kip erop met het vel omhoog. Lepel eventueel nog wat boter langs de snijkant — nooit over het vel. Werk af met een paar korrels fleur de sel op de krokante huid."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Krokante gouden huid, sappig vlees, een klein plasje glanzende, felrode boter eronder en ernaast. Verder niets — geen kruiden, geen groente, geen saus over het vel."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de kip eerst droog te zouten en onafgedekt te laten rusten, trekt het zout in het vlees terwijl de droge koelkastlucht vocht aan het vel onttrekt — de combinatie die sappiger vlees én droger, krokanter vel oplevert. Een natte marinade vooraf zou dat effect tenietdoen. Het gewicht van de baksteen zorgt dat het vel over zijn volle oppervlakte contact houdt met de hete pan, wat gelijkmatige bruining en maximale crunch geeft. Door alle smaak pas na het bakken toe te voegen — in een kleine hoeveelheid boter gemaakt van het eigen uitgebakken kippenvet — blijft het vel intact terwijl de kip toch de volle, pittige diavola-smaak krijgt."
+        }
+      ],
+      "chef_tip": "Waarom kippendij en geen borst?: meer vet onder het vel, meer smaak, sappiger vlees, tolereert hoge temperaturen beter, en wordt prachtig plat onder de baksteen.\n\nWaarom geen drumsticks?: een drumstick is rond — de baksteen kan hem niet vlak tegen de pan drukken, waardoor je precies het voordeel van de techniek verliest.\n\nGeen baksteen?: een tweede zware gietijzeren koekenpan, een zware braadpan, of een kleinere pan met een paar blikken erin werkt ook — leg altijd bakpapier tussen kip en gewicht.\n\nHoe pittig?: chilivlokken verschillen sterk per merk — het gerecht moet duidelijk voelbaar pittig zijn, niet zo heet dat het de smaak van kip, boter en knoflook overstemt.\n\nNiet opnieuw opwarmen: dit gerecht is op zijn best direct na het bakken, wanneer het vel nog op zijn krokantst is.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Cerasuolo d'Abruzzo",
+          "druif": "Montepulciano",
+          "smaakprofiel": "Droog, stevig rood fruit, sappigheid en voldoende structuur, koel geserveerd.",
+          "omschrijving": "Onze eerste keuze — de combinatie van sappig fruit en voldoende structuur maakt deze rosé de meest complete partner voor de pittige, boterige kip.",
+          "waarom_werkt_dit": "Genoeg structuur om de krokante kip en de boter aan te kunnen, terwijl de koelere serveertemperatuur de chili tempert.",
+          "serveertemperatuur": "Serveer rond 10-12°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Frappato — Sicilië, Italië",
+          "druif": "Frappato",
+          "smaakprofiel": "Droog, licht rood, veel kers en rood fruit, weinig tannine.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Werkt bijzonder goed bij pikante kip en rozemarijn, zonder de crunch van het vel te overweldigen.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Soave Classico — Veneto, Italië",
+          "druif": "Garganega",
+          "smaakprofiel": "Droog, zachte citrus, lichte amandel, voldoende frisheid zonder agressief zuur.",
+          "omschrijving": "Voor wit: vooral mooi wanneer de citroen in het gerecht subtiel blijft, zoals in dit recept.",
+          "waarom_werkt_dit": "Zachte citrus en amandeltonen sluiten aan bij de citroen-correctie in de boter zonder de chili te versterken.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        }
+      ]
+    },
+    {
+      "title": "Bourride à la Provençale — Zeebaars met Aïolivelouté en Venkel",
+      "slug": "bourride-a-la-provencale-zeebaars-aioli-venkel",
+      "location": "Sète/Marseille, Provence, Frankrijk",
+      "time": "40 min voorbereiding + 30 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/bourride-a-la-provencale-zeebaars-aioli-venkel.jpg",
+      "short_description": "Zuiver witvis in een zijdezachte, met aïoli gebonden visbouillon — geen tomaat, geen saffraan, alleen knoflook, eidooier en olijfolie. Het fluweelzachte tegenovergestelde van bouillabaisse.",
+      "description": "Bourride komt uit Sète en Marseille, ontstaan uit de vis die niet verkocht kon worden — koppen, graten, restjes — omgezet tot een rijke bouillon, gebonden met aïoli. Waar bouillabaisse draait om tomaat, saffraan en een keur aan schaal- en schelpdieren, is bourride juist het tegenovergestelde: zuiver witvis, geen saffraan, geen tomaat, gebonden tot iets fluweelzachts met knoflook, eidooier en olijfolie. Volgens de lokale legende zo lekker dat zelfs de Olympische goden ervoor naar Marseille kwamen.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de visbouillon",
+          "ingredients": [
+            {
+              "name": "visgraten en -koppen van witvis (vraag je visboer), goed schoongemaakt",
+              "amount": "500 g"
+            },
+            {
+              "name": "prei, alleen het wit, in ringen",
+              "amount": "1"
+            },
+            {
+              "name": "venkelknol, in grove stukken (bewaar de fijne groene toppen)",
+              "amount": "1"
+            },
+            {
+              "name": "ui, in parten",
+              "amount": "1"
+            },
+            {
+              "name": "tenen knoflook, gekneusd",
+              "amount": "2"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "200 ml"
+            },
+            {
+              "name": "water",
+              "amount": "1 liter"
+            },
+            {
+              "name": "laurierblad",
+              "amount": "1"
+            },
+            {
+              "name": "takjes verse tijm",
+              "amount": "een paar"
+            },
+            {
+              "name": "zout, witte peperkorrels",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vis",
+          "ingredients": [
+            {
+              "name": "stukken zeebaars- of tarbotfilet, ongeveer 130-150 g per stuk",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de aïoli",
+          "ingredients": [
+            {
+              "name": "eidooiers",
+              "amount": "2"
+            },
+            {
+              "name": "tenen knoflook, fijngeperst",
+              "amount": "3-4"
+            },
+            {
+              "name": "milde olijfolie",
+              "amount": "200 ml"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "flinterdunne plakjes rauwe venkel (met een mandoline)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "de fijne groene venkeltoppen",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "kleine, zachtgekookte aardappeltjes (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Bouillon maken — 25 min",
+          "description": "Fruit prei, venkel en ui zachtjes in een scheutje olijfolie tot glazig, zonder te kleuren. Voeg de visgraten en knoflook toe, bak nog even mee. Blus af met de witte wijn, laat kort inkoken. Voeg water, laurier, tijm, zout en peperkorrels toe. Breng aan de kook en laat 20-25 minuten zachtjes trekken."
+        },
+        {
+          "action": "Zeven",
+          "description": "Zeef de bouillon door een fijne zeef, druk de groenten goed uit. Je moet een heldere, geurige visfond overhouden. Breng eventueel verder op smaak met zout."
+        },
+        {
+          "action": "Aïoli maken",
+          "description": "Klop de eidooiers met de knoflook en een snufje zout tot een dikke basis. Voeg de olijfolie beetje bij beetje toe, eerst druppelsgewijs en dan in een dunne straal, terwijl je continu klopt, tot een dikke, stevige aïoli ontstaat. Roer het citroensap erdoor."
+        },
+        {
+          "action": "Vis pocheren — 6-8 min",
+          "description": "Verwarm de bouillon tot net onder de kook. Leg de visfilets erin en pocheer zachtjes 6-8 minuten tot net gaar. Haal de vis er voorzichtig uit en houd warm."
+        },
+        {
+          "action": "Binden — het cruciale moment",
+          "description": "Doe de helft van de aïoli in een kom. Schep er geleidelijk, al kloppend, een paar lepels warme bouillon doorheen om de aïoli te temperen. Giet dit mengsel terug in de pan met de rest van de bouillon, onder constant roeren. Verwarm zeer zachtjes, zonder ooit te laten koken, tot de soep merkbaar dikker en fluweelzacht wordt — dit duurt een paar minuten."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg één stuk vis in elk diep bord. Schenk de warme, gebonden bourride eromheen. Werk af met een paar flinterdunne plakjes rauwe venkel, de fijne groene toppen, en eventueel een zacht gekookt aardappeltje. Serveer de resterende aïoli apart erbij."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Eén stuk vis centraal in een diep, warm bord, de zijdezachte, lichtgele bourride eromheen geschonken. Een paar rauwe venkelschijfjes en het fijne groen erover voor kleur en frisheid — verder niets. De resterende aïoli in een klein kommetje ernaast, zodat iedereen zelf kan doseren."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de bouillon eerst puur uit visgraten, venkel, prei en witte wijn te trekken, en dan te zeven tot volledig helder, krijg je een schone, geconcentreerde basis zonder de tomatige, rustieke kant van bouillabaisse. De aïoli, apart gemaakt en pas op het allerlaatste moment door de warme bouillon geroerd, geeft de soep zijn kenmerkende, romige textuur — zonder dat er ooit room aan te pas komt. Door de bouillon na het toevoegen van de aïoli nooit meer te laten koken, blijft de emulsie van eidooier en olijfolie intact in plaats van te schiften. Het resultaat is precies het contrast dat bourride onderscheidt van zijn rustiekere neef: minder tomaat, minder kruiden, meer fluweel, knoflook en puur witvis."
+        }
+      ],
+      "chef_tip": "Visgraten: vraag je visboer om graten en koppen van een goede witvis — die vormen de basis van de bouillon en zijn meestal goedkoop of zelfs gratis.\n\nVooruitwerken: de bouillon en de aïoli kunnen allebei een dag vooraf gemaakt worden. Pocheer de vis en bind de soep pas vlak voor het serveren.\n\nOlijfolie voor de aïoli: gebruik milde olijfolie, geen extra vierge — die laatste kan te bitter en dominant worden in zo'n grote hoeveelheid.\n\nNiet-traditionele twist: wie toch een beetje saffraan wil proeven, kan een paar draadjes door de bouillon laten trekken — authentiek is het niet, maar het geeft een mooie, warme kleur en subtiele geur.\n\nRestjes aïoli: zijn heerlijk bij geroosterde groenten of gewoon bij brood.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Cassis Blanc — Provence, Frankrijk",
+          "druif": "Marsanne, Clairette, Ugni Blanc",
+          "smaakprofiel": "Droog, fris, met citrus, witte bloemen en een subtiele kruidige, mediterrane ondertoon.",
+          "omschrijving": "Onze eerste keuze — dezelfde kustlijn, dezelfde traditie. Cassis Blanc is de meest natuurlijke partner voor dit gerecht.",
+          "waarom_werkt_dit": "De klassieke lokale pairing — een droge, minerale Provençaalse witte wijn die de romige, knoflookrijke bourride optilt zonder te overheersen.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Roussanne / Marsanne — Rhône, Frankrijk",
+          "druif": "Roussanne, Marsanne",
+          "smaakprofiel": "Droog, rond, met witte perzik, honing en een zachte, kruidige afdronk.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De ronde textuur sluit mooi aan bij de romige aïoli-binding, terwijl de kruidigheid de venkel begeleidt.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Picpoul de Pinet — Languedoc, Frankrijk",
+          "druif": "Piquepoul Blanc",
+          "smaakprofiel": "Droog, fris, licht zilt, met citrus en groene appel.",
+          "omschrijving": "Een toegankelijke, frisse witte wijn uit de buurt van Sète zelf, waar bourride vandaan komt.",
+          "waarom_werkt_dit": "De hoge frisheid en ziltigheid passen goed bij de romige bouillon en houden de vis licht.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
+        }
+      ]
+    },
+    {
+      "title": "Cachopo Crujiente — Mini Kalfsschnitzel met Jamón Serrano en Queso Semicurado",
+      "slug": "cachopo-crujiente-kalfsschnitzel-jamon-serrano-queso",
+      "location": "Asturië, Spanje",
+      "time": "35 min voorbereiding + 15-20 min opstijven + 8-10 min bereiding",
+      "servings": "4 personen (12 mini-cachopo's, 3 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/cachopo-crujiente-kalfsschnitzel-jamon-serrano-queso.jpg",
+      "short_description": "Twee dunne kalfslapjes met ham en kaas ertussen, gepaneerd en krokant gebakken tot precieze, gouden hapjes van twee happen elk, met een fris sliertje piparra. Geen saus nodig.",
+      "description": "Cachopo ontstond in Asturië, vermoedelijk in de jaren veertig bij Bar Pelayo in Oviedo — een Spaanse cordon bleu: twee dunne kalfslapjes met ham en kaas ertussen, gepaneerd en gebakken. Traditioneel een enorm deelgerecht, hier verkleind tot precieze, krokante hapjes van twee happen elk, met een dun sliertje piparra als fris, kleurrijk accent. Geen saus nodig.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de cachopo's",
+          "ingredients": [
+            {
+              "name": "kalfsoester of zeer dun gesneden kalfsschnitzel",
+              "amount": "500 g"
+            },
+            {
+              "name": "Jamón Serrano, zeer dun gesneden",
+              "amount": "90 g"
+            },
+            {
+              "name": "queso semicurado of jonge Manchego, in dunne plakjes",
+              "amount": "100 g"
+            },
+            {
+              "name": "bloem",
+              "amount": "60 g"
+            },
+            {
+              "name": "eieren, losgeklopt",
+              "amount": "2"
+            },
+            {
+              "name": "fijn paneermeel of zeer fijn gemalen panko",
+              "amount": "100 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "neutrale olie om te bakken",
+              "amount": "naar behoefte"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de garnering",
+          "ingredients": [
+            {
+              "name": "piparras (Spaanse groene augurkpepertjes), in dunne, schuine plakjes",
+              "amount": "4-5"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kalf flinterdun kloppen",
+          "description": "Leg het kalf tussen twee vellen bakpapier en klop voorzichtig tot ongeveer 2-3 mm dikte. Snijd 24 rechthoekjes van ongeveer 6x4 cm — twee stukjes per tapa."
+        },
+        {
+          "action": "Kruiden en vullen",
+          "description": "Kruid licht met zout en peper. Leg op 12 stukjes kalf een klein stukje jamón en een dun plakje kaas, met een rand van ongeveer 5 mm vrij. Leg het tweede stukje kalf erop en druk de randen stevig aan."
+        },
+        {
+          "action": "Laten opstijven — 15-20 min",
+          "description": "Leg de gevulde mini-cachopo's in de koelkast — dat houdt ze steviger en beter gesloten tijdens het paneren en bakken."
+        },
+        {
+          "action": "Paneren",
+          "description": "Haal elk pakketje eerst door de bloem (klop overtollige bloem eraf), dan door het losgeklopte ei, dan door het paneermeel. Druk het paneermeel licht aan — dit is geen kroket, de korst moet dun en strak zijn."
+        },
+        {
+          "action": "Bakken — 1,5-2 min per kant",
+          "description": "Verhit een dun laagje neutrale olie met de boter in een ruime koekenpan op middelhoog vuur. Bak de cachopo's in porties tot diep goudbruin en krokant. Laat uitlekken op keukenpapier of een rooster."
+        },
+        {
+          "action": "Rusten",
+          "description": "Laat 2 minuten rusten — niet langer, de kaas moet nog warm en zacht zijn."
+        },
+        {
+          "action": "Snijden en garneren",
+          "description": "Snijd elke cachopo eventueel eenmaal schuin doormidden zodat de doorsnede zichtbaar wordt. Leg op elk stukje een dun, schuin plakje piparra."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg per persoon drie stuks op een warm, klein bord, elk met het dunne groene sliertje piparra erop — een klein, kleurrijk accent dat de krokante, gouden korst en de doorsnede met gesmolten kaas laat spreken. Geen saus, geen extra garnering."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het kalf flinterdun te kloppen en de vulling dun te houden, blijft de verhouding tussen krokante korst, sappig vlees en gesmolten kaas in balans. Het kort laten opstijven vóór het paneren houdt de pakketjes goed gesloten tijdens het bakken, zodat er geen kaas weglekt. De piparra geeft, zonder extra zout of gedoe, precies het frisse tegenwicht dat de rijke combinatie van jamón, kaas en krokante korst nodig heeft — een klein, kleurrijk, direct herkenbaar Spaans accent zonder dat je een prikker hoeft te hanteren."
+        }
+      ],
+      "chef_tip": "Kaaskeuze: queso semicurado of jonge Manchego zijn in elke Spaanse supermarkt te vinden. Geen Spaanse kaas voorhanden? Jong belegen Gouda werkt technisch verrassend goed als vervanger, al is dat natuurlijk minder Spaans.\n\nNiet te dik vullen: een dunne laag jamón en kaas is genoeg, anders loopt de kaas eruit tijdens het bakken.\n\nBaktemperatuur: bak niet te heet — anders verbrandt de korst voordat de kaas is gesmolten.\n\nVooruitwerken: de mini-cachopo's kunnen 2-3 uur vooraf opgebouwd en gepaneerd worden. Bak ze pas vlak voor het serveren.\n\nDirect serveren: deze tapa leeft van warmte en krokantheid.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Spaanse cider (sidra natural) — Asturië, Spanje",
+          "druif": "Diverse lokale Asturische appelrassen, meestal een blend van zoete, zure en bittere appels",
+          "smaakprofiel": "Sidra natural ruikt allereerst naar vers geperste appel — niet de zoete, jam-achtige geur van een zoete cider, maar iets scherpers en aardsers, met tonen van groene appel, natte aarde en een subtiele, bijna boerderijachtige funk die ontstaat door de natuurlijke, spontane gisting zonder toegevoegde koolzuur. In de mond is de cider droog, soms zelfs streng droog, met een levendige, appelzure frisheid en een lichte, natuurlijke prikkeling die nooit champagneachtig bruist maar eerder zacht borrelt. De afdronk is kort maar messcherp, met een licht garvend, bijna cider-azijnachtig randje dat in Asturië bewust wordt gewaardeerd.",
+          "omschrijving": "Onze eerste keuze — dezelfde regio, dezelfde eeuwenoude traditie. Cider en cachopo horen letterlijk bij elkaar, en de droge, appelzure frisheid is precies het tegenwicht dat deze rijke, krokante tapa nodig heeft.",
+          "waarom_werkt_dit": "Dit is de authentieke, onlosmakelijke pairing — in Asturië wordt cachopo vrijwel nergens anders bij gedronken. De scherpe, droge appelzuren snijden feilloos door de rijke combinatie van krokante paneerkorst, gesmolten kaas en zoute jamón, terwijl de aardse, licht funky ondertoon van de cider een verrassend goede tegenhanger vormt voor de umami van de ham. Bovendien wordt sidra van oudsher uit hoogte geschonken (escanciar) om de cider te beluchten en zijn aroma's te openen — een stukje theater dat perfect past bij het speelse, tapasachtige karakter van dit gerecht.",
+          "serveertemperatuur": "Serveer rond 8-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello — Galicië, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Godello heeft een verfijnde, iets terughoudende neus vergeleken met veel andere Spaanse witte wijnen: witte perzik, gele appel en een zachte bloesemgeur, vaak met een ondertoon van natte steen of krijt die verraadt dat de druif vaak op steile, mineraalrijke hellingen in Galicië groeit. In de mond is de wijn rond en vol, met een zachte, bijna olieachtige textuur die zelden echt scherp aanvoelt, ondersteund door een gematigde maar aanwezige frisheid. De afdronk is medium-lang, met een subtiele, amandelachtige bitterheid aan het einde.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De ronde, volle textuur van Godello sluit natuurlijk aan bij de rijke, gesmolten kaas in het hart van de cachopo — in plaats van te contrasteren, omarmt deze wijn de romigheid van het gerecht. De minerale, bijna krijtachtige ondertoon geeft tegelijk genoeg structuur om niet te verdwijnen naast de gebakken jamón en de krokante korst. Dit is de keuze voor wie liever een wijn heeft die het gerecht rustig begeleidt dan een die er scherp doorheen snijdt.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Mencía — Bierzo, Spanje",
+          "druif": "Mencía",
+          "smaakprofiel": "Mencía ruikt verrassend licht voor een rode druif: rood fruit als framboos en aardbei, met viooltjes en een subtiele, peperige kruidigheid, soms met een vleugje grafiet of natte leisteen — een kenmerk van de leisteenbodems in Bierzo. In de mond is de wijn licht van lichaam, met zachte, bijna fluweelzachte tannines en een frisse, sappige zuurgraad. De afdronk is kort tot medium, fruitig en nooit zwaar.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Licht gekoeld gedronken gedraagt Mencía zich bijna als een stevige rosé: de zachte tannines botsen niet met de gesmolten kaas, terwijl het sappige rode fruit een fris tegenwicht biedt aan het vette, zoute karakter van de jamón en de gefrituurde korst. De subtiele, peperige kruidigheid vindt bovendien een mooie echo in de piparra-garnering. Dit is de aangewezen keuze voor wie liever een lichte rode wijn drinkt dan wit of cider bij een warme, krokante tapa.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        }
+      ]
     }
   ]
 }
