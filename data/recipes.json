@@ -78529,6 +78529,214 @@
           "serveertemperatuur": "Serveer rond 10-12°C."
         }
       ]
+    },
+    {
+      "title": "Gefrituurde Kip met Citroenschijfjes — Klassieke Chinese Citroenkip met Paprika",
+      "slug": "gefrituurde-kip-met-citroenschijfjes",
+      "location": "Hongkong / Nederlands-Chinese keuken",
+      "time": "40 min (incl. 15-20 min marineren)",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/gefrituurde-kip-met-citroenschijfjes.jpg",
+      "short_description": "Krokante reepjes kipfilet met een frisse citroensaus en sappige paprika — de vertrouwde Chinees-Indische citroenkip, technisch op zijn best gemaakt.",
+      "description": "Krokante reepjes kipfilet, een frisse citroensaus die eerst zuur en dan pas zacht zoet is, sappige paprika die zijn bite behoudt. Citroenkip is oorspronkelijk een Kantonees gerecht uit Hongkong en deze versie, met paprika en een glanzende saus, is de vertrouwde vorm zoals ze al decennia bij het Chinees-Indische restaurant om de hoek wordt geserveerd. Geen ananas, geen honing, geen fusion-fratsen. Gewoon ouderwets goed, maar dan technisch op zijn best.",
+      "ingredient_groups": [
+        {
+          "group_name": "Kip",
+          "ingredients": [
+            {
+              "name": "kipfilet",
+              "amount": "700 g"
+            },
+            {
+              "name": "maïzena",
+              "amount": "45 g"
+            },
+            {
+              "name": "bloem",
+              "amount": "20 g"
+            },
+            {
+              "name": "neutrale olie om te frituren",
+              "amount": "naar behoefte"
+            }
+          ]
+        },
+        {
+          "group_name": "Marinade",
+          "ingredients": [
+            {
+              "name": "fijn zeezout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "Shaoxing-wijn of droge sherry",
+              "amount": "2 tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "maïzena",
+              "amount": "1 volle el"
+            },
+            {
+              "name": "water",
+              "amount": "1 el"
+            },
+            {
+              "name": "eidooier",
+              "amount": "1"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Groenten",
+          "ingredients": [
+            {
+              "name": "groene paprika",
+              "amount": "1"
+            },
+            {
+              "name": "rode paprika",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Saus",
+          "ingredients": [
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "2½ el"
+            },
+            {
+              "name": "vers citroensap",
+              "amount": "3 el"
+            },
+            {
+              "name": "lichte kippenbouillon",
+              "amount": "6 el"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "maïzena",
+              "amount": "2 el"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Garnering",
+          "ingredients": [
+            {
+              "name": "biologische citroenen",
+              "amount": "2"
+            },
+            {
+              "name": "zeer fijngehakte platte peterselie",
+              "amount": "1-2 el"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kip snijden",
+          "description": "Snijd de kipfilet in hapgrote, dunne repen — ongeveer 5-6 cm lang en 1 cm breed. Niet te dik snijden. De charme van dit gerecht zit juist in die vrij dunne, snel bakkende, licht krokante kipreepjes."
+        },
+        {
+          "action": "Kip marineren",
+          "description": "Meng zout, Shaoxing of droge sherry, lichte sojasaus, maïzena, water, eidooier en zwarte peper glad in een kom. Schep de kipreepjes erdoor en meng grondig. Laat 15-20 minuten marineren. De combinatie van eidooier en maïzena geeft de kip een heel dun beschermend laagje, waardoor de kip sappig blijft vanbinnen en de buitenkant na het frituren precies die typische licht krokante textuur krijgt."
+        },
+        {
+          "action": "Coating maken",
+          "description": "Meng de 45 g maïzena en 20 g bloem op een bord of in een lage schaal. Haal de kip uit de marinade en wentel de stukjes losjes door dit mengsel. Druk niet te hard aan — je wilt geen dikke korst, maar een dun, gelijkmatig laagje. Laat de gecoate kip vervolgens 5 minuten rusten op een rooster of bord, zodat de coating beter hecht en er tijdens het frituren minder afvalt."
+        },
+        {
+          "action": "Paprika snijden",
+          "description": "Snijd de groene en rode paprika in stukken van ongeveer 2½ cm. Niet te klein — ze moeten straks duidelijk zichtbaar en sappig blijven en niet in de saus verdwijnen."
+        },
+        {
+          "action": "Saus mengen",
+          "description": "Meng suiker, citroensap, lichte bouillon, zout, maïzena en sesamolie in een kommetje. Roer goed glad tot de maïzena volledig is opgelost. Zet apart. De saus mag nu vrij scherp en wat vlak lijken — dat is normaal, pas na het verwarmen en het mengen met paprika en kip komt de balans goed op zijn plek."
+        },
+        {
+          "action": "Citroenschijfjes snijden",
+          "description": "Snijd 1 citroen in flinterdunne schijfjes. Verwijder pitten zorgvuldig. De tweede citroen gebruik je eventueel extra aan tafel of voor extra schijfjes wanneer je het gerecht rijker wilt garneren. Dunne schijfjes geven geur en uitstraling zonder dat je op een grote bittere citroenrand zit te kauwen."
+        },
+        {
+          "action": "Kip frituren",
+          "description": "Verhit neutrale olie tot 170°C. Frituur de kip in 2 à 3 porties zodat de olie heet blijft. Bak iedere portie ongeveer 2½-3 minuten tot de kip licht goud en gaar is. Schep uit de olie en laat uitlekken. Verhoog daarna de temperatuur naar 185-190°C en frituur alle kip nog een tweede keer, heel kort — 30-40 seconden. Daardoor wordt de korst droger, brosser en veel beter bestand tegen de saus — dit is echt een verschilmaker."
+        },
+        {
+          "action": "Paprika wokken",
+          "description": "Verhit een wok of ruime koekenpan op hoog vuur. Voeg ongeveer 1 el van de frituurolie toe. Roerbak de paprika 1½-2 minuten. Ze moeten warm worden en hier en daar wat kleur krijgen, maar nog duidelijk beet hebben — als de paprika volledig zacht wordt, verlies je precies de frisse crunch die dit gerecht nodig heeft tegenover de krokante kip."
+        },
+        {
+          "action": "Saus aan de kook brengen",
+          "description": "Roer de saus nog één keer goed door, want de maïzena zakt snel naar de bodem. Giet de saus bij de paprika. Breng aan de kook terwijl je blijft roeren. Na korte tijd zal de saus binden — je zoekt geen dikke gel, maar een glanzende, licht stroperige saus."
+        },
+        {
+          "action": "Kip terug en citroen erbij",
+          "description": "Voeg de gefrituurde kip toe zodra de saus mooi gebonden is. Schep 20-30 seconden om. Voeg nu de flinterdunne citroenschijfjes toe en schep nog 10 seconden door — niet langer. De kip moet krokant blijven en de citroen moet geuren, niet kapotkoken."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep alles op een warme schaal of grote serveerplaat. Garneer met nog enkele dunne citroenschijfjes en heel weinig fijngehakte platte peterselie — zuinig gebruiken, het is een fris accent, geen groene topping."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Een elegante ovale schaal met de kip en paprika duidelijk zichtbaar onder een dunne, glanzende sauslaag — geen plas saus. Enkele citroenschijfjes bovenop, een heel spaarzame streep peterselie. De kip moet er licht en krokant uitzien, niet ondergedompeld."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De kip blijft kip: geen dik beslag en geen zware krokante korst zoals bij sommige takeaway lemon chicken, waardoor het gerecht lichter en eleganter blijft. De saus is fris, niet snoeperig — je proeft eerst citroen, daarna pas zachte zoetheid. De paprika blijft echt onderdeel van het gerecht: niet weggelaten en niet stukgebakken, zodat de rode en groene kleur en bite behouden blijven. En de citroenschijfjes zijn geen decoratie alleen — ze geven werkelijk geur en een heel subtiel bittertje dat de saus interessanter maakt."
+        }
+      ],
+      "chef_tip": "Kipfilet houden: normaal kiezen we vaak voor kippendij, maar hier niet. Juist de dunnere reepjes kipfilet horen bij de klassieke textuur van dit gerecht. Kippendij zou hem vetter, donkerder en zwaarder maken.\n\nMaïzena is essentieel: alleen bloem geeft een zwaardere, broodachtiger korst. Maïzena zorgt voor die typische lichte, bros-krokante Chinese textuur.\n\nTweede frituur echt doen: wie de moeite neemt voor een tweede, heel korte frituur, krijgt een veel mooier eindresultaat zodra de saus erbij komt. De korst blijft dan langer intact en wordt niet meteen week.\n\nPaprika niet te klein snijden: te kleine stukjes verdwijnen in de saus en verliezen hun functie. Je wilt duidelijke happen paprika tussen de kip.\n\nGebruik lichte bouillon: geen donkere fond, geen krachtige bouillonblokjessmaak. De saus moet helder en citroenfris blijven.\n\nDunne citroenschijfjes, altijd zonder pit: pitten geven bitterheid op de verkeerde manier. Een heel klein gecontroleerd bittertje van de schil is lekker; pitten zijn dat niet.\n\nNiet verdrinken: de saus moet de kip glanzen laten, niet laten zwemmen. Zie je een grote plas saus op de schaal, dan is het geen citroenkip meer maar kip in saus.\n\nDirect serveren: zoals bijna elk gerecht met gefrituurde kip is dit het lekkerst in de eerste minuten na het mengen. Wachten is de vijand van krokantheid.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chenin Blanc — Zuid-Afrika",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Zuid-Afrikaanse Chenin Blanc heeft vaak precies die combinatie van rijp geel fruit, appel, peer, honingtoets, zachte kruidigheid en voldoende frisse spanning die dit gerecht nodig heeft. Afhankelijk van producent en stijl kan de wijn heel droog zijn, maar de beste combinatie hier is een versie die rijp en rond smaakt, desnoods met een heel klein tikje restzoet. In de geur kun je denken aan rijpe appel, kweepeer, gele pruim, honingraat en soms iets licht wol- of steenachtigs.",
+          "omschrijving": "Onze eerste keuze en beste totale combinatie — omdat hij zowel het gefrituurde karakter als de citroen ondersteunt zonder één van beide te overdrijven. Dat is zeldzaam.",
+          "waarom_werkt_dit": "Chenin Blanc heeft genoeg breedte voor de gefrituurde kip en de licht gebonden saus, maar houdt ook voldoende frisheid om de citroen niet dood te slaan. De wijn sluit bovendien mooi aan bij de combinatie van zoet en zuur in de saus: waar een messcherpe Sauvignon Blanc de citroen te fel zou maken, blijft Chenin vriendelijk en gastronomisch.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Gris — Elzas of Nieuw-Zeeland",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Vaak een zachte, ronde mondstructuur, relatief milde zuren en aroma's van peer, gele appel, witte perzik, lichte specerijen en soms een heel subtiele rokerigheid. Kies bij voorkeur geen extreem droge, strakke, neutrale stijl, maar een wijn met wat rijpheid en body.",
+          "omschrijving": "De meest harmonieuze pairing en voor veel mensen misschien zelfs de makkelijkste wijn om direct lekker te vinden.",
+          "waarom_werkt_dit": "Juist die ronde stijl is ideaal bij een gerecht waarin citroen een hoofdrol speelt. De wijn maakt de saus niet scherper, maar dempt hem net genoeg zodat je meer ruimte krijgt voor de kip en de paprika. Tegelijk blijft Pinot Gris aromatisch genoeg om niet weg te vallen. Hij verbindt de krokante korst, de zoet-zure saus en de zachte kip op een heel natuurlijke manier.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cerasuolo d'Abruzzo",
+          "druif": "Montepulciano",
+          "smaakprofiel": "Een diepgekleurde rosé van Montepulciano, vaak met aroma's van kers, aardbei, granaatappel, rode bes en een subtiel kruidig of amandelachtig randje.",
+          "omschrijving": "Het spannendste alternatief — voor wie niet automatisch naar wit wil grijpen, een rosé met ruggengraat: én zomers en dorstlessend, én serieus genoeg voor een warm hoofdgerecht.",
+          "waarom_werkt_dit": "Cerasuolo heeft genoeg fruit en sap om de licht zoete saus aan te kunnen, maar blijft ook koel en fris genoeg voor de citroen. Waar een lichte Provence-rosé soms te dun wordt en een rode wijn te zwaar, zit Cerasuolo precies ertussenin. De paprika sluit verrassend mooi aan bij het rode fruit van de wijn en de kip blijft goed overeind.",
+          "serveertemperatuur": "Serveer rond 10-12°C."
+        }
+      ]
     }
   ]
 }
