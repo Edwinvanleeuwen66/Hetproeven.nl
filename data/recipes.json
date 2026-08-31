@@ -77776,6 +77776,759 @@
           "serveertemperatuur": "Serveer rond 13-14°C."
         }
       ]
+    },
+    {
+      "title": "Yu Xiang Rou Si — Zijdezachte Varkenshaas met Fish-Fragrant Sichuansaus",
+      "slug": "yu-xiang-rou-si-varkenshaas-sichuansaus",
+      "location": "Sichuan, China",
+      "time": "35 min voorbereiding + 15-20 min marineren + 6-8 min wokken",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/yu-xiang-rou-si-varkenshaas-sichuansaus.jpg",
+      "short_description": "Draadjesdunne varkenshaas, bamboe en houtoor in een precieze, zoet-zuur-pittige saus van ingelegde chili, knoflook en gember. Geen vis, wel het smaakprofiel dat oorspronkelijk voor rivervis werd bedacht.",
+      "description": "\"Yu xiang\" betekent letterlijk vis-geurig, maar er komt geen gram vis aan te pas. De naam verwijst naar een klassieke Sichuanese smaakcombinatie — ingelegde chili, gember, knoflook, suiker en azijn — die oorspronkelijk voor rivervis werd gebruikt en zo geliefd werd dat koks 'm op alles gingen toepassen. De saus moet in de laatste seconden van het wokken veranderen in een dunne, glanzende laag, geen plas.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het varkensvlees",
+          "ingredients": [
+            {
+              "name": "varkenshaas, eerst in plakken van 3 mm, dan in reepjes van 5-6 cm lang en 3 mm dik",
+              "amount": "450 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "2 tl"
+            },
+            {
+              "name": "water",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "2 tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "snuf"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de groenten en aromaten",
+          "ingredients": [
+            {
+              "name": "bamboescheuten, goed uitgelekt, in dunne reepjes",
+              "amount": "80 g"
+            },
+            {
+              "name": "gedroogde houtoorpaddenstoelen, geweekt, in dunne reepjes",
+              "amount": "10 g"
+            },
+            {
+              "name": "lente-uitjes, wit en lichtgroen in ringetjes, groen apart voor het laatste moment",
+              "amount": "4"
+            },
+            {
+              "name": "gember, zeer fijn gehakt",
+              "amount": "15 g"
+            },
+            {
+              "name": "knoflook, zeer fijn gehakt",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de pittige basis",
+          "ingredients": [
+            {
+              "name": "fijngehakte Sichuanse ingelegde rode chili (pao la jiao) — of vervang door 15 g Pixian doubanjiang + 10 g fijngehakte milde ingelegde rode peper",
+              "amount": "25 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de fish-fragrant saus",
+          "ingredients": [
+            {
+              "name": "Chinkiang zwarte rijstazijn",
+              "amount": "1 el + 1 tl"
+            },
+            {
+              "name": "fijne suiker",
+              "amount": "4 tl"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2½ tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "ongezouten kippenbouillon of water",
+              "amount": "40 g"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "1¼ tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het wokken",
+          "ingredients": [
+            {
+              "name": "arachideolie of neutrale olie",
+              "amount": "30 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Vlees velveten",
+          "description": "Meng de varkensreepjes met sojasaus, Shaoxing wijn, water en witte peper. Masseer 30 seconden. Voeg het aardappelzetmeel toe, meng tot elk reepje een dun, onzichtbaar laagje heeft. Meng de olie erdoor. Laat 15-20 minuten staan."
+        },
+        {
+          "action": "Groenten en aromaten voorbereiden",
+          "description": "Snijd houtoor en bamboe zo dun als het varkensvlees. Hak knoflook en gember apart zeer fijn."
+        },
+        {
+          "action": "Saus mengen",
+          "description": "Meng Chinkiang, suiker, sojasaus, Shaoxing, bouillon, aardappelzetmeel en sesamolie tot suiker en zetmeel zijn opgelost. Onverhit mag dit iets te scherp en te zoet lijken — dat verandert razendsnel in de hete wok."
+        },
+        {
+          "action": "Vlees bakken — 60-75 sec",
+          "description": "Verhit een wok tot hij bijna rookt. Voeg 20 g olie toe, dan het vlees. Laat 15 seconden liggen, wok dan 45-60 seconden krachtig tot de buitenkant net gaar is — niet volledig doorbakken, het gaat straks terug. Schep uit de wok."
+        },
+        {
+          "action": "Yu-xiangbasis bouwen",
+          "description": "Voeg zo nodig de resterende olie toe. Doe de ingelegde chili (of chili-doubanjiangcombinatie) erin, bak 15-20 seconden tot de olie rood kleurt. Voeg gember en knoflook toe, wok 15 seconden tot intens geurend."
+        },
+        {
+          "action": "Groenten",
+          "description": "Voeg bamboe en houtoor toe, wok 30-45 seconden tot warm maar nog met bite. Voeg het wit van de lente-ui toe."
+        },
+        {
+          "action": "Vlees terug",
+          "description": "Doe het vlees terug in de wok, wok 20 seconden. Roer de saus nog eens door."
+        },
+        {
+          "action": "De beslissende 20 seconden",
+          "description": "Giet de saus langs de gloeiend hete rand van de wok. Wok direct krachtig tot de saus binnen 15-25 seconden bindt tot een dunne, glanzende coating — er hoort nauwelijks losse saus onderin te liggen."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep onmiddellijk op een warm, ondiep bord. Eventueel een klein beetje lente-uigroen erdoor. Serveer met gestoomde jasmijnrijst."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Direct op een warm bord scheppen, geen plas saus eromheen — alleen een dunne, glanzende laag die zich om elk reepje vlees hecht. Geen sesamzaad, geen koriander, geen extra chiliolie."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het vlees te velveten met eiwit-vervangend aardappelzetmeel en water, blijft het zijdezacht in de felle wokhitte. Ingelegde chili geeft een zure, gefermenteerde diepte die verse chili nooit zou evenaren — precies wat \"yu xiang\" onderscheidt van een gewone zoetzure saus. Door alles even dun te snijden, krijgt elke hap exact dezelfde verhouding vlees, bamboe en houtoor. Door de saus pas op het allerlaatste moment en langs de hete wokwand toe te voegen, bindt hij binnen seconden tot een dunne laag in plaats van een dikke, plakkerige massa."
+        }
+      ],
+      "chef_tip": "Pao la jiao vinden: zoek echte pao la jiao als je kunt — Pixian doubanjiang geeft meer gefermenteerde bonensmaak en zout, ingelegde Sichuanse chili juist de heldere yu-xiang-toon. De combinatie van beide is een goede, praktische middenweg.\n\nAzijn: Chinkiang niet vervangen door balsamico — balsamico is zoeter, stroperiger en fruitiger; Chinese zwarte rijstazijn geeft geroosterde, moutige zuren.\n\nSausbalans: voeg geen extra saus toe \"omdat rijst lekker is met saus\" — dan verander je het karakter van het gerecht. Yu xiang hoort glanzend te zijn, niet nat.\n\nPortiegrootte: maak maximaal vier porties tegelijk — een overvolle thuiswok koelt af. Voor acht personen maak je twee batches.\n\nVooruitwerken: de saus kan ruim van tevoren gemengd worden, het vlees marineert het best kort voor het koken.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Vouvray Demi-Sec — Loire, Frankrijk",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Chenin Blanc uit Vouvray combineert een geur van rijpe appel, kweepeer en peer met soms een toets honing of natte steen, en heeft opvallend veel structuur voor een licht restzoete wijn. In een demi-sec-versie blijft een kleine hoeveelheid natuurlijke restsuiker achter, maar een goede Vouvray smaakt daardoor beslist niet als dessertwijn — de onderliggende, karakteristieke Chenin-zuurgraad houdt alles gespannen en fris.",
+          "omschrijving": "Onze eerste keuze — de combinatie van gecontroleerde restzoetheid, voldoende textuur en levendige onderliggende spanning maakt Vouvray demi-sec de meest complete partner voor de precieze zoet-zuur-pittige balans van dit gerecht.",
+          "waarom_werkt_dit": "Die balans is hier vrijwel ideaal: de subtiele zoetheid sluit aan bij de suiker in de yu-xiangsaus en dempt de ingelegde chili, terwijl de natuurlijke spanning van Chenin voldoende grip heeft op de Chinkiang-azijn. Chenin heeft bovendien veel meer textuur dan een heel lichte witte wijn, waardoor hij niet verdwijnt naast soja, gember en knoflook — een risico dat wel bestaat bij een dunnere, minder geconcentreerde wijn.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Gris — Elzas, Frankrijk",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Rijpe peer, gele appel, perzik, zachte specerijen en soms een heel licht rokerige toon. Breder en zachter dan Pinot Grigio, meestal zonder agressieve zuren.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De ronde structuur past bij de zijdezachte varkenshaas en vangt tegelijkertijd chili en gember op. Kies een droge tot hooguit licht off-dry versie — te veel restzoet zou de suiker in de saus verdubbelen.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Fleurie (Cru Beaujolais) — Beaujolais, Frankrijk",
+          "druif": "Gamay",
+          "smaakprofiel": "Aardbei, framboos, rode kers, viooltjes en lichte kruidigheid, met zachte tannines.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Licht gekoeld blijft deze wijn fris genoeg tegenover Chinkiang en gember, terwijl het sappige rode fruit mooi aansluit bij het licht zoet-pittige karakter. Een zware Cabernet of Syrah zou hier veel te dominant worden.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        }
+      ]
+    },
+    {
+      "title": "La Zi Ji — Chongqing Chili Chicken",
+      "slug": "la-zi-ji-chongqing-chili-chicken",
+      "location": "Chongqing, China",
+      "time": "25 min voorbereiding + 20 min marineren + 12 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/la-zi-ji-chongqing-chili-chicken.jpg",
+      "short_description": "Krokante kipstukjes verstopt onder een berg gedroogde chili en Sichuanpeper — droog, geurig, heet en knapperig. Het \"hide and seek\"-gerecht dat in tien jaar van straathapje tot Sichuanese klassieker groeide.",
+      "description": "In 1986 combineerde een kok in Chongqing gefrituurde kip met bergen gedroogde chilipepers uit de regio en creëerde daarmee een gerecht dat binnen een decennium van straatgerecht tot fine-dining-klassieker groeide. De bijnaam \"hide and seek chicken\" verwijst naar hoe je het eet: met je eetstokjes door een berg gedroogde chili graven, op zoek naar de kleine, krokante stukjes kip eronder. Droog, geurig, heet en knapperig — geen saus in zicht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de kip",
+          "ingredients": [
+            {
+              "name": "kippendijfilet, in blokjes van ongeveer 2 cm",
+              "amount": "600 g"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "1½ el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de chili",
+          "ingredients": [
+            {
+              "name": "gedroogde rode Chinese chilipepers (geurig, relatief mild — géén bird's-eye)",
+              "amount": "80-100 g"
+            },
+            {
+              "name": "hele rode Sichuanpeper",
+              "amount": "2 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de aromaten",
+          "ingredients": [
+            {
+              "name": "knoflook, in dunne plakjes",
+              "amount": "20 g"
+            },
+            {
+              "name": "gember, in dunne reepjes",
+              "amount": "20 g"
+            },
+            {
+              "name": "lente-uitjes, in stukken van 3 cm",
+              "amount": "4"
+            },
+            {
+              "name": "suiker",
+              "amount": "1¼ tl"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "2 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het frituren",
+          "ingredients": [
+            {
+              "name": "neutrale frituurolie",
+              "amount": "ongeveer 750 ml"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineren",
+          "description": "Meng de kip met Shaoxing wijn, sojasaus, zout en witte peper. Laat 20 minuten staan. Meng pas vlak voor het frituren het aardappelzetmeel en de olie erdoor — er moet slechts een ragfijn, droog laagje omheen zitten, geen beslag."
+        },
+        {
+          "action": "Chili voorbereiden",
+          "description": "Knip de pepers in stukken van 3-4 cm, schud een deel van de zaadjes eruit."
+        },
+        {
+          "action": "Eerste frituur — 2,5-3 min",
+          "description": "Verhit de olie tot 165°C. Frituur de kip in twee porties tot gaar maar nog slechts licht goud. Laat uitlekken, rust 3 minuten."
+        },
+        {
+          "action": "Tweede frituur — 30-45 sec",
+          "description": "Verhoog de olie naar 190°C. Frituur de kip nog kort tot donkere, krokante hoekjes ontstaan. Laat goed uitlekken."
+        },
+        {
+          "action": "Sichuanpeper wokken — 10 sec",
+          "description": "Verhit een schone wok met ongeveer 20 g van de frituurolie op middelhoog vuur. Voeg de Sichuanpeper toe, bak 10 seconden tot geurig — niet zwart laten worden."
+        },
+        {
+          "action": "Chili toevoegen — 30-45 sec",
+          "description": "Voeg de gedroogde chilipepers toe, wok tot ze warm worden, iets donkerder rood kleuren en intens geuren — niet verbranden."
+        },
+        {
+          "action": "Aromaten",
+          "description": "Voeg knoflook en gember toe, wok 20 seconden."
+        },
+        {
+          "action": "Kip erdoor",
+          "description": "Voeg de kip, suiker en Shaoxing wijn toe. Zet het vuur hoog en wok 30-45 seconden tot alle Shaoxing verdampt is."
+        },
+        {
+          "action": "Afmaken",
+          "description": "Voeg de lente-ui toe, wok nog 20 seconden. Zet het vuur uit, voeg sesamolie toe en schep om."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep op een grote, ondiepe schaal en laat de hoeveelheid chili gewoon zien."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Een grote, ondiepe schaal met de kip verstopt tussen een indrukwekkende berg gedroogde chili en Sichuanpeper — dat is precies de bedoeling, geen saus, geen koriander, geen pinda, geen sesamzaadregen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de kip twee keer te frituren — eerst om gaar en licht goud te worden, dan kort op hogere temperatuur voor extra crunch — blijft de buitenkant extreem krokant terwijl het vlees vanbinnen sappig blijft. Sichuanpeper apart wokken vóór de chili geeft de peperkorrels de kans om hun eigen, citrusachtige parfum vrij te geven zonder overstemd te worden. De gedroogde chilipepers, kort geroosterd, geven een rokerig, geconcentreerd aroma af dat veel dieper is dan verse chili."
+        }
+      ],
+      "chef_tip": "Chiligeur, niet alleen Scoville: koop een geurige, relatief milde gedroogde Chinese chili, geen extreem hete bird's-eye chili.\n\nSichuanpeper vers: rode Sichuanpeper moet fris ruiken — bijna naar citrus en bloemen. Oude Sichuanpeper smaakt vooral houtachtig en bitter.\n\nZaadjes verwijderen: verwijder waar mogelijk de zwarte zaadjes uit de Sichuanpeper — die kunnen korrelig en bitter zijn, terwijl de rode schil het parfum bevat.\n\nFrituren in batches: frituur in twee batches — anders daalt de olietemperatuur en wordt de kip vet in plaats van krokant.\n\nTiming: de laatste wokfase duurt hooguit twee minuten — La Zi Ji wordt droog en bitter wanneer de chili minutenlang blijft bakken. Serveer direct, dit is geen gerecht om warm te houden.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Gewürztraminer — Elzas, Frankrijk",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Gewürztraminer is bijna gemaakt voor een gerecht met zoveel geurige chili. Typische aroma's zijn lychee, roos, rijpe perzik, exotisch fruit en zachte specerijen. De druif heeft relatief milde zuren en een brede, aromatische structuur die zich over het hele gehemelte uitspreidt.",
+          "omschrijving": "Onze eerste keuze — de combinatie van aromatische rijkdom, milde zuren en een subtiele zoetheid maakt Gewürztraminer de meest complete partner voor een gerecht dat draait om intense chiligeur in plaats van pure hitte.",
+          "waarom_werkt_dit": "De wijn probeert het gerecht niet met zuur te bestrijden, maar omarmt de chili met parfum en rijp fruit. Een heel licht restzoetje is zelfs welkom wanneer het gerecht behoorlijk pittig wordt — het tempert de hitte zonder de kruidige complexiteit plat te slaan. Kies wel een gastronomische versie, geen log zoete Gewürztraminer.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Gris — Elzas, Frankrijk",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Peer, gele pruim, rook, amandel en lichte honingachtige tonen — minder uitbundig dan Gewürztraminer.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "De volle textuur verzacht het gevoel van chili en Sichuanpeper, terwijl het rokerige karakter prachtig aansluit bij de gefrituurde en geroosterde smaken van de kip.",
+          "serveertemperatuur": "Serveer rond 10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Tavel Rosé — Rhône, Frankrijk",
+          "druif": "Vooral Grenache en Cinsault",
+          "smaakprofiel": "Krachtiger en donkerder dan een bleke Provence-rosé: aardbei, framboos, rijpe kers, mediterrane kruiden en soms witte peper.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Het rijpe rode fruit werkt als tegengewicht voor de chili, terwijl de wijn genoeg structuur heeft voor gefrituurde kippendij, zonder zware tannines die de pittigheid alleen maar agressiever zouden maken.",
+          "serveertemperatuur": "Serveer rond 10-11°C."
+        }
+      ]
+    },
+    {
+      "title": "Char Siu — Ultieme Kantonese BBQ-Varkensnek",
+      "slug": "char-siu-kantonese-bbq-varkensnek",
+      "location": "Guangdong, China",
+      "time": "50 min actief + 12-24 uur marineren + 45-50 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/char-siu-kantonese-bbq-varkensnek.jpg",
+      "short_description": "Varkensnek, drie keer gelakt met maltose, hoisin en gefermenteerde rode tofu, geroosterd tot een gekarameliseerde, glanzende buitenkant en sappige kern. Geen afhaalversie — de echte, gelaagde Kantonese techniek.",
+      "description": "\"Char siu\" betekent letterlijk \"vork-gebraden\" — verwijzend naar de traditionele bereiding waarbij lange repen varkensvlees aan lange vorken boven een open vuur werden geroosterd. Geen felrode afhaalversie met kunstmatige kleurstof: aan de buitenkant donker mahonie, glanzend en hier en daar bijna zwart gekaramelliseerd, vanbinnen sappig. Maltose is hier geen zoetmiddel maar een technisch instrument — het geeft de kenmerkende, glasachtige glans die honing alleen nooit bereikt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "varkensnek, in lange repen van ongeveer 5 cm breed en 4 cm dik gesneden",
+              "amount": "900 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "lichte sojasaus",
+              "amount": "35 g"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "15 g"
+            },
+            {
+              "name": "hoisinsaus",
+              "amount": "35 g"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "30 g"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "25 g"
+            },
+            {
+              "name": "honing",
+              "amount": "20 g"
+            },
+            {
+              "name": "rode gefermenteerde tofu, inclusief 10 g vocht uit het potje, fijngeprakt",
+              "amount": "25 g"
+            },
+            {
+              "name": "knoflook, zeer fijn geraspt",
+              "amount": "15 g"
+            },
+            {
+              "name": "verse gember, zeer fijn geraspt",
+              "amount": "8 g"
+            },
+            {
+              "name": "Chinees vijfkruidenpoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de lak",
+          "ingredients": [
+            {
+              "name": "maltosestroop",
+              "amount": "40 g"
+            },
+            {
+              "name": "heet water",
+              "amount": "20 g"
+            },
+            {
+              "name": "honing",
+              "amount": "15 g"
+            },
+            {
+              "name": "apart gehouden, schone marinadebasis",
+              "amount": "10 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marinade maken",
+          "description": "Prak de gefermenteerde tofu volledig glad. Meng met alle overige marinade-ingrediënten. Houd 10 g apart, vóórdat het vlees erin gaat, voor de lak."
+        },
+        {
+          "action": "Marineren — 12-24 uur",
+          "description": "Doe het vlees met de marinade in een zak of schaal, masseer goed. Marineer 12-24 uur in de koelkast, keer eenmaal om."
+        },
+        {
+          "action": "Oppervlak drogen",
+          "description": "Haal het vlees 45 minuten voor het roosteren uit de koelkast. Veeg overtollige marinade af (niet wassen). Leg op een rooster en laat het oppervlak iets opdrogen — dit helpt enorm bij de karamellisatie."
+        },
+        {
+          "action": "Oven voorbereiden",
+          "description": "Verwarm tot 200°C hetelucht of 215°C boven-/onderwarmte. Zet een met folie beklede diepe bakplaat onderin met een klein laagje heet water — dit vangt brandende suiker en vet op zodat je oven niet blauw uitslaat."
+        },
+        {
+          "action": "Eerste roosterfase — 27-30 min",
+          "description": "Zet het vlees op een rooster boven de bakplaat. Rooster 15 minuten, draai om, rooster nog 12-15 minuten tot duidelijke bruine randen ontstaan."
+        },
+        {
+          "action": "Lak maken",
+          "description": "Verwarm de maltose kort tot vloeibaar. Meng met het hete water, de honing en de apart gehouden marinade."
+        },
+        {
+          "action": "Eerste lak",
+          "description": "Bestrijk het vlees zeer dun. Verhoog de oven naar 225°C, rooster 5 minuten."
+        },
+        {
+          "action": "Tweede lak",
+          "description": "Draai, lak opnieuw, rooster nog 5 minuten."
+        },
+        {
+          "action": "Laatste karamellisatie",
+          "description": "Lak voor de derde en laatste keer. Zet eventueel de grill aan, grill 1-3 minuten, voortdurend kijkend — je zoekt donker mahonie, glanzend, enkele bijna zwarte randjes, nooit geheel zwart (verbrande suiker is bitter)."
+        },
+        {
+          "action": "Rusten",
+          "description": "Richt op een kerntemperatuur van ongeveer 68-72°C. Laat 10 minuten rusten."
+        },
+        {
+          "action": "Snijden",
+          "description": "Snijd dwars op de draad in plakken van 7-8 mm — niet flinterdun, je moet de sappige vleesstructuur nog zien."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg 4-5 plakjes per persoon licht overlappend, bestrijk hooguit met een ragfijn restje warme lak. Geen plas saus, geen lente-ui, geen sesamzaad — de glanzende, donkerrode buitenkant is zelf het kunstwerk."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Rode gefermenteerde tofu geeft niet alleen kleur maar ook fermentatie, zout en subtiele umami die kunstmatige kleurstof nooit zou kunnen leveren. Door de marinade in drie dunne laklagen aan te brengen in plaats van één dikke, bouwt de glans zich geleidelijk op zonder plakkerig te worden. Maltosestroop geeft een minder zoete, veel karakteristiekere glasachtige lak dan honing alleen. Het laagje water onder het rooster voorkomt dat de suikerhoudende druppels op de bodem van de oven verbranden en gaan roken, zonder het vlees te stomen."
+        }
+      ],
+      "chef_tip": "Vleeskeuze: varkensnek boven varkenshaas — varkenshaas klinkt luxer maar is technisch slechter: het vet in de nek houdt het vlees sappig tijdens de lak- en grillfasen.\n\nRode gefermenteerde tofu: is geen kleurstoftruc — je hoort hem niet als tofu te herkennen, alleen zijn effect: kleur, fermentatie en diepte.\n\nMaltose: is de moeite waard om op te zoeken — honing werkt, maar geeft een zoetere, minder karakteristieke lak.\n\nLaatste grillmoment: is risicovol — blijf letterlijk bij de oven staan, dit gaat snel van perfect naar verbrand.\n\nBewaren: char siu is de volgende dag uitstekend — bewaar hem heel en snijd pas na voorzichtig opwarmen, losse plakjes drogen veel sneller uit.\n\nBarbecuevariant: indirecte houtskoolwarmte geeft een prachtige rooksmaak — houd de zoete lak wel weg van directe vlammen, die verbrandt snel.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Cru Beaujolais (Morgon of Fleurie) — Beaujolais, Frankrijk",
+          "druif": "Gamay",
+          "smaakprofiel": "Gamay geeft kers, aardbei, framboos en florale aroma's, met weinig tannine en veel sappigheid. Morgon is meestal iets steviger en aardser, Fleurie eleganter en bloemiger.",
+          "omschrijving": "Onze eerste keuze — de beste rode keuze: genoeg sappig fruit om de zoete, gekarameliseerde lak te begeleiden, zonder de harde tannines die tegen dit soort zoet-hartige richting zouden ingaan.",
+          "waarom_werkt_dit": "Dit werkt prachtig bij char siu omdat de wijn voldoende fruit heeft tegenover de zoete lak, maar niet de harde tannines van Cabernet of jonge Bordeaux — die zouden botsen met de karamellisatie en de zoete marinade. Het lichte, licht gekoelde karakter houdt het vette varkensvlees bovendien verrassend fris, in plaats van dat de wijn de rijkdom van het gerecht alleen maar versterkt.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Vouvray Demi-Sec — Loire, Frankrijk",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Kweepeer, rijpe appel, honingraat en soms wolachtige of minerale tonen, met precies genoeg restzoet om niet schraal te worden naast de lak.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Char siu bevat karamellisatie, honing/maltose, soja en vijfkruiden — Vouvray's natuurlijke frisheid snijdt door het vet van de nek, terwijl de rijpe smaak aansluit bij de gebrande suiker.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Spätburgunder — Duitsland",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Zure kers, framboos, bosbes, lichte rook en soms een kleine aardse toets. Kies een exemplaar met beperkt nieuw hout.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Voldoende verfijning voor het vlees en lichte rokerigheid voor de donkere char, maar zacht genoeg tegenover de zoete en zoute marinade.",
+          "serveertemperatuur": "Serveer rond 13-14°C."
+        }
+      ]
+    },
+    {
+      "title": "Suan Ni Bai Rou — Flinterdun Buikspek met Vurige Knoflook-Chiliolie",
+      "slug": "suan-ni-bai-rou-buikspek-knoflook-chiliolie",
+      "location": "Sichuan, China",
+      "time": "30 min voorbereiding + 1-2 uur koelen + 35-45 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/suan-ni-bai-rou-buikspek-knoflook-chiliolie.jpg",
+      "short_description": "Zacht gepocheerd buikspek, volledig afgekoeld en flinterdun gesneden, opgerold met komkommerlinten en overgoten met een felrode, knoflookrijke chiliolie. Technisch simpel, culinair een van Sichuans meest verleidelijke koude gerechten.",
+      "description": "\"Suan ni bai rou\" betekent letterlijk \"knoflookpasta wit vlees\" — een naam die weinig doet vermoeden hoe verleidelijk dit Sichuanese gerecht eruitziet. Het vlees wordt bewust puur gepocheerd, zonder karamellisatie of korst. Pas daarna komt het geweld: knoflook, rode chiliolie, Sichuanpeper, soja en zwarte azijn. De plakjes horen zo dun te zijn dat vet en vlees bijna doorschijnend worden.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het buikspek",
+          "ingredients": [
+            {
+              "name": "buikspek met zwoerd, aan één stuk",
+              "amount": "600 g"
+            },
+            {
+              "name": "koud water",
+              "amount": "1,5 liter"
+            },
+            {
+              "name": "verse gember, in plakken",
+              "amount": "30 g"
+            },
+            {
+              "name": "lente-uitjes, heel",
+              "amount": "3"
+            },
+            {
+              "name": "Shaoxing rijstwijn",
+              "amount": "25 g"
+            },
+            {
+              "name": "steranijs",
+              "amount": "1"
+            },
+            {
+              "name": "Sichuanpeper",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de komkommer",
+          "ingredients": [
+            {
+              "name": "stevige komkommer",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de knoflookpasta",
+          "ingredients": [
+            {
+              "name": "knoflook (ongeveer 5 grote tenen)",
+              "amount": "25 g"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de chili-knoflooksaus",
+          "ingredients": [
+            {
+              "name": "goede Sichuan-chiliolie, inclusief bezinksel",
+              "amount": "50 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "30 g"
+            },
+            {
+              "name": "Chinkiang zwarte rijstazijn",
+              "amount": "12 g"
+            },
+            {
+              "name": "suiker",
+              "amount": "10 g"
+            },
+            {
+              "name": "pocheerbouillon",
+              "amount": "20 g"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "3 g"
+            },
+            {
+              "name": "fijngemalen geroosterde Sichuanpeper",
+              "amount": "1 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "lente-uigroen, flinterfijn (optioneel)",
+              "amount": "klein beetje"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Buikspek pocheren — 35-45 min",
+          "description": "Doe het buikspek in koud water met gember, lente-ui, Shaoxing wijn, steranijs en Sichuanpeper. Breng langzaam tegen de kook, schep eventueel schuim af. Zet het vuur zo laag dat het water slechts heel zacht beweegt. Pocheer tot een mes redelijk gemakkelijk door het vlees gaat, maar het spek nog niet uit elkaar valt."
+        },
+        {
+          "action": "Afkoelen",
+          "description": "Haal het vlees eruit, bewaar wat pocheerbouillon. Laat ongeveer 20 minuten afkoelen onder een omgekeerde kom of los afgedekt. Zet daarna 1-2 uur in de koelkast — koud buikspek snijdt veel dunner."
+        },
+        {
+          "action": "Knoflookpasta maken",
+          "description": "Stamp de knoflook met het snufje zout in een vijzel tot een natte, bijna romige pasta — dit geeft een intensere, gelijkmatiger verdeelde smaak dan gehakte knoflook."
+        },
+        {
+          "action": "Saus maken",
+          "description": "Meng chiliolie, sojasaus, Chinkiang, suiker, pocheerbouillon, sesamolie, gemalen Sichuanpeper en de knoflookpasta. Laat 10 minuten staan. Proef — hij moet krachtig zijn, geen subtiele vinaigrette, maar ook niet puur naar soja of azijn smaken."
+        },
+        {
+          "action": "Komkommer",
+          "description": "Snijd met een mandoline lange, dunne linten van ongeveer 1 mm, vooral het stevige buitenste deel — vermijd het waterige zaadcentrum. Rol of vouw de linten losjes."
+        },
+        {
+          "action": "Buikspek snijden",
+          "description": "Snijd het koude buikspek met een vlijmscherp lang mes in plakken van 1,5-2 mm. De beste plak heeft in één beweging zwoerd, vet én vlees samen."
+        },
+        {
+          "action": "Op temperatuur laten komen",
+          "description": "Laat het gesneden vlees 15-20 minuten op kamertemperatuur komen — licht koel tot kamertemperatuur is lekkerder dan ijskoud, omdat het vet dan zachter wordt en meer smaak afgeeft."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Maak per persoon 5-6 losse rollen of plooien van buikspek. Leg tussen enkele plakken een smal komkommerlint."
+        },
+        {
+          "action": "Afmaken",
+          "description": "Lepel ongeveer 1,5 eetlepel saus per persoon over en tussen het vlees — niet verdrinken, het witte varkensvlees moet nog zichtbaar blijven."
+        },
+        {
+          "action": "Serveren",
+          "description": "Laat 2 minuten staan zodat de saus licht intrekt in het warme vet, en serveer dan direct."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Losse rollen of plooien buikspek met komkommerlinten ertussen, de felrode saus er sober over en tussen gelepeld — het witte vlees moet nog goed zichtbaar blijven, dit is geen gerecht dat verdronken moet worden in saus."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het buikspek zacht te pocheren met gember, lente-ui en Sichuanpeper, wordt het mals zonder de eigen smaak te overstemmen — vandaar de naam \"wit vlees\". Volledig laten afkoelen voordat je snijdt is cruciaal: koud, stevig vlees snijdt in nette, flinterdunne plakken, terwijl warm vlees uit elkaar zou vallen. Het zwoerd bewust laten zitten geeft elke plak een kleine, veerkrachtige textuur die het geheel structureel bij elkaar houdt. Knoflook vijzelen tot een romige pasta in plaats van hakken geeft een intensere, gelijkmatiger verdeelde smaak. De felle knoflook-chiliolie staat in schril, opzettelijk contrast met het milde, zachte vlees eronder."
+        }
+      ],
+      "chef_tip": "Vleeskeuze: koop een mooi rechthoekig stuk buikspek — een regelmatige verhouding tussen vlees en vet levert veel mooiere plakjes.\n\nZwoerd erop laten: dat geeft een kleine, veerkrachtige textuur en zorgt dat het plakje structureel bij elkaar blijft.\n\nSnijtechniek: een vleessnijmachine is hier geen valsspelen — koel het buikspek eerst goed terug en snijd 1,5-2 mm.\n\nKnoflookpasta: knoflook vijzelen, niet uit een knijper — de knoflookpasta is werkelijk onderdeel van het gerecht.\n\nChiliolie: bepaalt de helft van het eindresultaat — gebruik een goede Chinese of Sichuanese chiliolie met daadwerkelijk aromatische chili en bezinksel, niet alleen neutrale rode olie.\n\nServeertemperatuur vlees: te koud is minder lekker — recht uit de koelkast is het vet hard en wasachtig; te warm wordt het buikspek slap en vettig. Licht koel tot kamertemperatuur is het ideale midden.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Vouvray Demi-Sec — Loire, Frankrijk",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Een demi-sec Vouvray ruikt typisch naar kweepeer, rijpe appel, peer, bloemen en soms honing, maar behoudt genoeg natuurlijke spanning om niet log te worden — een fijne balans tussen zoetheid en frisheid die zelden overslaat naar dessertwijnterritorium.",
+          "omschrijving": "Onze eerste keuze — belangrijk: een volledig beendroge, messcherpe Chenin kan knoflook en azijn juist harder laten lijken — daarom specifiek demi-sec, wat hier de meest doordachte en complete keuze maakt.",
+          "waarom_werkt_dit": "De kleine hoeveelheid restzoet tempert chili én rauwe knoflook tegelijk — twee elementen die een messcherpe, volledig droge wijn juist harder zouden laten aanvoelen in plaats van zachter. Tegelijk snijdt de frisse structuur van Chenin door het vet van het buikspek en vangt hij het zuur van de Chinkiang op zonder zelf plat te worden.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Gewürztraminer — Elzas, Frankrijk",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Lychee, rozenblad, rijpe perzik, gemberachtige specerijen en soms een exotische zoetheid.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Bij Suan Ni Bai Rou werkt dit uitgesproken aromatische profiel goed omdat het gerecht zelf ook uitgesproken is — het parfum gaat naast knoflook en Sichuanpeper staan in plaats van erdoor te worden weggeblazen. De wijn heeft bovendien meestal zachte zuren, waardoor hij vriendelijk blijft bij vet buikspek.",
+          "serveertemperatuur": "Serveer rond 9-10°C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Cerasuolo d'Abruzzo — Abruzzo, Italië",
+          "druif": "Montepulciano",
+          "smaakprofiel": "Kers, aardbei, granaatappel, rode kruiden en soms een heel licht bittertje — veel donkerder en steviger dan typische Provence-rosé.",
+          "omschrijving": "",
+          "waarom_werkt_dit": "Genoeg fruit om chili en knoflook op te vangen, terwijl de frisse serveertemperatuur het buikspek lichter maakt — een verrassende maar interessante combinatie voor wie geen aromatische witte wijn wil.",
+          "serveertemperatuur": "Serveer rond 10-12°C."
+        }
+      ]
     }
   ]
 }
