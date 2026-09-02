@@ -78749,6 +78749,169 @@
           "serveertemperatuur": "Serveer rond 10-12°C."
         }
       ]
+    },
+    {
+      "title": "Tomatenbouillon met geroosterde witte druif en basilicum",
+      "slug": "tomatenbouillon-geroosterde-witte-druif-basilicum",
+      "location": "Frankrijk — moderne keuken",
+      "time": "30 min voorbereiding + 30–50 min uitlekken + 20 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
+      "categorie": "soep",
+      "image": "/assets/images/tomatenbouillon-geroosterde-witte-druif-basilicum.jpg",
+      "short_description": "Kraakheldere, amberkleurige tomatenbouillon met warm barstende druiven en felgroene basilicumolie — tomaat in zijn puurste vorm.",
+      "description": "Geen room, geen brood, geen kaas — alleen tomaat, in zijn puurste vorm. Deze consommé-achtige bouillon wordt niet gebonden maar juist ontdaan van alles wat hem troebel zou maken: twee keer gezeefd, nooit gedrukt, tot een heldere, amberkleurige vloeistof overblijft die naar niets anders dan geconcentreerde, rijpe tomaat smaakt. Warme, gebarsten druiven en een paar druppels felgroene basilicumolie zijn de enige andere stemmen in het gerecht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tomatenbouillon",
+          "ingredients": [
+            {
+              "name": "zeer rijpe trostomaten of pruimtomaten, grof gesneden",
+              "amount": "1200 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "8 g"
+            },
+            {
+              "name": "sjalot, grof gesneden",
+              "amount": "30 g"
+            },
+            {
+              "name": "bleekselderij",
+              "amount": "20 g"
+            },
+            {
+              "name": "takje verse tijm",
+              "amount": "1"
+            },
+            {
+              "name": "laurierblad",
+              "amount": "1"
+            },
+            {
+              "name": "lichte groentebouillon (alleen indien nodig)",
+              "amount": "75 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de geroosterde druiven",
+          "ingredients": [
+            {
+              "name": "pitloze witte druiven, heel gelaten",
+              "amount": "60 g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de basilicumolie",
+          "ingredients": [
+            {
+              "name": "verse basilicumblaadjes",
+              "amount": "30 g"
+            },
+            {
+              "name": "milde extra vierge olijfolie",
+              "amount": "80 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te serveren",
+          "ingredients": [
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Tomaten zouten — 10 min",
+          "description": "Meng de grof gesneden tomaten met het zout in een ruime pan. Laat 10 minuten staan — het zout trekt het vocht los voordat het verwarmen begint."
+        },
+        {
+          "action": "Zacht verwarmen — 15–20 min",
+          "description": "Voeg sjalot, bleekselderij, tijm en laurier toe. Verwarm op de allerlaagste stand tot een zacht pruttelen, nooit rollend koken. Na 15–20 minuten vallen de tomaten uiteen en laten hun sap los. Verwijder tijm en laurier."
+        },
+        {
+          "action": "Eerste zeving — 20–30 min",
+          "description": "Giet alles in een fijne zeef boven een ruime kom. Laat vanzelf uitlekken, zonder te drukken of te wringen — hoe meer je aan de tomatenmassa zit, hoe troebeler de bouillon wordt. Laat de zwaartekracht het werk doen."
+        },
+        {
+          "action": "Tweede zeving",
+          "description": "Leg een dubbele laag keukenpapier of een koffiefilter in de zeef en giet de bouillon er langzaam doorheen. Je houdt nu een heldere tomatenbouillon over. Zet apart."
+        },
+        {
+          "action": "Basilicumolie maken",
+          "description": "Blancheer de basilicumblaadjes precies 10 seconden in kokend water, koel direct in ijswater en knijp kurkdroog. Blend 2 minuten op vol vermogen met de olijfolie en het zout. Laat 10 minuten trekken en zeef door een fijne zeef tot een heldere, felgroene olie."
+        },
+        {
+          "action": "Druiven roosteren — 1–2 min",
+          "description": "Verhit een koekenpan tot gloeiend heet. Meng de druiven met de olie en het zout. Rooster 1–2 minuten tot ze bruine plekjes krijgen, licht rimpelen en nét beginnen te barsten. Direct uit de pan — het sap moet heel blijven tot in de mond."
+        },
+        {
+          "action": "Bouillon afronden",
+          "description": "Verwarm de bouillon heel zacht en proef eerst puur. Voeg alleen toe wat nodig is: zout als hij vlak smaakt, of de groentebouillon als hij te intens of te zuur is. Geen azijn, geen citroen — de soep moet rond blijven."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg 3–4 geroosterde druiven in het midden van een warm, diep bord of kleine kom. Schenk 100–120 ml warme bouillon er rustig omheen. Druppel 5–7 druppels basilicumolie op het oppervlak en werk af met een paar druppels extra vierge olijfolie."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Een heldere, amberkleurige plas bouillon met de druiven zichtbaar in het midden en kleine, felgroene druppeltjes basilicumolie op het oppervlak — verder niets. De ideale hap: één lepel bouillon met één druif en een beetje basilicumolie, in precies die volgorde: eerst tomaat, dan het warme druivensap dat barst, dan basilicum."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de tomaten eerst te zouten voordat ze warm worden, trekt het vocht er vanzelf uit zonder geweld. Het dubbel zeven — eerst zonder te drukken, dan door keukenpapier — is de sleutel tot helderheid: elke keer dat je de massa zou persen, komt er zetmeel en pulp mee die de bouillon troebel maken. Basilicum kort blancheren stopt het enzym dat blad normaal grauw laat verkleuren, waardoor de olie fel groen blijft. Druiven op hoog vuur kort geroosterd, zonder te halveren, houden hun sap intact tot de eerste hap — dat verrassingseffect zou verloren gaan als je ze zou snijden. Olijfolie komt bewust pas bij het serveren erbij, nooit in de hete bouillon zelf, om troebeling te voorkomen."
+        }
+      ],
+      "chef_tip": "Tomatenkwaliteit bepaalt alles: bleke supermarkttomaten geven een waterige, vlakke bouillon. Gebruik de rijpste die je kunt vinden — vleestomaten, Raf-tomaten of goede trostomaten in het seizoen.\n\nNooit drukken: druk of wring nooit in de zeef — hoe meer je aan de tomatenmassa zit, hoe troebeler de bouillon wordt. Laat de zwaartekracht het werk doen.\n\nDruiven heel laten: halveren voor het roosteren verliest het verrassingseffect. Alleen heel geroosterd barsten ze pas in de mond open.\n\nKoud kan ook: serveer op 10–12°C, de licht warme druiven geven dan een mooi temperatuurcontrast.\n\nWatermeloenvariant: vervang de druiven door 3–4 kleine blokjes ijskoude watermeloen per bord — frisser, maar duidelijk minder origineel.\n\nVooruitwerken: de bouillon en de basilicumolie kunnen beide uren van tevoren gemaakt worden. Rooster de druiven pas vlak voor het serveren.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Chablis — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Een strakke, krijtachtige neus van groene appel, citroen en natte steen, zonder enige houtinvloed. In de mond messcherp en mineraal, met een lange, droge afdronk die eindigt op een subtiele, bijna oesterschelpachtige ziltigheid.",
+          "omschrijving": "Onze eerste keuze — twee dingen die hun kracht ontlenen aan puurheid en precisie. Chablis is de meest logische, meest elegante partner voor een gerecht dat zelf ook draait om het strippen van alles wat overbodig is.",
+          "waarom_werkt_dit": "De onopgesmukte, minerale precisie van Chablis weerspiegelt de radicale helderheid van deze bouillon — beide draaien om het weglaten van alles wat niet essentieel is. De strakke zuren van de wijn tillen de zoetheid van de geroosterde druiven op, terwijl de minerale ondertoon de geconcentreerde tomatensmaak juist scherper laat proeven in plaats van ermee te concurreren.",
+          "serveertemperatuur": "Serveer op 10–11°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Sancerre — Loire, Frankrijk",
+          "druif": "Sauvignon Blanc",
+          "smaakprofiel": "Kruidig en grasachtig, met citrus, groene appel en een levendige, snijdende zuurgraad.",
+          "omschrijving": "De kruidige, groene kant van de Loire — gemaakt voor gerechten waarin verse kruiden de hoofdrol spelen.",
+          "waarom_werkt_dit": "De kruidige, groene tonen sluiten mooi aan bij de basilicumolie, terwijl de scherpe zuren de zoetheid van de geroosterde druiven in balans houden.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Vermentino — Sardinië, Italië",
+          "druif": "Vermentino",
+          "smaakprofiel": "Citrus, groene appel, witte bloemen en mediterrane kruiden, met een subtiele ziltige mineraliteit.",
+          "omschrijving": "Een mediterrane, tomaat-vriendelijke keuze die je in elke goede wijnwinkel vindt.",
+          "waarom_werkt_dit": "De ziltige frisheid ondersteunt de geconcentreerde tomatensmaak zonder de delicate basilicumolie te overstemmen.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        }
+      ]
     }
   ]
 }
