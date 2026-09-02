@@ -4524,117 +4524,129 @@
       "chef_tip": "dep de paprika's goed droog voor gebruik — overtollig vocht maakt de tosta zompig. De koriandersaus kan een dag van tevoren worden gemaakt.\n\nTechniek: grill de groenten op maximale hitte en beweeg ze weinig — de roosterkolen en karamelisatie zijn de smaakdragers van dit gerecht.\n\nPresentatie: leg de groenten in kleurlagen op de tosta — rood, geel, groen — zodat elk hapje visueel aantrekkelijk is en alle smaken bevat.\n\nVariatie: voeg geitenkaas toe naast de gegrilde groenten voor extra romige zuurheid, of bestrooi met za'atar voor een Midden-Oosters tintje.\n\nAlternatief: geen grillpan? Rooster de groenten in de oven op 220°C met de grillstand — geeft minder roostertekens maar dezelfde karamelisatie.\n\nBalans: geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.\n\nTiming: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal."
     },
     {
-      "title": "Tortilla española met gekarameliseerde ui",
+      "title": "Tortilla Española — de perfecte Spaanse wedstrijdtortilla",
       "slug": "tortilla-espanola",
-      "location": "Madrid — Juana La Loca",
-      "time": "1 uur",
+      "location": "Spanje — wedstrijdstijl",
+      "time": "15 min voorbereiding + 20 min garen + 12 min rusten + 2 min bakken",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/tortilla-espanola.jpg",
-      "short_description": "De smeuïgste tortilla van Madrid met geconfijte aardappelen en langzaam gekarameliseerde ui.",
-      "description": "Geïnspireerd op de legendarische tortilla van Juana La Loca in La Latina — smeuïg van binnen, licht goudbruin van buiten, met langzaam gekarameliseerde ui die de tortilla een diepe zoete smaak geeft.",
+      "short_description": "De perfecte Spaanse wedstrijdtortilla: puur aardappel, veel ei en extra dooiers — goudbruin buiten, uitzonderlijk romig vanbinnen.",
+      "description": "Dit is de tortilla zoals hij op Spaanse wedstrijden wordt gebakken: bewust sin cebolla, zodat niets afleidt van aardappel, ei en olijfolie. Mona Lisa- of Kennebec-aardappelen garen rustig op 130–140°C tot ze smelten, en acht eieren plus drie extra dooiers zorgen voor een kern die tegen custard aan zit. Ultrakort gebakken in een kleine pan van 20 cm: licht goudbruin buiten, romig en glanzend vanbinnen — de doorsnede is het kunstwerk.",
       "ingredient_groups": [
         {
           "group_name": "Tortilla",
           "ingredients": [
             {
-              "name": "vastkokende aardappelen, in dunne plakjes",
+              "name": "Mona Lisa- of Kennebec-aardappelen, geschild gewicht",
               "amount": "600 g"
             },
             {
-              "name": "grote uien, in halve ringen",
+              "name": "grote eieren",
+              "amount": "8"
+            },
+            {
+              "name": "extra eidooiers",
               "amount": "3"
             },
             {
-              "name": "grote eieren",
-              "amount": "6"
+              "name": "fijn zeezout",
+              "amount": "9–10 g"
             },
             {
-              "name": "olijfolie om te confijten",
-              "amount": "200 ml"
+              "name": "milde extra vierge olijfolie, om de aardappelen in te garen",
+              "amount": "400–500 ml"
             },
             {
-              "name": "zout en witte peper",
-              "amount": "2 tl"
+              "name": "olijfolie, voor de pan",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Materiaal",
+          "ingredients": [
+            {
+              "name": "goede anti-aanbakpan van 20 cm",
+              "amount": "1"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Ui karameliseren",
-          "description": "verhit olijfolie in een brede koekenpan op laag vuur. Bak de uien langzaam 20 minuten tot volledig zacht en goudbruin gekarameliseerd. Schep eruit en laat de olie in de pan."
+          "action": "Aardappelen snijden — 2–3 mm",
+          "description": "Schil de aardappelen en snijd ze in dunne, licht onregelmatige plakjes van ongeveer 2–3 mm. Die lichte onregelmatigheid is bewust: de dunste randjes vallen tijdens het garen deels uiteen en binden straks het geheel, terwijl de dikkere plakjes herkenbaar blijven."
         },
         {
-          "action": "Aardappelen confijten",
-          "description": "bak aardappelplakjes in dezelfde olie op middelhoog vuur 15 minuten tot gaar maar niet krokant. Schep eruit en bewaar 2 eetlepels olie."
+          "action": "Rustig garen op 130–140°C — 18–22 min",
+          "description": "Verhit de milde olijfolie in een ruime pan tot 130–140°C. Voeg de aardappelplakjes toe en gaar ze 18–22 minuten rustig — de olie mag zachtjes bewegen, maar de aardappel mag absoluut niet krokant bakken of kleuren. Klaar wanneer een plakje zonder weerstand breekt tegen de rand van de pan: volledig zacht, maar nog herkenbaar."
         },
         {
-          "action": "Eimengsel",
-          "description": "klop eieren los met zout en peper. Voeg aardappelen en gekarameliseerde ui toe. Laat 5 minuten rusten."
+          "action": "Uitlekken en zouten — minimaal 5 min",
+          "description": "Schep de aardappelen in een vergiet of grove zeef en laat ze minimaal 5 minuten goed uitlekken. Bestrooi ze nog warm met 5–6 g van het zout. De gaarolie kun je zeven en bewaren — hij is nog twee tot drie keer bruikbaar."
         },
         {
-          "action": "Bakken en draaien",
-          "description": "verhit de bewaarde olie in de pan op middelhoog vuur. Giet het eimengsel erin. Bak 3-4 minuten tot de randen gestold zijn maar het midden nog smeuïg. Leg een groot bord op de pan en draai de tortilla om. Schuif terug en bak nog 2 minuten."
+          "action": "Ei kort mengen",
+          "description": "Meng de eieren en de extra dooiers in een ruime kom slechts kort met ongeveer 4 g zout — net tot dooier en eiwit één geheel zijn. Niet luchtig kloppen: lucht in het ei geeft een sponzige in plaats van romige tortilla."
         },
         {
-          "action": "Rusten en serveren",
-          "description": "laat 5 minuten rusten. Snij in punten of blokjes en serveer lauwwarm."
+          "action": "Mengen en rusten — 10–12 min",
+          "description": "Meng de nog warme aardappel voorzichtig door het ei en laat het mengsel 10–12 minuten rusten. In die rust zuigt de aardappel zich vol met ei en beginnen de zetmelen te binden. Het mengsel mag er vóór het bakken bewust iets te nat en eirijk uitzien — precies dat geeft straks de romige kern."
+        },
+        {
+          "action": "Ultrakort bakken",
+          "description": "Verhit 1 tl olijfolie in een goede anti-aanbakpan van 20 cm op hoog vuur tot de olie glanst. Giet het mengsel erin en bak de eerste zijde ca. 35–45 seconden. Keer met een plat bord, laat de tortilla terugglijden en bak de tweede zijde ca. 25–35 seconden. Geef eventueel nog één korte laatste draai van 10–15 seconden om de vorm strak te trekken."
+        },
+        {
+          "action": "Rusten — 4–5 min",
+          "description": "Laat de tortilla 4–5 minuten rusten voor het aansnijden. De kern zet in die minuten nét genoeg op: licht goudbruin buiten, romig en glanzend vanbinnen, zacht en sappig — maar niet rauw vloeibaar."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer lauwwarm en puur. Geen aioli, geen peterselie, geen peper, geen fleur de sel, geen garnituur — alleen de tortilla."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Snijd pas aan tafel de eerste punt en laat de doorsnede zien: een dikke, hoge tortilla met een dun goudbruin randje en een glanzende, romige kern waarin aardappel en ei versmolten zijn. De doorsnede is het kunstwerk — daar heeft alles hierboven voor gediend."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De kleine pan van 20 cm maakt de tortilla hoog, en alleen een hoge tortilla kan buiten gaar en binnen romig tegelijk zijn. De drie extra dooiers verschuiven de textuur richting custard: meer vet en lecithine, minder eiwit dat hard stolt. En doordat de aardappel op 130–140°C gaart in plaats van bakt, blijft hij boterzacht en drinkt hij zich tijdens de rust van 10–12 minuten vol met ei — waardoor aardappel en ei in de kern versmelten tot één romige massa."
         }
       ],
-      "tips": [
-        "het geheim van een smeuïge tortilla: de binnenkant mag nog een beetje vloeibaar zijn als je hem omdraait — hij gaart nog na. Beter te weinig dan te veel gebakken.",
-        "Techniek: confijt de aardappels langzaam in de olijfolie op laag vuur — ze moeten zacht worden zonder te kleuren. Dit duurt 20-25 minuten en is niet te vervangen.",
-        "Presentatie: snijd de tortilla in gelijke wiggen of blokjes — een warme tortilla snijdt schoner dan een koude. Serveer op kamertemperatuur, nooit rechtstreeks uit de koelkast.",
-        "Variatie: voeg gekaramelliseerde ui toe voor een zoeter, rijker karakter (tortilla con cebolla), of piquillo-pepers voor kleur en smaak.",
-        "Alternatief: geen goede olijfolie? Gebruik neutrale olie voor het confijten en voeg een scheut goede olijfolie toe aan het eimengsel voor de smaak.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Con cebolla: voor wie tortilla met ui prefereert: snijd 150–180 g ui flinterdun en gaar 20–25 minuten heel zacht in olijfolie tot volledig zacht en licht goud — niet donker gekaramelliseerd. Meng de ui door de warme aardappel vóór je het ei toevoegt. De tortilla wordt zoeter, ronder en iets sappiger dan de pure wedstrijdversie.\n\nMet pimiento verde: gebruik 1 kleine groene paprika of 2 milde groene Spaanse pepers (totaal ca. 80–100 g). Snijd dun, gaar langzaam zacht in olijfolie zonder hard te kleuren en meng door de aardappel. Geeft een licht groen-peperig, heel Spaans accent zonder de tortilla zwaar te maken.\n\nCon cebolla y pimiento verde: gebruik 120 g ui en 60–80 g groene paprika, beide langzaam zacht gegaard en door de aardappel gemengd. Dit is de meer klassieke tapasbarstijl; aromatischer en iets zoeter dan de pure wedstrijdversie.\n\nSteviger voor tapasblokjes: wil je de tortilla als tapasblokjes of punten serveren, bak dan ca. 60–75 seconden per zijde in plaats van de ultrakorte wedstrijdgaring. De kern blijft smeuïg, maar de tortilla blijft beter snijdbaar.\n\nAardappelkeuze: Mona Lisa is gladder en boteriger en neemt het ei mooi op; Kennebec geeft meer aardappelsmaak en een iets rustiekere structuur. Beide zijn uitstekend — kies alleen geen zeer vastkokende aardappel: die blijft te stevig en neemt het ei niet op.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Manzanilla",
           "druif": "Palomino Fino",
-          "smaakprofiel": "Kurkdroog, zilt, amandel, flor-karakter, strak",
-          "omschrijving": "In de traditionele tabernas van Madrid en Sevilla wordt tortilla española altijd geserveerd met Manzanilla of Fino Sherry — en dat is geen toeval.",
-          "waarom_werkt_dit": "De kurkdroge, licht nootachtige Sherry snijdt door de rijkdom van het ei en de olijfolie, terwijl de mineraliteit de aardappelsmaak verdiept. De lichte broodachtige toon van de flor sluit aan op de luchtige eistructuur van de tortilla. Na de eerste hap en de eerste slok begrijp je waarom deze combinatie al eeuwen bestaat. Serveer ijskoud op 7°C in een gekoeld copitasglas."
+          "smaakprofiel": "Kurkdroog, amandel, groene appel, kamille, brooddeeg, zilte flor-tonen.",
+          "omschrijving": "Manzanilla rijpt in Sanlúcar de Barrameda onder een levende laag flor-gist, vlak aan zee — en dat proef je: naast amandel, groene appel en kamille draagt de wijn een herkenbare toon van vers brooddeeg en een ziltigheid die nergens anders vandaan komt.",
+          "waarom_werkt_dit": "Precies die combinatie maakt hem dé klassieke partner van tortilla: de kurkdroge strakheid en het flor-zilt snijden door de rijkdom van ei en olijfolie, de amandel- en brooddeegtonen omarmen de zacht gegaarde aardappel, en elke slok maakt de volgende romige hap weer fris.",
+          "serveertemperatuur": "Serveer op 7–9°C."
         },
         {
           "type": "alternatief",
-          "naam": "Cava Brut Nature",
-          "druif": "Xarel·lo, Macabeo en Parellada",
-          "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig",
-          "omschrijving": "de droge bellen doen hetzelfde werk met meer frisheid",
-          "waarom_werkt_dit": "De droge mousse maakt vet, zout en krokante korst direct lichter; Xarel·lo geeft bovendien meer Spaanse hartigheid dan een neutrale bubbel. Zo blijft de pairing culinair logisch, maar minder voorspelbaar dan opnieuw dezelfde klassieke keuze."
+          "naam": "Godello — Valdeorras, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Droog, peer, gele appel, witte perzik, bloemen, amandel, steenachtig-mineraal, zachte zuren.",
+          "omschrijving": "Godello uit Valdeorras combineert rijp fruit — peer, gele appel, witte perzik — met witte bloemen, een fijne amandeltoon en een steenachtige, minerale ondertoon van de leisteenbodems in Galicië.",
+          "waarom_werkt_dit": "De wijn heeft voldoende body om ei en aardappel te dragen, terwijl de zachte, rijpe zuren de romige kern verfrissen zonder ertegenin te gaan — de rondere, fruitiger route naast de sherry.",
+          "serveertemperatuur": "Serveer op 9–10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Cava Brut Nature Reserva — Penedès, Spanje",
-          "druif": "Xarel·lo, Macabeo, Parellada",
-          "smaakprofiel": "Droog, fris, appel, citrus, fijne mousse, lichte broodtoon",
-          "omschrijving": "Een Spaanse bubbel die de eenvoud van tortilla respecteert.",
-          "waarom_werkt_dit": "De mousse maakt ei en aardappel lichter. De lichte broodtoon past bij de zachte tortilla, de droge afdronk houdt hem niet-vettig."
+          "type": "meest toegankelijk",
+          "naam": "Cava Gran Reserva Brut",
+          "druif": "Macabeo, Xarel·lo, Parellada",
+          "smaakprofiel": "Droog, appel, citrus, brioche, geroosterde amandel, broodkorst, fijne rijpe mousse.",
+          "omschrijving": "Een Cava Gran Reserva rijpt minimaal 30 maanden op de gist en ruilt daarmee simpel appel-citrusfruit in voor brioche, geroosterde amandel en broodkorst.",
+          "waarom_werkt_dit": "De fijne, gerijpte mousse tilt de romige tortilla op en houdt hem licht, terwijl de brood- en amandeltonen van de flesrijping naadloos aansluiten op gegaarde aardappel en ei — feestelijk én breed verkrijgbaar.",
+          "serveertemperatuur": "Serveer op 8–9°C."
         }
-      ],
-      "wine": {
-        "naam": "Manzanilla",
-        "druif": "Palomino Fino",
-        "toelichting": "De kurkdroge, licht nootachtige Sherry snijdt door de rijkdom van het ei en de olijfolie, terwijl de mineraliteit de aardappelsmaak verdiept. De lichte broodachtige toon van de flor sluit aan op de luchtige eistructuur van de tortilla. Na de eerste hap en de eerste slok begrijp je waarom deze combinatie al eeuwen bestaat. Serveer ijskoud op 7°C in een gekoeld copitasglas.",
-        "alternatief": "Cava Brut Nature — Droog, fris, fijne mousse, citrus, licht broodachtig; Cava Brut Nature Reserva — Penedès, Spanje — Droog, fris, appel, citrus, fijne mousse, lichte broodtoon"
-      },
-      "tips_full": [
-        "het geheim van een smeuïge tortilla: de binnenkant mag nog een beetje vloeibaar zijn als je hem omdraait — hij gaart nog na. Beter te weinig dan te veel gebakken.",
-        "Techniek: confijt de aardappels langzaam in de olijfolie op laag vuur — ze moeten zacht worden zonder te kleuren. Dit duurt 20-25 minuten en is niet te vervangen.",
-        "Presentatie: snijd de tortilla in gelijke wiggen of blokjes — een warme tortilla snijdt schoner dan een koude. Serveer op kamertemperatuur, nooit rechtstreeks uit de koelkast.",
-        "Variatie: voeg gekaramelliseerde ui toe voor een zoeter, rijker karakter (tortilla con cebolla), of piquillo-pepers voor kleur en smaak.",
-        "Alternatief: geen goede olijfolie? Gebruik neutrale olie voor het confijten en voeg een scheut goede olijfolie toe aan het eimengsel voor de smaak.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
-      "chef_tip": "het geheim van een smeuïge tortilla: de binnenkant mag nog een beetje vloeibaar zijn als je hem omdraait — hij gaart nog na. Beter te weinig dan te veel gebakken.\n\nTechniek: confijt de aardappels langzaam in de olijfolie op laag vuur — ze moeten zacht worden zonder te kleuren. Dit duurt 20-25 minuten en is niet te vervangen.\n\nPresentatie: snijd de tortilla in gelijke wiggen of blokjes — een warme tortilla snijdt schoner dan een koude. Serveer op kamertemperatuur, nooit rechtstreeks uit de koelkast.\n\nVariatie: voeg gekaramelliseerde ui toe voor een zoeter, rijker karakter (tortilla con cebolla), of piquillo-pepers voor kleur en smaak.\n\nAlternatief: geen goede olijfolie? Gebruik neutrale olie voor het confijten en voeg een scheut goede olijfolie toe aan het eimengsel voor de smaak.\n\nSnijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.\n\nBalans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
+      ]
     },
     {
       "title": "Solomillo al whisky — haasbiefstuk met whisky-knoflooksaus",
