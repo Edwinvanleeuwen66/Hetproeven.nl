@@ -10710,15 +10710,15 @@
     {
       "title": "Foe Yong Hai Royale met beenham, prei en fluwelen tomatensaus",
       "slug": "foe-yong-hai-royale",
-      "location": "Shanghai",
+      "location": "Nederland — Chinees-Indische keuken",
       "time": "30 min",
       "servings": "4 personen",
       "difficulty": "Makkelijk",
       "keuken": "Chinees",
       "categorie": "vlees",
       "image": "/assets/images/foe-yong-hai-royale.jpg",
-      "short_description": "Luchtige goudbruine Chinese omelet met beenham, prei en taugé — op een spiegel van zoetzure tomatensaus.",
-      "description": "Foe yong hai op zijn best: goudbruin van buiten, zacht van binnen, met goede beenham en verse prei. De tomatensaus is zoet, licht zuur en glanzend — herkenbaar, maar gemaakt met bouillon en sesamolie, niet uit een pak.",
+      "short_description": "Luchtige goudbruine omelet met beenham, prei en taugé op een spiegel van echte zoetzure tomatensaus — de Chinees-Indische restaurantklassieker.",
+      "description": "Foe yong hai is gebaseerd op Chinese eiergerechten in de stijl van egg foo young en werd in Nederland bekend via de Chinees-Indische restauranttraditie. Dit is bewust géén droge supermarkt-omelet, maar de royale, zachte restaurantversie: goudbruin van buiten, zacht van binnen, met goede beenham en verse prei. De tomatensaus is herkenbaar zoetzuur en glanzend — gemaakt met bouillon, gember en sesamolie, niet uit een pak.",
       "ingredient_groups": [
         {
           "group_name": "Omelet",
@@ -10790,7 +10790,7 @@
             },
             {
               "name": "suiker",
-              "amount": "2 el"
+              "amount": "1½ el"
             },
             {
               "name": "rijstazijn",
@@ -10858,57 +10858,36 @@
           "description": "maak een spiegel van tomatensaus op het bord. Leg een punt foe yong hai erop en lepel een beetje saus over het midden — laat de goudbruine rand zichtbaar. Werk af met krokante hamreepjes, lente-ui en sesam."
         }
       ],
-      "tips": [
-        "fruit de prei en sjalot van tevoren en laat afkoelen — hete groenten in het eimengsel stollen de eieren gedeeltelijk voor het bakken.",
-        "Techniek: bak twee kleinere omeletten in plaats van één grote — makkelijker te draaien, gelijkmatiger gegaard en mooier van presentatie. Gebruik een royale laag olie voor de krokante rand.",
-        "Presentatie: laat de goudbruine rand altijd zichtbaar — de saus gaat als spiegel op het bord, de omelet erop, een lepel saus over het midden. Niet alles bedekken.",
-        "Variatie: voeg krokante hamreepjes toe als topping — kort gebakken in een droge pan — voor extra textuur en zoutheid die het gerecht direct culinairder maakt.",
-        "Alternatief: geen goede ham? Gebruik gerookte zalm in dunne reepjes — geeft een heel andere maar even elegante foe yong hai met een meer delicate, rokerige smaak.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
+      "chef_tip": "Mise-en-place: fruit de prei en sjalot van tevoren en laat afkoelen — hete groenten in het eimengsel stollen de eieren gedeeltelijk voor het bakken.\n\nTechniek: bak twee kleinere omeletten in plaats van één grote — makkelijker te draaien, gelijkmatiger gegaard en mooier van presentatie. Gebruik een royale laag olie voor de krokante rand.\n\nPresentatie: laat de goudbruine rand altijd zichtbaar — de saus gaat als spiegel op het bord, de omelet erop, een lepel saus over het midden. Niet alles bedekken.\n\nVariatie: voeg krokante hamreepjes toe als topping — kort gebakken in een droge pan — voor extra textuur en zoutheid die het gerecht direct culinairder maakt.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Pinot Blanc",
+          "naam": "Pinot Blanc — Elzas, Frankrijk",
           "druif": "Pinot Blanc",
-          "smaakprofiel": "Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen",
+          "smaakprofiel": "Zachte appel- en perentonen, licht bloemig, rond en fris tegelijk — droog maar nooit scherp.",
           "omschrijving": "De zachte neutraliteit, lichte frisheid en subtiele appel- en perentonen van een Elzasser Pinot Blanc laten de zoetzure tomatensaus en de romige omelet volledig schitteren zonder er tegenin te gaan.",
-          "waarom_werkt_dit": "De wijn heeft genoeg body voor het ei maar is nooit zo dominant dat hij de delicate hamreepjes en prei overstemmt. Pinot Blanc is de meest bescheiden maar veelzijdige witte Elzas-wijn — perfect bij gerechten waar de balans van smaken centraal staat. De lage zuurgraad zorgt dat het ei zacht blijft aanvoelen op het gehemelte. Serveer op 11°C."
+          "waarom_werkt_dit": "De wijn heeft genoeg body voor het ei, maar is nooit zo dominant dat hij de delicate hamreepjes en prei overstemt. De milde zuren botsen niet met het zoetzuur van de saus — precies de bescheiden veelzijdigheid die dit gerecht vraagt.",
+          "serveertemperatuur": "Serveer op 9–10°C."
         },
         {
           "type": "alternatief",
-          "naam": "Droge Chablis",
-          "druif": "Chardonnay",
-          "smaakprofiel": "Droog, strak, mineraal, citrus, groene appel, krijtig",
-          "omschrijving": "mineralerder en frisser, werkt als de tomatensaus erg zoet is",
-          "waarom_werkt_dit": "De krijtige mineraliteit en citrische spanning geven precisie bij vis, ei, room of beurre blanc zonder aromatisch te overheersen. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact."
+          "naam": "Riesling feinherb — Pfalz, Duitsland",
+          "druif": "Riesling",
+          "smaakprofiel": "Citrus, perzik, groene appel en een bloemige toets; licht restzoet met rijpe, sappige zuren — levendig maar niet scherp.",
+          "omschrijving": "Kies bewust een feinherb (halfdroge) versie, geen kurkdroge — dat kleine beetje restzoet is hier functioneel.",
+          "waarom_werkt_dit": "Het lichte restzoet spiegelt de zoetzure tomatensaus in plaats van ermee te botsen, terwijl de sappige zuren het ei en de olie fris houden. De aromatiek pakt bovendien de gember- en sojatonen in de saus mooi op — de klassieke combinatie bij Chinees-Indisch.",
+          "serveertemperatuur": "Serveer op 8–10°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Beaujolais-Villages AOC — Beaujolais, Frankrijk",
+          "type": "meest toegankelijk",
+          "naam": "Beaujolais-Villages — Beaujolais, Frankrijk",
           "druif": "Gamay",
-          "smaakprofiel": "Droog, sappig rood fruit, lage tannine, fris, licht kruidig",
-          "omschrijving": "Een lichte, sappige rode wijn die koelte en fruit geeft zonder het gerecht te verzwaren.",
-          "waarom_werkt_dit": "De frisse zuren en lichte body van Gamay houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen."
+          "smaakprofiel": "Sappig rood fruit — kers, framboos — met een lichte kruidigheid, nauwelijks tannine en een frisse, soepele structuur.",
+          "omschrijving": "De rode optie voor wie geen wit wil: licht gekoeld geserveerd geeft hij koelte en fruit zonder het gerecht te verzwaren.",
+          "waarom_werkt_dit": "Het zachte rode fruit sluit aan bij de tomatensaus en de hartige ham, terwijl de vrijwel afwezige tannine niet wrang wordt naast het zoetzuur en het zachte ei. Juist doordat Gamay licht en soepel is, blijft de omelet de hoofdrol houden.",
+          "serveertemperatuur": "Serveer licht gekoeld op 12–14°C."
         }
-      ],
-      "wine": {
-        "naam": "Pinot Blanc",
-        "druif": "Pinot Blanc",
-        "toelichting": "De zachte neutraliteit, lichte frisheid en subtiele appel- en perentonen van een Elzasser Pinot Blanc laten de zoetzure tomatensaus en de romige omelet volledig schitteren zonder er tegenin te gaan. De wijn heeft genoeg body voor het ei maar is nooit zo dominant dat hij de delicate hamreepjes en prei overstemmt. Pinot Blanc is de meest bescheiden maar veelzijdige witte Elzas-wijn — perfect bij gerechten waar de balans van smaken centraal staat. De lage zuurgraad zorgt dat het ei zacht blijft aanvoelen op het gehemelte. Serveer op 11°C.",
-        "alternatief": "Droge Chablis — mineralerder en frisser, werkt als de tomatensaus erg zoet is"
-      },
-      "tips_full": [
-        "fruit de prei en sjalot van tevoren en laat afkoelen — hete groenten in het eimengsel stollen de eieren gedeeltelijk voor het bakken.",
-        "Techniek: bak twee kleinere omeletten in plaats van één grote — makkelijker te draaien, gelijkmatiger gegaard en mooier van presentatie. Gebruik een royale laag olie voor de krokante rand.",
-        "Presentatie: laat de goudbruine rand altijd zichtbaar — de saus gaat als spiegel op het bord, de omelet erop, een lepel saus over het midden. Niet alles bedekken.",
-        "Variatie: voeg krokante hamreepjes toe als topping — kort gebakken in een droge pan — voor extra textuur en zoutheid die het gerecht direct culinairder maakt.",
-        "Alternatief: geen goede ham? Gebruik gerookte zalm in dunne reepjes — geeft een heel andere maar even elegante foe yong hai met een meer delicate, rokerige smaak.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
-      "chef_tip": "fruit de prei en sjalot van tevoren en laat afkoelen — hete groenten in het eimengsel stollen de eieren gedeeltelijk voor het bakken.\n\nTechniek: bak twee kleinere omeletten in plaats van één grote — makkelijker te draaien, gelijkmatiger gegaard en mooier van presentatie. Gebruik een royale laag olie voor de krokante rand.\n\nPresentatie: laat de goudbruine rand altijd zichtbaar — de saus gaat als spiegel op het bord, de omelet erop, een lepel saus over het midden. Niet alles bedekken.\n\nVariatie: voeg krokante hamreepjes toe als topping — kort gebakken in een droge pan — voor extra textuur en zoutheid die het gerecht direct culinairder maakt.\n\nAlternatief: geen goede ham? Gebruik gerookte zalm in dunne reepjes — geeft een heel andere maar even elegante foe yong hai met een meer delicate, rokerige smaak.\n\nRusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.\n\nBalans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
+      ]
     },
     {
       "title": "Tja Lak Kai — krokante kip in zoet-pittige laksaus",
