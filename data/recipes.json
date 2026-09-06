@@ -79227,6 +79227,231 @@
           "serveertemperatuur": "Serveer op 8–9°C."
         }
       ]
+    },
+    {
+      "title": "Nasi Goreng Wadjan — diepe kecap, sambal, krokant ei en gebakken sjalot",
+      "slug": "nasi-goreng-wadjan",
+      "location": "Indonesië — Indische keuken",
+      "time": "20 min voorbereiding (+ rijst van de dag ervoor) + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/nasi-goreng-wadjan.jpg",
+      "short_description": "Nasi goreng zoals hij hoort: droge, losse rijst met diep gekaramelliseerde kecap, twee soorten sambal en een krokant gebakken ei.",
+      "description": "\"Wadjan\" is het Indisch-Nederlandse woord voor wok. Nasi goreng betekent letterlijk gebakken rijst, maar een goede nasi heeft weinig gemeen met de natte, zoete rijst van sommige afhaalrestaurants. De rijst moet droog, los en heet zijn: kecap geeft diepte en karamellisatie, geen plakkerige saus, sambal zorgt voor warmte en sjalot en knoflook voor geur. Bovenop komt één gebakken ei met krokante bruine randjes en een nog zachte dooier.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de rijst",
+          "ingredients": [
+            {
+              "name": "jasmijnrijst, ongekookt (of ca. 900 g koude, gekookte rijst van de dag ervoor)",
+              "amount": "350 g"
+            },
+            {
+              "name": "water",
+              "amount": "500–525 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "4 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de aromatische basis",
+          "ingredients": [
+            {
+              "name": "sjalot, fijn gesneden",
+              "amount": "120 g"
+            },
+            {
+              "name": "knoflook, zeer fijn gesneden",
+              "amount": "15 g"
+            },
+            {
+              "name": "trassi (garnalenpasta)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "20 g"
+            },
+            {
+              "name": "sambal badjak",
+              "amount": "10 g"
+            },
+            {
+              "name": "verse gember, zeer fijn geraspt",
+              "amount": "10 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "25 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de smaakmakers",
+          "ingredients": [
+            {
+              "name": "kecap manis",
+              "amount": "45 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "12 g"
+            },
+            {
+              "name": "ketjap asin (of extra lichte sojasaus)",
+              "amount": "10 g"
+            },
+            {
+              "name": "limoensap (optioneel, alleen aan het eind)",
+              "amount": "1 tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "1 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de vulling",
+          "ingredients": [
+            {
+              "name": "kippendijfilet, in kleine blokjes",
+              "amount": "250 g"
+            },
+            {
+              "name": "lichte sojasaus (voor de korte marinade)",
+              "amount": "5 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de eieren",
+          "ingredients": [
+            {
+              "name": "eieren",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie, om te bakken",
+              "amount": "royaal"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "krokant gebakken sjalot",
+              "amount": "40 g"
+            },
+            {
+              "name": "lente-uitjes, fijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "plakjes komkommer (eventueel)",
+              "amount": "enkele"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rijst koken — de dag ervoor",
+          "description": "Spoel de rijst tot het water vrijwel helder is. Kook met het water en het zout. Laat na het koken 10 minuten rusten. Spreid de rijst dun uit op een grote schaal en laat volledig afkoelen. Bewaar afgedekt in de koelkast — gebruik echt koude, dag-oude rijst: verse rijst geeft te veel oppervlaktevocht af en wordt tijdens het wokken zacht, kleverig en papperig in plaats van droog en los."
+        },
+        {
+          "action": "Rijst losmaken",
+          "description": "Haal de koude rijst uit de koelkast en maak alle klonten met je vingers volledig los — zodra de wok heet is, heb je hier geen tijd meer voor."
+        },
+        {
+          "action": "Kip marineren",
+          "description": "Meng de kip met de lichte sojasaus en een beetje witte peper. Laat 10–15 minuten staan."
+        },
+        {
+          "action": "Alles klaarzetten",
+          "description": "Meng sambal oelek en sambal badjak alvast samen. Meng in een apart kommetje de kecap manis, de resterende lichte soja en de ketjap asin."
+        },
+        {
+          "action": "Kip bakken — 1½–2 min",
+          "description": "Verhit een wok tot goed heet en voeg 10 g olie toe. Bak de kip op hoog vuur tot vrijwel gaar met bruine randjes. Schep uit de wok."
+        },
+        {
+          "action": "Aromaten",
+          "description": "Voeg de resterende olie toe. Voeg de trassi als eerste toe en bak 30–60 seconden tot geurig en iets donkerder. Voeg de sjalot toe en bak 60–90 seconden tot zacht met wat kleur. Voeg knoflook en gember toe, bak 20–30 seconden. Voeg de sambalmix toe en bak 20 seconden tot de olie rood kleurt en alles sterk geurt."
+        },
+        {
+          "action": "Rijst erin — vuur maximaal, 2–3 min",
+          "description": "Voeg alle koude rijst toe. Zet het vuur maximaal en schep de rijst voortdurend over de hete bodem. Bak 2–3 minuten zonder saus — de rijst moet eerst echt heet en droger worden voordat de kecap erbij gaat."
+        },
+        {
+          "action": "Kecap langs de wokrand",
+          "description": "Giet de kecap-sojamix langs de gloeiend hete rand van de wok, niet midden over de rijst — zo karamelliseert de kecap kort voordat hij de rijst raakt. Wok direct krachtig tot de rijst binnen 1–2 minuten egaal donkerbruin en glanzend is. Voeg niet méér kecap toe omdat de rijst niet donker genoeg lijkt."
+        },
+        {
+          "action": "Kip terug",
+          "description": "Voeg de kip toe en wok nog ongeveer 1 minuut. Proef — de smaak moet hartig, licht zoet, pittig en geroosterd zijn, niet zoet en plakkerig. Corrigeer eventueel met een beetje extra lichte soja."
+        },
+        {
+          "action": "Limoen als correctie",
+          "description": "Proef eerst. Alleen als de nasi erg rond en zwaar is geworden: voeg maximaal 1 tl limoensap toe — niet automatisch."
+        },
+        {
+          "action": "Eieren bakken",
+          "description": "Verhit ongeveer 5 mm neutrale olie in een kleine koekenpan op middelhoog-hoog vuur. Breek een ei erin. Schep hete olie een paar keer over het eiwit (niet de dooier) tot het eiwit gestold is, de randen donker goudbruin en krokant worden en de dooier nog zacht is. Bestrooi met een klein snufje zout. Herhaal met de overige eieren en laat kort uitlekken."
+        },
+        {
+          "action": "Serveren",
+          "description": "Schep een compacte maar losse portie nasi op een warm, diep bord. Leg het krokant gebakken ei erop. Strooi er gebakken sjalot en lente-ui over, met eventueel enkele plakjes komkommer ernaast."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Een compacte, losse hoop nasi met het krokant gebakken ei er bovenop, een kleine hoeveelheid gebakken sjalot en lente-ui erover. Geen kroepoekberg, geen pindasaus, geen zuur, geen satéstokje ernaast — dit is nasi goreng, geen rijsttafel."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de rijst een dag van tevoren te koken en dun uitgespreid te laten afkoelen, verliezen de korrels oppervlaktevocht en worden ze droog genoeg om vrij in de hete wok te bewegen zonder te klonteren. Trassi eerst apart activeren geeft een diepe, gefermenteerde umami die verloren zou gaan als hij gewoon met de rest meebakt. Twee soorten sambal geven een gelaagdere smaak — directe frisheid van oelek, diepte en gebakken specerijen van badjak. Door de rijst eerst zonder saus heet te maken en de kecap pas daarna langs de gloeiend hete wokrand te gieten, karamelliseert de saus kort voordat hij de rijst raakt — dat geeft de karakteristieke, diep gekleurde smaak zonder dat de rijst verdrinkt in saus. En het ei, met hete olie over het eiwit geschept tijdens het bakken, krijgt precies die krokante, kantachtige randjes terwijl de dooier zacht en lopend blijft."
+        }
+      ],
+      "chef_tip": "Koude rijst: gebruik echt koude, dag-oude rijst — dit is niet optioneel als je het maximale resultaat wilt.\n\nGeen anti-aanbakpan: als je een goede wok hebt, gebruik die — je wilt hitte en een beetje aanbakking.\n\nNiet voor acht tegelijk: wok niet voor acht personen in één keer — maak twee batches, een overvolle wok stoomt.\n\nEi op het laatst: bak het krokante ei pas vlak voor het serveren en houd het niet warm — anders verdwijnen precies die krokante randjes.\n\nMet rundvlees: gebruik dun gesneden entrecote of kogelbiefstuk, bak maximaal 45–60 seconden en haal direct uit de wok.\n\nVegetarisch: laat het vlees weg, verhoog de sjalot iets en voeg eventueel 150 g gebakken kastanjechampignon toe — houd het sober.\n\nPittiger? Voeg liever extra sambal oelek toe dan cayennepoeder — dat houdt de smaak Indonesischer.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Pinot Gris — Elzas, Frankrijk",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Een rond, rijp profiel met peer, gele appel, perzik, zachte kruiden en soms een licht rokerige of honingachtige toon. De zuren zijn meestal vriendelijker dan bij Sauvignon Blanc, waardoor de wijn niet botst met sambal en kecap.",
+          "omschrijving": "Onze eerste keuze — de veiligste, meest betrouwbare topkeuze: rond genoeg om de rijkdom van de rijst te begeleiden, fris genoeg om niet te verdwijnen naast sambal en kecap.",
+          "waarom_werkt_dit": "Dat zachte, brede mondgevoel sluit mooi aan bij gebakken rijst en kippendij, terwijl het rijpe fruit de lichte zoetheid van kecap opvangt. Een klein beetje restzoet is hier zelfs prettig, zolang de wijn niet echt zoet wordt.",
+          "serveertemperatuur": "Serveer op 10–11°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chenin Blanc — Zuid-Afrika",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Rijpe appel, kweepeer, gele pruim, honingraat en soms een lichte wasachtige of minerale toon.",
+          "omschrijving": "Kies een droge tot heel licht off-dry versie.",
+          "waarom_werkt_dit": "Goede exemplaren hebben genoeg frisheid om de nasi niet zwaar te laten worden, maar ook voldoende body voor kecap en gebakken ei. De natuurlijke rijpheid sluit aan bij kecap manis, terwijl de spanning in de wijn door olie en ei heen snijdt.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Cerasuolo d'Abruzzo — Abruzzo, Italië",
+          "druif": "Montepulciano",
+          "smaakprofiel": "Kers, aardbei, granaatappel en mediterrane kruiden — veel meer body dan een bleke Provence-rosé.",
+          "omschrijving": "De stevige Italiaanse rosé voor wie liever geen wit drinkt bij pittig eten.",
+          "waarom_werkt_dit": "Dat rode fruit werkt verrassend goed met kecap en sambal, terwijl de frisse serveertemperatuur de rijst en het gebakken ei lichter maakt. Nauwelijks harde tannine, dus niet agressief bij chili.",
+          "serveertemperatuur": "Serveer op 10–12°C."
+        }
+      ]
     }
   ]
 }
