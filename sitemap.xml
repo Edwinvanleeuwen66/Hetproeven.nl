@@ -296,7 +296,7 @@
   </url>
   <url>
     <loc>https://hetproeven.nl/recepten/alitas-muslitos-ajillo-sticky/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2308,6 +2308,20 @@
     <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://hetproeven.nl/recepten/ajo-blanco-druif-komkommer-peterselie-olie/</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hetproeven.nl/recepten/gegrilde-sojazeebaars-wakame-crispy-nori-citrussaus/</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>

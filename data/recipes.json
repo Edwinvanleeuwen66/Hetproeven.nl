@@ -6525,7 +6525,7 @@
               "amount": "4"
             },
             {
-              "name": "Brandy de Jerez of cognac",
+              "name": "Brandy de Jerez",
               "amount": "60 ml"
             },
             {
@@ -6567,21 +6567,12 @@
         },
         {
           "action": "Sticky saus",
-          "description": "bak knoflookplakjes 2 minuten goudgeel. Voeg brandy toe en laat 1 minuut inkoken. Voeg honing, bouillon en tijm toe. Laat 3-4 minuten sudderen tot een dikke glanzende saus. Voeg boter toe."
+          "description": "Bak de knoflook in weinig olie zacht goudgeel. Voeg Brandy de Jerez toe en laat 1–2 minuten reduceren. Voeg honing, kippenbouillon en tijm toe en laat rustig inkoken tot een glanzend, licht stroperig glazuur. Haal van het vuur en monteer met de boter."
         },
         {
           "action": "Serveer",
           "description": "gooi de krokante kip door de warme saus en schud goed. Bestrooi met peterselie en serveer direct."
         }
-      ],
-      "tips": [
-        "marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor het bakken voor maximale karamelisatie.",
-        "Techniek: bak op hoog vuur in porties — een volle pan geeft stoom. Karameliseer de knoflook eerst zodat het suiker vrijkomt voor je de kip toevoegt.",
-        "Presentatie: serveer in een warme aardewerken cazuela met het glazuur nog glanzend — bestrooi pas op het laatste moment met peterselie zodat het groen vers blijft.",
-        "Variatie: voeg een scheutje sherry of cognac toe aan de knoflooksaus voor extra Spaanse diepte, of gebruik honing in plaats van suiker voor een meer bloemig karakter.",
-        "Alternatief: geen verse knoflook? Gebruik geroosterde knoflook uit de oven — zachter van smaak maar geeft dezelfde diepte aan de sticky glazuur.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
       ],
       "wines": [
         {
@@ -6590,7 +6581,8 @@
           "druif": "Palomino Fino",
           "smaakprofiel": "Kurkdroog, zilt, amandel, flor-karakter, strak",
           "omschrijving": "In Sevilla is Manzanilla de begeleider bij alles wat al ajillo wordt bereid — de droge, zilte, licht nootachtige Sherry snijdt door de rijke knoflookglazuur en tempert de vettigheid van de kip.",
-          "waarom_werkt_dit": "De mineraliteit van de flor sluit aan op de intens knoflooky saus. De hoge zuurgraad reinigt de mond na elke plakkerige, smaakvolle hap. Manzanilla is zo licht van alcohol (15%) en zo fris dat het de smaak van het gerecht nooit overspoelt. In de bodega's van Sevilla is dit de meest bestelde combinatie bij ajos. Serveer ijskoud op 7°C."
+          "waarom_werkt_dit": "De mineraliteit van de flor sluit aan op de intens knoflooky saus. De hoge zuurgraad reinigt de mond na elke plakkerige, smaakvolle hap. Manzanilla is zo licht van alcohol (15%) en zo fris dat het de smaak van het gerecht nooit overspoelt. In de bodega's van Sevilla is dit de meest bestelde combinatie bij ajos.",
+          "serveertemperatuur": "Serveer ijskoud op 7°C."
         },
         {
           "type": "alternatief",
@@ -6598,33 +6590,20 @@
           "druif": "Palomino",
           "smaakprofiel": "Kurkdroog, zilt, amandel, flor-karakter, strak",
           "omschrijving": "iets minder zout dan Manzanilla maar even droog en even verfijnd bij knoflookgerechten",
-          "waarom_werkt_dit": "De kurkdroge, nootachtige flor-toon snijdt door vet en ei en geeft vooral gefrituurde of knoflookrijke hapjes een schone afdronk. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "waarom_werkt_dit": "De kurkdroge, nootachtige flor-toon snijdt door vet en ei en geeft vooral gefrituurde of knoflookrijke hapjes een schone afdronk. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt.",
+          "serveertemperatuur": "Serveer op 7–9°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Beaujolais-Villages AOC — Beaujolais, Frankrijk",
           "druif": "Gamay",
           "smaakprofiel": "Droog, sappig rood fruit, lage tannine, fris, licht kruidig",
           "omschrijving": "Een lichte, sappige rode wijn die koelte en fruit geeft zonder het gerecht te verzwaren.",
-          "waarom_werkt_dit": "De frisse zuren en lichte body van Gamay houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen."
+          "waarom_werkt_dit": "De frisse zuren en lichte body van Gamay houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen.",
+          "serveertemperatuur": "Serveer licht gekoeld op 12–14°C."
         }
       ],
-      "wine": {
-        "naam": "Manzanilla",
-        "druif": "Palomino Fino",
-        "toelichting": "In Sevilla is Manzanilla de begeleider bij alles wat al ajillo wordt bereid — de droge, zilte, licht nootachtige Sherry snijdt door de rijke knoflookglazuur en tempert de vettigheid van de kip. De mineraliteit van de flor sluit aan op de intens knoflooky saus. De hoge zuurgraad reinigt de mond na elke plakkerige, smaakvolle hap. Manzanilla is zo licht van alcohol (15%) en zo fris dat het de smaak van het gerecht nooit overspoelt. In de bodega's van Sevilla is dit de meest bestelde combinatie bij ajos. Serveer ijskoud op 7°C.",
-        "alternatief": "Fino Sherry — iets minder zout dan Manzanilla maar even droog en even verfijnd bij knoflookgerechten"
-      },
-      "tips_full": [
-        "marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor het bakken voor maximale karamelisatie.",
-        "Techniek: bak op hoog vuur in porties — een volle pan geeft stoom. Karameliseer de knoflook eerst zodat het suiker vrijkomt voor je de kip toevoegt.",
-        "Presentatie: serveer in een warme aardewerken cazuela met het glazuur nog glanzend — bestrooi pas op het laatste moment met peterselie zodat het groen vers blijft.",
-        "Variatie: voeg een scheutje sherry of cognac toe aan de knoflooksaus voor extra Spaanse diepte, of gebruik honing in plaats van suiker voor een meer bloemig karakter.",
-        "Alternatief: geen verse knoflook? Gebruik geroosterde knoflook uit de oven — zachter van smaak maar geeft dezelfde diepte aan de sticky glazuur.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
-      "chef_tip": "marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor het bakken voor maximale karamelisatie.\n\nTechniek: bak op hoog vuur in porties — een volle pan geeft stoom. Karameliseer de knoflook eerst zodat het suiker vrijkomt voor je de kip toevoegt.\n\nPresentatie: serveer in een warme aardewerken cazuela met het glazuur nog glanzend — bestrooi pas op het laatste moment met peterselie zodat het groen vers blijft.\n\nVariatie: voeg een scheutje sherry of cognac toe aan de knoflooksaus voor extra Spaanse diepte, of gebruik honing in plaats van suiker voor een meer bloemig karakter.\n\nAlternatief: geen verse knoflook? Gebruik geroosterde knoflook uit de oven — zachter van smaak maar geeft dezelfde diepte aan de sticky glazuur.\n\nRusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.\n\nBalans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
+      "chef_tip": "Mise-en-place: marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor het bakken voor maximale karamelisatie.\n\nExtra krokant: dep de gemarineerde kip zeer goed droog voordat hij de airfryer ingaat.\n\nNiet te vol: bak bij een kleine airfryer liever in twee rondes zodat hete lucht overal langs kan.\n\nSausdikte: laat de saus inkoken tot hij de achterkant van een lepel dun bedekt; hij dikt nog iets zodra hij om de hete kip gaat.\n\nBrandy-alternatief: geen Brandy de Jerez? Gebruik 50–60 ml droge Oloroso of Amontillado. Droge witte wijn kan ook, maar geeft een lichtere saus. Alcoholvrij: vervang door 40 ml extra kippenbouillon + 1 tl sherryazijn.\n\nVoorbereiden: kip kan een dag vooraf marineren; saus kun je eerder maken tot vóór de boter. Warm op en monteer de boter pas vlak voor serveren.\n\nOvenalternatief: geen airfryer? Bak op rooster bij 220°C, ongeveer 30–35 minuten, halverwege draaien; controleer gaarheid.\n\nPresentatie: serveer in een warme aardewerken cazuela met het glazuur nog glanzend — bestrooi pas op het laatste moment met peterselie zodat het groen vers blijft."
     },
     {
       "title": "Ensaladilla rusa pintxo — wedstrijdwinnend met smash-techniek",
@@ -79428,6 +79407,328 @@
           "smaakprofiel": "Kers, aardbei, granaatappel en mediterrane kruiden — veel meer body dan een bleke Provence-rosé.",
           "omschrijving": "De stevige Italiaanse rosé voor wie liever geen wit drinkt bij pittig eten.",
           "waarom_werkt_dit": "Dat rode fruit werkt verrassend goed met kecap en sambal, terwijl de frisse serveertemperatuur de rijst en het gebakken ei lichter maakt. Nauwelijks harde tannine, dus niet agressief bij chili.",
+          "serveertemperatuur": "Serveer op 10–12°C."
+        }
+      ]
+    },
+    {
+      "title": "Fluweelzachte, lichte Ajo Blanco met druif, komkommer en peterselie-olie",
+      "slug": "ajo-blanco-druif-komkommer-peterselie-olie",
+      "location": "Andalusië, Spanje",
+      "time": "25 min voorbereiding + minimaal 2 uur koelen",
+      "servings": "4 kleine voorgerechtglazen",
+      "difficulty": "Makkelijk",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/ajo-blanco-druif-komkommer-peterselie-olie.jpg",
+      "short_description": "Een lichte, romige amandelsoep met een verborgen laag druif en komkommer onderin het glas en druppels felgroene peterselie-olie.",
+      "description": "Ajo blanco is ouder dan gazpacho — geworteld in de Romeinse of Moorse tijd, toen amandelen en knoflook basisvoedsel waren in Andalusië. Deze versie leunt volledig op amandel en olijfolie voor haar romige lichaam: licht, transparant en fluweelzacht. Onderin het glas verstopt zich een klein laagje druif en komkommer — een verrassing die pas bij de eerste lepel zichtbaar wordt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de ajo blanco",
+          "ingredients": [
+            {
+              "name": "blanke amandelen (bij voorkeur Marcona), eventueel 4–8 uur geweekt in koud water",
+              "amount": "170 g"
+            },
+            {
+              "name": "kleine teen knoflook, ontkiemd",
+              "amount": "¾–1"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "15 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "45 g"
+            },
+            {
+              "name": "ijskoud water",
+              "amount": "300–350 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "4 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de garnituur",
+          "ingredients": [
+            {
+              "name": "witte pitloze druiven, zeer klein gesneden",
+              "amount": "4"
+            },
+            {
+              "name": "komkommer, in fijne brunoise van 2–3 mm",
+              "amount": "50 g"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "flinterdunne, geroosterde amandelschaafjes (eventueel)",
+              "amount": "enkele"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de peterselie-olie",
+          "ingredients": [
+            {
+              "name": "platte peterselie",
+              "amount": "10 g"
+            },
+            {
+              "name": "milde extra vierge olijfolie",
+              "amount": "20 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Optionele, niet-vegetarische tip",
+          "ingredients": [
+            {
+              "name": "kleine blokjes chorizo, krokant uitgebakken",
+              "amount": "ca. ½ tl per glas"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Amandelbasis blenden",
+          "description": "Doe de (eventueel geweekte) amandelen, knoflook, sherryazijn, zout en ongeveer 200 ml ijskoud water in een krachtige blender. Blend minimaal 2–3 minuten tot volledig glad — laat de blender tussendoor even rusten zodat het mengsel niet warm wordt."
+        },
+        {
+          "action": "Olie emulgeren",
+          "description": "Laat de blender op middelhoge snelheid draaien en voeg de olijfolie langzaam in een dun straaltje toe, zoals bij mayonaise. Voeg geleidelijk extra ijskoud water toe tot de textuur op dunne room lijkt."
+        },
+        {
+          "action": "Zeven",
+          "description": "Giet de ajo blanco door een zeer fijne zeef en druk voorzichtig met de achterkant van een lepel, maar forceer het grove residu niet erdoorheen — liever iets langer laten uitlekken dan drukken, anders krijg je een korrelige in plaats van fluweelzachte textuur. Koel minimaal 2 uur."
+        },
+        {
+          "action": "Peterselie-olie maken",
+          "description": "Blancheer de peterselie 10 seconden in kokend water, koel direct terug in ijswater, knijp en dep zeer goed droog. Blend met de olijfolie tot intens groen. Zeef door een fijn zeefje. Gebruik straks maar enkele druppels per glas."
+        },
+        {
+          "action": "Druif en komkommer voorbereiden",
+          "description": "Meng de fijngesneden druif en komkommerbrunoise met het snufje zout — niet marineren in extra zuur, de ajo blanco bevat al voldoende sherryazijn."
+        },
+        {
+          "action": "Proeven en aanpassen",
+          "description": "Proef de soep vlak voor het serveren opnieuw op zout en zuur. Is hij tijdens het koelen ingedikt, roer er dan 1–2 el ijskoud water door."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Schep onder in elk glas ongeveer 1 tl van het druif-komkommermengsel. Schenk daar voorzichtig de ijskoude ajo blanco op."
+        },
+        {
+          "action": "Afwerken",
+          "description": "Werk af met 4–5 druppels peterselie-olie, eventueel een mini stukje druif en een geroosterd amandelschaafje. Serveer direct."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "De verborgen laag druif en komkommer onderin het glas blijft grotendeels aan het zicht onttrokken door de ivoorwitte soep erboven — pas bij de eerste lepel ontdek je de frisse, knapperige verrassing. Enkele druppels felgroene peterselie-olie op het oppervlak geven het enige, doelbewuste kleuraccent."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Amandel en olijfolie geven samen de romige, vloeibare body die deze soep haar fluweelzachte karakter geeft, zonder dat er brood aan te pas komt. Olijfolie langzaam emulgeren geeft een echte, stabiele emulsie in plaats van een simpele amandelsoep. Door de druif en komkommer onderin te verstoppen in plaats van bovenop te leggen, wordt het een ontdekkingsmoment in plaats van decoratie — precies het soort originaliteit dat een mini-glaasje verdient. Peterselie-olie, kort geblancheerd voor een felgroene kleur zonder bitterheid, geeft het enige kleuraccent tegen de ivoorwitte soep."
+        }
+      ],
+      "chef_tip": "Amandelen weken: vooraf 4–8 uur weken in koud water en goed afgieten geeft een nog zachtere, gladdere textuur.\n\nAmandelkeuze: Marcona geeft een ronder, boteriger resultaat; goede gewone blanke amandelen werken ook prima.\n\nTe dik na het koelen: de soep dikt iets in in de koelkast — roer vlak voor serveren wat extra ijskoud water erdoor.\n\nVariatie met mango: vervang de witte druif door een paar hele kleine blokjes verse mango, samen met de komkommerbrunoise onderin het glas verstopt, en werk af met een piepklein sliertje of stipje gepureerde mango naast de peterselie-olie. Dit brengt het gerecht verder van het Andalusische origineel af, maar geeft een direct, vrolijk kleurcontrast — ivoorwit, felgeel-oranje en groen — dat in een klein glaasje meteen opvalt. Een bewuste, moderne twist, geen authentiekere variant.\n\nVooruitwerken: de soep zelf kan een dag vooraf gemaakt worden. Snijd de garnituur liever op de dag zelf.\n\nAlternatief: bak voor een niet-vegetarische variant heel kleine blokjes chorizo krokant uit in hun eigen vet en gebruik ongeveer ½ tl per glas als zout-rokerig contrast. Laat dan het geroosterde amandelschaafje weg, zodat het niet te druk wordt op zo'n klein oppervlak.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Manzanilla — Sanlúcar de Barrameda, Spanje",
+          "druif": "Palomino Fino",
+          "smaakprofiel": "Manzanilla rijpt onder flor, een dunne laag gistcultuur die op het oppervlak van de wijn drijft, waardoor hij uitgesproken droog, licht en zilt wordt. In de geur overheersen kamille, groene appel, verse amandel en brooddeeg, met een karakteristieke, bijna zeeluchtachtige ziltigheid. In de mond is de wijn messcherp en droog, met een korte maar precieze afdronk.",
+          "omschrijving": "Onze eerste keuze — de combinatie van amandelachtige diepte en messcherpe, ziltige droogte maakt Manzanilla de meest natuurlijke en complete partner voor een gerecht dat zelf ook draait om amandel, knoflook en frisheid.",
+          "waarom_werkt_dit": "Dit blijft de meest voor de hand liggende keuze: het amandelachtige karakter van Manzanilla sluit vrijwel letterlijk aan bij de amandelen in de soep, terwijl de droge, zilte stijl feilloos door de olijfolie-emulsie heen snijdt. De ziltige frisheid houdt bovendien de zoetheid van de druif en de frisheid van de komkommer in evenwicht, zonder dat de wijn zelf ooit zwaar wordt.",
+          "serveertemperatuur": "Serveer op 7–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello — Valdeorras, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Iets ronder en zachter dan Manzanilla: witte perzik, gele appel, witte bloesem en een lichte, minerale ondertoon.",
+          "omschrijving": "De rondere, zachtere Spaanse witte voor wie liever geen sherry drinkt.",
+          "waarom_werkt_dit": "Deze ronde, zachte textuur past goed bij de romige amandeltextuur van de soep en de zachte zoetheid van de druif, zonder de subtiele peterselie-olie te overstemmen.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Droge Moscatel — Spanje",
+          "druif": "Moscatel",
+          "smaakprofiel": "Citrusbloesem, druif, witte perzik en mediterrane kruiden — aromatisch maar volledig droog.",
+          "omschrijving": "Een verrassende, speelse keuze voor wie iets minder klassiek wil.",
+          "waarom_werkt_dit": "Een mooie, thematische brug naar de witte druif in het glas: de wijn ruikt zelf al naar druif, zonder dat het gerecht daardoor zoet wordt.",
+          "serveertemperatuur": "Serveer op 8–10°C."
+        }
+      ]
+    },
+    {
+      "title": "Gegrilde sojazeebaars met wakame, crispy nori en lichte citrussaus",
+      "slug": "gegrilde-sojazeebaars-wakame-crispy-nori-citrussaus",
+      "location": "Japan — minimalistische keuken",
+      "time": "25 min voorbereiding + 20 min marineren + 8 min bereiding",
+      "servings": "4 personen (kleine bordjes)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Japans",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/gegrilde-sojazeebaars-wakame-crispy-nori-citrussaus.jpg",
+      "short_description": "Een klein, precies bordje: gegrilde soja-mirin-zeebaars in stukjes, een beetje wakame, krokante nori en een lichte, botergemonteerde citrussaus.",
+      "description": "Een klein, minimalistisch voorgerecht: gegrilde soja-mirin-zeebaars, wakame en krokante nori met een lichte, boterig-glanzende citrussaus. Geen twintig smaakmakers — vier heldere elementen, precies uitgevoerd. Dit moet er intens en gefocust uitzien, niet als een volledig visgerecht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de zeebaars",
+          "ingredients": [
+            {
+              "name": "zeebaarsfilet, met vel",
+              "amount": "1 (180–200 g)"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "20 g"
+            },
+            {
+              "name": "mirin",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de lichte citrussaus",
+          "ingredients": [
+            {
+              "name": "mandarijnsap (of sinaasappelsap)",
+              "amount": "60 g"
+            },
+            {
+              "name": "lichte dashi",
+              "amount": "25 g"
+            },
+            {
+              "name": "limoensap",
+              "amount": "5–8 g"
+            },
+            {
+              "name": "mirin",
+              "amount": "5 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "4–5 g"
+            },
+            {
+              "name": "koude boter, in blokjes",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de wakame",
+          "ingredients": [
+            {
+              "name": "bereide (geweekte) wakame",
+              "amount": "50–60 g"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "paar druppels"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "klein beetje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de crispy nori",
+          "ingredients": [
+            {
+              "name": "vel nori",
+              "amount": "1"
+            },
+            {
+              "name": "neutrale olie (voor kort frituren, of droog roosteren)",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Zeebaars marineren",
+          "description": "Meng de sojasaus en mirin. Leg de zeebaarsfilet erin, dek af en marineer 20 minuten in de koelkast."
+        },
+        {
+          "action": "Citrussaus inkoken",
+          "description": "Breng mandarijnsap, dashi, limoensap, mirin en sojasaus samen aan de kook in een klein pannetje. Laat inkoken tot ongeveer 55–60 ml."
+        },
+        {
+          "action": "Monteren met boter",
+          "description": "Haal van het vuur. Klop de koude boter er in kleine porties doorheen, telkens laten opnemen voordat de volgende erbij gaat, tot de saus glanzend en licht gebonden is — niet meer laten koken. De boter moet echt koud zijn bij het monteren, dat voorkomt dat de saus gaat scheiden. Houd lauwwarm."
+        },
+        {
+          "action": "Wakame afmaken",
+          "description": "Meng de wakame met een paar druppels rijstazijn en een klein beetje sojasaus, net genoeg om hem iets van smaak te geven zonder de natuurlijke, milde smaak te overstemmen."
+        },
+        {
+          "action": "Nori krokant maken",
+          "description": "Snijd de nori in kleine stukjes. Rooster kort boven een vlam of in een droge, hete pan tot krokant — of frituur heel kort (5 seconden) in een klein beetje hete olie. Laat uitlekken."
+        },
+        {
+          "action": "Zeebaars grillen — 6–7 min",
+          "description": "Haal de filet uit de marinade en dep licht droog. Gril in een hete pan, met de velzijde eerst, 4 minuten tot krokant en goudbruin. Draai om en gril nog 2–3 minuten tot net gaar."
+        },
+        {
+          "action": "Snijden",
+          "description": "Laat een minuut rusten en snijd dan pas in stukjes van ongeveer 2 cm — je houdt ongeveer 3–4 stukjes per persoon over. Grill de zeebaars als hele filet en snijd pas ná het garen: dat houdt de vis sappig."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Verdeel een klein beetje wakame over vier kleine bordjes. Leg er 3–4 stukjes zeebaars op. Lepel een eetlepel warme citrussaus erover en eromheen. Werk af met de krokante nori."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Klein en precies: een paar stukjes vis, een beetje wakame, één lepel glanzende saus, wat krokante nori erover. Geen grote porties, geen overdaad — dit moet er intens en gefocust uitzien, niet als een volledig visgerecht."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de vis als hele filet te marineren en te grillen en pas ná het garen te snijden, blijft hij sappig. De citrussaus met slechts een klein beetje dashi krijgt umami-diepte zonder een volwaardige bouillonsaus te worden, en boter monteren in plaats van binden met maizena geeft een natuurlijke, zijdezachte glans in plaats van een dikke, glanzende laag. Door de wakame nauwelijks te kruiden, blijft de aandacht bij de vis en de saus in plaats van dat het zeewier zijn eigen, herkenbare 'sesamsalade'-smaak opeist."
+        }
+      ],
+      "chef_tip": "Vooruitwerken: de citrussaus-basis (vóór het monteren met boter) en de wakame kunnen vooraf gemaakt worden. Monteer de boter, gril de vis en frituur de nori pas vlak voor het serveren.\n\nGeen dashi in huis: een heel klein beetje water met een druppel extra sojasaus werkt als noodoplossing, al mis je dan wat umami-diepte.\n\nKoude boter: de boter moet echt koud zijn bij het monteren — dat voorkomt dat de saus gaat scheiden.\n\nTechniek: gebruik geen maizena om de citrussaus te binden — dat geeft een synthetische, te dikke glans in plaats van de zijdezachte glans van een botermontage.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Godello — Valdeorras, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Een verfijnde neus van witte perzik, gele appel en een zachte bloesemgeur, vaak met een ondertoon van natte steen. In de mond rond en vol, met een zachte, bijna olieachtige textuur en een gematigde frisheid.",
+          "omschrijving": "Onze eerste keuze — een rondere, vriendelijkere keuze dan een messcherpe Sauvignon Blanc bij dit specifieke, boterig-lichte gerecht.",
+          "waarom_werkt_dit": "De ronde, zachte textuur van Godello sluit natuurlijk aan bij de boter-gemonteerde saus, terwijl de subtiele mineraliteit de umami van soja en dashi ondersteunt zonder de delicate vis te overstemmen.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chablis — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Strak en mineraal, groene appel en citrus, zonder houtinvloed.",
+          "omschrijving": "Voor wie liever iets strakkers drinkt.",
+          "waarom_werkt_dit": "De mineraliteit accentueert de knapperige vishuid.",
+          "serveertemperatuur": "Serveer op 10–11°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Junmai sake (droog)",
+          "druif": "Rijst",
+          "smaakprofiel": "Zacht, rijstachtig, licht umami.",
+          "omschrijving": "Thematisch de meest passende keuze, sluit natuurlijk aan bij mirin en dashi.",
+          "waarom_werkt_dit": "Sake weerspiegelt de Japanse smaakmakers in het gerecht zelf en laat de vis en de citrussaus onaangetast door zuren of tannine.",
           "serveertemperatuur": "Serveer op 10–12°C."
         }
       ]
