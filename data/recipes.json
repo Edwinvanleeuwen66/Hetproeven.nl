@@ -283,7 +283,7 @@
       "difficulty": "Makkelijk",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
-      "image": "/assets/images/garnaal-op-ei.jpg",
+      "image": "/assets/images/bilbainito-garnaal-ei-mayonaise.jpg",
       "short_description": "De iconische Bilbao-pintxo uit de jaren '60 — garnaal en hardgekookt ei op een tandenstoker met mayo en geraspt ei.",
       "description": "De iconische pintxo uit Bilbao — gekookte garnaal en hardgekookt ei op een tandenstoker, afgetopt met huisgemaakte mayonaise en geraspt ei. Simpel, retro en verrassend lekker.",
       "ingredient_groups": [
@@ -291,7 +291,7 @@
           "group_name": "Pintxo",
           "ingredients": [
             {
-              "name": "grote garnalen, gepeld en gekookt",
+              "name": "grote rauwe garnalen",
               "amount": "6"
             },
             {
@@ -340,15 +340,6 @@
           "description": "prik met een tandenstoker eerst een garnaal en dan een half ei. Spuit mayonaise erop. Rasp het overgebleven ei fijn over alle pintxos. Serveer koel of op kamertemperatuur."
         }
       ],
-      "tips": [
-        "de mayonaise een dag van tevoren maken — hij wordt ronder en steviger. Bewaar koud en roer kort los voor gebruik.",
-        "Techniek: gebruik een spuitzak met gekarteld mondstuk voor de mayo — dat geeft elk bilbainito een retro maar strak gepresenteerd uiterlijk.",
-        "Presentatie: serveer op een licht bevroren leisteen of marmeren plaat — de kou houdt de garnalen en mayo koel en maakt de presentatie visueel indrukwekkend.",
-        "Variatie: vervang de mayonaise door sriracha-mayo voor een modern Japanse twist, of voeg foreleitjes toe bovenop voor een luxe upgrade.",
-        "Alternatief: geen verse garnalen? Gebruik diepvriesgarnalen — volledig ontdooien in de koelkast, droogdeppen en koud houden tot serveren.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
       "wines": [
         {
           "type": "aanbevolen",
@@ -356,7 +347,8 @@
           "druif": "Blend",
           "smaakprofiel": "Zoet-bitter, kruidig, citrus, licht medicinaal, aperitiefachtig",
           "omschrijving": "In Bilbao drinken ze bij de bilbainito traditioneel een Marianito — een glas rode vermout met ijs, een schijfje sinaasappel en een olijf.",
-          "waarom_werkt_dit": "De licht zoete, kruidige bitterheid van rode vermout sluit aan bij de cocktailsaus en de rijke mayo, terwijl de citrusnoten de garnalen opfrissen. Het is geen wijnkeuze maar een culturele keuze — en dat maakt het authentiek. De bitterheid van de vermout reinigt de mond perfect na elk hapje. Serveer op ijs met een schijfje sinaasappel."
+          "waarom_werkt_dit": "De licht zoete, kruidige bitterheid van rode vermout sluit aan bij de cocktailsaus en de rijke mayo, terwijl de citrusnoten de garnalen opfrissen. Het is geen wijnkeuze maar een culturele keuze — en dat maakt het authentiek. De bitterheid van de vermout reinigt de mond perfect na elk hapje.",
+          "serveertemperatuur": "Serveer op ijs met een schijfje sinaasappel."
         },
         {
           "type": "alternatief",
@@ -364,33 +356,20 @@
           "druif": "Xarel·lo, Macabeo en Parellada",
           "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig",
           "omschrijving": "de fijne bellen en lichte roodfruit spiegelen de cocktailsaus",
-          "waarom_werkt_dit": "De droge mousse maakt vet, zout en krokante korst direct lichter; Xarel·lo geeft bovendien meer Spaanse hartigheid dan een neutrale bubbel. De zilt-frisse lijn respecteert de zoetheid van zeevruchten en maakt olie, mayo of boter schoner."
+          "waarom_werkt_dit": "De droge mousse maakt vet, zout en krokante korst direct lichter; Xarel·lo geeft bovendien meer Spaanse hartigheid dan een neutrale bubbel. De zilt-frisse lijn respecteert de zoetheid van zeevruchten en maakt olie, mayo of boter schoner.",
+          "serveertemperatuur": "Serveer op 6–8°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
           "druif": "Albariño",
           "smaakprofiel": "Droog, fris, citrus, witte perzik, zilt-mineraal, levendig",
           "omschrijving": "Een Atlantische witte wijn met veel citrus, zilte mineraliteit en voldoende fruit.",
-          "waarom_werkt_dit": "De ziltige Atlantische frisheid van Albariño spiegelt zeevruchten en citroen. De lichte perziktoon complementeert vis en schaaldier zonder te overstemmen. De hoge zuren houden olie, mayo en roomsauzen strak."
+          "waarom_werkt_dit": "De ziltige Atlantische frisheid van Albariño spiegelt zeevruchten en citroen. De lichte perziktoon complementeert vis en schaaldier zonder te overstemmen. De hoge zuren houden olie, mayo en roomsauzen strak.",
+          "serveertemperatuur": "Serveer op 8–9°C."
         }
       ],
-      "wine": {
-        "naam": "Rode vermout (Marianito)",
-        "druif": "Blend",
-        "toelichting": "In Bilbao drinken ze bij de bilbainito traditioneel een Marianito — een glas rode vermout met ijs, een schijfje sinaasappel en een olijf. De licht zoete, kruidige bitterheid van rode vermout sluit aan bij de cocktailsaus en de rijke mayo, terwijl de citrusnoten de garnalen opfrissen. Het is geen wijnkeuze maar een culturele keuze — en dat maakt het authentiek. De bitterheid van de vermout reinigt de mond perfect na elk hapje. Serveer op ijs met een schijfje sinaasappel.",
-        "alternatief": "Cava Brut Rosé — de fijne bellen en lichte roodfruit spiegelen de cocktailsaus"
-      },
-      "tips_full": [
-        "de mayonaise een dag van tevoren maken — hij wordt ronder en steviger. Bewaar koud en roer kort los voor gebruik.",
-        "Techniek: gebruik een spuitzak met gekarteld mondstuk voor de mayo — dat geeft elk bilbainito een retro maar strak gepresenteerd uiterlijk.",
-        "Presentatie: serveer op een licht bevroren leisteen of marmeren plaat — de kou houdt de garnalen en mayo koel en maakt de presentatie visueel indrukwekkend.",
-        "Variatie: vervang de mayonaise door sriracha-mayo voor een modern Japanse twist, of voeg foreleitjes toe bovenop voor een luxe upgrade.",
-        "Alternatief: geen verse garnalen? Gebruik diepvriesgarnalen — volledig ontdooien in de koelkast, droogdeppen en koud houden tot serveren.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
-      "chef_tip": "de mayonaise een dag van tevoren maken — hij wordt ronder en steviger. Bewaar koud en roer kort los voor gebruik.\n\nTechniek: gebruik een spuitzak met gekarteld mondstuk voor de mayo — dat geeft elk bilbainito een retro maar strak gepresenteerd uiterlijk.\n\nPresentatie: serveer op een licht bevroren leisteen of marmeren plaat — de kou houdt de garnalen en mayo koel en maakt de presentatie visueel indrukwekkend.\n\nVariatie: vervang de mayonaise door sriracha-mayo voor een modern Japanse twist, of voeg foreleitjes toe bovenop voor een luxe upgrade.\n\nAlternatief: geen verse garnalen? Gebruik diepvriesgarnalen — volledig ontdooien in de koelkast, droogdeppen en koud houden tot serveren.\n\nTiming: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.\n\nBalans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
+      "chef_tip": "Vooruitwerken: de mayonaise een dag van tevoren maken — hij wordt ronder en steviger. Bewaar koud en roer kort los voor gebruik.\n\nTechniek: gebruik een spuitzak met gekarteld mondstuk voor de mayo — dat geeft elk bilbainito een retro maar strak gepresenteerd uiterlijk.\n\nDroogdeppen: dep de garnalen na het koken goed droog vóór het opprikken, anders glijdt de mayo sneller weg.\n\nAlternatief: geen verse garnalen? Gebruik diepvriesgarnalen — volledig ontdooien in de koelkast, droogdeppen en koud houden tot serveren."
     },
     {
       "title": "Patatas Bravas — Madrileense stijl",
@@ -2263,7 +2242,7 @@
       "chef_tip": "gebruik een zure appel zoals Granny Smith — houdt beter stand bij het bakken en snijdt door de vettigheid van chorizo en manchego.\n\nTechniek: bak de chorizo in zijn eigen vet — voeg geen extra olie toe. Het rode chorizo-vet dat vrijkomt is de smaakdrager voor de appel.\n\nPresentatie: leg de manchego schuin over de chorizo zodat hij gedeeltelijk smelt — dat geeft een rustieke maar elegante look die de smaken visueel aankondict.\n\nVariatie: voeg een druppel honing toe na het bakken voor een zoet-pittige balans, of bestrooi met gerookt zout voor extra diepte.\n\nAlternatief: geen chorizo? Gebruik morcilla (bloedworst) — de aardsere, zoetere smaak van morcilla met appel is een even klassieke Spaanse combinatie.\n\nRusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.\n\nBalans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
     },
     {
-      "title": "Pintxo de Chistorra met Piquillo, Aioli en Kappertjes",
+      "title": "Pintxo de Chistorra met Piquillo, Knoflookmayonaise en Kappertjes",
       "slug": "chistorra-paprika-aioli-kappertjes",
       "location": "Navarra / Baskenland, Spanje",
       "time": "20 min",
@@ -2271,9 +2250,9 @@
       "difficulty": "Makkelijk",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
-      "image": "/assets/images/chistorra-paprika-aioli-kappertjes.jpg",
+      "image": "/assets/images/pintxo-chistorra-piquillo-aioli-kappertjes.jpg",
       "short_description": "Krokant gebakken chistorra met zoete piquillopepers, snelle knoflookmayonaise en zilte kappertjes op geroosterd stokbrood.",
-      "description": "Chistorra — of txistorra — is een dunne, kruidige worst die sterk verbonden is met Navarra en Baskenland. In deze HetProeven-pintxo combineren we hem met piquillo, knoflookmayonaise en kappertjes.",
+      "description": "Chistorra — of txistorra — is een dunne, kruidige worst die sterk verbonden is met Navarra en Baskenland. In deze HetProeven-pintxo combineren we hem met piquillo, knoflookmayonaise en kappertjes. Deze combinatie is een HetProeven-compositie — geen historisch vastgelegde, enige juiste Bilbao-pintxo.",
       "ingredient_groups": [
         {
           "group_name": "Pintxo",
@@ -2339,7 +2318,7 @@
           "description": "De chistorra wordt in een droge pan gebakken zodat het eigen vet vrijkomt en de worst rondom goed bruint. De zoete, geroosterde piquillo is de zoete tegenhanger van de pittige, vette worst, terwijl de snelle knoflookmayonaise romigheid toevoegt zonder een aparte allioli te hoeven kloppen. De kappertjes zijn hier geen garnering maar een bewuste zilte, zure tegenhanger van het vet — precies de balans die deze pintxo compositie zijn karakter geeft."
         }
       ],
-      "chef_tip": "Vooruitwerken: de chistorra kan een dag van tevoren gesneden en koud bewaard worden.\n\nTechniek: bak de chistorra op hoog vuur en beweeg hem weinig — zo krijg je een mooie bruine, krokante buitenkant zonder hem uit te drogen.\n\nPiquillo en kappertjes: dep beide goed droog voor gebruik, anders wordt het brood snel zompig.\n\nDeze combinatie van piquillo, knoflookmayonaise en kappertjes is een HetProeven-compositie — geen historisch vastgelegde, enige juiste Bilbao-pintxo.\n\nVariatie: geen chistorra? Chorizo fresco of morcilla geven een andere maar even Spaanse smaak.",
+      "chef_tip": "Techniek: bak de chistorra op hoog vuur en beweeg hem weinig — zo krijg je een mooie bruine, krokante buitenkant zonder hem uit te drogen.\n\nDroogdeppen: dep de piquillo en de kappertjes goed droog voor gebruik, anders wordt het brood snel zompig.\n\nBrood pas op het laatst beleggen: rooster het brood pas vlak voor het opbouwen, zodat het krokant blijft.\n\nChistorra laten uitlekken: laat de gebakken chistorra kort uitlekken op keukenpapier voordat je hem op het brood legt, zodat het brood niet zompig wordt.\n\nVariatie: geen chistorra? Chorizo fresco of morcilla geven een andere maar even Spaanse smaak.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -2360,7 +2339,7 @@
           "serveertemperatuur": "Serveer rond 13-14°C."
         },
         {
-          "type": "meest-toegankelijk",
+          "type": "meest toegankelijk",
           "naam": "Cava Brut Nature Rosado Reserva — Penedès, Spanje",
           "druif": "Garnacha, Trepat en/of Pinot Noir",
           "smaakprofiel": "Kurkdroog, aardbei en rode bes, citrus, lichte kruidigheid en fijne mousse.",
@@ -2379,7 +2358,7 @@
       "difficulty": "Makkelijk",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
-      "image": "/assets/images/chistorra-appelcompote-mosterd.jpg",
+      "image": "/assets/images/pintxo-chistorra-appelcompote-honingmosterd-tijm.jpg",
       "short_description": "Geroosterd brood met honingmosterd, warme appelcompote, krokante chistorra en verse tijm.",
       "description": "Geroosterd brood met honingmosterd, gekarameliseerde appelcompote, knapperige chistorra en verse tijm.",
       "ingredient_groups": [
@@ -2448,15 +2427,6 @@
           "description": "rooster brood. Smeer honingmosterd erop. Lepel warme appelcompote erop. Leg chistorra erop. Garneer met verse tijm en serveer direct."
         }
       ],
-      "tips": [
-        "gebruik een zure appel — die houdt beter stand en snijdt door de vettigheid. De appelcompote twee dagen van tevoren maken zodat de smaken samensmelten.",
-        "Techniek: bak de chistorra op hoog vuur en beweeg weinig — karamelisatie aan de buitenkant is het doel. Een gele, niet bruine chistorra is te zacht gebakken.",
-        "Presentatie: serveer in kleine Chinese lepels of op kleine ronde crackers — dat geeft het gerecht een amuse-waardig formaat.",
-        "Variatie: vervang appelcompote door perencompote met kaneel voor een warmer, winters karakter. Of voeg een mespuntje wasabi toe aan de mosterd voor een onverwachte twist.",
-        "Alternatief: geen chistorra? Gebruik verse chorizo fresco — zelfde techniek, iets pittiger van smaak en dikker van textuur.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
       "wines": [
         {
           "type": "aanbevolen",
@@ -2464,7 +2434,8 @@
           "druif": "Gewürztraminer",
           "smaakprofiel": "Aromatisch, lychee, rooswater, gember, specerijachtig, rond",
           "omschrijving": "De licht bloemige, exotische Gewürztraminer is een verrassende maar perfecte partner bij chistorra met appel — de lichte zoetheid van de wijn sluit aan op de appelcompote, de aromatische rozenwater- en lycheetonen geven een verfrissend contrast met het gekruide vlees.",
-          "waarom_werkt_dit": "De lichte rondheid van de wijn tempert de scherpheid van de mosterd. Dit is geen klassieke Spaanse combinatie maar een gastronomische keuze die bewust breekt met de traditie. Serveer goed gekoeld op 9°C."
+          "waarom_werkt_dit": "De lichte rondheid van de wijn tempert de scherpheid van de mosterd. Dit is geen klassieke Spaanse combinatie maar een gastronomische keuze die bewust breekt met de traditie.",
+          "serveertemperatuur": "Serveer goed gekoeld op 9°C."
         },
         {
           "type": "alternatief",
@@ -2472,33 +2443,20 @@
           "druif": "Xarel·lo, Macabeo en Parellada",
           "smaakprofiel": "Droog, fris, fijne mousse, citrus, licht broodachtig",
           "omschrijving": "de droge bellen snijden door het vet en brengen de mosterd in balans",
-          "waarom_werkt_dit": "De droge mousse maakt vet, zout en krokante korst direct lichter; Xarel·lo geeft bovendien meer Spaanse hartigheid dan een neutrale bubbel. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "waarom_werkt_dit": "De droge mousse maakt vet, zout en krokante korst direct lichter; Xarel·lo geeft bovendien meer Spaanse hartigheid dan een neutrale bubbel. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt.",
+          "serveertemperatuur": "Serveer op 6–8°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Moscato d’Asti DOCG — Piëmont, Italië",
           "druif": "Moscato Bianco",
           "smaakprofiel": "Lichtzoet, laag alcohol, druif, bloesem, perzik, fijne mousse",
           "omschrijving": "Een aanvullende pairing die gekozen is op balans, frisheid en doordrinkbaarheid.",
-          "waarom_werkt_dit": "De frisse zuren en lichte body van Moscato Bianco houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen."
+          "waarom_werkt_dit": "De frisse zuren en lichte body van Moscato Bianco houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen.",
+          "serveertemperatuur": "Serveer goed gekoeld op 6–8°C."
         }
       ],
-      "wine": {
-        "naam": "Gewürztraminer",
-        "druif": "Gewürztraminer",
-        "toelichting": "De licht bloemige, exotische Gewürztraminer is een verrassende maar perfecte partner bij chistorra met appel — de lichte zoetheid van de wijn sluit aan op de appelcompote, de aromatische rozenwater- en lycheetonen geven een verfrissend contrast met het gekruide vlees. De lichte rondheid van de wijn tempert de scherpheid van de mosterd. Dit is geen klassieke Spaanse combinatie maar een gastronomische keuze die bewust breekt met de traditie. Serveer goed gekoeld op 9°C.",
-        "alternatief": "Cava Brut Nature — de droge bellen snijden door het vet en brengen de mosterd in balans"
-      },
-      "tips_full": [
-        "gebruik een zure appel — die houdt beter stand en snijdt door de vettigheid. De appelcompote twee dagen van tevoren maken zodat de smaken samensmelten.",
-        "Techniek: bak de chistorra op hoog vuur en beweeg weinig — karamelisatie aan de buitenkant is het doel. Een gele, niet bruine chistorra is te zacht gebakken.",
-        "Presentatie: serveer in kleine Chinese lepels of op kleine ronde crackers — dat geeft het gerecht een amuse-waardig formaat.",
-        "Variatie: vervang appelcompote door perencompote met kaneel voor een warmer, winters karakter. Of voeg een mespuntje wasabi toe aan de mosterd voor een onverwachte twist.",
-        "Alternatief: geen chistorra? Gebruik verse chorizo fresco — zelfde techniek, iets pittiger van smaak en dikker van textuur.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
-      "chef_tip": "gebruik een zure appel — die houdt beter stand en snijdt door de vettigheid. De appelcompote twee dagen van tevoren maken zodat de smaken samensmelten.\n\nTechniek: bak de chistorra op hoog vuur en beweeg weinig — karamelisatie aan de buitenkant is het doel. Een gele, niet bruine chistorra is te zacht gebakken.\n\nPresentatie: serveer in kleine Chinese lepels of op kleine ronde crackers — dat geeft het gerecht een amuse-waardig formaat.\n\nVariatie: vervang appelcompote door perencompote met kaneel voor een warmer, winters karakter. Of voeg een mespuntje wasabi toe aan de mosterd voor een onverwachte twist.\n\nAlternatief: geen chistorra? Gebruik verse chorizo fresco — zelfde techniek, iets pittiger van smaak en dikker van textuur.\n\nSnijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.\n\nBalans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
+      "chef_tip": "Mise-en-place: gebruik een zure appel (Granny Smith) — die houdt beter stand en snijdt door de vettigheid. Appelcompote kun je 1–2 dagen vooraf maken; warm licht op of serveer lauwwarm.\n\nTechniek: bak de chistorra op hoog vuur en beweeg weinig — karamelisatie aan de buitenkant is het doel. Een gele, niet bruine chistorra is te zacht gebakken.\n\nBrood: gebruik liever kleine rechthoekjes pan cristal of dun geroosterd zuurdesem dan gewoon stokbrood, als je een strakkere pintxo wilt.\n\nVariatie: vervang appelcompote door perencompote met kaneel voor een warmer, winters karakter.\n\nAlternatief: geen chistorra? Gebruik verse chorizo fresco — zelfde techniek, iets pittiger van smaak en dikker van textuur."
     },
     {
       "title": "Avocado-mango tartaartje met rode ui, chili en limoen",
@@ -4259,7 +4217,7 @@
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
-      "image": "/assets/images/bladerdeeg-foie-gras-vijgen.jpg",
+      "image": "/assets/images/bladerdeegbakje-foie-gras-vijgenconfiture-pedro-ximenez.jpg",
       "short_description": "Knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel zoete sherry.",
       "description": "Geïnspireerd op Lhardy, het oudste restaurant van Madrid (1839) — knapperige bladerdeegbakjes gevuld met foie gras mousse, vijgenconfiture en een druppel Pedro Ximénez sherry.",
       "ingredient_groups": [
@@ -4288,16 +4246,16 @@
               "amount": "60 g"
             },
             {
-              "name": "Pedro Ximénez sherry",
-              "amount": "30 ml"
+              "name": "Pedro Ximénez sherry (of Pedro Ximénez-reductie)",
+              "amount": "20 ml"
             },
             {
               "name": "fleur de sel",
               "amount": "snuf"
             },
             {
-              "name": "verse tijmblaadjes",
-              "amount": "15"
+              "name": "kleine verse tijmblaadjes",
+              "amount": "10–15"
             }
           ]
         }
@@ -4317,17 +4275,8 @@
         },
         {
           "action": "Vullen en serveren",
-          "description": "schep een kleine quenelle foie gras in elk bakje. Leg een dot vijgenconfiture erop. Druppel Pedro Ximénez erover. Bestrooi met fleur de sel en tijmblaadjes. Serveer direct."
+          "description": "Schep een kleine quenelle foie gras in elk bakje. Leg een dot vijgenconfiture erop. Druppel voorzichtig slechts enkele druppels Pedro Ximénez (of Pedro Ximénez-reductie) over elk bakje — te veel maakt het nat en te zoet. Bestrooi met fleur de sel en tijmblaadjes. Serveer direct."
         }
-      ],
-      "tips": [
-        "de bladerdeeg-bakjes een dag van tevoren maken en op kamertemperatuur bewaren in een luchtdichte doos. Vul pas vlak voor serveren zodat het deeg krokant blijft.",
-        "Techniek: foie gras moet zo koud mogelijk zijn — snijd direct uit de koelkast. Gebruik een dun, vochtig mes voor schone snijvlakken zonder scheuren.",
-        "Presentatie: leg een klein blaadje microkers of waterkers bovenop als finishing — het groene accent geeft visueel contrast bij de goudgele foie gras.",
-        "Variatie: vervang vijgencompote door truffelgelei of porto-reductie voor een ander luxe karakter, of gebruik peer in plaats van vijg voor een frissere, lichtere combinatie.",
-        "Alternatief: geen foie gras? Gebruik parfait de volaille (kippenlever parfait) — minder luxe maar even romig en elegant bij vijg en bladerdeeg.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
       ],
       "wines": [
         {
@@ -4336,7 +4285,8 @@
           "druif": "Sémillon, Sauvignon Blanc, Muscadelle",
           "smaakprofiel": "Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen",
           "omschrijving": "De klassieke combinatie: foie gras en Sauternes.",
-          "waarom_werkt_dit": "De honingzoete, geconcentreerde Sauternes — gemaakt van druiven aangetast door edele rotting — heeft tonen van abrikoos, mango, rozijn en een lichte botrytistoon die direct resoneert met de rijke vettigheid van de foie gras. De zoete zuurgraad van de wijn snijdt door het vet terwijl de zoetheid de vijgencompote spiegelt. Dit is een van de meest klassieke en bewezen wijn-spijscombinaties ter wereld. Serveer gekoeld op 10°C in een klein wijnglas."
+          "waarom_werkt_dit": "De honingzoete, geconcentreerde Sauternes — gemaakt van druiven aangetast door edele rotting — heeft tonen van abrikoos, mango, rozijn en een lichte botrytistoon die direct resoneert met de rijke vettigheid van de foie gras. De zoete zuurgraad van de wijn snijdt door het vet terwijl de zoetheid de vijgencompote spiegelt. Dit is een van de meest klassieke en bewezen wijn-spijscombinaties ter wereld.",
+          "serveertemperatuur": "Serveer gekoeld op 10°C in een klein wijnglas."
         },
         {
           "type": "alternatief",
@@ -4344,33 +4294,20 @@
           "druif": "Petit Manseng en Gros Manseng",
           "smaakprofiel": "Zoet tot halfzoet, tropisch fruit, honing, hoge zuren",
           "omschrijving": "minder zoet dan Sauternes maar even complex, werkt als subtielere begeleider",
-          "waarom_werkt_dit": "Biedt meer Petit Manseng en Gros Manseng-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
+          "waarom_werkt_dit": "Biedt meer Petit Manseng en Gros Manseng-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht.",
+          "serveertemperatuur": "Serveer gekoeld op 8–10°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Coteaux du Layon — Loire, Frankrijk",
           "druif": "Chenin Blanc",
           "smaakprofiel": "Zoet maar fris, honing, abrikoos, kweepeer, hoge zuren",
           "omschrijving": "Een klassieke edelzoete Chenin die foie gras en vijg veel natuurlijker draagt dan droge bubbels.",
-          "waarom_werkt_dit": "De zoetheid sluit aan op vijgenconfiture en foie gras, terwijl Chenin-zuren het mondgevoel schoon houden. Minder luid dan Sauternes, eleganter bij kleine hapjes."
+          "waarom_werkt_dit": "De zoetheid sluit aan op vijgenconfiture en foie gras, terwijl Chenin-zuren het mondgevoel schoon houden. Minder luid dan Sauternes, eleganter bij kleine hapjes.",
+          "serveertemperatuur": "Serveer gekoeld op 9–11°C."
         }
       ],
-      "wine": {
-        "naam": "Sauternes",
-        "druif": "Sémillon, Sauvignon Blanc, Muscadelle",
-        "toelichting": "De honingzoete, geconcentreerde Sauternes — gemaakt van druiven aangetast door edele rotting — heeft tonen van abrikoos, mango, rozijn en een lichte botrytistoon die direct resoneert met de rijke vettigheid van de foie gras. De zoete zuurgraad van de wijn snijdt door het vet terwijl de zoetheid de vijgencompote spiegelt. Dit is een van de meest klassieke en bewezen wijn-spijscombinaties ter wereld. Serveer gekoeld op 10°C in een klein wijnglas.",
-        "alternatief": "Jurançon Moelleux — Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen; Coteaux du Layon — Loire, Frankrijk — Zoet maar fris, honing, abrikoos, kweepeer, hoge zuren"
-      },
-      "tips_full": [
-        "de bladerdeeg-bakjes een dag van tevoren maken en op kamertemperatuur bewaren in een luchtdichte doos. Vul pas vlak voor serveren zodat het deeg krokant blijft.",
-        "Techniek: foie gras moet zo koud mogelijk zijn — snijd direct uit de koelkast. Gebruik een dun, vochtig mes voor schone snijvlakken zonder scheuren.",
-        "Presentatie: leg een klein blaadje microkers of waterkers bovenop als finishing — het groene accent geeft visueel contrast bij de goudgele foie gras.",
-        "Variatie: vervang vijgencompote door truffelgelei of porto-reductie voor een ander luxe karakter, of gebruik peer in plaats van vijg voor een frissere, lichtere combinatie.",
-        "Alternatief: geen foie gras? Gebruik parfait de volaille (kippenlever parfait) — minder luxe maar even romig en elegant bij vijg en bladerdeeg.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
-      "chef_tip": "de bladerdeeg-bakjes een dag van tevoren maken en op kamertemperatuur bewaren in een luchtdichte doos. Vul pas vlak voor serveren zodat het deeg krokant blijft.\n\nTechniek: foie gras moet zo koud mogelijk zijn — snijd direct uit de koelkast. Gebruik een dun, vochtig mes voor schone snijvlakken zonder scheuren.\n\nPresentatie: leg een klein blaadje microkers of waterkers bovenop als finishing — het groene accent geeft visueel contrast bij de goudgele foie gras.\n\nVariatie: vervang vijgencompote door truffelgelei of porto-reductie voor een ander luxe karakter, of gebruik peer in plaats van vijg voor een frissere, lichtere combinatie.\n\nAlternatief: geen foie gras? Gebruik parfait de volaille (kippenlever parfait) — minder luxe maar even romig en elegant bij vijg en bladerdeeg.\n\nSnijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.\n\nBalans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
+      "chef_tip": "Vooruitwerken: de bladerdeeg-bakjes kunnen een dag vooraf gebakken worden en op kamertemperatuur bewaard in een luchtdichte doos. Bakjes een dag vooraf bakken, maar pas vlak voor serveren vullen zodat het deeg krokant blijft.\n\nTerrine: koud snijden met een dun, warm/vochtig mes voor schone snijvlakken zonder scheuren.\n\nMousse: koud opspuiten of quenelleren in plaats van snijden.\n\nVariatie: vervang vijgenconfiture door truffelgelei of porto-reductie voor een ander luxe karakter, of gebruik peer in plaats van vijg voor een frissere, lichtere combinatie.\n\nAlternatief: geen foie gras? Gebruik parfait de volaille (kippenlever parfait) — minder luxe maar even romig en elegant bij vijg en bladerdeeg."
     },
     {
       "title": "Tosta met gegrilde aubergine, courgette en paprika met koriandersaus",
@@ -6337,7 +6274,7 @@
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "vis-zeevruchten",
-      "image": "/assets/images/pepito-valenciano-tonijn.jpg",
+      "image": "/assets/images/pepito-valenciano-tonijn-tomaat.jpg",
       "short_description": "Klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant.",
       "description": "Een typisch Valenciaans tapasgerecht — klein broodje gevuld met tonijn en tomaat, dichtgevouwen en gefrituurd tot goudbruin en krokant van buiten, zacht en vol van smaak van binnen.",
       "ingredient_groups": [
@@ -6358,7 +6295,7 @@
               "amount": "200 g"
             },
             {
-              "name": "rijpe tomaten, fijn gehakt",
+              "name": "rijpe tomaten, ontpit en goed uitgelekt, fijn gehakt",
               "amount": "2"
             },
             {
@@ -6404,25 +6341,16 @@
         },
         {
           "action": "Vul de broodjes",
-          "description": "snijd de broodjes open maar laat één kant vast. Vul elk broodje royaal met de tonijnvulling. Druk stevig dicht."
+          "description": "Snijd de broodjes open maar laat één kant vast. Vul elk broodje royaal met de tonijnvulling en druk stevig dicht, zodat er tijdens het frituren niets uitloopt."
         },
         {
           "action": "Paneren en frituren",
-          "description": "wentel elk gevuld broodje door bloem, dan door losgeklopt ei. Frituur op 180°C 2-3 minuten per kant tot goudbruin en krokant."
+          "description": "Wentel elk gevuld broodje door bloem, dan door losgeklopt ei. Verhit de olie tot 170–175°C — op deze temperatuur houd je het frituren goed onder controle. Frituur eerst met de naad (seam-side) naar beneden, daarna de andere kanten, 2–3 minuten per kant tot goudbruin en krokant."
         },
         {
           "action": "Serveer",
           "description": "serveer direct met partjes citroen."
         }
-      ],
-      "tips": [
-        "gebruik tonijn op olijfolie — dat geeft een rijkere smaak. Druk de broodjes goed plat voor het grillen zodat alle kanten het grilloppervlak raken.",
-        "Techniek: grill het brood op een heel hete droge grillpan — de roostertekens zijn niet alleen decoratief maar geven ook een licht gerookte smaak die de tonijn aanvult.",
-        "Presentatie: snijd het pepito schuin door zodat het kleurrijke interieur zichtbaar is — leg beide helften naast elkaar met het snijvlak naar boven.",
-        "Variatie: voeg geroosterde rode paprika toe aan de tonijnmix voor extra kleur en zoetheid, of leg een plak manchego erin voor extra hartige diepte.",
-        "Alternatief: geen Valenciaans broodje? Gebruik een stevig ciabatta — geeft dezelfde knapperige korst en luchtige binnenkant die het pepito zijn charme geeft.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
       ],
       "wines": [
         {
@@ -6431,7 +6359,8 @@
           "druif": "Merseguera",
           "smaakprofiel": "Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen",
           "omschrijving": "De lokale Merseguera-druif uit Valencia is de authentieke begeleider bij dit typisch Valenciaanse straatbroodje — een lichte, frisse witte wijn met citrustonen en een lichte kruidige bitterheid in de afdronk.",
-          "waarom_werkt_dit": "De Merseguera heeft genoeg frisheid om de tonijn aan te vullen zonder hem te overstemmen, en de lichte mineraliteit sluit aan op de olijfolie. Buiten Valencia zelden te vinden — als alternatief is een frisse Verdejo of Albariño een uitstekende vervanger die dezelfde sfeer oproept. Serveer gekoeld op 9°C."
+          "waarom_werkt_dit": "De Merseguera heeft genoeg frisheid om de tonijn aan te vullen zonder hem te overstemmen, en de lichte mineraliteit sluit aan op de olijfolie. Buiten Valencia zelden te vinden — als alternatief is een frisse Verdejo of Albariño een uitstekende vervanger die dezelfde sfeer oproept.",
+          "serveertemperatuur": "Serveer gekoeld op 9°C."
         },
         {
           "type": "alternatief",
@@ -6439,33 +6368,20 @@
           "druif": "Verdejo",
           "smaakprofiel": "Droog, citrus, groene kruiden, venkel, lichte bitterheid, fris",
           "omschrijving": "frisser en makkelijker verkrijgbaar, werkt uitstekend bij de tonijn en olijven",
-          "waarom_werkt_dit": "De groene kruidigheid, venkeltoon en lichte bitterheid sluiten goed aan op paprika, kruiden, aioli en frisse groentetonen. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "waarom_werkt_dit": "De groene kruidigheid, venkeltoon en lichte bitterheid sluiten goed aan op paprika, kruiden, aioli en frisse groentetonen. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt.",
+          "serveertemperatuur": "Serveer op 8–9°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
           "druif": "Albariño",
           "smaakprofiel": "Droog, fris, citrus, witte perzik, zilt-mineraal, levendig",
           "omschrijving": "Een Atlantische witte wijn met veel citrus, zilte mineraliteit en voldoende fruit.",
-          "waarom_werkt_dit": "De ziltige Atlantische frisheid van Albariño spiegelt zeevruchten en citroen. De lichte perziktoon complementeert vis en schaaldier zonder te overstemmen. De hoge zuren houden olie, mayo en roomsauzen strak."
+          "waarom_werkt_dit": "De ziltige Atlantische frisheid van Albariño spiegelt zeevruchten en citroen. De lichte perziktoon complementeert vis en schaaldier zonder te overstemmen. De hoge zuren houden olie, mayo en roomsauzen strak.",
+          "serveertemperatuur": "Serveer op 8–9°C."
         }
       ],
-      "wine": {
-        "naam": "Merseguera",
-        "druif": "Merseguera",
-        "toelichting": "De lokale Merseguera-druif uit Valencia is de authentieke begeleider bij dit typisch Valenciaanse straatbroodje — een lichte, frisse witte wijn met citrustonen en een lichte kruidige bitterheid in de afdronk. De Merseguera heeft genoeg frisheid om de tonijn aan te vullen zonder hem te overstemmen, en de lichte mineraliteit sluit aan op de olijfolie. Buiten Valencia zelden te vinden — als alternatief is een frisse Verdejo of Albariño een uitstekende vervanger die dezelfde sfeer oproept. Serveer gekoeld op 9°C.",
-        "alternatief": "Rueda Verdejo — frisser en makkelijker verkrijgbaar, werkt uitstekend bij de tonijn en olijven"
-      },
-      "tips_full": [
-        "gebruik tonijn op olijfolie — dat geeft een rijkere smaak. Druk de broodjes goed plat voor het grillen zodat alle kanten het grilloppervlak raken.",
-        "Techniek: grill het brood op een heel hete droge grillpan — de roostertekens zijn niet alleen decoratief maar geven ook een licht gerookte smaak die de tonijn aanvult.",
-        "Presentatie: snijd het pepito schuin door zodat het kleurrijke interieur zichtbaar is — leg beide helften naast elkaar met het snijvlak naar boven.",
-        "Variatie: voeg geroosterde rode paprika toe aan de tonijnmix voor extra kleur en zoetheid, of leg een plak manchego erin voor extra hartige diepte.",
-        "Alternatief: geen Valenciaans broodje? Gebruik een stevig ciabatta — geeft dezelfde knapperige korst en luchtige binnenkant die het pepito zijn charme geeft.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
-      "chef_tip": "gebruik tonijn op olijfolie — dat geeft een rijkere smaak. Druk de broodjes goed plat voor het grillen zodat alle kanten het grilloppervlak raken.\n\nTechniek: grill het brood op een heel hete droge grillpan — de roostertekens zijn niet alleen decoratief maar geven ook een licht gerookte smaak die de tonijn aanvult.\n\nPresentatie: snijd het pepito schuin door zodat het kleurrijke interieur zichtbaar is — leg beide helften naast elkaar met het snijvlak naar boven.\n\nVariatie: voeg geroosterde rode paprika toe aan de tonijnmix voor extra kleur en zoetheid, of leg een plak manchego erin voor extra hartige diepte.\n\nAlternatief: geen Valenciaans broodje? Gebruik een stevig ciabatta — geeft dezelfde knapperige korst en luchtige binnenkant die het pepito zijn charme geeft.\n\nTiming: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.\n\nBalans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
+      "chef_tip": "Vulling: gebruik tonijn op olijfolie, goed uitgelekt — dat geeft een rijkere smaak. Wees voorzichtig met extra zout, de tonijn en mayonaise brengen al voldoende zoutigheid mee.\n\nTomaat: ontpit de tomaat en laat hem goed uitlekken, anders wordt de vulling te nat en loopt het broodje sneller open tijdens het frituren.\n\nBroodjes dichtdrukken: druk de gevulde broodjes na het vullen goed dicht, zodat de vulling niet uitloopt in de olie.\n\nFrituurtechniek: frituur eerst met de naad naar beneden en houd de olie op 170–175°C voor een beter controleerbaar, gelijkmatig resultaat.\n\nPresentatie: snijd het pepito schuin door zodat het kleurrijke interieur zichtbaar is — leg beide helften naast elkaar met het snijvlak naar boven.\n\nVariatie: voeg geroosterde rode paprika toe aan de tonijnmix voor extra kleur en zoetheid, of leg een plak manchego erin voor extra hartige diepte.\n\nAlternatief: geen Valenciaans broodje? Gebruik een stevig ciabatta — geeft dezelfde knapperige korst en luchtige binnenkant die het pepito zijn charme geeft."
     },
     {
       "title": "Alitas y muslitos al ajillo — sticky knoflook-brandy-honing kip",
