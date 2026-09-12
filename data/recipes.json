@@ -441,8 +441,16 @@
       ],
       "steps": [
         {
+          "action": "Aardappelen voorbereiden",
+          "description": "Schil de aardappelen en snijd ze in grove, gelijkmatige blokken van ongeveer 2,5–3 cm. Spoel de aardappelen niet af; laat het oppervlakkige zetmeel zitten voor een krokanter resultaat. Dep ze vóór het frituren wel zeer goed droog."
+        },
+        {
           "action": "Eerste frituurronde",
           "description": "Verhit de olie op 140°C. Frituur de aardappelblokjes 8 minuten — gaar maar nog niet bruin. Schep eruit."
+        },
+        {
+          "action": "Laten rusten en uitdampen",
+          "description": "Laat de aardappelen 5–10 minuten rusten en uitdampen voordat ze voor de tweede keer worden gefrituurd — dat voorkomt dat ze te veel afkoelen of juist te vochtig de hete olie in gaan."
         },
         {
           "action": "Tweede frituurronde",
@@ -486,7 +494,7 @@
           "serveertemperatuur": "Serveer licht gekoeld rond 13-14°C."
         },
         {
-          "type": "meest-toegankelijk",
+          "type": "meest toegankelijk",
           "naam": "Cava Brut Nature Reserva",
           "druif": "Xarel·lo, Macabeo, Parellada",
           "smaakprofiel": "Kurkdroog, citroen, groene appel, amandel, lichte broodkorst en fijne mousse.",
