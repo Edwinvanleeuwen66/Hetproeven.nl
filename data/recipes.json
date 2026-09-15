@@ -79656,6 +79656,210 @@
           "serveertemperatuur": "Serveer op 10–12°C."
         }
       ]
+    },
+    {
+      "title": "Mini vistaco's met zeebaars, mango en avocado-limoencrème",
+      "slug": "mini-vistacos-zeebaars-mango-avocado-limoencreme",
+      "location": "Mexicaans-geïnspireerd, met vis",
+      "time": "25 min voorbereiding + 6–8 min bereiding",
+      "servings": "4 personen (8 mini-taco's, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Mexicaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mini-vistacos-zeebaars-mango-avocado-limoencreme.jpg",
+      "short_description": "Krokant gebakken zeebaars, romige avocado-limoencrème en een piepklein detail van mango, afgemaakt met een dun sliertje sriracha-limoencrème. Strak, fris en de vis blijft hoofdzaak.",
+      "description": "Kleine, zachte taco's van ongeveer 7 cm, gevuld met licht krokant gebakken zeebaars, een romige avocado-limoencrème, een piepklein detail van mango en een dun sliertje sriracha-limoencrème. Strak, precies, en de vis blijft de hoofdrol.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tortilla's",
+          "ingredients": [
+            {
+              "name": "kleine, kant-en-klare zachte bloemtortilla's (of uitgestoken rondjes van 7 cm uit grote tortilla's)",
+              "amount": "8"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de zeebaars",
+          "ingredients": [
+            {
+              "name": "zeebaarsfilet zonder huid",
+              "amount": "300 g"
+            },
+            {
+              "name": "bloem",
+              "amount": "15–20 g"
+            },
+            {
+              "name": "mild paprikapoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "komijnpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "rasp van limoen",
+              "amount": "½"
+            },
+            {
+              "name": "neutrale olie, om in te bakken",
+              "amount": "2 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de avocado-limoencrème",
+          "ingredients": [
+            {
+              "name": "rijpe avocado",
+              "amount": "1"
+            },
+            {
+              "name": "Griekse yoghurt",
+              "amount": "2 el"
+            },
+            {
+              "name": "mayonaise",
+              "amount": "1 el"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
+            },
+            {
+              "name": "water (eventueel)",
+              "amount": "1–2 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de sriracha-limoencrème",
+          "ingredients": [
+            {
+              "name": "Griekse yoghurt of zure room",
+              "amount": "3 el"
+            },
+            {
+              "name": "sriracha",
+              "amount": "1–1½ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "water, om te verdunnen (eventueel)",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "little gem, kleine blaadjes of fijne reepjes",
+              "amount": "1"
+            },
+            {
+              "name": "kleine, rijpe mango, in piepkleine blokjes",
+              "amount": "1"
+            },
+            {
+              "name": "verse koriander",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "limoenpartjes",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Tortilla's verwarmen",
+          "description": "Verwarm de tortilla's vlak voor het serveren 15–20 seconden per kant in een droge pan. Bewaar ze onder een doek zodat ze zacht en buigzaam blijven."
+        },
+        {
+          "action": "Avocado-limoencrème maken",
+          "description": "Blend of prak avocado, yoghurt, mayonaise, limoensap en zout volledig glad. Voeg alleen een klein beetje water toe als de crème te dik is."
+        },
+        {
+          "action": "Sriracha-limoencrème maken",
+          "description": "Meng yoghurt, sriracha, limoensap en zout tot een gladde, dunne saus — dun genoeg voor een fijn lijntje. Voeg zo nodig een beetje water toe."
+        },
+        {
+          "action": "Vis voorbereiden",
+          "description": "Snijd de zeebaars in stukken van ongeveer 2,5x4 cm. Meng met paprikapoeder, komijn, zout, peper en limoenrasp. Strooi de bloem erover en schep voorzichtig om — je wilt een flinterdun laagje, geen beslag. Schud of klop alle overtollige bloem eraf: dat is essentieel voor een licht, krokant korstje in plaats van een dikke, zware korst."
+        },
+        {
+          "action": "Vis bakken — 1½–2½ min",
+          "description": "Verhit de olie in een koekenpan op middelhoog-hoog vuur. Bak de vis 1–1½ minuut aan de eerste zijde en 45–60 seconden aan de tweede, tot de bloem licht goudbruin en krokant is en de vis vanbinnen sappig blijft. Laat kort uitlekken op keukenpapier."
+        },
+        {
+          "action": "Opbouwen",
+          "description": "Verdeel per taco: ½ tl avocado-limoencrème, een klein plukje little gem, één stukje krokante zeebaars, 2–3 mangoblokjes, een dun sliertje sriracha-limoencrème en een paar blaadjes koriander."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer direct met limoenpartjes erbij."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Acht kleine, zachte taco's op een plank of bord: avocadocrème als basis, little gem en de krokante vis als hoofdrolspelers, met alleen een piepklein, herkenbaar detail van mango en een dun sliertje sriracha-limoen — geen lagen die met elkaar concurreren. Limoenpartjes ernaast."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het aantal elementen bewust te beperken, blijft de zeebaars de hoofdrolspeler in plaats van te verdwijnen tussen meerdere sauzen en frisse componenten. Mango als klein, precies detail (2–3 blokjes) in plaats van een volledige laag geeft precies genoeg zoete tegenhang zonder het gerecht te laten omslaan. Sriracha-limoencrème geeft een frisse, directe hitte die beter bij vis en mango past dan de rokerige, Mexicaans-BBQ-achtige toon van chipotle — het opent geen nieuw, zwaarder smaakspoor, maar versterkt de bestaande citrus-frisheid van het gerecht. Eén kruid (koriander) in plaats van een keuze tussen twee voorkomt onnodige ruis."
+        }
+      ],
+      "chef_tip": "Zelf tortilladeeg maken: kan ook, als je iets extra wilt doen — 120 g bloem, ½ tl zout, 20 g neutrale olie, 60–70 ml lauwwarm water, kneden tot soepel deeg, 15–20 minuten laten rusten, uitrollen tot dunne rondjes van 7–8 cm en 30–45 seconden per kant bakken. Voor de meeste gelegenheden is kant-en-klaar echter praktischer en consistenter.\n\nVisvervanging: dorade werkt vrijwel hetzelfde als zeebaars.\n\nVoor extra pit: voeg een paar flinterdunne ringetjes jalapeño toe als losse tip — niet als vaste toevoeging, anders krijg je dubbele hitte naast de sriracha-crème.\n\nExtra crunch: vervang een derde van de bloem op de vis door maizena.\n\nVooruitwerken: de avocado-limoencrème en sriracha-limoencrème kunnen maximaal enkele uren vooraf gemaakt worden — druk plastic folie direct op het oppervlak van de avocadocrème om verkleuring te voorkomen.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Albariño — Rías Baixas, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Fris, zilt en aromatisch, met limoen, witte perzik en citrusbloesem, en een levendige, bijna knapperige zuurgraad.",
+          "omschrijving": "Onze eerste keuze — de combinatie van ziltige frisheid en directe citrustonen maakt Albariño de meest logische partner voor dit strakke, frisse visgerecht.",
+          "waarom_werkt_dit": "De citrustonen van Albariño sluiten direct aan op de vis en de limoen in het gerecht, terwijl de levendige zuren moeiteloos door de romige avocadocrème en de frisse sriracha-hitte heen snijden.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello — Valdeorras, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Iets ronder en zachter dan Albariño, met peer, gele appel en florale tonen.",
+          "omschrijving": "De rondere Spaanse witte voor wie iets zachters wil.",
+          "waarom_werkt_dit": "De zachte structuur sluit goed aan bij de avocadocrème en de zoetheid van de mango.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Verdejo — Rueda, Spanje",
+          "druif": "Verdejo",
+          "smaakprofiel": "Fris en kruidig, met citrus en een licht bittertje in de afdronk.",
+          "omschrijving": "De toegankelijke, overal verkrijgbare Spaanse witte.",
+          "waarom_werkt_dit": "Het lichte bittertje houdt goed stand tegen de sriracha-hitte zonder de vis te overheersen.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        }
+      ]
     }
   ]
 }
