@@ -80497,6 +80497,842 @@
           "serveertemperatuur": "Serveer op 7–9°C."
         }
       ]
+    },
+    {
+      "title": "Mar de Lima — wonton met zeebaars, avocado en limoen-korianderemulsie",
+      "slug": "mar-de-lima-wonton-zeebaars-avocado-limoen-koriander",
+      "location": "Spanje — moderne pintxo-keuken, Nikkei-geïnspireerd",
+      "time": "25 min voorbereiding + 10 min bereiding",
+      "servings": "4 personen (8 wontonkuipjes, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mar-de-lima-wonton-zeebaars-avocado-limoen-koriander.jpg",
+      "short_description": "Krokant wontonkuipje met rauwe zeebaarstartaar, romige avocado en een felgroene, luchtig geklopte limoen-korianderemulsie.",
+      "description": "Vier smaken, elk met precies één functie: een flinterdun, krokant wontonkuipje draagt een frisse zeebaarstartaar, een toef romige avocado en een felgroene limoen-korianderemulsie die je met een simpele staafmixer luchtig klopt. Geen schuim, geen sifon — alleen precisie in het snijwerk en een emulsie die het hele hapje optilt. Modern, fotogeniek en verrassend eenvoudig thuis te maken.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de wontonkuipjes",
+          "ingredients": [
+            {
+              "name": "kleine wontonvelletjes (ca. 8–9 cm)",
+              "amount": "8"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "15 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de zeebaarstartaar",
+          "ingredients": [
+            {
+              "name": "zeer verse zeebaarsfilet, zonder huid en graat",
+              "amount": "220 g"
+            },
+            {
+              "name": "rijpe avocado",
+              "amount": "1"
+            },
+            {
+              "name": "sjalot, zeer fijn gesneden",
+              "amount": "20 g"
+            },
+            {
+              "name": "limoensap",
+              "amount": "10 ml"
+            },
+            {
+              "name": "milde extra vierge olijfolie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "2 g"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de groene limoen-korianderemulsie",
+          "ingredients": [
+            {
+              "name": "verse koriander, alleen blad en fijne steeltjes",
+              "amount": "25 g"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "35 ml"
+            },
+            {
+              "name": "koud water",
+              "amount": "20 ml"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "45 ml"
+            },
+            {
+              "name": "milde olijfolie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "verse gember",
+              "amount": "5 g"
+            },
+            {
+              "name": "zout",
+              "amount": "2 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "rasp van limoen",
+              "amount": "½"
+            },
+            {
+              "name": "kleine korianderblaadjes",
+              "amount": "enkele"
+            },
+            {
+              "name": "extra zelfgemaakte gemberolie (optioneel)",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de wontonkuipjes",
+          "description": "Verwarm de oven voor op 180°C. Bestrijk de wontonvelletjes heel dun met neutrale olie. Pro-tip voor de ultieme restaurant-look: klem de ingevette wontonvelletjes vast tussen twee op elkaar gedrukte mini-muffinvormen. Deze sandwich-methode voorkomt dat het deeg kromtrekt en garandeert een superstrak, symmetrisch kuipje met fraai opstaande punten. Bak 6–8 minuten tot goudbruin en krokant. Haal uit de vorm en laat volledig afkoelen op een rooster."
+        },
+        {
+          "action": "Snijd de zeebaars",
+          "description": "Snijd met een scherp mes in kleine blokjes van ongeveer 4–5 mm. Zorg dat je de vis snijdt en niet plet. Zet koud weg."
+        },
+        {
+          "action": "Bereid de avocado",
+          "description": "Snijd in blokjes van ongeveer hetzelfde formaat als de zeebaars. Meng direct met 5 ml limoensap zodat hij fris blijft en minder snel verkleurt."
+        },
+        {
+          "action": "Maak de tartaar",
+          "description": "Meng vlak voor serveren zeebaars, avocado, sjalot, het resterende limoensap, olijfolie, zout en zwarte peper. Schep voorzichtig om — niet te lang mengen, je wilt herkenbare blokjes vis en avocado behouden."
+        },
+        {
+          "action": "Maak de groene emulsie",
+          "description": "Doe koriander, limoensap, water, neutrale olie, olijfolie, gember en zout in een hoge beker of blender. Blend op hoge snelheid tot felgroen en glad. Zeef door een fijne zeef en proef: fris, groen, licht pittig, maar niet scherp zuur. Is hij te zuur, voeg dan 5–10 ml extra water toe."
+        },
+        {
+          "action": "Maak hem luchtig",
+          "description": "Blend de emulsie vlak voor serveren nog 20–30 seconden met een staafmixer, waarbij je bewust wat lucht inslaat. Zo krijg je een lichte, luchtige structuur zonder sifon of xanthaangom."
+        },
+        {
+          "action": "Vul de kuipjes",
+          "description": "Vul elk wontonkuipje met ongeveer 1 royale eetlepel tartaar. Lepel er 1–2 theelepels groene emulsie over en omheen."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Werk elk kuipje af met een klein beetje limoenrasp en één klein korianderblaadje. Serveer op een strak, minimalistisch bord of plank, de kuipjes rechtop zodat de gelaagdheid — krokant, tartaar, frisgroen — meteen zichtbaar is. Vul pas op het allerlaatste moment, zodat het wontonkuipje zijn crunch behoudt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De wonton geeft een droge, lichte crunch zonder de zwaarte van gefrituurd deeg of brioche. De zeebaars blijft zuiver en delicaat, terwijl avocado net genoeg romigheid toevoegt om de zuren van limoen en koriander op te vangen. De groene emulsie combineert drie functies tegelijk: limoen voor frisheid, koriander voor groen aroma, gember voor warmte. Daardoor heb je geen zware saus nodig — het gerecht blijft klein, fris en scherp gedefinieerd."
+        }
+      ],
+      "chef_tip": "Alternatieve vormpjes: geen mini-muffinvorm? Gebruik kleine ovenvaste espressokopjes of aluminium vormpjes. Druk het wontonvelletje erin en bak op dezelfde manier.\n\nVooruitwerken: de wontonkuipjes kun je enkele uren vooraf bakken en volledig droog bewaren.\n\nAndere vis: geen zeebaars? Dorade werkt vrijwel hetzelfde. Hamachi kan ook, maar wordt voller en vetter van smaak.\n\nEmulsie vooraf maken: maak die maximaal enkele uren vooraf en bewaar zeer koud. Blend vlak voor serveren nog kort op om kleur en luchtigheid terug te krijgen.\n\nExtra gemberaccent: wil je meer warmte, maak dan een simpele gemberolie: 10 g geraspte gember 10 minuten laten trekken in 30 ml neutrale olie, gebruik daarvan enkele druppels per kuipje.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Albariño — Rías Baixas, Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "In de geur limoen, grapefruit, witte perzik, citrusbloesem en een subtiele zilte, zeeluchtachtige toon. In de mond droog, fris en levendig, met hoge zuren, een lichte tot middelvolle body en een minerale, licht ziltige afdronk.",
+          "omschrijving": "Onze eerste keuze — de citrus- en zilte tonen van deze wijn delen vrijwel letterlijk het profiel van de emulsie en de rauwe zeebaars.",
+          "waarom_werkt_dit": "De limoen- en citrusaroma's sluiten direct aan op de groene emulsie, terwijl de zilte frisheid prachtig werkt bij de rauwe zeebaars. De zuren snijden door de avocado zonder dat de wijn te agressief wordt — wijn en gerecht delen hetzelfde frisse, maritieme profiel.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello — Valdeorras, Galicië, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Peer, gele appel, witte perzik en bloesem in de geur, met vaak iets mineraals of licht amandelachtigs. In de mond ronder en zachter dan Albariño, met meer body maar nog voldoende frisse spanning.",
+          "omschrijving": "De keuze voor wie iets meer body en ronding in het glas wil, zonder de frisheid te verliezen.",
+          "waarom_werkt_dit": "De rondere structuur sluit mooi aan op de avocado en de zachte textuur van de zeebaars, terwijl de frisheid limoen en koriander helder houdt.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Verdejo — Rueda, Spanje",
+          "druif": "Verdejo",
+          "smaakprofiel": "Citrus, groene appel, venkel en witte bloemen in de geur, met een licht kruidige ondertoon. Droog, fris en middellicht in de mond, met een karakteristiek klein bittertje in de afdronk.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar, met een groen, kruidig karakter dat goed aansluit bij dit gerecht.",
+          "waarom_werkt_dit": "Het groene, kruidige profiel sluit aan op koriander en gember, de frisse zuren houden de avocado licht en het subtiele bittertje contrasteert mooi met de romige kant van het gerecht.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        }
+      ]
+    },
+    {
+      "title": "Mini krab-tartelet met fluweelzachte schaaldiercrème en crispy nori",
+      "slug": "mini-krab-tartelet-schaaldiercreme-crispy-nori",
+      "location": "Spanje — fine dining tapa-stijl",
+      "time": "20 min voorbereiding + 10 min bereiding",
+      "servings": "4 personen (8 tartelets)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mini-krab-tartelet-schaaldiercreme-crispy-nori.jpg",
+      "short_description": "Krokante mini tarteletjes met een zijdezachte schaaldiercrème, fijne surimidraadjes en een vleugje crispy nori.",
+      "description": "Een eerlijke, betaalbare hommage aan de klassieke krabtartelet: surimi krijgt hier de restaurantbehandeling — sjalot, tomatenpuree, sherry en schaaldierbouillon worden ingekookt tot een zijdezachte crème, terwijl fijne draadjes surimi en een vleugje knapperige nori de illusie compleet maken. Geen dure schaaldieren nodig, wel het effect ervan.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de tartelets",
+          "ingredients": [
+            {
+              "name": "kleine filodeeg- of bladerdeegbakjes",
+              "amount": "8"
+            },
+            {
+              "name": "goede kwaliteit surimi",
+              "amount": "150 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de schaaldiercrème",
+          "ingredients": [
+            {
+              "name": "kleine sjalot, zeer fijn gesneden",
+              "amount": "30 g"
+            },
+            {
+              "name": "roomboter",
+              "amount": "10 g"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 tl"
+            },
+            {
+              "name": "droge sherry of brandy",
+              "amount": "1 tl"
+            },
+            {
+              "name": "sterke garnalen- of schaaldierbouillon (of goede kant-en-klare schaaldierfond)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "slagroom",
+              "amount": "40 ml"
+            },
+            {
+              "name": "citroensap",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper en zout",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "vel nori",
+              "amount": "1"
+            },
+            {
+              "name": "extra vierge olijfolie (optioneel)",
+              "amount": "1 tl"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Verdeel de surimi",
+          "description": "Houd 50 g apart voor de afwerking en trek die met je vingers in fijne, luchtige draadjes. Snijd de overige 100 g grof."
+        },
+        {
+          "action": "Maak de basis",
+          "description": "Smelt de boter op middellaag vuur. Voeg de sjalot toe en laat 3–4 minuten zacht worden zonder te kleuren. Voeg de tomatenpuree toe en bak 30 seconden mee."
+        },
+        {
+          "action": "Voeg de surimi toe",
+          "description": "Doe de 100 g surimi in de pan en bak 30–45 seconden mee. Voeg de sherry of brandy toe en laat vrijwel volledig verdampen."
+        },
+        {
+          "action": "Maak de schaaldiercrème",
+          "description": "Voeg de bouillon toe en laat 5–7 minuten rustig inkoken tot ongeveer tweederde over is. Voeg de room toe en laat nog 2–3 minuten zacht inkoken."
+        },
+        {
+          "action": "Blend en zeef",
+          "description": "Laat de massa 2–3 minuten iets afkoelen en blend volledig glad — met een staafmixer rechtstreeks in de pan gaat dit het soepelst. Duw daarna door een fijne zeef tot een zijdezachte, vrij dikke crème die op een lepel blijft liggen. Pro-tip voor een perfecte toef: zet de crème na het zeven 15–30 minuten in de koelkast. Door de room en boter stijft hij net genoeg op om hem strak en glanzend met een spuitzak in de bakjes te doseren. Breng op smaak met citroensap, witte peper en zout."
+        },
+        {
+          "action": "Maak de nori krokant",
+          "description": "Rooster kort in een droge pan of 1–2 minuten in een oven van 160°C. Laat afkoelen en verkruimel fijn, maar niet tot poeder."
+        },
+        {
+          "action": "Vul de tartelets",
+          "description": "Warm de bakjes kort op volgens de verpakking. Vul elk bakje met ongeveer 1 royale theelepel schaaldiercrème."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg op elke gevulde tartelet een klein plukje surimidraadjes, werk af met een snuifje crispy nori en eventueel een druppel olijfolie. Serveer direct, zodat het bakje krokant blijft en de crème nog lauwwarm is."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Surimi geeft zelf een herkenbare zoet-zilte krabsmaak, maar mist diepte. Die diepte komt uit de combinatie van sjalot, tomatenpuree, schaaldierbouillon en een klein scheutje sherry of brandy. De room maakt de vulling fluweelzacht. De fijne surimidraadjes bovenop geven textuur en visueel contrast, terwijl nori een zilt, umami-randje toevoegt dat het geheel meer richting zee trekt. Het krokante bakje is essentieel tegenover de zachte crème."
+        }
+      ],
+      "chef_tip": "Kreeftenbisque-upgrade: vervang de bouillon door 100 ml kreeftenbisque + 50 ml water voor nog meer schaaldierdiepte.\n\nZelfgemaakte bakjes: voor een écht luxe versie druk je kleine velletjes filodeeg (bestreken met gesmolten boter) in een mini-muffinvorm en bak je op 180°C tot krokant.\n\nVooruitwerken: de crème kun je 1 dag vooraf maken. Bewaar koud en warm vlak voor serveren zachtjes door.\n\nPresentatie: zet de crème na het zeven 15–30 minuten in de koelkast — door de room en boter stijft hij net genoeg op om hem strak en glanzend met een spuitzak in de bakjes te doseren.\n\nServeertip: serveer de tartelets direct na het vullen, zodat het bakje krokant blijft en de crème nog lauwwarm is.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Albariño — Rías Baixas, Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Limoen, witte perzik, citrusbloesem en een licht zilte toon in de geur. Droog, fris en levendig met hoge maar rijpe zuren.",
+          "omschrijving": "Onze eerste keuze — de zilte frisheid van Albariño is de meest natuurlijke partner voor alles wat naar schaaldier en zee smaakt.",
+          "waarom_werkt_dit": "De zilte frisheid sluit direct aan op surimi, nori en schaaldiercrème. De zuren snijden mooi door room en boter.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello — Valdeorras, Galicië, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Peer, gele appel, witte bloemen, met een rondere, elegante, licht romige structuur in de mond.",
+          "omschrijving": "De keuze voor wie de romigheid van de crème liever laat begeleiden dan doorsneden door de wijn.",
+          "waarom_werkt_dit": "De rondere structuur sluit prachtig aan op de fluweelzachte schaaldiercrème, terwijl de minerale frisheid genoeg spanning geeft tegen de romigheid.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Cava Brut — Catalonië, Spanje",
+          "druif": "Macabeo, Xarel·lo, Parellada",
+          "smaakprofiel": "Groene appel, citrus, wit fruit en vaak lichte tonen van broodkorst of amandel. Droog en bruisend.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar, met een fijne mousse die het hapje meteen lichter maakt.",
+          "waarom_werkt_dit": "De fijne bubbels maken de tartelet lichter in de mond en houden het krokante karakter van het deeg levendig.",
+          "serveertemperatuur": "Serveer op 7–8°C."
+        }
+      ]
+    },
+    {
+      "title": "Mari Juli — pintxo met warmgerookte zalm, piparra en krokante prei",
+      "slug": "mari-juli-pintxo-warmgerookte-zalm-piparra-krokante-prei",
+      "location": "San Sebastián, Baskenland",
+      "time": "20 min voorbereiding + 10 min bereiding",
+      "servings": "4 personen (8 pintxos)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/mari-juli-pintxo-warmgerookte-zalm-piparra-krokante-prei.jpg",
+      "short_description": "Pintxo met geroosterd brood, zongedroogde-tomatenaioli, warmgerookte zalm, piparra en een verticaal nestje krokante prei.",
+      "description": "Vier lagen, vier functies: geroosterd brood, een geconcentreerde zongedroogde-tomatenaioli, een kort geblakerde piparra, dikke repen warmgerookte zalm en een verticaal nestje flinterdunne krokante prei. Romig, rokerig, fris-groen en krokant in één hap — een pintxo die opvalt zonder ingewikkeld te worden.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de pintxos",
+          "ingredients": [
+            {
+              "name": "kleine sneetjes pan cristal of dun zuurdesembrood",
+              "amount": "8"
+            },
+            {
+              "name": "warmgerookte zalm, in 8 dikke repen",
+              "amount": "200 g"
+            },
+            {
+              "name": "milde piparra's of kleine milde groene pepers",
+              "amount": "8"
+            },
+            {
+              "name": "kleine prei, alleen het lichte deel",
+              "amount": "1"
+            },
+            {
+              "name": "neutrale olie, om te frituren",
+              "amount": "royaal"
+            },
+            {
+              "name": "cocktailprikkers",
+              "amount": "8"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de zongedroogde-tomatenaioli",
+          "ingredients": [
+            {
+              "name": "mayonaise",
+              "amount": "80 g"
+            },
+            {
+              "name": "zongedroogde tomaat op olie, goed uitgelekt",
+              "amount": "20 g"
+            },
+            {
+              "name": "kleine teen knoflook",
+              "amount": "½"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de aioli",
+          "description": "Blend mayonaise, zongedroogde tomaat, knoflook, citroensap en olijfolie tot een gladde, dikke, smeerbare crème die niet van het brood loopt. Gebruik de knoflook terughoudend — tomaat en zalm moeten leidend blijven."
+        },
+        {
+          "action": "Maak de krokante prei",
+          "description": "Snijd de prei in zeer dunne, bijna haarfijne julienne. Spoel kort en dep heel goed droog. Verhit neutrale olie tot 165–170°C en frituur de prei in kleine porties 30–45 seconden tot licht goudbruin en krokant. Laat uitlekken op keukenpapier. Pro-tip voor maximaal volume: breng de krokante prei direct na het frituren op smaak met fijn tafelzout of poederaart in plaats van grove zeezoutvlokken. Grove vlokken zijn te zwaar en drukken de delicate prei-haartjes direct naar beneden, waardoor het nestje inzakt."
+        },
+        {
+          "action": "Bak de piparra",
+          "description": "Bak in een hete pan met een klein beetje olie 1–2 minuten tot licht geblakerd en zacht. Laat iets afkoelen."
+        },
+        {
+          "action": "Verwarm de zalm licht",
+          "description": "Warmgerookte zalm hoeft niet te garen — bak de repen kort, 20–30 seconden per zijde, alleen om ze lauwwarm te maken en licht kleur te geven."
+        },
+        {
+          "action": "Rooster het brood",
+          "description": "Licht krokant — stevig genoeg om de opbouw te dragen, maar niet keihard."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Smeer per pintxo een dunne laag zongedroogde-tomatenaioli op het brood (ongeveer 1 tl). Leg er één piparra op, en een dikke reep warmgerookte zalm eromheen of ertegenaan. Steek een cocktailprikker eerst door het brood, dan de peper, dan de zalm, zodat de opbouw stevig blijft staan. Kroon af met een klein verticaal nestje krokante prei."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De zongedroogde-tomatenaioli geeft romigheid, umami en een zachte zoet-zure ondertoon. De piparra brengt frisheid en een lichte groene bitterheid, waardoor de vette zalm niet zwaar wordt. De warmgerookte zalm heeft genoeg body om tegen de aioli en peper op te kunnen, terwijl de krokante prei zowel textuur als spectaculaire hoogte geeft."
+        }
+      ],
+      "chef_tip": "Geen piparra?: gebruik een Padrón-peper. Bak kort tot zacht en licht geblakerd.\n\nPrei vooruit maken: kan een paar uur vooraf gefrituurd worden. Bewaar droog en absoluut onafgedekt, anders verliest de prei zijn crunch.\n\nMaximaal volume: breng de krokante prei direct na het frituren op smaak met fijn tafelzout in plaats van grove zeezoutvlokken — grove vlokken drukken de delicate prei-haartjes plat, waardoor het nestje inzakt.\n\nTechniek zalm: warmgerookte zalm hoeft niet te garen; bak de repen slechts 20–30 seconden per zijde om ze lauwwarm te maken en licht kleur te geven, zonder de zalm droog te bakken.\n\nStevige opbouw: steek de cocktailprikker eerst door het brood, dan de piparra en dan pas de zalm — zo blijft de opbouw stevig staan tijdens het serveren.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Txakoli — Baskenland, Spanje",
+          "druif": "Hondarrabi Zuri",
+          "smaakprofiel": "Groene appel, limoen, witte bloemen en een licht zilte, kruidige toon in de geur. Strak droog en soms heel licht sprankelend.",
+          "omschrijving": "Onze eerste keuze — de streekgenoot van deze pintxo, met precies de messcherpe frisheid die het gerecht nodig heeft.",
+          "waarom_werkt_dit": "De hoge frisheid snijdt feilloos door de vette zalm en rijke aioli, terwijl de groene tonen prachtig aansluiten op de piparra-peper.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Albariño — Rías Baixas, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Limoen, witte perzik, citrusbloesem en zilte mineraliteit. Iets ronder dan Txakoli.",
+          "omschrijving": "De keuze voor wie iets meer body en ronding wil zonder de frisheid te verliezen.",
+          "waarom_werkt_dit": "Biedt net wat meer body voor de warmgerookte zalm, terwijl de zuren de zongedroogde tomaat opfrissen.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Cava Brut — Catalonië, Spanje",
+          "druif": "Macabeo, Xarel·lo, Parellada",
+          "smaakprofiel": "Groene appel, citrus, lichte brioche en amandel in de geur. Droog, fris en bruisend.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar, met een fijne mousse die de vette zalm en aioli meteen lichter maakt.",
+          "waarom_werkt_dit": "De mousse maakt de vette zalm en aioli lichter, en het gistprofiel sluit mooi aan op de krokante prei.",
+          "serveertemperatuur": "Serveer op 7–8°C."
+        }
+      ]
+    },
+    {
+      "title": "Tronko de Cerdo — krokante aardappelboomstam met pulled pork",
+      "slug": "tronko-de-cerdo-aardappelboomstam-pulled-pork",
+      "location": "Spanje — wedstrijdtapa-stijl",
+      "time": "45 min actief werk + ca. 2 uur bereiding (pulled pork kan een dag vooraf)",
+      "servings": "4 personen (8 kleine tronko's, 2 per persoon)",
+      "difficulty": "Gevorderd",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/tronko-de-cerdo-aardappelboomstam-pulled-pork.jpg",
+      "short_description": "Krokante aardappel-paprikahuls in de vorm van een boomstam, gevuld met sappige pulled pork en afgewerkt met een donkere rodewijnjus.",
+      "description": "Een flinterdunne, krokante huls van aardappel en gerookt paprikapoeder, gevuld met sappige pulled pork en afgewerkt met een donkere rodewijnjus die in de groeven van de 'schors' trekt. De truc zit volledig in de huls: eerst gecontroleerd voordrogen tot een buigzaam aardappelvel, dan inkerven, rollen om een vorm, en pas daarna krokant afbakken — een kleine Spaanse wedstrijdtapa in boomstamvorm.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de pulled pork",
+          "ingredients": [
+            {
+              "name": "varkensschouder of varkenswangen (carrilleras)",
+              "amount": "500 g"
+            },
+            {
+              "name": "ui, grof gesneden",
+              "amount": "80 g"
+            },
+            {
+              "name": "tenen knoflook, gekneusd",
+              "amount": "2"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "5 g"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "droge rode wijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "kippenbouillon",
+              "amount": "100 ml"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "15 ml"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "5 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de aardappel-paprikahuls",
+          "ingredients": [
+            {
+              "name": "kruimige aardappelen, geschild",
+              "amount": "250 g"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "30 g"
+            },
+            {
+              "name": "eiwit",
+              "amount": "1"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "15 g"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "zoet paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "4 g"
+            },
+            {
+              "name": "water (indien nodig)",
+              "amount": "10–20 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de rodewijnjus",
+          "ingredients": [
+            {
+              "name": "rode wijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "gezeefd braadvocht van de pulled pork",
+              "amount": "100 ml"
+            },
+            {
+              "name": "sjalot, zeer fijn gesneden",
+              "amount": "30 g"
+            },
+            {
+              "name": "koude roomboter",
+              "amount": "10 g"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "2–3 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "extra gerookt paprikapoeder",
+              "amount": "klein beetje"
+            },
+            {
+              "name": "zeer fijne bieslooksprietjes",
+              "amount": "enkele"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Gaar de pulled pork",
+          "description": "Verhit de olijfolie in een braadpan. Kruid het vlees met zout, peper, paprikapoeder en komijn en braad rondom goed aan. Voeg ui en knoflook toe en bak 2–3 minuten mee. Blus af met de rode wijn en laat 2 minuten reduceren. Voeg de bouillon toe, dek af en gaar in een oven van 150°C gedurende 1½–2 uur, tot het vlees uit elkaar valt."
+        },
+        {
+          "action": "Trek het vlees",
+          "description": "Haal het vlees uit de pan en trek het fijn met twee vorken. Zeef het braadvocht en houd 100 ml apart voor de jus. Meng het getrokken vlees met 40–50 ml braadvocht en de sherryazijn — sappig, maar niet nat. Houd warm."
+        },
+        {
+          "action": "Maak de aardappelbasis",
+          "description": "Kook de aardappelen volledig gaar, giet af en laat 2–3 minuten droogstomen in de warme pan. Druk door een pureeknijper of fijne zeef en laat 10 minuten afkoelen. Meng met aardappelzetmeel, eiwit, olijfolie, beide soorten paprikapoeder en zout tot een gladde, stevige, smeerbare massa. Voeg alleen indien nodig een drupje water toe."
+        },
+        {
+          "action": "Smeer de aardappelplaat uit",
+          "description": "Verwarm de oven voor op 125°C. Smeer de massa op een siliconenmat of kwalitatief bakpapier uit tot een volstrekt egale laag van 1–1,5 mm dik."
+        },
+        {
+          "action": "Voordrogen — de cruciale stap",
+          "description": "Bak de plaat 8–12 minuten op 125°C. De plaat is goed wanneer de bovenkant droog aanvoelt, hij makkelijk loskomt van de mat, maar nog volledig buigzaam, elastisch en zacht is."
+        },
+        {
+          "action": "Snijd en maak de schors",
+          "description": "Haal de plaat uit de oven en snijd direct (zolang hij nog warm en flexibel is) rechthoeken van ongeveer 8 × 6 cm. Trek met een vork of de botte kant van een mes lange, onregelmatige groeven over de lengte om de ruwe schorstextuur te imiteren."
+        },
+        {
+          "action": "Rol om de vorm",
+          "description": "Belangrijke waarschuwing: vet metalen cannoli-buisjes of cilinders heel licht in met een neutrale olie met een hoog rookpunt (zoals zonnebloemolie). Gebruik hier absoluut geen olijfolie of boter; dat verbrandt en plakt vast tijdens de tweede bakronde. Wikkel ieder aardappelvel strak om een buisje en druk de overlappende naad voorzichtig dicht."
+        },
+        {
+          "action": "Finale krokante bak",
+          "description": "Verhoog de oven naar 175°C. Bak de rolletjes mét vorm, naad naar beneden, nog 8–12 minuten tot ze hard, krokant en gefixeerd zijn. Laat 1 minuut rusten en schuif de buisjes er voorzichtig af."
+        },
+        {
+          "action": "Maak de rodewijnjus",
+          "description": "Fruit de sjalot kort. Voeg de rode wijn en het braadvocht toe en laat reduceren tot 50–60 ml. Zeef, voeg de sherryazijn toe, haal van het vuur en klop de koude boter erdoor tot de jus glanzend en dik is."
+        },
+        {
+          "action": "Maak het boomstam-effect af",
+          "description": "Strijk met een klein keukenkwastje slechts heel weinig jus gericht in de groeven en langs enkele randen. Bestuif uiterst licht met wat extra gerookt paprikapoeder op de droge delen. Hierdoor ontstaan diepe, donkere schorslijnen en lichtere houtvlakken."
+        },
+        {
+          "action": "Vul de tronko's",
+          "description": "Vul elk buisje met de warme pulled pork met behulp van een kleine lepel of een spuitzak met een brede opening. Laat aan beide uiteinden het vlees mooi zichtbaar zijn."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Leg per persoon 2 tronko's horizontaal op het bord, met maximaal 2 tl rodewijnjus ernaast. Werk af met enkele bieslooksprietjes die fungeren als groen bosmos. Het resultaat moet ogen als een miniatuur boomstammetje van de Spaanse houtskoolgrill."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de plaat eerst zacht voor te drogen op 125°C, krijg je precies de juiste flexibiliteit om de schorstextuur te kerven en te rollen zonder dat de boel scheurt. Pas na de tweede bakronde op 175°C fixeert de huls tot een flinterdunne, breekbare crunch. De pulled pork blijft puur en krachtig, terwijl de rodewijnjus zowel een visuele schaduwfunctie als een diepe umami-kick heeft."
+        }
+      ],
+      "chef_tip": "Vooruitwerken: de pulled pork kan uitstekend een dag van tevoren gemaakt worden — de smaken trekken dan nog verder in.\n\nCruciale stap (voordrogen): de aardappelplaat is pas klaar om te snijden en rollen wanneer de bovenkant droog aanvoelt en hij makkelijk loslaat van de mat, maar nog volledig buigzaam en elastisch is — dat evenwicht bepaalt of de 'schors' straks scheurt of niet.\n\nWaarschuwing bij het rollen: vet de metalen cannoli-buisjes of cilinders alleen in met een neutrale olie met een hoog rookpunt, zoals zonnebloemolie — gebruik nooit olijfolie of boter, want die verbrandt en plakt vast tijdens de tweede bakronde.\n\nPresentatie (boomstam-effect): strijk de rodewijnjus met een klein kwastje gericht in de groeven en langs enkele randen, en bestuif de droge delen heel licht met extra gerookt paprikapoeder — zo ontstaat het contrast tussen donkere schorslijnen en lichtere houtvlakken.\n\nAlternatief: gebruik in plaats van varkensschouder net zo goed varkenswangen (carrilleras) voor een nog malsere, rijkere pulled pork.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Mencía — Bierzo, Spanje",
+          "druif": "Mencía",
+          "smaakprofiel": "Rode kers, braam, viooltjes en zwarte peper in de geur, met een licht rokerig accent. Sappig en fris in de mond met zachte tannines.",
+          "omschrijving": "Onze eerste keuze — vederlicht genoeg om de rijke pulled pork niet te verzwaren, met precies de peperigheid die de gerookte paprika versterkt.",
+          "waarom_werkt_dit": "Mencía heeft de perfecte vederlichte frisheid om de rijke pulled pork en intense jus levendig te houden, terwijl de peperige tonen de gerookte paprika (pimentón) versterken.",
+          "serveertemperatuur": "Serveer op 14–16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Rioja Crianza — Rioja, Spanje",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Zwarte kers, pruim, vanille en lichte toast. Rond en zacht.",
+          "omschrijving": "De keuze voor wie meer hout- en toasttonen wil naast het geroosterde karakter van de aardappelhuls.",
+          "waarom_werkt_dit": "De subtiele hout- en toasttonen van de Crianza grijpen direct ineen met het aardse, geroosterde karakter van de aardappelhuls en de hartige rodewijnjus.",
+          "serveertemperatuur": "Serveer op 15–16°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Garnacha — Calatayud, Spanje",
+          "druif": "Garnacha",
+          "smaakprofiel": "Rijp rood fruit — framboos en pruim — met een kruidig, iets peperig randje in de geur. In de mond sappig, rond en zacht, met milde tannines en een warme, fruitige afdronk.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar, met genoeg fruit en body om de rijke pulled pork moeiteloos te dragen.",
+          "waarom_werkt_dit": "Het rijpe, sappige fruit van Garnacha vangt de umami van de rodewijnjus goed op, terwijl de zachte tannines de textuur van de pulled pork niet overheersen — een gulle, gemakkelijke partner zonder concessies aan de intensiteit van het gerecht.",
+          "serveertemperatuur": "Serveer op 14–15°C."
+        }
+      ]
+    },
+    {
+      "title": "Capricho Castellano — brioche met biefstuk, zongedroogde tomaat en knoflook-chililak",
+      "slug": "capricho-castellano-brioche-biefstuk-knoflook-chililak",
+      "location": "Castilië, Spanje",
+      "time": "20 min voorbereiding + 10 min bereiding",
+      "servings": "4 personen (8 pintxos)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/capricho-castellano-brioche-biefstuk-knoflook-chililak.jpg",
+      "short_description": "Krokant geroosterde brioche met zongedroogde tomaat, mals geschroeide biefstuk en een gloeiend hete knoflook-chililak.",
+      "description": "Veel contrast in een klein formaat: flinterdunne, krokant geroosterde brioche, een geconcentreerde spread van zongedroogde tomaat, mals geschroeide biefstuk en een hete, glanzende knoflook-chililak die er pas op het allerlaatste moment overheen gaat — zodat de brioche krokant blijft en je in één hap warm, pittig en sappig tegelijk proeft.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de brioche",
+          "ingredients": [
+            {
+              "name": "dunne plakjes brioche (ca. 6 × 4 cm)",
+              "amount": "8"
+            },
+            {
+              "name": "roomboter, gesmolten",
+              "amount": "10 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tomatenspread",
+          "ingredients": [
+            {
+              "name": "zongedroogde tomaten op olie, goed uitgelekt",
+              "amount": "60 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "20 g"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "5 ml"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "entrecote (bij voorkeur) of ossenhaas, in één stuk",
+              "amount": "300 g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "fijn zeezout en zwarte peper",
+              "amount": "4 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de knoflook-chililak",
+          "ingredients": [
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "20 g"
+            },
+            {
+              "name": "teen knoflook, zeer fijn gehakt",
+              "amount": "1"
+            },
+            {
+              "name": "chilivlokken",
+              "amount": "½–1 tl"
+            },
+            {
+              "name": "honing",
+              "amount": "10 g"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "10 ml"
+            },
+            {
+              "name": "sterke vleesjus of water",
+              "amount": "10 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de tomatenspread",
+          "description": "Blend de zongedroogde tomaten, olijfolie en sherryazijn tot een grove, smeerbare, rustieke pasta."
+        },
+        {
+          "action": "Rooster de brioche",
+          "description": "Bestrijk de plakjes heel licht met de gesmolten boter. Waarschuwing voor de foto: brioche bevat veel suikers en verbrandt in combinatie met boter oogverblindend snel. Rooster de plakjes op middellaag vuur in een droge pan tot ze goudbruin en krokant zijn, maar blijf er onafgebroken bij staan."
+        },
+        {
+          "action": "Schroei het vlees",
+          "description": "Dep het vlees goed droog en wrijf in met olijfolie, zout en peper. Verhit een zware (gietijzeren) pan tot gloeiend heet. Schroei de entrecote of ossenhaas in zijn geheel rondom dicht (ca. 1–1½ minuut per kant) tot een intense korst ontstaat, maar het vlees vanbinnen nog mooi rosé is. Laat het vlees 3–4 minuten rusten onder aluminiumfolie. Snijd het vlees pas ná het rusten in dunne repen tegen de draad in. Dit garandeert dat alle vleessappen behouden blijven."
+        },
+        {
+          "action": "Maak de knoflook-chililak",
+          "description": "Verwarm de olijfolie op middellaag vuur. Voeg de knoflook toe en bak 20–30 seconden zonder te laten bruinen. Voeg de chilivlokken toe (10 seconden). Voeg honing, sherryazijn, vleesjus en een snufje zout toe. Laat 30–60 seconden bruisen tot de saus glanst en licht bindt."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Smeer per pintxo een dunne laag van de umami-rijke zongedroogde-tomatenspread op de krokante brioche. Leg er 2–3 repen van de malse biefstuk op en lepel er op het allerlaatste moment 1 theelepel van de gloeiend hete knoflook-chililak overheen. Steek er een traditionele cocktailprikker doorheen en garneer optioneel met een plukje bieslook. Serveer direct."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door de entrecote als één grote steak dicht te schroeien en pas na het rusten te trancheren, blijft de biefstuk sappig en mals. De zoete, boterige brioche vangt de krachtige umami van de tomaat perfect op. De chililak brengt de nodige hitte, terwijl de sherryazijn een cruciale rol speelt: deze snijdt door de zoetheid van de honing en zongedroogde tomaat, waardoor het gerecht spannend en strak gedefinieerd blijft."
+        }
+      ],
+      "chef_tip": "Let op bij het roosteren: brioche bevat veel suiker en verbrandt in combinatie met boter razendsnel — rooster op middellaag vuur en blijf er continu bij staan.\n\nRusttijd is cruciaal: snijd het vlees pas ná het rusten (3–4 minuten onder aluminiumfolie) in dunne repen tegen de draad in, zodat alle vleessappen behouden blijven.\n\nOp het laatste moment: lepel de knoflook-chililak pas vlak vóór het serveren over de pintxo, zodat de brioche krokant blijft.\n\nAlternatief: gebruik in plaats van entrecote net zo goed ossenhaas voor een iets magerdere, even malse variant.\n\nVariatie in pittigheid: doseer de chilivlokken naar smaak tussen ½ en 1 theelepel — voor een mildere lak gebruik je de ondergrens, voor meer hitte de bovengrens.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Mencía — Bierzo, Spanje",
+          "druif": "Mencía",
+          "smaakprofiel": "Rode kers, braam en zwarte peper in de neus. Levendig rood fruit en frisse zuren in de mond.",
+          "omschrijving": "Onze eerste keuze — de levendige zuren houden de zoete tomaat en honing precies genoeg in toom.",
+          "waarom_werkt_dit": "De levendige zuren van de Mencía houden de zoete tonen van de tomaat en honing perfect in toom, terwijl het fruitige, peperige profiel naadloos aansluit bij de hitte van de chililak.",
+          "serveertemperatuur": "Serveer op 14–16°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Rioja Crianza — Rioja, Spanje",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Zwarte kers, pruim, gedroogde kruiden, vanille en lichte toast.",
+          "omschrijving": "De keuze voor wie liever hout- en toasttonen naast de boterige brioche legt dan pure frisheid.",
+          "waarom_werkt_dit": "De hout- en toasttonen van een Crianza vloeien schitterend samen met de boterige, geroosterde brioche en de intense korst van de biefstuk.",
+          "serveertemperatuur": "Serveer op 15–16°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Monastrell — Jumilla, Spanje",
+          "druif": "Monastrell",
+          "smaakprofiel": "Rijp donker fruit — braam en pruim — met kruidige, licht peperige tonen en een vleugje rijpe zoetheid in de geur. In de mond stevig en fruitig, met zachte tannines en een warme afdronk.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar, met genoeg kracht en fruit om de chililak en de intense korst van de biefstuk te weerstaan.",
+          "waarom_werkt_dit": "Het robuuste, fruitige karakter van Monastrell houdt goed stand tegen de hitte van de chililak en de honingzoetheid, terwijl de kruidige ondertoon mooi aansluit bij de geschroeide biefstuk.",
+          "serveertemperatuur": "Serveer op 15–16°C."
+        }
+      ]
     }
   ]
 }
