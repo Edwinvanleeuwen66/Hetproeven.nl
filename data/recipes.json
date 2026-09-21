@@ -81333,6 +81333,209 @@
           "serveertemperatuur": "Serveer op 15–16°C."
         }
       ]
+    },
+    {
+      "title": "Pintxo van heek in adobo met piquillocrème",
+      "slug": "pintxo-heek-adobo-piquillocreme",
+      "location": "Andalusië, Spanje",
+      "time": "30 min voorbereiding (waarvan 25 min marineren) + 15 min bereiding",
+      "servings": "4 personen (8 pintxos)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/pintxo-heek-adobo-piquillocreme.jpg",
+      "short_description": "Krokant gefrituurde heek in pittige adobo, op geroosterd brood met een fluweelzachte piquillocrème.",
+      "description": "Krokant gefrituurde heek, kort gemarineerd in een pittige adobo van knoflook, oregano, komijn en sherryazijn, op geroosterd brood met een fluweelzachte piquillocrème. Fris, krokant en uitgesproken zuidelijk, maar nooit zwaar — de dunne panko-korst houdt alles licht.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de heek in adobo",
+          "ingredients": [
+            {
+              "name": "heekfilet, zonder vel en graten",
+              "amount": "280 g"
+            },
+            {
+              "name": "kleine teen knoflook, fijn geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "gedroogde oregano",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gemalen komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zoet gerookt paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "12 ml"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "2 g"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de krokante korst",
+          "ingredients": [
+            {
+              "name": "bloem",
+              "amount": "30 g"
+            },
+            {
+              "name": "ei, losgeklopt",
+              "amount": "1"
+            },
+            {
+              "name": "panko",
+              "amount": "45 g"
+            },
+            {
+              "name": "zonnebloemolie of arachideolie, om te frituren (ca. 1 liter)",
+              "amount": "royaal"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de piquillocrème",
+          "ingredients": [
+            {
+              "name": "uitgelekte piquillopepers",
+              "amount": "100 g"
+            },
+            {
+              "name": "crème fraîche",
+              "amount": "25 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "kleine teen knoflook",
+              "amount": "½"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "3 ml"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "1 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Verder",
+          "ingredients": [
+            {
+              "name": "sneetjes baguette, ca. 1,5 cm dik",
+              "amount": "8"
+            },
+            {
+              "name": "olijfolie, voor het brood",
+              "amount": "20 ml"
+            },
+            {
+              "name": "aioli",
+              "amount": "25 g"
+            },
+            {
+              "name": "fijn geraspte citroenschil",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijngeknipte bieslook",
+              "amount": "1 el"
+            },
+            {
+              "name": "dunne reepjes piquillopeper (apart gehouden vóór het pureren, of extra piquillopepers)",
+              "amount": "8"
+            },
+            {
+              "name": "cocktailprikkers",
+              "amount": "8"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de adobo",
+          "description": "Meng knoflook, oregano, komijn, gerookt paprikapoeder, sherryazijn, olijfolie, zout en zwarte peper. Snijd de heek in 8 stukken van ongeveer 35 g, meng voorzichtig met de adobo en laat 25 minuten afgedekt marineren in de koelkast. Niet veel langer: heek is fijn van structuur en de azijn begint anders de buitenkant van de vis te veranderen."
+        },
+        {
+          "action": "Maak de piquillocrème",
+          "description": "Pureer de piquillopeper met crème fraîche, olijfolie, knoflook, sherryazijn, gerookt paprikapoeder en zout tot volledig glad en glanzend. De crème moet dik genoeg zijn om als een mooie veeg op het brood te blijven liggen. Zet koud weg."
+        },
+        {
+          "action": "Rooster het brood",
+          "description": "Bestrijk de baguette aan beide kanten heel dun met de olijfolie. Rooster circa 2 minuten per kant in een droge koekenpan op middelhoog vuur tot goudbruin en krokant vanbuiten, maar vanbinnen nog iets zacht."
+        },
+        {
+          "action": "Paneer de heek",
+          "description": "Haal de vis uit de marinade en dep voorzichtig droog. Haal ieder stuk eerst dun door de bloem, dan door het ei, en ten slotte door de panko. Druk de panko licht aan en schud losse kruimels eraf — je wilt een dunne krokante schaal, geen dikke schnitzelkorst."
+        },
+        {
+          "action": "Frituur",
+          "description": "Verhit de olie tot 175–180°C. Frituur de stukken heek in kleine porties ongeveer 2½ minuut, afhankelijk van de dikte, tot de korst goudbruin en krokant is en de vis net gaar en sappig blijft. Laat 30–60 seconden uitlekken op keukenpapier of, nog beter, op een rooster."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Verdeel op ieder geroosterd broodje ongeveer 10 g piquillocrème. Leg daarop één stuk krokante heek en breng bovenop ongeveer 3 g aioli aan als een klein stipje — geen sauslaag. Werk ieder pintxo af met één dun reepje piquillopeper, heel weinig citroenrasp en een beetje bieslook. Steek door iedere pintxo een cocktailprikker en serveer onmiddellijk."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De adobo geeft de vrij zachte smaak van heek veel meer karakter zonder de vis te overheersen — vooral oregano, komijn en sherryazijn geven die herkenbare associatie met gemarineerde, gefrituurde vis. De dunne panko-korst voegt juist bij een pintxo veel toe: de vis blijft krokant wanneer hij op het brood en de crème ligt. De piquillocrème vervult twee functies tegelijk — de geroosterde peper sluit aan bij het paprikapoeder uit de marinade, terwijl crème fraîche de saus zacht en fluweelachtig maakt, zodat je geen scherpe of zure paprikasaus krijgt. Het kleine beetje aioli zorgt voor knoflook en romigheid, maar blijft bewust ondergeschikt — de heek blijft het hoofdingrediënt."
+        }
+      ],
+      "chef_tip": "Vooruitwerken: de piquillocrème kun je een dag vooraf maken; bewaar afgesloten in de koelkast.\n\nLichtere, traditionelere uitvoering: haal de vis alleen door bloem en frituur zonder ei en panko.\n\nNóg meer crunch: gebruik grove Japanse panko, maar maal die met je vingers iets fijner voordat je paneert.\n\nLuchtiger korst: paneer de vis pas vlak vóór het frituren door ei en panko.\n\nIets pittiger: een klein stukje verse jalapeño bovenop werkt goed.\n\nAndere vis: dit recept werkt ook uitstekend met kabeljauw, zeeduivel of stevige zeebaars, maar heek is voor deze bereiding het meest verfijnd.\n\nGeen piquillopeper?: gebruik geroosterde rode paprika (bijv. puntpaprika) als alternatief, zowel in de crème als voor de garneerreepjes.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Manzanilla — Sanlúcar de Barrameda, Andalusië, Spanje",
+          "druif": "Palomino Fino",
+          "smaakprofiel": "Droog en heel licht, met aroma's van amandel, zeelucht, kamille en deeg — gerijpt onder flor. In de mond strak, ziltig en vrijwel gewichtloos.",
+          "omschrijving": "Onze eerste keuze — het zoutige, ziltige karakter van Manzanilla is een klassieke, haast onmisbare partner bij gefrituurde vis.",
+          "waarom_werkt_dit": "Dat zoutige karakter is fantastisch bij gefrituurde vis, terwijl de droge structuur het vet van de korst en aioli wegneemt. De subtiele oxidatieve tonen passen bovendien goed bij de geroosterde piquillo.",
+          "serveertemperatuur": "Serveer op 7–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello — Valdeorras, Galicië, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Rijpe citrus, peer, wit steenfruit en soms een lichte minerale of kruidige toon, liefst zonder zwaar hout.",
+          "omschrijving": "De keuze voor wie iets meer body in het glas wil naast de kruidige adobo en piquillo.",
+          "waarom_werkt_dit": "Godello heeft meer body dan een heel frisse Atlantische witte wijn, waardoor hij overeind blijft naast adobo, paprika en aioli, maar blijft verfijnd genoeg voor de heek.",
+          "serveertemperatuur": "Serveer op 9–11°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Verdejo — Rueda, Spanje",
+          "druif": "Verdejo",
+          "smaakprofiel": "Limoen, groene appel, venkel en lichte kruidigheid, fris en droog.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar — kies liever een elegante Verdejo zonder overdadig tropisch fruit of hout.",
+          "waarom_werkt_dit": "De frisse zuren geven contrast aan het frituurwerk, terwijl het typische kruidige karakter goed aansluit bij oregano, komijn en paprika.",
+          "serveertemperatuur": "Serveer op 8–10°C."
+        }
+      ]
     }
   ]
 }
