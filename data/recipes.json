@@ -81536,6 +81536,384 @@
           "serveertemperatuur": "Serveer op 8–10°C."
         }
       ]
+    },
+    {
+      "title": "Garnalensaté met sambal-tomatensaus",
+      "slug": "garnalensate-sambal-tomatensaus",
+      "location": "Indonesië",
+      "time": "45 min voorbereiding (waarvan 30–45 min marineren) + 15 min bereiding",
+      "servings": "4 personen (12 satéprikkers, 3 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/garnalensate-sambal-tomatensaus.jpg",
+      "short_description": "Kort gemarineerde, hard gegrilde garnalensaté met een dik ingekookte sambal-tomatensaus.",
+      "description": "Grote, sappige garnalen, kort gemarineerd in een vijzelfrisse pasta van sereh, geroosterde trassi en gula djawa, dan hard en heet gegrild tot ze net gaar zijn. Ernaast een dik ingekookte sambal-tomatensaus die blijft hangen in plaats van eraf te lopen. Een klassieker uit de Indonesische keuken, maar met precies genoeg techniek om hem restaurantwaardig te maken.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de garnalen",
+          "ingredients": [
+            {
+              "name": "rauwe, gepelde grote garnalen, bij voorkeur maat 20/30",
+              "amount": "300 g"
+            },
+            {
+              "name": "satéprikkers",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "stengel sereh",
+              "amount": "1"
+            },
+            {
+              "name": "teentjes knoflook",
+              "amount": "2"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gula djawa, fijngehakt",
+              "amount": "10 g"
+            },
+            {
+              "name": "trassi",
+              "amount": "5 g"
+            },
+            {
+              "name": "tamarindepasta",
+              "amount": "1 el"
+            },
+            {
+              "name": "neutrale plantaardige olie",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de sambal-tomatensaus",
+          "ingredients": [
+            {
+              "name": "sjalotten",
+              "amount": "4"
+            },
+            {
+              "name": "teentjes knoflook",
+              "amount": "2"
+            },
+            {
+              "name": "neutrale plantaardige olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "rijpe tomaten, circa 250 g",
+              "amount": "2"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1 el"
+            },
+            {
+              "name": "blaadjes djeruk purut",
+              "amount": "3"
+            },
+            {
+              "name": "fijne kristalsuiker",
+              "amount": "2 tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "2 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "lente-ui",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rooster de trassi",
+          "description": "Wikkel de trassi in een stukje aluminiumfolie en rooster 1–2 minuten in een droge pan op middelhoog vuur (of kort boven een vlam), tot het pakketje warm is en er een diepe, geroosterde umami-geur vrijkomt. Dit haalt de rauwe, scherpe kant eraf."
+        },
+        {
+          "action": "Maak de marinade",
+          "description": "Verwijder het harde buitenste blad van de sereh en gebruik alleen het zachte onderste witte gedeelte. Snijd dit zeer fijn. Doe de sereh samen met de knoflook, sambal oelek, gula djawa en de geroosterde trassi in een vijzel en wrijf tot een zo fijn mogelijke pasta. Meng er de tamarindepasta en de olie door."
+        },
+        {
+          "action": "Marineer de garnalen",
+          "description": "Dep de garnalen zorgvuldig droog met keukenpapier. Meng ze goed met de marinade, dek af en laat 30 tot maximaal 45 minuten in de koelkast marineren. Leg ondertussen de houten satéprikkers minimaal 20 minuten in koud water als je de garnalen boven open vuur gaat grillen."
+        },
+        {
+          "action": "Maak de saus",
+          "description": "Snipper de sjalotten zeer fijn en hak de knoflook fijn. Verhit de olie in een kleine pan op middelhoog vuur en fruit sjalot en knoflook 3 minuten zonder ze te laten kleuren. Snijd de tomaten in blokjes van ongeveer 5 mm en voeg ze toe aan de pan. Voeg de sambal oelek, de licht gekneusde djeruk purut-blaadjes, suiker en zout toe."
+        },
+        {
+          "action": "Kook de saus in",
+          "description": "Laat de saus 8–10 minuten zachtjes inkoken tot hij dik, glanzend en bijna compoteachtig is. Haal de pan van het vuur, verwijder de djeruk purut en roer het limoensap erdoor. Proef en voeg alleen indien nodig nog maximaal 1 tl extra limoensap toe."
+        },
+        {
+          "action": "Rijg de garnalen",
+          "description": "Rijg ongeveer 3 grote garnalen per prikker. Steek de prikker steeds tweemaal door iedere garnaal — eenmaal door het dikkere gedeelte van het lijf en eenmaal dichter bij de staart — zodat ze tijdens het grillen mooi op hun plaats blijven."
+        },
+        {
+          "action": "Grill de saté",
+          "description": "Verhit een barbecue of grillpan goed heet. Grill de garnalensaté ongeveer 1½–2 minuten per zijde, afhankelijk van de grootte, tot ze net gaar en stevig zijn maar nog sappig."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Snijd de lente-ui in zeer fijne ringetjes. Verdeel een beetje van de warme sambal-tomatensaus over de garnalensaté en werk af met de lente-ui. Serveer de overige saus apart erbij, zodat iedereen kan bijscheppen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De marinade combineert de diepe umami van geroosterde trassi met het ronde karamelaroma van gula djawa. Tamarinde zorgt voor frisheid zonder de scherpe citruszuurgraad die bij garnalen snel kan overheersen. Sereh en djeruk purut geven het gerecht zijn uitgesproken citrusaroma, terwijl sambal warmte toevoegt zonder dat de garnalen zelf verdwijnen achter de pittigheid. De tomatensaus wordt relatief lang ingekookt, waardoor overtollig vocht verdampt en er een geconcentreerde, lichtzoete saus ontstaat die aan de gegrilde garnalen blijft hangen in plaats van eraf te lopen. Door de garnalen slechts kort te marineren en vervolgens zeer heet en kort te grillen, blijven ze sappig en krijgen ze toch voldoende geroosterde smaak."
+        }
+      ],
+      "chef_tip": "Diepvries is uitstekend: kies liever rauwe garnalen die direct na de vangst zijn ingevroren dan reeds ontdooide garnalen die langere tijd in een koeltoonbank hebben gelegen. Laat ze langzaam in de koelkast ontdooien en dep ze daarna zeer droog, zodat ze daadwerkelijk grillen in plaats van stomen.\n\nIdeale maat: grote garnalen van ongeveer 20/30 geven de elegantste presentatie — gebruik daarvan 3 per prikker.\n\nVooruitwerken: de sambal-tomatensaus kan 1 dag van tevoren. Bewaar afgedekt in de koelkast en verwarm rustig voordat je serveert.\n\nExtra roostersmaak: grill de garnalen de laatste 20 seconden boven zeer hoge directe hitte.\n\nMilder: gebruik 2 tl sambal oelek in de saus in plaats van 1 el.\n\nAndere hoofdcomponent: de marinade werkt ook uitstekend met stevige witte vis, bijvoorbeeld zeebaars of dorade, in blokjes van ongeveer 3 cm.\n\nGeen djeruk purut?: gebruik dan fijngeraspte limoenschil + een klein beetje extra limoensap voor een vergelijkbaar, iets minder complex citrusaroma.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Albariño — Rías Baixas, Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Limoen, witte perzik, citrusbloesem en een licht zilte mineraliteit in de geur. Droog, fris en levendig in de mond, met voldoende rijp fruit om structuur te houden.",
+          "omschrijving": "Onze eerste keuze — de zilte, frisse kant van Albariño is een klassieke partner voor schaal- en schelpdieren, en houdt hier moeiteloos gelijke tred met de sambal-tomatensaus.",
+          "waarom_werkt_dit": "De wijn heeft voldoende frisheid om sambal en tomaat op te vangen, maar genoeg rijp fruit om de gula djawa en gegrilde garnalen te ondersteunen. Vooral de zilte kant van Albariño sluit uitstekend aan bij schaal- en schelpdieren.",
+          "serveertemperatuur": "Serveer op 8–10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Grüner Veltliner — Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Groene appel, citrus, witte peper en een subtiel kruidige ondertoon. Droog en fris, met een herkenbaar peperig randje.",
+          "omschrijving": "De keuze voor wie iets kruidigers in het glas wil naast sereh en djeruk purut. Kies liever een jonge, strak gemaakte versie zonder houtrijping.",
+          "waarom_werkt_dit": "De frisse zuren maken het gerecht lichter, terwijl het peperige karakter mooi aansluit bij sambal, sereh en djeruk purut.",
+          "serveertemperatuur": "Serveer op 8–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Pinot Grigio — Alto Adige, Italië",
+          "druif": "Pinot Grigio",
+          "smaakprofiel": "Peer, appel en lichte citrus in de geur, met een frisse, zachte structuur.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar — minder uitgesproken dan Albariño of Grüner Veltliner, en juist daardoor zeer gemakkelijk bij dit gerecht.",
+          "waarom_werkt_dit": "Het frisse fruit tempert de sambal, terwijl de wijn licht genoeg blijft voor de garnalen.",
+          "serveertemperatuur": "Serveer op 8°C."
+        }
+      ]
+    },
+    {
+      "title": "Saté Maranggi van ossenhaas met lombok-kecapsaus",
+      "slug": "sate-maranggi-ossenhaas-lombok-kecapsaus",
+      "location": "Purwakarta, West-Java, Indonesië",
+      "time": "1 uur voorbereiding (waarvan 45–60 min marineren) + 15 min bereiding",
+      "servings": "4 personen (12 satés)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/sate-maranggi-ossenhaas-lombok-kecapsaus.jpg",
+      "short_description": "Zachte ossenhaas gemarineerd in ketjap, gember en koriander, kort gegrild en geserveerd met een pittige lombok-kecapsaus.",
+      "description": "Sate Maranggi komt oorspronkelijk uit Purwakarta, West-Java: rundvlees gemarineerd in ketjap manis, knoflook en koriander, kort en heet boven houtskool gegrild, en geserveerd met een pittige tomaat-sambal en rauwe rode ui. Deze versie gebruikt ossenhaas in plaats van de gebruikelijke, vettere runderlappen, en een dik ingekookte lombok-kecapsaus in plaats van de traditionele rauwe sambal — een verfijnde, restaurantwaardige uitwerking van hetzelfde idee: zoet, rokerig en met precies genoeg pit.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de ossenhaas",
+          "ingredients": [
+            {
+              "name": "ossenhaas",
+              "amount": "400 g"
+            },
+            {
+              "name": "satéprikkers",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "verse gember",
+              "amount": "20 g"
+            },
+            {
+              "name": "teentjes knoflook",
+              "amount": "2"
+            },
+            {
+              "name": "gemalen koriander",
+              "amount": "1 tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "40 ml"
+            },
+            {
+              "name": "neutrale plantaardige olie",
+              "amount": "20 ml"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de lombok-kecapsaus",
+          "ingredients": [
+            {
+              "name": "kleine ui, circa 80 g",
+              "amount": "1"
+            },
+            {
+              "name": "teentjes knoflook",
+              "amount": "3"
+            },
+            {
+              "name": "rode lomboks",
+              "amount": "2"
+            },
+            {
+              "name": "rode puntpaprika, circa 70 g",
+              "amount": "½"
+            },
+            {
+              "name": "neutrale plantaardige olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1 tl"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "40 ml"
+            },
+            {
+              "name": "water",
+              "amount": "50 ml"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "bawang goreng",
+              "amount": "15 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "rode ui",
+              "amount": "½"
+            },
+            {
+              "name": "limoen",
+              "amount": "1"
+            },
+            {
+              "name": "bawang goreng",
+              "amount": "10 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Snijd de ossenhaas",
+          "description": "Snijd de ossenhaas in blokjes van ongeveer 2,5 cm."
+        },
+        {
+          "action": "Maak de marinade",
+          "description": "Rasp de gember en knoflook fijn. Meng met koriander, zwarte peper, zout, ketjap manis, olie en limoensap."
+        },
+        {
+          "action": "Marineer het vlees",
+          "description": "Meng de ossenhaas met de marinade en laat 45–60 minuten afgedekt in de koelkast marineren. Week de houten satéprikkers minimaal 30 minuten in koud water."
+        },
+        {
+          "action": "Maak de saus",
+          "description": "Snipper de ui fijn en hak knoflook, lombok en puntpaprika fijn. Verhit de olie op middelhoog vuur en fruit ui, knoflook, lombok en puntpaprika 5 minuten zacht. Voeg sambal en zwarte peper toe en bak 30 seconden mee."
+        },
+        {
+          "action": "Blend en kook de saus in",
+          "description": "Doe het gebakken mengsel in de keukenmachine en blend tot een grove, dikke pasta — hij mag nog wat structuur houden. Doe de pasta terug in de pan, voeg de ketjap manis en het water toe en laat 3–4 minuten zacht inkoken tot een dikke, glanzende saus. Voeg de bawang goreng toe en laat nog 1 minuut meekoken. Haal van het vuur en roer het limoensap erdoor."
+        },
+        {
+          "action": "Rijg de satés",
+          "description": "Rijg circa 4 stukken vlees per prikker."
+        },
+        {
+          "action": "Grill de satés",
+          "description": "Verhit de barbecue of grillpan zeer heet. Grill de satés ongeveer 1½ minuut per zijde, afhankelijk van de dikte van het vlees. Laat 2 minuten rusten."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Snijd de rode ui flinterdun. Serveer de saté met de warme lombok-kecapsaus, de rauwe rode ui, bawang goreng en partjes limoen. De saus mag apart erbij of er royaal overheen — de rauwe rode ui en de crunch van bawang goreng moeten zichtbaar en vers bovenop blijven liggen."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Ossenhaas blijft zacht en elegant zolang hij kort en heet wordt gegrild. Ketjap geeft karamellisatie en diepte, terwijl gember en koriander de marinade aromatisch houden. Door de gebakken groenten eerst te blenden en pas daarna de ketjap en het limoensap toe te voegen, krijgt de saus een gladdere, geconcentreerdere basis zonder dat de ketjap te lang meekookt en zijn frisheid verliest. Bawang goreng geeft net genoeg geroosterde uiensmaak en krokante textuur zonder het gerecht zwaar te maken."
+        }
+      ],
+      "chef_tip": "Snijd zelf, gelijkmatig: gebruik bij voorkeur ossenhaas die je zelf in gelijke blokjes snijdt, zodat alles tegelijk gaart.\n\nMeer pit: gebruik 3 lomboks en laat de zaadlijsten zitten.\n\nSaus vooruit maken: kan een dag vooraf worden gemaakt en rustig opnieuw worden opgewarmd.\n\nHoutskool voor extra diepte: op houtskool krijgt de saté extra karakter door de lichte karamellisatie van de ketjap.\n\nRuimte tussen het vlees: laat een paar millimeter ruimte tussen de stukken voor een gelijkmatiger grillresultaat.\n\nRijsttafel-formaat: maak kleinere satés met 3 stukken vlees per prikker.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Lichte Syrah — Noord-Rhône, Frankrijk",
+          "druif": "Syrah",
+          "smaakprofiel": "Peperig, sappig en kruidig in de geur, met zwarte peper, donker fruit en weinig zwaar hout. In de mond fris en levendig, met zachte tannine.",
+          "omschrijving": "Onze eerste keuze — de pepertonen van een lichte Noord-Rhône Syrah sluiten vrijwel naadloos aan bij lombok en koriander.",
+          "waarom_werkt_dit": "De pepertonen sluiten mooi aan bij lombok en koriander, terwijl het donkere fruit goed werkt met de ketjap. De frisheid van een Noord-Rhône Syrah voorkomt dat de zoetheid van de saus de wijn plat laat smaken.",
+          "serveertemperatuur": "Serveer op 14–15°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Pinot Noir — Duitsland of Elzas",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Licht rood fruit, frisse zuren en een subtiele kruidigheid in de geur. Zacht in tannine, elegant van structuur.",
+          "omschrijving": "De keuze voor wie de combinatie liever elegant en licht houdt in plaats van kruidig en peperig.",
+          "waarom_werkt_dit": "De lichte, frisse stijl houdt de combinatie met sambal en ketjap elegant in plaats van zwaar, terwijl er genoeg fruit is om de zoete saus te begeleiden.",
+          "serveertemperatuur": "Serveer op 13–14°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Jonge Garnacha — Spanje",
+          "druif": "Garnacha",
+          "smaakprofiel": "Sappig rood fruit, rijpe kers en aardbei, weinig tannine, liefst zonder duidelijke houtrijping.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar — de meest toegankelijke, foutloze keuze bij deze saté.",
+          "waarom_werkt_dit": "De ronde fruitsmaak past goed bij de zoet-pittige saus en maakt dit de meest toegankelijke, foutloze keuze bij de saté.",
+          "serveertemperatuur": "Serveer op 14°C."
+        }
+      ]
     }
   ]
 }
