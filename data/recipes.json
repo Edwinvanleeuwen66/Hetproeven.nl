@@ -6530,44 +6530,64 @@
       "chef_tip": "Mise-en-place: marineer minstens 2 uur — een nacht geeft het beste resultaat. Dep de kip goed droog voor het bakken voor maximale karamelisatie.\n\nExtra krokant: dep de gemarineerde kip zeer goed droog voordat hij de airfryer ingaat.\n\nNiet te vol: bak bij een kleine airfryer liever in twee rondes zodat hete lucht overal langs kan.\n\nSausdikte: laat de saus inkoken tot hij de achterkant van een lepel dun bedekt; hij dikt nog iets zodra hij om de hete kip gaat.\n\nBrandy-alternatief: geen Brandy de Jerez? Gebruik 50–60 ml droge Oloroso of Amontillado. Droge witte wijn kan ook, maar geeft een lichtere saus. Alcoholvrij: vervang door 40 ml extra kippenbouillon + 1 tl sherryazijn.\n\nVoorbereiden: kip kan een dag vooraf marineren; saus kun je eerder maken tot vóór de boter. Warm op en monteer de boter pas vlak voor serveren.\n\nOvenalternatief: geen airfryer? Bak op rooster bij 220°C, ongeveer 30–35 minuten, halverwege draaien; controleer gaarheid.\n\nPresentatie: serveer in een warme aardewerken cazuela met het glazuur nog glanzend — bestrooi pas op het laatste moment met peterselie zodat het groen vers blijft."
     },
     {
-      "title": "Ensaladilla rusa pintxo — wedstrijdwinnend met smash-techniek",
+      "title": "Ensaladilla Rusa Pintxo met tonijn, ei en geraspte eidooier",
       "slug": "ensaladilla-rusa-pintxo",
       "location": "Madrid",
-      "time": "30 min + 2 uur koelen",
+      "time": "30 min voorbereiding + minimaal 1 uur koelen",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "groente-salade",
       "image": "/assets/images/ensaladilla-rusa-pintxo.jpg",
-      "short_description": "De wedstrijdwinnende ensaladilla rusa — luchtig, zijdezacht en verslavend lekker dankzij de smash-techniek met kookwater.",
-      "description": "De wedstrijdwinnende ensaladilla rusa pintxo uit Madrid — een luchtige zijdezachte emulsie met de smash-techniek, Michelin-mayo en augurkenvocht. Op knapperig brood met geraspt ei en spektaculaire toppings.",
+      "short_description": "Luchtige ensaladilla rusa met tonijn, ei en augurk, geserveerd op krokant brood en afgewerkt met fijn geraspte eidooier.",
+      "description": "Een luchtige Spaanse ensaladilla rusa met aardappel, tonijn, ei, augurk en een frisse mayonaise, geserveerd op krokant brood en afgewerkt met fijn geraspte eidooier. Romig, zilt en fris, maar bewust niet zwaar.",
       "ingredient_groups": [
         {
-          "group_name": "Aardappelbase",
+          "group_name": "Basis",
           "ingredients": [
             {
-              "name": "bloemige aardappelen, in de schil gekookt",
-              "amount": "600 g"
+              "name": "bloemige aardappelen, in de schil",
+              "amount": "500 g"
             },
             {
               "name": "hardgekookte eieren, fijngehakt",
               "amount": "2"
             },
             {
-              "name": "tonijn op olijfolie, uitgelekt",
+              "name": "tonijn op olijfolie, goed uitgelekt",
               "amount": "150 g"
             },
             {
               "name": "fijne doperwten",
-              "amount": "80 g"
+              "amount": "60 g"
+            },
+            {
+              "name": "kleine augurken, zeer fijn gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "sjalot, zeer fijn gesneden",
+              "amount": "20 g"
+            },
+            {
+              "name": "augurkenvocht",
+              "amount": "10 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "witte peper",
+              "amount": "naar smaak"
             }
           ]
         },
         {
-          "group_name": "Michelin-mayo",
+          "group_name": "Zelfgemaakte mayonaise",
           "ingredients": [
             {
-              "name": "eidooier voor de zelfgemaakte mayo",
+              "name": "eidooier",
               "amount": "1"
             },
             {
@@ -6575,37 +6595,16 @@
               "amount": "1 tl"
             },
             {
-              "name": "milde olijfolie",
-              "amount": "150 ml"
-            },
-            {
               "name": "sherryazijn",
               "amount": "1 tl"
             },
             {
-              "name": "kwaliteitsmayonaise als aanvulling",
-              "amount": "100 g"
-            }
-          ]
-        },
-        {
-          "group_name": "Smaakbalans",
-          "ingredients": [
-            {
-              "name": "augurken, zeer fijn gesneden",
-              "amount": "2"
-            },
-            {
-              "name": "kleine ui, zo fijn mogelijk gesneden",
-              "amount": "0.5"
-            },
-            {
-              "name": "augurkenvocht",
-              "amount": "15 ml"
+              "name": "neutrale olie of zeer milde olijfolie",
+              "amount": "120–140 ml"
             },
             {
               "name": "zout",
-              "amount": "1 tl"
+              "amount": "klein snufje"
             }
           ]
         },
@@ -6613,15 +6612,15 @@
           "group_name": "Brood en afwerking",
           "ingredients": [
             {
-              "name": "sneetjes stokbrood",
+              "name": "kleine sneetjes pan cristal of stokbrood",
               "amount": "8"
             },
             {
-              "name": "hardgekookte eidooiers voor het raspen",
+              "name": "hardgekookte eidooiers, fijn geraspt",
               "amount": "2"
             },
             {
-              "name": "olijfolie extra vierge",
+              "name": "extra vierge olijfolie",
               "amount": "15 ml"
             }
           ]
@@ -6629,77 +6628,60 @@
       ],
       "steps": [
         {
-          "action": "Aardappelen koken",
-          "description": "kook de aardappelen in de schil in gezouten water. Bewaar een kopje kookwater. Kook de doperwten kort en koel in ijswater. Schil de aardappelen warm."
+          "action": "Maak de mayonaise",
+          "description": "Klop de eidooier los met de Dijonmosterd en sherryazijn. Voeg de olie in een dun straaltje toe terwijl je continu blijft kloppen, tot een gebonden, klassieke mayonaise ontstaat. Breng op smaak met een klein snufje zout."
         },
         {
-          "action": "Michelin-mayo",
-          "description": "klop eidooier los met mosterd. Voeg olijfolie druppel voor druppel toe terwijl je blijft kloppen tot een emulsie. Voeg sherryazijn toe. Meng met de kwaliteitsmayonaise."
+          "action": "Kook de aardappelen",
+          "description": "Kook de aardappelen in de schil in licht gezouten water tot ze volledig gaar zijn. Giet af. Laat ze niet afkoelen in het kookwater."
         },
         {
-          "action": "Smash-techniek",
-          "description": "prak de warme aardappelen grof met een vork — NIET tot puree, structuur moet blijven! Voeg direct een scheutje warm kookwater toe en een eetlepel mayo. Roer door — dit is de emulsietechniek. Laat volledig afkoelen."
+          "action": "Verwerk de aardappelen",
+          "description": "Schil de aardappelen terwijl ze nog warm zijn en prak ze grof met een vork. Voeg 20–30 ml warm kookwater en 1 eetlepel van de zelfgemaakte mayonaise toe en meng kort door. De aardappel moet smeuïg worden, maar beslist geen puree. Laat daarna volledig afkoelen."
         },
         {
-          "action": "Alles mengen",
-          "description": "voeg fijngehakte eieren, tonijn in grote vlokken, doperwten, augurken, ui en augurkenvocht toe. Voeg mayo beetje bij beetje toe tot bijna smeerbaar. Breng op smaak. Zet minstens 2 uur koud."
+          "action": "Meng de ensaladilla",
+          "description": "Meng door de afgekoelde aardappel het fijngehakte ei, de tonijn in grove vlokken, de doperwten, augurk, sjalot en het augurkenvocht. Voeg daarna de mayonaise beetje bij beetje toe tot de ensaladilla romig en smeuïg is, maar nog duidelijk aardappelstructuur heeft — je hoeft niet alle mayonaise te gebruiken. Breng op smaak met zout en witte peper en laat minimaal 1 uur koelen."
         },
         {
-          "action": "Serveer",
-          "description": "rooster het brood. Schep royaal ensaladilla erop. Rasp de eidooiers als een sneeuwlaag eroverheen. Druppel olijfolie eromheen. Serveer 5 minuten na het uit de koelkast halen."
+          "action": "Rooster het brood en serveer",
+          "description": "Rooster het brood licht krokant. Schep een nette, kleine hoeveelheid ensaladilla op ieder broodje en rasp er fijn eidooier over. Gebruik per pintxo maximaal ongeveer ½ tl extra vierge olijfolie. Serveer niet ijskoud: haal de ensaladilla ongeveer 5–10 minuten voor serveren uit de koelkast."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De warme aardappel neemt een kleine hoeveelheid kookwater en mayonaise beter op dan volledig koude aardappel. Daardoor krijg je een luchtigere, smeuïgere basis zonder dat de salade zwaar wordt. De tonijn geeft zout en umami, augurk en augurkenvocht zorgen voor frisheid en de geraspte eidooier geeft extra rondheid zonder nog meer saus toe te voegen. Door de mayonaise gedoseerd toe te voegen blijft dit een ensaladilla met structuur, geen aardappelpuree met mayo."
         }
       ],
-      "tips": [
-        "het kookwater is het geheime ingrediënt — bindt aardappel en mayo tot perfecte ensaladilla. Maak een dag van tevoren voor intensere smaken.",
-        "Techniek: kook de aardappels in licht gezouten water en laat ze afkoelen in het kookwater — zo absorberen ze de smaak en drogen ze niet uit.",
-        "Presentatie: schep de ensaladilla in een kleine strakke cilinder op de toast met een ijslepel, dan toppings erop — dat geeft een restaurant-waardige presentatie.",
-        "Variatie: voeg garnalen, tonijn of krab toe aan de basis voor een luxere versie, of gebruik een dot wasabi in de mayo voor een moderne Japanse twist.",
-        "Alternatief: geen homemade mayo? Gebruik Hellmann's als basis en voeg een theelepel Dijon, een druppel citroensap en een snuf zout toe — werkt uitstekend.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
+      "chef_tip": "Vooruitwerken: De ensaladilla kan 1 dag vooraf worden gemaakt. Is hij de volgende dag te stevig, roer dan 1–2 tl water of een klein beetje mayo erdoor.\n\nAardappelkeuze: Gebruik bloemige aardappelen. Die nemen de dressing beter op en geven de juiste romige structuur.\n\nGeen zelfgemaakte mayo?: Gebruik 120–140 g goede mayonaise en breng die op smaak met 1 tl Dijon en 1 tl sherryazijn.\n\nLuxere tonijn: Gebruik eventueel bonito del norte of buiktonijn voor een rijkere versie.\n\nPresentatie: Gebruik een kleine ijslepel of serveerring voor een nette, compacte vorm op het brood.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Manzanilla",
+          "naam": "Manzanilla — Sanlúcar de Barrameda",
           "druif": "Palomino Fino",
-          "smaakprofiel": "Kurkdroog, zilt, amandel, flor-karakter, strak",
-          "omschrijving": "In de tapas bars van Madrid en San Sebastián is Manzanilla de klassieke begeleider bij ensaladilla rusa — de droge, nootachtige Sherry snijdt door de rijke mayonaise en reinigt de mond na elke romige hap.",
-          "waarom_werkt_dit": "De lichte jodiumachtige mineraliteit sluit aan op de tonijn of garnalen in de salade. De hoge zuurgraad balanceert de vette mayo zonder de delicate groenten te overstemmen. Manzanilla wordt altijd ijskoud geserveerd bij tapas — dat is niet optioneel maar essentieel. Serveer op 6-7°C."
+          "smaakprofiel": "In de geur kamille, groene appel, amandel, brooddeeg en een uitgesproken zilte zeeluchttoon. Smaak en structuur: kurkdroog, licht, strak en zilt, met flor-karakter en een zeer frisse afdronk.",
+          "omschrijving": "Onze eerste keuze — de droge, zilte Manzanilla uit Sanlúcar de Barrameda is de klassieke begeleider bij ensaladilla rusa.",
+          "waarom_werkt_dit": "De droogte en zilte spanning snijden door de mayonaise en sluiten direct aan op tonijn, augurk en ei. De amandelachtige flor-tonen passen bijzonder mooi bij aardappel en olijfolie.",
+          "serveertemperatuur": "Serveer op 7–8°C."
         },
         {
           "type": "alternatief",
-          "naam": "Fino Sherry",
-          "druif": "Palomino",
-          "smaakprofiel": "Kurkdroog, zilt, amandel, flor-karakter, strak",
-          "omschrijving": "iets voller dan Manzanilla maar even droog en even klassiek bij aardappelsalade",
-          "waarom_werkt_dit": "De kurkdroge, nootachtige flor-toon snijdt door vet en ei en geeft vooral gefrituurde of knoflookrijke hapjes een schone afdronk. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact."
+          "naam": "Fino — Jerez",
+          "druif": "Palomino Fino",
+          "smaakprofiel": "In de geur amandel, groene appel, brooddeeg en lichte gisttonen. Smaak en structuur: kurkdroog, iets voller dan Manzanilla, met frisse zuren en een licht nootachtige afdronk.",
+          "omschrijving": "De keuze voor wie iets meer volume in het glas wil, zonder de droge, frisse lijn van Manzanilla te verliezen.",
+          "waarom_werkt_dit": "Genoeg spanning voor de mayonaise en genoeg body voor aardappel, ei en tonijn, zonder het gerecht zwaar te maken.",
+          "serveertemperatuur": "Serveer op 7–8°C."
         },
         {
-          "type": "alternatief",
-          "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
-          "druif": "Grüner Veltliner",
-          "smaakprofiel": "Droog, fris, witte peper, groene appel, citrus, mineraal",
-          "omschrijving": "Een Oostenrijkse witte wijn met peperige frisheid en gastronomische spanning.",
-          "waarom_werkt_dit": "De typische witte peper en kruidigheid van Grüner Veltliner past bij groente, kruiden en lichte sauzen. De frisse zuren houden het gerecht levendig zonder te overheersen."
+          "type": "meest toegankelijk",
+          "naam": "Albariño — Rías Baixas, Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "In de geur limoen, witte perzik, citrusbloesem en een licht zilte toon. Smaak en structuur: fris, droog en levendig, met duidelijke zuren en een minerale afdronk.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar — de meest toegankelijke, foutloze keuze bij deze ensaladilla.",
+          "waarom_werkt_dit": "De frisse zuren verlichten de romigheid van de ensaladilla, terwijl de zilte kant goed aansluit op tonijn en augurk.",
+          "serveertemperatuur": "Serveer op 8–9°C."
         }
-      ],
-      "wine": {
-        "naam": "Manzanilla",
-        "druif": "Palomino Fino",
-        "toelichting": "In de tapas bars van Madrid en San Sebastián is Manzanilla de klassieke begeleider bij ensaladilla rusa — de droge, nootachtige Sherry snijdt door de rijke mayonaise en reinigt de mond na elke romige hap. De lichte jodiumachtige mineraliteit sluit aan op de tonijn of garnalen in de salade. De hoge zuurgraad balanceert de vette mayo zonder de delicate groenten te overstemmen. Manzanilla wordt altijd ijskoud geserveerd bij tapas — dat is niet optioneel maar essentieel. Serveer op 6-7°C.",
-        "alternatief": "Fino Sherry — iets voller dan Manzanilla maar even droog en even klassiek bij aardappelsalade"
-      },
-      "tips_full": [
-        "het kookwater is het geheime ingrediënt — bindt aardappel en mayo tot perfecte ensaladilla. Maak een dag van tevoren voor intensere smaken.",
-        "Techniek: kook de aardappels in licht gezouten water en laat ze afkoelen in het kookwater — zo absorberen ze de smaak en drogen ze niet uit.",
-        "Presentatie: schep de ensaladilla in een kleine strakke cilinder op de toast met een ijslepel, dan toppings erop — dat geeft een restaurant-waardige presentatie.",
-        "Variatie: voeg garnalen, tonijn of krab toe aan de basis voor een luxere versie, of gebruik een dot wasabi in de mayo voor een moderne Japanse twist.",
-        "Alternatief: geen homemade mayo? Gebruik Hellmann's als basis en voeg een theelepel Dijon, een druppel citroensap en een snuf zout toe — werkt uitstekend.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
-      "chef_tip": "het kookwater is het geheime ingrediënt — bindt aardappel en mayo tot perfecte ensaladilla. Maak een dag van tevoren voor intensere smaken.\n\nTechniek: kook de aardappels in licht gezouten water en laat ze afkoelen in het kookwater — zo absorberen ze de smaak en drogen ze niet uit.\n\nPresentatie: schep de ensaladilla in een kleine strakke cilinder op de toast met een ijslepel, dan toppings erop — dat geeft een restaurant-waardige presentatie.\n\nVariatie: voeg garnalen, tonijn of krab toe aan de basis voor een luxere versie, of gebruik een dot wasabi in de mayo voor een moderne Japanse twist.\n\nAlternatief: geen homemade mayo? Gebruik Hellmann's als basis en voeg een theelepel Dijon, een druppel citroensap en een snuf zout toe — werkt uitstekend.\n\nTiming: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.\n\nBalans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
+      ]
     },
     {
       "title": "Pintxo de Puerro — Baskische preisalade met ham en ei",
