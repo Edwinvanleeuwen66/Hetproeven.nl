@@ -30306,20 +30306,20 @@
       "title": "Ragù alla Bolognese — droog, diep en puur",
       "slug": "ragu-alla-bolognese-droog-diep-puur",
       "location": "Bologna",
-      "time": "30 min actief + 3,5–4 uur sudderen",
+      "time": "30 min voorbereiding + 3–4 uur in de oven + 15 min pasta afmaken",
       "servings": "4–6 personen",
-      "difficulty": "Makkelijk",
+      "difficulty": "Gemiddeld",
       "keuken": "Italiaans",
       "categorie": "pasta-rijst",
       "image": "/assets/images/ragu-alla-bolognese-droog-diep-puur.jpg",
-      "short_description": "Dit is geen tomatensaus met gehakt. Dit is een vlees-ragù mét een vleugje tomaat — geregistreerd door de Accademia Italiana della Cucina. Langzaam gesmolten rundvlees met pancetta, zachte soffritto, witte wijn en volle melk die na twee uur de zuren rondt.",
-      "description": "Dit is geen tomatensaus met gehakt. Dit is een vlees-ragù mét een vleugje tomaat — geregistreerd door de Accademia Italiana della Cucina. Langzaam gesmolten rundvlees met pancetta, zachte soffritto, witte wijn en volle melk die na twee uur de zuren rondt. Vier uur geduld. Eén van de grootste sauzen ter wereld.",
+      "short_description": "Langzaam in de oven gegaarde vlees-ragù van grofgemalen rundvlees en pancetta — diep, geconcentreerd en smeuïg geschept door de tagliatelle.",
+      "description": "Deze ragù alla Bolognese is gebaseerd op de geregistreerde Bolognese traditie van de Accademia Italiana della Cucina, met de oven als betrouwbare hoofdroute. Grofgemalen rundvlees en pancetta smelten urenlang samen met een zachte soffritto, droge wijn en een vleugje tomaat tot een diepe, geconcentreerde saus — geen tomatensaus met gehakt, maar een echte vlees-ragù. Na het sudderen geschept door verse of gedroogde tagliatelle, met een beetje pastawater tot de saus mooi aan de linten hangt.",
       "ingredient_groups": [
         {
           "group_name": "Voor de ragù",
           "ingredients": [
             {
-              "name": "grofgemalen rundvlees (sukade, hals, borst of riblap)",
+              "name": "grofgemalen riblap of runderhals (richtmaat: maalschijf van circa 6 mm)",
               "amount": "500 g"
             },
             {
@@ -30327,7 +30327,7 @@
               "amount": "150 g"
             },
             {
-              "name": "extra vergine olijfolie (2023-update Accademia)",
+              "name": "extra vergine olijfolie",
               "amount": "2 el"
             },
             {
@@ -30357,23 +30357,48 @@
           "group_name": "Voor de vloeistoffen",
           "ingredients": [
             {
-              "name": "droge witte wijn",
+              "name": "droge witte wijn (of droge rode wijn)",
               "amount": "150 ml"
             },
             {
-              "name": "passata + dubbel geconcentreerde tomatenpuree",
-              "amount": "150 g + 1 el"
+              "name": "dubbel geconcentreerde tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "passata",
+              "amount": "150 g"
             },
             {
               "name": "warme runderbouillon",
               "amount": "200–300 ml"
             },
             {
-              "name": "volle melk (na 2 uur sudderen)",
+              "name": "volle melk",
               "amount": "100 ml"
             },
             {
-              "name": "zout, versgemalen zwarte peper, klein snufje nootmuskaat (optioneel)",
+              "name": "zout, versgemalen zwarte peper, snufje nootmuskaat (optioneel)",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de pasta en afwerking",
+          "ingredients": [
+            {
+              "name": "verse tagliatelle",
+              "amount": "500–600 g"
+            },
+            {
+              "name": "gedroogde eiertagliatelle (alternatief voor verse tagliatelle)",
+              "amount": "400–480 g"
+            },
+            {
+              "name": "Parmigiano Reggiano, vers geraspt, plus extra om bij te serveren",
+              "amount": "circa 60 g"
+            },
+            {
+              "name": "zout voor het pastawater",
               "amount": "naar smaak"
             }
           ]
@@ -30381,88 +30406,71 @@
       ],
       "steps": [
         {
-          "action": "Pancetta",
-          "description": "olijfolie + boter + pancetta in zware pan op laag vuur. 8–10 minuten zacht uitbakken — niet krokant. Vet moet vrijkomen."
+          "action": "Kies en bereid het vlees",
+          "description": "Onze voorkeur gaat naar grofgemalen riblap of runderhals, gemalen op een maalschijf van circa 6 mm — een praktische richtmaat, geen officiële Bolognese maat. Grofgemalen vlees geeft een samenhangende ragù met duidelijke vleesstructuur; met het mes fijngehakt vlees geeft iets meer beet. Kleine vleesblokjes zijn geen gelijkwaardige vervanging: die blijven meer losse stukjes stoofvlees. Hak je zelf, koel het vlees dan goed, snijd het in blokjes van circa 3–4 mm en hak het daarna nog even fijner. Gebruik je sukade, verwijder dan eerst de dikke, centrale zeen."
         },
         {
-          "action": "Soffritto",
-          "description": "ui, wortel en bleekselderij toevoegen. 15–20 minuten op laag vuur tot volledig zacht, zoet en glanzig. Niet laten kleuren."
+          "action": "Bak de pancetta",
+          "description": "Verhit de olijfolie en boter in een zware pan op laag vuur. Laat de pancetta rustig uitbakken tot het vet vrijkomt, zonder dat de pancetta krokant wordt."
         },
         {
-          "action": "Vlees",
-          "description": "vuur op hoog. Grofgemalen rundvlees toevoegen. Volledig rul bakken. 10–15 minuten tot vocht verdampt is en vlees droog, rul en diepbruin. Op smaak met zout, peper en nootmuskaat."
+          "action": "Maak de soffritto",
+          "description": "Voeg de ui, wortel en bleekselderij toe. Laat op laag vuur zacht worden, zonder te kleuren."
         },
         {
-          "action": "Witte wijn",
-          "description": "toevoegen. Alle aanbaksels losroeren. Volledig laten verdampen — ca. 3–4 minuten."
+          "action": "Bak het rundvlees",
+          "description": "Bak het rundvlees apart in twee porties, met zo nodig een beetje van het afgemeten bakvet. Laat per portie eerst het vrijgekomen vocht verdampen en laat daarna pas bruine plekjes ontstaan — niet alle vleesdeeltjes hoeven diepbruin te worden. Breng op smaak met zout, peper en eventueel een klein snufje nootmuskaat."
         },
         {
-          "action": "Tomaat",
-          "description": "tomatenpuree 2 minuten meebakken. Passata toevoegen en roeren."
+          "action": "Blus af en bouw de saus op",
+          "description": "Voeg het gebakken vlees bij de groenten. Blus de vleespan af met de wijn en schraap de aanbaksels los. Laat de wijn inkoken tot de scherpe wijngeur verdwenen is en voeg dit bij de ragù. Bak de tomatenpuree 1–2 minuten mee, voeg daarna de passata en de warme bouillon toe en roer door."
         },
         {
-          "action": "Sudderen",
-          "description": "200 ml warme bouillon toevoegen. Aan de kook. Vuur op allerlaagste stand. Deksel half op de pan. Minimaal 3,5 uur sudderen."
+          "action": "Oven als hoofdroute",
+          "description": "Breng de ragù op het fornuis zacht aan de kook. Zet de pan met gesloten deksel in een voorverwarmde oven op 115°C boven-/onderwarmte. Reken op circa 3–4 uur, maar laat gaarheid leidend zijn: controleer na het eerste uur of de ragù af en toe een rustig belletje geeft. Pruttelt hij helemaal niet, verhoog de oven dan naar 125°C — hij mag nooit stevig koken. Roer ongeveer ieder uur, ook langs bodem en randen, en voeg alleen een scheutje heet water of lichte bouillon toe als de saus te droog wordt. Voeg de melk ongeveer halverwege de bereiding toe. Liever op het fornuis? Laat de ragù dan met dezelfde herkenningspunten zacht sudderen op het allerlaagste vuur, met het deksel half op de pan."
         },
         {
-          "action": "Na 2 uur",
-          "description": "volle melk toevoegen. Roeren en rustig verder koken."
+          "action": "Herken de juiste eindstructuur",
+          "description": "Het vlees moet zacht zijn en de saus geconcentreerd, glanzend en smeuïg — geen waterige plas, maar ook geen droge massa vleeskorrels. Is de ragù na de oven nog te vochtig, laat hem dan zonder deksel op het fornuis rustig inkoken. Is hij te droog, voeg dan een klein scheutje heet water toe."
         },
         {
-          "action": "Laatste 30 minuten",
-          "description": "deksel eraf, vuur iets hoger. Laten inkoken tot vrijwel droog. Proeven en definitief op smaak brengen."
+          "action": "Maak er een pastagerecht van",
+          "description": "Kook de tagliatelle net niet gaar en bewaar wat pastawater. Schep de pasta door de warme ragù en voeg kleine scheutjes pastawater toe tot de saus mooi aan de linten hangt. Werk af met Parmigiano Reggiano naar smaak — geen dikke laag die de ragù overheerst."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door het vlees apart en droog te bakken bouw je echte bruiningssmaak op, zonder dat de groenten verbranden. De oven houdt een constante, lage temperatuur aan waarbij de ragù nauwelijks kookt — dat is waarom het vlees na uren nog zacht is in plaats van droog. Melk halverwege rondt de zuren van wijn en tomaat af zonder de saus zijn structuur te laten verliezen. En omdat de ragù bewust droog en geconcentreerd blijft in plaats van los en waterig, hangt hij aan het einde aan de tagliatelle in plaats van ernaast te blijven liggen."
         }
       ],
-      "tips": [
-        "Dag vooraf maken: altijd beter na een nacht rusten. Smaken verdiepen, textuur wordt ronder. Warm langzaam op met scheutje bouillon.",
-        "Vlees droog bakken: pas wanneer al het vocht verdampt is en vlees echt droog en bruin bakt, bouw je smaak op. Geduldig blijven.",
-        "Melk na 2 uur: vlees heeft dan structuur opgebouwd. Melk rondt de zuren af zonder de saus in de war te sturen.",
-        "Niet te veel tomaat: Bolognese is geen tomatensaus. Passata en concentraat geven kleur en diepte — nooit de hoofdrol.",
-        "Variatie — supermarktgehakt: 350 g rundergehakt + 150 g varkensgehakt als grofgemalen vlees niet beschikbaar is.",
-        "Alternatief voor pancetta: guanciale (rijker) of ongezouten buikspek. Nooit gerookt spek — rooktoon past niet bij de pure smaak.",
-        "Invriezen: uitstekend tot 3 maanden. Maak altijd grote hoeveelheid."
-      ],
+      "chef_tip": "Vlees en maling: Onze voorkeur is grofgemalen riblap of runderhals op een maalschijf van circa 6 mm, bij de slager te bestellen. Hak je zelf, dan geeft dat net iets meer beet. Gewoon rundergehakt is een toegankelijk alternatief, maar kies liever niet voor extra mager gehakt — het vet geeft smaak en voorkomt dat de ragù droog wordt.\n\nRund-varkenvariant: Gebruik bijvoorbeeld 300 g rundvlees en 200 g varkensvlees in plaats van 500 g rundvlees, naast de pancetta. Dat geeft een zachtere, rondere ragù.\n\nPancetta vervangen: Ongerookt buikspek kan goed als vervanger. Gerijpte pancetta is zouter, proef dus en pas het zout aan. Gebruik geen gerookt spek — de rooktoon verandert het karakter van de ragù duidelijk.\n\nWitte of rode wijn: Beide kunnen. Witte wijn geeft een subtieler resultaat, rode wijn een steviger wijnaccent. Gebruik in beide gevallen een droge wijn.\n\nMelk: Melk verzacht de zuren van wijn en tomaat en geeft extra ronding. Het is een optionele toevoeging — laat je de melk weg, dan is er geen andere zuivel nodig.\n\nProblemen herstellen: Is de ragù te dun, laat hem dan rustig verder inkoken zonder deksel. Is hij te droog, voeg een scheutje heet water toe. Ligt er een duidelijke overtollige vetlaag boven op, schep dan wat vet af — zonder alle rijkdom weg te halen.\n\nVooraf maken en opwarmen: De ragù is prima een dag vooraf te maken en smaakt er vaak beter door. Laat hem snel terugkoelen, bewaar afgedekt in de koelkast en warm hem rustig, door en door op, zo nodig met een scheutje water.\n\nInvriezen: Vries de saus zonder pasta in porties in. Houd je aan maximaal 3 dagen in de koelkast en maximaal 3 maanden in de vriezer.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Sangiovese di Romagna Superiore",
           "druif": "Sangiovese",
-          "smaakprofiel": "Droog, kers, frisse zuren, kruidig, zachte tannines",
-          "omschrijving": "Droog, sappig, fris, licht kruidig, medium body, kersenfruit.",
-          "waarom_werkt_dit": "De lokale wijn van Emilia-Romagna — de regio van Bologna. Frisse zuren snijden door vet van pancetta en rundvlees. Kersenfruit geeft frisheid naast de lange suddersmaak."
+          "smaakprofiel": "Droog en sappig, met kersenfruit, frisse zuren, lichte kruidigheid en zachte tannines.",
+          "omschrijving": "Onze eerste keuze — de lokale wijn van Emilia-Romagna, de regio van Bologna.",
+          "waarom_werkt_dit": "De frisse zuren snijden door het vet van pancetta en rundvlees, terwijl het kersenfruit frisheid toevoegt naast de lange suddersmaak van de ragù.",
+          "serveertemperatuur": "Serveer op 16–17°C."
         },
         {
           "type": "alternatief",
           "naam": "Chianti Classico DOCG",
           "druif": "Sangiovese",
-          "smaakprofiel": "Droog, kers, tomaatblad, frisse zuren, kruidigheid, fijne tannines",
-          "omschrijving": "Een aanvullende pairing die gekozen is op balans, frisheid en doordrinkbaarheid.",
-          "waarom_werkt_dit": "Biedt meer Sangiovese-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
+          "smaakprofiel": "Droog, met kers, tomatenblad, frisse zuren, kruidigheid en fijne tannines.",
+          "omschrijving": "De keuze voor wie bij dezelfde Sangiovese-stijl net iets meer aromatische diepte en structuur wil.",
+          "waarom_werkt_dit": "Meer Sangiovese-karakter dan de aanbevolen wijn, met voldoende structuur voor het vlees en voldoende frisheid om de tomaat niet te laten overheersen.",
+          "serveertemperatuur": "Serveer op 16–17°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Barbera d'Alba",
           "druif": "Barbera",
-          "smaakprofiel": "Droog, hoge zuren, kers, pruim, laag tannine, sappig",
-          "omschrijving": "Een levendige Italiaanse rode wijn die tomaat, umami en rijkdom fris houdt.",
-          "waarom_werkt_dit": "Barbera heeft hoge zuren en weinig tannine: perfect bij tomaat, vet, kaas en umami omdat de wijn levendig blijft. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "smaakprofiel": "Droog, met hoge zuren, kers, pruim, laag tannine en een sappige afdronk.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar — de meest toegankelijke, foutloze keuze bij deze ragù.",
+          "waarom_werkt_dit": "De hoge zuren en het lage tannine houden tomaat, vet en umami fris, terwijl de wijn voldoende structuur heeft voor het vlees.",
+          "serveertemperatuur": "Serveer op 15–16°C."
         }
-      ],
-      "wine": {
-        "naam": "Sangiovese di Romagna Superiore",
-        "druif": "Sangiovese",
-        "toelichting": "Droog, sappig, fris, licht kruidig, medium body, kersenfruit. De lokale wijn van Emilia-Romagna — de regio van Bologna. Frisse zuren snijden door vet van pancetta en rundvlees. Kersenfruit geeft frisheid naast de lange suddersmaak.",
-        "alternatief": "Chianti Classico DOCG of Barbera d'Alba"
-      },
-      "chef_tip": "NOOT: Ragù alla Bolognese wordt uitsluitend geserveerd met verse tagliatelle. Spaghetti bolognese bestaat niet. Niet in Bologna. Niet in dit receptenboek.",
-      "tips_full": [
-        "Dag vooraf maken: altijd beter na een nacht rusten. Smaken verdiepen, textuur wordt ronder. Warm langzaam op met scheutje bouillon.",
-        "Vlees droog bakken: pas wanneer al het vocht verdampt is en vlees echt droog en bruin bakt, bouw je smaak op. Geduldig blijven.",
-        "Melk na 2 uur: vlees heeft dan structuur opgebouwd. Melk rondt de zuren af zonder de saus in de war te sturen.",
-        "Niet te veel tomaat: Bolognese is geen tomatensaus. Passata en concentraat geven kleur en diepte — nooit de hoofdrol.",
-        "Variatie — supermarktgehakt: 350 g rundergehakt + 150 g varkensgehakt als grofgemalen vlees niet beschikbaar is.",
-        "Alternatief voor pancetta: guanciale (rijker) of ongezouten buikspek. Nooit gerookt spek — rooktoon past niet bij de pure smaak.",
-        "Invriezen: uitstekend tot 3 maanden. Maak altijd grote hoeveelheid."
       ]
     },
     {
@@ -46474,30 +46482,29 @@
       "title": "Transparante Pesto-Ravioli met Parmigiano-Saus — Disfrutar-Stijl",
       "slug": "transparante-pesto-ravioli-parmigiano-saus-disfrutar",
       "location": "Barcelona, Catalonië",
-      "time": "45 min (plus 1 uur invriezen)",
-      "servings": "4 personen (3–4 ravioli pp als amuse)",
+      "time": "35 min voorbereiding + vlak voor serveren samenstellen",
+      "servings": "4 personen (12–16 ravioli als amuse)",
       "difficulty": "Gemiddeld",
       "keuken": "Italiaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/transparante-pesto-ravioli-parmigiano-saus-disfrutar.jpg",
-      "short_description": "Disfrutar's avant-garde techniekdemo: een doorzichtige rijstpapier-ravioli gevuld met bevroren pesto die je in warme Parmigiano-saus dipt — één hap, de pesto explodeert vrij in je mond.",
-      "description": "Disfrutar*** Barcelona — chefs Oriol Castro, Mateu Casañas en Eduard Xatruch, alle drie getraind bij elBulli van Ferran Adrià — werd in 2024 uitgeroepen tot beste restaurant ter wereld. Hun transparante pesto-ravioli is een beroemde technische demonstratie: een doorzichtige verpakking gevuld met basilicum, pijnboompit en Parmigiano. Je dipt hem in warme Parmigiano-saus, neemt hem in één hap — de omhulling smelt, de pesto explodeert vrij in je mond.",
-      "full_intro": "Disfrutar in Barcelona — chefs Oriol Castro, Mateu Casañas en Eduard Xatruch, alle drie getraind bij het legendarische elBulli van Ferran Adrià — werd in 2024 uitgeroepen tot beste restaurant ter wereld en behoort sindsdien tot de Best of the Best. Hun multispherical pesto-ravioli is een beroemde technische demonstratie van de moderne Spaanse avant-garde: een doorzichtige verpakking gevuld met basilicum, pijnboompit en Parmigiano. Je dipt hem in warme Parmigiano-saus, neemt hem in één hap — de omhulling smelt, de pesto explodeert vrij in je mond.",
+      "short_description": "Een toegankelijke, Disfrutar-geïnspireerde amuse: een zachte rijstpapier-ravioli gevuld met pesto, gedoopt in warme Parmigiano-saus.",
+      "description": "Deze transparante pesto-ravioli is een toegankelijke interpretatie geïnspireerd op Disfrutar*** in Barcelona, het driesterrenrestaurant van chefs Oriol Castro, Mateu Casañas en Eduard Xatruch. Een dun vel rijstpapier omhult een frisse basilicumpesto; je dipt de ravioli in een warme Parmigiano-saus en neemt hem in één hap — de zachte, licht elastische omhulling geeft mee en de pesto komt vrij in je mond.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de bevroren pesto-kern",
+          "group_name": "Voor de pesto-kern",
           "ingredients": [
             {
               "name": "verse basilicumblaadjes",
-              "amount": "40g"
+              "amount": "40 g"
             },
             {
               "name": "pijnboompitten, kort geroosterd",
-              "amount": "25g"
+              "amount": "25 g"
             },
             {
               "name": "Parmigiano Reggiano, vers geraspt",
-              "amount": "30g"
+              "amount": "30 g"
             },
             {
               "name": "kleine teen knoflook (heel subtiel)",
@@ -46512,25 +46519,25 @@
               "amount": "½ tl"
             },
             {
-              "name": "zout + witte peper",
+              "name": "zout en witte peper",
               "amount": "naar smaak"
             }
           ]
         },
         {
-          "group_name": "Voor de rijstpapier-wand",
+          "group_name": "Voor de rijstpapier-ravioli",
           "ingredients": [
             {
-              "name": "ronde rijstvellen (rijstpapier — bij de toko; kleiner formaat is eleganter)",
-              "amount": "8–10"
+              "name": "grote ronde rijstvellen (rijstpapier, bij de toko — elk vel levert ongeveer 4 kleine rondjes van 7–8 cm, genoeg voor 12–16 ravioli)",
+              "amount": "3–4"
             },
             {
               "name": "kom lauwwarm water (om te weken)",
-              "amount": ""
+              "amount": "naar behoefte"
             },
             {
               "name": "druppel neutrale olie (werkbord licht invetten)",
-              "amount": ""
+              "amount": "naar behoefte"
             }
           ]
         },
@@ -46539,11 +46546,11 @@
           "ingredients": [
             {
               "name": "verse basilicumblaadjes",
-              "amount": "25g"
+              "amount": "25 g"
             },
             {
               "name": "druivenpitolie of neutrale olie (geen sterke olijfolie)",
-              "amount": "80ml"
+              "amount": "80 ml"
             },
             {
               "name": "zout",
@@ -46556,19 +46563,19 @@
           "ingredients": [
             {
               "name": "volle melk",
-              "amount": "100ml"
+              "amount": "100 ml"
             },
             {
               "name": "volle slagroom",
-              "amount": "80ml"
+              "amount": "80 ml"
             },
             {
               "name": "Parmigiano Reggiano, vers geraspt",
-              "amount": "70g"
+              "amount": "70 g"
             },
             {
               "name": "witte peper",
-              "amount": ""
+              "amount": "naar smaak"
             },
             {
               "name": "citroensap (optioneel)",
@@ -46577,189 +46584,79 @@
           ]
         },
         {
-          "group_name": "Afwerking",
+          "group_name": "Voor de afwerking",
           "ingredients": [
             {
               "name": "druppels basilicumolie",
-              "amount": ""
+              "amount": "naar smaak"
             },
             {
               "name": "Parmigiano Reggiano, vers geraspt",
-              "amount": ""
+              "amount": "naar smaak"
             },
             {
               "name": "fijngehakte pistache of geroosterde pijnboompit (optioneel)",
-              "amount": ""
+              "amount": "naar smaak"
             }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de bevroren pesto-kern",
-          "ingredients": [
-            "40g verse basilicumblaadjes",
-            "25g pijnboompitten, kort geroosterd",
-            "30g Parmigiano Reggiano, vers geraspt",
-            "½ kleine teen knoflook (heel subtiel — niet meer)",
-            "3 el extra vergine olijfolie",
-            "½ tl vers citroensap",
-            "Zout + witte peper"
-          ]
-        },
-        {
-          "group_name": "Voor de transparante ravioli-wand",
-          "ingredients": [
-            "8–10 ronde rijstvellen (rijstpapier — bij de toko; kleiner formaat is eleganter)",
-            "Kom lauwwarm water (om te weken)",
-            "Druppel neutrale olie (om het werkbord licht in te vetten)"
-          ]
-        },
-        {
-          "group_name": "Voor de basilicumolie",
-          "ingredients": [
-            "25g verse basilicumblaadjes",
-            "80ml druivenpitolie of neutrale olie (geen sterke olijfolie)",
-            "Snuf zout"
-          ]
-        },
-        {
-          "group_name": "Voor de Parmigiano-saus",
-          "ingredients": [
-            "100ml volle melk",
-            "80ml volle slagroom",
-            "70g Parmigiano Reggiano, vers geraspt",
-            "Witte peper",
-            "Eventueel: ½ tl citroensap"
-          ]
-        },
-        {
-          "group_name": "Afwerking",
-          "ingredients": [
-            "Druppels basilicumolie",
-            "Fijn geraspte Parmigiano Reggiano",
-            "Eventueel: klein beetje fijngehakte pistache of geroosterde pijnboompit"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
-          "action": "Basilicumolie",
-          "description": "Basilicumblaadjes 5–10 seconden blancheren in kokend water. Direct in ijskoud water. Goed uitknijpen. Basilicum + olie + zout in blender op hoogste stand 1 minuut. Door koffiefilter of kaasdoek laten uitlekken — niet uitknijpen. Heldere, felgroene olie. Koel bewaren."
+          "action": "Maak de basilicumolie",
+          "description": "Blancheer de basilicumblaadjes 5–10 seconden in kokend water en dompel direct in ijskoud water. Knijp goed uit. Blend de basilicum met de olie en het zout op de hoogste stand 1 minuut. Laat door een koffiefilter of kaasdoek uitlekken — niet uitknijpen — tot een heldere, felgroene olie. Koel bewaren."
         },
         {
-          "number": 2,
-          "action": "Pesto-kernen bevrezen (minimaal 1 uur vooruit)",
-          "description": "Alle pesto-ingrediënten in blender of vijzel tot dikke, geconcentreerde pasta — iets dikker dan gewone pesto, hij moet als vulling kunnen staan. Kleine hoopjes van ½ tl op bakpapier scheppen of in een kleine siliconenvorm. Minimaal 1 uur in de vriezer tot steenhard. Dit is de technische sleutel — zonder bevriezing is de pesto niet te wikkelen."
+          "action": "Maak de pesto",
+          "description": "Verwerk alle pesto-ingrediënten in een blender of vijzel tot een dikke, geconcentreerde pasta — dikker dan gewone pesto, stevig genoeg om direct in rijstpapier te verpakken zonder dat hij eerst hoeft te worden ingevroren."
         },
         {
-          "number": 3,
-          "action": "Parmigiano-saus",
-          "description": "Melk en room verwarmen tot net onder het kookpunt (65°C). Van het vuur. Parmigiano al roerend toevoegen tot de saus glad en romig is. Witte peper, eventueel citroensap. Warmhouden op 60–65°C — niet laten koken, kaas scheidt boven 80°C."
+          "action": "Maak de Parmigiano-saus",
+          "description": "Verwarm de melk en room tot circa 65°C. Haal van het vuur en meng de fijn geraspte Parmigiano er geleidelijk doorheen tot de saus glad en romig is. Breng op smaak met witte peper en eventueel citroensap. Houd lauwwarm en laat niet opnieuw koken."
         },
         {
-          "number": 4,
-          "action": "Rijstpapier-ravioli (vlak voor serveren)",
-          "description": "Rijstvellen eventueel snijden in rondjes of vierkantjes van 7–8cm. Één rijstvel 5–10 seconden weken in lauwwarm water — soepel maar nog niet slap. Op een licht ingevet bord leggen. Bevroren pesto-kern in het midden. Rijstvel eromheen vouwen tot een klein pakketje. Dichtknijpen — rijstpapier plakt vanzelf. Maximaal 20–30 minuten bewaren, daarna worden ze te zacht."
+          "action": "Vul en vouw de ravioli (vlak voor serveren)",
+          "description": "Snijd uit elk groot rijstvel ongeveer 4 kleine rondjes of vierkantjes van 7–8 cm — zo haal je uit 3–4 vellen de 12–16 ravioli voor dit recept. Week één stukje rijstpapier 5–10 seconden in lauwwarm water tot het soepel maar nog niet slap is. Leg het op een licht ingevet bord, schep een hoopje pesto (ongeveer ½ tl) in het midden en vouw het rijstpapier eromheen tot een klein pakketje. Gebruik voor elke ravioli maar één dun stukje rijstpapier, met zo weinig mogelijk overlap, en druk de randen licht aan — rijstpapier plakt vanzelf. Maak de ravioli vlak voor serveren: binnen 20–30 minuten worden ze te zacht."
         },
         {
-          "number": 5,
-          "action": "Opbouwen",
-          "description": "Kleine diepe witte borden. Warme Parmigiano-saus ingieten. 3–4 ravioli voorzichtig in of naast de saus plaatsen. Druppels basilicumolie. Fijne Parmigiano-rasp. Eventueel fijngehakte pistache of pijnboompit. Direct serveren — en de instructie meegeven: één hap, het hele ding."
+          "action": "Bouw op en serveer",
+          "description": "Verdeel de warme Parmigiano-saus over kleine diepe borden. Leg 3–4 ravioli voorzichtig in of naast de saus. Werk af met druppels basilicumolie, een fijne Parmigiano-rasp en eventueel wat fijngehakte pistache of pijnboompit. Serveer direct, met de instructie: één hap, het hele ding — de omhulling is zacht en licht elastisch, en geeft zo mee in de mond."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Rijstpapier blijft hier de hoofdroute: toegankelijk, makkelijk verkrijgbaar en zacht genoeg om in één hap mee te geven. Omdat de pesto zelf al dik en stevig genoeg is, kun je hem direct verpakken zonder hem eerst te bevriezen — dat maakt dit gerecht ook praktisch haalbaar vlak voor het serveren. De Parmigiano-saus blijft romig zonder te schiften doordat de kaas pas wordt toegevoegd nadat de melk en room van het vuur zijn."
         }
       ],
-      "steps_full": [
-        {
-          "number": 1,
-          "section": "Basilicumolie",
-          "description": "Basilicumblaadjes 5–10 seconden blancheren in kokend water. Direct in ijskoud water. Goed uitknijpen. Basilicum + olie + zout in blender op hoogste stand 1 minuut. Door koffiefilter of kaasdoek laten uitlekken — niet uitknijpen. Heldere, felgroene olie. Koel bewaren."
-        },
-        {
-          "number": 2,
-          "section": "Pesto-kernen bevrezen (minimaal 1 uur vooruit)",
-          "description": "Alle pesto-ingrediënten in blender of vijzel tot dikke, geconcentreerde pasta — iets dikker dan gewone pesto, hij moet als vulling kunnen staan. Kleine hoopjes van ½ tl op bakpapier scheppen of in een kleine siliconenvorm. Minimaal 1 uur in de vriezer tot steenhard. Dit is de technische sleutel — zonder bevriezing is de pesto niet te wikkelen."
-        },
-        {
-          "number": 3,
-          "section": "Parmigiano-saus",
-          "description": "Melk en room verwarmen tot net onder het kookpunt (65°C). Van het vuur. Parmigiano al roerend toevoegen tot de saus glad en romig is. Witte peper, eventueel citroensap. Warmhouden op 60–65°C — niet laten koken, kaas scheidt boven 80°C."
-        },
-        {
-          "number": 4,
-          "section": "Rijstpapier-ravioli (vlak voor serveren)",
-          "description": "Rijstvellen eventueel snijden in rondjes of vierkantjes van 7–8cm. Één rijstvel 5–10 seconden weken in lauwwarm water — soepel maar nog niet slap. Op een licht ingevet bord leggen. Bevroren pesto-kern in het midden. Rijstvel eromheen vouwen tot een klein pakketje. Dichtknijpen — rijstpapier plakt vanzelf. Maximaal 20–30 minuten bewaren, daarna worden ze te zacht."
-        },
-        {
-          "number": 5,
-          "section": "Opbouwen",
-          "description": "Kleine diepe witte borden. Warme Parmigiano-saus ingieten. 3–4 ravioli voorzichtig in of naast de saus plaatsen. Druppels basilicumolie. Fijne Parmigiano-rasp. Eventueel fijngehakte pistache of pijnboompit. Direct serveren — en de instructie meegeven: één hap, het hele ding."
-        }
-      ],
-      "tips": [
-        "Rijstpapier is beter dan agar thuis: Agar smelt niet in de mond — het breekt en voelt stug aan. Rijstpapier is transparant, zacht en geeft de smeltende ervaring die Disfrutar belooft.",
-        "Pesto-kern altijd bevroren: Zonder invriezen is de pesto niet te wikkelen. De bevroren kern geeft ook de 'explosie' — hij is koud wanneer de rijstpapier-wand warm wordt in je mond.",
-        "Één hap — geen compromis: Half doorbijten = pesto loopt op het bord. De instructie aan de gast is het gerecht.",
-        "Maak de ravioli klein: Dit moet één elegante hap zijn. Te groot verliest de Disfrutar-logica.",
-        "Knoflook subtiel houden: Rauwe knoflook overstemt zo'n kleine hap. Maximum ½ kleine teen voor de gehele portie.",
-        "Parmigiano-saus niet koken: Kaas scheidt boven 80°C. Altijd van het vuur halen voor je de kaas toevoegt.",
-        "Rijstpapier-ravioli vlak voor serveren: Maximaal 20–30 minuten bewaren — daarna te zacht en ze plakken aan elkaar.",
-        "Pistache-variant: Disfrutar combineert pesto ook met pistache en gerookte elementen. Een heel klein beetje fijngehakte pistache als afwerking is een mooie Disfrutar-knipoog.",
-        "Agar als decoratief element: 1,2g agar per 200ml water, koken, basilicumolie erdoor, dun uitgieten als gel-sheet naast de ravioli. Visueel mooi maar niet als hoofdomhulling."
-      ],
-      "tips_full": [
-        "Rijstpapier is beter dan agar thuis: Agar smelt niet in de mond — het breekt en voelt stug aan. Rijstpapier is transparant, zacht en geeft de smeltende ervaring die Disfrutar belooft.",
-        "Pesto-kern altijd bevroren: Zonder invriezen is de pesto niet te wikkelen. De bevroren kern geeft ook de 'explosie' — hij is koud wanneer de rijstpapier-wand warm wordt in je mond.",
-        "Één hap — geen compromis: Half doorbijten = pesto loopt op het bord. De instructie aan de gast is het gerecht.",
-        "Maak de ravioli klein: Dit moet één elegante hap zijn. Te groot verliest de Disfrutar-logica.",
-        "Knoflook subtiel houden: Rauwe knoflook overstemt zo'n kleine hap. Maximum ½ kleine teen voor de gehele portie.",
-        "Parmigiano-saus niet koken: Kaas scheidt boven 80°C. Altijd van het vuur halen voor je de kaas toevoegt.",
-        "Rijstpapier-ravioli vlak voor serveren: Maximaal 20–30 minuten bewaren — daarna te zacht en ze plakken aan elkaar.",
-        "Pistache-variant: Disfrutar combineert pesto ook met pistache en gerookte elementen. Een heel klein beetje fijngehakte pistache als afwerking is een mooie Disfrutar-knipoog.",
-        "Agar als decoratief element: 1,2g agar per 200ml water, koken, basilicumolie erdoor, dun uitgieten als gel-sheet naast de ravioli. Visueel mooi maar niet als hoofdomhulling."
-      ],
-      "opmaak_presentatie": "Kleine diepe witte borden. Romig-witte Parmigiano-saus als zachte zee. Doorzichtig-groene rijstpapier-ravioli erin — de pesto-kern vaag zichtbaar als een groene schaduw. Druppels felgroene basilicumolie. Een zweem geraspte Parmigiano. Speels, bijna lab-achtig. De complexiteit zit in de hap — niet op het bord.",
+      "chef_tip": "Eén hap — geen compromis: half doorbijten laat de pesto op het bord lopen. Geef de instructie aan de gast mee: één hap, het hele ding.\n\nMaak de ravioli klein: dit moet één elegante hap zijn. Te groot, en de verhouding tussen omhulling en vulling klopt niet meer.\n\nKnoflook subtiel houden: rauwe knoflook overstemt zo'n kleine hap. Maximaal ½ kleine teen voor de hele portie.\n\nGekochte pesto als makkelijk alternatief: gebruik een goede pesto met basilicum, extra vergine olijfolie, pijnboompitten en Parmigiano en/of pecorino. Kies een dikke pesto en roer een eventueel laagje losse olie er niet volledig door. Is hij toch te vloeibaar, meng er wat fijn geraspte Parmezaan door tot de vulling op een lepeltje blijft staan. Proef vóór je extra zout of knoflook toevoegt. Invriezen is niet nodig.\n\nPistache-variant: een heel klein beetje fijngehakte pistache als afwerking is een mooie, speelse toevoeging naast de basilicumolie en Parmigiano-rasp.\n\nRijstpapier-ravioli vlak voor serveren: maximaal 20–30 minuten bewaren — daarna worden ze te zacht en plakken ze aan elkaar.\n\nObulato als restaurantvariant: wie liever met een nog dunnere, volledig smeltende omhulling werkt, kan Obulato-vellen gebruiken in plaats van rijstpapier. Verwerk die droog, zonder te weken, en serveer de Parmigiano-saus dan apart als dip in plaats van de ravioli erin te leggen.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Cava Corpinnat Brut Nature DO — Penedès, Catalonië, Spanje",
+          "naam": "Corpinnat Brut Nature — Penedès, Catalonië, Spanje",
           "druif": "Xarel·lo, Macabeo, Parellada (soms Chardonnay)",
-          "smaakprofiel": "Droog, geen restsuiker, citrus, amandel, fijne mousse, licht kruidig",
-          "omschrijving": "Regionaal Catalaans — de meest inhoudelijk passende keuze bij Disfrutar.",
-          "waarom_werkt_dit": "Cava Corpinnat is de premium categorie van Cava met langere rijping. De droge mousse reinigt de rijke Parmigiano-saus. De licht kruidige toon sluit aan op de basilicum. Regionaal verbindt hij alles aan Disfrutar's Catalaanse roots. Serveer op 8–10°C."
+          "smaakprofiel": "Droog, geen restsuiker, citrus, amandel, fijne mousse, licht kruidig.",
+          "omschrijving": "Regionaal Catalaans — de meest inhoudelijk passende keuze bij deze Disfrutar-geïnspireerde ravioli.",
+          "waarom_werkt_dit": "Corpinnat is de premiumcategorie met langere rijping. De droge mousse reinigt de rijke Parmigiano-saus en de licht kruidige toon sluit aan op de basilicum. Regionaal verbindt hij het gerecht aan zijn Catalaanse inspiratiebron.",
+          "serveertemperatuur": "Serveer op 8–10°C."
         },
         {
           "type": "alternatief",
           "naam": "Champagne Blanc de Blancs Extra Brut AOC — Champagne, Frankrijk",
           "druif": "Chardonnay",
-          "smaakprofiel": "Droog, strak, mineraal, citrus, fijne mousse, krijtige afdronk",
+          "smaakprofiel": "Droog, strak, mineraal, citrus, fijne mousse, krijtige afdronk.",
           "omschrijving": "Luxer en strakker — de mousse ruimt kaas en olie op.",
-          "waarom_werkt_dit": "De mousse snijdt door de rijke Parmigiano-saus. De mineraliteit past bij het technische fine-dininggevoel. Champagne past bij de geest van Disfrutar — luxe en speels tegelijk. Serveer op 8–10°C."
+          "waarom_werkt_dit": "De mousse snijdt door de rijke Parmigiano-saus en de mineraliteit past bij het technische fine-dininggevoel van het gerecht.",
+          "serveertemperatuur": "Serveer op 8–10°C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Vermentino di Sardegna DOC — Sardinië, Italië",
           "druif": "Vermentino",
-          "smaakprofiel": "Droog, citrus, witte bloesem, licht bitter, mineraal, mediterraan kruidig",
-          "omschrijving": "Mediterraan en kruidig — voor wie geen bubbels wil.",
-          "waarom_werkt_dit": "De lichte bitterheid spiegelt de basilicum. De frisse citrusnoten sluiten aan op de pesto en de olijfolie. Mediterraan genoeg voor de Parmigiano-saus. Serveer op 10–12°C."
+          "smaakprofiel": "Droog, citrus, witte bloesem, licht bitter, mineraal, mediterraan kruidig.",
+          "omschrijving": "Mediterraan en kruidig, zonder bubbels — breed verkrijgbaar en betaalbaar.",
+          "waarom_werkt_dit": "De lichte bitterheid spiegelt de basilicum en de frisse citrusnoten sluiten aan op de pesto en de olijfolie.",
+          "serveertemperatuur": "Serveer op 10–12°C."
         }
-      ],
-      "wine": {
-        "naam": "Cava Corpinnat Brut Nature DO — Penedès, Catalonië, Spanje",
-        "druif": "Xarel·lo, Macabeo, Parellada",
-        "toelichting": "Regionaal Catalaans en inhoudelijk de sterkste keuze bij Disfrutar. De droge mousse reinigt de rijke Parmigiano-saus en de licht kruidige toon sluit aan op de basilicum. Regionaal verbindt hij alles aan Disfrutar's Catalaanse roots. Serveer op 8–10°C.",
-        "alternatief": "Champagne Blanc de Blancs Extra Brut AOC of Vermentino di Sardegna DOC"
-      },
-      "metadata": {
-        "bereidingstijd": "45 min (plus 1 uur invriezen)",
-        "porties": "4 personen (3–4 ravioli pp als amuse)",
-        "type_gerecht": "Amuse / avant-garde bite",
-        "niveau": "Gemiddeld"
-      },
-      "source_recipe_number": 130,
-      "full_title_docx": "130. TRANSPARANTE PESTO-RAVIOLI MET PARMIGIANO-SAUS — DISFRUTAR-STIJL",
-      "chef_tip": "Rijstpapier is beter dan agar thuis: Agar smelt niet in de mond — het breekt en voelt stug aan. Rijstpapier is transparant, zacht en geeft de smeltende ervaring die Disfrutar belooft.\n\nPesto-kern altijd bevroren: Zonder invriezen is de pesto niet te wikkelen. De bevroren kern geeft ook de 'explosie' — hij is koud wanneer de rijstpapier-wand warm wordt in je mond.\n\nÉén hap — geen compromis: Half doorbijten = pesto loopt op het bord. De instructie aan de gast is het gerecht.\n\nMaak de ravioli klein: Dit moet één elegante hap zijn. Te groot verliest de Disfrutar-logica.\n\nKnoflook subtiel houden: Rauwe knoflook overstemt zo'n kleine hap. Maximum ½ kleine teen voor de gehele portie.\n\nParmigiano-saus niet koken: Kaas scheidt boven 80°C. Altijd van het vuur halen voor je de kaas toevoegt.\n\nRijstpapier-ravioli vlak voor serveren: Maximaal 20–30 minuten bewaren — daarna te zacht en ze plakken aan elkaar.\n\nPistache-variant: Disfrutar combineert pesto ook met pistache en gerookte elementen. Een heel klein beetje fijngehakte pistache als afwerking is een mooie Disfrutar-knipoog.\n\nAgar als decoratief element: 1,2g agar per 200ml water, koken, basilicumolie erdoor, dun uitgieten als gel-sheet naast de ravioli. Visueel mooi maar niet als hoofdomhulling."
+      ]
     },
     {
       "title": "Flinterdunne Krokante Pizza — Scrocchiarella-Stijl — Seu/TAC-Inspiratie",
@@ -56538,19 +56435,19 @@
         },
         {
           "action": "Bain-marie voorbereiden",
-          "description": "Verwarm de oven voor op 60°C. Vul een diepe ovenschaal met heet water van precies 60°C — gebruik een keukenthermometer. Zet de schaal in de oven om op temperatuur te blijven."
+          "description": "Verwarm de oven voor op 65°C. Vul een diepe ovenschaal met een ruim waterbad van circa 60°C — gebruik een keukenthermometer. Zet de schaal in de oven om op temperatuur te blijven. Oventemperatuur en watertemperatuur zijn niet hetzelfde: alleen het ovengetal aanpassen is onvoldoende om het water op temperatuur te houden."
         },
         {
           "action": "Zakken vullen en lucht eruit",
-          "description": "Verdeel de langoustines over 4 hittebestendige, food-grade kook-/sous-videzakken — 3 staarten per zak. Voeg per zak een kwart van de vanille-boter, één dun citroenschijfje en een draai witte peper toe. Dompelingstechniek: houd de zak open en dompel langzaam in koud water tot net onder de sluiting — het water duwt de lucht eruit. Sluit de zak boven het wateroppervlak. Gebruik alleen echt hittebestendige zakken die geschikt zijn voor deze temperatuur; een geïmproviseerd pakket van bakpapier in aluminiumfolie is geen gelijkwaardige, gecontroleerde methode voor onderdompeling in een waterbad."
+          "description": "Verdeel de langoustines over 4 hittebestendige, food-grade kook-/sous-videzakken — 3 staarten per zak, in één laag en zonder overlap, zodat ze gelijkmatig garen. Voeg per zak een kwart van de vanille-boter, één dun citroenschijfje en een draai witte peper toe. Dompelingstechniek: houd de zak open en dompel langzaam in koud water tot net onder de sluiting — het water duwt de lucht eruit. Sluit de zak boven het wateroppervlak. Gebruik alleen echt hittebestendige zakken die geschikt zijn voor deze temperatuur; een geïmproviseerd pakket van bakpapier in aluminiumfolie is geen gelijkwaardige, gecontroleerde methode voor onderdompeling in een waterbad."
         },
         {
           "action": "Garen in bain-marie",
-          "description": "Leg de gevulde zakken in het waterbad in de oven. Druk onder met een omgekeerd bord zodat ze volledig ondergedompeld blijven. Sluit de oven en gaar grote langoustinestaarten in het 60°C-waterbad grofweg 12-15 minuten, afhankelijk van de dikte. Controleer dat het vlees net gaar, sappig en veerkrachtig is — niet taai of droog."
+          "description": "Leg de gevulde zakken in het waterbad in de oven. Druk onder met een omgekeerd bord zodat ze volledig ondergedompeld blijven. Controleer na het toevoegen van de zakken met een keukenthermometer of het water rond 60-62°C blijft, en voeg zo nodig extra heet water toe. Houd 12-15 minuten aan als eerste richttijd voor dit formaat langoustine en controleer een staart op een net gare, sappige kern — pas de tijd aan bij dikkere exemplaren."
         },
         {
           "action": "Naar tafel — het theater",
-          "description": "Haal de zakken voorzichtig uit het bain-marie. Laat 1 minuut rusten op een doek, dep kort droog en leg op het plankje. De zakken zijn opgebold door warmte en damp. Breng direct naar tafel met de schaar. Snijd aan tafel de hoek van de zak open — vraag gasten zich licht voorover te buigen. Geef de wolk van boter, citroen en vanille 5 tot 10 seconden de ruimte."
+          "description": "Haal de zakken voorzichtig uit het bain-marie en breng ze direct naar tafel, zonder rustmoment. Leg op het plankje. Snijd aan tafel de hoek van de zak open — vraag gasten zich licht voorover te buigen. Geef de wolk van boter, citroen en vanille 5 tot 10 seconden de ruimte."
         },
         {
           "action": "Dresseren en serveren",
@@ -56565,7 +56462,7 @@
           "description": "Door de langoustines in een afgesloten, hittebestendige zak te garen, blijven alle aroma's van boter, citroen en vanille opgesloten tot het moment van openen — precies dat moment is het theater van dit gerecht. Het lage-temperatuur-waterbad gaart de langoustine gelijkmatig en voorkomt dat de buitenkant droog wordt voordat de kern gaar is. Doordat de zak pas aan tafel opengaat, ervaren de gasten de geursensatie op het hoogtepunt in plaats van dat die al in de keuken verdampt is."
         }
       ],
-      "chef_tip": "Langoustine-kwaliteit is hier alles: dagverse of levende langoustines van een betrouwbare visboer. Voorgekookte langoustines zijn hier niet geschikt — die worden direct droog en rubberachtig bij deze bereiding.\n\nGebruik alleen echte hittebestendige, food-grade kook-/sous-videzakken: een gewone supermarkt-ziplock kan bij 60°C zacht worden. Diepvrieszakken die specifiek als kookecht gemarkeerd zijn, zijn wel geschikt.\n\nDe onderdompelingstechniek voor lucht eruit: houd de zak open, dompel langzaam in koud water tot net onder de sluiting. Het water duwt de lucht eruit. Werkt verrassend goed zonder vacuümmachine.\n\nGoede boter is de basis: Beurre d'Isigny, Beurre Échiré of een goede Franse boter — niet de supermarktboter. Het is letterlijk de saus van het gerecht.\n\nVanille subtiel doseren — meer is dessertachtig: alleen de zaadjes van een half stokje voor 12 langoustines. Meer zoetheid maakt het gerecht onbedoeld nagerecht-achtig. Echte vanille, géén vanille-aroma.\n\n60°C bain-marie, 12-15 minuten: controleer op sappig en veerkrachtig vlees. Werk met een keukenthermometer voor de temperatuur van het waterbad.\n\nOpenknippen aan tafel is het hele punt: wie de zak in de keuken opent gooit het theater weg. Breng de opgezwollen zak naar tafel, knip aan tafel open. Vraag gasten zich licht voorover te buigen.\n\nLuxe upgrade: leg vlak voor serveren een kleine lepel Osetra-kaviaar op één van de drie langoustines. Verminder dan het fleur de sel in de vanille-boter tot een snufje. Geen langoustines? Grote tijgergarnalen werken met dezelfde techniek, alleen 10-11 minuten.",
+      "chef_tip": "Langoustine-kwaliteit is hier alles: dagverse of levende langoustines van een betrouwbare visboer. Voorgekookte langoustines zijn hier niet geschikt — die worden direct droog en rubberachtig bij deze bereiding.\n\nGebruik alleen echte hittebestendige, food-grade kook-/sous-videzakken: een gewone supermarkt-ziplock kan bij 60°C zacht worden. Diepvrieszakken die specifiek als kookecht gemarkeerd zijn, zijn wel geschikt.\n\nDe onderdompelingstechniek voor lucht eruit: houd de zak open, dompel langzaam in koud water tot net onder de sluiting. Het water duwt de lucht eruit. Werkt verrassend goed zonder vacuümmachine.\n\nGoede boter is de basis: Beurre d'Isigny, Beurre Échiré of een goede Franse boter — niet de supermarktboter. Het is letterlijk de saus van het gerecht.\n\nVanille subtiel doseren — meer is dessertachtig: alleen de zaadjes van een half stokje voor 12 langoustines. Meer zoetheid maakt het gerecht onbedoeld nagerecht-achtig. Echte vanille, géén vanille-aroma.\n\n65°C oven / 60-62°C waterbad, 12-15 minuten als richttijd: controleer op sappig en veerkrachtig vlees en pas de tijd aan op het formaat van de staarten. Werk met een keukenthermometer voor de temperatuur van het waterbad.\n\nOpenknippen aan tafel is het hele punt: wie de zak in de keuken opent gooit het theater weg. Breng de opgezwollen zak naar tafel, knip aan tafel open. Vraag gasten zich licht voorover te buigen.\n\nLuxe upgrade: leg vlak voor serveren een kleine lepel Osetra-kaviaar op één van de drie langoustines. Verminder dan het fleur de sel in de vanille-boter tot een snufje. Geen langoustines? Grote tijgergarnalen werken met dezelfde techniek — controleer ook dan op een net gare, sappige kern in plaats van op een vaste tijd.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -66199,11 +66096,11 @@
         },
         {
           "action": "Coquilles schroeien",
-          "description": "Dep de coquilles heel goed droog en bestrooi licht met zout en witte peper. Verhit de olie in een koekenpan tot goed heet. Bak de coquilles 45-60 seconden per kant tot goudbruin en vanbinnen net glazig. Voeg op het einde de boter toe en lepel die kort over de coquilles. Haal direct uit de pan."
+          "description": "Dep de coquilles heel goed droog en bestrooi licht met zout en witte peper. Verhit de olie in een koekenpan tot goed heet. Bak de coquilles tot ze vanbuiten goudbruin zijn en vanbinnen net glazig en sappig — reken als richttijd op ongeveer 45-60 seconden per kant, iets langer bij dikkere coquilles. Voeg op het einde de boter toe en lepel die kort over de coquilles. Haal direct uit de pan."
         },
         {
           "action": "Serveren",
-          "description": "Verwarm de soep nog eenmaal zacht op, zonder te laten koken. Schenk in warme diepe borden of kommen. Leg 2 coquilles per bord in het midden. Lepel er wat bieslookolie omheen. Leg vlak voor serveren een klein lepeltje kaviaar op of naast de coquilles. Werk eventueel af met flinterdunne rauwe bloemkoolschaafjes."
+          "description": "Verwarm de soep nog eenmaal zacht op, zonder te laten koken. Schenk een bescheiden hoeveelheid soep in warme diepe borden of kommen — net genoeg om de bodem te bedekken, zodat de gebakken bovenkant van de coquilles en de kaviaar straks boven het oppervlak uitsteken. Leg 2 coquilles per bord in het midden. Lepel er wat bieslookolie omheen. Leg vlak voor serveren een klein lepeltje kaviaar op of naast de coquilles. Werk eventueel af met flinterdunne rauwe bloemkoolschaafjes."
         },
         {
           "action": "Opbouw en presentatie",
@@ -66214,7 +66111,7 @@
           "description": "Bloemkool heeft een zachte, romige, bijna nootachtige smaak die door melk én bouillon licht en vloeiend blijft in plaats van dik. Coquille voegt een andere soort zoetheid toe — dierlijk, delicaat, met een zachte bite door het kort schroeien. Kaviaar brengt ziltigheid en spanning die de soep en de coquille precies op het juiste moment doorbreekt. De kunst is dat niets overheerst en de textuur nergens richting puree kruipt: de soep blijft licht en gietbaar, de coquille blijft sappig, en de kaviaar geeft alleen die laatste zilte tik."
         }
       ],
-      "chef_tip": "Voor een betaalbaardere versie: gebruik forellenkaviaar of haringeitjes in plaats van kaviaar.\n\nVooruitwerken: maak de soep vooraf, warm 'm vlak voor serveren zacht op en bak dan pas de coquilles.\n\nLuxe-upgrade: een paar druppels truffelolie over de soep vlak voor serveren.\n\nVervanging: Geen coquilles te vinden? Grote garnalen, kort gestoomd of gegrild, werken ook goed als vervanger.\n\nVoor extra diepte: vervang een deel van de bouillon door een scheutje droge witte wijn tijdens het sudderen.\n\nKaviaar doseren: Gebruik kaviaar subtiel — een klein lepeltje is genoeg.",
+      "chef_tip": "Voor een betaalbaardere versie: gebruik forellenkaviaar of haringeitjes in plaats van kaviaar.\n\nVooruitwerken: maak de soep vooraf, warm 'm vlak voor serveren zacht op en bak dan pas de coquilles.\n\nVervanging: Geen coquilles te vinden? Grote garnalen, kort gestoomd of gegrild, werken ook goed als vervanger.\n\nVoor extra diepte: vervang een deel van de bouillon door een scheutje droge witte wijn tijdens het sudderen.\n\nKaviaar doseren: Gebruik kaviaar subtiel — een klein lepeltje is genoeg.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -66222,7 +66119,8 @@
           "druif": "Chardonnay",
           "smaakprofiel": "Deze Chardonnay-champagne ruikt naar witte bloesem, groene appel en krijt, met een fijne, aanhoudende mousse en een strakke, bijna elektrische mineraliteit in de afdronk.",
           "omschrijving": "",
-          "waarom_werkt_dit": "dit is de klassieke, haast onvermijdelijke metgezel van kaviaar — de fijne mousse en het krijtige zuur snijden precies door de romigheid van de bloemkoolsoep, terwijl de mineraliteit de zilte pop van de kaviaar weerspiegelt."
+          "waarom_werkt_dit": "dit is de klassieke, haast onvermijdelijke metgezel van kaviaar — de fijne mousse en het krijtige zuur snijden precies door de romigheid van de bloemkoolsoep, terwijl de mineraliteit de zilte pop van de kaviaar weerspiegelt.",
+          "serveertemperatuur": "Serveer op 8–9°C."
         },
         {
           "type": "alternatief",
@@ -66230,15 +66128,17 @@
           "druif": "Chardonnay",
           "smaakprofiel": "Strakke, ongehoute Chardonnay met groene appel, citrus, een uitgesproken krijtige mineraliteit en frisse zuren.",
           "omschrijving": "",
-          "waarom_werkt_dit": "Chablis is al eeuwenlang de klassieke burgondische metgezel van coquilles — juist omdat hij ongehout is, concurreert hij nooit met de romigheid van de soep, en zijn mineraliteit sluit naadloos aan bij het zilte accent van de kaviaar."
+          "waarom_werkt_dit": "Chablis is al eeuwenlang de klassieke burgondische metgezel van coquilles — juist omdat hij ongehout is, concurreert hij nooit met de romigheid van de soep, en zijn mineraliteit sluit naadloos aan bij het zilte accent van de kaviaar.",
+          "serveertemperatuur": "Serveer op 10–11°C."
         },
         {
-          "type": "meest-toegankelijk",
+          "type": "meest toegankelijk",
           "naam": "Crémant de Bourgogne Brut",
           "druif": "Chardonnay",
           "smaakprofiel": "Droog, fris, met citrus, groene appel en een lichte toastigheid van de fijne mousse.",
           "omschrijving": "",
-          "waarom_werkt_dit": "dezelfde feestelijke frisheid als champagne, maar toegankelijker geprijsd — de lichte toasttonen passen bovendien mooi bij de gebakken korst van de coquille."
+          "waarom_werkt_dit": "dezelfde feestelijke frisheid als champagne, maar toegankelijker geprijsd — de lichte toasttonen passen bovendien mooi bij de gebakken korst van de coquille.",
+          "serveertemperatuur": "Serveer op 8–9°C."
         }
       ]
     },
@@ -75574,11 +75474,11 @@
               "amount": "60-80 g"
             },
             {
-              "name": "cognac (bij voorkeur een goede, drinkbare kwaliteit)",
+              "name": "cognac (bij voorkeur een goede, drinkbare kwaliteit), vooraf afgemeten",
               "amount": "60-80 ml"
             },
             {
-              "name": "sterke kalfsfond of demi-glace",
+              "name": "gewone kalfsfond (liefst ongezouten of zoutarm)",
               "amount": "120 ml"
             },
             {
@@ -75607,7 +75507,7 @@
       "steps": [
         {
           "action": "Alles klaarzetten",
-          "description": "Zet sjalot, knoflook, champignons, cognac, fond, Dijon, Worcestersaus, room, boter en peterselie allemaal binnen handbereik — dit gerecht gaat te snel om nog te zoeken naar een ingrediënt terwijl de pan droogkookt."
+          "description": "Zet sjalot, knoflook, champignons, fond, Dijon, Worcestersaus, room, boter en peterselie allemaal binnen handbereik — dit gerecht gaat te snel om nog te zoeken naar een ingrediënt terwijl de pan droogkookt. Meet de cognac vooraf af in een kommetje of maatbekertje, zodat je hem straks nooit rechtstreeks uit de fles in de hete pan giet."
         },
         {
           "action": "Vlees voorbereiden",
@@ -75615,7 +75515,7 @@
         },
         {
           "action": "Tournedos schroeien",
-          "description": "Verhit een zware pan goed heet met alleen de olie (geen boter — die verbrandt bij deze hitte). Schroei de tournedos 2 minuten per kant, en indien nodig nog 30 seconden op de zijkanten, tot een mooie korst. Mik op ongeveer 48-50°C uit de pan. Haal uit de pan en laat rusten op een warm bord — de temperatuur loopt door naar ongeveer 52-54°C."
+          "description": "Verhit een zware pan goed heet met alleen de olie (geen boter — die verbrandt bij deze hitte). Schroei de tournedos ongeveer 2 minuten per kant als richttijd, en indien nodig nog 30 seconden op de zijkanten, tot een mooie korst. Die 2 minuten zijn een richttijd, geen garantie — vooral bij een tournedos van circa 3 cm kan het langer duren. Laat de kerntemperatuur leidend zijn: mik op ongeveer 48-50°C uit de pan en gaar zo nodig nog even door op lager vuur vóór het rusten. Haal uit de pan en laat rusten op een warm bord — de temperatuur loopt door naar ongeveer 52-54°C."
         },
         {
           "action": "Champignons (optioneel)",
@@ -75623,15 +75523,15 @@
         },
         {
           "action": "Sjalot en knoflook",
-          "description": "Zet het vuur iets lager. Bak de sjalot 30-45 seconden, voeg de knoflook toe en bak nog 15 seconden — het moet geuren, niet kleuren."
+          "description": "Zet het vuur iets lager. Laat de sjalot 3-4 minuten rustig zacht en glazig worden — dertig tot vijfenveertig seconden is hiervoor te kort. Voeg de knoflook pas op het einde toe en bak nog 15-20 seconden mee tot hij geurt, niet kleurt."
         },
         {
           "action": "De flambé",
-          "description": "Giet de cognac erbij. Kantel de pan licht van het vuur af zodat de damp vlam vat, of steek voorzichtig aan met een lange keukenaansteker (nooit onder een dampkap met het ventilatiesysteem aan — dat wakkert de vlammen juist aan). Laat 10-15 seconden uitbranden tot de vlammen vanzelf doven en de scherpe alcohollucht grotendeels weg is."
+          "description": "Haal de pan van het vuur. Giet de afgemeten cognac erbij — nooit rechtstreeks uit de fles in de hete pan. Steek voorzichtig aan met een lange keukenaansteker, op veilige afstand van de afzuigkap en ook als die uitstaat, en houd een deksel binnen handbereik om de vlam eventueel snel te kunnen doven. Laat 10-15 seconden uitbranden tot de vlammen vanzelf doven. Is de scherpe alcohollucht daarna nog niet grotendeels weg, laat de saus dan nog even kort verder inkoken."
         },
         {
           "action": "Saus opbouwen",
-          "description": "Voeg de kalfsfond, Dijonmosterd en Worcestersaus toe. Roer goed los en laat 1,5-2 minuten krachtig inkoken tot een mooie, licht stroperige saus."
+          "description": "Voeg de kalfsfond, Dijonmosterd en Worcestersaus toe. Roer goed los en laat 1,5-2 minuten krachtig inkoken tot een mooie, licht stroperige saus. Proef vóór je eventueel extra zout toevoegt — fond, Worcestersaus en Dijon brengen zelf al veel zout mee."
         },
         {
           "action": "Room toevoegen",
@@ -75655,17 +75555,17 @@
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Steak Diane draait niet om exotische specerijen, maar om een snel opgebouwde sausarchitectuur: aanbaksels van de steak, dan sjalot en knoflook, dan cognac, dan Dijon en Worcestersaus, dan fond, en tot slot boter. Door alleen olie te gebruiken voor het dichtschroeien, voorkom je dat boter verbrandt voordat het vlees goed gekleurd is — de boter komt pas later, waar hij de saus juist glans en romigheid geeft. De flambé is geen loos vertoon: het verbranden van de alcohol laat een geconcentreerde, gekarameliseerde cognacsmaak achter. Door champignons en room bewust bescheiden te houden, blijft de saus kort, fel en glanzend in plaats van een dikke, retro roomsaus — precies het verschil tussen een steak met champignonsaus en een echte Diane."
+          "description": "Steak Diane draait niet om exotische specerijen, maar om een snel opgebouwde sausarchitectuur: aanbaksels van de steak, dan sjalot en knoflook, dan cognac, dan Dijon en Worcestersaus, dan fond, en tot slot boter. Door de sjalot écht de tijd te geven en de knoflook pas aan het einde toe te voegen, krijg je zoetheid zonder bittere, verbrande knoflook. Door alleen olie te gebruiken voor het dichtschroeien, voorkom je dat boter verbrandt voordat het vlees goed gekleurd is — de boter komt pas later, waar hij de saus juist glans en romigheid geeft. Door kerntemperatuur in plaats van de klok leidend te maken, blijft ook een iets dikkere tournedos betrouwbaar. De flambé is geen loos vertoon: het verbranden van de alcohol laat een geconcentreerde, gekarameliseerde cognacsmaak achter. Door champignons en room bewust bescheiden te houden, blijft de saus kort, fel en glanzend in plaats van een dikke, retro roomsaus — precies het verschil tussen een steak met champignonsaus en een echte Diane."
         }
       ],
-      "chef_tip": "Historisch-authentieke variant: klop de tournedos tussen plasticfolie plat tot ongeveer 1-1,5 cm — dat was oorspronkelijk de reden dat dit gerecht snel genoeg was om voor de ogen van gasten aan tafel te bereiden. Bak dan slechts 1-1,5 minuut per kant en breng ook maar 10-15 seconden terug in de saus.\n\nKlassieke steakhouse-touch: wikkel elke tournedos vóór het bakken in een plakje ontbijtspek, vastgezet met keukentouw — niet essentieel, maar historisch onderdeel van de steakhouse-sfeer waarin Diane populair werd.\n\nFlambeerveiligheid: houd een deksel binnen handbereik om de vlam eventueel snel te kunnen doven.\n\nWorcestersaus essentieel: Worcestersaus is essentieel — niet vervangen door sojasaus, niet weglaten. Dat donkere, hartige, licht gefermenteerde karakter ís Steak Diane.\n\nCognac-alternatief: Geen cognac in huis? Goede brandy werkt ook.\n\nVleeskeuze: Gebruik geen magere kogelbiefstuk — tournedos of mooie ossenhaasmedaillons zijn hier de juiste keuze.",
+      "chef_tip": "Historisch-authentieke variant: klop de tournedos tussen plasticfolie plat tot ongeveer 1-1,5 cm — dat was oorspronkelijk de reden dat dit gerecht snel genoeg was om voor de ogen van gasten aan tafel te bereiden. Bak dan slechts 1-1,5 minuut per kant en breng ook maar 10-15 seconden terug in de saus.\n\nReverse sear voor zekerheid: leg de tournedos op een rooster in een oven van 100°C boven-/onderwarmte tot een kern van circa 46-48°C. Dep daarna goed droog en bak in een zeer hete pan met wat olie nog ongeveer 45-60 seconden per kant tot een mooie korst. Richt op circa 52-54°C bij serveren. Maak de Diane-saus in dezelfde pan terwijl het vlees warm wordt gehouden, en leg het vlees alleen nog kort terug om met de saus te bedekken.\n\nKlassieke steakhouse-touch: wikkel elke tournedos vóór het bakken in een plakje ontbijtspek, vastgezet met keukentouw — niet essentieel, maar historisch onderdeel van de steakhouse-sfeer waarin Diane populair werd.\n\nFlambeerveiligheid: steek aan op veilige afstand van de afzuigkap, ook als die uitstaat, en houd een deksel binnen handbereik om de vlam eventueel snel te kunnen doven.\n\nWorcestersaus essentieel: Worcestersaus is essentieel — niet vervangen door sojasaus, niet weglaten. Dat donkere, hartige, licht gefermenteerde karakter ís Steak Diane.\n\nCognac-alternatief: Geen cognac in huis? Goede brandy werkt ook.\n\nVleeskeuze: Gebruik geen magere kogelbiefstuk — tournedos of mooie ossenhaasmedaillons zijn hier de juiste keuze.",
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Pinot Noir (Bourgogne, Frankrijk)",
           "druif": "Pinot Noir",
           "smaakprofiel": "Elegant, met kersen, rode bes, gedroogde rozenblaadjes en lichte aardse tonen. Zijdezachte tannines, levendige zuren, een lange, harmonieuze afdronk.",
-          "omschrijving": "",
+          "omschrijving": "Onze eerste keuze — rood fruit en finesse in plaats van zwaar hout en stevige tannine.",
           "waarom_werkt_dit": "De saus bevat cognac, mosterd en Worcestersaus — je wilt rood fruit en finesse, geen zwaar hout en stevige tannine. Pinot Noir sluit prachtig aan bij de champignons, zonder de theatrale cognacsaus te overweldigen.",
           "serveertemperatuur": "Serveer rond 15-16°C."
         },
@@ -75674,16 +75574,16 @@
           "naam": "Fleurie / Morgon (Cru Beaujolais, Beaujolais, Frankrijk)",
           "druif": "Gamay",
           "smaakprofiel": "Sappig, licht kruidig, niet te zwaar.",
-          "omschrijving": "",
+          "omschrijving": "De keuze voor wie liever iets lichter en frisser drinkt bij hetzelfde tafeltheater.",
           "waarom_werkt_dit": "Een frisse, elegante keuze die het steakhouse-karakter van de saus goed begeleidt zonder log te worden.",
           "serveertemperatuur": "Serveer rond 13-14°C."
         },
         {
-          "type": "meest-toegankelijk",
+          "type": "meest toegankelijk",
           "naam": "Rioja Crianza (Rioja, Spanje)",
           "druif": "Tempranillo",
           "smaakprofiel": "Zachte houtrijping, rijp rood fruit, kruidigheid.",
-          "omschrijving": "",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar — de meest toegankelijke, foutloze keuze bij deze steak.",
           "waarom_werkt_dit": "Een elegante, niet te zware Rioja werkt prachtig bij het steakhouse-karakter van de Diane-saus, met net genoeg structuur voor de ossenhaas.",
           "serveertemperatuur": "Serveer rond 15-16°C."
         }
@@ -79480,7 +79380,7 @@
       "title": "Gegrilde sojazeebaars met wakame, crispy nori en lichte citrussaus",
       "slug": "gegrilde-sojazeebaars-wakame-crispy-nori-citrussaus",
       "location": "Japan — minimalistische keuken",
-      "time": "25 min voorbereiding + 20 min marineren + 8 min bereiding",
+      "time": "25 min voorbereiding + 20 min marineren + 5–8 min bereiding",
       "servings": "4 personen (kleine bordjes)",
       "difficulty": "Gemiddeld",
       "keuken": "Japans",
@@ -79503,6 +79403,10 @@
             {
               "name": "mirin",
               "amount": "15 g"
+            },
+            {
+              "name": "neutrale olie, voor een dun laagje in de pan",
+              "amount": "1 tl"
             }
           ]
         },
@@ -79539,7 +79443,7 @@
           "group_name": "Voor de wakame",
           "ingredients": [
             {
-              "name": "bereide (geweekte) wakame",
+              "name": "naturel geweekte wakame, uitgelekt gewogen (geen kant-en-klare, gezoete sesam-zeewiersalade)",
               "amount": "50–60 g"
             },
             {
@@ -79568,47 +79472,43 @@
       ],
       "steps": [
         {
-          "action": "Zeebaars marineren",
+          "action": "Marineer de zeebaars",
           "description": "Meng de sojasaus en mirin. Leg de zeebaarsfilet erin, dek af en marineer 20 minuten in de koelkast."
         },
         {
-          "action": "Citrussaus inkoken",
+          "action": "Kook de citrussaus in",
           "description": "Breng mandarijnsap, dashi, limoensap, mirin en sojasaus samen aan de kook in een klein pannetje. Laat inkoken tot ongeveer 55–60 ml."
         },
         {
-          "action": "Monteren met boter",
+          "action": "Monteer met boter",
           "description": "Haal van het vuur. Klop de koude boter er in kleine porties doorheen, telkens laten opnemen voordat de volgende erbij gaat, tot de saus glanzend en licht gebonden is — niet meer laten koken. De boter moet echt koud zijn bij het monteren, dat voorkomt dat de saus gaat scheiden. Houd lauwwarm."
         },
         {
-          "action": "Wakame afmaken",
-          "description": "Meng de wakame met een paar druppels rijstazijn en een klein beetje sojasaus, net genoeg om hem iets van smaak te geven zonder de natuurlijke, milde smaak te overstemmen."
+          "action": "Maak de wakame af",
+          "description": "Gebruik naturel geweekte wakame, uitgelekt gewogen — geen kant-en-klare, gezoete sesam-zeewiersalade. Meng met een paar druppels rijstazijn en een klein beetje sojasaus, net genoeg om smaak te geven zonder de milde, natuurlijke smaak te overstemmen."
         },
         {
-          "action": "Nori krokant maken",
+          "action": "Maak de nori krokant",
           "description": "Snijd de nori in kleine stukjes. Rooster kort boven een vlam of in een droge, hete pan tot krokant — of frituur heel kort (5 seconden) in een klein beetje hete olie. Laat uitlekken."
         },
         {
-          "action": "Zeebaars grillen — 6–7 min",
-          "description": "Haal de filet uit de marinade en dep licht droog. Gril in een hete pan, met de velzijde eerst, 4 minuten tot krokant en goudbruin. Draai om en gril nog 2–3 minuten tot net gaar."
+          "action": "Bak de zeebaars vooral op het vel",
+          "description": "Dep de filet na het marineren goed droog met keukenpapier. Verhit een dun laagje olie in een hete pan en bak de zeebaars voornamelijk op de velzijde tot de huid krokant en goudbruin is. Draai daarna alleen kort om om de andere zijde af te garen. Reken op enkele minuten per zijde, maar laat een krokant vel en sappig, net gaar visvlees leidend zijn voor de totale tijd — bij een dunnere filet gaat dat sneller dan bij een dikkere."
         },
         {
-          "action": "Snijden",
-          "description": "Laat een minuut rusten en snijd dan pas in stukjes van ongeveer 2 cm — je houdt ongeveer 3–4 stukjes per persoon over. Grill de zeebaars als hele filet en snijd pas ná het garen: dat houdt de vis sappig."
+          "action": "Snijd de vis",
+          "description": "Laat een minuut rusten en snijd dan pas in stukjes van ongeveer 2 cm — je houdt ongeveer 3–4 stukjes per persoon over. Door de vis als hele filet te grillen en pas ná het garen te snijden, blijft hij sappig."
         },
         {
-          "action": "Opbouwen",
-          "description": "Verdeel een klein beetje wakame over vier kleine bordjes. Leg er 3–4 stukjes zeebaars op. Lepel een eetlepel warme citrussaus erover en eromheen. Werk af met de krokante nori."
-        },
-        {
-          "action": "Opbouw en presentatie",
-          "description": "Klein en precies: een paar stukjes vis, een beetje wakame, één lepel glanzende saus, wat krokante nori erover. Geen grote porties, geen overdaad — dit moet er intens en gefocust uitzien, niet als een volledig visgerecht."
+          "action": "Bouw op en serveer",
+          "description": "Verdeel een klein beetje wakame over vier kleine bordjes. Leg er 3–4 stukjes zeebaars op. Lepel de warme citrussaus naast de vis, niet erover, zodat het krokante vel krokant blijft. Werk vlak voor serveren af met de krokante nori, los van de saus. Klein en precies: een paar stukjes vis, een beetje wakame, een lepel glanzende saus, wat krokante nori erbij — geen grote porties, geen overdaad."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Door de vis als hele filet te marineren en te grillen en pas ná het garen te snijden, blijft hij sappig. De citrussaus met slechts een klein beetje dashi krijgt umami-diepte zonder een volwaardige bouillonsaus te worden, en boter monteren in plaats van binden met maizena geeft een natuurlijke, zijdezachte glans in plaats van een dikke, glanzende laag. Door de wakame nauwelijks te kruiden, blijft de aandacht bij de vis en de saus in plaats van dat het zeewier zijn eigen, herkenbare 'sesamsalade'-smaak opeist."
+          "description": "Door de vis als hele filet te marineren en te grillen en pas ná het garen te snijden, blijft hij sappig. Door de saus naast in plaats van over de vis te lepelen en de nori vlak voor serveren en los van de saus toe te voegen, blijven het krokante vel en de nori ook daadwerkelijk krokant. De citrussaus met slechts een klein beetje dashi krijgt umami-diepte zonder een volwaardige bouillonsaus te worden, en boter monteren in plaats van binden met maizena geeft een natuurlijke, zijdezachte glans. Door de wakame nauwelijks te kruiden, blijft de aandacht bij de vis en de saus in plaats van dat het zeewier zijn eigen, herkenbare 'sesamsalade'-smaak opeist."
         }
       ],
-      "chef_tip": "Vooruitwerken: de citrussaus-basis (vóór het monteren met boter) en de wakame kunnen vooraf gemaakt worden. Monteer de boter, gril de vis en frituur de nori pas vlak voor het serveren.\n\nGeen dashi in huis: een heel klein beetje water met een druppel extra sojasaus werkt als noodoplossing, al mis je dan wat umami-diepte.\n\nKoude boter: de boter moet echt koud zijn bij het monteren — dat voorkomt dat de saus gaat scheiden.\n\nTechniek: gebruik geen maizena om de citrussaus te binden — dat geeft een synthetische, te dikke glans in plaats van de zijdezachte glans van een botermontage.",
+      "chef_tip": "Vooruitwerken: de citrussaus-basis (vóór het monteren met boter) en de wakame kunnen vooraf gemaakt worden. Monteer de boter, bak de vis en frituur de nori pas vlak voor het serveren.\n\nGeen dashi in huis: een heel klein beetje water met een druppel extra sojasaus werkt als noodoplossing, al mis je dan wat umami-diepte.\n\nKoude boter: de boter moet echt koud zijn bij het monteren — dat voorkomt dat de saus gaat scheiden.\n\nTechniek: gebruik geen maizena om de citrussaus te binden — dat geeft een synthetische, te dikke glans in plaats van de zijdezachte glans van een botermontage.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -80664,23 +80564,23 @@
       "slug": "mini-krab-tartelet-schaaldiercreme-crispy-nori",
       "location": "Spanje — fine dining tapa-stijl",
       "time": "20 min voorbereiding + 10 min bereiding",
-      "servings": "4 personen (8 tartelets)",
+      "servings": "4 personen (8 tartelets van ca. 4 cm doorsnee)",
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/mini-krab-tartelet-schaaldiercreme-crispy-nori.jpg",
-      "short_description": "Krokante mini tarteletjes met een zijdezachte schaaldiercrème, fijne surimidraadjes en een vleugje crispy nori.",
-      "description": "Een eerlijke, betaalbare hommage aan de klassieke krabtartelet: surimi krijgt hier de restaurantbehandeling — sjalot, tomatenpuree, sherry en schaaldierbouillon worden ingekookt tot een zijdezachte crème, terwijl fijne draadjes surimi en een vleugje knapperige nori de illusie compleet maken. Geen dure schaaldieren nodig, wel het effect ervan.",
+      "short_description": "Krokante mini tarteletjes met echte krab, een zijdezachte schaaldiercrème en een vleugje crispy nori.",
+      "description": "Deze mini krab-tartelet gebruikt goed uitgelekt, gekookt krabvlees in herkenbare stukjes, boven op een zijdezachte schaaldiercrème van sjalot, tomatenpuree, sherry en room. Surimi is een betaalbaar alternatief, net als een koude variant met krabsalade van de visboer. Lauwwarm geserveerd in een krokant bakje — precies genoeg crème, precies genoeg krab.",
       "ingredient_groups": [
         {
           "group_name": "Voor de tartelets",
           "ingredients": [
             {
-              "name": "kleine filodeeg- of bladerdeegbakjes",
+              "name": "kleine filodeeg- of bladerdeegbakjes (ca. 4 cm doorsnee)",
               "amount": "8"
             },
             {
-              "name": "goede kwaliteit surimi",
+              "name": "goed uitgelekt, gekookt krabvlees",
               "amount": "150 g"
             }
           ]
@@ -80705,7 +80605,7 @@
               "amount": "1 tl"
             },
             {
-              "name": "sterke garnalen- of schaaldierbouillon (of goede kant-en-klare schaaldierfond)",
+              "name": "sterke schaaldierfond (zelfgemaakt of goede kant-en-klare)",
               "amount": "150 ml"
             },
             {
@@ -80738,43 +80638,43 @@
       ],
       "steps": [
         {
-          "action": "Verdeel de surimi",
-          "description": "Houd 50 g apart voor de afwerking en trek die met je vingers in fijne, luchtige draadjes. Snijd de overige 100 g grof."
+          "action": "Bereid het krabvlees voor",
+          "description": "Laat het krabvlees goed uitlekken. Houd het grotendeels in herkenbare stukjes en hak alleen de allergrootste stukken iets kleiner."
         },
         {
           "action": "Maak de basis",
           "description": "Smelt de boter op middellaag vuur. Voeg de sjalot toe en laat 3–4 minuten zacht worden zonder te kleuren. Voeg de tomatenpuree toe en bak 30 seconden mee."
         },
         {
-          "action": "Voeg de surimi toe",
-          "description": "Doe de 100 g surimi in de pan en bak 30–45 seconden mee. Voeg de sherry of brandy toe en laat vrijwel volledig verdampen."
+          "action": "Blus af",
+          "description": "Voeg de sherry of brandy toe en laat vrijwel volledig verdampen."
         },
         {
           "action": "Maak de schaaldiercrème",
-          "description": "Voeg de bouillon toe en laat 5–7 minuten rustig inkoken tot ongeveer tweederde over is. Voeg de room toe en laat nog 2–3 minuten zacht inkoken."
-        },
-        {
-          "action": "Blend en zeef",
-          "description": "Laat de massa 2–3 minuten iets afkoelen en blend volledig glad — met een staafmixer rechtstreeks in de pan gaat dit het soepelst. Duw daarna door een fijne zeef tot een zijdezachte, vrij dikke crème die op een lepel blijft liggen. Pro-tip voor een perfecte toef: zet de crème na het zeven 15–30 minuten in de koelkast. Door de room en boter stijft hij net genoeg op om hem strak en glanzend met een spuitzak in de bakjes te doseren. Breng op smaak met citroensap, witte peper en zout."
+          "description": "Voeg de schaaldierfond toe en laat 5–7 minuten rustig inkoken tot ongeveer tweederde over is. Voeg de room toe en laat nog 2–3 minuten zacht inkoken tot een dikke, vrij stevige crème die op een lepel blijft liggen. Laat 2–3 minuten iets afkoelen en blend volledig glad — met een staafmixer rechtstreeks in de pan gaat dit het soepelst. Duw daarna door een fijne zeef. Breng op smaak met citroensap, witte peper en zout."
         },
         {
           "action": "Maak de nori krokant",
           "description": "Rooster kort in een droge pan of 1–2 minuten in een oven van 160°C. Laat afkoelen en verkruimel fijn, maar niet tot poeder."
         },
         {
-          "action": "Vul de tartelets",
-          "description": "Warm de bakjes kort op volgens de verpakking. Vul elk bakje met ongeveer 1 royale theelepel schaaldiercrème."
+          "action": "Voeg het krabvlees toe",
+          "description": "Haal de crème van het vuur en schep het krabvlees er luchtig doorheen. Niet laten meekoken: het krabvlees moet in herkenbare stukjes blijven, niet wegzeven of fijn pureren."
         },
         {
-          "action": "Opbouw en presentatie",
-          "description": "Leg op elke gevulde tartelet een klein plukje surimidraadjes, werk af met een snuifje crispy nori en eventueel een druppel olijfolie. Serveer direct, zodat het bakje krokant blijft en de crème nog lauwwarm is."
+          "action": "Vul de tartelets",
+          "description": "Warm de bakjes kort op volgens de verpakking. Vul elk bakje met ongeveer een ruime eetlepel (circa 20 g) van de crème met krab, verdeeld over de 8 bakjes."
+        },
+        {
+          "action": "Opbouw en serveer",
+          "description": "Werk af met een snuifje crispy nori en eventueel een druppel olijfolie. Serveer direct en lauwwarm, zodat het bakje krokant blijft."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Surimi geeft zelf een herkenbare zoet-zilte krabsmaak, maar mist diepte. Die diepte komt uit de combinatie van sjalot, tomatenpuree, schaaldierbouillon en een klein scheutje sherry of brandy. De room maakt de vulling fluweelzacht. De fijne surimidraadjes bovenop geven textuur en visueel contrast, terwijl nori een zilt, umami-randje toevoegt dat het geheel meer richting zee trekt. Het krokante bakje is essentieel tegenover de zachte crème."
+          "description": "Echt krabvlees geeft zoet-zilte schaaldiepte met een duidelijke, herkenbare textuur — anders dan surimi, dat zachter en gelijkmatiger van structuur is. Door het krabvlees pas aan het einde, kort en zonder verder te koken, door de crème te scheppen blijft die textuur intact in plaats van weg te zeven. De crème zelf (sjalot, tomatenpuree, sherry, fond en room) geeft de diepte en romigheid; de nori voegt een zilt, umami-randje toe dat richting zee trekt. Het krokante bakje blijft essentieel tegenover de zachte, lauwwarme vulling."
         }
       ],
-      "chef_tip": "Kreeftenbisque-upgrade: vervang de bouillon door 100 ml kreeftenbisque + 50 ml water voor nog meer schaaldierdiepte.\n\nZelfgemaakte bakjes: voor een écht luxe versie druk je kleine velletjes filodeeg (bestreken met gesmolten boter) in een mini-muffinvorm en bak je op 180°C tot krokant.\n\nVooruitwerken: de crème kun je 1 dag vooraf maken. Bewaar koud en warm vlak voor serveren zachtjes door.\n\nPresentatie: zet de crème na het zeven 15–30 minuten in de koelkast — door de room en boter stijft hij net genoeg op om hem strak en glanzend met een spuitzak in de bakjes te doseren.\n\nServeertip: serveer de tartelets direct na het vullen, zodat het bakje krokant blijft en de crème nog lauwwarm is.",
+      "chef_tip": "Kreeftenbisque-upgrade: vervang de schaaldierfond door 100 ml kreeftenbisque + 50 ml water voor nog meer schaaldierdiepte.\n\nZelfgemaakte bakjes: voor een écht luxe versie druk je kleine velletjes filodeeg (bestreken met gesmolten boter) in een mini-muffinvorm en bak je op 180°C tot krokant.\n\nVooruitwerken: de crème kun je 1 dag vooraf maken. Bewaar koud en warm vlak voor serveren zachtjes door, voeg het krabvlees pas na het opwarmen toe.\n\nSurimi als alternatief: vervang het krabvlees door 150 g goede kwaliteit surimi, in fijne draadjes getrokken en kort meegebakken met de sjalot en tomatenpuree — een betaalbaar alternatief met een vergelijkbaar zoet-zilt effect.\n\nKoude variant met krabsalade: gebruik in plaats van de hoofdroute een goede krabsalade van de visboer, met daadwerkelijk krab en een bescheiden dressing. Niet verwarmen en niet door een warme crème mengen. Laat de schaaldiercrème achterwege of gebruik er slechts een klein beetje van, anders wordt het hapje te zwaar en te nat.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -80782,7 +80682,7 @@
           "druif": "Albariño",
           "smaakprofiel": "Limoen, witte perzik, citrusbloesem en een licht zilte toon in de geur. Droog, fris en levendig met hoge maar rijpe zuren.",
           "omschrijving": "Onze eerste keuze — de zilte frisheid van Albariño is de meest natuurlijke partner voor alles wat naar schaaldier en zee smaakt.",
-          "waarom_werkt_dit": "De zilte frisheid sluit direct aan op surimi, nori en schaaldiercrème. De zuren snijden mooi door room en boter.",
+          "waarom_werkt_dit": "De zilte frisheid sluit direct aan op krab, nori en schaaldiercrème. De zuren snijden mooi door room en boter.",
           "serveertemperatuur": "Serveer op 8–9°C."
         },
         {
