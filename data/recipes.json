@@ -81792,6 +81792,913 @@
           "serveertemperatuur": "Serveer op 14°C."
         }
       ]
+    },
+    {
+      "title": "Gamba met appel-meloensalsa, kokos-kerriecrème en krokante serrano",
+      "slug": "gamba-appel-meloensalsa-kokos-kerriecreme-serrano",
+      "location": "Spanje",
+      "time": "25 min voorbereiding + 15 min bereiding",
+      "servings": "4 personen (8 tapas, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Spaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/gamba-appel-meloensalsa-kokos-kerriecreme-serrano.jpg",
+      "short_description": "Een grote, sappige gamba met frisse appel-meloensalsa, een zachte kokos-kerriecrème en krokante scherven serranoham.",
+      "description": "Een kleine warme tapa met een grote sappige gamba, frisse blokjes appel en meloen, een zachte kokos-kerriecrème en een handvol krokante scherven serranoham. De kracht zit in de verhoudingen: veel gamba, weinig saus, weinig fruit en precies genoeg crunch — de gamba moet visueel en smaakmatig de hoofdrol houden.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de gamba's",
+          "ingredients": [
+            {
+              "name": "grote rauwe gamba's, gepeld en darmkanaal verwijderd",
+              "amount": "8"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "roomboter",
+              "amount": "10 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "2 g"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de appel-meloensalsa",
+          "ingredients": [
+            {
+              "name": "stevige frisse appel, bijvoorbeeld Elstar of Granny Smith",
+              "amount": "75 g"
+            },
+            {
+              "name": "rijpe maar stevige meloen (bij voorkeur cantaloupe)",
+              "amount": "100 g"
+            },
+            {
+              "name": "citroensap",
+              "amount": "3 ml"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "5 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de kokos-kerriecrème",
+          "ingredients": [
+            {
+              "name": "sjalot, zeer fijn gesneden",
+              "amount": "25 g"
+            },
+            {
+              "name": "boter",
+              "amount": "10 g"
+            },
+            {
+              "name": "milde kerriepoeder",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "droge witte wijn",
+              "amount": "30 ml"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "60 ml"
+            },
+            {
+              "name": "visfond",
+              "amount": "40 ml"
+            },
+            {
+              "name": "slagroom",
+              "amount": "30 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "klein snufje"
+            },
+            {
+              "name": "cayennepeper (optioneel, héél klein snufje)",
+              "amount": "snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de krokante serrano",
+          "ingredients": [
+            {
+              "name": "dunne plakken serranoham",
+              "amount": "2"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de serranoham krokant",
+          "description": "Verwarm de oven voor op 160°C. Leg de serranoham tussen twee vellen bakpapier en zet er een lichte ovenschaal of tweede bakplaat op. Bak 10–14 minuten tot de ham droog en krokant is. Laat volledig afkoelen en breek iedere plak in ongeveer vier elegante scherven."
+        },
+        {
+          "action": "Maak de kokos-kerriecrème",
+          "description": "Smelt de boter op laag vuur. Voeg de sjalot toe en laat 3 minuten zacht worden zonder te kleuren. Voeg de kerrie toe en bak 20 seconden mee. Blus af met de witte wijn en laat even inkoken. Schenk kokosmelk, visfond en room erbij en laat op laag vuur 5–7 minuten reduceren tot circa 90 ml overblijft. Blend glad en druk door een fijne zeef. Breng op smaak met zout en eventueel een bijna onzichtbaar snufje cayenne. De saus moet de dikte hebben van een lichte crème: vloeibaar genoeg om mooi te lepelen, maar niet waterig."
+        },
+        {
+          "action": "Maak de appel-meloensalsa",
+          "description": "Snijd appel en meloen in zeer kleine blokjes van ongeveer 3 mm. Meng voorzichtig met citroensap, olijfolie en een snufje zout. Laat 5 minuten staan en laat daarna goed uitlekken. De salsa moet sappig zijn, maar mag geen vochtplas op het bord veroorzaken."
+        },
+        {
+          "action": "Bak de gamba's",
+          "description": "Dep de gamba's zeer goed droog. Breng vlak voor het bakken op smaak met zout en zwarte peper. Verhit de olijfolie in een koekenpan op middelhoog tot hoog vuur. Bak de gamba's ongeveer 60–75 seconden aan de eerste zijde en 45–60 seconden aan de tweede zijde. Voeg de laatste 20 seconden de boter toe en lepel die kort over de gamba's. Haal ze direct uit de pan zodra ze nét gaar zijn."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Per tapa: leg eerst ongeveer 1 volle theelepel appel-meloensalsa neer, daarop 1 warme gamba, en lepel ongeveer 1 theelepel kokos-kerriecrème ernaast of half tegen de gamba. Werk af met een paar krokante scherven serranoham. Serveer zonder brood — de gamba moet visueel duidelijk de hoofdrol houden."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Gamba heeft van zichzelf een licht zoete, bijna romige schaaldierensmaak. Meloen versterkt die natuurlijke zoetheid, terwijl appel juist frisse spanning toevoegt. Kokos kan snel dominant worden, daarom gebruiken we slechts 60 ml en combineren we hem met visfond en room — zo ontstaat geen kokossoep, maar een lichte hartige crème met een exotische ondertoon. De kerrie wordt bewust zeer laag gedoseerd: hij geeft warmte en kruidigheid zonder dat het gerecht naar kerriesaus gaat smaken. Serranoham zorgt tenslotte voor zout en crunch — doordat hij apart krokant wordt gebakken en in scherven gebroken, kun je precies het juiste accent toevoegen zonder de gamba in ham te verpakken. Het resultaat draait om vier heldere contrasten: warm en koud, zacht en krokant, zoet en zilt, romig en fris."
+        }
+      ],
+      "chef_tip": "Geen grote gamba's?: gebruik grote rauwe garnalen. Kies liever 8 grote exemplaren dan 16 kleintjes — één mooie gamba per tapa geeft veel meer uitstraling.\n\nAndere meloen: cantaloupe geeft iets meer aroma en kleur, Galia is zachter en zoeter. Voor de meest verfijnde versie: stevige cantaloupe.\n\nSaus vooraf maken: de kokos-kerriecrème kan enkele uren vooraf worden gemaakt. Verwarm vlak voor serveren voorzichtig, niet hard laten koken.\n\nSalsa voorbereiden: appel en meloen kun je vooraf snijden, maar meng ze pas ongeveer 15 minuten voor serveren met citroen en olie.\n\nGeen serranoham?: dunne prosciutto crudo werkt technisch prima, maar voor de Spaanse stijl blijft serrano de voorkeur.\n\nIets frisser: als de meloen erg zoet is, voeg dan maximaal 1–2 ml extra citroensap aan de salsa toe — proef eerst, het moet niet zuur worden.\n\nExtra kruidig accent: een paar fijngesneden muntblaadjes door de salsa geven een fris contrast met de kerrie — lekker, maar optioneel; zonder munt blijft de salsa het schoonst van smaak.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Albariño — Rías Baixas, Galicië, Spanje",
+          "druif": "Albariño",
+          "smaakprofiel": "Witte perzik, limoen, grapefruit, citrusbloesem en vaak een herkenbare zilte zeeluchtachtige toon in de geur. Droog en levendig in de mond, met frisse zuren, voldoende body en een minerale, licht zilte afdronk.",
+          "omschrijving": "Onze eerste keuze — de zilte, levendige Albariño uit Rías Baixas is de natuurlijke partner van gamba.",
+          "waarom_werkt_dit": "Albariño sluit prachtig aan op de natuurlijke zoetheid en ziltigheid van de gamba. De citrusachtige zuren houden kokos, room en meloen fris, terwijl het aromatische witte fruit mooi meegaat met appel en meloen. De wijn heeft bovendien genoeg karakter om naast de serranoham overeind te blijven.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Godello — Valdeorras, Galicië, Spanje",
+          "druif": "Godello",
+          "smaakprofiel": "Peer, gele appel, witte perzik, bloemen en vaak een subtiele minerale of amandelachtige toon. Ronder en zachter dan Albariño, met middelvolle body en een mooie combinatie van rijp fruit en frisse spanning.",
+          "omschrijving": "De keuze voor wie een iets zachtere, luxere wijnstijl wil.",
+          "waarom_werkt_dit": "Godello sluit bijzonder mooi aan op de romigheid van kokos en room en op de zachte zoetheid van de meloen. Tegelijk houdt de minerale frisheid de combinatie met serrano en kerrie spannend.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Verdejo — Rueda, Spanje",
+          "druif": "Verdejo",
+          "smaakprofiel": "Citrus, groene appel, venkel, perzik en verse kruiden in de geur. Droog, fris en middellicht, met voldoende fruit en vaak een klein aangenaam bittertje in de afdronk.",
+          "omschrijving": "Breed verkrijgbaar en daardoor de makkelijkste goede keuze bij dit gerecht.",
+          "waarom_werkt_dit": "De groene appeltonen sluiten direct aan bij de salsa, terwijl citrus de romige saus verfrist. De kruidige kant van Verdejo werkt bovendien goed met de milde kerrie.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        }
+      ]
+    },
+    {
+      "title": "Udang Panggang Bermadu — gegrilde garnalen met kurkuma, chili en een honing-limoenlak",
+      "slug": "udang-panggang-bermadu-kurkuma-chili-honing-limoenlak",
+      "location": "Indonesië",
+      "time": "20 min voorbereiding (waarvan 15–20 min marineren) + 10 min bereiding",
+      "servings": "4 personen (12 grote garnalen, 3 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vis-zeevruchten",
+      "image": "/assets/images/udang-panggang-bermadu-kurkuma-chili-honing-limoenlak.jpg",
+      "short_description": "Grote garnalen met kop en schaal, kort gemarineerd in kerrieblad en kurkuma, zeer heet gegrild en op het laatst gelakt met honing en limoen.",
+      "description": "Grote garnalen met kop en schaal, kort gemarineerd in kerrieblad, kurkuma, chilipoeder en oestersaus, zeer heet gegrild en pas op het allerlaatst gelakt met honing en limoen — zodat de honing net karamelliseert zonder te verbranden.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de garnalen",
+          "ingredients": [
+            {
+              "name": "grote rauwe garnalen, liefst met kop en schaal",
+              "amount": "12"
+            },
+            {
+              "name": "limoen, in partjes",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "takjes kerrieblaadjes (daun kari), blaadjes geplukt en fijngehakt",
+              "amount": "2"
+            },
+            {
+              "name": "kerriepoeder",
+              "amount": "1 el"
+            },
+            {
+              "name": "gemalen kurkuma",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "chilipoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "honing",
+              "amount": "15 g"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "10 ml"
+            },
+            {
+              "name": "limoensap",
+              "amount": "10 ml"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "3 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de lak",
+          "ingredients": [
+            {
+              "name": "honing",
+              "amount": "10 g"
+            },
+            {
+              "name": "limoensap",
+              "amount": "5 ml"
+            },
+            {
+              "name": "warm water",
+              "amount": "5 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Verder",
+          "ingredients": [
+            {
+              "name": "bamboespiesjes, geweekt in water",
+              "amount": "12"
+            },
+            {
+              "name": "neutrale olie, om te grillen",
+              "amount": "15 ml"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de garnalen schoon",
+          "description": "Knip de schaal over de rugzijde open en verwijder het darmkanaal. Laat kop, schaal en staart eraan — de schaal beschermt het vlees tijdens het grillen en geeft extra smaak. Dep zeer goed droog."
+        },
+        {
+          "action": "Maak de marinade",
+          "description": "Meng kerrieblad, kerriepoeder, kurkuma, chilipoeder, honing, oestersaus, limoensap, olie en zout. Schep de garnalen er goed door en marineer 15–20 minuten in de koelkast — niet langer, anders begint de limoen de structuur van de garnaal te veranderen."
+        },
+        {
+          "action": "Maak de lak",
+          "description": "Meng honing, limoensap en warm water. Zet apart."
+        },
+        {
+          "action": "Rijg de garnalen",
+          "description": "Steek een bamboespies vanaf de staart richting de kop door iedere garnaal, zodat hij recht blijft tijdens het grillen."
+        },
+        {
+          "action": "Gril zeer heet",
+          "description": "Verhit een barbecue, plancha of grillpan zeer heet en bestrijk met de olie. Gril de garnalen ongeveer 1½ minuut aan de eerste zijde en 1–1½ minuut aan de tweede zijde. Bestrijk ze pas in de laatste 20–30 seconden met de honing-limoenlak, zodat de honing karamelliseert zonder te verbranden."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer onmiddellijk met de limoenpartjes ernaast, eventueel op verse bamboebladeren of donkergroene bladeren als ondergrond."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De marinade combineert drie lagen: kruidige kerrieblaadjes, aardse kurkuma en chili, en hartige oestersaus. Honing wordt bewust beperkt ingezet — in de marinade zorgt hij voor lichte karamellisatie, de dunne lak aan het eind geeft glans zonder het gerecht zoet te maken. Door de schaal te laten zitten tijdens het grillen blijft de garnaal sappiger en krijg je veel meer geroosterd schaaldieraroma."
+        }
+      ],
+      "chef_tip": "Geen kerrieblaadjes?: laat ze weg — de kerriepoeder en kurkuma dragen het grootste deel van de smaak.\n\nGeen oestersaus?: gebruik 8 ml lichte sojasaus plus 2 g extra honing.\n\nBarbecue versus pan: op houtskool krijg je het mooiste resultaat; een gloeiend hete gietijzeren grillpan is thuis de beste vervanger.\n\nVooruitwerken: marinade en lak kunnen enkele uren vooraf gemaakt worden. Marineer de garnalen pas 15–20 minuten voor het grillen.\n\nGepelde garnalen?: kan ook, maar verkort de baktijd naar ongeveer 60 seconden per zijde.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Gewürztraminer — Elzas, Frankrijk",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Lychee, rozenblaadjes, gember en tropisch fruit in de geur, met een volle, licht olieachtige structuur en milde zuren.",
+          "omschrijving": "Onze eerste keuze — aromatisch en bloemig, een klassieker bij Aziatische kruiden.",
+          "waarom_werkt_dit": "De aromatische, bloemige wijn spiegelt kurkuma en kerrieblad, terwijl de volle body goed standhoudt tegen de honinglak en de umami van de oestersaus.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Verdejo — Rueda, Spanje",
+          "druif": "Verdejo",
+          "smaakprofiel": "Citrus, groene appel, venkel en verse kruiden, droog en fris met een licht bittertje in de afdronk.",
+          "omschrijving": "De frisse, kruidige keuze voor wie het gerecht licht wil houden.",
+          "waarom_werkt_dit": "De kruidige, frisse kant van Verdejo snijdt door de chilihitte en houdt de garnaal licht.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Cava Brut — Spanje",
+          "druif": "Macabeo, Xarel·lo, Parellada",
+          "smaakprofiel": "Groene appel, citrus en lichte broodkorsttonen, droog en bruisend.",
+          "omschrijving": "Breed verkrijgbaar en betaalbaar, met bubbels die altijd werken bij gegrild schaaldier.",
+          "waarom_werkt_dit": "De mousse verfrist na elke hap en snijdt mooi door de honingkorst.",
+          "serveertemperatuur": "Serveer op 7–8°C."
+        }
+      ]
+    },
+    {
+      "title": "Daging Goreng — rundvleeswok met paprika, gember en oestersaus",
+      "slug": "daging-goreng-rundvleeswok-paprika-gember-oestersaus",
+      "location": "Indonesië",
+      "time": "15 min voorbereiding + 15 min bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/daging-goreng-rundvleeswok-paprika-gember-oestersaus.jpg",
+      "short_description": "Dungesneden rundvlees, apart kort geschroeid en teruggegeven aan paprika, gember en een glanzende hartige saus.",
+      "description": "Dungesneden rundvlees wordt apart kort en hard geschroeid, en pas op het eind teruggegeven aan paprika, ui, tomaat en een glanzende hartige saus — zo blijft het mals in plaats van taai. Snel, kleurrijk en precies het soort gerecht voor een drukke doordeweekse avond.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het rundvlees",
+          "ingredients": [
+            {
+              "name": "entrecote of kogelbiefstuk, dun gesneden tegen de draad in",
+              "amount": "300 g"
+            },
+            {
+              "name": "gemalen kurkuma",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "3 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "10 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de groenten",
+          "ingredients": [
+            {
+              "name": "middelgrote ui (ca. 120 g), in halve ringen",
+              "amount": "1"
+            },
+            {
+              "name": "rode paprika, in dunne repen",
+              "amount": "1"
+            },
+            {
+              "name": "gele paprika, in dunne repen",
+              "amount": "1"
+            },
+            {
+              "name": "rijpe tomaten, ontzaad en in parten",
+              "amount": "2"
+            },
+            {
+              "name": "tenen knoflook, fijn gesneden",
+              "amount": "3"
+            },
+            {
+              "name": "verse gember, in fijne reepjes",
+              "amount": "20 g"
+            },
+            {
+              "name": "rode chilipepers, in dunne ringetjes",
+              "amount": "1–2"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "15 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de saus",
+          "ingredients": [
+            {
+              "name": "oestersaus",
+              "amount": "30 g"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "20 ml"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "10 ml"
+            },
+            {
+              "name": "water",
+              "amount": "40 ml"
+            },
+            {
+              "name": "suiker",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te serveren",
+          "ingredients": [
+            {
+              "name": "gare noedels, of 450 g gekookte jasmijnrijst",
+              "amount": "300 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Kruid het vlees",
+          "description": "Meng het rundvlees met kurkuma, zwarte peper, zout en de olie. Laat 10 minuten staan."
+        },
+        {
+          "action": "Maak de saus",
+          "description": "Meng oestersaus, sojasaus, ketjap manis, water en suiker. Zet klaar naast de wok."
+        },
+        {
+          "action": "Schroei het vlees",
+          "description": "Verhit de wok of een grote koekenpan zeer heet. Bak het vlees in één laag 60–90 seconden, schep om en bak nog maximaal 30 seconden. Haal direct uit de pan — het hoeft nog niet volledig gaar te zijn."
+        },
+        {
+          "action": "Roerbak de aromaten",
+          "description": "Voeg de olie toe. Bak ui, gember en chili 1 minuut op hoog vuur. Voeg knoflook toe en bak nog 20 seconden."
+        },
+        {
+          "action": "Voeg de paprika toe",
+          "description": "Roerbak de rode en gele paprika ongeveer 2 minuten, tot ze warm en licht geblakerd zijn maar nog duidelijk beet houden."
+        },
+        {
+          "action": "Tomaat en saus",
+          "description": "Voeg de tomaat toe en bak 30 seconden. Giet de saus langs de hete wokrand en laat 30–45 seconden bruisen."
+        },
+        {
+          "action": "Vlees terug",
+          "description": "Doe het rundvlees terug in de wok en schep nog 30–60 seconden door tot alles glanst en het vlees nét gaar is."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer onmiddellijk met noedels of jasmijnrijst, de runderwok er direct overheen of ernaast."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Rundvlees wordt taai als het samen met alle groenten te lang in de wok blijft. Daarom wordt het eerst apart zeer kort aangebakken en pas op het eind teruggegeven. Oestersaus zorgt voor hartige diepte, lichte soja voor zout en ketjap manis voor een kleine ronde zoetheid — door maar 10 ml ketjap te gebruiken blijft het een glanzende woksaus en geen zoete ketjapschotel. Paprika en tomaat brengen frisheid en sappigheid tegenover het donkere vlees en de umamirijke saus."
+        }
+      ],
+      "chef_tip": "Welk rundvlees?: entrecote geeft iets meer smaak en sappigheid, kogelbiefstuk is iets magerder en strakker.\n\nSnijrichting: altijd dwars op de draad snijden — dat maakt meer verschil voor malsheid dan welke marinade ook.\n\nKleine wok?: bak het vlees in twee porties — een overvolle wok koelt af en gaat stoven in plaats van schroeien.\n\nPittiger: gebruik rauwe rode chili of sambal oelek aan tafel in plaats van extra suikerige chilisaus.\n\nVooruitwerken: groenten en saus kunnen enkele uren vooraf voorbereid worden. Kruid het vlees pas vlak voor het bakken.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Cru Beaujolais (Fleurie of Morgon) — Beaujolais, Frankrijk",
+          "druif": "Gamay",
+          "smaakprofiel": "Rood fruit zoals kers en framboos, viooltjes en een lichte kruidigheid, met sappige, frisse zuren en weinig tannine.",
+          "omschrijving": "Onze eerste keuze — een lichte, fruitige rode wijn die koel geserveerd bij een pittige wok past.",
+          "waarom_werkt_dit": "De lichte, fruitige rode wijn is koel genoeg te serveren om bij een pittig roerbakgerecht te passen, terwijl de frisse zuren soja en oestersaus in balans houden.",
+          "serveertemperatuur": "Serveer op 13–14°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Jonge Garnacha — Spanje",
+          "druif": "Garnacha",
+          "smaakprofiel": "Rijp rood fruit, aardbei en kers, soepel en laag in tannine.",
+          "omschrijving": "De ronde, soepele keuze voor wie meer fruit in het glas wil.",
+          "waarom_werkt_dit": "De ronde fruitigheid vangt de pittigheid en umami van de saus op zonder zwaar te worden naast het rundvlees.",
+          "serveertemperatuur": "Serveer op 14°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Droge rosé — Provence, Frankrijk",
+          "druif": "Grenache, Cinsault",
+          "smaakprofiel": "Rode bes, perzik en een lichte kruidigheid, droog en fris.",
+          "omschrijving": "Breed verkrijgbaar, verkoelend en probleemloos bij pittige wokgerechten.",
+          "waarom_werkt_dit": "De frisheid en lichte body maken dit een probleemloze, verkoelende keuze bij een pittig roerbakgerecht.",
+          "serveertemperatuur": "Serveer op 10–11°C."
+        }
+      ]
+    },
+    {
+      "title": "Pulut Kuning & Gulai Telur — gele kleefrijst met kruidige eiercurry",
+      "slug": "pulut-kuning-gulai-telur-gele-kleefrijst-eiercurry",
+      "location": "Indonesië",
+      "time": "30 min voorbereiding (plus minimaal 2 uur weken van de rijst) + 1 uur bereiding",
+      "servings": "4 personen",
+      "difficulty": "Gevorderd",
+      "keuken": "Indonesisch",
+      "categorie": "pasta-rijst",
+      "image": "/assets/images/pulut-kuning-gulai-telur-gele-kleefrijst-eiercurry.jpg",
+      "short_description": "Geurige gele kleefrijst met kokos, geserveerd met licht aangebakken eieren in een warme kokoscurry van kaneel, steranijs en kardemom.",
+      "description": "Geurige gele kleefrijst met kokos en kurkuma, gecombineerd met licht aangebakken hardgekookte eieren in een warme, aromatische kokoscurry met aardappel, kaneel, steranijs en kardemom. Een comfortabel, traditioneel gerecht dat ook zonder vlees een volwaardige maaltijd is.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de pulut kuning",
+          "ingredients": [
+            {
+              "name": "kleefrijst",
+              "amount": "300 g"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "250 ml"
+            },
+            {
+              "name": "water",
+              "amount": "150 ml"
+            },
+            {
+              "name": "gemalen kurkuma",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "limoenblaadjes (djeruk purut)",
+              "amount": "2"
+            },
+            {
+              "name": "stengel citroengras, gekneusd",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de eieren",
+          "ingredients": [
+            {
+              "name": "eieren",
+              "amount": "6"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "10 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gulai",
+          "ingredients": [
+            {
+              "name": "vastkokende aardappelen, in blokken van ca. 3 cm",
+              "amount": "350 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "15 ml"
+            },
+            {
+              "name": "kaneelstokje",
+              "amount": "1"
+            },
+            {
+              "name": "steranijs",
+              "amount": "2"
+            },
+            {
+              "name": "kardemompeulen, gekneusd",
+              "amount": "4"
+            },
+            {
+              "name": "kruidnagels",
+              "amount": "4"
+            },
+            {
+              "name": "kerrieblaadjes (daun kari) of 1 daun salam, indien verkrijgbaar",
+              "amount": "4"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "300 ml"
+            },
+            {
+              "name": "water",
+              "amount": "200 ml"
+            },
+            {
+              "name": "zout",
+              "amount": "5 g"
+            },
+            {
+              "name": "palmsuiker of gewone suiker",
+              "amount": "5 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de boemboe",
+          "ingredients": [
+            {
+              "name": "sjalot",
+              "amount": "100 g"
+            },
+            {
+              "name": "tenen knoflook",
+              "amount": "4"
+            },
+            {
+              "name": "verse gember",
+              "amount": "25 g"
+            },
+            {
+              "name": "rode chilipeper",
+              "amount": "1"
+            },
+            {
+              "name": "gemalen koriander",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gemalen komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "gemalen kurkuma",
+              "amount": "½ tl"
+            },
+            {
+              "name": "water",
+              "amount": "15 ml"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Week de kleefrijst",
+          "description": "Spoel de rijst tot het water vrijwel helder is. Week minimaal 2 uur in ruim koud water. Giet zeer goed af."
+        },
+        {
+          "action": "Stoom de rijst",
+          "description": "Bekleed een stoommand of vergiet met bakpapier waarin enkele gaatjes zijn geprikt. Stoom de rijst 20 minuten."
+        },
+        {
+          "action": "Maak de kokosbasis",
+          "description": "Verwarm kokosmelk, water, kurkuma, zout, limoenblad en citroengras tot net onder het kookpunt. Haal citroengras en limoenblad er na 5 minuten uit."
+        },
+        {
+          "action": "Laat de rijst kokos opnemen",
+          "description": "Doe de halfgare rijst in een schaal, giet de warme kokosbasis er geleidelijk over en schep voorzichtig om. Laat 10 minuten staan zodat de rijst het vocht opneemt."
+        },
+        {
+          "action": "Stoom opnieuw",
+          "description": "Stoom nog 15–20 minuten tot de rijst volledig gaar, glanzend en kleverig is. Houd warm."
+        },
+        {
+          "action": "Kook de eieren",
+          "description": "Kook de eieren 9 minuten, koel terug, pel ze en dep droog. Maak met een mes 2–3 ondiepe sneetjes in elk ei."
+        },
+        {
+          "action": "Bak de eieren licht aan",
+          "description": "Verhit de olie en bak de eieren rondom 2–3 minuten tot ze enkele goudbruine plekjes krijgen. Haal uit de pan."
+        },
+        {
+          "action": "Maak de boemboe",
+          "description": "Blend sjalot, knoflook, gember, chili, koriander, komijn, kurkuma en water tot een grove pasta."
+        },
+        {
+          "action": "Bak de specerijen",
+          "description": "Verhit de olie. Bak kaneel, steranijs, kardemom, kruidnagel en kerrieblaadjes 30 seconden. Voeg de boemboe toe en bak op middelhoog vuur 4–5 minuten, tot de rauwe geur verdwenen is en de pasta donkerder en aromatischer wordt."
+        },
+        {
+          "action": "Maak de gulai",
+          "description": "Voeg kokosmelk, water, zout en suiker toe. Breng zacht aan de kook, voeg de aardappel toe en laat 12–15 minuten rustig sudderen tot bijna gaar."
+        },
+        {
+          "action": "Eieren erbij",
+          "description": "Voeg de eieren toe en laat nog 8 minuten op zeer laag vuur meepruttelen. De saus moet licht romig en geurend zijn, niet dik als een curry-pasta."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Schep per persoon ongeveer 150 g gele kleefrijst op een bord of in een kommetje — druk de rijst in het kommetje en keer hem om voor een strakke, compacte vorm. Serveer met 1½ ei per persoon, aardappel en royaal wat gulaisaus."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Pulut kuning wordt niet simpelweg in kokosmelk gekookt. Door de rijst eerst te stomen en daarna warme kokosmelk geleidelijk te laten opnemen, blijft iedere korrel herkenbaar terwijl de rijst toch zacht en kleverig wordt. De gulai krijgt diepte uit twee lagen: hele specerijen voor warme aroma's en een gebakken boemboe voor hartigheid en scherpte. Het licht aanbakken van de gekookte eieren geeft een steviger buitenlaagje en geroosterde smaak, waardoor ze veel interessanter worden in de zachte kokoscurry. Aardappel absorbeert de kruidige saus en maakt het gerecht compleet zonder extra vlees nodig te hebben."
+        }
+      ],
+      "chef_tip": "Geen stoommand?: gebruik een metalen vergiet boven een pan met zacht kokend water en sluit zo goed mogelijk af met een deksel.\n\nKleefrijst is echt nodig: gewone jasmijnrijst geeft niet dezelfde textuur — zoek naar glutinous rice, sticky rice of ketan.\n\nGeen kerrieblaadjes?: laat ze weg; voeg niet automatisch laurier toe, dat geeft een ander aroma.\n\nVooruitwerken: de gulai is de volgende dag vaak nóg lekkerder. Verwarm rustig en voeg eventueel 30–50 ml water toe als de saus te dik wordt.\n\nPittiger: voeg een extra rode chili aan de boemboe toe, of serveer sambal apart.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Vouvray demi-sec — Loire, Frankrijk",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Kweepeer, honing, gele appel en een lichte frisse zuurgraad in de geur, met een zachte, licht zoete structuur.",
+          "omschrijving": "Onze eerste keuze — een lichtzoete Chenin Blanc die warme kruiden en kokos opvangt.",
+          "waarom_werkt_dit": "De lichte zoetheid vangt de warme kruiden en kokosmelk op, terwijl de frisse zuren van Chenin Blanc de rijkdom van de curry in balans houden.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Gewürztraminer — Elzas, Frankrijk",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Lychee, rozenblaadjes, gember en tropisch fruit, vol van structuur met milde zuren.",
+          "omschrijving": "De geurige keuze voor wie de specerijen in het glas wil terugvinden.",
+          "waarom_werkt_dit": "De aromatische, bloemige kant van de wijn sluit mooi aan op kaneel, steranijs en kardemom, terwijl de volle body de romige kokoscurry goed opvangt.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Pinot Gris — Elzas, Frankrijk",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Perzik, peer en een lichte kruidigheid, zachter en minder uitgesproken dan Gewürztraminer.",
+          "omschrijving": "Breed inzetbaar en makkelijk te vinden — de rustige keuze bij dit gerecht.",
+          "waarom_werkt_dit": "Genoeg body en fruit voor de curry, zonder de uitgesproken intensiteit van Gewürztraminer.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        }
+      ]
+    },
+    {
+      "title": "Hunkee-stijl kipreepjes met ui, paprika en zwarte peper",
+      "slug": "hunkee-kipreepjes-ui-paprika-zwarte-peper",
+      "location": "Rotterdam",
+      "time": "15 min voorbereiding + 15 min bereiding",
+      "servings": "2–3 personen",
+      "difficulty": "Gemiddeld",
+      "keuken": "Chinees",
+      "categorie": "vlees",
+      "image": "/assets/images/hunkee-kipreepjes-ui-paprika-zwarte-peper.jpg",
+      "short_description": "Krokante kip, hard gewokte ui en paprika, en een peperdosering die niet subtiel wil zijn.",
+      "description": "Bij Hunkee in Rotterdam staat al jarenlang een gerecht op de kaart dat bijna niemand overslaat: kip met veel ui en zwarte peper, droog gewokt, zonder saus, zonder gedoe. Geen chique plating, geen frisse garnering die de randjes afzwakt — alleen krokante kip, scherp gebakken ui en zoveel zwarte peper dat je 'm bij elke hap terugproeft. Deze versie neemt dat gerecht als uitgangspunt en bouwt het thuis op: kipdijreepjes in een dun maïzena-jasje, gefrituurd tot krokant, daarna kort samen met gelijke delen ui en paprika op bijna te hoog vuur gewokt tot de randjes donker en karameliserend zijn, en afgemaakt met een peper-zoutmengsel dat je ruiken kan voordat je het ziet.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de kip",
+          "ingredients": [
+            {
+              "name": "kipdijfilet, zonder vel, in dunne reepjes van ca. 1 x 5 cm",
+              "amount": "450 g"
+            },
+            {
+              "name": "eiwit",
+              "amount": "1"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "maïzena",
+              "amount": "80 g"
+            },
+            {
+              "name": "arachideolie of zonnebloemolie, om te frituren",
+              "amount": "1 l"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het zwarte peper-zoutmengsel",
+          "ingredients": [
+            {
+              "name": "fijn zeezout",
+              "amount": "1 tl"
+            },
+            {
+              "name": "vers grof gekneusde zwarte peper",
+              "amount": "2 tl"
+            },
+            {
+              "name": "Chinees vijfkruidenpoeder",
+              "amount": "¼–½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de wok-afwerking",
+          "ingredients": [
+            {
+              "name": "arachideolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "middelgrote ui (ca. 120 g), in dunne halve ringen",
+              "amount": "1"
+            },
+            {
+              "name": "grote groene paprika (ca. 120–130 g), in repen van vergelijkbare dikte als de ui",
+              "amount": "1"
+            },
+            {
+              "name": "teen knoflook, fijngehakt",
+              "amount": "1"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te serveren",
+          "ingredients": [
+            {
+              "name": "limoenpartjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "lente-ui, in fijne ringetjes",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak het peper-zoutmengsel",
+          "description": "Meng in een klein kommetje het zout, de zwarte peper en het vijfkruidenpoeder. Zet apart. Dit mengsel is het hart van het gerecht, dus proef het zelf even droog — het mag al stevig naar peper smaken voordat het ergens bij komt."
+        },
+        {
+          "action": "Marineer de kip licht",
+          "description": "Doe de kipreepjes in een kom en meng met het eiwit en de sojasaus. Schep goed om zodat alle reepjes licht bedekt zijn en laat 5 minuten staan. Dit is geen diepe marinade, alleen een dunne basislaag die de maïzena straks helpt hechten."
+        },
+        {
+          "action": "Paneer de kip",
+          "description": "Doe de maïzena in een ruime kom en haal de kipreepjes erdoor tot ze volledig bedekt zijn. Schud overtollige maïzena goed af. De kip moet een licht, droog, gelijkmatig laagje hebben — geen dikke klonten, anders wordt het jasje bij het frituren bros in plaats van knapperig."
+        },
+        {
+          "action": "Verhit de frituurolie",
+          "description": "Verhit de olie in een wok, diepe pan of frituurpan tot 180°C. Geen thermometer? Dan is de olie goed wanneer een klein snufje maïzena direct bruisend sist."
+        },
+        {
+          "action": "Frituur de kip",
+          "description": "Frituur de kip in 2 porties, zodat de pan niet te vol wordt en de temperatuur niet inzakt. Bak per portie ongeveer 2½–3 minuten, tot de kip goudblond, krokant en net gaar is. Schep uit de olie en laat uitlekken op een rooster of op keukenpapier."
+        },
+        {
+          "action": "Wok ui en paprika hard aan",
+          "description": "Verhit 1 el arachideolie in een wok of grote koekenpan tot hij gloeiend heet is. Voeg ui en paprika gelijktijdig toe — door ze op vergelijkbare dikte te snijden garen ze in hetzelfde tempo. Bak 1½–2 minuten hard, met weinig bewegen. Dit is het moment waarop het gerecht zijn Hunkee-karakter krijgt: niet zachtjes laten slinken, maar echt laten schroeien tot de randjes donker en licht krokant zijn, terwijl de kern nog beet houdt. Voeg de knoflook toe en bak de laatste 10–15 seconden mee."
+        },
+        {
+          "action": "Maak het gerecht af",
+          "description": "Voeg de gefrituurde kip toe aan de wok en bestrooi direct met het zwarte peper-zoutmengsel. Schep alles 20–30 seconden snel om op hoog vuur. Proef, en voeg zonder aarzelen nog wat extra peper toe als het nog niet scherp genoeg aanvoelt — dit is een gerecht waar te voorzichtig zijn de grootste fout is. Zet het vuur uit en roer de sesamolie erdoor."
+        },
+        {
+          "action": "Serveren",
+          "description": "Werk af met lente-ui en serveer direct, met limoenpartjes los erbij zodat iedereen zelf kan bepalen of ze frisheid willen toevoegen."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer in een warme kom of op een diep bord, direct uit de wok. De kip moet zichtbaar krokant blijven en niet onderin een plas vocht liggen. Laat ui en paprika losjes tussen de kip liggen — geen strakke opbouw, dat oogt juist levendiger en laat de donkere, gekaramelliseerde randjes van de ui goed zien. Dit is een gerecht dat eruit mag zien als wat het is: direct uit een gloeiend hete wok, niet gestileerd."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Het gerecht bij Hunkee werkt omdat het niets overbodigs doet: kip, ui, peper, zout, klaar. Geen zoete saus die de scherpte verdoezelt, geen overdaad aan groenten die het beeld vertroebelt. Deze versie houdt die discipline aan, maar geeft ui en paprika gelijk gewicht in plaats van de paprika een bijrol te laten spelen — zo blijft het gerecht herkenbaar als de Hunkee-klassieker, zonder dat de paprika wordt weggelaten. De techniek maakt het verschil. Door ui en paprika op hoog vuur kort en hard te bakken in plaats van zacht te stoven, ontstaat een zoete, licht verkoolde rand terwijl de groente zelf nog beet houdt — precies het contrast dat slap gestoofde groente mist. De kip wordt apart gefrituurd tot volledig krokant en gaat pas op het eind heel kort de wok in, zodat het korstje niet de kans krijgt vochtig te worden. En de zwarte peper wordt hier bewust niet subtiel gedoseerd: 2 theelepels grof gekneusd is een flinke hoeveelheid, maar dat is precies het punt — het gerecht moet nadrukkelijk naar peper smaken, niet er alleen naar verwijzen. Limoen is uit het gerecht gehaald en wordt los geserveerd, zodat wie dat wil zelf frisheid kan toevoegen zonder dat de directe, pepergedreven smaak wordt verdund voor iedereen aan tafel."
+        }
+      ],
+      "chef_tip": "Gebruik kipdij, geen kipfilet: kipdij blijft sappiger en heeft meer smaak. Kipfilet droogt sneller uit tijdens het frituren en levert een minder interessant contrast op met het krokante jasje.\n\nSnijd ui en paprika op gelijke dikte: dat zorgt ervoor dat ze in dezelfde tijd garen en de verhouding tussen beide groenten in het eindresultaat consistent blijft.\n\nNiet te veel vijfkruidenpoeder: vijfkruiden is hier ondersteunend, niet dominant. Dit gerecht moet in de eerste plaats naar zwarte peper, zout en gebakken ui en paprika smaken.\n\nFrituur altijd in porties: te veel kip tegelijk in de olie laat de temperatuur te veel dalen, waardoor het jasje slap en vettig wordt in plaats van krokant.\n\nServeer meteen: dit gerecht is op zijn best direct uit de wok. Wachten kost onvermijdelijk krokantheid.\n\nVoor extra crunch: laat de gefrituurde kip 2 minuten rusten en frituur hem daarna nog 30 seconden een tweede keer. Niet noodzakelijk, maar wel een merkbaar verschil in textuur.",
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Grüner Veltliner — Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Frisse citrus, groene appel, witte peper en lichte kruidigheid in de geur. Droog, levendig en strak, met frisse zuren en een licht kruidige, peperige afdronk.",
+          "omschrijving": "Onze eerste keuze — van nature peperig, dus een logische spiegel voor dit gerecht.",
+          "waarom_werkt_dit": "De natuurlijke peperigheid van Grüner Veltliner sluit vrijwel naadloos aan op het nadrukkelijke zwarte-peperprofiel van dit gerecht. De frisse zuren snijden mooi door het krokante, gefrituurde karakter en de gekarameliseerde ui heen, en houden het geheel licht ondanks de pittige afwerking.",
+          "serveertemperatuur": "Serveer op 8–9°C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chenin Blanc — Loire of Zuid-Afrika",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Gele appel, kweepeer, citrus, bloesem en soms een lichte honingtoon in de geur. Droog tot licht rond, met voldoende fruit, fijne zuren en een mooie spanning.",
+          "omschrijving": "De keuze voor wie iets meer ronding in het glas wil.",
+          "waarom_werkt_dit": "Chenin heeft net iets meer ronding dan Grüner, wat goed werkt bij gefrituurde kip, sesamolie en de zoetige, gekarameliseerde ui. Tegelijk blijft hij fris genoeg om de stevige peper en de paprika in balans te houden.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Pinot Gris — Elzas of koeler Nieuwe Wereld-klimaat",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Peer, appel, witte perzik en een zachte kruidigheid in de geur. Middelvol, soepel en vriendelijk, met milde zuren en voldoende body.",
+          "omschrijving": "Breed verkrijgbaar en vriendelijk — de makkelijke keuze bij deze pittige kip.",
+          "waarom_werkt_dit": "Pinot Gris is een toegankelijke keuze als je iets wilt dat zacht genoeg is voor het gefrituurde element en de zoete ui, maar toch genoeg frisheid heeft om de stevige zwarte peper te dragen.",
+          "serveertemperatuur": "Serveer op 9–10°C."
+        }
+      ]
     }
   ]
 }
