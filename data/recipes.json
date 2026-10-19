@@ -9970,20 +9970,20 @@
       "title": "Koe Loe Joek van varkenshaas met zoetzure ananassaus",
       "slug": "koe-loe-joek-varkenshaas",
       "location": "Kanton",
-      "time": "40 min + 30 min marineren",
+      "time": "50 min + 20–30 min marineren",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Chinees",
       "categorie": "vlees",
       "image": "/assets/images/koe-loe-joek-varkenshaas.jpg",
-      "short_description": "Krokante blokjes varkenshaas gelakt in een glanzende zoetzure ananassaus met paprika en ui.",
-      "description": "Koe loe joek zoals het hoort: varkenshaas met een luchtig krokant laagje, op het laatste moment door een glanzende zoetzure saus geschept zodat elk stukje lakt maar het korstje niet week wordt. Tweemaal frituren is geen overdrijving — het is het verschil.",
+      "short_description": "Dikke, opgeblazen bierbeslagbolletjes van varkenshaas, goudbruin en krokant buiten, luchtig en zacht binnen, met een glanzende zoetzure ananassaus.",
+      "description": "Koe loe joek zoals je hem kent van de goede Chinees-Indische restaurateur: blokjes varkenshaas in een royale, luchtige beslagkorst die lijkt op een kleine oliebol. Eerst rustig gaar gefrituurd, daarna kort op hoge temperatuur krokant gemaakt. De saus is fruitig en frisser zoetzuur dan het bekende rode spul, en komt bij voorkeur apart zodat de korst knapperig blijft.",
       "ingredient_groups": [
         {
           "group_name": "Vlees",
           "ingredients": [
             {
-              "name": "varkenshaas, in blokjes van 3 cm",
+              "name": "varkenshaas, in blokjes van 2,5–3 cm",
               "amount": "600 g"
             },
             {
@@ -10013,31 +10013,44 @@
           ]
         },
         {
-          "group_name": "Krokant laagje",
+          "group_name": "Bierbeslag",
           "ingredients": [
+            {
+              "name": "tarwebloem",
+              "amount": "110 g"
+            },
+            {
+              "name": "maïzena",
+              "amount": "45 g"
+            },
+            {
+              "name": "bakpoeder",
+              "amount": "7 g"
+            },
             {
               "name": "eiwit",
               "amount": "1"
             },
             {
-              "name": "maizena",
-              "amount": "5 el"
+              "name": "ijskoud pilsener",
+              "amount": "140 ml"
             },
             {
-              "name": "bloem",
-              "amount": "2 el"
-            },
-            {
-              "name": "bakpoeder",
-              "amount": "½ tl"
-            },
-            {
-              "name": "ijskoud water",
-              "amount": "2–3 el"
+              "name": "neutrale olie",
+              "amount": "10 ml"
             },
             {
               "name": "zout",
-              "amount": "snuf"
+              "amount": "3 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te frituren",
+          "ingredients": [
+            {
+              "name": "neutrale olie",
+              "amount": "ca. 2 l"
             }
           ]
         },
@@ -10045,50 +10058,58 @@
           "group_name": "Zoetzure ananassaus",
           "ingredients": [
             {
-              "name": "ananassap",
-              "amount": "200 ml"
+              "name": "vers ananassap",
+              "amount": "65 ml"
+            },
+            {
+              "name": "vers sinaasappelsap",
+              "amount": "45 ml"
             },
             {
               "name": "rijstazijn",
-              "amount": "75 ml"
+              "amount": "65 ml"
             },
             {
               "name": "ketchup",
-              "amount": "4 el"
+              "amount": "65 g"
             },
             {
-              "name": "suiker",
-              "amount": "2 el"
+              "name": "kristalsuiker",
+              "amount": "45 g"
             },
             {
               "name": "lichte sojasaus",
-              "amount": "1 el"
+              "amount": "15 ml"
             },
             {
               "name": "tomatenpuree",
-              "amount": "1 tl"
+              "amount": "5 g"
             },
             {
               "name": "verse gember, fijn geraspt",
-              "amount": "1 tl"
+              "amount": "6 g"
             },
             {
               "name": "knoflookteen, fijn geraspt",
               "amount": "½"
             },
             {
-              "name": "maizena, gemengd met 2 el koud water",
-              "amount": "1½ tl"
+              "name": "fijne sinaasappelrasp",
+              "amount": "¼ tl"
             },
             {
-              "name": "sesamolie",
-              "amount": "1 tl"
+              "name": "maïzena, opgelost in 15 ml koud water",
+              "amount": "7 g"
             }
           ]
         },
         {
           "group_name": "Groenten en afwerking",
           "ingredients": [
+            {
+              "name": "neutrale olie, om te roerbakken",
+              "amount": "1 el"
+            },
             {
               "name": "rode paprika, in grove ruiten",
               "amount": "1"
@@ -10102,11 +10123,11 @@
               "amount": "1"
             },
             {
-              "name": "ananasstukjes",
+              "name": "verse ananas, in stukjes",
               "amount": "150 g"
             },
             {
-              "name": "lente-ui, in ringetjes",
+              "name": "lente-uitjes, in ringetjes",
               "amount": "2"
             },
             {
@@ -10119,72 +10140,67 @@
       "steps": [
         {
           "action": "Marineren",
-          "description": "meng sojasaus, rijstwijn, sesamolie, knoflook, gember, zout en peper. Marineer de varkenshaas 20–30 minuten."
-        },
-        {
-          "action": "Beslag en frituren",
-          "description": "meng eiwit, maizena, bloem, bakpoeder, zout en ijskoud water tot een beslag. Haal het vlees erdoor. Frituur de blokjes goudbruin. Laat uitlekken en frituur vlak voor het serveren een tweede keer kort — zo wordt het korstje echt krokant."
+          "description": "Meng sojasaus, Shaoxing, sesamolie, knoflook, gember, zout en witte peper. Marineer de varkenshaas 20–30 minuten. Dep het vlees daarna goed droog met keukenpapier, anders blijft het beslag niet goed zitten."
         },
         {
           "action": "Saus maken",
-          "description": "kook ananassap, azijn, ketchup, suiker, sojasaus, tomatenpuree, gember en knoflook. Bind licht met maizena en roer sesamolie erdoor."
+          "description": "Breng alle ingrediënten van de saus aan de kook, behalve de sinaasappelrasp en het maïzenapapje. Laat 2 minuten zacht koken. Roer het maïzenapapje erdoor en laat 30 seconden doorkoken tot de saus licht bindt en glanst. Zet het vuur uit en roer de sinaasappelrasp er pas nu doorheen. Houd de saus warm."
         },
         {
-          "action": "Samenstellen en serveren",
-          "description": "wok paprika, ui en ananas kort op hoog vuur. Voeg de saus toe. Schep het krokante vlees er pas vlak voor het serveren door. Leg op het bord met lente-ui en sesam."
+          "action": "Olie verhitten en beslag maken",
+          "description": "Verhit de frituurolie tot 170 °C. Meng ondertussen de droge ingrediënten van het beslag. Voeg eiwit, bier en olie toe en roer kort tot een dik, licht klonterig beslag. Het moet royaal aan het vlees blijven hangen. Voeg zo nodig maximaal 10 ml extra bier toe."
+        },
+        {
+          "action": "Eerste keer frituren (170 °C)",
+          "description": "Haal elk stukje royaal door het beslag en laat het voorzichtig in de olie glijden, in kleine porties van ongeveer 8–10 stukken. Frituur 4–5 minuten tot de bolletjes mooi zijn opgeblazen en licht goudbruin. Laat 3 minuten uitlekken op een rooster. Laat de olie tussen de porties weer op 170 °C komen."
+        },
+        {
+          "action": "Groenten roerbakken",
+          "description": "Verhit 1 el olie in een wok op hoog vuur. Roerbak paprika en ui 1½–2 minuten en voeg de laatste 30 seconden de ananas toe. Alles moet knapperig blijven."
+        },
+        {
+          "action": "Tweede keer frituren (190 °C)",
+          "description": "Breng de olie op 190 °C en frituur de bolletjes in porties nog 45–60 seconden tot een krokante, diep goudbruine buitenkant. Snijd één stuk door om de gaarheid te controleren."
+        },
+        {
+          "action": "Serveren",
+          "description": "Leg de groenten op een warme schaal en de bolletjes erbovenop. Lepel ongeveer de helft van de saus vlak voor het serveren gedeeltelijk over de bolletjes en geef de rest apart. Werk af met lente-ui en sesam."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Het ijskoude bier en de maïzena houden het beslag licht: weinig gluten, dus geen taai deeg. Het koolzuur uit het bier en het bakpoeder blazen het beslag in de hete olie op tot een luchtige, oliebolachtige korst. Het eiwit geeft stevigheid. De eerste keer frituren op 170 °C gaart het vlees en zet de structuur. Tijdens het uitlekken verdampt vocht uit de korst. De tweede keer op 190 °C droogt de buitenkant en kleurt hij krokant goudbruin, waardoor de korst ook een tijdje tegen de saus kan. Daarom komt de saus apart of pas op het laatst erover."
         }
       ],
-      "tips": [
-        "marineer de varkenshaas minstens 20 minuten. Maak de saus van tevoren klaar zodat alles bij het samenstellen snel gaat.",
-        "Techniek: twee keer frituren is geen overdrijving — de eerste keer gaart het vlees, de tweede keer maakt het krokant. Sla de tweede frituurbeurt nooit over.",
-        "Presentatie: schep de krokante varkenshaas pas op het allerlaatste moment door de saus — elk minuut eerder kost knapperigheid. Stapel het vlees boven op de groenten zodat het zichtbaar is.",
-        "Variatie: voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas voor een meer delicate zoetheid.",
-        "Alternatief: geen ananassap? Gebruik sinaasappelsap — minder tropisch maar geeft dezelfde zoet-zure sausbalans die dit gerecht zijn karakter geeft.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
+      "chef_tip": "Mise-en-place: Maak het beslag vers en gebruik echt ijskoud bier. Je kunt de eerste frituurbeurt vooruit doen: de bolletjes mogen daarna op het rooster wachten. De tweede frituurbeurt doe je pas vlak voor het serveren. Dep het vlees droog, zet de saus en de groenten klaar en gebruik een frituurthermometer.\n\nTechniek: Roer het beslag kort: kleine klontjes mogen blijven. Frituur in kleine porties en houd de olie op temperatuur. Zakt hij te ver, dan wordt de korst vettig en plat.\n\nPresentatie: Geef de saus bij voorkeur apart in een kommetje, zodat gasten zelf dippen. Lepel anders een deel vlak voor het serveren over de bolletjes.\n\nVariatie: Voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas in de roerbak.\n\nAlternatief: Geen pilsener? Gebruik een ander koud, licht bier (blond of lager, geen IPA) of ijskoud bruiswater. De korst krijgt dan iets minder smaak en kleur.\n\nVooruit maken: De saus kun je een dag vooraf maken, zonder sinaasappelrasp. Verwarm hem en roer de rasp er pas dan doorheen. De tweede frituurbeurt altijd vlak voor het serveren.",
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Vouvray sec of demi-sec — Loire, Frankrijk",
+          "naam": "Vouvray demi-sec — Loire, Frankrijk",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren",
-          "omschrijving": "De fruitige frisheid en lichte residuele zoetheid van een Loire Chenin Blanc Kabinett sluiten naadloos aan op de zoetzure ananassaus — de appel- en perziktonen van de Chenin Blanc resoneren met het ananassap.",
-          "waarom_werkt_dit": "De hoge zuurgraad snijdt door het gefrituurde beslag en reinigt de mond na elke vette hap. De lage alcohol (7-9%) maakt het licht en drinkbaar bij een uitgebreide Chinese maaltijd. Een Kabinett heeft net genoeg residuele suiker om de zuurheid van de saus te balanceren zonder te zoet te worden. Serveer gekoeld op 9°C."
+          "smaakprofiel": "Geur van appel, kweepeer, citrus en een lichte honingtoon, met levendige zuren en een zachte restzoetheid.",
+          "omschrijving": "De fruitige frisheid en lichte restzoetheid van een Loire Chenin Blanc sluiten aan op de zoetzure ananassaus.",
+          "waarom_werkt_dit": "De frisse zuren snijden door het gefrituurde beslag en reinigen de mond na elke hap. De lichte restzoetheid past bij de fruitige zoetzure saus zonder dat de wijn te zoet wordt.",
+          "serveertemperatuur": "Serveer op 9 °C."
         },
         {
           "type": "alternatief",
-          "naam": "Droge Prosecco",
-          "druif": "Glera",
-          "smaakprofiel": "Droog tot extra dry, peer, appel, witte bloemen, zachte mousse, fris",
-          "omschrijving": "de bellen snijden door het frituurvet, de lichte zoetheid past bij de ananassaus",
-          "waarom_werkt_dit": "Het zachte perenfruit en de lichte mousse houden het gerecht speels en fris zonder de delicate zoet-fruitige accenten te verdringen. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Riesling Kabinett Feinherb — Mosel, Duitsland",
+          "naam": "Riesling Kabinett feinherb — Mosel, Duitsland",
           "druif": "Riesling",
-          "smaakprofiel": "Fris, hoge zuren, limoen, witte perzik, leisteen, soms licht restzoet",
-          "omschrijving": "Riesling is hier alleen zinvol wanneer zoet, zuur, chili of aromatische spanning daarom vragen.",
-          "waarom_werkt_dit": "Hier werkt Riesling door de combinatie van restzoet, hoge zuren en mineraliteit: ideaal om chili, gember, soja of zoet-zure spanning te temmen. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "smaakprofiel": "Limoen, witte perzik en een mineraal tintje, met hoge zuren en een beetje restzoet.",
+          "omschrijving": "De keuze voor wie meer zuur en spanning wil in het glas.",
+          "waarom_werkt_dit": "De hoge zuren en het beetje restzoet houden de saus levendig en temmen de gember en soja. De lage alcohol (7–9%) maakt hem makkelijk te drinken bij frituurwerk.",
+          "serveertemperatuur": "Serveer op 8–9 °C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Prosecco Extra Dry — Veneto, Italië",
+          "druif": "Glera",
+          "smaakprofiel": "Peer, appel en witte bloemen met een zachte mousse en frisse zuren.",
+          "omschrijving": "Breed verkrijgbaar en de makkelijkste keuze bij deze bolletjes.",
+          "waarom_werkt_dit": "De bellen reinigen de mond na elke hap en de lichte zoetheid sluit aan bij de ananassaus. Een brut is hier te droog, kies dus Extra Dry.",
+          "serveertemperatuur": "Serveer op 6–8 °C."
         }
-      ],
-      "wine": {
-        "naam": "Vouvray sec of demi-sec — Loire, Frankrijk",
-        "druif": "Chenin Blanc",
-        "toelichting": "De fruitige frisheid en lichte residuele zoetheid van een Loire Chenin Blanc Kabinett sluiten naadloos aan op de zoetzure ananassaus — de appel- en perziktonen van de Chenin Blanc resoneren met het ananassap. De hoge zuurgraad snijdt door het gefrituurde beslag en reinigt de mond na elke vette hap. De lage alcohol (7-9%) maakt het licht en drinkbaar bij een uitgebreide Chinese maaltijd. Een Kabinett heeft net genoeg residuele suiker om de zuurheid van de saus te balanceren zonder te zoet te worden. Serveer gekoeld op 9°C.",
-        "alternatief": "Droge Prosecco — de bellen snijden door het frituurvet, de lichte zoetheid past bij de ananassaus"
-      },
-      "tips_full": [
-        "marineer de varkenshaas minstens 20 minuten. Maak de saus van tevoren klaar zodat alles bij het samenstellen snel gaat.",
-        "Techniek: twee keer frituren is geen overdrijving — de eerste keer gaart het vlees, de tweede keer maakt het krokant. Sla de tweede frituurbeurt nooit over.",
-        "Presentatie: schep de krokante varkenshaas pas op het allerlaatste moment door de saus — elk minuut eerder kost knapperigheid. Stapel het vlees boven op de groenten zodat het zichtbaar is.",
-        "Variatie: voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas voor een meer delicate zoetheid.",
-        "Alternatief: geen ananassap? Gebruik sinaasappelsap — minder tropisch maar geeft dezelfde zoet-zure sausbalans die dit gerecht zijn karakter geeft.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
-      "chef_tip": "marineer de varkenshaas minstens 20 minuten. Maak de saus van tevoren klaar zodat alles bij het samenstellen snel gaat.\n\nTechniek: twee keer frituren is geen overdrijving — de eerste keer gaart het vlees, de tweede keer maakt het krokant. Sla de tweede frituurbeurt nooit over.\n\nPresentatie: schep de krokante varkenshaas pas op het allerlaatste moment door de saus — elk minuut eerder kost knapperigheid. Stapel het vlees boven op de groenten zodat het zichtbaar is.\n\nVariatie: voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas voor een meer delicate zoetheid.\n\nAlternatief: geen ananassap? Gebruik sinaasappelsap — minder tropisch maar geeft dezelfde zoet-zure sausbalans die dit gerecht zijn karakter geeft.\n\nRusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.\n\nBalans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
+      ]
     },
     {
       "title": "Mini kipsaté van platgeslagen kipdij met diepe zoete pindasaus",
