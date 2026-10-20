@@ -9976,8 +9976,8 @@
       "keuken": "Chinees",
       "categorie": "vlees",
       "image": "/assets/images/koe-loe-joek-varkenshaas.jpg",
-      "short_description": "Dikke, opgeblazen bierbeslagbolletjes van varkenshaas, goudbruin en krokant buiten, luchtig en zacht binnen, met een glanzende zoetzure ananassaus.",
-      "description": "Koe loe joek zoals je hem kent van de goede Chinees-Indische restaurateur: blokjes varkenshaas in een royale, luchtige beslagkorst die lijkt op een kleine oliebol. Eerst rustig gaar gefrituurd, daarna kort op hoge temperatuur krokant gemaakt. De saus is fruitig en frisser zoetzuur dan het bekende rode spul, en komt bij voorkeur apart zodat de korst knapperig blijft.",
+      "short_description": "Luchtige, lichtgouden bierbeslagbolletjes van varkenshaas met een glanzende, fruitige zoetzure saus zoals van de goede afhaalchinees.",
+      "description": "Koe loe joek zoals van de goede Chinees-Indische afhaal: blokjes varkenshaas in een royale, luchtige beslagkorst die lijkt op een kleine oliebol. Ze worden zacht gefrituurd, zodat ze lichtgoud blijven in plaats van donkerbruin. De saus is glanzend, oranjerood en fruitig: eerst een uitnodigende zoetheid, daarna een fris zuurtje.",
       "ingredient_groups": [
         {
           "group_name": "Vlees",
@@ -10058,48 +10058,44 @@
           "group_name": "Zoetzure ananassaus",
           "ingredients": [
             {
-              "name": "vers ananassap",
-              "amount": "65 ml"
+              "name": "ananassiroop uit blik (ananas op siroop)",
+              "amount": "150 ml"
             },
             {
-              "name": "vers sinaasappelsap",
-              "amount": "45 ml"
+              "name": "water",
+              "amount": "75 ml"
             },
             {
-              "name": "rijstazijn",
-              "amount": "65 ml"
+              "name": "tomatenketchup",
+              "amount": "90 g"
             },
             {
-              "name": "ketchup",
-              "amount": "65 g"
+              "name": "witte natuurazijn (5%)",
+              "amount": "55 ml"
             },
             {
               "name": "kristalsuiker",
-              "amount": "45 g"
+              "amount": "50 g"
             },
             {
-              "name": "lichte sojasaus",
+              "name": "gembersiroop",
               "amount": "15 ml"
             },
             {
-              "name": "tomatenpuree",
-              "amount": "5 g"
+              "name": "lichte sojasaus",
+              "amount": "5 ml"
             },
             {
-              "name": "verse gember, fijn geraspt",
-              "amount": "6 g"
+              "name": "zout",
+              "amount": "1 g"
             },
             {
-              "name": "knoflookteen, fijn geraspt",
-              "amount": "½"
+              "name": "maïzena",
+              "amount": "10 g"
             },
             {
-              "name": "fijne sinaasappelrasp",
-              "amount": "¼ tl"
-            },
-            {
-              "name": "maïzena, opgelost in 15 ml koud water",
-              "amount": "7 g"
+              "name": "koud water, voor de maïzena",
+              "amount": "20 ml"
             }
           ]
         },
@@ -10123,7 +10119,7 @@
               "amount": "1"
             },
             {
-              "name": "verse ananas, in stukjes",
+              "name": "ananasstukjes, uit hetzelfde blik, uitgelekt",
               "amount": "150 g"
             },
             {
@@ -10144,34 +10140,34 @@
         },
         {
           "action": "Saus maken",
-          "description": "Breng alle ingrediënten van de saus aan de kook, behalve de sinaasappelrasp en het maïzenapapje. Laat 2 minuten zacht koken. Roer het maïzenapapje erdoor en laat 30 seconden doorkoken tot de saus licht bindt en glanst. Zet het vuur uit en roer de sinaasappelrasp er pas nu doorheen. Houd de saus warm."
+          "description": "Meng ananassiroop, water, ketchup, azijn, suiker, gembersiroop, sojasaus en zout. Breng aan de kook en laat 3 minuten zacht pruttelen. Roer 10 g maïzena los met 20 ml koud water en voeg al roerend toe. Laat ongeveer 1 minuut zacht doorkoken tot een glanzende, licht stroperige saus. Zet het vuur uit en houd de saus warm."
         },
         {
           "action": "Olie verhitten en beslag maken",
-          "description": "Verhit de frituurolie tot 170 °C. Meng ondertussen de droge ingrediënten van het beslag. Voeg eiwit, bier en olie toe en roer kort tot een dik, licht klonterig beslag. Het moet royaal aan het vlees blijven hangen. Voeg zo nodig maximaal 10 ml extra bier toe."
+          "description": "Verhit de frituurolie tot 160 °C. Meng ondertussen bloem, maïzena, bakpoeder en zout. Voeg eiwit, ijskoud bier en olie toe en roer kort tot een dik beslag. Niet langdurig kloppen."
         },
         {
-          "action": "Eerste keer frituren (170 °C)",
-          "description": "Haal elk stukje royaal door het beslag en laat het voorzichtig in de olie glijden, in kleine porties van ongeveer 8–10 stukken. Frituur 4–5 minuten tot de bolletjes mooi zijn opgeblazen en licht goudbruin. Laat 3 minuten uitlekken op een rooster. Laat de olie tussen de porties weer op 170 °C komen."
+          "action": "Eerste keer frituren (160 °C)",
+          "description": "Haal elk stukje royaal door het beslag en laat het voorzichtig in de olie glijden, in kleine porties van ongeveer 8–10 stukken. Frituur 3,5–4,5 minuten, afhankelijk van de grootte, tot de bolletjes lichtgoud, luchtig en krokant zijn, niet donkerbruin. Laat 3 minuten rusten op een rooster. Laat de olie tussen de porties weer op 160 °C komen. Controleer bij een proefstuk dat het varkensvlees gaar is: minimaal 63 °C kerntemperatuur met 3 minuten rust."
         },
         {
           "action": "Groenten roerbakken",
-          "description": "Verhit 1 el olie in een wok op hoog vuur. Roerbak paprika en ui 1½–2 minuten en voeg de laatste 30 seconden de ananas toe. Alles moet knapperig blijven."
+          "description": "Verhit 1 el olie in een wok op hoog vuur. Roerbak paprika en ui 1½–2 minuten en voeg de laatste 30 seconden de ananas toe. Alles moet knapperig blijven. Roer de groenten door de warme saus."
         },
         {
-          "action": "Tweede keer frituren (190 °C)",
-          "description": "Breng de olie op 190 °C en frituur de bolletjes in porties nog 45–60 seconden tot een krokante, diep goudbruine buitenkant. Snijd één stuk door om de gaarheid te controleren."
+          "action": "Eventueel tweede keer frituren (175 °C)",
+          "description": "Voor extra krokantheid frituur je de bolletjes vlak voor het serveren nog 20–30 seconden op 175 °C. Ze moeten lichtgoud blijven."
         },
         {
           "action": "Serveren",
-          "description": "Leg de groenten op een warme schaal en de bolletjes erbovenop. Lepel ongeveer de helft van de saus vlak voor het serveren gedeeltelijk over de bolletjes en geef de rest apart. Werk af met lente-ui en sesam."
+          "description": "Leg de bolletjes op een schaal. Serveer de saus met de groenten apart in een warme kom, of schep de bolletjes er pas vlak voor het serveren doorheen. Werk af met lente-ui en sesam."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Het ijskoude bier en de maïzena houden het beslag licht: weinig gluten, dus geen taai deeg. Het koolzuur uit het bier en het bakpoeder blazen het beslag in de hete olie op tot een luchtige, oliebolachtige korst. Het eiwit geeft stevigheid. De eerste keer frituren op 170 °C gaart het vlees en zet de structuur. Tijdens het uitlekken verdampt vocht uit de korst. De tweede keer op 190 °C droogt de buitenkant en kleurt hij krokant goudbruin, waardoor de korst ook een tijdje tegen de saus kan. Daarom komt de saus apart of pas op het laatst erover."
+          "description": "Het ijskoude bier en de maïzena houden het beslag licht: weinig gluten, dus geen taai deeg. Het koolzuur uit het bier en het bakpoeder blazen het beslag in de olie op tot een luchtige, oliebolachtige korst en het eiwit geeft stevigheid. Frituren op 160 °C laat de korst zetten en het vlees gaar worden zonder dat de buitenkant te donker kleurt. Tijdens het rusten verdampt vocht uit de korst. Een korte tweede beurt op 175 °C maakt de buitenkant extra krokant, zonder dat de bolletjes donkerbruin worden. De saus komt apart of pas op het laatst erbij, zodat de korst knapperig blijft."
         }
       ],
-      "chef_tip": "Mise-en-place: Maak het beslag vers en gebruik echt ijskoud bier. Je kunt de eerste frituurbeurt vooruit doen: de bolletjes mogen daarna op het rooster wachten. De tweede frituurbeurt doe je pas vlak voor het serveren. Dep het vlees droog, zet de saus en de groenten klaar en gebruik een frituurthermometer.\n\nTechniek: Roer het beslag kort: kleine klontjes mogen blijven. Frituur in kleine porties en houd de olie op temperatuur. Zakt hij te ver, dan wordt de korst vettig en plat.\n\nPresentatie: Geef de saus bij voorkeur apart in een kommetje, zodat gasten zelf dippen. Lepel anders een deel vlak voor het serveren over de bolletjes.\n\nVariatie: Voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas in de roerbak.\n\nAlternatief: Geen pilsener? Gebruik een ander koud, licht bier (blond of lager, geen IPA) of ijskoud bruiswater. De korst krijgt dan iets minder smaak en kleur.\n\nVooruit maken: De saus kun je een dag vooraf maken, zonder sinaasappelrasp. Verwarm hem en roer de rasp er pas dan doorheen. De tweede frituurbeurt altijd vlak voor het serveren.",
+      "chef_tip": "Mise-en-place: Maak het beslag vers en gebruik echt ijskoud bier. Je kunt de eerste frituurbeurt vooruit doen: de bolletjes mogen daarna op het rooster wachten. Een eventuele tweede frituurbeurt doe je pas vlak voor het serveren. Dep het vlees droog, zet de saus en de groenten klaar en gebruik een frituurthermometer.\n\nTechniek: Roer het beslag kort: kleine klontjes mogen blijven. Frituur in kleine porties en houd de olie op 160 °C. Hoger geeft sneller een te donkere korst. Snijd een proefstuk door om de gaarheid te controleren.\n\nPresentatie: Geef de saus bij voorkeur apart, zodat gasten zelf dippen. Of schep de bolletjes er pas vlak voor het serveren doorheen.\n\nVariatie: Voeg een halve rode chili toe aan de saus voor een zoet-pittige variant, of gebruik lychees uit blik in plaats van ananas in de roerbak.\n\nAlternatief: Geen pilsener? Gebruik een ander koud, licht bier (blond of lager, geen IPA) of ijskoud bruiswater. De korst krijgt dan iets minder smaak en kleur. Geen gembersiroop? Gebruik de siroop van een pot ingelegde gember (bijvoorbeeld uit de toko).\n\nVooruit maken: De saus kun je een dag vooraf maken. Verwarm hem voor het serveren en roerbak de groenten pas op het laatst.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -10188,7 +10184,7 @@
           "druif": "Riesling",
           "smaakprofiel": "Limoen, witte perzik en een mineraal tintje, met hoge zuren en een beetje restzoet.",
           "omschrijving": "De keuze voor wie meer zuur en spanning wil in het glas.",
-          "waarom_werkt_dit": "De hoge zuren en het beetje restzoet houden de saus levendig en temmen de gember en soja. De lage alcohol (7–9%) maakt hem makkelijk te drinken bij frituurwerk.",
+          "waarom_werkt_dit": "De hoge zuren en het beetje restzoet houden de zoetzure saus levendig. De lage alcohol (7–9%) maakt hem makkelijk te drinken bij frituurwerk.",
           "serveertemperatuur": "Serveer op 8–9 °C."
         },
         {
@@ -22728,18 +22724,22 @@
       "categorie": "soep",
       "image": "/assets/images/suan-la-tang-pekinese-hot-sour-soup.jpg",
       "short_description": "Klassieke Pekingsoep: pittig, friszuur en hartig, met shiitake, kastanjechampignons, bamboe en fijne eierlinten.",
-      "description": "Suan La Tang is de klassieke Chinese hot & sour soup waarin zuur, peper, umami en een lichte binding samenkomen. Shiitake, kastanjechampignons, bamboe, wortel en fijne eierlinten liggen in een glanzende bouillon die pas op het allerlaatst wordt afgewerkt met Chinkiang-azijn, witte peper en sesamolie. Pittig, friszuur en hartig tegelijk — precies zoals een goede Pekingsoep hoort te zijn.",
+      "description": "Suan La Tang is de klassieke Chinese hot & sour soup waarin zuur, chili, umami en een lichte binding samenkomen. Shiitake, kastanjechampignons, bamboe, wortel en fijne eierlinten liggen in een glanzende kippenbouillon die pas op het allerlaatst wordt afgewerkt met Chinkiang-azijn, witte peper, chili-olie en sesamolie. Pittig, friszuur en hartig tegelijk — precies zoals een goede Pekingsoep hoort te zijn.",
       "ingredient_groups": [
         {
           "group_name": "Voor de soep",
           "ingredients": [
             {
-              "name": "goede groentebouillon",
-              "amount": "1 l"
+              "name": "goede, ongezouten kippenbouillon",
+              "amount": "950 ml"
             },
             {
               "name": "gedroogde shiitake",
               "amount": "20 g"
+            },
+            {
+              "name": "gezeefd shiitakeweekvocht",
+              "amount": "50 ml"
             },
             {
               "name": "kastanjechampignons, in flinterdunne plakjes",
@@ -22754,8 +22754,8 @@
               "amount": "50 g"
             },
             {
-              "name": "verse gember, in plakken",
-              "amount": "3 cm"
+              "name": "verse gember, in gekneusde plakken",
+              "amount": "5 g"
             },
             {
               "name": "lente-uitjes, alleen het wit, gekneusd",
@@ -22763,19 +22763,15 @@
             },
             {
               "name": "lichte sojasaus",
-              "amount": "30 ml"
+              "amount": "15 ml"
             },
             {
               "name": "donkere sojasaus",
-              "amount": "5 ml"
+              "amount": "2 ml"
             },
             {
-              "name": "suiker",
-              "amount": "6 g"
-            },
-            {
-              "name": "fijn zeezout",
-              "amount": "3 g"
+              "name": "kristalsuiker",
+              "amount": "7 g"
             }
           ]
         },
@@ -22784,7 +22780,7 @@
           "ingredients": [
             {
               "name": "maïzena",
-              "amount": "20 g"
+              "amount": "25 g"
             },
             {
               "name": "koud water",
@@ -22797,11 +22793,7 @@
           "ingredients": [
             {
               "name": "eieren",
-              "amount": "3"
-            },
-            {
-              "name": "zout",
-              "amount": "klein snufje"
+              "amount": "2"
             }
           ]
         },
@@ -22809,16 +22801,24 @@
           "group_name": "Voor de afwerking",
           "ingredients": [
             {
-              "name": "Chinkiang zwarte azijn",
-              "amount": "45 ml"
+              "name": "Chinkiang zwarte rijstazijn",
+              "amount": "25 ml"
             },
             {
-              "name": "versgemalen witte peper",
-              "amount": "1½ tl"
+              "name": "witte natuurazijn (5%)",
+              "amount": "10 ml"
+            },
+            {
+              "name": "gemalen witte peper",
+              "amount": "0,5 g (ca. ¼ tl)"
+            },
+            {
+              "name": "milde, zuivere Chinese chili-olie, zonder krokante stukjes",
+              "amount": "5 ml"
             },
             {
               "name": "geroosterde sesamolie",
-              "amount": "5 ml"
+              "amount": "2 ml"
             }
           ]
         },
@@ -22826,7 +22826,7 @@
           "group_name": "Voor het serveren",
           "ingredients": [
             {
-              "name": "lente-uitjes, fijn gesneden",
+              "name": "lente-uitjes, alleen het groen, fijn gesneden",
               "amount": "3"
             },
             {
@@ -22834,7 +22834,7 @@
               "amount": "eventueel"
             },
             {
-              "name": "chili-olie, aan tafel",
+              "name": "extra chili-olie, aan tafel",
               "amount": "eventueel"
             }
           ]
@@ -22843,42 +22843,42 @@
       "steps": [
         {
           "action": "Week de shiitake",
-          "description": "Doe de gedroogde shiitake in heet water en laat minimaal 30 minuten weken. Knijp ze daarna voorzichtig uit. Zeef het weekvocht door een fijne zeef of koffiefilter en bewaar 150 ml van het heldere weekvocht. Verwijder harde steeltjes en snijd de shiitake in dunne reepjes."
+          "description": "Doe de gedroogde shiitake in heet water en laat minimaal 30 minuten weken. Knijp ze daarna voorzichtig uit. Zeef het weekvocht door een fijne zeef of koffiefilter en bewaar maximaal 50 ml. Verwijder harde steeltjes en snijd de shiitake in dunne reepjes."
         },
         {
-          "action": "Maak de azijn-peperfinish",
-          "description": "Meng in een kommetje 45 ml Chinkiang-azijn met 1½ tl witte peper en zet apart. Deze combinatie gaat pas helemaal aan het einde in de soep."
+          "action": "Maak de zuur-peperfinish",
+          "description": "Meng in een kommetje 25 ml Chinkiang-azijn, 10 ml witte natuurazijn en 0,5 g witte peper en zet apart. Deze combinatie gaat pas helemaal aan het einde in de soep."
         },
         {
           "action": "Bouw de bouillon",
-          "description": "Doe 1 liter groentebouillon, 150 ml gezeefd shiitakeweekvocht, de gember en het gekneusde lente-uiwit in een pan. Breng aan de kook en laat 5 minuten zacht trekken. Verwijder gember en lente-ui."
+          "description": "Verwarm 950 ml ongezouten kippenbouillon met 50 ml weekvocht, de gember en het gekneusde lente-uiwit. Laat 5 minuten zacht trekken en verwijder gember en lente-ui. Voeg 15 ml lichte sojasaus, 2 ml donkere sojasaus en 7 g suiker toe. Proef: de bouillon moet nu al zacht, rond en aangenaam hartig zijn. Voeg geen extra zout toe."
         },
         {
           "action": "Voeg de groenten toe",
-          "description": "Voeg de shiitake, kastanjechampignons, bamboescheuten en wortel toe en laat 4–5 minuten zacht koken. Voeg vervolgens 30 ml lichte sojasaus, 5 ml donkere sojasaus, 6 g suiker en 3 g zout toe en laat nog 2 minuten zacht trekken."
+          "description": "Voeg de shiitake, kastanjechampignons, bamboescheuten en wortel toe en laat 4–5 minuten zacht koken."
         },
         {
           "action": "Bind de soep",
-          "description": "Roer 20 g maïzena los met 45 ml koud water. Breng de soep terug tegen de kook en giet de maïzena in een dun straaltje erbij terwijl je rustig roert. Laat 30–45 seconden zacht doorkoken. De soep moet licht glanzen en iets dikker worden, maar zeker niet puddingachtig."
+          "description": "Roer 25 g maïzena los met 45 ml koud water. Voeg dit geleidelijk toe aan de zacht kokende soep en laat ongeveer 1 minuut garen, totdat de soep licht en fluweelzacht gebonden is."
         },
         {
           "action": "Maak de eierlinten",
-          "description": "Klop de eieren los met een klein snufje zout. Zet het vuur laag en roer de soep langzaam in één richting. Giet het ei in een heel dun straaltje in de soep. Wacht daarna 10–15 seconden voordat je voorzichtig nog één keer roert. Zo ontstaan mooie losse eierlinten."
+          "description": "Klop de 2 eieren los. Laat de soep rustig ronddraaien en giet het ei in een dunne straal erbij. Wacht ongeveer 10–15 seconden voordat je voorzichtig één keer roert. Zo ontstaan mooie losse eierlinten."
         },
         {
           "action": "Maak de smaak af",
-          "description": "Zet het vuur uit. Voeg het mengsel van Chinkiang-azijn en witte peper toe en roer door. Voeg als laatste 5 ml sesamolie toe. Proef en corrigeer eventueel met iets extra Chinkiang voor meer zuur, iets extra witte peper voor meer pit of een klein beetje zout indien nodig. Niet opnieuw laten koken."
+          "description": "Zet het vuur uit. Voeg het mengsel van Chinkiang, natuurazijn en witte peper toe en roer door. Voeg 5 ml chili-olie toe en proef. Verhoog de chiliwarmte indien nodig met kleine hoeveelheden chili-olie, zonder extra witte peper toe te voegen. Werk af met 2 ml sesamolie. Niet opnieuw laten koken."
         },
         {
           "action": "Serveren",
-          "description": "Schep de soep in warme kommen en werk af met fijn gesneden lente-ui. Koriander en chili-olie alleen optioneel aan tafel."
+          "description": "Schep de soep in warme kommen en werk af met het groene lente-ui. Koriander en extra chili-olie alleen optioneel aan tafel."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "De typische scherpte van Suan La Tang komt vooral van witte peper. Die geeft een warme, langzaam opbouwende hitte die heel anders is dan chili. De Chinkiang-azijn gaat pas aan het einde in de soep, zodat zijn diepe, moutige en aromatische zuur behouden blijft. Shiitake zorgt voor umami, terwijl kastanjechampignons een makkelijk verkrijgbare extra paddenstoelensmaak geven zonder dat je exotische ingrediënten nodig hebt. Bamboe en wortel zorgen voor beet en contrast. De lichte maïzenabinding geeft de soep zijn karakteristieke glans en zorgt ervoor dat de eierlinten mooi in de bouillon blijven zweven."
+          "description": "Het fundament is een goede, ongezouten kippenbouillon: die geeft een ronde, zachte basis waar zuur en chili op kunnen rusten. Daarom geen groentebouillonblokjes en geen sterk gereduceerd fond. Proef de bouillon voordat je zuur en chili toevoegt. Shiitake zorgt voor umami. Het weekvocht beperken we tot 50 ml, zodat het diepte geeft zonder de soep te donker of aards te maken. Kastanjechampignons geven een makkelijk verkrijgbare extra paddenstoelensmaak zonder exotische ingrediënten. De Chinkiang-azijn en de witte natuurazijn gaan pas aan het einde in de soep, zodat het frisse zuur levendig blijft. De warmte komt vooral van de chili-olie. Witte peper blijft bescheiden aanwezig, zodat de soep niet scherp of peperig wordt, en je kunt de pit stap voor stap opbouwen. Bamboe en wortel zorgen voor beet en contrast. De lichte maïzenabinding geeft de soep zijn fluweelzachte glans en zorgt ervoor dat de eierlinten mooi in de bouillon blijven zweven."
         }
       ],
-      "chef_tip": "Chinkiang is bepalend: gebruik bij voorkeur echte Chinkiang / Zhenjiang black vinegar. Gewone natuurazijn is hier geen goede vervanging.\n\nGeen gedroogde shiitake?: gebruik 150 g verse shiitake. Je mist dan wel het smaakvolle weekvocht. Voeg in dat geval 100–150 ml extra bouillon toe.\n\nTofu als aanvulling: wil je de soep iets voller maken, voeg dan 100 g zachte tofu in dunne reepjes toe tegelijk met de paddenstoelen. Niet standaard in de hoofdversie.\n\nMet varkensvlees: gebruik 120 g varkenshaas in ragfijne reepjes en meng met 5 ml lichte sojasaus, 5 g maïzena en 5 ml Shaoxing-wijn. Laat 10 minuten staan en voeg het vlees ongeveer 2 minuten voor het binden toe.\n\nMet garnalen: voeg 150 g rauwe gepelde garnalen toe in de laatste 2 minuten voordat je de soep bindt.\n\nNiet te dik maken: een goede hot & sour soup is licht gebonden en glanzend. Te veel maïzena maakt hem log.\n\nVooruit maken: de soepbasis zonder ei, azijn, witte peper en sesamolie kun je 1 dag vooraf maken. Breng opnieuw aan de kook, bind, maak de eierlinten en voeg de finishing pas vlak voor serveren toe.",
+      "chef_tip": "Bouillon: Gebruik een goede, ongezouten kippenbouillon. Geen bouillonblokjes en geen sterk gereduceerd fond, en voeg niet automatisch extra zout toe. De bouillon moet mooi smaken voordat zuur en chili worden toegevoegd.\n\nChinkiang is bepalend: gebruik bij voorkeur echte Chinkiang / Zhenjiang black vinegar. Gewone natuurazijn is hier geen goede vervanging, die gebruiken we alleen als kleine aanvulling.\n\nChili-olie: kies een milde, zuivere Chinese chili-olie zonder krokante stukjes. Voeg hem in kleine stappen toe en proef tussendoor. Voeg voor extra pit geen witte peper toe.\n\nGeen gedroogde shiitake?: gebruik 150 g verse shiitake. Je mist dan wel het smaakvolle weekvocht. Voeg in dat geval 50 ml extra bouillon toe.\n\nTofu als aanvulling: wil je de soep iets voller maken, voeg dan 100 g zachte tofu in dunne reepjes toe tegelijk met de paddenstoelen. Niet standaard in de hoofdversie.\n\nMet varkensvlees: gebruik 120 g varkenshaas in ragfijne reepjes en meng met 5 ml lichte sojasaus, 5 g maïzena en 5 ml Shaoxing-wijn. Laat 10 minuten staan en voeg het vlees ongeveer 2 minuten voor het binden toe.\n\nMet garnalen: voeg 150 g rauwe gepelde garnalen toe in de laatste 2 minuten voordat je de soep bindt.\n\nNiet te dik maken: een goede hot & sour soup is licht gebonden en fluweelzacht. Te veel maïzena maakt hem log.\n\nVooruit maken: de soepbasis zonder ei, azijn, witte peper, chili-olie en sesamolie kun je 1 dag vooraf maken. Breng opnieuw aan de kook, bind, maak de eierlinten en voeg de finishing pas vlak voor serveren toe.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -22886,7 +22886,7 @@
           "druif": "Grüner Veltliner",
           "smaakprofiel": "Geur: groene appel, citrus, witte peper, verse kruiden en een lichte minerale toon. Smaak & structuur: droog en fris, met levendige zuren, middelvolle body en een kenmerkende peperige afdronk.",
           "omschrijving": "Onze beste pairing — de witte peper in de wijn spiegelt die in de soep.",
-          "waarom_werkt_dit": "De witte peper in de wijn sluit prachtig aan op de witte peper in de soep. De frisse zuren kunnen goed omgaan met de Chinkiang-azijn, terwijl de wijn genoeg structuur heeft voor de paddenstoelen, soja en lichte binding.",
+          "waarom_werkt_dit": "De zachte peperigheid van de wijn sluit aan op de witte peper en de warmte van de chili-olie in de soep. De frisse zuren kunnen goed omgaan met de Chinkiang-azijn, terwijl de wijn genoeg structuur heeft voor de paddenstoelen, soja en lichte binding.",
           "serveertemperatuur": "Serveer op 9–10 °C."
         },
         {
