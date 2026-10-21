@@ -23274,25 +23274,24 @@
       "chef_tip": "Twee-knoflooktechniek: Twee-knoflooktechniek is het hart: Gebakken knoflook geeft nootachtige zoetheid, rauw geeft pittige frisheid, gember geeft diepte. De drie samen zijn het geheim van elke Kantonese seafoodrestaurant.\n\nSaus na het stomen: De sojasaus verliest zijn helderheid en frisheid door de hitte. Altijd pas na het stomen erover.\n\nStomen — nooit te lang: 4–6 minuten is genoeg. De meest gemaakte fout. Rubberachtige coquilles zijn onredbaar.\n\nLin you gloeiend heet: De olie moet echt tot het rookpunt verhit zijn — niet \"warm\" maar gloeiend. Alleen dan explodeert de lente-ui aromatisch zoals het hoort.\n\nRoe bewaren: De oranje roe naast de coquille is het smaakvolste deel. Altijd meestomen.\n\nVariatie — XO-saus: Voeg een kleine druppel XO-saus toe over de coquille direct na het stomen voor een intense, luxe umami-boost. De meest verfijnde upgrade.\n\nVariatie: Variatie — limoensap als finish: Een paar druppels limoen vlak voor serveren geeft extra frisheid en tilt de zoetheid van de coquille op.\n\nAlternatief zonder schelp: Gebruik kleine porselein-lepels, ramekins of schelpjes van andere oesters als je geen coquilleschelpen hebt."
     },
     {
-      "title": "Berenklauw — Groningse snack met pindasaus",
+      "title": "Berenklauw met echte snackbar-satésaus",
       "slug": "berenklauw-groningse-snack-pindasaus",
       "location": "Groningen",
-      "time": "45 min + minimaal 1 uur koelen",
+      "time": "ca. 60 min + minimaal 1 uur koelen",
       "servings": "4 berenklauwen",
       "difficulty": "Makkelijk",
       "keuken": "Nederlands",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/berenklauw-groningse-snack-pindasaus.jpg",
-      "short_description": "Uitgevonden door cafetariahouder Apple Dokter uit Groningen — de berenklauw is Nederland's meest onderschatte snack. Een sappige, gekruide gehaktbal met ketjap, sambal en nootmuskaat: aangebakken, gegaard, afgekoeld en dan in vijf schijven gesneden die als een klauw uitwaaieren op een satéprikker.",
-      "description": "Uitgevonden door cafetariahouder Apple Dokter uit Groningen — de berenklauw is Nederland's meest onderschatte snack. Een sappige, gekruide gehaktbal met ketjap, sambal en nootmuskaat: aangebakken, gegaard, afgekoeld en dan in vijf schijven gesneden die als een klauw uitwaaieren op een satéprikker. Door de bloem en gefrituurd op 175°C. Geserveerd met een dikke, aromatische pindasaus.",
-      "full_intro": "Uitgevonden door cafetariahouder Apple Dokter uit Groningen — de berenklauw is Nederland's meest onderschatte snack. Een sappige, gekruide gehaktbal met ketjap, sambal en nootmuskaat: aangebakken, gegaard, afgekoeld en dan in vijf schijven gesneden die als een klauw uitwaaieren op een satéprikker. Door de bloem en gefrituurd op 175°C. Geserveerd met een dikke, aromatische pindasaus.",
+      "short_description": "Een stevig gekruide gehaktbal, koud in vijf schijven gesneden, met ui geregen, één keer gefrituurd en royaal geserveerd met warme snackbar-satésaus.",
+      "description": "De berenklauw is pure Nederlandse snackbarcultuur: een stevige gekruide gehaktbal, in plakken gesneden en afgewisseld met dikke uiringen, daarna goudbruin gefrituurd en royaal geserveerd met warme satésaus. Voor deze versie wordt het gehakt bewust stevig gekneed en eerst rustig in de oven gegaard. Zo blijven de ballen mooi rond, kun je ze strak snijden en krijgt de berenklauw pas tijdens het frituren zijn echte krokante korst. De satésaus is bewust geen verfijnde Indonesische pindasaus, maar die dikke, donkere, lichtzoete saus zoals je hem bij een goede Nederlandse snackbar wilt.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de berenklauwen",
+          "group_name": "Voor de gehaktballen",
           "ingredients": [
             {
-              "name": "half-om-half gehakt",
-              "amount": "350 g"
+              "name": "half-om-half gehakt (of rundergehakt met ca. 15–20% vet)",
+              "amount": "400 g"
             },
             {
               "name": "ei",
@@ -23304,31 +23303,23 @@
             },
             {
               "name": "ketjap manis",
-              "amount": "1 el"
+              "amount": "15 ml"
             },
             {
               "name": "Dijonmosterd",
-              "amount": "1 tl"
+              "amount": "8 g"
             },
             {
               "name": "sambal oelek",
-              "amount": "½ tl"
-            },
-            {
-              "name": "nootmuskaat (de typische gehaktbalsmaak)",
-              "amount": "½ tl"
-            },
-            {
-              "name": "uienpoeder (optioneel — extra diepte)",
-              "amount": "½ tl"
+              "amount": "5 g"
             },
             {
               "name": "fijn zeezout",
-              "amount": "1 tl"
+              "amount": "7 g"
             },
             {
-              "name": "versgemalen zwarte peper",
-              "amount": "naar smaak"
+              "name": "zwarte peper",
+              "amount": "1 g"
             }
           ]
         },
@@ -23336,252 +23327,125 @@
           "group_name": "Voor de ui",
           "ingredients": [
             {
-              "name": "middelgrote gele uien — bewaar van elke ui de middelste vier stevige ringen (het mooiste deel)",
+              "name": "grote gele uien, in 16 stevige ringen van ca. 8–10 mm dik",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor het frituren",
+          "ingredients": [
+            {
+              "name": "bloem",
+              "amount": "60 g"
+            },
+            {
+              "name": "neutrale frituurolie",
+              "amount": "ca. 2 l"
+            },
+            {
+              "name": "lange houten prikkers",
               "amount": "4"
             }
           ]
         },
         {
-          "group_name": "Voor het frituren",
+          "group_name": "Voor de echte snackbar-satésaus",
           "ingredients": [
             {
-              "name": "bloem (voor het bestuiven)",
-              "amount": "75 g"
+              "name": "gladde pindakaas",
+              "amount": "150 g"
             },
             {
-              "name": "neutrale olie",
-              "amount": ""
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de snelle berenklauw-pindasaus",
-          "ingredients": [
-            {
-              "name": "crunchy of gladde pindakaas",
-              "amount": "4 el"
+              "name": "water",
+              "amount": "180 ml"
             },
             {
               "name": "ketjap manis",
-              "amount": "1 el"
+              "amount": "45 ml"
             },
             {
-              "name": "sambal oelek (of naar smaak)",
-              "amount": "1 tl"
+              "name": "donkere sojasaus",
+              "amount": "10 ml"
             },
             {
-              "name": "teentje knoflook, fijn geraspt",
+              "name": "bruine basterdsuiker",
+              "amount": "15 g"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "7 g"
+            },
+            {
+              "name": "klein teentje knoflook, zeer fijn geraspt",
               "amount": "1"
             },
             {
-              "name": "citroensap of limoensap",
-              "amount": "1 tl"
+              "name": "kerriepoeder",
+              "amount": "½ tl"
             },
             {
-              "name": "warm water",
-              "amount": "70–80 ml"
+              "name": "gemalen koriander",
+              "amount": "½ tl"
             },
             {
-              "name": "snuf zout",
-              "amount": ""
+              "name": "uienpoeder",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "snuf"
             }
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            {
-              "name": "gebakken uitjes (uit een zakje — typisch Hollands accent)",
-              "amount": ""
-            },
-            {
-              "name": "eventueel: fijn gesneden lente-ui",
-              "amount": ""
-            },
-            {
-              "name": "eventueel: druppel sambal",
-              "amount": ""
-            },
-            {
-              "name": "4 stevige satéprikkers",
-              "amount": ""
-            }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de berenklauwen",
-          "ingredients": [
-            "350g half-om-half gehakt",
-            "1 ei",
-            "35g fijn paneermeel",
-            "1 el ketjap manis",
-            "1 tl Dijonmosterd",
-            "½ tl sambal oelek",
-            "½ tl nootmuskaat (de typische gehaktbalsmaak)",
-            "½ tl uienpoeder (optioneel — extra diepte)",
-            "1 tl fijn zeezout",
-            "Versgemalen zwarte peper"
-          ]
-        },
-        {
-          "group_name": "Voor de ui",
-          "ingredients": [
-            "4 middelgrote gele uien",
-            "Bewaar van elke ui de middelste vier stevige ringen (het mooiste deel)"
-          ]
-        },
-        {
-          "group_name": "Voor het frituren",
-          "ingredients": [
-            "75g bloem (voor het bestuiven)",
-            "Neutrale olie"
-          ]
-        },
-        {
-          "group_name": "Voor de snelle berenklauw-pindasaus",
-          "ingredients": [
-            "4 el crunchy of gladde pindakaas",
-            "1 el ketjap manis",
-            "1 tl sambal oelek (of naar smaak)",
-            "1 teentje knoflook, fijn geraspt",
-            "1 tl citroensap of limoensap",
-            "70–80ml warm water",
-            "Snuf zout"
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            "Gebakken uitjes (uit een zakje — typisch Hollands accent)",
-            "Eventueel: fijn gesneden lente-ui",
-            "Eventueel: druppel sambal",
-            "Benodigdheden",
-            "4 stevige satéprikkers",
-            "Keukenpapier",
-            "Frituurpan of ruime pan met olie"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
-          "action": "Uien voorbereiden",
-          "description": "Snijd elke ui in dikke plakken van 1–1,5cm. Bewaar van elke ui de vier middelste mooiste ringen — groot, stevig en perfect rond. De resterende ui-eindjes fijn snijden en bewaren."
+          "action": "Gehakt stevig kneden",
+          "description": "Meng gehakt, ei, paneermeel, ketjap, mosterd, sambal, zout en peper. Kneed 3–5 minuten stevig tot het mengsel duidelijk homogeen, kleverig en compact is. We willen bij een berenklauw juist die stevige, compacte snackbarstructuur."
         },
         {
-          "number": 2,
-          "action": "Het gehakt",
-          "description": "Meng gehakt, ei, paneermeel, fijngesneden ui-eindjes, ketjap manis, Dijonmosterd, sambal, nootmuskaat, uienpoeder, zout en peper in een kom. Kneed 1–2 minuten goed maar niet te lang — te veel kneden maakt het compact. Het mengsel moet samenhangen. Verdeel in 4 gelijke ballen van ca. 80–90g. Rol ze strak."
+          "action": "Ballen vormen",
+          "description": "Verdeel het mengsel in 4 gelijke ballen van ongeveer 130 g. Vorm ze zeer strak en rond. Vooraf koelen is niet nodig zolang het mengsel stevig genoeg is om zijn vorm te houden."
         },
         {
-          "number": 4,
-          "action": "Aanbraden en garen",
-          "description": "Verhit 2 el olie in een braadpan op middelhoog vuur. Bak de ballen rondom goudbruin — ca. 3–4 minuten al draaiend. Vuur laag. Deksel schuin op de pan. Laat de ballen 20 minuten sudderen op laag vuur, regelmatig draaien. De ballen zijn gaar wanneer een prikker er schoon uitkomt."
+          "action": "In de oven voorgaren",
+          "description": "Verwarm de oven voor op 160 °C. Leg de ballen op bakpapier of op een licht ingevet rooster. Gaar ongeveer 18–22 minuten, tot de kern 70–72 °C bereikt. Meet met een kernthermometer: is de kern nog niet zover, geef de ballen dan gewoon een paar minuten extra. Niet aanbakken in de pan: door de oven blijven de ballen veel ronder en gelijkmatiger."
         },
         {
-          "number": 6,
-          "action": "Koelen (essentieel)",
-          "description": "Ballen uit de pan. Laten afkoelen op keukenpapier. Dan minimaal 1 uur in de koelkast — de ballen moeten door en door koud zijn. Koud = makkelijker snijden en betere vorm behouden in de frituur."
+          "action": "Volledig koelen",
+          "description": "Laat de ballen eerst 15–20 minuten uitdampen. Zet ze daarna minimaal 1 uur in de koelkast, liever 2 uur. Ze moeten door en door koud en stevig zijn voordat ze worden gesneden. Dit koelstadium na het garen is belangrijk."
         },
         {
-          "number": 7,
-          "action": "De pindasaus",
-          "description": "Pindakaas, ketjap, sambal, knoflook en citroensap in een klein steelpannetje. Warm water al roerend toevoegen. Verwarmen op laag vuur tot een dikke, glanzende saus. Iets dikker dan normale satésaus — hij moet aan de berenklauw blijven hangen. Op smaak brengen."
+          "action": "Satésaus maken",
+          "description": "Doe pindakaas, 150 ml van het water, ketjap, donkere soja, basterdsuiker, sambal, knoflook, kerrie, koriander en uienpoeder in een steelpan met een snuf zout. Verwarm op laag vuur en roer voortdurend tot een gladde, dikke saus ontstaat. Voeg daarna beetje bij beetje de resterende 30 ml water toe tot de juiste snackbarconsistentie. Laat 3–4 minuten heel zacht trekken, niet hard koken. De saus moet dik aan de lepel blijven hangen maar wel makkelijk over de berenklauw lopen, donkerbruin en glanzend zijn, duidelijk naar pinda en ketjap smaken, licht zoet zijn en een kleine sambalwarmte hebben. Niet zuur en niet uitgesproken kokosachtig. Wordt hij bij afkoelen te dik, voeg dan per keer 10 ml heet water toe."
         },
         {
-          "number": 8,
-          "action": "De klauw vormen",
-          "description": "Elke koude bal in 5 gelijke schijven snijden met een scherp mes. Per satéprikker: 4 schijven gehakt afgewisseld met 4 uienringen oprijgen. Begin en eindig met gehakt. De schijven iets uitwaaieren als een klauw — de berenklauwvorm. Voorzichtig aandrukken zonder te vervormen."
+          "action": "Snijden",
+          "description": "Snijd iedere koude bal met een scherp glad mes in 5 gelijke schijven."
         },
         {
-          "number": 10,
+          "action": "Berenklauw opbouwen",
+          "description": "Rijg per prikker: gehakt – ui – gehakt – ui – gehakt – ui – gehakt – ui – gehakt. Dat is 5 gehaktschijven en 4 uiringen per berenklauw. Druk alles licht tegen elkaar, maar niet zo strak dat de ui volledig wordt opgesloten."
+        },
+        {
+          "action": "Licht bestuiven",
+          "description": "Bestuif de hele berenklauw heel dun met bloem en klop overtollige bloem goed af. Het moet geen beslaglaag worden: alleen een dun, droog oppervlak dat mooier krokant frituurt."
+        },
+        {
           "action": "Frituren",
-          "description": "Verhit de olie tot 175°C. Bestuif de berenklauwen licht met bloem — klop overtollige bloem af. Frituur 3–4 minuten tot goudbruin. Draai halfweg voorzichtig om. Uitlekken op keukenpapier. Direct serveren — de berenklauw wacht op niemand."
+          "description": "Verhit de olie tot 175–180 °C. Frituur de berenklauw 3–4 minuten, tot het vlees mooi donker goudbruin is, de randen krokant zijn en de ui zacht begint te worden maar nog structuur heeft. Laat kort uitlekken op keukenpapier en serveer meteen."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer zoals hij hoort: de berenklauw op de prikker, met royale warme satésaus erover of ernaast. Eventueel met friet en extra rauwe ui."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Het stevige kneden is hier bewust. Zout en mechanische beweging zorgen ervoor dat vleeseiwitten binden, waardoor de bal compact en elastisch wordt. Dat is bij een delicate gehaktbal soms ongewenst, maar bij een snackbar-berenklauw juist perfect: hij snijdt strak, blijft aan de prikker zitten en krijgt die kenmerkende stevige beet. De ballen eerst rustig in de oven garen heeft twee voordelen: ze blijven vrijwel perfect rond en ze hoeven tijdens het uiteindelijke frituren alleen nog te kleuren en krokant te worden. Voorfrituren als hele bal heeft weinig nut. Die korst zou je later grotendeels weer doorsnijden wanneer de bal in vijf plakken wordt verdeeld. De enige frituurbeurt na het rijgen geeft daarom de meeste korst waar je hem daadwerkelijk eet. De ui van 8–10 mm is dik genoeg om herkenbaar te blijven, maar dun genoeg om in 3–4 minuten frituren zijn rauwe scherpte kwijt te raken. De satésaus gebruikt pindakaas, ketjap, suiker, sambal en warme specerijen. Daardoor ontstaat niet een frisse Indonesische pindasaus maar precies het volle, lichtzoete snackbarprofiel dat bij een berenklauw en patat past."
         }
       ],
-      "steps_full": [
-        {
-          "number": null,
-          "section": "Uien voorbereiden",
-          "description": "Snijd elke ui in dikke plakken van 1–1,5cm. Bewaar van elke ui de vier middelste mooiste ringen — groot, stevig en perfect rond. De resterende ui-eindjes fijn snijden en bewaren."
-        },
-        {
-          "number": null,
-          "section": "Het gehakt",
-          "description": "Meng gehakt, ei, paneermeel, fijngesneden ui-eindjes, ketjap manis, Dijonmosterd, sambal, nootmuskaat, uienpoeder, zout en peper in een kom. Kneed 1–2 minuten goed maar niet te lang — te veel kneden maakt het compact. Het mengsel moet samenhangen."
-        },
-        {
-          "number": null,
-          "section": "Het gehakt",
-          "description": "Verdeel in 4 gelijke ballen van ca. 80–90g. Rol ze strak."
-        },
-        {
-          "number": null,
-          "section": "Aanbraden en garen",
-          "description": "Verhit 2 el olie in een braadpan op middelhoog vuur. Bak de ballen rondom goudbruin — ca. 3–4 minuten al draaiend."
-        },
-        {
-          "number": null,
-          "section": "Aanbraden en garen",
-          "description": "Vuur laag. Deksel schuin op de pan. Laat de ballen 20 minuten sudderen op laag vuur, regelmatig draaien. De ballen zijn gaar wanneer een prikker er schoon uitkomt."
-        },
-        {
-          "number": null,
-          "section": "Koelen (essentieel)",
-          "description": "Ballen uit de pan. Laten afkoelen op keukenpapier. Dan minimaal 1 uur in de koelkast — de ballen moeten door en door koud zijn. Koud = makkelijker snijden en betere vorm behouden in de frituur."
-        },
-        {
-          "number": null,
-          "section": "De pindasaus",
-          "description": "Pindakaas, ketjap, sambal, knoflook en citroensap in een klein steelpannetje. Warm water al roerend toevoegen. Verwarmen op laag vuur tot een dikke, glanzende saus. Iets dikker dan normale satésaus — hij moet aan de berenklauw blijven hangen. Op smaak brengen."
-        },
-        {
-          "number": null,
-          "section": "De klauw vormen",
-          "description": "Elke koude bal in 5 gelijke schijven snijden met een scherp mes."
-        },
-        {
-          "number": null,
-          "section": "De klauw vormen",
-          "description": "Per satéprikker: 4 schijven gehakt afgewisseld met 4 uienringen oprijgen. Begin en eindig met gehakt. De schijven iets uitwaaieren als een klauw — de berenklauwvorm. Voorzichtig aandrukken zonder te vervormen."
-        },
-        {
-          "number": null,
-          "section": "Frituren",
-          "description": "Verhit de olie tot 175°C. Bestuif de berenklauwen licht met bloem — klop overtollige bloem af."
-        },
-        {
-          "number": null,
-          "section": "Frituren",
-          "description": "Frituur 3–4 minuten tot goudbruin. Draai halfweg voorzichtig om. Uitlekken op keukenpapier."
-        },
-        {
-          "number": null,
-          "section": "Frituren",
-          "description": "Direct serveren — de berenklauw wacht op niemand."
-        }
-      ],
-      "tips": [
-        "Uur: Een uur koelen is niet onderhandelbaar: Warme ballen vervormen in de frituur en vallen uit elkaar. Koud = stabiel = mooie klauwvorm.",
-        "Bloem dun bestuiven: Een dunne, droge bloemlaag geeft een krokant korstje. Te dik = deegachtige coating.",
-        "175°C — niet heter: Bij hogere temperatuur kleurt de buitenkant snel maar blijft de ui soms te rauw en het gehakt onregelmatig gaar.",
-        "Pindasaus iets dikker maken: Voor de berenklauw dikker dan normale satésaus — hij moet hangen, niet druipen.",
-        "Satéprikkers bijknippen: Als de prikkers te ver uitsteken, knip ze bij tot 2cm boven de berenklauw. Ziet er strakker uit.",
-        "Variatie — ketjap-sambaldip: Meng 2 el ketjap manis + 1 tl sambal + 1 tl limoensap voor een snelle pittige alternatieve dipsaus.",
-        "Variatie: Variatie — koriander door het gehakt: Fijn gesneden koriander door het gehaktmengsel voor een licht Indisch karakter."
-      ],
-      "tips_full": [
-        "Uur: Een uur koelen is niet onderhandelbaar: Warme ballen vervormen in de frituur en vallen uit elkaar. Koud = stabiel = mooie klauwvorm.",
-        "Bloem dun bestuiven: Een dunne, droge bloemlaag geeft een krokant korstje. Te dik = deegachtige coating.",
-        "175°C — niet heter: Bij hogere temperatuur kleurt de buitenkant snel maar blijft de ui soms te rauw en het gehakt onregelmatig gaar.",
-        "Pindasaus iets dikker maken: Voor de berenklauw dikker dan normale satésaus — hij moet hangen, niet druipen.",
-        "Satéprikkers bijknippen: Als de prikkers te ver uitsteken, knip ze bij tot 2cm boven de berenklauw. Ziet er strakker uit.",
-        "Variatie — ketjap-sambaldip: Meng 2 el ketjap manis + 1 tl sambal + 1 tl limoensap voor een snelle pittige alternatieve dipsaus.",
-        "Variatie: Variatie — koriander door het gehakt: Fijn gesneden koriander door het gehaktmengsel voor een licht Indisch karakter."
-      ],
-      "opmaak_presentatie": "Op een warm bord of kleine houten plank. Een royale streep pindasaus op het bord — de berenklauw er deels opgelegd zodat het korstje zichtbaar en krokant blijft. Gebakken uitjes over de berenklauw gestrooid. Lente-ui als groen accent. Extra pindasaus in een schaaltje apart. Herkenbaar, nostalgisch en gevaarlijk lekker.",
+      "chef_tip": "Mise-en-place: Een dag vooruit is juist ideaal. Gaar de ballen de dag ervoor, koel ze volledig en bewaar ze afgedekt in de koelkast. De volgende dag snijden, rijgen en frituren.\n\nTechniek: Snijd pas koud. Een warme gehaktbal scheurt en vervormt; een koude bal snijdt strak.\n\nPresentatie: Geen culinaire bordversiering nodig. Serveer de berenklauw op de prikker met royale warme satésaus, eventueel friet en extra rauwe ui. Het moet eruitzien als een geweldige snackbarberenklauw.\n\nVariatie: Patatje-oorlogvariant: serveer met satésaus, mayonaise en rauwe fijngesneden ui.\n\nAlternatief: Rundergehakt kan uitstekend. Gebruik wel gehakt met ongeveer 15–20% vet. Zeer mager rundergehakt wordt na oven en frituur sneller droog.\n\nVooruit maken: De satésaus kan 2–3 dagen gekoeld worden bewaard. Bij opwarmen wordt hij dikker; verdun met heet water.",
       "wines": [
         {
           "type": "aanbevolen",
@@ -23589,7 +23453,8 @@
           "druif": "Gamay",
           "smaakprofiel": "Sappig rood fruit, weinig tannine, fris, soepel, licht kruidig",
           "omschrijving": "Een licht, sappig en onpretentieus rood — precies het juiste borrelgezelschap.",
-          "waarom_werkt_dit": "De sappige fruitigheid sluit aan op de ketjap manis en sambal. De lichte tannines botsen niet met het gefrituurde gehakt. Fris genoeg om het vet weg te wassen. Eerlijk bij een eerlijke snack."
+          "waarom_werkt_dit": "De sappige fruitigheid sluit aan op de ketjap manis en sambal. De lichte tannines botsen niet met het gefrituurde gehakt. Fris genoeg om het vet weg te wassen. Eerlijk bij een eerlijke snack.",
+          "serveertemperatuur": "Serveer licht gekoeld op 12–14 °C."
         },
         {
           "type": "alternatief",
@@ -23597,32 +23462,19 @@
           "druif": "Grenache",
           "smaakprofiel": "Droog, fris, rood fruit, licht kruidig",
           "omschrijving": "Een zonnige, droge rosé die elke snack borrelwaardig maakt.",
-          "waarom_werkt_dit": "Rosé past uitstekend bij gefrituurde snacks en licht zoete pindasaus. Houdt alles fris en zonnig."
+          "waarom_werkt_dit": "Rosé past uitstekend bij gefrituurde snacks en licht zoete pindasaus. Houdt alles fris en zonnig.",
+          "serveertemperatuur": "Serveer op 8–10 °C."
         },
         {
-          "type": "alternatief",
+          "type": "meest toegankelijk",
           "naam": "Goed koud glas Heineken, Amstel of Grolsch",
           "druif": "n.v.t. — bier",
           "smaakprofiel": "Fris, licht bitter, dorstlessend",
           "omschrijving": "Laten we eerlijk zijn.",
-          "waarom_werkt_dit": "Een ijskoude Nederlandse pils spoelt vet, sambal en pindasaus schoon en houdt de berenklauw precies wat hij moet zijn — de lekkerste Hollandse snack ter wereld."
+          "waarom_werkt_dit": "Een ijskoude Nederlandse pils spoelt vet, sambal en pindasaus schoon en houdt de berenklauw precies wat hij moet zijn — de lekkerste Hollandse snack ter wereld.",
+          "serveertemperatuur": "Serveer ijskoud op 4–6 °C."
         }
-      ],
-      "wine": {
-        "naam": "Beaujolais-Villages AOC — Beaujolais, Frankrijk (licht gekoeld)",
-        "druif": "Gamay",
-        "toelichting": "Sappig rood fruit, weinig tannine, fris, soepel, licht kruidig Een licht, sappig en onpretentieus rood — precies het juiste borrelgezelschap. De sappige fruitigheid sluit aan op de ketjap manis en sambal. De lichte tannines botsen niet met het gefrituurde gehakt. Fris genoeg om het vet weg te wassen. Eerlijk bij een eerlijke snack.",
-        "alternatief": "Droge Grenache Rosé — Rhône of Provence, Frankrijk — Grenache. Droog, fris, rood fruit, licht kruidig Een zonnige, droge rosé die elke snack borrelwaardig maakt. Rosé past uitstekend bij gefrituurde snacks en licht zoete pindasaus. Houdt alles fris en zonnig. | Goed koud glas Heineken, Amstel of Grolsch — . Fris, licht bitter, dorstlessend Laten we eerlijk zijn. Een ijskoude Nederlandse pils spoelt vet, sambal en pindasaus schoon en houdt de berenklauw precies wat hij moet zijn — de lekkerste Hollandse snack ter wereld."
-      },
-      "metadata": {
-        "bereidingstijd": "45 min + minimaal 1 uur koelen",
-        "porties": "4 berenklauwen",
-        "type_gerecht": "Snack / borrelgerecht",
-        "niveau": "Makkelijk"
-      },
-      "source_recipe_number": 75,
-      "full_title_docx": "75. BERENKLAUW — GRONINGSE SNACK MET PINDASAUS",
-      "chef_tip": "Uur: Een uur koelen is niet onderhandelbaar: Warme ballen vervormen in de frituur en vallen uit elkaar. Koud = stabiel = mooie klauwvorm.\n\nBloem dun bestuiven: Een dunne, droge bloemlaag geeft een krokant korstje. Te dik = deegachtige coating.\n\n175°C — niet heter: Bij hogere temperatuur kleurt de buitenkant snel maar blijft de ui soms te rauw en het gehakt onregelmatig gaar.\n\nPindasaus iets dikker maken: Voor de berenklauw dikker dan normale satésaus — hij moet hangen, niet druipen.\n\nSatéprikkers bijknippen: Als de prikkers te ver uitsteken, knip ze bij tot 2cm boven de berenklauw. Ziet er strakker uit.\n\nVariatie — ketjap-sambaldip: Meng 2 el ketjap manis + 1 tl sambal + 1 tl limoensap voor een snelle pittige alternatieve dipsaus.\n\nVariatie: Variatie — koriander door het gehakt: Fijn gesneden koriander door het gehaktmengsel voor een licht Indisch karakter."
+      ]
     },
     {
       "title": "Kake Udon — udonnoedelsoep met zelfgemaakte dashi, wakame en tsukimi-eidooier",
