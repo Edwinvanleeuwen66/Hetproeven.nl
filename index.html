@@ -690,18 +690,39 @@
         .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
     }
 
-    function zoekFilter(r) {
-      if (!zoekQuery) return true;
-      const q = normaliseer(zoekQuery);
-      const velden = [
-        r.title, r.short_description, r.description,
-        r.location, r.keuken, r.categorie,
-        ...(r.ingredient_groups || []).flatMap(g => 
-          (g.ingredients || []).map(i => i.name)
-        )
-      ];
-      return velden.some(v => normaliseer(v).includes(q));
+    // Losse tekst (beschrijvingen): woordbegin of samenstelling die op het zoekwoord eindigt
+    // (kip → kippendij, soep → groentesoep/soepen), maar niet de bekende valse treffer "soepel/soepig".
+    const NIET_BIJ = { soep: /^soep(el|ig)/ };
+    function woordMatch(tekst, q) {
+      if (q.includes(' ')) return normaliseer(tekst).includes(q);   // zoekzin: letterlijk als zin
+      const uitsluiten = NIET_BIJ[q];
+      return normaliseer(tekst).split(/[^a-z0-9]+/).some(w =>
+        !(uitsluiten && uitsluiten.test(w)) && (w.startsWith(q) || w.endsWith(q) || w.endsWith(q + 'en') ||
+                                                w.endsWith(q + 's') || w.endsWith(q + 'je') || w.endsWith(q + 'jes')));
     }
+
+    // Geeft 0 terug als het recept niet past, anders een score (hoger = eerder tonen).
+    function zoekScore(r) {
+      if (!zoekQuery) return 1;
+      const tokens = [normaliseer(zoekQuery).replace(/\s+/g, ' ').trim()];   // hele zoekopdracht als één zin, zoals voorheen
+      const titel = normaliseer(r.title);
+      const cat   = normaliseer(r.categorie);
+      const plek  = normaliseer((r.keuken || '') + ' ' + (r.location || ''));
+      const ingr  = (r.ingredient_groups || []).flatMap(g => (g.ingredients || []).map(i => normaliseer(i.name)));
+      let totaal = 0;
+      for (const q of tokens) {
+        let s = 0;
+        if (cat === q || cat.startsWith(q))       s = 110;   // hele categorie (bijv. alle soepen) eerst
+        else if (titel.includes(q))               s = 100;
+        else if (plek.includes(q))                s = 60;
+        else if (ingr.some(n => n.includes(q)))   s = 40;
+        else if (woordMatch(r.short_description, q) || woordMatch(r.description, q)) s = 10;
+        if (s === 0) return 0;
+        totaal += s;
+      }
+      return totaal;
+    }
+    function zoekFilter(r) { return zoekScore(r) > 0; }
 
     zoekInput.addEventListener('input', () => {
       zoekQuery = zoekInput.value.trim();
@@ -727,7 +748,11 @@
       if (activeCategorie !== 'all') filtered = filtered.filter(r => r.categorie === activeCategorie);
       if (activeMijnFilter === 'favorieten') filtered = filtered.filter(r => favorieten.has(r.slug));
       if (activeMijnFilter === 'vandaag')    filtered = filtered.filter(r => vandaag.has(r.slug));
-      if (zoekQuery) filtered = filtered.filter(zoekFilter);
+      if (zoekQuery) {
+        // beste treffers eerst (categorie, titel, keuken, ingrediënt, daarna beschrijving); gelijke score houdt de bestaande volgorde
+        filtered = filtered.map((r, i) => ({ r, i, s: zoekScore(r) })).filter(x => x.s > 0)
+          .sort((x, y) => (y.s - x.s) || (x.i - y.i)).map(x => x.r);
+      }
       if (zoekQuery) {
         zoekResultaat.textContent = filtered.length === 0
           ? 'Geen recepten gevonden voor "' + zoekQuery + '"'
