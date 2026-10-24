@@ -82232,6 +82232,166 @@
           "serveertemperatuur": "Serveer op 9–10°C."
         }
       ]
+    },
+    {
+      "title": "Pizzicotto aperto met burrata, vijg en prosciutto arrosto",
+      "slug": "pizzicotto-aperto-burrata-vijg-prosciutto-arrosto",
+      "location": "Napels",
+      "time": "20 min actief + 6–9 uur rijzen + 30 min bereiding",
+      "servings": "4 personen (8 pizzicotti, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Italiaans",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/pizzicotto-aperto-burrata-vijg-prosciutto-arrosto.jpg",
+      "short_description": "Een gefrituurde open pizza met een blazige, goudbruine rand, koele burrata, rijpe vijg en een scherf krokante prosciutto.",
+      "description": "Een kleine open pizza fritta met een goudbruine, blazige rand en een dun, krokant midden. Het warme deeg wordt pas ná het frituren belegd met koele, romige burrata, rijpe verse vijg en een scherf krokant geroosterde prosciutto. Geen honing, geen balsamico, geen overdaad aan garnering: alles draait om warm en koud, krokant en romig, zoet en zout.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het deeg (8 stuks van ca. 70 g)",
+          "ingredients": [
+            {
+              "name": "Italiaanse tipo 0 of 00 pizzabloem, W 250–280",
+              "amount": "330 g"
+            },
+            {
+              "name": "water van 20–22 °C (66,7% hydratatie)",
+              "amount": "220 g"
+            },
+            {
+              "name": "verse gist (of 0,35 g instant droge gist)",
+              "amount": "1 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "8½ g"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te frituren",
+          "ingredients": [
+            {
+              "name": "arachideolie of andere neutrale frituurolie (minstens 4–5 cm hoog in de pan)",
+              "amount": "1½–2 l"
+            },
+            {
+              "name": "semola of bloem voor het werkblad",
+              "amount": "20 g"
+            },
+            {
+              "name": "fijn zeezout voor de warme pizzicotti",
+              "amount": "2 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de topping",
+          "ingredients": [
+            {
+              "name": "burrata",
+              "amount": "250 g"
+            },
+            {
+              "name": "dunne plakken prosciutto crudo (8 nodig, 2 als reserve voor breuk)",
+              "amount": "10"
+            },
+            {
+              "name": "rijpe maar stevige verse vijgen",
+              "amount": "4"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "20 ml"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Meng en laat het deeg rusten",
+          "description": "Los de gist op in 205 g van het water in een ruime kom. Voeg de bloem toe en meng tot er geen droge bloem meer zichtbaar is. Dek af en laat 20 minuten rusten. Deze korte rust laat de bloem water opnemen en maakt het deeg daarna makkelijker elastisch."
+        },
+        {
+          "action": "Voeg zout toe en kneed",
+          "description": "Los het zout op in de resterende 15 g water en werk dat beetje bij beetje door het deeg. Kneed 8–10 minuten met de hand of 6–8 minuten in een keukenmachine op lage tot middelmatige snelheid. Het deeg moet glad en elastisch worden, licht kleverig blijven en spanning vasthouden. Stop zodra je een dun stukje kunt uitrekken zonder dat het meteen scheurt."
+        },
+        {
+          "action": "Eerste rijs, 2 uur",
+          "description": "Vorm een gladde bal en leg die in een licht afgedekte kom. Laat 2 uur rijzen bij 21–22 °C. Doe na 30 minuten één stretch-and-fold: trek de vier kanten voorzichtig omhoog en vouw ze naar het midden."
+        },
+        {
+          "action": "Verdeel en bol op",
+          "description": "Verdeel het deeg in 8 stukken van ca. 70 g en bol ze voorzichtig maar strak op, met een gladde bovenkant. Leg ze met ruimte ertussen in een afgesloten bak of onder folie."
+        },
+        {
+          "action": "Tweede rijs, 4–7 uur",
+          "description": "Laat de bolletjes bij kamertemperatuur rijzen. Totaal is dat 6–9 uur vanaf het kneden, ideaal rond 8 uur bij 21–22 °C (bijvoorbeeld kneden om 10:00, frituren rond 18:00). Bij 24–25 °C gaat het sneller, dan is 6–7 uur vaak genoeg. Kijk naar het deeg en niet naar de klok: de bolletjes moeten zichtbaar luchtiger zijn, zacht en soepel aanvoelen en makkelijk uit te drukken zijn zonder sterk terug te veren. Niet wachten tot ze slap worden."
+        },
+        {
+          "action": "Rooster de prosciutto (terwijl het deeg rijst)",
+          "description": "Verwarm de oven voor op 170 °C. Leg de plakken in een enkele laag op bakpapier, dek af met een tweede vel en leg er een lichte bakplaat of schaal op zodat ze vlak blijven. Bak 8–10 minuten, check na 8, tot ze droog en krokant zijn. Haal ze eruit en laat volledig afkoelen op een rooster: pas dan worden ze echt krokant. Bewaar droog tot gebruik."
+        },
+        {
+          "action": "Bereid de burrata en de vijgen",
+          "description": "Laat de burrata minstens 20–30 minuten uitlekken in een zeef en scheur hem pas vlak voor serveren open. Verdeel in 8 porties van ca. 30 g en haal hem 20 minuten voor gebruik uit de koelkast. Was en droog de vijgen, snijd ze in vieren en reken op 2 partjes per pizzicotto. Niet marineren of karamelliseren."
+        },
+        {
+          "action": "Verhit de olie",
+          "description": "Verhit de olie in een brede, diepe pan (minstens 4–5 cm olie, zo breed dat de pizza de wand niet raakt) tot 185–190 °C. Controleer met een thermometer."
+        },
+        {
+          "action": "Vorm de pizzicotti",
+          "description": "Bestuif het werkblad heel licht met semola of bloem. Druk een bolletje met de vingertoppen vanuit het midden naar buiten tot een schijf van ca. 11–12 cm. Knijp rondom een rand van ca. 1 cm op en laat het midden ca. 4–5 mm dik. Prik het midden een paar keer met een vork: zo blaast het niet op tot één grote ballon en blijft er ruimte voor de topping. Gebruik geen deegroller en druk niet alle lucht eruit."
+        },
+        {
+          "action": "Frituur",
+          "description": "Laat de schijven voorzichtig in de olie glijden, maximaal twee tegelijk als de pan breed genoeg is en de temperatuur op peil blijft. Schep de eerste 20 seconden heet olie over de bovenkant. Frituur 45–60 seconden aan de eerste kant, draai om en frituur nog 40–50 seconden. Ze moeten opblazen, goudbruin zijn, kleine blaren hebben, krokant zijn aan de buitenkant en luchtig vanbinnen."
+        },
+        {
+          "action": "Laat kort uitlekken en beleg direct",
+          "description": "Leg de pizzicotti 30–60 seconden op een rooster met keukenpapier eronder en strooi meteen een snufje fijn zout erover. Niet warm houden in de oven en niet wachten. Beleg per pizzicotto met 30 g burrata, 2 partjes vijg, 1 scherf krokante prosciutto rechtop erin, ½ tl olijfolie en een beetje zwarte peper. Serveer onmiddellijk en frituur de volgende ronde terwijl de eerste wordt opgegeten."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Prosciutto niet krokant? Plakken verschillen in dikte. Bak ze een minuut langer en laat ze echt helemaal afkoelen op een rooster. Houd ze droog, want ze worden zacht in vochtige lucht.\n\nMise-en-place: Burrata te nat? Snij hem niet meteen open. Laat de hele burrata eerst uitlekken en scheur hem pas vlak voor gebruik, anders weekt de bodem.\n\nTechniek: Is 6 uur genoeg? Ja, vooral in een warme keuken (24–25 °C). Is je keuken kouder dan 20 °C, reken dan eerder op 9 uur. Kijk naar het deeg.\n\nTechniek: Gist of temperatuur? De temperatuur bepaalt de rijstijd veel sterker dan de gist. Een halve gram extra gist scheelt op 8 uur ongeveer een uur. Voor een kille keuken kun je 1,2 g verse gist (0,4 g instant) nemen.\n\nTechniek: Waarom dit werkt. Gefrituurd deeg heeft maar anderhalve minuut om te kleuren en gaar te worden. Het heeft daarvoor gas nodig voor een luchtige rand en genoeg eigen suiker voor de kleur. Een same-day rijs van 6–9 uur levert beide en past bij wat Sorbillo (ca. 8 uur) en Tommasi (ca. 10 uur) voor montanara gebruiken. Suiker en olie in het deeg zijn bij deze rijstijd niet nodig. De hydratatie van 66,7% geeft genoeg stoom om de rand snel te laten opblazen en blijft thuis goed te verwerken. De sterke bloem houdt het gas vast. De hoge frituurtemperatuur zorgt voor snelle stoomvorming, sterke expansie en een snel gevormde korst. Bij te lage temperatuur duurt het frituren langer en wordt het resultaat zwaarder en minder krokant. Het beleg pas daarna erop leggen houdt de contrasten intact. Het deeg is warm, krokant en licht gezouten. De burrata is koel en romig, de vijg geeft natuurlijke zoetheid en de krokante prosciutto zout en umami met een tweede textuur. Honing of balsamico zou dat alleen drukker en zoeter maken.\n\nPresentatie: Serveer op een houten plank of een plat bord, 2 pizzicotti per persoon, zonder bestek. Geen balsamicoglazuur, geen honing, geen rucola, geen notenkruim. Je ziet de goudbruine, blazige rand, het wit van de burrata, het paarsrood van de vijg en een donkere, krokante scherf prosciutto die rechtop staat. Het gerecht werkt het best als iedereen twee minuten na elkaar eet in plaats van acht pizzicotti tien minuten te laten wachten.\n\nVariatie: Vegetarische variant met geroosterde groenten (montanara ortolana). Maak hetzelfde deeg en frituur op dezelfde manier. Maak een simpele saus door 200 g passata met 10 ml olijfolie, 2 basilicumblaadjes en 2 g zout 8–10 minuten te laten inkoken tot dik. Bestrijk de warme bodem dun met 15–20 g saus. Beleg met 15 g dun gesneden gegrilde courgette, 15 g gegrilde aubergine en 20 g goed uitgelekte fior di latte. Grill de groenten vooraf hard en laat ze uitdampen, anders wordt de bodem slap. Zet de belegde pizzicotto 60–90 seconden onder een zeer hete grill tot de mozzarella nét smelt en werk af met ½ tl olijfolie, een basilicumblaadje en zwarte peper.\n\nAlternatief: Welke bloem? Gebruik een Italiaanse pizza- of broodbloem met W 250–280. Staat dat niet op de verpakking, zoek dan 12–13 g eiwit per 100 g. Een extreem sterke bloem (W 320+) is voor deze same-day versie niet nodig.",
+      "wine": {
+        "naam": "Franciacorta Brut",
+        "druif": "Voornamelijk Chardonnay, eventueel Pinot Nero",
+        "toelichting": "Franciacorta Brut uit Lombardije heeft een geur van gele appel, citrus, witte perzik, fijne brioche en een subtiele amandeltoon. In de mond is hij droog, verfijnd en fris, met een fijne mousse en een licht romige textuur. De mousse en frisse zuren snijden door het gefrituurde deeg en de burrata, de brioche-tonen sluiten aan op de goudbruine korst en het rijpe fruit gaat mooi samen met de vijg. Serveer op 7–9 °C.",
+        "alternatief": "Lambrusco di Sorbara, secco (druif Lambrusco di Sorbara, Emilia-Romagna, serveer op 9–10 °C): geur van aardbei, framboos, rode bes, viooltjes en lichte kruiden, droog, licht mousserend en zeer fris, met weinig tannine. Gefrituurd deeg en ham horen in Emilia bij Lambrusco, de rode fruittonen passen bij de vijg en de bubbels houden het geheel fris. Meest toegankelijk: Prosecco Superiore Brut (druif Glera, Conegliano-Valdobbiadene, Veneto, serveer op 7–8 °C): geur van peer, appel, witte perzik, citrus en lichte bloesem, fris, fruitig en soepel, met een zachte mousse. Het fruit sluit makkelijk aan op vijg en burrata en het koolzuur maakt het gefrituurde deeg lichter. Minder complex dan Franciacorta, maar breed verkrijgbaar."
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Franciacorta Brut — Lombardije, Italië",
+          "druif": "Voornamelijk Chardonnay, eventueel Pinot Nero",
+          "smaakprofiel": "Droog, verfijnd en fris, met een fijne mousse en een licht romige textuur.",
+          "omschrijving": "Geur: gele appel, citrus, witte perzik, fijne brioche en een subtiele amandeltoon.",
+          "waarom_werkt_dit": "De mousse en frisse zuren snijden door het gefrituurde deeg en de burrata. De brioche-tonen sluiten aan op de goudbruine korst en het rijpe fruit gaat mooi samen met de vijg.",
+          "serveertemperatuur": "Serveer op 7–9 °C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Lambrusco di Sorbara, secco — Emilia-Romagna, Italië",
+          "druif": "Lambrusco di Sorbara",
+          "smaakprofiel": "Droog, licht mousserend en zeer fris, met weinig tannine.",
+          "omschrijving": "Geur: aardbei, framboos, rode bes, viooltjes en lichte kruiden.",
+          "waarom_werkt_dit": "Gefrituurd deeg en ham horen in Emilia bij Lambrusco. De rode fruittonen passen bij de vijg en de bubbels houden het geheel fris.",
+          "serveertemperatuur": "Serveer op 9–10 °C."
+        },
+        {
+          "type": "meest toegankelijk",
+          "naam": "Prosecco Superiore Brut — Conegliano-Valdobbiadene, Veneto, Italië",
+          "druif": "Glera",
+          "smaakprofiel": "Fris, fruitig en soepel, met een zachte mousse.",
+          "omschrijving": "Geur: peer, appel, witte perzik, citrus en lichte bloesem.",
+          "waarom_werkt_dit": "Het fruit sluit makkelijk aan op vijg en burrata, en het koolzuur maakt het gefrituurde deeg lichter. Minder complex dan Franciacorta, maar breed verkrijgbaar.",
+          "serveertemperatuur": "Serveer op 7–8 °C."
+        }
+      ]
     }
   ]
 }
