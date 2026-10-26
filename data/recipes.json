@@ -82459,6 +82459,726 @@
           "serveertemperatuur": "Serveer op 7–8 °C."
         }
       ]
+    },
+    {
+      "title": "Bumbu Kacang Madura — de ultieme Indonesische satésaus",
+      "slug": "bumbu-kacang-madura-indonesische-satesaus",
+      "location": "Java / Madura, Indonesië",
+      "time": "60 min",
+      "servings": "8 porties (saus bij saté)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/bumbu-kacang-madura-indonesische-satesaus.jpg",
+      "short_description": "Zelfgemaakte satésaus van gefrituurde vliespinda's, langzaam gebakken kruiden, kemiri, kentjoer en terasi — donker, diep, romig en met een langzaam opbouwende pit.",
+      "description": "Vergeet de pindasaus uit een pot. Dit is satésaus zoals je haar proeft bij een uitzonderlijk goede satéverkoper op Java: donker, geurig, intens nootachtig, hartig en lichtzoet, met een langzaam opbouwende pittigheid. Het geheim zit in drie technieken: rauwe vliespinda's zelf goudbruin frituren, een verse kruidenpasta lang bakken tot de rauwe scherpte verdwenen is en de saus zacht laten pruttelen tot de pindaolie een subtiele glans vormt. Geen pindakaas, geen kokosmelk, geen shortcuts.",
+      "ingredient_groups": [
+        {
+          "group_name": "Pinda's en kruidenbasis",
+          "ingredients": [
+            {
+              "name": "rauwe, ongezouten vliespinda's",
+              "amount": "250 g"
+            },
+            {
+              "name": "arachideolie om te frituren, waarvan 45 ml wordt hergebruikt",
+              "amount": "200 ml"
+            },
+            {
+              "name": "sjalotten, gepeld",
+              "amount": "100 g"
+            },
+            {
+              "name": "knoflook, gepeld",
+              "amount": "20 g"
+            },
+            {
+              "name": "kemirinoten (circa 9 g)",
+              "amount": "3"
+            },
+            {
+              "name": "rode lomboks (circa 35 g), zonder steeltjes",
+              "amount": "2"
+            },
+            {
+              "name": "rode rawits (circa 5 g), zonder steeltjes",
+              "amount": "2"
+            },
+            {
+              "name": "verse laos, geschild",
+              "amount": "8 g"
+            },
+            {
+              "name": "verse kentjoer (kencur), geschild",
+              "amount": "3 g"
+            },
+            {
+              "name": "sereh, alleen de zachte onderste 5 cm",
+              "amount": "1 stengel"
+            },
+            {
+              "name": "terasi (Indonesische garnalenpasta)",
+              "amount": "3 g"
+            },
+            {
+              "name": "gemalen koriander (circa 1 g)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "water om te malen, alleen indien nodig",
+              "amount": "15 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de saus",
+          "ingredients": [
+            {
+              "name": "ketjap manis, bij voorkeur Bango of ABC",
+              "amount": "35 ml"
+            },
+            {
+              "name": "gula djawa, fijn geraspt",
+              "amount": "15 g"
+            },
+            {
+              "name": "asem (tamarindepulp zonder pit)",
+              "amount": "15 g"
+            },
+            {
+              "name": "warm water voor de asem",
+              "amount": "50 ml"
+            },
+            {
+              "name": "warm water voor de saus",
+              "amount": "300 ml"
+            },
+            {
+              "name": "extra warm water, alleen indien nodig",
+              "amount": "maximaal 75 ml"
+            },
+            {
+              "name": "djeroek poeroetblaadjes, gekneusd",
+              "amount": "4"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "4 g"
+            },
+            {
+              "name": "vetsin (MSG)",
+              "amount": "0,5 g"
+            },
+            {
+              "name": "vers limoensap, uitsluitend indien nodig",
+              "amount": "maximaal 5 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "extra geroosterde ongezouten pinda's, grof gehakt",
+              "amount": "25 g"
+            },
+            {
+              "name": "bawang goreng (krokant gebakken sjalot)",
+              "amount": "10 g"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "10 ml"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Week de asem (10 min)",
+          "description": "Week de 15 g asem in 50 ml warm water. Laat 10 minuten staan, kneed de pulp met een lepel goed los en druk door een fijne zeef. Bewaar het gezeefde tamarindewater en gooi de vezels en harde resten weg."
+        },
+        {
+          "action": "Frituur de pinda's (10 min)",
+          "description": "Verwarm 200 ml arachideolie in een kleine, diepe pan tot 155–160 °C. Frituur de 250 g rauwe vliespinda's in twee porties, telkens circa 4–6 minuten, onder voortdurend roeren. Haal ze uit de olie zodra ze goudbruin zijn, net voordat ze hun uiteindelijke kleur bereiken: ze kleuren tijdens het afkoelen nog iets door. Te donker gefrituurde pinda's geven een bittere saus. Laat volledig afkoelen op keukenpapier en bewaar 45 ml van de gebruikte olie voor de kruidenpasta."
+        },
+        {
+          "action": "Rooster kemiri en terasi (5 min)",
+          "description": "Rooster de 3 kemirinoten in een droge koekenpan op middellaag vuur, ongeveer 4 minuten, tot ze licht goudbruin kleuren en geuren. Rooster de 3 g terasi afzonderlijk circa 1 minuut op laag vuur tot de geur vrijkomt. Kemirinoten mogen niet rauw worden gegeten: ze worden na het roosteren volledig meegebakken en gekookt."
+        },
+        {
+          "action": "Maal de verse bumbu (5 min)",
+          "description": "Maal sjalot, knoflook, de geroosterde kemiri, lomboks, rawits, laos, kentjoer, het zachte deel van de sereh en de koriander in een kleine keukenmachine of vijzel tot een zo fijn mogelijke, homogene pasta. Voeg alleen indien nodig 15 ml water toe om het malen te vergemakkelijken."
+        },
+        {
+          "action": "Bak de bumbu diep (8–12 min)",
+          "description": "Verwarm de 45 ml bewaarde pindaolie in een pan met dikke bodem. Voeg de kruidenpasta toe en bak 8–12 minuten op middellaag vuur, onder regelmatig roeren en schrapen over de bodem. Voeg na 5 minuten de geroosterde terasi toe. De bumbu is klaar wanneer de rauwe uien- en knoflookgeur verdwenen is, de pasta donkerder wordt, de aroma's voller en zoeter ruiken en er aan de randen een beetje olie vrijkomt. Laat de pasta niet verbranden. Dit is de belangrijkste stap voor de smaakdiepte."
+        },
+        {
+          "action": "Maal de pinda's (3 min)",
+          "description": "Maal de volledig afgekoelde pinda's in een keukenmachine met korte pulsen tot ongeveer 80% fijn gemalen en 20% iets grovere deeltjes. Maal niet zo lang dat het een gladde pindakaas wordt: de saus moet romig worden maar een subtiele, natuurlijke pindastructuur behouden."
+        },
+        {
+          "action": "Bouw de saus op (15 min)",
+          "description": "Voeg de gemalen pinda's toe aan de gebakken bumbu en roer goed door. Voeg 200 ml van het warme water, de ketjap manis, gula djawa, het gezeefde asemwater, het zout, de vetsin en de gekneusde djeroek poeroetblaadjes toe. Breng onder regelmatig roeren zachtjes tegen de kook aan en laat 12–15 minuten heel rustig pruttelen. Voeg tijdens het koken de resterende 100 ml warm water geleidelijk toe en roer regelmatig over de bodem om aanbakken te voorkomen. De saus moet dik, romig en glanzend worden, maar nog gemakkelijk van een lepel lopen. Een subtiel randje pindaolie aan het oppervlak is gewenst."
+        },
+        {
+          "action": "Laat rusten en proef (5 min)",
+          "description": "Neem de pan van het vuur en laat de saus 5 minuten rusten. Verwijder de vier limoenblaadjes en proef zorgvuldig: eerst diep geroosterde pinda's, dan hartige, warme kruiden, zachte karameltonen van ketjap en palmsuiker, een langzaam opbouwende chiliwarmte en een subtiele frisse afdronk van asem en limoenblad. Is de saus te zwaar of te vlak, voeg dan maximaal 5 ml vers limoensap toe. Is hij te dik, voeg dan warm water toe in stappen van 15 ml, tot maximaal 75 ml extra. Voeg alleen indien nodig nog een beetje zout toe: de saus mag beslist niet uitgesproken zoet of zuur worden."
+        },
+        {
+          "action": "Serveer",
+          "description": "Verwarm de saus zo nodig zachtjes tot ongeveer 55–60 °C. Schep in een voorverwarmde schaal en verdeel er 25 g grof gehakte geroosterde pinda's en 10 g krokante sjalot over. Werk af met een dun straaltje van 10 ml ketjap manis. Serveer bij voorkeur bij vers gegrilde saté ayam, saté babi of saté van rundvlees."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Door rauwe vliespinda's zelf te frituren ontstaat een intensere, warmere notensmaak dan bij pindakaas; het vlies draagt bij aan kleur en karakter. De langdurig gebakken bumbu verliest zijn rauwe scherpte: de smaak van sjalot, knoflook, lombok, laos en sereh wordt zachter, voller en complexer. Kemiri ondersteunt het romige mondgevoel, kentjoer geeft een karakteristiek kruidig, licht aards aroma zonder de pinda's te overheersen. De geroosterde terasi en de bescheiden hoeveelheid vetsin brengen hartige diepte. Asem en limoenblad voorkomen een logge saus: de subtiele zuren houden olie, pinda's en ketjap in balans. De saus blijft bewust licht korrelig, wat beter past bij het krachtige karakter van Indonesische streetfood."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Week de asem, frituur en koel de pinda's en rooster kemiri en terasi voordat je de bumbu maalt. Weeg alles vooraf af: tijdens het bakken van de bumbu heb je geen tijd om te zoeken.\n\nTechniek: Bak de bumbu echt lang genoeg. Tien minuten rustig bakken maakt meer verschil dan nog drie extra specerijen toevoegen.\n\nVerse pinda's: Gebruik verse vliespinda's. Oude of ranzige pinda's verpesten de smaak, ongeacht hoeveel kruiden je toevoegt.\n\nKentjoer: Gebruik echte kentjoer. Gember is geen gelijkwaardige vervanger. Laat kentjoer liever weg wanneer je het niet kunt vinden.\n\nKetjap: Gebruik goede ketjap. Bango en ABC geven de gewenste donkere, hartig-zoete smaak.\n\nVooruitwerken: Maak de saus een dag vooraf. De aroma's krijgen tijd om samen te komen. Warm zacht op met 15–30 ml water.\n\nBalans: Maak de saus niet te zoet. Bij gegrilde saté met ketjaplak komt al extra zoetheid van het vlees.\n\nPittigheid: Pas de pittigheid aan met rawit. Voor extra pit gebruik je drie in plaats van twee rawits. Voeg liever geen grote hoeveelheid kant-en-klare sambal toe.\n\nBewaren: Laat de saus snel afkoelen en bewaar hem afgesloten maximaal 3–4 dagen in de koelkast bij maximaal 4 °C, of vries hem in porties in.\n\nPresentatie: Schep de saus in een kleine, voorverwarmde schaal en werk af met gehakte pinda's, bawang goreng en een dun straaltje ketjap manis. Zet de schaal naast de gegrilde saté, zodat iedereen zelf kan dippen.\n\nVariatie: Gebruik dezelfde saus ook bij gado-gado, lontong of gegrilde groenten. Verdun hem dan met 30–60 ml warm water tot een lopende saus.\n\nAlternatief: Geen kemiri? Macadamia is een goede noodvervanger. Geen zin om te frituren? Rooster de pinda's in de oven op circa 160 °C, 15–20 minuten tot goudbruin; de smaak is iets minder rond.",
+      "wine": {
+        "naam": "Gewürztraminer — Elzas, Frankrijk",
+        "druif": "Gewürztraminer",
+        "toelichting": "De aromatische kruidigheid sluit aan bij de kentjoer, laos en sereh. Een kleine hoeveelheid restsuiker verzacht de rawit en ondersteunt de geroosterde pinda's zonder de saus te overstemmen. Serveer op 9–10 °C.",
+        "alternatief": "Chenin Blanc Demi-Sec uit Vouvray, of een fruitige Pinot Gris uit Zuid-Australië"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Gewürztraminer — Elzas, Frankrijk",
+          "druif": "Gewürztraminer, bij voorkeur licht restzoet",
+          "smaakprofiel": "Vol, aromatisch, rond en zacht, met een bescheiden zuurgraad.",
+          "omschrijving": "Aroma: lychee, rozenblaadjes, rijpe perzik en zachte exotische specerijen.",
+          "waarom_werkt_dit": "De aromatische kruidigheid sluit aan bij de kentjoer, laos en sereh. Een kleine hoeveelheid restsuiker verzacht de rawit en ondersteunt de geroosterde pinda's zonder de saus te overstemmen.",
+          "serveertemperatuur": "Serveer op 9–10 °C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chenin Blanc Demi-Sec — Vouvray, Loire",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Lichtzoet en sappig, met voldoende frisse zuren om het romige mondgevoel van de saus te verlichten.",
+          "omschrijving": "Aroma: rijpe appel, kweepeer, honing en een subtiele minerale toets.",
+          "waarom_werkt_dit": "De combinatie van rijp fruit en frisse spanning geeft een mooi tegenwicht aan de rijke pinda's en de donkere ketjap.",
+          "serveertemperatuur": "Serveer op 9–11 °C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Gris — Zuid-Australië",
+          "druif": "Pinot Gris, fruitige stijl zonder houtrijping",
+          "smaakprofiel": "Soepel, rond, fruitig en zacht, met een aangename frisse afdronk.",
+          "omschrijving": "Aroma: rijpe peer, witte perzik, meloen en een vleugje bloesem.",
+          "waarom_werkt_dit": "De wijn heeft voldoende body voor de pinda's en blijft toegankelijk naast de aromatische kruiden. Kies een exemplaar met rijp fruit en niet te scherpe zuren.",
+          "serveertemperatuur": "Serveer op 8–10 °C."
+        }
+      ]
+    },
+    {
+      "title": "Saté Babi Rica-Rica — pittige varkenshaassaté met chili, gember, citroengras en kaffirlimoen",
+      "slug": "sate-babi-rica-rica-varkenshaas",
+      "location": "Indonesië",
+      "time": "25 min + 2–4 uur marineren + 10–15 min bereiding",
+      "servings": "4 personen (12 satéstokjes, 3 blokjes per stokje)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/sate-babi-rica-rica-varkenshaas.jpg",
+      "short_description": "Mals gegrilde varkenshaas in een vurige bumbu van rode peper, gember, citroengras en kaffirlimoen — fris, pittig en zonder pindasaus.",
+      "description": "Saté babi rica-rica is de pittige, frisse tegenhanger van zoetere Indonesische satés. Geen pindasaus en geen zoete ketjapglans als hoofdsmaak, maar een vurige bumbu van rode peper, sjalot, knoflook, gember, citroengras en kaffirlimoenblad. De varkenshaas wordt kort gemarineerd, heet gegrild en pas op het allerlaatst gelakt met een dunne laag rica-rica: mals, geroosterd en vol geurige citrus.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de saté",
+          "ingredients": [
+            {
+              "name": "varkenshaas",
+              "amount": "600 g"
+            },
+            {
+              "name": "houten satéstokjes",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de rica-rica-bumbu (inclusief de 30 g voor de lak)",
+          "ingredients": [
+            {
+              "name": "rode chilipepers, grof gesneden",
+              "amount": "4"
+            },
+            {
+              "name": "rode lomboks of andere milde rode pepers, grof gesneden",
+              "amount": "2"
+            },
+            {
+              "name": "sjalotten, grof gesneden",
+              "amount": "5"
+            },
+            {
+              "name": "tenen knoflook",
+              "amount": "4"
+            },
+            {
+              "name": "verse gember, grof gesneden",
+              "amount": "20 g"
+            },
+            {
+              "name": "citroengras, alleen het zachte binnenste, fijn gesneden",
+              "amount": "1 stengel"
+            },
+            {
+              "name": "kaffirlimoenblaadjes, harde nerf verwijderd",
+              "amount": "3"
+            },
+            {
+              "name": "gemalen koriander",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gemalen komijn (djinten)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "10 g"
+            },
+            {
+              "name": "limoensap",
+              "amount": "10 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "15 ml"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "10 ml"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "25 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "5 g"
+            },
+            {
+              "name": "suiker",
+              "amount": "3 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de lak",
+          "ingredients": [
+            {
+              "name": "van de bereide rica-rica-bumbu (apart gehouden, vóór het marineren)",
+              "amount": "30 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "10 ml"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "5 ml"
+            },
+            {
+              "name": "limoensap",
+              "amount": "5 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "limoen, in partjes",
+              "amount": "1"
+            },
+            {
+              "name": "komkommer, dun gesneden (optioneel)",
+              "amount": "½"
+            },
+            {
+              "name": "fijn gesneden lente-ui (optioneel)",
+              "amount": "klein beetje"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Snijd de varkenshaas",
+          "description": "Verwijder eventueel het zilvervlies van de varkenshaas. Snijd het vlees in 36 blokjes van ongeveer 2,5 cm (circa 16–17 g per stuk). Maak de blokjes niet kleiner: varkenshaas is zeer mals maar bevat weinig vet, en grotere stukken blijven op de grill makkelijker sappig."
+        },
+        {
+          "action": "Maak de rica-rica-bumbu",
+          "description": "Doe chilipepers, lomboks, sjalotten, knoflook, gember, citroengras, kaffirlimoenblad, koriander, komijn, sambal, limoensap, sojasaus, ketjap, olie, zout en suiker in een hakmolentje of keukenmachine. Maal tot een fijne, dikke rode bumbu; er mag nog een heel lichte structuur zichtbaar blijven. Houd 30 g bumbu apart in een schoon kommetje voor de lak."
+        },
+        {
+          "action": "Marineer",
+          "description": "Meng de resterende bumbu grondig door de varkenshaas. Dek af en laat 2–4 uur marineren in de koelkast. Langer is niet nodig: varkenshaas is van zichzelf al mals en de frisse bumbu hoeft alleen smaak aan de buitenkant en de eerste millimeters van het vlees te geven. Haal het vlees 20–30 minuten voor het grillen uit de koelkast."
+        },
+        {
+          "action": "Maak de lak",
+          "description": "Meng de apart gehouden 30 g bumbu met 10 ml neutrale olie, 5 ml ketjap manis en 5 ml limoensap en roer glad. De lak moet dun genoeg zijn om heel licht over de saté te kunnen strijken."
+        },
+        {
+          "action": "Rijg de saté",
+          "description": "Week de houten stokjes minimaal 30 minuten in water. Rijg 3 blokjes varkenshaas per stokje (12 stokjes in totaal) en laat heel kleine ruimtes tussen de stukken, zodat de grillwarmte ook de zijkanten bereikt."
+        },
+        {
+          "action": "Grill heet en kort",
+          "description": "Verhit barbecue, plancha of grillpan goed heet en bestrijk het grilloppervlak heel licht met olie. Grill de saté ongeveer 2 minuten aan de eerste zijde, draai om en grill 1½–2 minuten aan de tweede zijde. Draai daarna nog kort over de overige kanten, tot het vlees overal mooi geroosterd is en de kern minimaal 63 °C bereikt. De totale grilltijd ligt meestal rond 5–7 minuten, afhankelijk van formaat en hitte. Varkenshaas moet gaar zijn, maar mag niet langdurig doorgaren."
+        },
+        {
+          "action": "Lak pas op het einde",
+          "description": "Bestrijk de saté in de laatste 30–45 seconden dun met de rica-rica-lak, draai nog één keer en lak eventueel de andere zijde. Laat de lak kort aanbakken en glanzen. Niet eerder lakken: de suikers in ketjap, sjalot en bumbu verbranden relatief snel."
+        },
+        {
+          "action": "Laat kort rusten",
+          "description": "Leg de saté op een schaal en laat 2–3 minuten rusten. Knijp er niet direct limoen overheen; laat iedereen dat zelf aan tafel doen."
+        },
+        {
+          "action": "Serveer",
+          "description": "Serveer de saté met limoenpartjes en eventueel dunne plakjes komkommer en een klein beetje lente-ui. Geen pindasaus, geen extra ketjapsaus, geen honing: je wilt de rode bumbu, het geroosterde vlees en de frisse citrusaroma's proeven."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Varkenshaas is magerder dan procureur of speklap, waardoor deze saté automatisch lichter en strakker van smaak is. Dat maakt hem interessant in een satéproeverij naast rijkere varianten. De bumbu krijgt zijn karakter uit verschillende lagen: rode peper en sambal voor warmte en directe pit, sjalot en knoflook voor hartigheid, gember voor warme scherpte, citroengras en kaffirlimoenblad voor frisheid en geurige citrus, koriander en komijn voor Indonesische diepte. Een klein beetje ketjap rondt de scherpe kanten af, maar blijft bewust beperkt: dit is geen tweede zoete varkenssaté. Kort marineren en heet grillen zijn specifiek gekozen voor varkenshaas. Het vlees heeft geen lange tijd nodig om mals te worden; overmatig marineren en te lang grillen leveren eerder een droger resultaat op."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Week de stokjes, houd de 30 g bumbu voor de lak apart vóórdat je het vlees marineert en haal het vlees 20–30 minuten voor het grillen uit de koelkast. Zo staat alles klaar op het moment dat de grill heet is.\n\nTechniek: Houtskool is hier de beste bereidingswijze. De lichte rooksmaak past bijzonder goed bij chili, citroengras en varkensvlees.\n\nTechniek: Niet te veel saus. Rica-rica is krachtig genoeg: laat de bumbu aan het vlees zitten en gebruik alleen een dunne lak op het einde.\n\nPresentatie: Leg de saté op een schaal met limoenpartjes, dunne komkommer en een beetje lente-ui, zonder saus erbij. De rode lak en het geroosterde vlees moeten de show stelen.\n\nVariatie: Minder pittig? Gebruik 3 rode chilipepers, 1 lombok en 5 g sambal. Zo blijft het gerecht aromatisch zonder echt heet te worden.\n\nVariatie: Pittiger? Voeg 1 rode rawit toe aan de bumbu. Meer sambal maakt de smaak sneller vlak; een verse hete peper geeft een mooiere, fellere hitte.\n\nAlternatief: Wil je een iets krachtiger en sappiger resultaat, vervang de varkenshaas dan door 600 g procureur in blokjes van ongeveer 2,5 cm. Marineer 4–8 uur en grill wat rustiger en langer: procureur bevat meer intramusculair vet en is vergevingsgezinder op de barbecue.\n\nAlternatief: Kaffirlimoenblad gebruik je bij voorkeur vers of diepvries. Kun je het echt niet krijgen, gebruik dan de fijn geraspte schil van ½ limoen. Dat geeft niet exact hetzelfde aroma, maar bewaart wel de frisse citrusrichting.\n\nSatéproeverij: Deze saté vormt een sterk contrast met Saté Maranggi van ossenhaas, Saté Babi Madu van speklap, Saté Ayam met pindasaus en Saté Udang. Zo krijg je geen reeks stokjes die uiteindelijk allemaal naar ketjap smaken.",
+      "wine": {
+        "naam": "Grüner Veltliner — Oostenrijk",
+        "druif": "Grüner Veltliner",
+        "toelichting": "De kruidige en licht peperige stijl sluit uitstekend aan op gember en chili, terwijl de frisse zuren het gehemelte reinigen na het geroosterde varkensvlees. Serveer op 8–9 °C.",
+        "alternatief": "Chenin Blanc uit Zuid-Afrika, of een fruitige Pinot Gris uit de Elzas of Nieuwe Wereld"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Grüner Veltliner — Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Droog en levendig, met frisse zuren, middellichte body en een kenmerkende peperige spanning.",
+          "omschrijving": "Aroma: groene appel, limoen, citrus, verse kruiden en witte peper.",
+          "waarom_werkt_dit": "De kruidige en licht peperige stijl sluit uitstekend aan op gember en chili. Tegelijk reinigen de zuren het gehemelte na het geroosterde varkensvlees.",
+          "serveertemperatuur": "Serveer op 8–9 °C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chenin Blanc — Zuid-Afrika",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Droog, middelvol en fris, met iets meer rijp fruit en rondheid dan Grüner Veltliner.",
+          "omschrijving": "Aroma: gele appel, kweepeer, perzik, citrus en subtiele kruidigheid.",
+          "waarom_werkt_dit": "Het rijpe fruit verzacht de chili zonder het gerecht zoeter te maken. De frisse zuren houden de combinatie levendig.",
+          "serveertemperatuur": "Serveer op 9–10 °C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Gris — Elzas of Nieuwe Wereld",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Rond, zacht en middelvol, met milde zuren.",
+          "omschrijving": "Aroma: peer, witte perzik, gele appel en zachte specerijen.",
+          "waarom_werkt_dit": "Pinot Gris geeft voldoende fruit en body voor de pittige bumbu, maar blijft vriendelijk en toegankelijk voor wie uitgesproken droge of minerale wijnen minder waardeert.",
+          "serveertemperatuur": "Serveer op 9–10 °C."
+        }
+      ]
+    },
+    {
+      "title": "Saté Babi Madu — Indonesische speklapsaté met honing, ketjap en gember",
+      "slug": "sate-babi-madu",
+      "location": "Indonesië",
+      "time": "30 min + 4–12 uur marineren + 25 min bereiding",
+      "servings": "4 personen (12 spiesjes, 3 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Indonesisch",
+      "categorie": "vlees",
+      "image": "/assets/images/sate-babi-madu.jpg",
+      "short_description": "Dunne plakken speklap, gemarineerd met gember en ketjap en op de grill gelakt met honing — krokante randen, zout, zoet en rokerig, met zure atjar en pindasaus.",
+      "description": "Madu betekent honing, en dat is hier het geheim: speklap in dunne plakken, gemarineerd met gember, knoflook en ketjap, en op de grill gelakt met een glans van honing en soja. Het vet smelt weg, de randen worden donker en krokant, en de rest blijft sappig. Zout, zoet, vettig en rokerig, met zure atjar en een pindasaus die er niet overheen walst.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor het vlees",
+          "ingredients": [
+            {
+              "name": "speklap, zonder zwoerd, in plakken van ca. 5 x 3 cm en 7 mm dik (ca. 60 plakken)",
+              "amount": "650 g"
+            },
+            {
+              "name": "houten satéprikkers, 30 minuten geweekt in water",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "30 g"
+            },
+            {
+              "name": "tenen knoflook, fijngeraspt",
+              "amount": "3"
+            },
+            {
+              "name": "grote sjalot (ca. 40 g), geraspt",
+              "amount": "1"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "45 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "20 ml"
+            },
+            {
+              "name": "vloeibare honing",
+              "amount": "15 g"
+            },
+            {
+              "name": "gemalen koriander (ketoembar)",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "gemalen djinten (komijn)",
+              "amount": "½ tl"
+            },
+            {
+              "name": "gemalen laos",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "gemalen anijszaad (optioneel)",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "10 ml"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de honing-gemberglans",
+          "ingredients": [
+            {
+              "name": "vloeibare honing",
+              "amount": "40 g"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "20 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "10 ml"
+            },
+            {
+              "name": "verse gember, fijn geraspt",
+              "amount": "8 g"
+            },
+            {
+              "name": "limoensap",
+              "amount": "10 ml"
+            },
+            {
+              "name": "sesamolie",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de pindasaus",
+          "ingredients": [
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "sjalot, fijngesneden",
+              "amount": "1"
+            },
+            {
+              "name": "tenen knoflook, fijngesneden",
+              "amount": "2"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "1 tl"
+            },
+            {
+              "name": "pindakaas, grof en zonder suiker",
+              "amount": "100 g"
+            },
+            {
+              "name": "kokosmelk",
+              "amount": "120 ml"
+            },
+            {
+              "name": "water",
+              "amount": "80 ml"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "2 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 el"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de snelle atjar",
+          "ingredients": [
+            {
+              "name": "komkommer, in halve plakjes",
+              "amount": "1"
+            },
+            {
+              "name": "sjalot, in dunne ringen",
+              "amount": "1"
+            },
+            {
+              "name": "rode peper, in dunne ringetjes",
+              "amount": "1"
+            },
+            {
+              "name": "rijstazijn",
+              "amount": "100 ml"
+            },
+            {
+              "name": "water",
+              "amount": "50 ml"
+            },
+            {
+              "name": "suiker",
+              "amount": "25 g"
+            },
+            {
+              "name": "zout",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te serveren",
+          "ingredients": [
+            {
+              "name": "jasmijnrijst, gestoomd",
+              "amount": "240 g"
+            },
+            {
+              "name": "gebakken uitjes (bawang goreng)",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "limoenpartjes",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "verse koriander",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Marineer het vlees",
+          "description": "Meng alle marinade-ingrediënten tot een pasta en proef een beetje: hartig-zoet, met frisse gember en een klein beetje pit. Schep de speklap erdoor tot elke plak bedekt is, dek af en zet in de koelkast. Minimaal 4 uur, ideaal 8–12 uur, niet langer dan 24 uur."
+        },
+        {
+          "action": "Maak de atjar",
+          "description": "Verwarm azijn, water, suiker en zout tot de suiker is opgelost en laat iets afkoelen. Doe komkommer, sjalot en peper in een kom, giet de azijn erover en laat minstens 15 minuten staan."
+        },
+        {
+          "action": "Maak de pindasaus",
+          "description": "Fruit sjalot en knoflook 2–3 minuten in de olie, voeg de sambal toe en bak 30 seconden mee. Roer pindakaas, kokosmelk, water, ketjap, soja en palmsuiker erdoor en laat 8–10 minuten zachtjes pruttelen tot een dikke maar gietbare saus. Breng op smaak met limoensap en houd warm."
+        },
+        {
+          "action": "Maak de glans",
+          "description": "Verwarm honing, ketjap, soja en gember in een pannetje en laat 2–3 minuten zachtjes inkoken tot een dunne siroop. Haal van het vuur en roer limoensap en sesamolie erdoor. Gebruik voor het bestrijken een aparte kwast die nooit rauw vlees heeft aangeraakt."
+        },
+        {
+          "action": "Rijg de spiesjes",
+          "description": "Haal het vlees 20 minuten voor het grillen uit de koelkast. Rijg per prikker 5 plakken in een golf (12 spiesjes), licht aangedrukt maar met kleine tussenruimtes zodat de hitte erdoor kan. Laat overtollige marinade afdruipen."
+        },
+        {
+          "action": "Grill",
+          "description": "Verhit de barbecue (of grillpan) op middelhoog tot hoog vuur, met een koelere zone. Grill de spiesjes 3 minuten, draai om en grill nog 3 minuten tot de randen donker en krokant zijn en het vlees volledig gaar is. Bestrijk in de laatste 2 minuten twee keer met de glans, steeds draaiend. Verplaats naar de koelere zone als het vet vlamt. Zonder barbecue: ovengrill op ca. 250 °C, rooster 10 cm van de grill, 4 + 3 minuten met glans in de laatste 2."
+        },
+        {
+          "action": "Laat kort rusten",
+          "description": "Laat de spiesjes 2–3 minuten rusten zodat de lak hecht en de sappen zich verdelen."
+        },
+        {
+          "action": "Serveer",
+          "description": "Leg 3 spiesjes per persoon op de rijst, schenk pindasaus erover of serveer apart en werk af met gebakken uitjes, koriander en limoenpartjes. Atjar erbij."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Serveer op een platte schaal of bord: de spiesjes donker glanzend met gekaramelliseerde randen, rijst en atjar ernaast, pindasaus in een klein kommetje. Eenvoudig, zonder poespas."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Speklap in dunne plakken gaart snel: het vet smelt weg en de randen worden krokant voordat het vlees droogt. De marinade met gember, knoflook, sjalot, ketjap en soja geeft diepte en zout, de djinten en koriander een warme kruidigheid. Honing in de marinade brengt kleur, maar de meeste honing zit in de glans die pas aan het einde op het vlees komt, omdat suiker op hoog vuur snel verbrandt. De zure atjar snijdt door het vet en de pindasaus voegt romigheid toe zonder te overheersen."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Speklap dun snijden. Vraag de slager om plakjes van 7 mm, of vries het vlees 30–40 minuten in en snijd het met een scherp mes.\n\nMise-en-place: Vooruit. Pindasaus en atjar kunnen een dag van tevoren. Warm de saus op met een scheutje water.\n\nTechniek: Vlammen door het vet. Speklap druipt vet. Houd een koelere zone voor als het vlamt en bedek de uiteinden van de prikkers eventueel met folie.\n\nTechniek: Honing pas aan het einde. Honing en ketjap verbranden snel op hoog vuur, dus borstel pas in de laatste 2 minuten.\n\nPresentatie: Serveer de spiesjes donker glanzend met gekaramelliseerde randen op een platte schaal, met rijst en atjar ernaast en de pindasaus in een klein kommetje. Eenvoudig, zonder poespas.\n\nVariatie: Anijs. Maal anijszaad bij voorkeur zelf en gebruik er weinig: het moet aanwezig zijn zonder de gember te overheersen.\n\nVariatie: Pittiger. Voeg 1–2 tl sambal oelek toe aan de marinade.\n\nAlternatief: Liever blokjes? Snijd de speklap in blokjes van 2–2,5 cm, rijg 3–4 per prikker en grill 10–12 minuten op iets lager vuur. Glans in de laatste 3 minuten. Minder krokant, wel sappiger.",
+      "wine": {
+        "naam": "Gewürztraminer — Elzas, Frankrijk",
+        "druif": "Gewürztraminer",
+        "toelichting": "De kruidige aroma's sluiten aan bij gember, komijn en eventueel anijs, en het restzoet ondersteunt de honingglans en verzacht de sambal. Serveer op 9–10 °C.",
+        "alternatief": "Riesling Spätlese halbtrocken uit de Mosel of Rheingau, of een Pinot Noir uit een koel klimaat"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Gewürztraminer — Elzas, Frankrijk",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Vol, aromatisch en zacht, bij voorkeur met een klein beetje restzoet.",
+          "omschrijving": "Aroma: lychee, rozenblaadjes, rijpe perzik en exotische specerijen.",
+          "waarom_werkt_dit": "De kruidige aroma's sluiten aan bij gember, komijn en eventueel anijs, en het restzoet ondersteunt de honingglans en verzacht de sambal.",
+          "serveertemperatuur": "Serveer op 9–10 °C."
+        },
+        {
+          "type": "alternatief",
+          "naam": "Riesling Spätlese halbtrocken — Mosel of Rheingau, Duitsland",
+          "druif": "Riesling",
+          "smaakprofiel": "Fijn zuur, een vleugje zoetheid en een lange, frisse afdronk.",
+          "omschrijving": "Aroma: perzik, limoen, gember en lichte mineraliteit.",
+          "waarom_werkt_dit": "De restzoetheid past bij honing en ketjap en de zuren snijden door het vet van de speklap.",
+          "serveertemperatuur": "Serveer op 8–10 °C."
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Noir uit een koel klimaat — bijvoorbeeld Marlborough of Bourgogne",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Soepel, sappig en licht tot medium vol, met zachte tannine.",
+          "omschrijving": "Aroma: rijpe kersen, framboos, lichte kruiden en subtiele rokerigheid.",
+          "waarom_werkt_dit": "Het rode fruit contrasteert met de donkere ketjap, de zachte structuur gaat goed samen met het vet en de lichte rokerigheid sluit aan op de barbecue.",
+          "serveertemperatuur": "Serveer op 14–15 °C."
+        }
+      ]
     }
   ]
 }
