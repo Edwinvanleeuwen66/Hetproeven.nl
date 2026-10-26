@@ -83181,7 +83181,7 @@
       ]
     },
     {
-      "title": "Quesadilla met ossenhaas, paprika, ui en salsa roja",
+      "title": "Quesadilla met ossenhaas, paprika, ui en guajillosaus",
       "slug": "quesadilla-ossenhaas-paprika-ui-salsa-roja",
       "location": "Noord-Mexico",
       "time": "35 min voorbereiding + 30 min bereiding",
@@ -83190,47 +83190,55 @@
       "keuken": "Mexicaans",
       "categorie": "vlees",
       "image": "/assets/images/quesadilla-ossenhaas-paprika-ui-salsa-roja.jpg",
-      "short_description": "Krokante bloemtortilla met gesmolten Tex-Mex kaas, rosé gebakken ossenhaas en gekaramelliseerde paprika, ui en jalapeño, met een diepe, pittige salsa roja.",
-      "description": "In het noorden van Mexico, waar bloemtortilla's en gesmolten kaas thuishoren, is de quesadilla een eenvoudig gerecht waar het om krokant en gesmolten draait. Hier krijgt hij een luxe vulling: kort aangebraden, dun gesneden ossenhaas, gekaramelliseerde paprika en ui met jalapeño en een flinke laag Tex-Mex kaas. Erbij komt een salsa roja van geroosterde chilis, tomaten en knoflook, plus een koele limoencrème als tegenwicht.",
+      "short_description": "Krokante bloemtortilla met kort aangebraden ossenhaas, zoet gebakken paprika en ui, jalapeño en gesmolten kaas, met een fruitige guajillosaus.",
+      "description": "Krokant gebakken bloemtortilla's met kort aangebraden, dun gesneden ossenhaas, zoet gebakken paprika en ui, jalapeño en gesmolten kaas. Daarbij een fruitige, kruidige guajillosaus met tomaat en een koele limoencrème. De groenten worden apart gebakken en goed uitgedampt, zodat de tortilla's krokant blijven en het vlees sappig.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de salsa roja",
+          "group_name": "Voor de guajillosaus",
           "ingredients": [
             {
-              "name": "gedroogde guajillo-chilis",
-              "amount": "3"
+              "name": "gedroogde guajillopepers, samen circa 12 g vóór het schoonmaken",
+              "amount": "2"
             },
             {
-              "name": "gedroogde chile de árbol (5 voor milder, 10 voor heel heet)",
-              "amount": "6"
+              "name": "passata",
+              "amount": "200 g"
             },
             {
-              "name": "pruimtomaten (ca. 250 g)",
-              "amount": "3"
+              "name": "water",
+              "amount": "100 ml"
             },
             {
-              "name": "tenen knoflook, ongepeld",
-              "amount": "3"
+              "name": "appelciderazijn",
+              "amount": "10 ml"
             },
             {
-              "name": "witte ui",
-              "amount": "¼"
+              "name": "bruine suiker",
+              "amount": "5 g"
             },
             {
-              "name": "zout",
-              "amount": "1 tl"
+              "name": "zoete paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "knoflookpoeder",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "uienpoeder",
+              "amount": "¼ tl"
             },
             {
               "name": "gemalen komijn",
               "amount": "¼ tl"
             },
             {
-              "name": "limoensap",
-              "amount": "½ limoen"
+              "name": "gedroogde oregano",
+              "amount": "¼ tl"
             },
             {
-              "name": "weekwater van de chilis",
-              "amount": "60–80 ml"
+              "name": "fijn zout",
+              "amount": "2 g"
             }
           ]
         },
@@ -83309,11 +83317,11 @@
             },
             {
               "name": "Tex-Mex geraspte kaas, bij voorkeur van een blok zelf geraspt",
-              "amount": "280 g"
+              "amount": "280 g (per tortilla 35 g onder en 35 g boven de vulling)"
             },
             {
               "name": "boter, voor in de pan",
-              "amount": "25 g"
+              "amount": "24 g (6 g per quesadilla)"
             }
           ]
         },
@@ -83325,12 +83333,16 @@
               "amount": "100 g"
             },
             {
-              "name": "sap en rasp van ½ limoen",
-              "amount": "1"
+              "name": "limoensap",
+              "amount": "5 ml"
             },
             {
-              "name": "zout",
-              "amount": "snufje"
+              "name": "fijn geraspte limoenschil",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "0,5 g"
             }
           ]
         },
@@ -83350,8 +83362,8 @@
       ],
       "steps": [
         {
-          "action": "Maak de salsa roja (liefst een dag vooraf)",
-          "description": "Verwarm een droge koekenpan op middellaag vuur en rooster de ongepelde knoflook 5–7 minuten tot hij zacht en op plekken zwart is. Rooster daarna per stuk de chilis 5–10 seconden, constant draaiend, tot ze lichter worden en kruidig ruiken. Niet verbranden: dan worden ze bitter. Leg ze in een kom, giet er heet water over en laat 15–25 minuten weken. Rooster op middelhoog vuur de tomaten en de ui tot ze zacht en op plekken zwart zijn. Pel de knoflook. Blend de chilis (stelen en zaadjes zo veel mogelijk eruit) met 60 ml weekwater en de knoflook, voeg tomaat, ui, zout, komijn en limoensap toe en blend opnieuw. Voeg zo nodig water toe (tot 80 ml) tot de dikte van een dikke tomatensaus. Het zout lijkt minder aanwezig als de saus afkoelt."
+          "action": "Maak de guajillosaus (liefst een dag vooraf)",
+          "description": "Verwijder de steeltjes, zaadjes en losse zaadlijsten van de guajillopepers. Verwarm een droge koekenpan op middellaag vuur en rooster de opengevouwen pepers 5–10 seconden per kant, tot ze geuren. Laat ze niet zwart worden: dat maakt ze bitter. Leg ze in een kom, overgiet met kokend water en laat 15 minuten weken. Giet af en gooi het weekwater weg. Pureer de geweekte pepers met 200 g passata en 100 ml vers water zo glad mogelijk, wrijf door een fijne zeef en doe in een steelpan. Voeg de appelciderazijn, bruine suiker, specerijen en het zout toe. Laat zonder deksel 10–15 minuten zachtjes pruttelen, onder regelmatig roeren, tot de dikte van een schenkbare ketchup. Serveer lauwwarm, apart bij de quesadilla's."
         },
         {
           "action": "Bak de paprika, ui en jalapeño",
@@ -83363,35 +83375,31 @@
         },
         {
           "action": "Maak de limoencrème",
-          "description": "Roer crème fraîche, limoensap, rasp en zout door elkaar."
+          "description": "Roer 100 g crème fraîche of Mexicaanse crema met 5 ml limoensap, ½ tl fijn geraspte limoenschil en 0,5 g zout door elkaar."
         },
         {
           "action": "Vul de tortilla's",
-          "description": "Leg per tortilla op de ene helft 20 g kaas, dan een kwart van de vlees-groentevulling, en dek af met 50 g kaas. Laat een smalle rand vrij, vouw de tortilla dicht en druk lichtjes aan."
+          "description": "Leg per tortilla op de ene helft 35 g kaas, dan een kwart van de vlees-groentevulling, en dek af met nog 35 g kaas. Laat een smalle rand vrij, vouw de tortilla dicht en druk lichtjes aan."
         },
         {
           "action": "Bak",
-          "description": "Smelt per quesadilla ca. 6 g boter in een brede pan op middelhoog vuur (niet te heet, anders verbrandt de tortilla voordat de kaas smelt). Bak 2–3 minuten per kant tot goudbruin en krokant en de kaas volledig gesmolten is, met een spatel lichtjes aangedrukt. Niet afdekken: de stoom maakt de korst zacht. Kleurt de tortilla te snel, zet het vuur lager."
+          "description": "Smelt per quesadilla 6 g boter in een brede pan op middelhoog vuur (niet te heet, anders verbrandt de tortilla voordat de kaas smelt). Bak 2–3 minuten per kant tot goudbruin en krokant en de kaas volledig gesmolten is, met een spatel lichtjes aangedrukt. Niet afdekken: de stoom maakt de korst zacht. Kleurt de tortilla te snel, zet het vuur lager."
         },
         {
           "action": "Laat rusten en serveer",
-          "description": "Laat elke quesadilla 1–2 minuten rusten, snijd in 3 of 4 punten en serveer direct met salsa, limoencrème, koriander en limoenpartjes. Leg de gebakken quesadilla's naast elkaar en niet op elkaar, zodat de korst krokant blijft."
-        },
-        {
-          "action": "Opbouw en presentatie",
-          "description": "Leg de punten rechtop tegen elkaar op een warme plank of een groot bord, zodat je de gesmolten kaas en de rosé plakjes ossenhaas ziet. Serveer de salsa in een klein kommetje, de crème apart, en werk af met koriander."
+          "description": "Laat elke quesadilla 1–2 minuten rusten, snijd in 3 of 4 punten en serveer direct met guajillosaus, limoencrème, koriander en limoenpartjes. Leg de gebakken quesadilla's naast elkaar en niet op elkaar, zodat de korst krokant blijft."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Een goede Tex-Mex mix smelt prima, en zelf raspen van een blok smelt nóg beter, omdat voorgeraspte kaas anti-klontermiddelen bevat. Kaas onder én boven de vulling houdt de quesadilla bij het snijden bij elkaar. Een droge, voorgegaarde vulling houdt de tortilla krokant en de aangebakken ui en paprika leveren een zoete, gekaramelliseerde laag. Boter en middelhoog vuur geven kleur zonder dat de tortilla verbrandt. Ossenhaas is mager en wordt snel droog. Daarom braad je hem kort aan met de kern nog rood en laat je hem rusten voor het snijden, zodat de hitte van de vulling hem afmaakt. De salsa is geroosterd en niet alleen heet: de guajillo's geven diepte, de árbol de scherpte en de tomaten en knoflook zoetheid."
+          "description": "Een goede Tex-Mex mix smelt prima, en zelf raspen van een blok smelt nóg beter, omdat voorgeraspte kaas anti-klontermiddelen bevat. Kaas onder én boven de vulling houdt de quesadilla bij het snijden bij elkaar. Een droge, voorgegaarde vulling houdt de tortilla krokant en de aangebakken ui en paprika leveren een zoete, gekaramelliseerde laag. Boter en middelhoog vuur geven kleur zonder dat de tortilla verbrandt. Ossenhaas is mager en wordt snel droog. Daarom braad je hem kort aan met de kern nog rood en laat je hem rusten voor het snijden, zodat de hitte van de vulling hem afmaakt. De guajillopepers geven een fruitige, licht aardse chilismaak met doorgaans een milde tot matige scherpte. Kort roosteren versterkt hun aroma; te lang roosteren maakt ze bitter. Door de saus te zeven wordt hij glad. Tomaat geeft frisheid en hartigheid, een afgemeten hoeveelheid suiker rondt de smaak af en appelciderazijn houdt de saus levendig zonder dat hij zuur overheerst. De saus en limoencrème worden apart geserveerd, zodat de tortilla krokant blijft."
         }
       ],
-      "chef_tip": "Mise-en-place: Vooruit. De salsa wordt beter na een dag en blijft 4–5 dagen goed in de koelkast. Maak de groenten en de salsa van tevoren, en bak het vlees en de quesadilla's vlak voor het eten.\n\nTechniek: Opwarmen. Gebruik een droge pan op middelhoog vuur, ca. 2 minuten per kant. Niet in de magnetron.\n\nPresentatie: Leg de punten rechtop tegen elkaar op een warme plank of een groot bord, zodat je de gesmolten kaas en de rosé plakjes ossenhaas ziet. Serveer de salsa in een klein kommetje, de crème apart en werk af met koriander.\n\nVariatie: Andere kazen. Authentiek: 170 g Oaxaca (of laag-vochtige mozzarella) + 110 g Chihuahua-kaas, Monterey Jack of milde cheddar. Oaxaca geeft de rek en een zachte, boterige smaak, Chihuahua zout en karakter. Met cotija: 220 g Oaxaca + 60 g verkruimelde cotija voor een zoutere, brokkeligere kaas. Eigen variant: 140 g Gruyère of Comté + 140 g milde cheddar; maak dit eerst één keer als proef.\n\nVariatie: Chipotlesaus (zonder gedroogde chilis). Verwarm 5 ml olie, bak 10 g tomatenpuree 1 minuut en 5 g chipotlepasta 30 seconden mee. Roer ½ tl zoete paprikapoeder, ¼ tl komijn, ¼ tl knoflookpoeder, ¼ tl uienpoeder en ¼ tl oregano erdoor en voeg direct 200 g passata, 50 ml water, 5 g bruine suiker en 2 g zout toe. Laat 10–15 minuten zachtjes pruttelen tot de dikte van schenkbare ketchup, voeg 10 ml appelciderazijn toe en kook nog 1 minuut. Serveer lauwwarm. Chipotlepasta verschilt in scherpte en zout, dus begin met 5 g en proef.\n\nVariatie: Hoe heet? De hoeveelheid árbol bepaalt de pit: 5 chilis geeft een lichte tinteling, 10 maakt de salsa bijzonder heet. Zaadjes en vezels erin laten maakt hem heter.\n\nAlternatief: Andere snede. Entrecote werkt ook: verwijder een harde vetrand en snijd het gebakken vlees dun dwars op de draad. Entrecote heeft meer rundsmaak, ossenhaas is zachter.",
+      "chef_tip": "Mise-en-place: Vooruit. De guajillosaus wordt beter na een dag en blijft 3–4 dagen goed in de koelkast. Maak de groenten en de saus van tevoren, en bak het vlees en de quesadilla's vlak voor het eten.\n\nTechniek: Opwarmen. Gebruik een droge pan op middelhoog vuur, ca. 2 minuten per kant. Niet in de magnetron.\n\nPresentatie: Leg de punten rechtop tegen elkaar op een warme plank of een groot bord, zodat je de gesmolten kaas en de rosé plakjes ossenhaas ziet. Serveer de salsa in een klein kommetje, de crème apart en werk af met koriander.\n\nVariatie: Andere kazen. Authentiek: 170 g Oaxaca (of laag-vochtige mozzarella) + 110 g Chihuahua-kaas, Monterey Jack of milde cheddar. Oaxaca geeft de rek en een zachte, boterige smaak, Chihuahua zout en karakter. Met cotija: 220 g Oaxaca + 60 g verkruimelde cotija voor een zoutere, brokkeligere kaas. Eigen variant: 140 g Gruyère of Comté + 140 g milde cheddar; maak dit eerst één keer als proef.\n\nVariatie: Chipotlesaus zonder gedroogde pepers: Verwarm 5 ml neutrale olie in een steelpan. Bak 10 g tomatenpuree 1 minuut en vervolgens 5 g chipotlepasta 30 seconden mee. Roer ½ tl zoete-paprikapoeder, ¼ tl gemalen komijn, ¼ tl knoflookpoeder, ¼ tl uienpoeder en ¼ tl gedroogde oregano erdoor. Voeg direct 200 g passata, 50 ml water, 5 g bruine suiker en 1 g zout toe. Laat 10–15 minuten zachtjes pruttelen. Voeg 10 ml appelciderazijn toe en kook nog 1 minuut. Proef en voeg indien nodig maximaal 1 g extra zout toe. Voor meer pit kun je nog 2½–5 g chipotlepasta toevoegen en 1 minuut doorwarmen. Deze saus vervangt de guajillosaus volledig en smaakt duidelijk rokeriger.\n\nVariatie: Salsa roja van geroosterde tomaat en chili: Gebruik 3 gedroogde guajillopepers, 1 gedroogde chile de árbol, 250 g pruimtomaten, 3 ongepelde tenen knoflook, 40 g witte ui, 60–80 ml vers water, ¼ tl gemalen komijn, 10 ml limoensap en 2 g zout. Verwijder de steeltjes en zaadjes van de pepers. Rooster de knoflook in een droge pan op middellaag vuur 5–7 minuten, tot hij zacht is en donkere plekken heeft. Rooster de pepers afzonderlijk 5–10 seconden per kant, zonder ze te verbranden. Week ze 15–20 minuten in heet water en giet af. Rooster de tomaten en ui in de droge pan tot ze zacht zijn en donkere roosterplekken hebben; draai regelmatig. Pel de knoflook. Pureer alles met eerst 60 ml vers water, de komijn, het limoensap en het zout. Voeg indien nodig nog maximaal 20 ml water toe. Voor meer pit kun je een tweede geroosterde en geweekte chile de árbol meepureren. Deze salsa vervangt de standaard guajillosaus en heeft een frissere smaak van geroosterde tomaat.\n\nVariatie: Hoe heet? De scherpte van gedroogde chilis varieert sterk: 5–10 chile de árbol kunnen deze hoeveelheid salsa zeer heet maken. De zaadlijsten bepalen de scherpte sterker dan de zaadjes zelf.\n\nAlternatief: Andere snede. Entrecote werkt ook: verwijder een harde vetrand en snijd het gebakken vlees dun dwars op de draad. Entrecote heeft meer rundsmaak, ossenhaas is zachter.",
       "wine": {
         "naam": "Malbec — Mendoza, Argentinië",
         "druif": "Malbec",
         "toelichting": "Het donkere fruit en de zachte structuur passen bij gebakken rund en kaas. Kies een frisse uitvoering met gematigd alcoholgehalte, zeker bij de chilihitte. Serveer op 15–16 °C.",
-        "alternatief": "Carmenère uit Chili, of voor chiliproevers een Riesling Kabinett halbtrocken uit de Mosel"
+        "alternatief": "Carmenère uit Chili, of een jonge, fruitgedreven Merlot uit Chili"
       },
       "wines": [
         {
@@ -83414,12 +83422,12 @@
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Riesling Kabinett halbtrocken — Mosel, Duitsland (voor chiliproevers)",
-          "druif": "Riesling",
-          "smaakprofiel": "Fris, licht en met een vleugje zoetheid.",
-          "omschrijving": "Aroma: groene appel, limoen en perzik.",
-          "waarom_werkt_dit": "Als je de salsa vol gebruikt, kalmeert de lichte restzoetheid de hitte en houden de frisse zuren de kaas en de boter in balans.",
-          "serveertemperatuur": "Serveer op 8–10 °C."
+          "naam": "Merlot — Chili",
+          "druif": "Merlot (jonge, fruitgedreven stijl met beperkte houtinvloed)",
+          "smaakprofiel": "Soepel en rond, met zachte tannines.",
+          "omschrijving": "Aroma: kers, pruim en zachte kruidigheid.",
+          "waarom_werkt_dit": "Begeleidt de ossenhaas en gesmolten kaas zonder de fruitige guajillosaus te overheersen.",
+          "serveertemperatuur": "Serveer op 15 °C."
         }
       ]
     }
