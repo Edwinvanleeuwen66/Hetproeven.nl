@@ -46242,299 +46242,166 @@
       ]
     },
     {
-      "title": "Flinterdunne Krokante Pizza — Scrocchiarella-Stijl — Seu/TAC-Inspiratie",
+      "title": "Pizza Tonda Romana Scrocchiarella – flinterdun en écht krokant",
       "slug": "flinterdunne-krokante-pizza-scrocchiarella-seu-tac",
       "location": "Rome, Italië",
-      "time": "30 min actief (plus 24 uur fermentatie aanbevolen; zelfde-dagversie ca. 5 uur totaal)",
-      "servings": "2 grote pizza's van 32-34cm",
+      "time": "24 uur koude fermentatie + 2–3 uur op temperatuur komen + circa 45 min actief (exclusief bakken) + 3–5 min bakken per pizza",
+      "servings": "4 pizza's van circa 34 cm",
       "difficulty": "Gemiddeld",
       "keuken": "Italiaans",
       "categorie": "pasta-rijst",
       "image": "/assets/images/flinterdunne-krokante-pizza-scrocchiarella-seu-tac.jpg",
-      "short_description": "Pier Daniele Seu's scrocchiarella uit Rome: flinterdun, glasachtig krokant deeg met lage hydratatie, olijfolie als breker en een deegroller — bij elke hap krak-krak-krak.",
-      "description": "Pier Daniele Seu in Rome — bekend van Seu Pizza Illuminati en TAC Thin and Crunchy — is het bewijs dat pizza haute cuisine kan zijn. Niet de luchtige, zachte Napolitaan maar zijn exacte tegendeel: de scrocchiarella, de flinterdunne, glasachtig krokante pizza van de Marche en Rome. Deeg met lage hydratatie, olijfolie voor breekbaarheid, een deegroller die de lucht eruit perst, en een oven van 340-360°C die hem langzaam uitdroogt tot een krokante plaat. Bij elke hap: krak-krak-krak.",
-      "full_intro": "Pier Daniele Seu in Rome — bekend van Seu Pizza Illuminati en TAC Thin and Crunchy — is het bewijs dat pizza haute cuisine kan zijn. Niet de luchtige, zachte Napolitaan maar zijn exacte tegendeel: de scrocchiarella, de flinterdunne, glasachtig krokante pizza van de Marche en Rome. Deeg met lage hydratatie, olijfolie voor breekbaarheid, een deegroller die de lucht eruit perst, en een oven van 340-360°C die hem langzaam uitdroogt tot een krokante plaat. Bij elke hap: krak-krak-krak.",
+      "short_description": "Flinterdunne Romeinse pizza met een goudbruine, bros-krokante bodem van 24 uur gefermenteerd deeg, San Marzano-tomaat, fior di latte en verse basilicum.",
+      "description": "Een authentieke Romeinse pizza met een flinterdunne, goudbruine bodem die bij iedere hap kraakt. Het geheim zit in kleine deegbollen, een gecontroleerde fermentatie van 24 uur, een minimale hoeveelheid topping en een nauwkeurig afgestemd bakproces. Geen dikke, taaie korst, maar een verfijnde, bros-krokante pizza met diepe graansmaak, San Marzano-tomaat, fior di latte en verse basilicum.",
       "ingredient_groups": [
         {
-          "group_name": "Versie 1 — 24 uur koelkast (aanbevolen)",
+          "group_name": "Deeg – 4 deegbollen van circa 179 g",
           "ingredients": [
             {
-              "name": "tipo 0 of tipo 00 bloem (liefst W 240-280)",
-              "amount": "300g"
+              "name": "tipo 0 bloem, W 240–280",
+              "amount": "360 g"
             },
             {
-              "name": "koud water (hydratatie 55%)",
-              "amount": "165g"
+              "name": "semola rimacinata",
+              "amount": "80 g"
+            },
+            {
+              "name": "koud water",
+              "amount": "251 g"
             },
             {
               "name": "fijn zeezout",
-              "amount": "7g"
-            },
-            {
-              "name": "extra vergine olijfolie (3,5%)",
-              "amount": "11g"
-            },
-            {
-              "name": "droge gist (of 2g verse gist)",
-              "amount": "0,6g"
-            }
-          ]
-        },
-        {
-          "group_name": "Versie 2 — Zelfde dag",
-          "ingredients": [
-            {
-              "name": "tipo 0 of tipo 00 bloem",
-              "amount": "300g"
-            },
-            {
-              "name": "koud water (hydratatie 56%)",
-              "amount": "168g"
-            },
-            {
-              "name": "fijn zeezout",
-              "amount": "7g"
+              "amount": "11 g"
             },
             {
               "name": "extra vergine olijfolie",
-              "amount": "11g"
+              "amount": "13 g"
             },
             {
-              "name": "droge gist (of 4g verse gist)",
-              "amount": "1,2g"
+              "name": "droge instantgist",
+              "amount": "0,6 g"
             }
           ]
         },
         {
-          "group_name": "Voor beide versies",
+          "group_name": "Tomatensaus en topping",
           "ingredients": [
             {
-              "name": "semola rimacinata (voor het uitrollen)",
-              "amount": ""
+              "name": "uitgelekte San Marzano-tomaten uit blik (geeft circa 200 g saus)",
+              "amount": "280 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "3 g"
+            },
+            {
+              "name": "fior di latte, zeer goed uitgelekt",
+              "amount": "220 g"
+            },
+            {
+              "name": "verse basilicumblaadjes",
+              "amount": "12"
+            },
+            {
+              "name": "extra vergine olijfolie",
+              "amount": "12 g"
             }
-          ]
-        },
-        {
-          "group_name": "Topping 1 — Flinterdunne margherita-crunch",
-          "ingredients": [
-            {
-              "name": "passata of San Marzano-tomaat (goed uitgelekt, dun uitgestreken) — per pizza",
-              "amount": "60-75g"
-            },
-            {
-              "name": "fior di latte mozzarella (goed uitgelekt) — per pizza",
-              "amount": "80-100g"
-            },
-            {
-              "name": "basilicum (na het bakken — nooit tijdens)",
-              "amount": ""
-            },
-            {
-              "name": "extra vergine olijfolie (na het bakken)",
-              "amount": ""
-            },
-            {
-              "name": "fleur de sel",
-              "amount": ""
-            }
-          ]
-        },
-        {
-          "group_name": "Topping 2 — Mortadella e pistache (Seu-stijl)",
-          "ingredients": [
-            {
-              "name": "bovenstaande tomatenbasis",
-              "amount": ""
-            },
-            {
-              "name": "dunne plakjes mortadella di Bologna (na het bakken)",
-              "amount": ""
-            },
-            {
-              "name": "fijngehakte groene pistache",
-              "amount": ""
-            },
-            {
-              "name": "druppel olijfolie",
-              "amount": ""
-            },
-            {
-              "name": "fijne citroenrasp (optioneel)",
-              "amount": ""
-            }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Versie 1 — 24 uur koelkast (aanbevolen)",
-          "ingredients": [
-            "300g tipo 0 of tipo 00 bloem (liefst W 240-280)",
-            "165g koud water (hydratatie 55%)",
-            "7g fijn zeezout",
-            "11g extra vergine olijfolie (3,5%)",
-            "0,6g droge gist (of 2g verse gist — heel weinig, rijst lang en langzaam)"
-          ]
-        },
-        {
-          "group_name": "Versie 2 — Zelfde dag",
-          "ingredients": [
-            "300g tipo 0 of tipo 00 bloem",
-            "168g koud water (hydratatie 56%)",
-            "7g fijn zeezout",
-            "11g extra vergine olijfolie",
-            "1,2g droge gist (of 4g verse gist)"
-          ]
-        },
-        {
-          "group_name": "Voor beide versies",
-          "ingredients": [
-            "Semola rimacinata (voor het uitrollen)"
-          ]
-        },
-        {
-          "group_name": "Topping 1 — Flinterdunne margherita-crunch",
-          "ingredients": [
-            "Per pizza: 60-75g passata of San Marzano-tomaat (goed uitgelekt, dun uitgestreken)",
-            "Per pizza: 80-100g fior di latte mozzarella (goed uitgelekt — dag ervoor in zeef, voor gebruik droogdeppen)",
-            "Basilicum (na het bakken — nooit tijdens)",
-            "Extra vergine olijfolie (na het bakken)",
-            "Fleur de sel"
-          ]
-        },
-        {
-          "group_name": "Topping 2 — Mortadella e pistache (Seu-stijl)",
-          "ingredients": [
-            "Bovenstaande tomatenbasis",
-            "Na het bakken: dunne plakjes mortadella di Bologna",
-            "Klein beetje fijngehakte groene pistache",
-            "Druppel olijfolie",
-            "Eventueel: fijne citroenrasp"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
-          "action": "Deeg maken — Versie 1 (24 uur koelkast, aanbevolen)",
-          "description": "Bloem, water en gist kort mengen tot er geen droge bloem meer zichtbaar is. 20 minuten rusten. Zout toevoegen. 4-5 minuten kneden tot het deeg samenkomt. Olijfolie in drie porties toevoegen — telkens kneden tot volledig opgenomen. 5-7 minuten tot glad en iets steviger dan Napolitaans deeg. 1 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. In licht ingeoliede bakjes. 18-24 uur in de koelkast op 4°C. Bollen 2 uur voor bakken uit de koelkast."
+          "action": "Benodigdheden",
+          "description": "Een pizzaoven met een vloer die u op lage vlam rond 320 °C kunt houden, en een infraroodthermometer om de werkelijke vloertemperatuur te meten. Verder: een precisieweegschaal die 0,1 g kan wegen (voor de gist), een deegroller, vier afsluitbare bakjes, een pizzaschep en een rooster."
         },
         {
-          "number": 2,
-          "action": "Deeg maken — Versie 2 (zelfde dag)",
-          "description": "Bloem, water en gist mengen. 15-20 minuten rusten. Zout toevoegen. 4-5 minuten kneden. Olijfolie toevoegen. Kneden tot glad. 2 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. Afdekken. Nog 2-3 uur rijzen op kamertemperatuur."
+          "action": "Dag 1 – Meng het deeg",
+          "description": "Meng 360 g tipo 0 bloem, 80 g semola en 0,6 g instantgist. Voeg 225 g koud water toe en meng tot alle bloem bevochtigd is. Laat 20 minuten afgedekt rusten."
         },
         {
-          "number": 3,
-          "action": "Vormen",
-          "description": "Royaal semola op het werkblad. Deegbol platdrukken. Deegroller — van midden naar buiten rollen, regelmatig draaien. Doel: 32-34cm diameter. Midden en rand bijna even dun. Geen Napolitaanse rand. Als het deeg terugveert — even rusten, dan opnieuw rollen. Op pizzaschep of bakpapier leggen."
+          "action": "Dag 1 – Kneed het deeg",
+          "description": "Los 11 g zout op in de resterende 26 g water. Werk dit door het deeg en kneed circa 5 minuten. Voeg vervolgens 13 g extra vergine olijfolie toe en kneed nog 3–5 minuten, tot het deeg glad, soepel en samenhangend is."
         },
         {
-          "number": 4,
-          "action": "Bakken in pizzaoven",
-          "description": "Vloer op 340-360°C — vlam rustig, niet agressief. Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 60-90 seconden voorbakken. Mozzarella goed droogdeppen. In kleine stukken scheuren. Verdelen over de pizza. Nog 3-4 minuten afbakken tot de bodem droog, dun en krokant is. Als de pizza opblaast: prik met een vork in de luchtbel. Direct na de oven: 1 minuut op een rooster. Basilicum, olijfolie, fleur de sel na het bakken."
+          "action": "Dag 1 – Opbollen en fermenteren",
+          "description": "Laat het deeg 30 minuten afgedekt rusten bij circa 21 °C. Verdeel in vier gelijke porties van ongeveer 179 g. Bol ze op met matige spanning en leg iedere bol in een licht ingevet, afgesloten bakje. Laat 30 minuten bij kamertemperatuur staan en zet vervolgens 20–24 uur in de koelkast bij circa 4 °C."
         },
         {
-          "number": 5,
-          "action": "Bakken in gewone oven",
-          "description": "Pizzasteen of pizzastaal hoog in de oven plaatsen. Minimaal 45 minuten voorverwarmen op maximale stand (275-300°C). Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 4-5 minuten voorbakken. Mozzarella droogdeppen en toevoegen. Nog 4-6 minuten afbakken tot de bodem stevig en krokant is. 1 minuut op een rooster — ook in de gewone oven verplicht. Basilicum, olijfolie, fleur de sel na het bakken."
+          "action": "Dag 2 – Laat het deeg op temperatuur komen",
+          "description": "Haal de deegbollen 2–3 uur voor het bakken uit de koelkast. Laat afgedekt op temperatuur komen, tot ze soepel en goed uitrolbaar zijn."
+        },
+        {
+          "action": "Dag 2 – Maak de tomatensaus en laat de mozzarella uitlekken",
+          "description": "Pureer 280 g uitgelekte San Marzano-tomaten kort met 3 g zeezout. Laat indien nodig verder uitlekken, tot circa 200 g dikke saus overblijft. Snijd de fior di latte fijn en laat minimaal 4 uur in een zeef in de koelkast uitlekken. Dep voor gebruik droog."
+        },
+        {
+          "action": "Dag 2 – Rol flinterdun uit",
+          "description": "Bestuif het werkblad heel licht met semola. Rol iedere deegbol met een deegroller gelijkmatig uit tot circa 34 cm diameter. De bodem moet overal uitzonderlijk dun zijn, zonder dikke Napolitaanse rand. Laat het deeg 10 minuten afgedekt ontspannen als het tijdens het uitrollen terugveert. Prik met een vork circa 15 kleine gaatjes verspreid over het deeg om grote luchtbellen te beperken. Verwijder overtollige semola."
+        },
+        {
+          "action": "Bakken – Bereid de oven voor",
+          "description": "Verwarm de pizzaoven volledig voor. Gebruik een infraroodthermometer om de werkelijke vloertemperatuur te meten. Streef voor de eerste proef naar circa 320 °C vloertemperatuur. Houd de vlam laag: de maximale oventemperatuur van 500–550 °C is niet de gewenste baktemperatuur voor dit recept."
+        },
+        {
+          "action": "Bakken – Eerste bakfase zonder topping",
+          "description": "Schuif de onbelegde pizzabodem rechtstreeks op de hete vloer. Bak ongeveer 60–90 seconden, draai indien nodig en controleer de onderkant. Haal de bodem uit de oven zodra het oppervlak zijn rauwe glans heeft verloren en de onderkant licht begint te kleuren."
+        },
+        {
+          "action": "Bakken – Beleggen en afbakken",
+          "description": "Verdeel 50 g tomatensaus en 55 g uitgelekte fior di latte over de bodem. Schuif opnieuw in de oven en bak ongeveer 2–3 minuten bij lage vlam. Draai regelmatig. De pizza is klaar wanneer de onderkant diep goudbruin is met kleine geroosterde plekjes, zonder grote verbrande vlakken. De totale baktijd van 3–5 minuten is een richtwaarde: beoordeel altijd de werkelijke kleur, droogheid en structuur."
+        },
+        {
+          "action": "Afwerken en serveren",
+          "description": "Leg de pizza 60–90 seconden op een rooster, zodat oppervlaktedamp kan ontsnappen. Werk af met 3 basilicumblaadjes en 3 g extra vergine olijfolie. Snijd in punten en serveer direct."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De Romeinse scrocchiarella onderscheidt zich van een Napolitaanse pizza door een dunne, droge en bros-krokante structuur. Een laag deeggewicht: circa 179 g op 34 cm geeft een uitzonderlijk dunne bodem. Vocht ontsnapt daardoor gemakkelijker en de bodem wordt sneller gelijkmatig gaar. 57% hydratatie en semola: dit is een balans tussen verwerkbaarheid en een relatief droge structuur. De 18% semola rimacinata geeft een uitgesprokener tarwesmaak en een andere beet. 20–24 uur koude fermentatie: ontwikkelt smaak en helpt het deeg ontspannen. Weinig vocht in de topping: een beperkte hoeveelheid tomatensaus en goed uitgelekte mozzarella voorkomen onnodige vochtbelasting. Twee bakfasen bij gecontroleerde hitte: de bodem krijgt de tijd om te drogen en te kleuren, zonder dat alleen de buitenkant hard wordt. Hard is niet hetzelfde als krokant: het doel is een bodem die bros breekt, niet een taaie of leerachtige structuur. Let op: de tweefasenmethode is een eigen optimalisatie voor de pizzaoven thuis, geen universele of uitsluitend authentieke Romeinse bakmethode. Beschouw de tijden en temperaturen als startwaarden en stem ze af op uw oven. Dit is een eigen recept van Het Proeven, technisch geïnspireerd op de Romeinse pizzatraditie, waaronder Pier Daniele Seu (TAC) en Francesco Pompilio."
         }
       ],
-      "steps_full": [
-        {
-          "number": 1,
-          "section": "Deeg maken — Versie 1 (24 uur koelkast, aanbevolen)",
-          "description": "Bloem, water en gist kort mengen tot er geen droge bloem meer zichtbaar is. 20 minuten rusten. Zout toevoegen. 4-5 minuten kneden tot het deeg samenkomt. Olijfolie in drie porties toevoegen — telkens kneden tot volledig opgenomen. 5-7 minuten tot glad en iets steviger dan Napolitaans deeg. 1 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. In licht ingeoliede bakjes. 18-24 uur in de koelkast op 4°C. Bollen 2 uur voor bakken uit de koelkast."
-        },
-        {
-          "number": 2,
-          "section": "Deeg maken — Versie 2 (zelfde dag)",
-          "description": "Bloem, water en gist mengen. 15-20 minuten rusten. Zout toevoegen. 4-5 minuten kneden. Olijfolie toevoegen. Kneden tot glad. 2 uur kamertemperatuur afgedekt. Verdelen in 2 bollen van ca. 300g. Strak oprollen. Afdekken. Nog 2-3 uur rijzen op kamertemperatuur."
-        },
-        {
-          "number": 3,
-          "section": "Vormen",
-          "description": "Royaal semola op het werkblad. Deegbol platdrukken. Deegroller — van midden naar buiten rollen, regelmatig draaien. Doel: 32-34cm diameter. Midden en rand bijna even dun. Geen Napolitaanse rand. Als het deeg terugveert — even rusten, dan opnieuw rollen. Op pizzaschep of bakpapier leggen."
-        },
-        {
-          "number": 4,
-          "section": "Bakken in pizzaoven",
-          "description": "Vloer op 340-360°C — vlam rustig, niet agressief. Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 60-90 seconden voorbakken. Mozzarella goed droogdeppen. In kleine stukken scheuren. Verdelen over de pizza. Nog 3-4 minuten afbakken tot de bodem droog, dun en krokant is. Als de pizza opblaast: prik met een vork in de luchtbel. Direct na de oven: 1 minuut op een rooster. Basilicum, olijfolie, fleur de sel na het bakken."
-        },
-        {
-          "number": 5,
-          "section": "Bakken in gewone oven",
-          "description": "Pizzasteen of pizzastaal hoog in de oven plaatsen. Minimaal 45 minuten voorverwarmen op maximale stand (275-300°C). Tomaat dun uitstrijken. Pizza met alleen tomaat de oven in. 4-5 minuten voorbakken. Mozzarella droogdeppen en toevoegen. Nog 4-6 minuten afbakken tot de bodem stevig en krokant is. 1 minuut op een rooster — ook in de gewone oven verplicht. Basilicum, olijfolie, fleur de sel na het bakken."
-        }
-      ],
-      "tips": [
-        "Lage hydratatie is de basis: 55% water vs 65%+ bij Napels. Minder water = minder stoom = krokant. Het deeg voelt iets stijver — dat is correct.",
-        "Olijfolie als breker: de olie verzwakt de glutenstructuur net genoeg zodat het deeg als een cracker breekt. Niet weglaten.",
-        "Deegroller is verplicht: bij Napels verboden — hier de enige juiste techniek. De roller perst de lucht eruit en geeft een gelijkmatig dunne plaat.",
-        "Versie 1 is beter: 24 uur koelkast geeft meer smaak en een droger, beter uitrolbaar deeg. Versie 2 wordt iets broodachtiger maar is nog steeds krokant.",
-        "Mozzarella de dag ervoor uitlekken: natte mozzarella geeft stoom en maakt de bodem slap. Dag ervoor in een zeef, voor gebruik droogdeppen.",
-        "Tomaat spaarzaam: 60-75g per pizza is genoeg. Te veel tomaat geeft vocht.",
-        "Voorbakken met tomaat: de basis droogt in terwijl de korst vormt. Niet overslaan.",
-        "Rooster na het bakken is niet optioneel: condensatie op een bord maakt de onderkant slap in 30 seconden.",
-        "Mortadella en burrata altijd na het bakken: nooit in de oven — ze verliezen textuur bij hitte.",
-        "Bak lager en langer: 500°C is te heet voor dit deeg. 340-360°C is de juiste temperatuur.",
-        "Definitieve keuze voor maximale krokantheid: 24 uur fermentatie — 55% water — 3,5% olijfolie — deegroller — 340-360°C pizzaoven — voorbakken met tomaat — na bakken op rooster."
-      ],
-      "tips_full": [
-        "Lage hydratatie is de basis: 55% water vs 65%+ bij Napels. Minder water = minder stoom = krokant. Het deeg voelt iets stijver — dat is correct.",
-        "Olijfolie als breker: de olie verzwakt de glutenstructuur net genoeg zodat het deeg als een cracker breekt. Niet weglaten.",
-        "Deegroller is verplicht: bij Napels verboden — hier de enige juiste techniek. De roller perst de lucht eruit en geeft een gelijkmatig dunne plaat.",
-        "Versie 1 is beter: 24 uur koelkast geeft meer smaak en een droger, beter uitrolbaar deeg. Versie 2 wordt iets broodachtiger maar is nog steeds krokant.",
-        "Mozzarella de dag ervoor uitlekken: natte mozzarella geeft stoom en maakt de bodem slap. Dag ervoor in een zeef, voor gebruik droogdeppen.",
-        "Tomaat spaarzaam: 60-75g per pizza is genoeg. Te veel tomaat geeft vocht.",
-        "Voorbakken met tomaat: de basis droogt in terwijl de korst vormt. Niet overslaan.",
-        "Rooster na het bakken is niet optioneel: condensatie op een bord maakt de onderkant slap in 30 seconden.",
-        "Mortadella en burrata altijd na het bakken: nooit in de oven — ze verliezen textuur bij hitte.",
-        "Bak lager en langer: 500°C is te heet voor dit deeg. 340-360°C is de juiste temperatuur.",
-        "Definitieve keuze voor maximale krokantheid: 24 uur fermentatie — 55% water — 3,5% olijfolie — deegroller — 340-360°C pizzaoven — voorbakken met tomaat — na bakken op rooster."
-      ],
-      "opmaak_presentatie": "De pizza komt uit de oven: glasachtig goudbruin, bijna als een grote cracker. Geen dikke rand — de hele schijf even dun. Snijden in rechthoekige stukken of punten. Serveren op een rooster of houten plank — nooit op een bord. Bij elke hap: krak. Dat is het gerecht. Mortadella-versie: na het bakken dunne plakjes mortadella losjes erop draperen. Fijngehakte pistache strooien. Druppel olijfolie. Eventueel citroenrasp.",
+      "chef_tip": "Mise-en-place: Bloemkeuze. Kies tipo 0 met W 240–280. Extreem sterke pizzabloem is voor deze dunne stijl niet noodzakelijk.\n\nMise-en-place: Gist nauwkeurig afwegen. Gebruik een precisieweegschaal die 0,1 g of nauwkeuriger kan meten.\n\nMise-en-place: Deeggewicht. Weeg iedere bol afzonderlijk op circa 179 g. Dit is essentieel voor een gelijkmatige dikte.\n\nTechniek: Uitrollen. Rol vanuit het midden naar buiten. Laat terugverend deeg 10 minuten ontspannen.\n\nTechniek: Tomatensaus. Laat de tomaten goed uitlekken. Een geconcentreerde saus geeft smaak zonder de bodem te doorweken.\n\nTechniek: Mozzarella. Gebruik goed uitgelekte fior di latte, fijn verdeeld over de pizza.\n\nTechniek: Oventemperatuur. Meet de vloer met een infraroodthermometer. Vertrouw niet uitsluitend op de temperatuurinstelling.\n\nTechniek: Proefpizza. Bak de eerste bodem zonder topping om de krokantheid en de warmteverdeling te controleren.\n\nPresentatie: Rooster. Laat de pizza na het bakken kort op een rooster rusten om condensvorming onder de bodem te voorkomen, snijd in punten en serveer direct.\n\nVariatie: Afstemming. Vergelijk bij de eerste tests een vloertemperatuur van 300 °C met 320 °C en pas de baktijd aan op basis van het resultaat.\n\nAlternatief: Ook mogelijk: scrocchiarella-deeg op dezelfde dag (4–6 uur). Het hoofdrecept met 24 uur fermentatie blijft de aanbevolen methode. Gebruik dezelfde hoeveelheden als bij het deeg hierboven, met twee verschillen: 251 g water van circa 22 °C en 2 g droge instantgist in plaats van 0,6 g. Stap 1, mengen: meng 360 g tipo 0 bloem, 80 g semola en 2 g gist met 225 g water en laat 20 minuten afgedekt rusten. Stap 2, kneden: los 11 g zout op in 26 g water en kneed 5 minuten; voeg 13 g olijfolie toe en kneed nog 3–5 minuten. Stap 3, eerste rijs: laat 1,5–2 uur rijzen bij 22–24 °C, tot het deeg 50–75% in volume is toegenomen. Stap 4, opbollen: verdeel in 4 bollen van circa 179 g en leg ze in licht ingevette bakjes. Stap 5, tweede rijs: laat nog 2–3 uur rijzen bij 22–24 °C. Stap 6: rol uit en bak zoals in het hoofdrecept, met een vloertemperatuur van circa 320 °C. Waarom dit werkt: meer gist versnelt de fermentatie, terwijl de verhoudingen vrijwel gelijk blijven. Het verschil is dat het deeg minder aromatische diepte krijgt dan de versie van 24 uur.\n\nAlternatief: Rijstijd bij de dagversie. Bij 20–21 °C kan de totale rijstijd oplopen tot 6–7 uur, bij 24 °C gaat het sneller. Beoordeel het deeg op zachtheid en volume, niet alleen op de klok.",
+      "wine": {
+        "naam": "Verdicchio dei Castelli di Jesi Classico Superiore — Le Marche, Italië",
+        "druif": "Verdicchio",
+        "toelichting": "Aroma: Citroen, groene appel, witte bloemen en een subtiele amandeltoon. Smaak en structuur: Droog, met levendige zuren, mineraal en een licht bittertje in de afdronk. De frisse zuren geven tegenwicht aan de mozzarella. De amandelachtige en minerale tonen sluiten aan bij de geroosterde graansmaak van de krokante bodem. Serveer op 10–12 °C.",
+        "alternatief": "Frascati Superiore DOCG (Malvasia/Trebbiano, 9–11 °C) of Cerasuolo d'Abruzzo DOC (Montepulciano, 10–12 °C)"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Verdicchio dei Castelli di Jesi Classico Superiore DOC — Le Marche, Italië",
+          "naam": "Verdicchio dei Castelli di Jesi Classico Superiore — Le Marche, Italië",
           "druif": "Verdicchio",
-          "smaakprofiel": "Droog, citrus, groene appel, amandel, zilt-mineraal, subtiele bitterheid",
-          "omschrijving": "De wijn uit de streek van de scrocchiarella — regionaal en inhoudelijk de sterkste keuze.",
-          "waarom_werkt_dit": "Verdicchio's frisse zuren snijden door de olijfolie en mozzarella. De subtiele bitterheid spiegelt de licht verkoolde rand. De zilte mineraliteit past bij de pure, eenvoudige toppings."
+          "smaakprofiel": "Droge, levendige witte wijn met mineraliteit en een licht bittertje in de afdronk.",
+          "omschrijving": "Aroma: Citroen, groene appel, witte bloemen en een subtiele amandeltoon. Smaak en structuur: Droog, met levendige zuren, mineraal en een licht bittertje in de afdronk.",
+          "waarom_werkt_dit": "De frisse zuren geven tegenwicht aan de mozzarella. De amandelachtige en minerale tonen sluiten aan bij de geroosterde graansmaak van de krokante bodem.",
+          "serveertemperatuur": "Serveer op 10–12 °C."
         },
         {
           "type": "alternatief",
-          "naam": "Frascati Superiore DOC — Castelli Romani, Lazio, Italië",
-          "druif": "Malvasia Bianca di Candia, Trebbiano Toscano",
-          "smaakprofiel": "Droog, fris, appel, citrus, licht mineraal, zachte afdronk",
-          "omschrijving": "De klassieke Romeinse pizzawijn — lokaal en toegankelijk.",
-          "waarom_werkt_dit": "Frascati en Romeinse pizza zijn een eeuwenoud paar. De zachte frisheid past bij tomaat en mozzarella zonder de dunne, delicate bodem te overstemmen."
+          "naam": "Frascati Superiore DOCG — Lazio, Italië",
+          "druif": "Malvasia en Trebbiano (voornamelijk; afhankelijk van de producent)",
+          "smaakprofiel": "Droge, licht tot middelvolle witte wijn met frisse zuren en een subtiele kruidigheid.",
+          "omschrijving": "Aroma: Rijpe appel, citrus en witte bloemen. Smaak en structuur: Droog, licht tot medium vol, met frisse zuren en een subtiele kruidigheid.",
+          "waarom_werkt_dit": "Een klassieke regionale combinatie uit Lazio. De wijn ondersteunt tomaat, basilicum en mozzarella zonder de verfijnde pizzabodem te overheersen.",
+          "serveertemperatuur": "Serveer op 9–11 °C."
         },
         {
-          "type": "alternatief",
-          "naam": "Cerasuolo d'Abruzzo DOC — Abruzzo, Italië (gekoeld op 10°C)",
+          "type": "meest-toegankelijk",
+          "naam": "Cerasuolo d'Abruzzo DOC — Abruzzo, Italië",
           "druif": "Montepulciano",
-          "smaakprofiel": "Droog, kersen, watermeloen, fris, levendig, lage tannines",
-          "omschrijving": "Een droge rosé met karakter — ideaal bij de mortadella-versie.",
-          "waarom_werkt_dit": "Bij de mortadella & pistache-versie geeft een droge rosé de frisse tegenstem. De kersennoten sluiten aan op de mortadella. Altijd gekoeld serveren."
+          "smaakprofiel": "Droge, fruitige rosé met frisse zuren en iets meer body dan een lichte Provence-rosé.",
+          "omschrijving": "Aroma: Kers, aardbei en granaatappel. Smaak en structuur: Droge, fruitige rosé met frisse zuren en iets meer body dan een lichte Provence-rosé.",
+          "waarom_werkt_dit": "Het rode fruit sluit aan bij de tomaat. De frisse zuren en sappige structuur combineren met de mozzarella en het geroosterde deeg.",
+          "serveertemperatuur": "Serveer op 10–12 °C."
         }
       ],
-      "wine": {
-        "naam": "Verdicchio dei Castelli di Jesi Classico Superiore DOC — Le Marche, Italië",
-        "druif": "Verdicchio",
-        "toelichting": "Verdicchio's frisse zuren snijden door de olijfolie en mozzarella. De subtiele bitterheid spiegelt de licht verkoolde rand. De zilte mineraliteit past bij de pure, eenvoudige toppings. Regionaal en inhoudelijk de sterkste keuze bij de scrocchiarella.",
-        "alternatief": "Frascati Superiore DOC of Cerasuolo d'Abruzzo DOC (gekoeld)"
-      },
       "metadata": {
-        "bereidingstijd": "30 min actief (plus 24 uur fermentatie)",
-        "porties": "2 grote pizza's van 32-34cm",
+        "bereidingstijd": "Circa 45 min actief, exclusief bakken (plus 24 uur koude fermentatie)",
+        "porties": "4 pizza's van circa 34 cm",
         "type_gerecht": "Pizza / hoofdgerecht",
         "niveau": "Gemiddeld"
       },
-      "source_recipe_number": 131,
-      "full_title_docx": "131. FLINTERDUNNE KROKANTE PIZZA — SCROCCHIARELLA-STIJL — SEU/TAC-INSPIRATIE",
-      "chef_tip": "Lage hydratatie is de basis: 55% water vs 65%+ bij Napels. Minder water = minder stoom = krokant. Het deeg voelt iets stijver — dat is correct.\n\nOlijfolie als breker: de olie verzwakt de glutenstructuur net genoeg zodat het deeg als een cracker breekt. Niet weglaten.\n\nDeegroller is verplicht: bij Napels verboden — hier de enige juiste techniek. De roller perst de lucht eruit en geeft een gelijkmatig dunne plaat.\n\nVersie 1 is beter: 24 uur koelkast geeft meer smaak en een droger, beter uitrolbaar deeg. Versie 2 wordt iets broodachtiger maar is nog steeds krokant.\n\nMozzarella de dag ervoor uitlekken: natte mozzarella geeft stoom en maakt de bodem slap. Dag ervoor in een zeef, voor gebruik droogdeppen.\n\nTomaat spaarzaam: 60-75g per pizza is genoeg. Te veel tomaat geeft vocht.\n\nVoorbakken met tomaat: de basis droogt in terwijl de korst vormt. Niet overslaan.\n\nRooster na het bakken is niet optioneel: condensatie op een bord maakt de onderkant slap in 30 seconden.\n\nMortadella en burrata altijd na het bakken: nooit in de oven — ze verliezen textuur bij hitte.\n\nBak lager en langer: 500°C is te heet voor dit deeg. 340-360°C is de juiste temperatuur.\n\nDefinitieve keuze voor maximale krokantheid: 24 uur fermentatie — 55% water — 3,5% olijfolie — deegroller — 340-360°C pizzaoven — voorbakken met tomaat — na bakken op rooster."
+      "source_recipe_number": 131
     },
     {
       "title": "Langoustine-Taco met Chipotle-Saus en Zeekraal — KOL-Stijl",
