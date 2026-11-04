@@ -16159,61 +16159,77 @@
       "title": "Panang Curry van varkenshaas met zelfgemaakte panangpasta en kaffir limoen",
       "slug": "panang-curry-varkenshaas",
       "location": "Bangkok",
-      "time": "60 min",
+      "time": "Circa 75 min (inclusief 20–30 min weken van de pepers)",
       "servings": "4 personen",
       "difficulty": "Meesterkok",
       "keuken": "Thais",
       "categorie": "vlees",
       "image": "/assets/images/panang-curry-varkenshaas.jpg",
-      "short_description": "De rijkste Thaise curry: zelfgemaakte panangpasta met geroosterde pinda's, galanga en citroengras — met rosé varkenshaas en kaffir limoen-chiffonade.",
-      "description": "Panang is de diepste, rijkste curry in de Thaise keuken. De zelfgemaakte pasta maakt het verschil: geroosterde pinda's, galanga, citroengras, garnalenpasta. De kokosroom wordt verhit tot de olie eruit trekt — dan pas gaat de pasta erin. Dat is het geheim.",
+      "short_description": "Rijke, dikke Panang met zelfgemaakte pasta van geroosterde specerijen, pinda en makrut-limoen, met malse varkenshaas en jasmijnrijst.",
+      "description": "Panang is een rijke, geconcentreerde Thaise curry met kokos, chili, geroosterde specerijen, pinda en makrut-limoen. De saus hoort dik en romig te zijn: duidelijk voller dan rode of groene curry, maar nog steeds vloeibaar genoeg om de rijst te omhullen. Hier gemaakt met zelfgemaakte pasta en kort gebakken, rosé gebleven varkenshaas.",
       "ingredient_groups": [
         {
-          "group_name": "Zelfgemaakte panang-pasta",
+          "group_name": "Zelfgemaakte Panangpasta (meer dan nodig; je gebruikt 45–50 g)",
           "ingredients": [
             {
-              "name": "gedroogde rode pepers, 30 min geweekt",
-              "amount": "5"
+              "name": "gedroogde rode Thaise pepers, 20–30 min geweekt",
+              "amount": "8"
             },
             {
-              "name": "citroengras, wit deel",
+              "name": "citroengras, alleen het zachte witte deel",
               "amount": "2 stengels"
             },
             {
               "name": "verse galanga",
-              "amount": "3 cm"
+              "amount": "25 g"
             },
             {
-              "name": "schil van ½ kaffir limoen",
-              "amount": "1"
+              "name": "fijn geraspte makrut-limoenschil",
+              "amount": "1 tl"
             },
             {
-              "name": "korianderwortelss",
-              "amount": "2"
-            },
-            {
-              "name": "knoflookteentjes",
-              "amount": "4"
-            },
-            {
-              "name": "sjalotten",
+              "name": "korianderwortels",
               "amount": "3"
             },
             {
-              "name": "garnalenpasta (belacan)",
+              "name": "tenen knoflook",
+              "amount": "6"
+            },
+            {
+              "name": "sjalotten",
+              "amount": "4"
+            },
+            {
+              "name": "kapi (Thaise garnalenpasta)",
               "amount": "1 tl"
             },
             {
-              "name": "geroosterde pinda's",
+              "name": "geroosterde ongezouten pinda's",
               "amount": "30 g"
             },
             {
-              "name": "komijn- en korianderzaad, geroosterd en fijngemalen",
-              "amount": "1 tl elk"
+              "name": "korianderzaad",
+              "amount": "2 tl"
             },
             {
-              "name": "witte peper",
+              "name": "komijnzaad",
               "amount": "1 tl"
+            },
+            {
+              "name": "foelie",
+              "amount": "1 klein stukje"
+            },
+            {
+              "name": "groene kardemompeulen (alleen de zaadjes)",
+              "amount": "2"
+            },
+            {
+              "name": "witte peperkorrels",
+              "amount": "½ tl"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "½ tl"
             }
           ]
         },
@@ -16221,135 +16237,152 @@
           "group_name": "Panangsaus",
           "ingredients": [
             {
-              "name": "kokosroom, dik bovenste deel",
+              "name": "kokosroom, dikke bovenste laag uit het blik (200 ml om de pasta in te bakken, 50 ml later in de saus)",
               "amount": "250 ml"
             },
             {
               "name": "kokosmelk",
-              "amount": "150 ml"
-            },
-            {
-              "name": "lichte kippenfond",
               "amount": "100 ml"
             },
             {
-              "name": "zelfgemaakte panang-pasta",
-              "amount": "3 el"
+              "name": "zelfgemaakte Panangpasta",
+              "amount": "45–50 g"
             },
             {
               "name": "vissaus",
-              "amount": "1½ el"
+              "amount": "20 ml"
             },
             {
               "name": "palmsuiker",
-              "amount": "1½ tl"
+              "amount": "12 g"
             },
             {
-              "name": "tamarindepasta",
-              "amount": "1 tl"
+              "name": "geroosterde pinda's, zeer fijn gemalen",
+              "amount": "15 g"
             },
             {
-              "name": "fijn gemalen geroosterde pinda en kaffir limoenblaadjes, gekneusd",
-              "amount": "1 el elk"
+              "name": "makrut-limoenblaadjes, gekneusd",
+              "amount": "4"
+            },
+            {
+              "name": "water, alleen indien nodig tijdens het koken",
+              "amount": "30–50 ml"
             }
           ]
         },
         {
-          "group_name": "Varkenshaas en afwerking",
+          "group_name": "Varkenshaas",
           "ingredients": [
             {
-              "name": "varkenshaas",
+              "name": "varkenshaas, zilvervlies verwijderd",
               "amount": "500 g"
             },
             {
-              "name": "neutrale olie, knoflookteen en verse gember",
-              "amount": "1 el, 1 teen, 1 cm"
+              "name": "fijn zout",
+              "amount": "3 g"
             },
             {
-              "name": "kaffir limoenblaadjes, ultrafijne chiffonade",
-              "amount": "naar smaak"
+              "name": "neutrale olie",
+              "amount": "10 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking en rijst",
+          "ingredients": [
+            {
+              "name": "makrut-limoenblaadjes, in een zeer fijne chiffonade",
+              "amount": "2"
             },
             {
-              "name": "rode prik in julienne, dikke kokosroom, Thaise basilicum en geroosterde pinda's",
-              "amount": "naar smaak"
+              "name": "milde rode chilipeper, in dunne julienne",
+              "amount": "1"
+            },
+            {
+              "name": "dikke kokosroom",
+              "amount": "20–30 ml"
+            },
+            {
+              "name": "geroosterde pinda's, grof gehakt",
+              "amount": "10 g"
+            },
+            {
+              "name": "Thaise basilicumblaadjes",
+              "amount": "8"
+            },
+            {
+              "name": "jasmijnrijst, ongekookt (circa 100–120 g gekookt per persoon)",
+              "amount": "160 g"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Pasta maken",
-          "description": "rooster komijn en koriander droog. Stamp of blend alle pasta-ingrediënten tot een gladde pasta. Dit duurt tijd — neem het."
+          "action": "Maak de Panangpasta",
+          "description": "Week de gedroogde pepers 20–30 minuten in heet water, giet af en verwijder de steeltjes. Rooster het korianderzaad, komijnzaad, de foelie en de kardemomzaadjes kort droog in een pan tot ze geuren en maal ze samen met de witte peperkorrels fijn. Snijd het citroengras en de galanga heel fijn. Vijzel of blend alle ingrediënten (pepers, citroengras, galanga, makrut-limoenschil, korianderwortel, knoflook, sjalot, kapi, pinda, zout en de gemalen specerijen) tot een gladde pasta. Dit duurt even; neem de tijd. Je hebt 45–50 g pasta nodig, de rest bewaar je (zie tips)."
         },
         {
-          "action": "Saus opbouwen",
-          "description": "verhit de dikke kokosroom tot hij begint te borrelen en de olie licht scheidt van het vet. Voeg de pasta toe en bak 3–4 minuten op middelhoog vuur — de aromaten moeten geurig en droog bakken. Dit is de meest cruciale stap."
+          "action": "Bereid de varkenshaas",
+          "description": "Verwijder het zilvervlies, dep de varkenshaas droog en zout rondom met 3 g zout. Bak hem rondom hard aan in 10 ml olie op middelhoog vuur. Zet daarna het vuur lager en gaar hem rustig door, regelmatig draaiend, tot een kerntemperatuur van 63 °C (meet met een kernthermometer). Laat minimaal 3 minuten losjes afgedekt rusten; hij mag gerust wachten tot de saus klaar is."
         },
         {
-          "action": "Saus voltooien",
-          "description": "voeg palmsuiker en vissaus toe. Dan kokosmelk, kippenfond, tamarinde, gemalen pinda en kaffir limoen erbij. 8–10 minuten inkoken tot een diepe, rijke saus."
+          "action": "Kook de rijst",
+          "description": "Kook 160 g jasmijnrijst volgens de verpakking en houd hem afgedekt warm."
         },
         {
-          "action": "Varkenshaas bereiden",
-          "description": "bak de varkenshaas rondom goudbruin met knoflook en gember. Kerntemperatuur 58°C. 10 minuten rusten. Flinterdun snijden. Rustvocht door de saus."
+          "action": "Bak de kokosroom en de pasta",
+          "description": "Verhit 200 ml van de kokosroom rustig totdat hij duidelijk indikt en een lichte olielaag of glans aan de rand zichtbaar wordt. Bij moderne, gehomogeniseerde kokosroom kan volledige scheiding uitblijven; wacht dan vooral tot de room duidelijk geconcentreerd en geurig is. Voeg 45–50 g Panangpasta toe en bak 3–4 minuten op middelhoog vuur, tot de pasta donkerder wordt, sterk geurt en zichtbaar in de kokosroom bakt."
         },
         {
-          "action": "Serveren",
-          "description": "schep een spiegel saus op elk warm bord. Waaier 5 flinterdunne varkenshaas-slices erover. Druppel kokosroom. Kaffir lime-chiffonade, rode prik, pinda en basilicum als finishing. Jasmiinrijst apart."
+          "action": "Bouw de saus op",
+          "description": "Voeg 20 ml vissaus, 12 g palmsuiker, 15 g fijngemalen geroosterde pinda en de 4 gekneusde makrut-limoenblaadjes toe en bak 1 minuut. Voeg daarna de resterende 50 ml kokosroom en 100 ml kokosmelk toe en laat 5–8 minuten rustig inkoken. Het doel is een dikke roomsaus, als vloeibare crème fraîche: hij blijft aan de achterkant van een lepel hangen en loopt langzaam terug als je er met een lepel doorheen trekt. Hij mag niet staan als puree en niet uitlopen als soep. Wordt hij te dik, voeg dan per keer 15 ml warm water toe (in totaal maximaal 30–50 ml). Proef en verwijder de makrut-limoenblaadjes."
+        },
+        {
+          "action": "Snijd en serveer",
+          "description": "Snijd de varkenshaas schuin in plakjes van 5–7 mm en roer het rustvocht door de saus. Verwarm de borden. Schep per bord 60–70 ml saus, deels onder en deels langs het vlees, en leg er 8–10 plakjes varkenshaas op. Serveer de jasmijnrijst apart (circa 100–120 g gekookt per persoon). Werk af met 1 tl dikke kokosroom, een beetje makrut-limoenchiffonade, enkele reepjes rode chili, een heel klein beetje geroosterde pinda en de Thaise basilicum. Niet te veel saus op het bord: Panang is rijk."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Panang is bewust dikker dan veel andere Thaise curry's. Door hoofdzakelijk kokosroom en slechts een kleine hoeveelheid kokosmelk te gebruiken, ontstaat een geconcentreerde saus zonder kippenfond. De currypasta krijgt zijn specifieke karakter niet alleen van citroengras, galanga en chili, maar ook van geroosterde koriander, komijn, foelie, kardemom, pinda en kapi. Die combinatie maakt Panang warmer, nootachtiger en ronder dan gewone rode curry. Fijn gemalen geroosterde pinda helpt de saus binden zonder dat hij pasta-achtig wordt. Palmsuiker geeft ronde zoetheid en vissaus levert zout en umami. Makrut-limoen brengt de frisse aromatische tegenhanger. De perfecte consistentie is dik genoeg om aan vlees en rijst te hechten, maar vloeibaar genoeg om langzaam van een lepel te lopen."
         }
       ],
-      "tips": [
-        "het pastabakken in kokosroom is de meest cruciale stap — nooit overslaan, nooit haastig. De pasta moet echt geurig en droog bakken voordat de vloeistof erbij gaat.",
-        "Techniek: gebruik een kernthermometer voor de varkenshaas — 58°C is perfect rosé, meer is droog. Laat 10 minuten rusten voor je snijdt.",
-        "Presentatie: schep een spiegel saus op elk warm bord, waaier 5 flinterdunne varkenshaasplakken eroverheen en druppel dikke kokosroom als witte stippen — minimalistisch en elegant.",
-        "Variatie: voeg een extra el geroosterde pinda's toe aan de saus voor meer textuur, of gebruik kaffir lime-chiffonade als finishing voor visuele elegantie én fris citrusaroma.",
-        "Alternatief: geen tijd voor zelfgemaakte panangpasta? Gebruik Mae Ploy of Maesri Panang Curry Paste en voeg verse galanga, kaffir limoenschil en extra gemalen pinda toe — nog steeds goed bakken in kokosroom, dat maakt het verschil.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
+      "chef_tip": "Mise-en-place: Maak de pasta eerst; week de pepers terwijl je de rest voorbereidt. Het recept levert meer pasta dan de 45–50 g die je nodig hebt. Bewaar de rest afgedekt in de koelkast of vries hem in kleine porties in, zodat de volgende Panang sneller klaar is. Meet de pinda's, makrut-limoenblaadjes en kokosroom van tevoren af, want de saus vraagt na het bakken van de pasta snelle handelingen.\n\nTechniek: Te dun? Laat de saus 2–3 minuten zonder deksel zacht inkoken. Voeg niet meteen extra pinda toe; dat maakt de saus sneller korrelig en zwaar.\n\nTechniek: Te dik? Voeg per keer 15 ml warm water of kokosmelk toe, tot de saus weer langzaam van de lepel loopt.\n\nTechniek: Kokosroom splitst niet? Geen probleem. Moderne kokosproducten zijn vaak gehomogeniseerd. Concentreer de room tot hij dik en glanzend is en bak daarna de pasta goed uit.\n\nPresentatie: Gebruik niet te veel saus op het bord en laat hem deels onder en deels langs het vlees lopen. Een tl dikke kokosroom, een beetje makrut-limoenchiffonade en enkele reepjes rode chili houden het beeld rustig en elegant.\n\nVariatie: Pas de pit aan met de pepers in de pasta. Verwijder de zaadjes voor een mildere curry of laat ze zitten voor meer hitte.\n\nAlternatief: Klassieker garen. Snijd de varkenshaas ook in dunne plakjes van 5–6 mm en gaar ze de laatste 2–3 minuten direct in de Panangsaus. Dat geeft minder restaurantpresentatie, maar meer klassieke Thaise integratie.\n\nAlternatief: Geen zelfgemaakte pasta? Mae Ploy of Maesri Panang Curry Paste kan. Begin dan met 35–40 g, omdat commerciële pasta vaak zouter is. Voeg eventueel ½ tl gemalen geroosterde koriander en een klein beetje gemalen pinda toe.",
+      "wine": {
+        "naam": "Pinot Gris d'Alsace — Elzas, Frankrijk",
+        "druif": "Pinot Gris",
+        "toelichting": "Aroma: Rijpe peer, witte perzik, abrikoos, lichte honing en zachte specerijen. Smaak en structuur: Rond, middelvol en zacht, met voldoende frisheid en een licht kruidige afdronk. De ronde textuur sluit aan op kokosroom en pinda, terwijl rijp fruit mooi meegaat met palmsuiker en geroosterde specerijen. De wijn is aromatisch genoeg voor galanga en makrut-limoen en heeft genoeg body voor de dikke saus, zonder de curry te overheersen. Serveer op 9–10 °C.",
+        "alternatief": "Chenin Blanc uit Zuid-Afrika, of een soepele Chardonnay uit Mâcon-Villages"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Pinot Gris d'Alsace",
+          "naam": "Pinot Gris d'Alsace — Elzas, Frankrijk",
           "druif": "Pinot Gris",
-          "smaakprofiel": "Droog, gastronomisch, fris genoeg om het gerecht te ondersteunen",
-          "omschrijving": "De volle textuur en steenfruitaromatiek van een Elzasser Pinot Gris — witte perzik, abrikoos, honing en een lichte rokerige ondertoon — spiegelt de romigheid van de dikke kokossaus en sluit aan op kaffir limoen en galanga in de bumbu.",
-          "waarom_werkt_dit": "De lichte rondheid van de Pinot Gris geeft voldoende body om de rijke, complexe panangsaus bij te houden zonder er doorheen gedrukt te worden. Een vendange tardive of Sélection de Grains Nobles versie geeft extra diepte bij de specerijenrijke saus. Serveer op 12°C."
+          "smaakprofiel": "Pinot Gris in een droge tot zacht off-dry stijl: rond, middelvol en aromatisch. Kies geen Vendange Tardive of Sélection de Grains Nobles; die worden te zoet voor dit gerecht.",
+          "omschrijving": "Aroma: Rijpe peer, witte perzik, abrikoos, lichte honing en zachte specerijen. Smaak en structuur: Rond, middelvol en zacht, met voldoende frisheid en een licht kruidige afdronk.",
+          "waarom_werkt_dit": "De ronde textuur sluit aan op kokosroom en pinda, terwijl rijp fruit mooi meegaat met palmsuiker en geroosterde specerijen. De wijn is aromatisch genoeg voor galanga en makrut-limoen en heeft genoeg body voor de dikke saus, zonder de curry te overheersen.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Viognier",
-          "druif": "Viognier",
-          "smaakprofiel": "Droog, abrikoos, perzik, witte bloesem, zachte zuren, rond",
-          "omschrijving": "Viognier geeft aromatisch volume bij kruidige, kokosrijke of licht pittige gerechten.",
-          "waarom_werkt_dit": "De abrikoos- en bloesemtonen geven volume bij kruidige kip, fruitige sauzen of romige elementen zonder dat tannine in de weg zit. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Chenin Blanc off-dry — Stellenbosch, Zuid-Afrika",
+          "naam": "Chenin Blanc — Stellenbosch of Swartland, Zuid-Afrika",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, levendige zuren",
-          "omschrijving": "Chenin Blanc combineert spanning met ronding; droog of licht demi-sec afhankelijk van het gerecht.",
-          "waarom_werkt_dit": "Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "smaakprofiel": "Droge tot licht ronde, middelvolle Chenin Blanc met rijp fruit en levendige zuren.",
+          "omschrijving": "Aroma: Gele appel, kweepeer, perzik en een lichte honingtoon. Smaak en structuur: Droog tot licht rond, middelvol en fris, met sappig fruit en een schone afdronk.",
+          "waarom_werkt_dit": "Chenin heeft genoeg fruit voor kokos en palmsuiker, maar ook voldoende zuren om de rijke saus fris te houden. De zuren snijden door de room van de kokos, terwijl het rijpe fruit de warme specerijen en de pinda opvangt.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Chardonnay Mâcon-Villages — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Soepele, onopvallend gehouten of ongehouten Chardonnay uit de Mâconnais: rond en vriendelijk, zonder uitgesproken bloemigheid.",
+          "omschrijving": "Aroma: Gele appel, citroen, witte perzik en een zachte, licht boterige toon. Smaak en structuur: Rond en middelvol, met frisse zuren, een zachte textuur en een schone, licht minerale afdronk.",
+          "waarom_werkt_dit": "De zachte, romige textuur past bij de kokosroom en de pinda, terwijl de frisse zuren de saus niet te zwaar laten worden. De wijn is zacht genoeg om de chili niet harder te laten smaken en laat geroosterde specerijen en makrut-limoen goed tot hun recht komen. Breed verkrijgbaar en makkelijk te drinken.",
+          "serveertemperatuur": "Serveer op 10–12 °C"
         }
-      ],
-      "wine": {
-        "naam": "Pinot Gris d'Alsace",
-        "druif": "Pinot Gris",
-        "toelichting": "De volle textuur en steenfruitaromatiek van een Elzasser Pinot Gris — witte perzik, abrikoos, honing en een lichte rokerige ondertoon — spiegelt de romigheid van de dikke kokossaus en sluit aan op kaffir limoen en galanga in de bumbu. De lichte rondheid van de Pinot Gris geeft voldoende body om de rijke, complexe panangsaus bij te houden zonder er doorheen gedrukt te worden. Een vendange tardive of Sélection de Grains Nobles versie geeft extra diepte bij de specerijenrijke saus. Serveer op 12°C.",
-        "alternatief": "Viognier of Chenin Blanc demi-sec — aromatisch en licht rond, werkt uitstekend bij kokos en lemongrass"
-      },
-      "variaties": "",
-      "tips_full": [
-        "het pastabakken in kokosroom is de meest cruciale stap — nooit overslaan, nooit haastig. De pasta moet echt geurig en droog bakken voordat de vloeistof erbij gaat.",
-        "Techniek: gebruik een kernthermometer voor de varkenshaas — 58°C is perfect rosé, meer is droog. Laat 10 minuten rusten voor je snijdt.",
-        "Presentatie: schep een spiegel saus op elk warm bord, waaier 5 flinterdunne varkenshaasplakken eroverheen en druppel dikke kokosroom als witte stippen — minimalistisch en elegant.",
-        "Variatie: voeg een extra el geroosterde pinda's toe aan de saus voor meer textuur, of gebruik kaffir lime-chiffonade als finishing voor visuele elegantie én fris citrusaroma.",
-        "Alternatief: geen tijd voor zelfgemaakte panangpasta? Gebruik Mae Ploy of Maesri Panang Curry Paste en voeg verse galanga, kaffir limoenschil en extra gemalen pinda toe — nog steeds goed bakken in kokosroom, dat maakt het verschil.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
-      "chef_tip": "het pastabakken in kokosroom is de meest cruciale stap — nooit overslaan, nooit haastig. De pasta moet echt geurig en droog bakken voordat de vloeistof erbij gaat.\n\nTechniek: gebruik een kernthermometer voor de varkenshaas — 58°C is perfect rosé, meer is droog. Laat 10 minuten rusten voor je snijdt.\n\nPresentatie: schep een spiegel saus op elk warm bord, waaier 5 flinterdunne varkenshaasplakken eroverheen en druppel dikke kokosroom als witte stippen — minimalistisch en elegant.\n\nVariatie: voeg een extra el geroosterde pinda's toe aan de saus voor meer textuur, of gebruik kaffir lime-chiffonade als finishing voor visuele elegantie én fris citrusaroma.\n\nAlternatief: geen tijd voor zelfgemaakte panangpasta? Gebruik Mae Ploy of Maesri Panang Curry Paste en voeg verse galanga, kaffir limoenschil en extra gemalen pinda toe — nog steeds goed bakken in kokosroom, dat maakt het verschil.\n\nTiming: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.\n\nBalans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
+      ]
     },
     {
       "title": "Yum Nuea — Thaise entrecôtesalade met mango, limoen en nam jim jaew",
@@ -16864,50 +16897,41 @@
       "title": "Pla Rad Prik — krokante zeebaars met chili-tamarindesaus",
       "slug": "pla-rad-prik-krokante-zeebaars",
       "location": "Bangkok",
-      "time": "40 min",
+      "time": "Circa 50 min",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Thais",
       "categorie": "vis-zeevruchten",
       "image": "/assets/images/pla-rad-prik-krokante-zeebaars.jpg",
-      "short_description": "Ultrakrokante zeebaars in rijstmeel-maizenacoating op een spiegel van zoet-pittige chilisaus — nooit saus over de vis, altijd eronder.",
-      "description": "Pla rad prik is technisch streng. De saus gaat op het bord, de vis erop — nooit andersom. De rijstmeel-maizenacoating geeft een ultradunne krokante korst. Tamarinde en limoen als finishing touch, elk met een andere rol.",
+      "short_description": "Krokant gebakken zeebaarsfilet in een heel dun laagje rijstmeel en maizena, met een intens zoet-zure Thaise chilisaus van knoflook, chili, palmsuiker, vissaus en tamarinde.",
+      "description": "Pla Rad Prik combineert krokant gebakken vis met een intens zoet-zure Thaise chilisaus van knoflook, chili, palmsuiker, vissaus en tamarinde. In deze HetProeven-versie gebruiken we zeebaarsfilet in plaats van een hele vis: makkelijker thuis te maken, maar met dezelfde krachtige balans. Een klein deel van de saus gaat over de vis, de rest eromheen zodat de korst krokant blijft.",
       "ingredient_groups": [
         {
           "group_name": "Krokante zeebaars",
           "ingredients": [
             {
-              "name": "zeebaarsfilet, in stukken van 5×4 cm",
-              "amount": "450 g"
+              "name": "zeebaarsfilet zonder graat, met of zonder vel, in stukken van ongeveer 5 × 4 cm",
+              "amount": "500 g"
             },
             {
               "name": "rijstmeel",
-              "amount": "2 el"
+              "amount": "25 g"
             },
             {
               "name": "maizena",
-              "amount": "2 el"
+              "amount": "25 g"
             },
             {
-              "name": "zeezout en witte peper",
-              "amount": "½ tl elk"
+              "name": "fijn zeezout",
+              "amount": "4 g"
             },
             {
-              "name": "neutrale olie voor frituren (180°C)",
-              "amount": "royaal"
-            }
-          ]
-        },
-        {
-          "group_name": "Krokante knoflook en sjalot",
-          "ingredients": [
-            {
-              "name": "knoflookteentjes, in flinterdunne plakjes",
-              "amount": "4"
+              "name": "witte peper",
+              "amount": "½ tl"
             },
             {
-              "name": "sjalotten, in dunne ringen",
-              "amount": "2"
+              "name": "neutrale frituurolie (minstens 4 cm hoog; ook voor de garnering)",
+              "amount": "ca. 1 l"
             }
           ]
         },
@@ -16915,123 +16939,165 @@
           "group_name": "Chilisaus",
           "ingredients": [
             {
-              "name": "sjalotten en knoflookteentjes, fijn gesnipperd",
-              "amount": "2 en 4"
+              "name": "tenen knoflook",
+              "amount": "5"
             },
             {
-              "name": "bird's eye pepers en rode prik",
-              "amount": "3–4 en 1"
+              "name": "korianderwortels (of 10 g dikke korianderstelen)",
+              "amount": "2"
             },
             {
-              "name": "vissaus en oestersaus",
-              "amount": "1½ el en 1 el"
+              "name": "witte peperkorrels",
+              "amount": "½ tl"
             },
             {
-              "name": "palmsuiker en lichte sojasaus",
-              "amount": "1 el en 1 tl"
+              "name": "grote milde rode pepers, bijvoorbeeld Spaanse peper of prik chee fah",
+              "amount": "2"
             },
             {
-              "name": "lichte kippenfond",
-              "amount": "150 ml"
+              "name": "bird's eye chilipepers",
+              "amount": "2–3"
             },
             {
-              "name": "tamarindepasta (finishing)",
-              "amount": "1 tl"
+              "name": "palmsuiker",
+              "amount": "45 g"
             },
             {
-              "name": "limoensap (allerlaatste toevoeging)",
-              "amount": "1 tl"
+              "name": "vissaus",
+              "amount": "25 ml"
+            },
+            {
+              "name": "Thaise tamarindepasta of -water, afhankelijk van de concentratie",
+              "amount": "35–40 ml"
+            },
+            {
+              "name": "water",
+              "amount": "60 ml"
             },
             {
               "name": "neutrale olie",
-              "amount": "1 el"
+              "amount": "15 ml"
             }
           ]
         },
         {
-          "group_name": "Fris accent",
+          "group_name": "Krokante knoflook en sjalot",
           "ingredients": [
             {
-              "name": "komkommer, aangemaakt met rijstazijn, zout en suiker",
+              "name": "tenen knoflook, flinterdun gesneden",
+              "amount": "4"
+            },
+            {
+              "name": "sjalotten, flinterdun gesneden",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "group_name": "Komkommer",
+          "ingredients": [
+            {
+              "name": "komkommer, dun gesneden",
               "amount": "½"
             },
             {
-              "name": "verse koriander en lente-ui",
-              "amount": "naar smaak"
+              "name": "rijstazijn",
+              "amount": "10 ml"
+            },
+            {
+              "name": "suiker",
+              "amount": "4 g"
+            },
+            {
+              "name": "fijn zout",
+              "amount": "1 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "korianderblaadjes",
+              "amount": "10"
+            },
+            {
+              "name": "lente-ui, zeer dun gesneden",
+              "amount": "1"
+            },
+            {
+              "name": "milde rode chilipeper, in flintertjes (optioneel)",
+              "amount": "½"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Krokante knoflook en sjalot bakken",
-          "description": "frituur de knoflookplakjes en sjalotringen apart tot goudbruin en krokant. Laat uitlekken op keukenpapier."
+          "action": "Bereid de vis voor",
+          "description": "Dep de zeebaars zeer goed droog en snijd in stukken van ongeveer 5 × 4 cm. Meng 25 g rijstmeel, 25 g maizena, 4 g zout en ½ tl witte peper. Bestuif de vis pas vlak voor het frituren (zie verderop)."
         },
         {
-          "action": "Chilisaus maken",
-          "description": "fruit sjalot en knoflook 2–3 minuten zonder kleuring. Pepers en rode prik toevoegen. Vissaus, oestersaus, palmsuiker, soja en kippenfond erbij. 3–4 minuten inkoken. Tamarindepasta als finishing. Limoensap als allerlaatste. Warm houden."
+          "action": "Maak de chilisaus",
+          "description": "Stamp in een vijzel de korianderwortel, 5 tenen knoflook en de witte peperkorrels tot een grove pasta. Voeg de milde rode pepers en de bird's eye chilipepers toe en stamp verder tot een grove rode bumbu. Maal niet tot een gladde puree. Verhit 15 ml olie op middelhoog vuur en bak de bumbu 1½–2 minuten, tot hij zeer geurig wordt en iets droger begint te worden. Voeg 45 g palmsuiker toe en laat die oplossen. Voeg 60 ml water, 25 ml vissaus en 35 ml tamarinde toe en laat 2–4 minuten zacht inkoken tot een glanzende, licht stroperige saus. Proef: de saus moet ongeveer tegelijk duidelijk zoet, zuur, zout en pittig zijn. Voeg indien nodig nog maximaal 5 ml tamarinde toe. Warm houden."
         },
         {
-          "action": "Vis frituren",
-          "description": "dep de vis droog. Meng rijstmeel en maizena. Bestrooi de vis licht. Frituur in kleine porties op 180°C, 2–3 minuten per portie. Laat uitlekken."
+          "action": "Frituur de krokante knoflook en sjalot",
+          "description": "Verhit de frituurolie tot circa 140 °C. Frituur de sjalot langzaam goudbruin en krokant (4–7 minuten) en schep hem eruit. Frituur daarna de knoflook lichtgoud (30–40 seconden) en schep hem er onmiddellijk uit, want knoflook verbrandt in seconden. Laat beide volledig uitlekken op een rooster of keukenpapier. Niet door de saus mengen. Giet de olie desgewenst door een fijne zeef om restjes te verwijderen."
         },
         {
-          "action": "Serveren",
-          "description": "schep saus als spiegel op het warme bord. Vis erop — nooit saus over de vis. Krokante knoflook en sjalot erop strooien. Aangemengde komkommer ernaast. Koriander, lente-ui en rode prik als finishing. Onmiddellijk serveren."
+          "action": "Maak de komkommer aan",
+          "description": "Meng maximaal 10 minuten voor het serveren de dun gesneden komkommer met 10 ml rijstazijn, 4 g suiker en 1 g zout. Laat goed uitlekken voordat hij op het bord komt."
+        },
+        {
+          "action": "Frituur de vis",
+          "description": "Verhit de olie tot 175–180 °C. Bestuif de vis pas nu zeer licht en dun met het rijstmeel-maizenamengsel en tik overtollige coating af. Frituur in kleine porties ongeveer 2–3 minuten, afhankelijk van de dikte, tot de vis diep goudkleurig en krokant is en vanbinnen sappig en net gaar. Laat uitlekken op een rooster, niet langdurig op keukenpapier. De dunne coating is een bewuste HetProeven-techniek om filetstukjes thuis extra krokant te houden; klassiek wordt Pla Rad Prik ook zonder coating gemaakt."
+        },
+        {
+          "action": "Serveer",
+          "description": "Lepel een kleine hoeveelheid warme saus op het bord en leg de krokante zeebaars erop. Lepel heel kleine streepjes saus over enkele delen van de vis en houd het grootste deel van de korst droog en krokant. Serveer eventueel nog wat saus apart. Werk af met de krokante sjalot, de knoflookchips, enkele korianderblaadjes, de lente-ui en eventueel flintertjes rode chili. Serveer de komkommer als klein fris bijgerecht naast het bord, niet tegen de krokante vis aan."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Pla Rad Prik draait om contrast: krokante vis tegenover een krachtige, glanzende saus. De saus heeft bewust weinig ingrediënten. Palmsuiker geeft donkere ronde zoetheid, tamarinde levert fruitige zuren en vissaus zorgt voor zout en umami. Knoflook, korianderwortel, witte peper en chili geven de aromatische Thaise basis. De zeebaars wordt slechts zeer dun met rijstmeel en maizena bestoven. Rijstmeel geeft een droge krokante korst, terwijl maizena de buitenlaag extra bros maakt zonder een zwaar beslag te vormen. Door slechts een klein gedeelte van de saus over de vis te lepelen blijft een groot deel van de korst krokant, terwijl je in iedere hap toch de klassieke zoet-zure chilisaus proeft."
         }
       ],
-      "tips": [
-        "rijstmeel + maizena in 50/50 verhouding geeft een ultradunne, extra knapperige coating — nooit alleen bloem. Saus altijd als spiegel op het bord, vis erop — nooit saus over de vis.",
-        "Techniek: frituur in kleine porties op 180°C — te veel vis tegelijk koelt de olie af en geeft een zachte, niet-krokante coating die de saus absorbeert in plaats van weerstaat.",
-        "Presentatie: leg de krokante knoflook en sjalot pas op het allerlaatste moment op de vis — zelfs 2 minuten eerder maakt ze slap door het vocht van de saus.",
-        "Variatie: vervang zeebaars door grote hele garnalen voor een snellere, even krokante versie — 2 minuten frituren en dezelfde saus gebruiken.",
-        "Alternatief: geen tamarindepasta? Gebruik limoensap gecombineerd met een klein beetje bruine suiker — geeft vergelijkbare zoetzure spanning maar frisser en lichter van karakter.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
+      "chef_tip": "Mise-en-place: De saus kun je vooraf maken en warm houden; hij dikt bij afkoelen in. Verwarm hem rustig en roer er zo nodig een scheutje water door. Dep de vis ruim van tevoren droog en bestuif hem pas vlak voor het frituren.\n\nTechniek: Dep de vis zeer goed droog en bestuif hem slechts zeer licht, zonder dikke beslaglaag. Tik overtollige coating af voor de vis de olie in gaat.\n\nTechniek: Frituur in kleine batches. Te veel vis tegelijk laat de olie afkoelen en geeft een zachtere korst.\n\nTechniek: Tamarinde verschilt per merk. Begin met 35 ml en proef. Sommige concentraten zijn veel sterker dan andere. De saus moet duidelijk zuur zijn, maar palmsuiker en vissaus moeten even herkenbaar blijven.\n\nPresentatie: Leg de krokante knoflook en sjalot pas op het laatst op de vis, zodat ze krokant blijven. Houd de saus bij de vis tot een paar streepjes en een kleine spiegel op het bord.\n\nVariatie: Gebruik grote gepelde garnalen in plaats van vis en frituur ze ongeveer 1½–2 minuten. Dit is een variant, niet de hoofdversie.\n\nAlternatief: Geen zeebaars? Gebruik dorade of een andere stevige witte vis.\n\nAlternatief: Hele vis. Voor een traditionelere presentatie kun je een hele schoongemaakte zeebaars of dorade van ongeveer 700–900 g insnijden, droogdeppen en frituren tot krokant. Serveer dezelfde saus erover en ernaast.",
+      "wine": {
+        "naam": "Albariño — Rías Baixas, Spanje",
+        "druif": "Albariño",
+        "toelichting": "Aroma: Limoen, grapefruit, witte perzik, bloesem en een zilte minerale toon. Smaak en structuur: Droog, levendig en strak met hoge zuren, sappig wit fruit en een licht zilte afdronk. De zuren verfrissen na de gefrituurde vis en sluiten aan bij de tamarinde. Het zilte karakter werkt mooi met zeebaars en vissaus, terwijl voldoende fruit aanwezig is om chili en palmsuiker op te vangen. Serveer op 8–9 °C.",
+        "alternatief": "Chenin Blanc uit Zuid-Afrika, of Pinot Gris uit de Elzas"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Albariño",
+          "naam": "Albariño — Rías Baixas, Spanje",
           "druif": "Albariño",
-          "smaakprofiel": "Droog, fris, citrus, witte perzik, zilt-mineraal, levendig",
-          "omschrijving": "De zilte mineraliteit en citrusfrisheid van een Galicische Albariño resoneert direct met de krokante zeebaars en spiegelt de tamarinde en limoen in de chilisaus.",
-          "waarom_werkt_dit": "De hoge zuurgraad snijdt door de frituurcoating en reinigt de mond na elke krokante, smaakvolle hap. De lichte bitterheid in de afdronk sluit aan op de krokante gebakken knoflook en sjalot. Albariño heeft precies genoeg body voor de intensiteit van de chilisaus maar is nooit zo zwaar dat hij de delicate zeebaarssmaak overstemmt. Serveer ijskoud op 8°C."
+          "smaakprofiel": "Droog, levendig en strak, met hoge zuren, sappig wit fruit en een licht zilte afdronk.",
+          "omschrijving": "Aroma: Limoen, grapefruit, witte perzik, bloesem en een zilte minerale toon. Smaak en structuur: Droog, levendig en strak met hoge zuren, sappig wit fruit en een licht zilte afdronk.",
+          "waarom_werkt_dit": "De zuren verfrissen na de gefrituurde vis en sluiten aan bij de tamarinde. Het zilte karakter werkt mooi met zeebaars en vissaus, terwijl voldoende fruit aanwezig is om chili en palmsuiker op te vangen.",
+          "serveertemperatuur": "Serveer op 8–9 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Viognier",
-          "druif": "Viognier",
-          "smaakprofiel": "Droog, abrikoos, perzik, witte bloesem, zachte zuren, rond",
-          "omschrijving": "Viognier geeft aromatisch volume bij kruidige, kokosrijke of licht pittige gerechten.",
-          "waarom_werkt_dit": "De abrikoos- en bloesemtonen geven volume bij kruidige kip, fruitige sauzen of romige elementen zonder dat tannine in de weg zit. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "naam": "Chenin Blanc — Stellenbosch of Swartland, Zuid-Afrika",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Droge, sappige en middelvolle Chenin Blanc met frisse zuren en rijper fruit dan Albariño.",
+          "omschrijving": "Aroma: Gele appel, kweepeer, perzik, citrus en een lichte honingtoon. Smaak en structuur: Droog, sappig en middelvol met frisse zuren en rijper fruit dan Albariño.",
+          "waarom_werkt_dit": "De rijpere fruittonen sluiten mooi aan op palmsuiker en temperen de chili, terwijl de zuren sterk genoeg blijven voor de tamarinde en de frituur.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         },
         {
-          "type": "alternatief",
-          "naam": "Albariño Rías Baixas DO — Galicië, Spanje",
-          "druif": "Albariño",
-          "smaakprofiel": "Droog, fris, citrus, witte perzik, zilt-mineraal, levendig",
-          "omschrijving": "Een Atlantische witte wijn met veel citrus, zilte mineraliteit en voldoende fruit.",
-          "waarom_werkt_dit": "De ziltige Atlantische frisheid van Albariño spiegelt zeevruchten en citroen. De lichte perziktoon complementeert vis en schaaldier zonder te overstemmen. De hoge zuren houden olie, mayo en roomsauzen strak."
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Gris — Elzas of koel Nieuwe Wereld-gebied",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Ronde, soepele Pinot Gris met gematigde zuren en een zachte, middelvolle structuur.",
+          "omschrijving": "Aroma: Peer, witte perzik, gele appel en zachte specerijen. Smaak en structuur: Rond, soepel en middelvol met gematigde zuren.",
+          "waarom_werkt_dit": "Pinot Gris geeft voldoende rondeur voor de zoet-pittige saus en blijft vriendelijk naast de delicate vis. Minder scherp en uitgesproken dan Albariño, maar zeer toegankelijk.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         }
-      ],
-      "wine": {
-        "naam": "Albariño",
-        "druif": "Albariño",
-        "toelichting": "De zilte mineraliteit en citrusfrisheid van een Galicische Albariño resoneert direct met de krokante zeebaars en spiegelt de tamarinde en limoen in de chilisaus. De hoge zuurgraad snijdt door de frituurcoating en reinigt de mond na elke krokante, smaakvolle hap. De lichte bitterheid in de afdronk sluit aan op de krokante gebakken knoflook en sjalot. Albariño heeft precies genoeg body voor de intensiteit van de chilisaus maar is nooit zo zwaar dat hij de delicate zeebaarssmaak overstemmt. Serveer ijskoud op 8°C.",
-        "alternatief": "Viognier — aromatischer en voller, werkt als de chilisaus de hoofdrol speelt boven de vis"
-      },
-      "variaties": "",
-      "tips_full": [
-        "rijstmeel + maizena in 50/50 verhouding geeft een ultradunne, extra knapperige coating — nooit alleen bloem. Saus altijd als spiegel op het bord, vis erop — nooit saus over de vis.",
-        "Techniek: frituur in kleine porties op 180°C — te veel vis tegelijk koelt de olie af en geeft een zachte, niet-krokante coating die de saus absorbeert in plaats van weerstaat.",
-        "Presentatie: leg de krokante knoflook en sjalot pas op het allerlaatste moment op de vis — zelfs 2 minuten eerder maakt ze slap door het vocht van de saus.",
-        "Variatie: vervang zeebaars door grote hele garnalen voor een snellere, even krokante versie — 2 minuten frituren en dezelfde saus gebruiken.",
-        "Alternatief: geen tamarindepasta? Gebruik limoensap gecombineerd met een klein beetje bruine suiker — geeft vergelijkbare zoetzure spanning maar frisser en lichter van karakter.",
-        "Timing: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.",
-        "Balans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
-      ],
-      "chef_tip": "rijstmeel + maizena in 50/50 verhouding geeft een ultradunne, extra knapperige coating — nooit alleen bloem. Saus altijd als spiegel op het bord, vis erop — nooit saus over de vis.\n\nTechniek: frituur in kleine porties op 180°C — te veel vis tegelijk koelt de olie af en geeft een zachte, niet-krokante coating die de saus absorbeert in plaats van weerstaat.\n\nPresentatie: leg de krokante knoflook en sjalot pas op het allerlaatste moment op de vis — zelfs 2 minuten eerder maakt ze slap door het vocht van de saus.\n\nVariatie: vervang zeebaars door grote hele garnalen voor een snellere, even krokante versie — 2 minuten frituren en dezelfde saus gebruiken.\n\nAlternatief: geen tamarindepasta? Gebruik limoensap gecombineerd met een klein beetje bruine suiker — geeft vergelijkbare zoetzure spanning maar frisser en lichter van karakter.\n\nTiming: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.\n\nBalans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
+      ]
     },
     {
       "title": "Stevige banketbakkersroom met custardpoeder en vanille",
@@ -20602,63 +20668,58 @@
       "title": "Kai Look Keuy — Thaise gefrituurde eieren met aromatische palmsuikersaus",
       "slug": "kai-look-keuy-thaise-gefrituurde-eieren-palmsuikersaus",
       "location": "Thailand",
-      "time": "35 min",
+      "time": "Circa 35 min",
       "servings": "4 voorgerechten (2 eieren pp)",
       "difficulty": "Gemiddeld",
       "keuken": "Thais",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/kai-look-keuy-thaise-gefrituurde-eieren-palmsuikersaus.jpg",
-      "short_description": "Het volksgericht van Thailand op zijn verfijndst. Zachte eieren — zeven minuten, jammy van binnen — gefrituurd tot goudbruin en licht blisterend. Overgoten met een aromatische palmsuikersaus waarbij de suiker eerst karameliseert voor extra rondheid.",
-      "description": "Het volksgericht van Thailand op zijn verfijndst. Zachte eieren — zeven minuten, jammy van binnen — gefrituurd tot goudbruin en licht blisterend. Overgoten met een aromatische palmsuikersaus waarbij de suiker eerst karameliseert voor extra rondheid, citroengras en kaffir limoen de Thaise diepte geven en tamarinde de lichte zuurheid maar nooit de overhand. Krokante sjalot, knoflookchips en verse koriander. Dunne staafjes groene appel voor frisheid.",
-      "full_intro": "Het volksgericht van Thailand op zijn verfijndst. Zachte eieren — zeven minuten, jammy van binnen — gefrituurd tot goudbruin en licht blisterend. Overgoten met een aromatische palmsuikersaus waarbij de suiker eerst karameliseert voor extra rondheid, citroengras en kaffir limoen de Thaise diepte geven en tamarinde de lichte zuurheid maar nooit de overhand. Krokante sjalot, knoflookchips en verse koriander. Dunne staafjes groene appel voor frisheid.",
+      "short_description": "Zachtgekookte eieren, kort gefrituurd tot een goudbruine, licht chewy buitenlaag, met een glanzende saus van palmsuiker, tamarinde en vissaus en krokante sjalot en knoflook.",
+      "description": "Kai Look Keuy is een klassiek Thais gerecht van zachtgekookte eieren die kort worden gefrituurd tot de buitenkant goudbruin en licht chewy is. Daarover komt een glanzende saus van palmsuiker, tamarinde en vissaus, afgewerkt met krokante sjalot, knoflook, gedroogde chili en koriander. Zoet, zuur, zout en krokant in één hap.",
       "ingredient_groups": [
         {
           "group_name": "Voor de eieren",
           "ingredients": [
             {
-              "name": "grote verse eieren (eendeneieren bij voorkeur — rijkere dooier)",
+              "name": "grote kippeneieren",
               "amount": "8"
             },
             {
-              "name": "neutrale olie (voldoende om de eieren voor de helft te onderdompelen)",
-              "amount": ""
+              "name": "neutrale olie (ook voor de garnering; circa 3 cm hoog in een kleine pan)",
+              "amount": "ca. 500 ml"
             }
           ]
         },
         {
-          "group_name": "Voor de aromatische palmsuikersaus",
+          "group_name": "Voor de palmsuikersaus",
           "ingredients": [
             {
-              "name": "palmsuiker of kokosbloesemsuiker (ca. 2½ el)",
+              "name": "palmsuiker",
               "amount": "35 g"
             },
             {
-              "name": "water (om de suiker te smelten)",
-              "amount": "25 ml"
+              "name": "water",
+              "amount": "15 ml"
+            },
+            {
+              "name": "Thaise tamarindepasta",
+              "amount": "30 ml"
             },
             {
               "name": "vissaus",
-              "amount": "1½ el"
+              "amount": "20 ml"
             },
             {
-              "name": "tamarindepasta (bewust minimaal — dit is het geheim)",
-              "amount": "1½ tl"
+              "name": "sjalot, fijn gesneden",
+              "amount": "15 g"
             },
             {
-              "name": "lichte sojasaus (optioneel — geeft extra umami-ronding)",
-              "amount": "½ tl"
+              "name": "neutrale olie, om de sjalot te fruiten",
+              "amount": "5 ml"
             },
             {
-              "name": "stengel citroengras, gekneusd (mee sudderen — nooit weglaten)",
+              "name": "citroengras, klein stukje (ca. 5 cm), gekneusd (optioneel)",
               "amount": "1"
-            },
-            {
-              "name": "kaffir limoenblaadjes, licht gekneusd",
-              "amount": "2"
-            },
-            {
-              "name": "vers limoensap (allerlaatst — frisheid zonder extra tamarinde)",
-              "amount": "1 tl"
             }
           ]
         },
@@ -20666,241 +20727,93 @@
           "group_name": "Voor de krokante garnering",
           "ingredients": [
             {
-              "name": "sjalotten, in flinterdunne ringen",
+              "name": "sjalotten, zeer dun gesneden",
               "amount": "4"
             },
             {
-              "name": "teentjes knoflook, in flinterdunne schijfjes",
+              "name": "tenen knoflook, zeer dun gesneden",
               "amount": "4"
             },
             {
-              "name": "gedroogde rode pepers (heel of gebroken)",
+              "name": "gedroogde rode pepers",
               "amount": "4–6"
+            },
+            {
+              "name": "korianderblaadjes",
+              "amount": "12"
             }
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            {
-              "name": "handvol verse koriander",
-              "amount": ""
-            },
-            {
-              "name": "rode chili, in flinterdunne ringen",
-              "amount": "1"
-            },
-            {
-              "name": "dunne staafjes Granny Smith of groene mango (frisheid zonder de saus zuurder te maken)",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "eventueel: 1 el grof gehakte geroosterde pinda's of cashewnoten",
-              "amount": ""
-            },
-            {
-              "name": "limoen, in partjes (aan tafel)",
-              "amount": "1"
-            }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de eieren",
-          "ingredients": [
-            "8 grote verse eieren (eendeneieren bij voorkeur — rijkere dooier)",
-            "Neutrale olie (voldoende om de eieren voor de helft te onderdompelen)"
-          ]
-        },
-        {
-          "group_name": "Voor de aromatische palmsuikersaus",
-          "ingredients": [
-            "35g palmsuiker of kokosbloesemsuiker (ca. 2½ el)",
-            "25ml water (om de suiker te smelten)",
-            "1½ el vissaus",
-            "1½ tl tamarindepasta (bewust minimaal — dit is het geheim)",
-            "½ tl lichte sojasaus (optioneel — geeft extra umami-ronding)",
-            "1 stengel citroengras, gekneusd (mee sudderen — nooit weglaten)",
-            "2 kaffir limoenblaadjes, licht gekneusd",
-            "1 tl vers limoensap (allerlaatst — frisheid zonder extra tamarinde)"
-          ]
-        },
-        {
-          "group_name": "Voor de krokante garnering",
-          "ingredients": [
-            "4 sjalotten, in flinterdunne ringen",
-            "4 teentjes knoflook, in flinterdunne schijfjes",
-            "4–6 gedroogde rode pepers (heel of gebroken)"
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            "Handvol verse koriander",
-            "1 rode chili, in flinterdunne ringen",
-            "Dunne staafjes Granny Smith of groene mango (frisheid zonder de saus zuurder te maken)",
-            "Eventueel: 1 el grof gehakte geroosterde pinda's of cashewnoten",
-            "1 limoen, in partjes (aan tafel)"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
-          "action": "De jammy eieren (van tevoren)",
-          "description": "Breng ruim water aan de kook. Eieren voorzichtig erin laten glijden. Exact 7 minuten koken. Direct in ijskoud water — 5 minuten. Voorzichtig pellen. Grondig droogdeppen met keukenpapier — van alle kanten. Vochtige eieren spatten gevaarlijk in hete olie en krijgen nooit de mooie goudbruine blister."
+          "action": "Kook de eieren",
+          "description": "Breng ruim water aan de kook, laat de eieren voorzichtig erin glijden en kook ze precies 7 minuten voor een jammy dooier. Leg ze direct 5 minuten in ijswater. Pel ze voorzichtig en dep ze zeer goed droog, van alle kanten. Vochtige eieren spatten gevaarlijk in hete olie."
         },
         {
-          "number": 3,
-          "action": "De krokante garnering (volgorde is essentieel)",
-          "description": "Verhit ca. 2–3 cm olie in een wok of kleine pan op middelhoog vuur. Voeg de sjalotringen toe. Frituur op laag vuur — 5–7 minuten al regelmatig roerend tot goudbruin en krokant. Nét iets eerder eruit dan je denkt — ze kleuren nog door. Droogleggen op keukenpapier. In dezelfde olie: knoflookschijfjes op laag vuur — 30–40 seconden tot lichtgoudbruin. Direct eruit — knoflook verbrandt in seconden. Droogleggen. In dezelfde olie: gedroogde pepers 10–15 seconden tot donkerder en geurig. Eruit. Droogleggen."
+          "action": "Frituur de krokante garnering",
+          "description": "Verhit circa 3 cm olie in een kleine pan op laag tot middelhoog vuur. Frituur de sjalotringen langzaam, regelmatig roerend, tot ze goudbruin en krokant zijn (5–7 minuten). Haal ze er iets eerder uit dan je denkt, want ze kleuren nog door. Frituur daarna de knoflookschijfjes kort op laag vuur (30–40 seconden) tot lichtgoud en haal ze er direct uit. Bak de gedroogde pepers slechts enkele seconden, tot ze donkerder en geurig zijn. Laat alles uitlekken op keukenpapier en giet de olie door een fijne zeef."
         },
         {
-          "number": 6,
-          "action": "De aromatische palmsuikersaus (carameliseer de suiker eerst)",
-          "description": "Doe de palmsuiker en het water in een klein pannetje. Verhit op middelhoog vuur al roerend tot de suiker volledig oplost en licht stroperig en goudkleurig wordt — ca. 2 minuten. Dit karameliseren rondt de zoetheid af voor de zure en zoute ingrediënten erbij gaan. Voeg vissaus, tamarindepasta en optioneel sojasaus toe. Voeg citroengras en kaffir limoenblaadjes toe. Sudderen op laag vuur 2–3 minuten tot een glanzende saus van dunne siropdikte. Citroengras en kaffir limoenblaadjes verwijderen. Proef kritisch: de saus moet zoet-zout zijn en pas dan licht zuur. Te tamarinde? Scheutje water of extra palmsuiker. Te zoet? Druppel limoensap. Allerlaatst: vers limoensap toevoegen. Warmhouden."
+          "action": "Maak de saus",
+          "description": "Fruit 15 g fijngesneden sjalot in 5 ml olie in een klein pannetje tot licht goud. Voeg 35 g palmsuiker, 15 ml water, 30 ml tamarindepasta en 20 ml vissaus toe, en eventueel het gekneusde stukje citroengras. Laat 3–5 minuten zacht inkoken tot een glanzende saus met ongeveer de dikte van ahornsiroop. Laat hem niet te dik worden; hij dikt verder in bij afkoelen. Verwijder het citroengras. Proef en zorg voor een balans van zoet, zuur en zout. Warm houden."
         },
         {
-          "number": 10,
-          "action": "De eieren frituren",
-          "description": "Breng de olie op 180°C. Eieren voorzichtig erin — niet te veel tegelijk. Frituur 3–5 minuten al regelmatig omdraaien tot rondom goudbruin en licht blisterend. De buitenlaag mag chewy en goudgeel zijn — dat is het karakter van dit gerecht. Uitlekken op keukenpapier. Snijd direct met een scherp, nat mes in de helft — de jammy dooier is zichtbaar."
+          "action": "Frituur de eieren",
+          "description": "Zorg dat de olie ongeveer tot halverwege de eieren komt en verhit hem tot 190–200 °C. Laat de volledig droge eieren in 2 porties van 4 voorzichtig in de olie zakken, met een schuimspaan. Frituur ze in totaal ongeveer 45–75 seconden, regelmatig draaiend, tot ze rondom goudbruin en licht geblisterd zijn. Het ei binnenin mag niet verder doorgaren. Laat uitlekken en snijd ze direct met een scherp, nat mes doormidden."
         },
         {
-          "number": 12,
-          "action": "Opbouwen",
-          "description": "Saus als spiegel eerst: Lepel een dunne laag warme saus op elk warm bord. Leg de eierhelften erop — dooier omhoog. Lepel nog een dunne baan saus over de randen van de eieren (niet over de dooier — die blijft zichtbaar). Krokante sjalot hoog en luchtig over het gerecht strooien. Knoflookchips. Gedroogde peper. Verse koriander. Rode chiliringen. Dunne staafjes groene appel of groene mango als frisse groene accenten. Eventueel geroosterde pinda's of cashews. Limoen aan tafel."
+          "action": "Bouw op",
+          "description": "Verdeel per persoon 2 eieren, gehalveerd, over een warm bord met een beetje warme saus als dunne laag of direct over de eieren; houd de dooiers zichtbaar. Werk af met royaal krokante sjalot, enkele knoflookchips, een stukje krokante gedroogde chili en een paar korianderblaadjes. Geen overdadige garnering."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Kai Look Keuy draait om contrast. Het zachtgekookte ei is romig en mild; door het kort op hoge temperatuur te frituren ontstaat aan de buitenkant een dunne goudbruine, licht chewy laag zonder dat de dooier verder gaart. De saus bestaat bewust uit drie hoofdsmaken: palmsuiker voor ronde zoetheid, tamarinde voor fruitige zuren en vissaus voor zout en umami. Geen van de drie mag overheersen. Krokante sjalot en knoflook geven zoetheid, geroosterde diepte en textuur, terwijl gedroogde chili voor een korte pittige tegenhanger zorgt."
         }
       ],
-      "steps_full": [
-        {
-          "number": null,
-          "section": "De jammy eieren (van tevoren)",
-          "description": "Breng ruim water aan de kook. Eieren voorzichtig erin laten glijden. Exact 7 minuten koken. Direct in ijskoud water — 5 minuten. Voorzichtig pellen."
-        },
-        {
-          "number": null,
-          "section": "De jammy eieren (van tevoren)",
-          "description": "Grondig droogdeppen met keukenpapier — van alle kanten. Vochtige eieren spatten gevaarlijk in hete olie en krijgen nooit de mooie goudbruine blister."
-        },
-        {
-          "number": null,
-          "section": "De krokante garnering (volgorde is essentieel)",
-          "description": "Verhit ca. 2–3 cm olie in een wok of kleine pan op middelhoog vuur. Voeg de sjalotringen toe. Frituur op laag vuur — 5–7 minuten al regelmatig roerend tot goudbruin en krokant. Nét iets eerder eruit dan je denkt — ze kleuren nog door. Droogleggen op keukenpapier."
-        },
-        {
-          "number": null,
-          "section": "De krokante garnering (volgorde is essentieel)",
-          "description": "In dezelfde olie: knoflookschijfjes op laag vuur — 30–40 seconden tot lichtgoudbruin. Direct eruit — knoflook verbrandt in seconden. Droogleggen."
-        },
-        {
-          "number": null,
-          "section": "De krokante garnering (volgorde is essentieel)",
-          "description": "In dezelfde olie: gedroogde pepers 10–15 seconden tot donkerder en geurig. Eruit. Droogleggen."
-        },
-        {
-          "number": null,
-          "section": "De aromatische palmsuikersaus (carameliseer de suiker eerst)",
-          "description": "Doe de palmsuiker en het water in een klein pannetje. Verhit op middelhoog vuur al roerend tot de suiker volledig oplost en licht stroperig en goudkleurig wordt — ca. 2 minuten. Dit karameliseren rondt de zoetheid af voor de zure en zoute ingrediënten erbij gaan."
-        },
-        {
-          "number": null,
-          "section": "De aromatische palmsuikersaus (carameliseer de suiker eerst)",
-          "description": "Voeg vissaus, tamarindepasta en optioneel sojasaus toe. Voeg citroengras en kaffir limoenblaadjes toe. Sudderen op laag vuur 2–3 minuten tot een glanzende saus van dunne siropdikte."
-        },
-        {
-          "number": null,
-          "section": "De aromatische palmsuikersaus (carameliseer de suiker eerst)",
-          "description": "Citroengras en kaffir limoenblaadjes verwijderen. Proef kritisch: de saus moet zoet-zout zijn en pas dan licht zuur. Te tamarinde? Scheutje water of extra palmsuiker. Te zoet? Druppel limoensap."
-        },
-        {
-          "number": null,
-          "section": "De aromatische palmsuikersaus (carameliseer de suiker eerst)",
-          "description": "Allerlaatst: vers limoensap toevoegen. Warmhouden."
-        },
-        {
-          "number": null,
-          "section": "De eieren frituren",
-          "description": "Breng de olie op 180°C. Eieren voorzichtig erin — niet te veel tegelijk. Frituur 3–5 minuten al regelmatig omdraaien tot rondom goudbruin en licht blisterend. De buitenlaag mag chewy en goudgeel zijn — dat is het karakter van dit gerecht."
-        },
-        {
-          "number": null,
-          "section": "De eieren frituren",
-          "description": "Uitlekken op keukenpapier. Snijd direct met een scherp, nat mes in de helft — de jammy dooier is zichtbaar."
-        },
-        {
-          "number": null,
-          "section": "Opbouwen",
-          "description": "Saus als spiegel eerst: Lepel een dunne laag warme saus op elk warm bord. Leg de eierhelften erop — dooier omhoog. Lepel nog een dunne baan saus over de randen van de eieren (niet over de dooier — die blijft zichtbaar)."
-        },
-        {
-          "number": null,
-          "section": "Opbouwen",
-          "description": "Krokante sjalot hoog en luchtig over het gerecht strooien. Knoflookchips. Gedroogde peper. Verse koriander. Rode chiliringen. Dunne staafjes groene appel of groene mango als frisse groene accenten. Eventueel geroosterde pinda's of cashews. Limoen aan tafel."
-        }
-      ],
-      "tips": [
-        "Minder tamarinde is het geheim: De saus moet zoet-zilt zijn en pas daarna licht zuur. Begin altijd met weinig tamarinde — meer toevoegen is makkelijker dan terugdraaien.",
-        "Palmsuiker eerst karameliseren: Dit geeft de saus een diepe, karamelachtige rondheid die de tamarinde zachter en eleganter maakt.",
-        "Citroengras en kaffir limoen: Geven de Thaise aromatische diepte zonder de smaakbalans te verstoren. Nooit weglaten.",
-        "Knoflook: Knoflook snel — sjalot langzaam: Knoflookschijfjes verbranden in seconden. Sjalotringen hebben 5–7 minuten nodig op laag vuur.",
-        "Groene appel of mango: Geen saus zuurder maken voor frisheid — gebruik dunne staafjes fruit als tegenwicht. Verfijnder en eleganter.",
-        "Variatie — kwarteleitjes: Koken 3 minuten, frituren 2–3 min. Perfect als amuse — vier à vijf per persoon op een bedje saus.",
-        "Variatie — eendeneieren: Groter, rijker, diepere dooierkleur. Geef de voorkeur als verkrijgbaar bij de toko.",
-        "Alternatief minder frituren: Eieren ondiep bakken in kleine pan, steeds draaien. Minder egaal van kleur maar even lekker."
-      ],
-      "tips_full": [
-        "Minder tamarinde is het geheim: De saus moet zoet-zilt zijn en pas daarna licht zuur. Begin altijd met weinig tamarinde — meer toevoegen is makkelijker dan terugdraaien.",
-        "Palmsuiker eerst karameliseren: Dit geeft de saus een diepe, karamelachtige rondheid die de tamarinde zachter en eleganter maakt.",
-        "Citroengras en kaffir limoen: Geven de Thaise aromatische diepte zonder de smaakbalans te verstoren. Nooit weglaten.",
-        "Knoflook: Knoflook snel — sjalot langzaam: Knoflookschijfjes verbranden in seconden. Sjalotringen hebben 5–7 minuten nodig op laag vuur.",
-        "Groene appel of mango: Geen saus zuurder maken voor frisheid — gebruik dunne staafjes fruit als tegenwicht. Verfijnder en eleganter.",
-        "Variatie — kwarteleitjes: Koken 3 minuten, frituren 2–3 min. Perfect als amuse — vier à vijf per persoon op een bedje saus.",
-        "Variatie — eendeneieren: Groter, rijker, diepere dooierkleur. Geef de voorkeur als verkrijgbaar bij de toko.",
-        "Alternatief minder frituren: Eieren ondiep bakken in kleine pan, steeds draaien. Minder egaal van kleur maar even lekker."
-      ],
-      "opmaak_presentatie": "Warme of kamertemperatuur borden. Dunne glanzende spiegel palmsuikersaus als basis. Eierhelften met goudgele buitenkant en de oranje jammy dooier zichtbaar. Saus elegant over de randen. Krokante sjalot hoog en luchtig. Knoflookchips en rode peper als kleuraccenten. Groene appel of mango als fris contrast. Koriander als groen. Goudbruin, glanzend en feestelijk Thais.",
+      "chef_tip": "Mise-en-place: Kook de eieren, maak de garnering en de saus vooraf klaar en houd alles gescheiden. Dep de eieren volledig droog voordat ze de hete olie in gaan en frituur ze pas vlak voor het serveren.\n\nTechniek: Sjalot langzaam, knoflook kort. Sjalot heeft 5–7 minuten nodig om goudbruin en krokant te worden. Knoflookschijfjes verbranden in seconden.\n\nTechniek: Tamarinde verschilt per merk. Proef de saus altijd. Sommige Thaise tamarindepasta's zijn zuurder of geconcentreerder dan andere. De uiteindelijke saus moet eerst zoetzuur smaken, met duidelijk maar niet overheersend zout van de vissaus.\n\nTechniek: Veilig frituren. Hete olie en eieren spatten: gebruik een kleine, diepe pan, laat de eieren voorzichtig met een schuimspaan zakken en frituur niet meer dan 4 eieren tegelijk. Blijf erbij staan, de eieren zijn in ongeveer een minuut klaar.\n\nPresentatie: Houd de dooiers zichtbaar door de eieren met de snijkant omhoog te leggen en de saus alleen als dunne laag onder of langs de eieren te lepelen. Strooi de sjalot royaal en de rest spaarzaam.\n\nVariatie: Voor een moderne restaurantvariant kun je een paar uiterst dunne reepjes zure groene mango toevoegen, maar houd dit minimaal.\n\nAlternatief: Minder frituren? Bak de eieren ondiep in een kleine pan met ongeveer 1 cm olie en draai ze steeds. De kleur is minder egaal, maar ze zijn even lekker.",
+      "wine": {
+        "naam": "Vouvray Sec — Loire, Frankrijk",
+        "druif": "Chenin Blanc",
+        "toelichting": "Aroma: Appel, kweepeer, citrus en een lichte honingtoon. Smaak en structuur: Droog, sappig en fris met duidelijke zuren en lichte rondeur. De zuren sluiten aan bij de tamarinde, terwijl de rijpere fruittonen mooi samengaan met palmsuiker en eidooier. De frisheid reinigt bovendien na de gefrituurde buitenlaag en de krokante sjalot. Serveer op 9–10 °C.",
+        "alternatief": "Pinot Gris d'Alsace, of een Grüner Veltliner uit Oostenrijk"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Vouvray sec AOC — Loire, Frankrijk",
+          "naam": "Vouvray Sec — Loire, Frankrijk",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Droog, sappig, fris, appel, kweepeer, subtiele honingachtige ronding, minerale spanning",
-          "omschrijving": "Een elegante, droge Loirewijn met genoeg frisheid voor de zure elementen maar een lichte rondheid die de palmsuiker omhult.",
-          "waarom_werkt_dit": "De honingachtige rondheid draagt de palmsuiker en karamelisatie. De frisse zuren snijden door de vissaus en het ei. De mineraliteit balanceert de umami-diepte. Perfect voor de zoet-zout-zuur balans van dit gerecht."
+          "smaakprofiel": "Droge, sappige Chenin Blanc met duidelijke zuren en een lichte rondheid.",
+          "omschrijving": "Aroma: Appel, kweepeer, citrus en een lichte honingtoon. Smaak en structuur: Droog, sappig en fris met duidelijke zuren en lichte rondeur.",
+          "waarom_werkt_dit": "De zuren sluiten aan bij de tamarinde, terwijl de rijpere fruittonen mooi samengaan met palmsuiker en eidooier. De frisheid reinigt bovendien na de gefrituurde buitenlaag en de krokante sjalot.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Pinot Gris d'Alsace AOC — Elzas, Frankrijk",
+          "naam": "Pinot Gris d'Alsace — Elzas, Frankrijk",
           "druif": "Pinot Gris",
-          "smaakprofiel": "Droog tot licht rond, rijp fruit, zachte kruidigheid, milde zuren",
-          "omschrijving": "Ronder en aromatischer; mooi als de palmsuikersaus iets zoeter uitvalt.",
-          "waarom_werkt_dit": "De ronde textuur vangt palmsuiker en vissaus op. De aromatische fruitigheid tempert chili en maakt het gefrituurde ei minder zwaar."
+          "smaakprofiel": "Ronde, middelvolle Pinot Gris met gematigde zuren en zachte specerijen.",
+          "omschrijving": "Aroma: Peer, perzik, gele appel en zachte specerijen. Smaak en structuur: Rond en middelvol, met gematigde zuren.",
+          "waarom_werkt_dit": "De ronde textuur vangt palmsuiker en eidooier op en blijft zacht naast vissaus en chili. De wijn is aromatisch genoeg om naast de tamarinde te bestaan zonder het ei te overheersen.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         },
         {
-          "type": "alternatief",
-          "naam": "Viognier Pays d'Oc IGP — Zuid-Frankrijk",
-          "druif": "Viognier",
-          "smaakprofiel": "Droog, tropisch fruit, abrikoos, zachte zuren, bloemig",
-          "omschrijving": "Een geurige, toegankelijke witte wijn met tropische tonen.",
-          "waarom_werkt_dit": "Het tropische fruit sluit aan op citroengras, limoenblad en palmsuiker. De zachte zuren passen bij de zoet-zoute saus zonder scherp te worden."
+          "type": "meest-toegankelijk",
+          "naam": "Grüner Veltliner — Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Droge, strakke witte wijn met levendige zuren en een kruidige afdronk, zonder uitgesproken bloemigheid.",
+          "omschrijving": "Aroma: Groene appel, limoen, verse kruiden en witte peper. Smaak en structuur: Droog, strak en levendig, met frisse zuren en een kruidige afdronk.",
+          "waarom_werkt_dit": "De frisse zuren en het peperige karakter passen bij het zoet-zuur-zout van de tamarindesaus en houden het gerecht licht, terwijl de wijn helder blijft naast de dooier en de krokante sjalot. Zijn kruidigheid sluit bovendien aan op de gedroogde chili en koriander. Een toegankelijke keuze die weinig kennis vraagt.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         }
       ],
-      "wine": {
-        "naam": "Vouvray sec AOC — Loire, Frankrijk",
-        "druif": "Chenin Blanc",
-        "toelichting": "Droog, sappig, fris, appel, kweepeer, subtiele honingachtige ronding, minerale spanning Een elegante, droge Loirewijn met genoeg frisheid voor de zure elementen maar een lichte rondheid die de palmsuiker omhult. De honingachtige rondheid draagt de palmsuiker en karamelisatie. De frisse zuren snijden door de vissaus en het ei. De mineraliteit balanceert de umami-diepte. Perfect voor de zoet-zout-zuur balans van dit gerecht.",
-        "alternatief": "Pinot Gris d'Alsace (ronder, aromatischer — mooi als de saus iets zoeter wordt) of Viognier Pays d'Oc (tropische tonen, sluit aan op citroengras en kaffir limoen). — ."
-      },
       "metadata": {
-        "bereidingstijd": "35 min",
+        "bereidingstijd": "Circa 35 min",
         "porties": "4 voorgerechten (2 eieren pp)",
         "type_gerecht": "Voorgerecht / Thais bijgerecht",
         "niveau": "Gemiddeld"
       },
-      "source_recipe_number": 67,
-      "full_title_docx": "67. KAI LOOK KEUY — THAISE GEFRITUURDE EIEREN MET AROMATISCHE PALMSUIKERSAUS",
-      "chef_tip": "Minder tamarinde is het geheim: De saus moet zoet-zilt zijn en pas daarna licht zuur. Begin altijd met weinig tamarinde — meer toevoegen is makkelijker dan terugdraaien.\n\nPalmsuiker eerst karameliseren: Dit geeft de saus een diepe, karamelachtige rondheid die de tamarinde zachter en eleganter maakt.\n\nCitroengras en kaffir limoen: Geven de Thaise aromatische diepte zonder de smaakbalans te verstoren. Nooit weglaten.\n\nKnoflook: Knoflook snel — sjalot langzaam: Knoflookschijfjes verbranden in seconden. Sjalotringen hebben 5–7 minuten nodig op laag vuur.\n\nGroene appel of mango: Geen saus zuurder maken voor frisheid — gebruik dunne staafjes fruit als tegenwicht. Verfijnder en eleganter.\n\nVariatie — kwarteleitjes: Koken 3 minuten, frituren 2–3 min. Perfect als amuse — vier à vijf per persoon op een bedje saus.\n\nVariatie — eendeneieren: Groter, rijker, diepere dooierkleur. Geef de voorkeur als verkrijgbaar bij de toko.\n\nAlternatief minder frituren: Eieren ondiep bakken in kleine pan, steeds draaien. Minder egaal van kleur maar even lekker."
+      "source_recipe_number": 67
     },
     {
       "title": "Ha Kau met zelfgemaakt doorschijnend deeg en gember-sojadip",
@@ -45262,105 +45175,116 @@
       "title": "Pad Kaprao van Entrecote met Krokant Ei, Jasmijnrijst en Chili-Limoenrelish — Nusara-Stijl",
       "slug": "pad-kaprao-entrecote-krokant-ei-jasmijnrijst-chili-limoenrelish-nusara",
       "location": "Bangkok, Thailand",
-      "time": "35 min",
+      "time": "Circa 35 min",
       "servings": "4 personen",
       "difficulty": "Makkelijk",
       "keuken": "Thais",
       "categorie": "vlees",
       "image": "/assets/images/pad-kaprao-entrecote-krokant-ei-jasmijnrijst-chili-limoenrelish-nusara.jpg",
-      "short_description": "Nusara Bangkok's luxe streetfood: entrecote-reepjes in gloeiend hete wok met heilige basilicum, krokant kai dao-ei bovenop en een felle chili-limoenrelish ernaast.",
-      "description": "Nusara Bangkok — Chef Thitid 'Ton' Tassanakajohn, één Michelin-ster, nr. 35 in The World's 50 Best 2025 — vernoemd naar zijn grootmoeder. Pad kaprao — het meest democratische gerecht van Thailand — gemaakt met luxe rundvlees. Entrecote in een gloeiend hete wok, heilige basilicum, vissaus, oestersaus en palmsuiker. Een krokant kai dao-ei bovenop. Een felle chili-limoenrelish ernaast. Streetfood-intensiteit met restaurantprecisie.",
-      "full_intro": "Nusara in Bangkok — Chef Thitid \"Ton\" Tassanakajohn, één Michelin-ster, nr. 35 in The World's 50 Best Restaurants 2025 en nr. 5 in Asia's 50 Best — is vernoemd naar zijn grootmoeder, die in 2020 overleed. Haar handgeschreven recepten en koninklijk-Thaise familieschotels vormen de emotionele basis van het menu. Pad kaprao — het meest democratische gerecht van Thailand — gemaakt met luxe rundvlees en geserveerd met regionale relishes. Ton bewijst dat comfortfood en haute cuisine hetzelfde gerecht kunnen zijn.",
+      "short_description": "Luxe interpretatie van pad kaprao: kort gewokte reepjes entrecote met holy basil, een krokant kai dao-ei, jasmijnrijst en frisse prik nam pla.",
+      "description": "Dit is een luxe interpretatie van pad kaprao, het meest democratische gerecht van Thailand, geïnspireerd op de Wagyu/holy-basilbereidingen van Nusara in Bangkok. Kort gewokte entrecote met heilige basilicum, vissaus, oestersaus en palmsuiker, met een krokant kai dao-ei en prik nam pla ernaast. Streetfood-intensiteit met restaurantprecisie.",
       "ingredient_groups": [
         {
           "group_name": "Voor de pad kaprao",
           "ingredients": [
             {
-              "name": "entrecote of rib-eye in reepjes van 4×1cm (20 min in de vriezer maakt snijden makkelijker)",
-              "amount": "500–600g"
+              "name": "entrecote of rib-eye, in reepjes van circa 4 × 1 × 0,5 cm (20 min in de vriezer maakt snijden makkelijker)",
+              "amount": "500 g"
             },
             {
-              "name": "teentjes knoflook",
+              "name": "tenen knoflook",
               "amount": "6"
             },
             {
-              "name": "Thaise vogeltjespepers (bird's eye chili — rode/groene mix)",
-              "amount": "4–8"
+              "name": "bird's eye chilipepers",
+              "amount": "5–6"
             },
             {
-              "name": "sjalotten",
-              "amount": "2"
+              "name": "grote sjalot (circa 40 g), fijn gesneden",
+              "amount": "1"
             },
             {
-              "name": "groot bos heilige basilicum (bai krapao — bij Aziatische supermarkt; alternatief: Thaise zoete basilicum)",
-              "amount": "2 handen"
+              "name": "heilige basilicumblaadjes (bai krapao; alternatief: Thaise basilicum)",
+              "amount": "35–40 g"
+            },
+            {
+              "name": "neutrale olie met hoog rookpunt, voor de wok",
+              "amount": "3 el"
             }
           ]
         },
         {
-          "group_name": "Voor de saus",
+          "group_name": "Voor de saus (vooraf mengen)",
           "ingredients": [
             {
               "name": "oestersaus",
-              "amount": "3 el"
+              "amount": "30 ml"
             },
             {
               "name": "lichte sojasaus",
-              "amount": "2 el"
+              "amount": "15 ml"
             },
             {
-              "name": "donkere sojasaus (voor kleur)",
-              "amount": "1 tl"
+              "name": "donkere sojasaus",
+              "amount": "5 ml"
             },
             {
               "name": "vissaus",
-              "amount": "1 el"
-            },
-            {
-              "name": "palmsuiker (alternatief: bruine suiker)",
-              "amount": "1 tl"
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de kai dao (Thais krokant ei)",
-          "ingredients": [
-            {
-              "name": "verse eieren (of 8 kwarteleitjes voor fine-dining versie)",
-              "amount": "4"
-            },
-            {
-              "name": "neutrale olie (veel olie is de techniek)",
-              "amount": "4–6 el"
-            },
-            {
-              "name": "zout",
-              "amount": "snufje"
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de chili-limoenrelish",
-          "ingredients": [
-            {
-              "name": "vissaus",
-              "amount": "2 el"
-            },
-            {
-              "name": "vers limoensap",
-              "amount": "2 el"
+              "amount": "10 ml"
             },
             {
               "name": "palmsuiker",
-              "amount": "1 el"
+              "amount": "8 g"
             },
             {
-              "name": "vogeltjespepers, fijngehakt",
+              "name": "water",
+              "amount": "25 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de kai dao",
+          "ingredients": [
+            {
+              "name": "verse eieren",
+              "amount": "4"
+            },
+            {
+              "name": "neutrale olie (ca. 1 cm hoog in een kleine koekenpan)",
+              "amount": "ca. 150 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "1 snufje"
+            }
+          ]
+        },
+        {
+          "group_name": "Prik nam pla — chili-limoen-vissaus",
+          "ingredients": [
+            {
+              "name": "vissaus",
+              "amount": "30 ml"
+            },
+            {
+              "name": "vers limoensap",
+              "amount": "25 ml"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "8 g"
+            },
+            {
+              "name": "bird's eye chilipepers, zeer fijn gesneden",
               "amount": "1–2"
             },
             {
-              "name": "teentje knoflook, fijngewreven",
+              "name": "teen knoflook, zeer fijn gesneden",
               "amount": "½"
+            },
+            {
+              "name": "sjalot, zeer fijn gesneden (optioneel)",
+              "amount": "1 tl"
             }
           ]
         },
@@ -45368,195 +45292,93 @@
           "group_name": "Erbij",
           "ingredients": [
             {
-              "name": "gekookte jasmijnrijst",
-              "amount": ""
+              "name": "jasmijnrijst, ongekookt",
+              "amount": "280 g"
             },
             {
-              "name": "limoenpartjes",
-              "amount": ""
-            },
-            {
-              "name": "neutrale olie met hoog rookpunt (voor de wok)",
-              "amount": "3 el"
+              "name": "limoen, in 4 partjes",
+              "amount": "1"
             }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de pad kaprao",
-          "ingredients": [
-            "500–600g entrecote of rib-eye (in reepjes van 4×1cm — zelf snijden geeft betere textuur dan gehakt; 20 min in de vriezer maakt snijden makkelijker)",
-            "6 teentjes knoflook",
-            "4–8 Thaise vogeltjespepers (bird's eye chili — rode/groene mix; bij de toko)",
-            "2 sjalotten",
-            "2 grote handen heilige basilicum (bai krapao — bij grotere Aziatische supermarkt; alternatief: Thaise zoete basilicum. Geen Italiaanse basilicum)"
-          ]
-        },
-        {
-          "group_name": "Voor de saus",
-          "ingredients": [
-            "3 el oestersaus",
-            "2 el lichte sojasaus",
-            "1 tl donkere sojasaus (voor kleur)",
-            "1 el vissaus (geeft extra umami-diepte)",
-            "1 tl palmsuiker (bij toko; alternatief: bruine suiker)"
-          ]
-        },
-        {
-          "group_name": "Voor de kai dao (Thais krokant gebakken ei)",
-          "ingredients": [
-            "4 verse eieren (of: 8 kwarteleitjes voor fine-dining versie)",
-            "4–6 el neutrale olie (veel olie is de techniek)",
-            "Snuf zout"
-          ]
-        },
-        {
-          "group_name": "Voor de chili-limoenrelish",
-          "ingredients": [
-            "2 el vissaus",
-            "2 el vers limoensap",
-            "1 el palmsuiker",
-            "1–2 vogeltjespepers, fijngehakt",
-            "½ teentje knoflook, fijngewreven"
-          ]
-        },
-        {
-          "group_name": "Erbij",
-          "ingredients": [
-            "Gekookte jasmijnrijst",
-            "Limoenpartjes",
-            "Eventueel: komkommerlinten of kort ingelegde radijs",
-            "3 el neutrale olie met hoog rookpunt (zonnebloem of druivenpitolie)"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
           "action": "Mise-en-place",
-          "description": "Vlees in reepjes van 4×1cm snijden. Grondig droogdeppen — vochtig vlees stoomt in plaats van searren. Knoflook, vogeltjespepers en sjalotten in een vijzel stampen tot een grove, ruwe pasta — niet blenderen, te fijn en te waterig. Sausmengsel klaarmaken: oestersaus, lichte sojasaus, donkere sojasaus, vissaus en palmsuiker mengen. Chili-limoenrelish mengen: vissaus, limoensap, palmsuiker, pepers en knoflook — zout, zuur, zoet en scherp moeten alle vier duidelijk aanwezig zijn. Koud wegzetten."
+          "description": "Leg de entrecote 20 minuten in de vriezer en snijd hem daarna in reepjes van circa 4 × 1 × 0,5 cm. Dep het vlees goed droog en verdeel het in 2 porties van 250 g. Vijzel de knoflook en chilipepers samen grof. Snijd de sjalot fijn en houd hem apart. Meng de saus (oestersaus, lichte en donkere soja, vissaus, palmsuiker en water). Kook de jasmijnrijst volgens de verpakking en houd hem warm. Pluk de basilicumblaadjes."
         },
         {
-          "number": 2,
-          "action": "Wok hei",
-          "description": "Wok op hoogst mogelijke vuur. 3–4 minuten leeg verwarmen tot de wok rookt. Olie erin, opnieuw wachten tot de olie rookt. Knoflook-peper-pasta toevoegen — 15–20 seconden roerbakken. De geur explodeert."
+          "action": "Maak de prik nam pla",
+          "description": "Roer vissaus, limoensap, palmsuiker, chili, knoflook en eventueel sjalot tot de suiker is opgelost. Serveer op kamertemperatuur, niet ijskoud."
         },
         {
-          "number": 3,
-          "action": "Vlees in twee batches",
-          "description": "Eerste batch (250–300g): vlees in de wok. Niet roeren de eerste 30 seconden — laten contacteren. Dan kort omscheppen, totaal 60–75 seconden. Uitscheppen. Wok opnieuw op temperatuur, tweede batch hetzelfde. Beide batches terug. Sausmengsel erbij. 30–45 seconden al roerend op hoogste vuur tot de saus inkookt en het vlees glanst."
+          "action": "Bak de kai dao",
+          "description": "Verhit in een kleine koekenpan ongeveer 1 cm olie tot 180–190 °C. Breek 1 ei in een kommetje en laat het voorzichtig in de hete olie glijden. Bak 45–75 seconden en schep met een lepel hete olie over het eiwit, maar niet over de dooier. Het wit moet bubbelen en krokante bruine randen krijgen; de dooier blijft vloeibaar. Niet omdraaien. Laat uitlekken op keukenpapier en zout heel licht. Bak per ei of maximaal twee tegelijk en houd de eieren op een rooster warm."
         },
         {
-          "number": 4,
-          "action": "Heilige basilicum",
-          "description": "Vuur uit. Heilige basilicum in één keer erin. Omscheppen tot de blaadjes net beginnen te slinken — 20–30 seconden. Niet langer, het aroma verdwijnt snel."
+          "action": "Verhit de wok",
+          "description": "Laat een carbonstalen wok zeer heet worden, tot hij net begint te walmen. Voeg de olie toe (1½ el per portie vlees)."
         },
         {
-          "number": 5,
-          "action": "Kai dao (krokant Thais gebakken ei)",
-          "description": "Aparte koekenpan op hoog vuur. 4–6 el olie — royaal, meer dan normaal. Wachten tot de olie heet is en licht rookt. Ei erin. 45–60 seconden bakken zonder deksel. Het eiwit schuimt en krijgt krokante bruine randjes. De dooier blijft vloeibaar. Niet omdraaien. Uit de pan op keukenpapier, licht zout."
+          "action": "Bak het vlees in twee porties",
+          "description": "Verdeel de knoflook-chilipasta en de sjalot over de 2 porties. Bak per portie eerst de helft van de knoflook-chilipasta 10–15 seconden en daarna de helft van de sjalot nog 10–15 seconden. Voeg 250 g vlees toe in één laag. Laat het eerste 20–30 seconden onaangeroerd liggen en schep het daarna krachtig om, totaal ongeveer 60–75 seconden. Schep uit. Laat de wok weer heet worden en bak de tweede portie op dezelfde manier."
         },
         {
-          "number": 6,
-          "action": "Opbouwen",
-          "description": "Warme diepe borden. Jasmijnrijst compact opgeschept — quenelle of kommetje aan de zijkant. Pad kaprao ernaast of eroverheen. Kai dao bovenop — krokante witte randjes zichtbaar, dooier goudgeel. Chili-limoenrelish in een klein apart kommetje. Limoenpartje."
+          "action": "Voeg saus en basilicum toe",
+          "description": "Doe al het vlees terug in de wok, voeg de saus toe en schep op maximaal vuur 30–45 seconden om, tot het vlees glanst en de saus net om het vlees hangt. Zet het vuur uit. Voeg de 35–40 g holy basil in één keer toe en schep 20–30 seconden om, tot de blaadjes net slinken. Niet verder garen."
+        },
+        {
+          "action": "Serveer",
+          "description": "Verdeel per persoon een compacte portie jasmijnrijst over de borden, met de pad kaprao ernaast of deels erover. Leg er 1 krokant kai dao bovenop en serveer de prik nam pla apart in een klein kommetje, samen met een limoenpartje dat je alleen uitknijpt als je zin hebt in extra frisheid. Serveer de prik nam pla naast het gerecht, vooral voor de rijst en de kai dao, en laat iedere gast zelf doseren."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De entrecote wordt in kleine batches kort en heet gebakken, zodat het vlees bruint zonder vocht los te laten. De saus is bewust compact gehouden: oestersaus geeft body en umami, vissaus diepte, lichte en donkere soja zout en kleur, palmsuiker rondheid en een klein beetje water zorgt dat de saus zich dun om het vlees kan verdelen zonder stroperig of te zout te worden. Holy basil gaat pas van het vuur door het gerecht, zodat het peperige, kruidige aroma behouden blijft. Het krokante kai dao voegt vet, textuur en een vloeibare dooier toe, terwijl prik nam pla zout, zuur en chili apart houdt zodat iedere gast de intensiteit zelf kan sturen."
         }
       ],
-      "steps_full": [
-        {
-          "number": 1,
-          "section": "Mise-en-place",
-          "description": "Vlees in reepjes van 4×1cm snijden. Grondig droogdeppen — vochtig vlees stoomt in plaats van searren. Knoflook, vogeltjespepers en sjalotten in een vijzel stampen tot een grove, ruwe pasta — niet blenderen, te fijn en te waterig. Sausmengsel klaarmaken: oestersaus, lichte sojasaus, donkere sojasaus, vissaus en palmsuiker mengen. Chili-limoenrelish mengen: vissaus, limoensap, palmsuiker, pepers en knoflook — zout, zuur, zoet en scherp moeten alle vier duidelijk aanwezig zijn. Koud wegzetten."
-        },
-        {
-          "number": 2,
-          "section": "Wok hei",
-          "description": "Wok op hoogst mogelijke vuur. 3–4 minuten leeg verwarmen tot de wok rookt. Olie erin, opnieuw wachten tot de olie rookt. Knoflook-peper-pasta toevoegen — 15–20 seconden roerbakken. De geur explodeert."
-        },
-        {
-          "number": 3,
-          "section": "Vlees in twee batches",
-          "description": "Eerste batch (250–300g): vlees in de wok. Niet roeren de eerste 30 seconden — laten contacteren. Dan kort omscheppen, totaal 60–75 seconden. Uitscheppen. Wok opnieuw op temperatuur, tweede batch hetzelfde. Beide batches terug. Sausmengsel erbij. 30–45 seconden al roerend op hoogste vuur tot de saus inkookt en het vlees glanst."
-        },
-        {
-          "number": 4,
-          "section": "Heilige basilicum",
-          "description": "Vuur uit. Heilige basilicum in één keer erin. Omscheppen tot de blaadjes net beginnen te slinken — 20–30 seconden. Niet langer, het aroma verdwijnt snel."
-        },
-        {
-          "number": 5,
-          "section": "Kai dao (krokant Thais gebakken ei)",
-          "description": "Aparte koekenpan op hoog vuur. 4–6 el olie — royaal, meer dan normaal. Wachten tot de olie heet is en licht rookt. Ei erin. 45–60 seconden bakken zonder deksel. Het eiwit schuimt en krijgt krokante bruine randjes. De dooier blijft vloeibaar. Niet omdraaien. Uit de pan op keukenpapier, licht zout."
-        },
-        {
-          "number": 6,
-          "section": "Opbouwen",
-          "description": "Warme diepe borden. Jasmijnrijst compact opgeschept — quenelle of kommetje aan de zijkant. Pad kaprao ernaast of eroverheen. Kai dao bovenop — krokante witte randjes zichtbaar, dooier goudgeel. Chili-limoenrelish in een klein apart kommetje. Limoenpartje."
-        }
-      ],
-      "tips": [
-        "Vlees droogdeppen is niet optioneel: Elk druppeltje vocht verlaagt de pantemperatuur en maakt het verschil tussen searren en stomen.",
-        "Twee batches: Meer dan 300g per keer koelt de wok te snel. Geduld — twee batches geven wok hei, één grote batch geeft gestoofde reepjes.",
-        "Wok hei thuis: Verhit de wok 3–4 minuten leeg op het hoogste gas. Gebruik een carbon steel wok — warmt sneller op dan gietijzer. Kleine batches, voedsel droog, wok kantelen zodat de vlam de zijkant raakt.",
-        "Heilige basilicum vs. Thaise zoete basilicum: Holy basil (bai krapao) heeft een peperige, kruidnagel-achtige toon. Thaise zoete basilicum (bai horapa) is zoeter — minder authentiek maar goed beschikbaar. Nooit gewone Italiaanse basilicum.",
-        "Chili-limoenrelish is verplicht: Dit kleine bakje is de Thaise manier om het gerecht naar eigen smaak af te stellen. Elke hap mag een dipje.",
-        "Vissaus in de saus én in de relish: In de saus geeft het umami-diepte die oestersaus alleen niet geeft. In de relish geeft het de zoutzure Thaise basisbalans.",
-        "Palmsuiker: Geeft rondere zoetheid dan kristalsuiker. Bij de toko. Bruine basterdsuiker is het beste alternatief.",
-        "Blue swimming crab curry als Nusara-variant: Ton serveert naast zijn pad kaprao een kleine portie milde krabcurry. Een klein lepeltje rode curry met krabvlees naast het bord als luxe accent."
-      ],
-      "tips_full": [
-        "Vlees droogdeppen is niet optioneel: Elk druppeltje vocht verlaagt de pantemperatuur en maakt het verschil tussen searren en stomen.",
-        "Twee batches: Meer dan 300g per keer koelt de wok te snel. Geduld — twee batches geven wok hei, één grote batch geeft gestoofde reepjes.",
-        "Wok hei thuis: Verhit de wok 3–4 minuten leeg op het hoogste gas. Gebruik een carbon steel wok — warmt sneller op dan gietijzer. Kleine batches, voedsel droog, wok kantelen zodat de vlam de zijkant raakt.",
-        "Heilige basilicum vs. Thaise zoete basilicum: Holy basil (bai krapao) heeft een peperige, kruidnagel-achtige toon. Thaise zoete basilicum (bai horapa) is zoeter — minder authentiek maar goed beschikbaar. Nooit gewone Italiaanse basilicum.",
-        "Chili-limoenrelish is verplicht: Dit kleine bakje is de Thaise manier om het gerecht naar eigen smaak af te stellen. Elke hap mag een dipje.",
-        "Vissaus in de saus én in de relish: In de saus geeft het umami-diepte die oestersaus alleen niet geeft. In de relish geeft het de zoutzure Thaise basisbalans.",
-        "Palmsuiker: Geeft rondere zoetheid dan kristalsuiker. Bij de toko. Bruine basterdsuiker is het beste alternatief.",
-        "Blue swimming crab curry als Nusara-variant: Ton serveert naast zijn pad kaprao een kleine portie milde krabcurry. Een klein lepeltje rode curry met krabvlees naast het bord als luxe accent."
-      ],
-      "opmaak_presentatie": "Warme diepe borden. Rijst compact naast de pad kaprao — niet erdoorheen gemengd. Het vlees donkerbruin en glanzend. Grote groene basilicumblaadjes zichtbaar. Het kai dao-ei bovenop met krokante witte randen en lopende goudgele dooier. Limoenpartje. Relish-kommetje naast het bord.",
+      "chef_tip": "Mise-en-place: Dep het vlees droog; elk druppeltje vocht verlaagt de pantemperatuur en maakt het verschil tussen bakken en stomen. Zet alles klaar voordat de wok heet wordt: saus gemengd, basilicum geplukt, rijst warm en de eieren gebakken, want het wokken zelf duurt maar enkele minuten.\n\nTechniek: Twee batches. Meer dan circa 250–300 g per keer koelt de wok te snel. Twee batches geven een mooie bruining, één grote batch geeft gestoofde reepjes.\n\nTechniek: Wok hei thuis. Laat de carbonstalen wok zeer heet worden, maar laat de olie niet langdurig roken. Kleine batches, droog voedsel en de wok iets kantelen zodat de vlam de zijkant raakt.\n\nTechniek: Kai dao. Breek het ei eerst in een kommetje en laat het voorzichtig in de hete olie glijden; dat voorkomt spatten. Lepel de hete olie alleen over het eiwit, zodat de dooier vloeibaar blijft.\n\nPresentatie: Prik nam pla is een apart bijgerecht voor de rijst en het kai dao, geen dip voor elke hap. Hij is op kamertemperatuur het lekkerst. Houd de portie rijst compact en leg het ei bovenop, zodat de krokante randen zichtbaar blijven.\n\nVariatie: Een Nusara-geïnspireerde luxe variant is een klein lepeltje milde krabcurry naast het bord. Dit is een luxe accent en geen onderdeel van een klassieke pad kaprao.\n\nAlternatief: Holy basil (bai krapao) heeft een peperige, kruidnagelachtige toon. Thaise zoete basilicum (bai horapa) is zoeter en makkelijker te vinden, maar minder authentiek. Gebruik nooit gewone Italiaanse basilicum.\n\nAlternatief: Palmsuiker geeft een rondere zoetheid dan kristalsuiker. Bruine basterdsuiker is het beste alternatief.",
+      "wine": {
+        "naam": "Chenin Blanc Demi-Sec — Vouvray of Montlouis, Loire, Frankrijk",
+        "druif": "Chenin Blanc",
+        "toelichting": "Aroma: Kweepeer, gele appel, witte perzik, citrus en een lichte honingtoon. Smaak en structuur: Fris en sappig, met stevige zuren, middelvolle body en een subtiel restzoet. Het lichte restzoet tempert chili en vissaus, terwijl de frisse zuren door het vet van entrecote en kai dao snijden. Kweepeer en honing sluiten mooi aan op palmsuiker en de warme woksmaken. Serveer op 9–10 °C.",
+        "alternatief": "Gewürztraminer d'Alsace, of een soepele Pinot Gris uit de Elzas"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Riesling Kabinett Feinherb of Spätlese — Mosel of Rheingau, Duitsland",
-          "druif": "Riesling",
-          "smaakprofiel": "Fris, licht off-dry, leisteen-mineraliteit, limoen, witte perzik, lichte restzoetheid",
-          "omschrijving": "Off-dry Riesling — de lichte zoetheid tempert de vogeltjespepers en vissaus.",
-          "waarom_werkt_dit": "Pad kaprao is heet, zout, zoet en aromatisch tegelijk. De restzoetheid tempert de chili. De hoge zuren snijden door oestersaus en palmsuiker. De leisteen-mineraliteit sluit aan op vissaus en basilicum. Droge wijn wordt hier te hard. Serveer op 9–11°C."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Gewurztraminer d'Alsace AOC — Alsace, Frankrijk",
-          "druif": "Gewurztraminer",
-          "smaakprofiel": "Droog tot licht rond, lychee, rooswater, gember, specerijachtig, floraal",
-          "omschrijving": "Aromatisch en specerijachtig — sterk genoeg voor de intense wok-smaken.",
-          "waarom_werkt_dit": "De gemberachtige kruidigheid spiegelt de vogeltjespepers en knoflook. De lychee-toon sluit aan op de heilige basilicum. Serveer op 10–12°C."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Chenin Blanc Demi-sec — Loire, Frankrijk (Vouvray of Montlouis)",
+          "naam": "Chenin Blanc Demi-Sec — Vouvray of Montlouis, Loire, Frankrijk",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, lichte honingtoon, subtiel restzoet, goede zuren",
-          "omschrijving": "De honingtoon tempert de chili, de zuren houden het fris.",
-          "waarom_werkt_dit": "De lichte honingtoon vangt de palmsuiker-viscositeit op. De frisse zuren snijden door oestersaus en krokant ei-vet. Serveer op 10–12°C."
+          "smaakprofiel": "Chenin Blanc met een subtiel restzoet, stevige zuren en middelvolle body.",
+          "omschrijving": "Aroma: Kweepeer, gele appel, witte perzik, citrus en een lichte honingtoon. Smaak en structuur: Fris en sappig, met stevige zuren, middelvolle body en een subtiel restzoet.",
+          "waarom_werkt_dit": "Het lichte restzoet tempert chili en vissaus, terwijl de frisse zuren door het vet van entrecote en kai dao snijden. Kweepeer en honing sluiten mooi aan op palmsuiker en de warme woksmaken.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Gewürztraminer d'Alsace — Elzas, Frankrijk",
+          "druif": "Gewürztraminer",
+          "smaakprofiel": "Aromatische, brede en zachte Gewürztraminer in een droge tot licht ronde stijl. Kies geen zoete Vendange Tardive.",
+          "omschrijving": "Aroma: Lychee, roos, rijpe perzik, gember en specerijen. Smaak en structuur: Aromatisch, breed en zacht, droog tot licht rond.",
+          "waarom_werkt_dit": "De intense aromatiek blijft overeind naast chili, knoflook en holy basil. De kruidige en florale tonen sluiten goed aan op het Thaise karakter van het gerecht.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Gris — Elzas, Frankrijk",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Ronde, soepele Pinot Gris met gematigde zuren en een middelvolle structuur.",
+          "omschrijving": "Aroma: Peer, gele appel, perzik en zachte specerijen. Smaak en structuur: Rond, soepel en middelvol met gematigde zuren.",
+          "waarom_werkt_dit": "De wijn heeft voldoende fruit en body voor rund, oestersaus en ei, maar is zacht genoeg om de chili niet harder te laten smaken. Breed toegankelijk en makkelijk te vinden.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         }
       ],
-      "wine": {
-        "naam": "Riesling Kabinett Feinherb of Spätlese — Mosel of Rheingau, Duitsland",
-        "druif": "Riesling",
-        "toelichting": "Off-dry Riesling is de sterkste keuze bij pad kaprao: de restzoetheid tempert de vogeltjespepers, de hoge zuren snijden door oestersaus en palmsuiker, en de leisteen-mineraliteit sluit aan op vissaus en heilige basilicum. Serveer op 9–11°C.",
-        "alternatief": "Gewurztraminer d'Alsace AOC of Chenin Blanc Demi-sec (Vouvray)"
-      },
       "metadata": {
-        "bereidingstijd": "35 min",
+        "bereidingstijd": "Circa 35 min",
         "porties": "4 personen",
         "type_gerecht": "Hoofdgerecht / luxe comfortfood",
         "niveau": "Makkelijk — maar vereist hoge temperatuur en snelheid"
       },
-      "source_recipe_number": 127,
-      "full_title_docx": "127. PAD KAPRAO VAN ENTRECOTE MET KROKANT EI, JASMIJNRIJST EN CHILI-LIMOENRELISH — NUSARA-STIJL",
-      "chef_tip": "Vlees droogdeppen is niet optioneel: Elk druppeltje vocht verlaagt de pantemperatuur en maakt het verschil tussen searren en stomen.\n\nTwee batches: Meer dan 300g per keer koelt de wok te snel. Geduld — twee batches geven wok hei, één grote batch geeft gestoofde reepjes.\n\nWok hei thuis: Verhit de wok 3–4 minuten leeg op het hoogste gas. Gebruik een carbon steel wok — warmt sneller op dan gietijzer. Kleine batches, voedsel droog, wok kantelen zodat de vlam de zijkant raakt.\n\nHeilige basilicum vs. Thaise zoete basilicum: Holy basil (bai krapao) heeft een peperige, kruidnagel-achtige toon. Thaise zoete basilicum (bai horapa) is zoeter — minder authentiek maar goed beschikbaar. Nooit gewone Italiaanse basilicum.\n\nChili-limoenrelish is verplicht: Dit kleine bakje is de Thaise manier om het gerecht naar eigen smaak af te stellen. Elke hap mag een dipje.\n\nVissaus in de saus én in de relish: In de saus geeft het umami-diepte die oestersaus alleen niet geeft. In de relish geeft het de zoutzure Thaise basisbalans.\n\nPalmsuiker: Geeft rondere zoetheid dan kristalsuiker. Bij de toko. Bruine basterdsuiker is het beste alternatief.\n\nBlue swimming crab curry als Nusara-variant: Ton serveert naast zijn pad kaprao een kleine portie milde krabcurry. Een klein lepeltje rode curry met krabvlees naast het bord als luxe accent."
+      "source_recipe_number": 127
     },
     {
       "title": "Mosselparfait in de Schelp met Bokkom-Boter, Zeekraal en Zuurdesem — Wolfgat-Stijl",
@@ -46245,7 +46067,7 @@
       "title": "Pizza Tonda Romana Scrocchiarella – flinterdun en écht krokant",
       "slug": "flinterdunne-krokante-pizza-scrocchiarella-seu-tac",
       "location": "Rome, Italië",
-      "time": "24 uur koude fermentatie + 2–3 uur op temperatuur komen + circa 45 min actief (exclusief bakken) + 3–5 min bakken per pizza",
+      "time": "Actief circa 45 min (exclusief bakken) · koude fermentatie 20–24 uur · op temperatuur komen 2–3 uur · bakken 3–5 min per pizza (circa 20 min voor 4 pizza's) · totaal circa 29 uur",
       "servings": "4 pizza's van circa 34 cm",
       "difficulty": "Gemiddeld",
       "keuken": "Italiaans",
@@ -46359,7 +46181,7 @@
           "description": "De Romeinse scrocchiarella onderscheidt zich van een Napolitaanse pizza door een dunne, droge en bros-krokante structuur. Een laag deeggewicht: circa 179 g op 34 cm geeft een uitzonderlijk dunne bodem. Vocht ontsnapt daardoor gemakkelijker en de bodem wordt sneller gelijkmatig gaar. 57% hydratatie en semola: dit is een balans tussen verwerkbaarheid en een relatief droge structuur. De 18% semola rimacinata geeft een uitgesprokener tarwesmaak en een andere beet. 20–24 uur koude fermentatie: ontwikkelt smaak en helpt het deeg ontspannen. Weinig vocht in de topping: een beperkte hoeveelheid tomatensaus en goed uitgelekte mozzarella voorkomen onnodige vochtbelasting. Twee bakfasen bij gecontroleerde hitte: de bodem krijgt de tijd om te drogen en te kleuren, zonder dat alleen de buitenkant hard wordt. Hard is niet hetzelfde als krokant: het doel is een bodem die bros breekt, niet een taaie of leerachtige structuur. Let op: de tweefasenmethode is een eigen optimalisatie voor de pizzaoven thuis, geen universele of uitsluitend authentieke Romeinse bakmethode. Beschouw de tijden en temperaturen als startwaarden en stem ze af op uw oven. Dit is een eigen recept van Het Proeven, technisch geïnspireerd op de Romeinse pizzatraditie, waaronder Pier Daniele Seu (TAC) en Francesco Pompilio."
         }
       ],
-      "chef_tip": "Mise-en-place: Bloemkeuze. Kies tipo 0 met W 240–280. Extreem sterke pizzabloem is voor deze dunne stijl niet noodzakelijk.\n\nMise-en-place: Gist nauwkeurig afwegen. Gebruik een precisieweegschaal die 0,1 g of nauwkeuriger kan meten.\n\nMise-en-place: Deeggewicht. Weeg iedere bol afzonderlijk op circa 179 g. Dit is essentieel voor een gelijkmatige dikte.\n\nTechniek: Uitrollen. Rol vanuit het midden naar buiten. Laat terugverend deeg 10 minuten ontspannen.\n\nTechniek: Tomatensaus. Laat de tomaten goed uitlekken. Een geconcentreerde saus geeft smaak zonder de bodem te doorweken.\n\nTechniek: Mozzarella. Gebruik goed uitgelekte fior di latte, fijn verdeeld over de pizza.\n\nTechniek: Oventemperatuur. Meet de vloer met een infraroodthermometer. Vertrouw niet uitsluitend op de temperatuurinstelling.\n\nTechniek: Proefpizza. Bak de eerste bodem zonder topping om de krokantheid en de warmteverdeling te controleren.\n\nPresentatie: Rooster. Laat de pizza na het bakken kort op een rooster rusten om condensvorming onder de bodem te voorkomen, snijd in punten en serveer direct.\n\nVariatie: Afstemming. Vergelijk bij de eerste tests een vloertemperatuur van 300 °C met 320 °C en pas de baktijd aan op basis van het resultaat.\n\nAlternatief: Ook mogelijk: scrocchiarella-deeg op dezelfde dag (4–6 uur). Het hoofdrecept met 24 uur fermentatie blijft de aanbevolen methode. Gebruik dezelfde hoeveelheden als bij het deeg hierboven, met twee verschillen: 251 g water van circa 22 °C en 2 g droge instantgist in plaats van 0,6 g. Stap 1, mengen: meng 360 g tipo 0 bloem, 80 g semola en 2 g gist met 225 g water en laat 20 minuten afgedekt rusten. Stap 2, kneden: los 11 g zout op in 26 g water en kneed 5 minuten; voeg 13 g olijfolie toe en kneed nog 3–5 minuten. Stap 3, eerste rijs: laat 1,5–2 uur rijzen bij 22–24 °C, tot het deeg 50–75% in volume is toegenomen. Stap 4, opbollen: verdeel in 4 bollen van circa 179 g en leg ze in licht ingevette bakjes. Stap 5, tweede rijs: laat nog 2–3 uur rijzen bij 22–24 °C. Stap 6: rol uit en bak zoals in het hoofdrecept, met een vloertemperatuur van circa 320 °C. Waarom dit werkt: meer gist versnelt de fermentatie, terwijl de verhoudingen vrijwel gelijk blijven. Het verschil is dat het deeg minder aromatische diepte krijgt dan de versie van 24 uur.\n\nAlternatief: Rijstijd bij de dagversie. Bij 20–21 °C kan de totale rijstijd oplopen tot 6–7 uur, bij 24 °C gaat het sneller. Beoordeel het deeg op zachtheid en volume, niet alleen op de klok.",
+      "chef_tip": "Mise-en-place: Bloemkeuze. Kies tipo 0 met W 240–280. Extreem sterke pizzabloem is voor deze dunne stijl niet noodzakelijk.\n\nMise-en-place: Gist nauwkeurig afwegen. Gebruik een precisieweegschaal die 0,1 g of nauwkeuriger kan meten.\n\nMise-en-place: Deeggewicht. Weeg iedere bol afzonderlijk op circa 179 g. Dit is essentieel voor een gelijkmatige dikte.\n\nTechniek: Uitrollen. Rol vanuit het midden naar buiten. Laat terugverend deeg 10 minuten ontspannen.\n\nTechniek: Tomatensaus. Laat de tomaten goed uitlekken. Een geconcentreerde saus geeft smaak zonder de bodem te doorweken.\n\nTechniek: Mozzarella. Gebruik goed uitgelekte fior di latte, fijn verdeeld over de pizza.\n\nTechniek: Oventemperatuur. Meet de vloer met een infraroodthermometer. Vertrouw niet uitsluitend op de temperatuurinstelling.\n\nTechniek: Proefpizza. Bak de eerste bodem zonder topping om de krokantheid en de warmteverdeling te controleren.\n\nPresentatie: Rooster. Laat de pizza na het bakken kort op een rooster rusten om condensvorming onder de bodem te voorkomen, snijd in punten en serveer direct.\n\nVariatie: Afstemming. Vergelijk bij de eerste tests een vloertemperatuur van 300 °C met 320 °C en pas de baktijd aan op basis van het resultaat.\n\nDeeg op dezelfde dag (4–6 uur): Het hoofdrecept met 24 uur fermentatie blijft de aanbevolen methode. Gebruik dezelfde hoeveelheden als bij het deeg hierboven, met twee verschillen: 251 g water van circa 22 °C en 2 g droge instantgist in plaats van 0,6 g. Stap 1, mengen: meng 360 g tipo 0 bloem, 80 g semola en 2 g gist met 225 g water en laat 20 minuten afgedekt rusten. Stap 2, kneden: los 11 g zout op in 26 g water en kneed 5 minuten; voeg 13 g olijfolie toe en kneed nog 3–5 minuten. Stap 3, eerste rijs: laat 1,5–2 uur rijzen bij 22–24 °C, tot het deeg 50–75% in volume is toegenomen. Stap 4, opbollen: verdeel in 4 bollen van circa 179 g en leg ze in licht ingevette bakjes. Stap 5, tweede rijs: laat nog 2–3 uur rijzen bij 22–24 °C. Stap 6: rol uit en bak zoals in het hoofdrecept, met een vloertemperatuur van circa 320 °C. Waarom dit werkt: meer gist versnelt de fermentatie, terwijl de verhoudingen vrijwel gelijk blijven. Het verschil is dat het deeg minder aromatische diepte krijgt dan de versie van 24 uur.\n\nAlternatief: Rijstijd bij de dagversie. Bij 20–21 °C kan de totale rijstijd oplopen tot 6–7 uur, bij 24 °C gaat het sneller. Beoordeel het deeg op zachtheid en volume, niet alleen op de klok.",
       "wine": {
         "naam": "Verdicchio dei Castelli di Jesi Classico Superiore — Le Marche, Italië",
         "druif": "Verdicchio",
@@ -46396,7 +46218,7 @@
         }
       ],
       "metadata": {
-        "bereidingstijd": "Circa 45 min actief, exclusief bakken (plus 24 uur koude fermentatie)",
+        "bereidingstijd": "Actief circa 45 min, exclusief bakken (plus 20–24 uur koude fermentatie en 2–3 uur op temperatuur komen)",
         "porties": "4 pizza's van circa 34 cm",
         "type_gerecht": "Pizza / hoofdgerecht",
         "niveau": "Gemiddeld"
@@ -83283,6 +83105,378 @@
           "omschrijving": "Geur: Kers en pruim, met zachte tonen van rode en donkere bessen. Afhankelijk van de houtopvoeding kunnen cacao en een lichte toasttoon volgen. Zoek voor dit gerecht een uitvoering waarin het fruit duidelijker aanwezig is dan vanille of karamel. Smaak en structuur: Een zachte aanzet, sappig fruit en milde tannines. De wijn is middelvol en afgerond, met genoeg frisheid om niet log te worden. Hij hoort gemakkelijk door te drinken en een schone, fruitige afdronk te hebben.",
           "waarom_werkt_dit": "Merlot begeleidt de quesadilla zonder zelf veel aandacht op te eisen. Zijn zachte structuur laat de ossenhaas herkenbaar, het rijpe fruit sluit aan bij paprika en ui en zijn middelvolle karakter kan de kaas dragen. Bij de nieuwe tomatensalsa is voldoende frisheid belangrijk: een vlakke, jamachtige Merlot zou naast de tomaat snel zwaar smaken. Dit is de toegankelijke keuze wanneer je een soepele rode wijn zonder veel stroefheid wilt.",
           "serveertemperatuur": "Serveer op 15–16 °C, zodat hij sappig blijft en niet warm of log overkomt."
+        }
+      ]
+    },
+    {
+      "title": "Miang kham — Thaise bladhapjes met geroosterde kokos, limoen, gember en palmsuikersaus",
+      "slug": "miang-kham-thaise-bladhapjes",
+      "location": "Thailand",
+      "time": "Circa 45 min (30 min voorbereiding + 15 min bereiding)",
+      "servings": "4 personen (8 hapjes, 2 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/miang-kham-thaise-bladhapjes.jpg",
+      "short_description": "Thaise bladhapjes met knapperige geroosterde kokos, pinda en garnaaltjes, scherpe gember, sjalot en chili, limoen met schil en een donkere, stroperige palmsuikersaus.",
+      "description": "Miang kham betekent letterlijk een hap in een blad: één blad, één hap, alles tegelijk. Knapperige geroosterde kokos, pinda en garnaaltjes, de scherpte van gember, sjalot en chili, een stukje limoen mét schil, en daaroverheen een donkere, stroperige saus van palmsuiker, galanga en garnalenpasta. Je stopt het blad in je mond en alles breekt tegelijk open: zoet, zout, zuur, pittig en een beetje peperig.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de hapjes",
+          "ingredients": [
+            {
+              "name": "grote bai cha plu-bladeren (8 + 2 reserve)",
+              "amount": "10"
+            },
+            {
+              "name": "ongezoete kokosvlokken",
+              "amount": "25 g"
+            },
+            {
+              "name": "ongezouten pinda's",
+              "amount": "20 g"
+            },
+            {
+              "name": "kleine gedroogde garnalen",
+              "amount": "15 g"
+            },
+            {
+              "name": "limoen met dunne schil",
+              "amount": "1"
+            },
+            {
+              "name": "jonge verse gember",
+              "amount": "15 g"
+            },
+            {
+              "name": "sjalot",
+              "amount": "20 g"
+            },
+            {
+              "name": "kleine rode rawit",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de miangsaus",
+          "ingredients": [
+            {
+              "name": "palmsuiker",
+              "amount": "35 g"
+            },
+            {
+              "name": "water",
+              "amount": "25 ml"
+            },
+            {
+              "name": "vissaus",
+              "amount": "7 ml"
+            },
+            {
+              "name": "kapi (Thaise garnalenpasta)",
+              "amount": "4 g"
+            },
+            {
+              "name": "verse galanga",
+              "amount": "4 g"
+            },
+            {
+              "name": "jonge gember",
+              "amount": "3 g"
+            },
+            {
+              "name": "citroengras, alleen het onderste, dikke deel",
+              "amount": "4 g"
+            },
+            {
+              "name": "geroosterde kokos (uit de 25 g kokosvlokken hierboven)",
+              "amount": "7 g"
+            },
+            {
+              "name": "geroosterde pinda (uit de 20 g pinda's hierboven)",
+              "amount": "7 g"
+            },
+            {
+              "name": "gedroogde garnaal (uit de 15 g garnalen hierboven)",
+              "amount": "5 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Rooster de kokos",
+          "description": "Rooster de kokosvlokken 4–6 minuten in een droge pan op middellaag vuur, regelmatig omscheppend, tot ze diep goudbruin zijn en sterk geuren, zonder te verbranden. Weeg 18 g af voor de hapjes en 7 g voor de saus. Laat volledig afkoelen."
+        },
+        {
+          "action": "Rooster de pinda's",
+          "description": "Rooster de pinda's 3–5 minuten in een droge pan tot ze licht goudbruin zijn. Laat afkoelen en houd 13 g grof gehakt voor de hapjes en 7 g voor de saus."
+        },
+        {
+          "action": "Bereid de garnalen",
+          "description": "Rooster de gedroogde garnalen in een droge pan tot ze knapperig zijn. Zijn ze erg hard of zout, spoel ze dan kort af, week ze 5 minuten in lauwwarm water en dep ze zeer goed droog voor het roosteren. Houd 10 g voor de hapjes en 5 g voor de saus. Hak grote garnalen fijner."
+        },
+        {
+          "action": "Rooster de aromaten en de kapi",
+          "description": "Snijd galanga, gember en citroengras zeer fijn en rooster ze ongeveer 1 minuut in een droge kleine pan. Voeg de kapi toe en verwarm nog 30–45 seconden. Dit haalt de rauwe scherpte weg en verdiept de smaak."
+        },
+        {
+          "action": "Maal de droge ingrediënten",
+          "description": "Maal of vijzel de 7 g kokos, 7 g pinda, 5 g garnaal en de geroosterde aromaten tot een vrij fijn kruim. Het hoeft geen glad poeder te worden."
+        },
+        {
+          "action": "Kook de saus",
+          "description": "Verwarm palmsuiker, water, vissaus en de geroosterde kapi rustig in een kleine steelpan tot de suiker is opgelost. Voeg het gemalen mengsel toe en laat 4–6 minuten zacht inkoken, regelmatig roerend. De saus moet bij afkoelen een dunne, kleverige siroop worden, niet tot karameldikte. Haal van het vuur en laat afkoelen tot kamertemperatuur."
+        },
+        {
+          "action": "Snijd de verse componenten",
+          "description": "Wees heel precies: dit is wat de hap maakt of breekt. Limoen: was hem goed en snijd hem met schil en al in blokjes van ongeveer 4 mm. Is de schil dik, rasp dan het groene deel fijn, haal het witte weg en snijd alleen het vruchtvlees; meng met de rasp. Gember: schillen en snijden in blokjes van 3–4 mm. Sjalot: blokjes van 3–4 mm. Rawit: zeer fijn."
+        },
+        {
+          "action": "Maak de bladeren klaar",
+          "description": "Was de bladeren voorzichtig, dep ze droog en verwijder indien nodig het hardste stukje steel. Leg elk blad met de glanzende kant naar beneden en vorm er met je vingers een klein kommetje van."
+        },
+        {
+          "action": "Bouw de hapjes",
+          "description": "Leg per blad: ½ tl geroosterde kokos, 1–2 pinda's, een snufje garnaal, 2–3 blokjes limoen, ½ tl gember, ½ tl sjalot, 2–4 flintertjes rawit en ½–¾ tl saus. Niet te veel van elk onderdeel: het moet in één hap kunnen. De hoeveelheden zijn ruim bemeten; wat overblijft zet je in schaaltjes op tafel."
+        },
+        {
+          "action": "Serveer",
+          "description": "Serveer direct, 2 per persoon, op een koel bord. Leg de hapjes in een rij of een waaier, zodat het diepgroene blad en de kleuren van de vulling (wit, paars, geelgoud, rood en groen) opvallen. Eén stipje saus op het bord. Niet meer."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Elke component heeft een eigen taak. Het blad geeft een licht peperig, groen aroma. De limoen met schil geeft zuur, etherische citrusolie en een klein bittertje. Gember geeft warme scherpte, sjalot rauwe zoetheid en de rawit directe hitte. Geroosterde kokos geeft nootachtige diepte, de pinda crunch en de gedroogde garnaal zout en umami. De saus verbindt alles: palmsuiker geeft karamelzoet, vissaus en kapi zout en umami, en de gemalen kokos, pinda en garnaal geven body. Niets mag één smaak domineren, dat is de balans die het gerecht draagt."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Zet alles klaar voor je begint, want de hapjes bouw je in een paar minuten op. Rooster de kokos, pinda's en garnalen, laat ze volledig afkoelen (warm maken ze het blad slap) en weeg ze daarna af in kleine kommetjes. Maak de saus en laat hem op kamertemperatuur komen; hij kan ook 1–2 dagen van tevoren, afgedekt in de koelkast, waarna je hem zo nodig met 1–2 tl warm water losroert. Snijd de verse onderdelen (limoen, gember, sjalot, rawit) als laatste, dezelfde dag, en houd ze gescheiden. Leg de bladeren afgedekt met een vochtig doekje in de koelkast en zet het serveerbord in de koelkast of vriezer. Bouw de hapjes pas vlak voor het serveren op.\n\nTechniek: Snijd alles heel klein, 3–4 mm, en rooster de kokos diep goudbruin. Precies dat bepaalt of de hap in één keer opengaat.\n\nTechniek: Kapi is krachtig. 4 g is voor acht hapjes voldoende. Meer maakt de saus te dominant en te zout.\n\nPresentatie: Leg de hapjes in een rij of waaier op een donker keramisch bord, zodat het diepgroene blad en de kleuren van de vulling opvallen. Eén stipje saus op het bord. Niet meer.\n\nPresentatie: Geen extra sauzen. Geen sweet chili, sriracha of pindasaus erbij. De miangsaus bevat al wat het gerecht nodig heeft.\n\nVariatie: Meer pit. Zet extra fijngesneden rawit apart op tafel. Maak de hoofdversie niet pittiger.\n\nVariatie: Vegetarisch. Laat de gedroogde garnalen en de kapi weg. Vissaus is niet vegetarisch: gebruik daarvoor een vegetarische vervanger en proef of de saus voldoende zout en umami heeft.\n\nVariatie: Voor een groter gezelschap. Maak 20 blaadjes (het recept ×2,5) en zet alle onderdelen in schaaltjes op een groot bord, zodat iedereen zelf vult. Dat is de traditionele manier.\n\nAlternatief: Geen bai cha plu? Vraag bij de toko naar cha plu, bai cha plu, la lot of wild betel leaf. Gebruik geen gewone betelbladeren (bai plu) die bedoeld zijn om te kauwen. Niet te vinden? Gebruik witlofblaadjes, jonge spinazie of kleine stevige slablaadjes. De smaak is anders, maar de hap werkt.",
+      "wine": {
+        "naam": "Riesling Kabinett feinherb — Mosel, Duitsland",
+        "druif": "Riesling",
+        "toelichting": "Aroma: Perzik, limoen, groene appel en lichte mineraliteit. Smaak en structuur: Fris, licht en met een vleugje restzoet. Het restzoet kalmeert de chili en past bij de palmsuikersaus, en de zuren houden de zoute, zure en pittige elementen fris. De lage alcohol laat de rawit niet harder branden. Serveer op 8–10 °C.",
+        "alternatief": "Chenin Blanc uit Swartland of Stellenbosch, of een Grüner Veltliner uit Oostenrijk"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Riesling Kabinett feinherb — Mosel, Duitsland",
+          "druif": "Riesling",
+          "smaakprofiel": "Lichte, levendige Riesling met een vleugje restzoet, hoge zuren en weinig alcohol.",
+          "omschrijving": "Aroma: Perzik, limoen, groene appel en lichte mineraliteit. Smaak en structuur: Fris, licht en met een vleugje restzoet.",
+          "waarom_werkt_dit": "Het restzoet kalmeert de chili en past bij de palmsuikersaus, en de zuren houden de zoute, zure en pittige elementen fris. De lage alcohol laat de rawit niet harder branden.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chenin Blanc — Swartland of Stellenbosch, Zuid-Afrika",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Droge tot licht ronde Chenin Blanc met rijp fruit en frisse zuren.",
+          "omschrijving": "Aroma: Kweepeer, gele appel, witte perzik, citrus en een licht honingachtig aroma. Smaak en structuur: Droog tot licht rond, met frisse zuren, rijp fruit en voldoende body.",
+          "waarom_werkt_dit": "Het fruit vangt chili, palmsuiker en gember op, terwijl de zuren fris blijven bij kokos en pinda.",
+          "serveertemperatuur": "Serveer op 8–9 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Grüner Veltliner — Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Droge, strakke en levendige witte wijn met een kruidige afdronk.",
+          "omschrijving": "Aroma: Groene appel, limoen, verse kruiden en witte peper. Smaak en structuur: Droog, strak en levendig, met frisse zuren en een kruidige afdronk.",
+          "waarom_werkt_dit": "De kruidigheid sluit aan op gember, rawit en het groene karakter van het blad, en de frisse structuur houdt de hap licht ondanks kokos, pinda en palmsuiker.",
+          "serveertemperatuur": "Serveer op 8–9 °C"
+        }
+      ]
+    },
+    {
+      "title": "Gai hor bai toey — Thaise kip in pandanblad met gember-sesamdip",
+      "slug": "gai-hor-bai-toey-thaise-pandan-kip",
+      "location": "Thailand",
+      "time": "Circa 65 min (40 min voorbereiding + 25 min bereiding), plus 2–4 uur marineren",
+      "servings": "4 personen (16 pakketjes, 4 per persoon)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Thais",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/gai-hor-bai-toey-thaise-pandan-kip.jpg",
+      "short_description": "Sappige kipdij in een lang pandanblad, eerst gestoomd en dan kort gefrituurd, met een zoete gember-sesamdip.",
+      "description": "Gai hor bai toey is het Thaise antwoord op het perfecte hapje: sappige kip, ingepakt in een lang groen pandanblad dat je zelf aan tafel openvouwt. Dan komt de geur je tegemoet, bloemig en zoet, en onder het blad zit kip met een donkere, plakkerige karamellaag. Het blad zelf eet je niet, dat is er voor de geur. Doop de kip in een zoete sojadip met sesam en je snapt waarom niemand bij één stopt.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de kip",
+          "ingredients": [
+            {
+              "name": "kipdijfilet, zonder vel, in 16 stukken van circa 30 g",
+              "amount": "500 g"
+            },
+            {
+              "name": "pandanbladeren, vers of diepvries en ontdooid",
+              "amount": "16–20"
+            },
+            {
+              "name": "neutrale frituurolie (minstens 5 cm hoog)",
+              "amount": "1 l"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de marinade",
+          "ingredients": [
+            {
+              "name": "korianderwortels (of 15 g onderste, dikke korianderstelen)",
+              "amount": "3"
+            },
+            {
+              "name": "tenen knoflook",
+              "amount": "4"
+            },
+            {
+              "name": "witte peperkorrels",
+              "amount": "1 tl"
+            },
+            {
+              "name": "oestersaus",
+              "amount": "25 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "10 ml"
+            },
+            {
+              "name": "vissaus",
+              "amount": "5 ml"
+            },
+            {
+              "name": "palmsuiker of lichtbruine basterdsuiker",
+              "amount": "12 g"
+            },
+            {
+              "name": "kokosroom",
+              "amount": "30 ml"
+            },
+            {
+              "name": "geroosterde sesamolie",
+              "amount": "5 ml"
+            },
+            {
+              "name": "maïzena",
+              "amount": "1½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de gember-sesamdip",
+          "ingredients": [
+            {
+              "name": "water",
+              "amount": "60 ml"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "35 ml"
+            },
+            {
+              "name": "zoete donkere sojasaus",
+              "amount": "15 ml"
+            },
+            {
+              "name": "palmsuiker",
+              "amount": "25 g"
+            },
+            {
+              "name": "verse gember, zeer fijn geraspt",
+              "amount": "10 g"
+            },
+            {
+              "name": "geroosterde sesamolie",
+              "amount": "5 ml"
+            },
+            {
+              "name": "geroosterd wit sesamzaad",
+              "amount": "10 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te serveren",
+          "ingredients": [
+            {
+              "name": "komkommer, in plakjes",
+              "amount": "½"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de marinade",
+          "description": "Stamp korianderwortel, knoflook en witte peperkorrels in een vijzel tot een fijne, geurige pasta. Roer de oestersaus, lichte soja, vissaus, palmsuiker, kokosroom, sesamolie en maïzena erdoor tot een gladde marinade."
+        },
+        {
+          "action": "Marineer de kip",
+          "description": "Dep de kip droog, schep hem door de marinade en masseer tot elk stukje bedekt is. Dek af en zet 2–4 uur in de koelkast. Niet langer dan 5–6 uur."
+        },
+        {
+          "action": "Maak de dip",
+          "description": "Breng water, lichte en donkere soja, palmsuiker en gember rustig aan de kook en laat 3–4 minuten zacht inkoken tot hij heel licht stroperig is. Haal van het vuur en roer de sesamolie en het sesamzaad erdoor. Laat afkoelen tot kamertemperatuur. De saus moet dun genoeg blijven om te dippen. Proef hem; is hij te zout, roer dan een scheutje water door."
+        },
+        {
+          "action": "Maak de bladeren soepel",
+          "description": "Was en droog de bladeren. Zijn verse bladeren stug, haal ze dan 5–10 seconden door heet water en droog opnieuw. Diepvriesbladeren laat je langzaam ontdooien en spoel je alleen met koud water, want ze zijn breekbaar."
+        },
+        {
+          "action": "Wikkel de pakketjes",
+          "description": "Laat de stukjes kip afdruipen. Vorm van een blad een losse lus, leg een stuk kip in het midden, vouw het blad stevig maar niet kneiterstrak eromheen en steek het uiteinde door de lus. Er mag een klein stukje kip zichtbaar blijven. Gebruik zo nodig een houten prikker. Maak zo 16 pakketjes."
+        },
+        {
+          "action": "Stoom",
+          "description": "Leg de pakketjes naast elkaar in een stoommand boven kokend water, dek af en stoom 7–8 minuten tot de kip bijna gaar is. Laat 3–4 minuten uitstomen en dep droog."
+        },
+        {
+          "action": "Frituur",
+          "description": "Verhit de olie tot 170–175 °C. Frituur 4–5 pakketjes tegelijk 1½–2 minuten, tot het blad donkerder en geurig is en de kip gaar is (74 °C in de kern). Controleer het eerste pakketje met een kernthermometer of snijd het open. Laat 1 minuut uitlekken op een rooster met keukenpapier eronder."
+        },
+        {
+          "action": "Serveer",
+          "description": "Serveer direct, 4 pakketjes per persoon, met de dip in een klein kommetje en komkommer erbij. Leg de pakketjes in rijen op een bord of een bananenblad. Aan tafel trekt iedereen het blad open en eet alleen de kip. Het blad zelf eet je niet."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Stomen laat de kip gaar worden in het blad en geeft het blad zijn geur af, zonder dat de marinade verbrandt. Het frituren daarna is maar kort: de suikers karamelliseren en het blad kleurt bruin met een lichte nootachtige toon. Kipdij blijft sappig in het blad, een beetje kokosroom en maïzena maken de marinade rond. De sam-kloe van korianderwortel, knoflook en witte peper is de klassieke Thaise basis. De dip blijft bewust eenvoudig en voegt alleen zout, zoet, gember en geroosterde sesam toe, zodat de pandan niet wordt weggedrukt."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Maak de marinade en marineer de kip 2–4 uur van tevoren, en maak de dip alvast. Je kunt de pakketjes ongeveer 2 uur van tevoren vouwen en afgedekt in de koelkast bewaren; haal ze 20 minuten voor het stomen eruit. Marineer niet langer dan 5–6 uur.\n\nTechniek: Eerst stomen, dan kort frituren. Zo wordt de kip sappig gaar zonder dat de marinade verbrandt. Het blad wordt niet gegeten, het is er voor de geur. Controleer de kerntemperatuur van 74 °C bij het eerste pakketje.\n\nTechniek: Maak de pakketjes stevig maar niet te strak. De kip zet in het stomen iets uit; een te strak pakketje scheurt of vouwt open.\n\nPresentatie: Leg de pakketjes in rijen op een bord of een bananenblad, met de dip in een klein kommetje erbij. Het donkergroene blad en de glanzende, karamelkleurige kip eronder zijn het beeld. Eén pakketje mag al open liggen.\n\nVariatie: Pittiger? Zet prik nam pla of sambal apart op tafel. Voeg geen chili toe aan de marinade.\n\nVariatie: Voor een proeverij maak je de pakketjes kleiner, met circa 25 g kip per stuk.\n\nAlternatief: Geen korianderwortel? Gebruik 15 g van de onderste, dikke korianderstelen, zeer fijn gesneden. Korianderblad is minder geschikt.\n\nAlternatief: Pandan kopen. Verse pandan vind je bij vrijwel elke goede Aziatische supermarkt. Diepvries kan ook, maar laat het langzaam ontdooien en dep het zeer goed droog.\n\nAlternatief: Alleen frituren. Sla het stomen over en frituur de pakketjes 3½–4½ minuten op 170–175 °C. Het blad wordt iets donkerder en de kip iets minder sappig.\n\nAlternatief: Oven. Bak de pakketjes in ongeveer 20–25 minuten op 200 °C (richtwaarde; controleer dat de kip gaar is, 74 °C). Frituren blijft de authentiekere methode.",
+      "wine": {
+        "naam": "Riesling Kabinett feinherb — Mosel, Duitsland",
+        "druif": "Riesling",
+        "toelichting": "Aroma: Perzik, limoen, groene appel en lichte mineraliteit. Smaak en structuur: Fris, licht en met een vleugje restzoet. Het restzoet past bij de zoete marinade en de dip, en de zuren houden de gefrituurde kip en de kokos fris. Serveer op 8–10 °C.",
+        "alternatief": "Chenin Blanc uit Swartland, of een Grüner Veltliner uit Oostenrijk"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Riesling Kabinett feinherb — Mosel, Duitsland",
+          "druif": "Riesling",
+          "smaakprofiel": "Lichte, levendige Riesling met een vleugje restzoet, hoge zuren en weinig alcohol.",
+          "omschrijving": "Aroma: Perzik, limoen, groene appel en lichte mineraliteit. Smaak en structuur: Fris, licht en met een vleugje restzoet.",
+          "waarom_werkt_dit": "Het restzoet past bij de zoete marinade en de dip, en de zuren houden de gefrituurde kip en de kokos fris.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chenin Blanc — Swartland, Zuid-Afrika",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Droge, middelvolle en sappige Chenin Blanc met frisse zuren en voldoende rondheid.",
+          "omschrijving": "Aroma: Gele appel, witte perzik, kweepeer, bloesem en subtiele honing. Smaak en structuur: Droog, middelvol en sappig, met frisse zuren en voldoende rondheid.",
+          "waarom_werkt_dit": "De lichte rijpheid sluit aan op kokos en palmsuiker, en de zuren frissen het gefrituurde op. Chenin heeft genoeg structuur om korianderwortel, sesam en pandan niet te laten verdwijnen.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Grüner Veltliner — Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Droge, frisse en strakke witte wijn met een subtiel peperige afdronk.",
+          "omschrijving": "Aroma: Groene appel, citrus, witte peper en lichte kruiden. Smaak en structuur: Droog, fris en strak, met een subtiel peperige afdronk.",
+          "waarom_werkt_dit": "De witte-pepertoon in de wijn spiegelt de marinade, en de frisse zuren contrasteren met de gefrituurde kip.",
+          "serveertemperatuur": "Serveer op 8–9 °C"
         }
       ]
     }
