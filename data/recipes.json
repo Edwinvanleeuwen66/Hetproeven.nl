@@ -83479,6 +83479,271 @@
           "serveertemperatuur": "Serveer op 8–9 °C"
         }
       ]
+    },
+    {
+      "title": "Gyros van varkenshaas met flinterdunne Griekse pita",
+      "slug": "gyros-varkenshaas-dunne-pita-tzatziki",
+      "location": "Griekenland",
+      "time": "Actief circa 50 min (plus 45–90 min marineren en 60–75 min rijzen, die overlappen)",
+      "servings": "4 personen (6 pita's)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Grieks",
+      "categorie": "vlees",
+      "image": "/assets/images/gyros-varkenshaas-dunne-pita-tzatziki.jpg",
+      "short_description": "Oprolbare, flinterdunne Griekse pita met knapperig gebakken varkenshaas, huisgemaakte tzatziki, tomaat en rode ui.",
+      "description": "Gyros betekent \"draaien\", en dat is precies wat het vlees aan de spit doet. Thuis hebben we geen spit nodig: we snijden malse varkenshaas flinterdun, geven hem een kruidige Griekse marinade en bakken hem heet en snel tot de randjes goudbruin knetteren. Het gaat in een dunne, soepele pita die je zo opvouwt, met koele tzatziki, sappige tomaat en flinterdunne rode ui.",
+      "ingredient_groups": [
+        {
+          "group_name": "Voor de gyros van varkenshaas",
+          "ingredients": [
+            {
+              "name": "varkenshaas, zonder zilvervlies",
+              "amount": "700 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "25 ml"
+            },
+            {
+              "name": "rode ui, zeer fijn geraspt",
+              "amount": "30 g"
+            },
+            {
+              "name": "knoflook, fijn geraspt",
+              "amount": "10 g"
+            },
+            {
+              "name": "gedroogde Griekse oregano",
+              "amount": "5 g"
+            },
+            {
+              "name": "zoet paprikapoeder",
+              "amount": "3 g"
+            },
+            {
+              "name": "gerookt paprikapoeder",
+              "amount": "0,5 g"
+            },
+            {
+              "name": "gedroogde tijm",
+              "amount": "1 g"
+            },
+            {
+              "name": "gemalen korianderzaad",
+              "amount": "1 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "8 g"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "1 g"
+            },
+            {
+              "name": "rode wijnazijn",
+              "amount": "10 ml"
+            },
+            {
+              "name": "vers citroensap (uit een halve extra citroen)",
+              "amount": "5 ml"
+            },
+            {
+              "name": "neutrale olie om te bakken",
+              "amount": "15 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de dunne, oprolbare Griekse pita's",
+          "ingredients": [
+            {
+              "name": "tarwebloem, bij voorkeur 11–12% eiwit",
+              "amount": "280 g"
+            },
+            {
+              "name": "lauwwarm water",
+              "amount": "165 g"
+            },
+            {
+              "name": "Griekse yoghurt (10% vet)",
+              "amount": "20 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "15 g"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "5 g"
+            },
+            {
+              "name": "instantgist",
+              "amount": "3 g"
+            },
+            {
+              "name": "suiker",
+              "amount": "3 g"
+            },
+            {
+              "name": "olijfolie voor na het bakken",
+              "amount": "10 ml"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de tzatziki",
+          "ingredients": [
+            {
+              "name": "Griekse yoghurt (10% vet)",
+              "amount": "300 g"
+            },
+            {
+              "name": "komkommer",
+              "amount": "150 g"
+            },
+            {
+              "name": "knoflook, fijn geraspt",
+              "amount": "5 g"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "12 ml"
+            },
+            {
+              "name": "witte wijnazijn",
+              "amount": "10 ml"
+            },
+            {
+              "name": "verse dille, fijngehakt",
+              "amount": "5 g"
+            },
+            {
+              "name": "fijn zout, voor de komkommer",
+              "amount": "2 g"
+            },
+            {
+              "name": "fijn zout, voor de saus",
+              "amount": "1 g"
+            },
+            {
+              "name": "witte peper",
+              "amount": "0,5 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de afwerking",
+          "ingredients": [
+            {
+              "name": "rijpe trostomaten",
+              "amount": "240 g"
+            },
+            {
+              "name": "rode ui",
+              "amount": "100 g"
+            },
+            {
+              "name": "platte peterselie",
+              "amount": "7 g"
+            },
+            {
+              "name": "gedroogde Griekse oregano",
+              "amount": "3 g"
+            },
+            {
+              "name": "citroen, in zes partjes",
+              "amount": "1"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Snijd de varkenshaas flinterdun",
+          "description": "Verwijder het zilvervlies zorgvuldig. Leg de haas 25–30 minuten in de vriezer, zodat hij stevig wordt maar niet helemaal bevriest. Snijd hem met een zeer scherp mes of een snijmachine dwars op de draad in plakjes van 1,5–2 mm. Snijd grote plakjes eventueel in reepjes van circa 1 cm breed en houd de plakjes zo gelijkmatig mogelijk, zodat ze allemaal even snel garen."
+        },
+        {
+          "action": "Marineer het vlees",
+          "description": "Meng de olijfolie met de geraspte ui, knoflook, oregano, beide paprika's, tijm, koriander, zout en peper. Voeg de rode wijnazijn en het citroensap toe en roer tot een gelijkmatige marinade. Schep de haas er voorzichtig doorheen, zonder dat de plakjes aan elkaar blijven kleven. Dek af en marineer 45–90 minuten in de koelkast. Langer is niet nodig, want zuur verandert de textuur van zulke dunne plakjes."
+        },
+        {
+          "action": "Maak het deeg voor de pita",
+          "description": "Meng bloem, gist en suiker in een ruime kom. Voeg het lauwe water, de yoghurt en de olijfolie toe en kneed circa 5 minuten tot een samenhangend deeg. Voeg het zout toe en kneed nog 4–5 minuten, tot het deeg glad, soepel en licht elastisch is. Dek af en laat 60–75 minuten rijzen op kamertemperatuur, tot het duidelijk groter is geworden."
+        },
+        {
+          "action": "Vorm de bollen",
+          "description": "Verdeel het deeg in 6 gelijke bollen van circa 82 g. Laat ze afgedekt 15 minuten ontspannen."
+        },
+        {
+          "action": "Maak de tzatziki",
+          "description": "Rasp de komkommer grof en meng met 2 g zout. Laat 15 minuten uitlekken in een zeef en knijp daarna stevig uit in een schone doek. Roer de komkommer door de yoghurt met knoflook, olijfolie, azijn, dille, 1 g zout en witte peper. Zet minstens 30 minuten in de koelkast. De saus moet dik en fris zijn, zodat hij niet uit de opgerolde pita loopt."
+        },
+        {
+          "action": "Maak de garnituren klaar",
+          "description": "Snijd de tomaat in dunne halve plakjes en de rode ui in flinterdunne halve ringen. Leg de ui eventueel 5 minuten in ijskoud water voor een mildere smaak en laat goed uitlekken. Hak de peterselie en snijd de citroen in partjes."
+        },
+        {
+          "action": "Rol de pita's uit",
+          "description": "Bestuif het werkblad heel licht met bloem. Rol elke bol uit tot een ronde lap van circa 22–23 cm doorsnede en ongeveer 2 mm dik. Werk vanuit het midden naar buiten en draai het deeg regelmatig een kwartslag, zodat de pita rond en overal even dun blijft. Laat de uitgerolde pita's 5 minuten rusten onder een licht vochtige doek."
+        },
+        {
+          "action": "Bak de pita's",
+          "description": "Verhit een droge, zware koekenpan of vlakke bakplaat op middelhoog tot hoog vuur. Bak de eerste pita circa 40–60 seconden aan de eerste kant, tot kleine luchtbellen en goudbruine plekjes verschijnen. Draai om en bak nog 30–45 seconden. De pita mag hier en daar iets opbollen, maar moet geen volledig opgeblazen zakje worden. Borstel direct na het bakken met olijfolie en stapel de pita's meteen onder een schone theedoek."
+        },
+        {
+          "action": "Bak de gyros kort en heet",
+          "description": "Haal het vlees 10 minuten voor het bakken uit de koelkast. Laat overtollige marinade afdruipen en dep de plakjes voorzichtig droog, zonder alle kruiden te verwijderen. Verhit een ruime koekenpan op middelhoog tot hoog vuur en gebruik de neutrale olie verdeeld over 4 bakbeurten, circa 175 g vlees per keer. Spreid de plakjes uit in één laag en laat ze 45–60 seconden liggen zonder te bewegen. Keer en bak nog 30–60 seconden. Bij zulke dunne plakjes is de kerntemperatuur lastig te meten, dus laat de gaarheid leidend zijn: het vlees mag nergens meer rauw of glazig roze zijn en moet goudbruine randjes hebben. Schep het vlees direct uit de pan en herhaal met de rest."
+        },
+        {
+          "action": "Vul de pita's en rol ze op",
+          "description": "Verdeel over elke warme pita circa 50 g tzatziki, een zesde van het vlees, circa 40 g tomaat, circa 17 g rode ui, wat peterselie en een snuf oregano. Leg de vulling in een smalle strook iets uit het midden. Vouw de onderkant iets naar binnen en rol de pita voorzichtig maar stevig op. Wikkel eventueel een strook bakpapier om de onderkant."
+        },
+        {
+          "action": "Serveer",
+          "description": "Serveer de opgerolde pita's meteen op een warm bord, met een partje citroen en eventueel extra tzatziki ernaast. Frites (optioneel) serveer je liever naast het broodje dan erin, zodat de pita niet scheurt."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Flinterdun vlees: het grote bakoppervlak zorgt voor snel geroosterde randjes, zonder dat de magere haas lang hoeft te garen. Een kruidige, evenwichtige marinade: oregano is de basis. Knoflook en geraspte ui zorgen voor hartigheid, citroen en azijn voor frisheid, paprika en koriander voor diepte op de achtergrond. Kort en heet: haas heeft nauwelijks vet en droogt snel uit. Een hete pan en kleine porties houden het vlees mals. Een soepele pita: yoghurt en olijfolie houden het deeg zacht. Door het dun uitrollen en de korte baktijd blijft de pita oprolbaar in plaats van broodachtig. Koele tzatziki tegen warm vlees: dikke yoghurtsaus, sappige tomaat en knapperige ui geven frisheid en bite."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Zet alles klaar voordat je het vlees bakt: tzatziki gemaakt, tomaat en ui gesneden, pita's gebakken en onder een doek, citroen in partjes. De gyros moet direct uit de pan in de warme pita kunnen. Marinade, deeg en tzatziki maak je tijdens het marineren en rijzen, zodat alles tegelijk klaar is.\n\nTechniek: Gebruik een snijmachine als je die hebt. Dat geeft de meest gelijkmatige plakjes van 1,5–2 mm. Een zeer scherp mes is een goed alternatief.\n\nTechniek: Gebruik halfbevroren vlees; het snijdt veel makkelijker flinterdun. Snijd altijd dwars op de draad: dat verkort de spiervezels en maakt het vlees malser.\n\nTechniek: Marineer maximaal 90 minuten. Door de dunne plakjes is langer marineren niet nodig.\n\nTechniek: Bak in kleine porties van maximaal 175 g. Zo koelt de pan niet te sterk af en gaat het vlees niet stomen. Verwijder ook overtollige marinade, want een nat oppervlak belemmert de vorming van geroosterde randjes.\n\nTechniek: Rol de pita's gelijkmatig dun uit, richt op 2 mm. Te dik geeft een broodachtige structuur die de vulling overheerst. Houd de gebakken pita's onder een doek, zo blijven ze soepel en scheuren ze minder snel.\n\nPresentatie: Rol de pita op en wikkel een strook bakpapier om de onderkant. Serveer met een partje citroen en extra tzatziki ernaast, en frites naast het broodje in plaats van erin, zodat de pita niet scheurt.\n\nVariatie: Pittiger? Voeg een snuf chilivlokken toe aan de marinade of zet ze apart op tafel.\n\nVariatie: Liever kip en een dikker, opgeblazen broodje? Probeer dan onze [Kipshoarma met zelfgemaakte pitabroodjes uit de pizzaoven](/recepten/kipshoarma-zelfgemaakte-pitabroodjes-pizzaoven/).\n\nAlternatief: Pizzaoven. Je kunt de pita's ook in je pizzaoven bakken, bij circa 260–300 °C gedurende 45–75 seconden. Houd het bij deze richtwaarden. In een zeer hete oven bolt een dunne pita snel op, dus prik hem met een vork en begin met één pita.\n\nAlternatief: Geen tijd voor zelfgemaakte pita's? Gebruik verse, dunne Griekse pita's of wraps en verwarm ze kort in een droge pan, zodat ze soepel zijn.",
+      "wine": {
+        "naam": "Assyrtiko — Santorini, Griekenland",
+        "druif": "100% Assyrtiko",
+        "toelichting": "Aroma: Frisse citroenschil, groene appel en grapefruit, aangevuld met subtiele tonen van witte bloemen en natte steen. Smaak en structuur: Uitgesproken droog, levendig en geconcentreerd. De stevige zuren geven spanning, terwijl een licht zilte indruk en een verfijnd bittertje in de lange afdronk voor extra complexiteit zorgen. De frisse zuren vormen een prachtig tegenwicht voor de olijfolie en romige yoghurt in de tzatziki. De citrusaroma's sluiten aan bij het citroensap in de marinade, terwijl de strakke, minerale structuur het delicate karakter van de varkenshaas respecteert. De combinatie van geroosterde vleesrandjes, oregano en de frisse afdronk maakt dit een bijzonder harmonieuze pairing: de wijn verfrist de mond na elke hap, zonder de kruidigheid te overstemmen. Serveer op 9–11 °C.",
+        "alternatief": "Droge Xinomavro-rosé uit Noord-Griekenland, of een Moschofilero uit Mantinia"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Assyrtiko — Santorini, Griekenland",
+          "druif": "100% Assyrtiko",
+          "smaakprofiel": "Droge Assyrtiko van de vulkanische bodems van Santorini. Kies bij voorkeur een uitvoering zonder nieuw hout, waarin het frisse en minerale karakter van de druif centraal staat.",
+          "omschrijving": "Aroma: Frisse citroenschil, groene appel en grapefruit, aangevuld met subtiele tonen van witte bloemen en natte steen. Smaak en structuur: Uitgesproken droog, levendig en geconcentreerd. De stevige zuren geven spanning, terwijl een licht zilte indruk en een verfijnd bittertje in de lange afdronk voor extra complexiteit zorgen.",
+          "waarom_werkt_dit": "De frisse zuren vormen een prachtig tegenwicht voor de olijfolie en romige yoghurt in de tzatziki. De citrusaroma's sluiten aan bij het citroensap in de marinade, terwijl de strakke, minerale structuur het delicate karakter van de varkenshaas respecteert. De combinatie van geroosterde vleesrandjes, oregano en de frisse afdronk maakt dit een bijzonder harmonieuze pairing: de wijn verfrist de mond na elke hap, zonder de kruidigheid te overstemmen.",
+          "serveertemperatuur": "Serveer op 9–11 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Xinomavro Rosé (droog) — Naoussa of Amyndeon, Noord-Griekenland",
+          "druif": "Xinomavro",
+          "smaakprofiel": "Droge, gastronomische rosé met voldoende structuur en frisheid, liever dan een uitgesproken fruitige of zoetige stijl.",
+          "omschrijving": "Aroma: Verfijnde aroma's van wilde aardbei, rode bes en framboos, met een subtiele kruidigheid die doet denken aan gedroogde mediterrane kruiden en tomatenblad. Smaak en structuur: Sappig rood fruit met levendige zuren, een lichte hartige ondertoon en een subtiele fenolische grip. De afdronk is droog, fris en licht kruidig.",
+          "waarom_werkt_dit": "Waar Assyrtiko vooral de frisheid benadrukt, legt Xinomavro-rosé juist een verbinding met de geroosterde smaken van het vlees. Het rode fruit contrasteert aangenaam met knoflook en oregano, terwijl de hartige tonen aansluiten bij de gekaramelliseerde randjes van de haas. De zuren houden de tzatziki levendig en voorkomen dat de combinatie zwaar wordt. Ook verse tomaat en rode ui komen bij deze wijn uitstekend tot hun recht.",
+          "serveertemperatuur": "Serveer op 10–12 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Moschofilero — Mantinia, Peloponnesos, Griekenland",
+          "druif": "Moschofilero",
+          "smaakprofiel": "Lichte, aromatische en verfrissende witte wijn uit hooggelegen wijngaarden, waar de nachten koel zijn en de druiven hun frisheid behouden.",
+          "omschrijving": "Aroma: Een uitnodigende geur van rozenblaadjes, citrusbloesem, rijpe citroen en witte perzik, met soms een vleugje verse kruiden. Smaak en structuur: Lichtvoetig, droog en verfrissend, met sappige citruszuren en een zachte, elegante structuur. De afdronk is zuiver, aromatisch en aangenaam verkwikkend, zonder zwaar of alcoholisch over te komen.",
+          "waarom_werkt_dit": "Een frisse, toegankelijke wijn die het gerecht niet domineert. De bloemige aroma's geven een mooi contrast met de hartige knoflook en oregano, terwijl de citrusachtige frisheid de tzatziki ondersteunt. Door de relatief lichte structuur blijft de fijne smaak van de varkenshaas volledig herkenbaar, voor een ontspannen, zomerse combinatie.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
+        }
+      ]
     }
   ]
 }
