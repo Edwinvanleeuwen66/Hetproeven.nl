@@ -16180,8 +16180,8 @@
               "amount": "2 stengels"
             },
             {
-              "name": "verse galanga",
-              "amount": "25 g"
+              "name": "verse galanga, geschild",
+              "amount": "ca. 3 cm"
             },
             {
               "name": "fijn geraspte makrut-limoenschil",
@@ -16279,7 +16279,7 @@
             },
             {
               "name": "fijn zout",
-              "amount": "3 g"
+              "amount": "½ tl"
             },
             {
               "name": "neutrale olie",
@@ -16324,7 +16324,7 @@
         },
         {
           "action": "Bereid de varkenshaas",
-          "description": "Verwijder het zilvervlies, dep de varkenshaas droog en zout rondom met 3 g zout. Bak hem rondom hard aan in 10 ml olie op middelhoog vuur. Zet daarna het vuur lager en gaar hem rustig door, regelmatig draaiend, tot een kerntemperatuur van 63 °C (meet met een kernthermometer). Laat minimaal 3 minuten losjes afgedekt rusten; hij mag gerust wachten tot de saus klaar is."
+          "description": "Verwijder het zilvervlies, dep de varkenshaas droog en zout rondom met ½ tl zout. Bak hem rondom hard aan in 10 ml olie op middelhoog vuur. Zet daarna het vuur lager en gaar hem rustig door, regelmatig draaiend, tot een kerntemperatuur van 63 °C (meet met een kernthermometer). Laat minimaal 3 minuten losjes afgedekt rusten; hij mag gerust wachten tot de saus klaar is."
         },
         {
           "action": "Kook de rijst",
@@ -16923,7 +16923,7 @@
             },
             {
               "name": "fijn zeezout",
-              "amount": "4 g"
+              "amount": "¾ tl"
             },
             {
               "name": "witte peper",
@@ -17006,11 +17006,11 @@
             },
             {
               "name": "suiker",
-              "amount": "4 g"
+              "amount": "1 tl"
             },
             {
               "name": "fijn zout",
-              "amount": "1 g"
+              "amount": "¼ tl"
             }
           ]
         },
@@ -17035,7 +17035,7 @@
       "steps": [
         {
           "action": "Bereid de vis voor",
-          "description": "Dep de zeebaars zeer goed droog en snijd in stukken van ongeveer 5 × 4 cm. Meng 25 g rijstmeel, 25 g maizena, 4 g zout en ½ tl witte peper. Bestuif de vis pas vlak voor het frituren (zie verderop)."
+          "description": "Dep de zeebaars zeer goed droog en snijd in stukken van ongeveer 5 × 4 cm. Meng 25 g rijstmeel, 25 g maizena, ¾ tl zout en ½ tl witte peper. Bestuif de vis pas vlak voor het frituren (zie verderop)."
         },
         {
           "action": "Maak de chilisaus",
@@ -17047,7 +17047,7 @@
         },
         {
           "action": "Maak de komkommer aan",
-          "description": "Meng maximaal 10 minuten voor het serveren de dun gesneden komkommer met 10 ml rijstazijn, 4 g suiker en 1 g zout. Laat goed uitlekken voordat hij op het bord komt."
+          "description": "Meng maximaal 10 minuten voor het serveren de dun gesneden komkommer met 10 ml rijstazijn, 1 tl suiker en ¼ tl zout. Laat goed uitlekken voordat hij op het bord komt."
         },
         {
           "action": "Frituur de vis",
@@ -46114,7 +46114,7 @@
             },
             {
               "name": "fijn zeezout",
-              "amount": "3 g"
+              "amount": "½ tl"
             },
             {
               "name": "fior di latte, zeer goed uitgelekt",
@@ -46154,7 +46154,7 @@
         },
         {
           "action": "Dag 2 – Maak de tomatensaus en laat de mozzarella uitlekken",
-          "description": "Pureer 280 g uitgelekte San Marzano-tomaten kort met 3 g zeezout. Laat indien nodig verder uitlekken, tot circa 200 g dikke saus overblijft. Snijd de fior di latte fijn en laat minimaal 4 uur in een zeef in de koelkast uitlekken. Dep voor gebruik droog."
+          "description": "Pureer 280 g uitgelekte San Marzano-tomaten kort met ½ tl zeezout. Laat indien nodig verder uitlekken, tot circa 200 g dikke saus overblijft. Snijd de fior di latte fijn en laat minimaal 4 uur in een zeef in de koelkast uitlekken. Dep voor gebruik droog."
         },
         {
           "action": "Dag 2 – Rol flinterdun uit",
@@ -83175,19 +83175,19 @@
             },
             {
               "name": "kapi (Thaise garnalenpasta)",
-              "amount": "4 g"
+              "amount": "1 tl"
             },
             {
-              "name": "verse galanga",
-              "amount": "4 g"
+              "name": "verse galanga, zeer fijn gesneden",
+              "amount": "1 tl"
             },
             {
-              "name": "jonge gember",
-              "amount": "3 g"
+              "name": "jonge gember, zeer fijn gesneden",
+              "amount": "1 tl"
             },
             {
-              "name": "citroengras, alleen het onderste, dikke deel",
-              "amount": "4 g"
+              "name": "citroengras, alleen het onderste, dikke deel, zeer fijn gesneden",
+              "amount": "1 tl"
             },
             {
               "name": "geroosterde kokos (uit de 25 g kokosvlokken hierboven)",
@@ -83250,7 +83250,7 @@
           "description": "Elke component heeft een eigen taak. Het blad geeft een licht peperig, groen aroma. De limoen met schil geeft zuur, etherische citrusolie en een klein bittertje. Gember geeft warme scherpte, sjalot rauwe zoetheid en de rawit directe hitte. Geroosterde kokos geeft nootachtige diepte, de pinda crunch en de gedroogde garnaal zout en umami. De saus verbindt alles: palmsuiker geeft karamelzoet, vissaus en kapi zout en umami, en de gemalen kokos, pinda en garnaal geven body. Niets mag één smaak domineren, dat is de balans die het gerecht draagt."
         }
       ],
-      "chef_tip": "Mise-en-place: Zet alles klaar voor je begint, want de hapjes bouw je in een paar minuten op. Rooster de kokos, pinda's en garnalen, laat ze volledig afkoelen (warm maken ze het blad slap) en weeg ze daarna af in kleine kommetjes. Maak de saus en laat hem op kamertemperatuur komen; hij kan ook 1–2 dagen van tevoren, afgedekt in de koelkast, waarna je hem zo nodig met 1–2 tl warm water losroert. Snijd de verse onderdelen (limoen, gember, sjalot, rawit) als laatste, dezelfde dag, en houd ze gescheiden. Leg de bladeren afgedekt met een vochtig doekje in de koelkast en zet het serveerbord in de koelkast of vriezer. Bouw de hapjes pas vlak voor het serveren op.\n\nTechniek: Snijd alles heel klein, 3–4 mm, en rooster de kokos diep goudbruin. Precies dat bepaalt of de hap in één keer opengaat.\n\nTechniek: Kapi is krachtig. 4 g is voor acht hapjes voldoende. Meer maakt de saus te dominant en te zout.\n\nPresentatie: Leg de hapjes in een rij of waaier op een donker keramisch bord, zodat het diepgroene blad en de kleuren van de vulling opvallen. Eén stipje saus op het bord. Niet meer.\n\nPresentatie: Geen extra sauzen. Geen sweet chili, sriracha of pindasaus erbij. De miangsaus bevat al wat het gerecht nodig heeft.\n\nVariatie: Meer pit. Zet extra fijngesneden rawit apart op tafel. Maak de hoofdversie niet pittiger.\n\nVariatie: Vegetarisch. Laat de gedroogde garnalen en de kapi weg. Vissaus is niet vegetarisch: gebruik daarvoor een vegetarische vervanger en proef of de saus voldoende zout en umami heeft.\n\nVariatie: Voor een groter gezelschap. Maak 20 blaadjes (het recept ×2,5) en zet alle onderdelen in schaaltjes op een groot bord, zodat iedereen zelf vult. Dat is de traditionele manier.\n\nAlternatief: Geen bai cha plu? Vraag bij de toko naar cha plu, bai cha plu, la lot of wild betel leaf. Gebruik geen gewone betelbladeren (bai plu) die bedoeld zijn om te kauwen. Niet te vinden? Gebruik witlofblaadjes, jonge spinazie of kleine stevige slablaadjes. De smaak is anders, maar de hap werkt.",
+      "chef_tip": "Mise-en-place: Zet alles klaar voor je begint, want de hapjes bouw je in een paar minuten op. Rooster de kokos, pinda's en garnalen, laat ze volledig afkoelen (warm maken ze het blad slap) en weeg ze daarna af in kleine kommetjes. Maak de saus en laat hem op kamertemperatuur komen; hij kan ook 1–2 dagen van tevoren, afgedekt in de koelkast, waarna je hem zo nodig met 1–2 tl warm water losroert. Snijd de verse onderdelen (limoen, gember, sjalot, rawit) als laatste, dezelfde dag, en houd ze gescheiden. Leg de bladeren afgedekt met een vochtig doekje in de koelkast en zet het serveerbord in de koelkast of vriezer. Bouw de hapjes pas vlak voor het serveren op.\n\nTechniek: Snijd alles heel klein, 3–4 mm, en rooster de kokos diep goudbruin. Precies dat bepaalt of de hap in één keer opengaat.\n\nTechniek: Kapi is krachtig. 1 tl is voor acht hapjes voldoende. Meer maakt de saus te dominant en te zout.\n\nPresentatie: Leg de hapjes in een rij of waaier op een donker keramisch bord, zodat het diepgroene blad en de kleuren van de vulling opvallen. Eén stipje saus op het bord. Niet meer.\n\nPresentatie: Geen extra sauzen. Geen sweet chili, sriracha of pindasaus erbij. De miangsaus bevat al wat het gerecht nodig heeft.\n\nVariatie: Meer pit. Zet extra fijngesneden rawit apart op tafel. Maak de hoofdversie niet pittiger.\n\nVariatie: Vegetarisch. Laat de gedroogde garnalen en de kapi weg. Vissaus is niet vegetarisch: gebruik daarvoor een vegetarische vervanger en proef of de saus voldoende zout en umami heeft.\n\nVariatie: Voor een groter gezelschap. Maak 20 blaadjes (het recept ×2,5) en zet alle onderdelen in schaaltjes op een groot bord, zodat iedereen zelf vult. Dat is de traditionele manier.\n\nAlternatief: Geen bai cha plu? Vraag bij de toko naar cha plu, bai cha plu, la lot of wild betel leaf. Gebruik geen gewone betelbladeren (bai plu) die bedoeld zijn om te kauwen. Niet te vinden? Gebruik witlofblaadjes, jonge spinazie of kleine stevige slablaadjes. De smaak is anders, maar de hap werkt.",
       "wine": {
         "naam": "Riesling Kabinett feinherb — Mosel, Duitsland",
         "druif": "Riesling",
@@ -83509,36 +83509,36 @@
               "amount": "30 g"
             },
             {
-              "name": "knoflook, fijn geraspt",
-              "amount": "10 g"
+              "name": "tenen knoflook, fijn geraspt",
+              "amount": "2"
             },
             {
               "name": "gedroogde Griekse oregano",
-              "amount": "5 g"
+              "amount": "1½ el"
             },
             {
               "name": "zoet paprikapoeder",
-              "amount": "3 g"
+              "amount": "1½ tl"
             },
             {
               "name": "gerookt paprikapoeder",
-              "amount": "0,5 g"
+              "amount": "¼ tl"
             },
             {
               "name": "gedroogde tijm",
-              "amount": "1 g"
+              "amount": "1 tl"
             },
             {
               "name": "gemalen korianderzaad",
-              "amount": "1 g"
+              "amount": "½ tl"
             },
             {
               "name": "fijn zeezout",
-              "amount": "8 g"
+              "amount": "1⅓ tl"
             },
             {
               "name": "versgemalen zwarte peper",
-              "amount": "1 g"
+              "amount": "½ tl"
             },
             {
               "name": "rode wijnazijn",
@@ -83575,7 +83575,7 @@
             },
             {
               "name": "fijn zeezout",
-              "amount": "5 g"
+              "amount": "1 tl"
             },
             {
               "name": "instantgist",
@@ -83603,8 +83603,8 @@
               "amount": "150 g"
             },
             {
-              "name": "knoflook, fijn geraspt",
-              "amount": "5 g"
+              "name": "teen knoflook, fijn geraspt",
+              "amount": "1"
             },
             {
               "name": "extra vierge olijfolie",
@@ -83616,19 +83616,19 @@
             },
             {
               "name": "verse dille, fijngehakt",
-              "amount": "5 g"
+              "amount": "2 el"
             },
             {
               "name": "fijn zout, voor de komkommer",
-              "amount": "2 g"
+              "amount": "⅓ tl"
             },
             {
               "name": "fijn zout, voor de saus",
-              "amount": "1 g"
+              "amount": "¼ tl"
             },
             {
               "name": "witte peper",
-              "amount": "0,5 g"
+              "amount": "¼ tl"
             }
           ]
         },
@@ -83644,12 +83644,12 @@
               "amount": "100 g"
             },
             {
-              "name": "platte peterselie",
-              "amount": "7 g"
+              "name": "platte peterselie, fijngehakt",
+              "amount": "2 el"
             },
             {
-              "name": "gedroogde Griekse oregano",
-              "amount": "3 g"
+              "name": "gedroogde Griekse oregano, om te bestrooien",
+              "amount": "1 el"
             },
             {
               "name": "citroen, in zes partjes",
@@ -83677,7 +83677,7 @@
         },
         {
           "action": "Maak de tzatziki",
-          "description": "Rasp de komkommer grof en meng met 2 g zout. Laat 15 minuten uitlekken in een zeef en knijp daarna stevig uit in een schone doek. Roer de komkommer door de yoghurt met knoflook, olijfolie, azijn, dille, 1 g zout en witte peper. Zet minstens 30 minuten in de koelkast. De saus moet dik en fris zijn, zodat hij niet uit de opgerolde pita loopt."
+          "description": "Rasp de komkommer grof en meng met ⅓ tl zout. Laat 15 minuten uitlekken in een zeef en knijp daarna stevig uit in een schone doek. Roer de komkommer door de yoghurt met knoflook, olijfolie, azijn, dille, ¼ tl zout en witte peper. Zet minstens 30 minuten in de koelkast. De saus moet dik en fris zijn, zodat hij niet uit de opgerolde pita loopt."
         },
         {
           "action": "Maak de garnituren klaar",
