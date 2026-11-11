@@ -68036,21 +68036,21 @@
       "title": "Lomo Saltado — Peruaans-Chinese rundvlees-roerbak met friet en rijst",
       "slug": "lomo-saltado-peruaans-chinese-rundvlees-roerbak",
       "location": "Lima, Peru",
-      "time": "30 min voorbereiding + 15 min marineren + 15 min bereiding",
+      "time": "30 min voorbereiding + 10–15 min marineren + 20 min bereiding",
       "servings": "4 personen",
       "difficulty": "Gemiddeld",
       "keuken": "Overig",
       "categorie": "vlees",
       "image": "/assets/images/lomo-saltado-peruaans-chinese-rundvlees-roerbak.jpg",
-      "short_description": "Bliksemsnel gewokt rundvlees met ají amarillo, tomaat en sojasaus, met Pont Neuf-frietjes die rechtstreeks de wok in gaan naast een portie rijst. De hele geschiedenis van de Chinese immigratie in Peru, in één hap.",
-      "description": "Tussen 1849 en 1874 kwamen tienduizenden Kantonese contractarbeiders naar Peru om te werken op suikerplantages, onder zware, uitbuitende omstandigheden. Wie bleef, bracht de wok mee, en met de Peruaanse tomaat, ají amarillo en aardappel ontstond chifa: de Peruaans-Chinese fusiekeuken die vandaag de tweede keuken van het land is, met duizenden restaurants alleen al in Lima. Lomo saltado is het gerecht waarin je die hele geschiedenis in één hap proeft: bliksemsnel gewokt rundvlees met sojasaus en azijn, en — het detail dat niemand verwacht — frietjes die rechtstreeks de wok in gaan, naast een portie rijst.",
+      "short_description": "Bliksemsnel gewokt rundvlees met rode ui, tomaat, ají amarillo en een scherpe soja-azijnsaus, met krokante frieten uit de wok en witte rijst ernaast.",
+      "description": "Tussen 1849 en 1874 kwamen tienduizenden Kantonese contractarbeiders naar Peru om te werken op suikerplantages, onder zware, uitbuitende omstandigheden. Wie bleef, bracht de wok mee, en met de Peruaanse tomaat, ají amarillo en aardappel ontstond chifa: de Peruaans-Chinese fusiekeuken die vandaag de tweede keuken van het land is. Lomo saltado is een klassiek voorbeeld van die keuken: rundvlees, rode ui, tomaat en ají amarillo worden bliksemsnel op zeer hoog vuur gewokt met sojasaus en rodewijnazijn. De frieten gaan pas op het einde kort door de wok en worden samen met witte rijst geserveerd.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de Pont Neuf-friet",
+          "group_name": "Voor de friet",
           "ingredients": [
             {
-              "name": "kruimige aardappelen (bijv. Agria), geschild en in frieten van 12-15 mm dik",
-              "amount": "900 g"
+              "name": "kruimige aardappelen (bijv. Agria), geschild en in frieten van 10–12 mm dik",
+              "amount": "700 g"
             },
             {
               "name": "olie om te frituren",
@@ -68066,11 +68066,11 @@
           "group_name": "Voor het vlees",
           "ingredients": [
             {
-              "name": "biefstuk (diamanthaas, entrecote of kogelbiefstuk), in repen van ongeveer 1 cm dik, tegen de draad gesneden",
+              "name": "entrecote, kogelbiefstuk of ossenhaas, tegen de draad gesneden in repen van ca. 5 × 1,5 × 1 cm",
               "amount": "500 g"
             },
             {
-              "name": "sojasaus",
+              "name": "lichte sojasaus",
               "amount": "1 el"
             },
             {
@@ -68078,12 +68078,8 @@
               "amount": "1 el"
             },
             {
-              "name": "zout",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "versgemalen zwarte peper",
-              "amount": "naar smaak"
+              "name": "zwarte peper",
+              "amount": "½ tl"
             }
           ]
         },
@@ -68095,11 +68091,7 @@
               "amount": "2 el"
             },
             {
-              "name": "geklaarde boter",
-              "amount": "15 g"
-            },
-            {
-              "name": "grote rode ui, in dikke partjes",
+              "name": "grote rode ui, in stevige partjes",
               "amount": "1"
             },
             {
@@ -68107,40 +68099,12 @@
               "amount": "2"
             },
             {
-              "name": "ají amarillo, in dunne reepjes (of rode Spaanse peper)",
+              "name": "ají amarillo, in reepjes (of rode Spaanse peper)",
               "amount": "1"
             },
             {
-              "name": "rijpe tomaten, zaadlijsten verwijderd, in stevige partjes",
+              "name": "stevige rijpe tomaten, in dikke partjes, zaadlijsten verwijderd",
               "amount": "2"
-            },
-            {
-              "name": "lichte sojasaus",
-              "amount": "3 el"
-            },
-            {
-              "name": "donkere sojasaus",
-              "amount": "1 tl"
-            },
-            {
-              "name": "rodewijnazijn",
-              "amount": "2 el"
-            },
-            {
-              "name": "krachtige runderfond",
-              "amount": "75 ml"
-            },
-            {
-              "name": "donkere basterdsuiker",
-              "amount": "1 tl"
-            },
-            {
-              "name": "koude roomboter",
-              "amount": "20 g"
-            },
-            {
-              "name": "pisco (of witte rum), om te flamberen (optioneel)",
-              "amount": "2 el"
             },
             {
               "name": "bosuitjes, in ringetjes",
@@ -68148,7 +68112,32 @@
             },
             {
               "name": "verse koriander, grof gehakt",
-              "amount": "naar smaak"
+              "amount": "2 el"
+            },
+            {
+              "name": "pisco, optioneel",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Voor de saus",
+          "ingredients": [
+            {
+              "name": "lichte sojasaus",
+              "amount": "2 el"
+            },
+            {
+              "name": "rodewijnazijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "water",
+              "amount": "2 el"
+            },
+            {
+              "name": "ají amarillo-pasta, optioneel, voor extra diepte",
+              "amount": "1 tl"
             }
           ]
         },
@@ -68156,91 +68145,100 @@
           "group_name": "Om erbij te serveren",
           "ingredients": [
             {
-              "name": "witte rijst",
-              "amount": "naar smaak"
+              "name": "witte of jasmijnrijst, ongekookt",
+              "amount": "250 g"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Pont Neuf-friet, eerste ronde",
-          "description": "Frituur de frieten 8 minuten op 140°C. Laat volledig afkoelen."
+          "action": "Friet, eerste frituurronde",
+          "description": "Schil de aardappelen, snijd ze in frieten van 10–12 mm en dep ze goed droog. Frituur de frieten 6–8 minuten op 140 °C. Laat ze volledig afkoelen."
         },
         {
-          "action": "Vlees marineren",
-          "description": "Meng het vlees met sojasaus, azijn, zout en peper. Laat 15 minuten marineren."
+          "action": "Vlees snijden en marineren",
+          "description": "Snijd het vlees tegen de draad in repen van ongeveer 5 × 1,5 × 1 cm. Meng ze met de sojasaus, de rodewijnazijn en de zwarte peper. Voeg geen extra zout toe, want de soja levert al zout. Laat slechts 10–15 minuten marineren."
         },
         {
           "action": "Rijst koken",
-          "description": "Kook de rijst volgens de aanwijzingen op de verpakking, houd warm."
+          "description": "Kook de 250 g rijst volgens de aanwijzingen op de verpakking en houd warm."
         },
         {
-          "action": "Vlees dichtschroeien",
-          "description": "Verhit de olie met de geklaarde boter in een wok of zware pan tot bijna rokend. Schroei het vlees in kleine porties 30-45 seconden dicht, zonder de pan te overladen. Haal eruit en zet apart."
+          "action": "Wokingrediënten en saus klaarzetten",
+          "description": "Zet de rode ui, knoflook, ají amarillo, tomaat, bosui en koriander naast het fornuis. Meng de saus: 2 el lichte sojasaus, 1 el rodewijnazijn en 2 el water, eventueel met 1 tl ají amarillo-pasta."
         },
         {
-          "action": "Ui, knoflook en ají amarillo",
-          "description": "Bak de rode ui ongeveer 2 minuten op hoog vuur tot de randen net beginnen te kleuren maar de ui nog stevig is. Voeg knoflook en ají amarillo toe en bak 30 seconden mee."
+          "action": "Friet, tweede frituurronde",
+          "description": "Frituur de afgekoelde frieten 2–4 minuten op 185 °C, tot ze goudbruin en krokant zijn. Laat uitlekken op keukenpapier en bestrooi direct met zeezout."
         },
         {
-          "action": "Tomaten",
-          "description": "Voeg de tomatenpartjes toe en schep heel kort om — ze moeten warm worden maar hun vorm behouden."
+          "action": "Vlees bakken",
+          "description": "Laat de wok zeer heet worden, tot hij net begint te walmen. Voeg 1 el olie toe en bak het vlees in twee porties van 250 g. Laat het de eerste 20–30 seconden onbeweeglijk liggen en schep het daarna krachtig om. Bak in totaal ongeveer 60–75 seconden per portie en haal het uit de wok."
         },
         {
-          "action": "Saus opbouwen",
-          "description": "Voeg de lichte en donkere sojasaus, azijn, runderfond en basterdsuiker toe. Laat krachtig inkoken tot ongeveer de helft. Neem de pan van het vuur en roer de koude boter erdoor tot een dunne, glanzende saus ontstaat."
+          "action": "Groenten wokken",
+          "description": "Verhit de resterende 1 el olie. Wok de rode ui 45–60 seconden, voeg knoflook en ají amarillo toe voor 15–20 seconden en wok daarna de tomaat 20–30 seconden. De ui moet nog bite hebben en de tomaat moet zijn vorm behouden."
         },
         {
-          "action": "Vlees terug en deglaceren",
-          "description": "Voeg het vlees terug in de pan. Voor het theatrale effect: voeg de pisco toe en steek voorzichtig aan met een lange lucifer (houd je gezicht en losse mouwen op afstand), laat de vlam vanzelf doven."
+          "action": "Saus en vlees",
+          "description": "Voeg het sausmengsel toe en laat 10–15 seconden bruisen. Doe het vlees terug in de wok en schep nog 20–30 seconden om. Laat de saus niet inkoken tot een dikke saus: hij moet dun, scherp en zoutzuur blijven."
         },
         {
-          "action": "Tweede frituurronde",
-          "description": "Frituur de afgekoelde frieten nogmaals, op 185°C, tot goudbruin en krokant. Bestrooi direct met zeezout."
+          "action": "Pisco (optioneel)",
+          "description": "Voeg 1 el pisco toe direct nadat het vlees terug in de wok gaat. Flamberen mag, maar hoeft niet. Pisco geeft een extra aromatische Peruaanse toets, maar het gerecht is ook zonder uitstekend."
         },
         {
-          "action": "Afmaken",
-          "description": "Voeg de hete frieten toe aan de pan en schud hooguit 5-10 seconden om — een deel van de frieten mag licht met saus bedekt zijn, terwijl de bovenste hun krokante korst behouden. Meng de bosui en koriander erdoor."
+          "action": "Friet erdoor",
+          "description": "Voeg ongeveer ⅔ van de krokante frieten toe aan de wok en schud slechts 5–10 seconden om. Houd ⅓ apart voor bovenop. Zo ontstaan twee texturen: frieten die een beetje saus opnemen en volledig krokante frieten erbovenop."
         },
         {
-          "action": "Serveren",
-          "description": "Schep direct op een grote warme schaal, met een paar frieten zichtbaar bovenop. Serveer onmiddellijk, met witte rijst ernaast."
+          "action": "Afmaken en serveren",
+          "description": "Zet het vuur uit en roer de bosui en koriander erdoor. Schep direct op een grote, warme schaal, leg de apart gehouden frieten bovenop en serveer meteen. Serveer de rijst apart; portioneer die niet groter, want er is al friet."
         },
         {
           "action": "Opbouw en presentatie",
-          "description": "Serveer direct uit de wok op een grote, warme schaal, met de glanzende, sojagelakte stukken vlees tussen de nog knapperige frietjes en de net verwarmde tomatenpartjes. Zorg dat enkele frieten zichtbaar bovenop liggen, zodat hun krokante structuur goed te zien is. Rijst apart ernaast — dat is precies het beeld waar dit gerecht om bekendstaat: twee zetmelen naast elkaar op één bord."
+          "description": "Serveer direct uit de wok op een grote, warme schaal, met de glanzende, sojagelakte stukken vlees tussen de nog knapperige frietjes en de net verwarmde tomatenpartjes. Leg de krokante frieten die je apart hield bovenop, zodat hun structuur goed te zien is. Rijst apart ernaast: twee zetmelen naast elkaar op één bord is precies het beeld waar dit gerecht om bekendstaat."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Het geheim van een geweldige lomo saltado is snelheid: het rundvlees krijgt een diepe karamellisatie zonder door te garen, de ui blijft stevig, de tomaat behoudt zijn frisheid en de met koude boter gemonteerde saus vormt slechts een dunne, glanzende lak in plaats van een zware jus. Ají amarillo geeft een fruitige, zonnige hitte die typisch Peruaans is en soja en azijn een heel andere richting op stuurt dan een gewone Chinese roerbak. De frieten worden pas op het allerlaatste moment toegevoegd, waardoor ze net genoeg saus opnemen voor extra smaak maar hun krokante buitenkant behouden — precies het contrast waar dit iconische gerecht om bekendstaat."
+          "description": "Lomo saltado draait om snelheid en hitte. Het rundvlees wordt in kleine porties gewokt zodat het bruint zonder vocht los te laten. Rode ui blijft stevig, tomaat wordt alleen kort verwarmd en ají amarillo geeft fruitige hitte. De saus is bewust eenvoudig: lichte sojasaus levert zout en umami, rodewijnazijn geeft frisse scherpte en een klein beetje water helpt de saus zich snel door de wok te verdelen zonder zwaar of stroperig te worden. Door slechts een deel van de frieten kort door de wok te halen ontstaan twee structuren: een deel neemt wat saus op, terwijl de rest volledig krokant blijft. Rijst en friet samen lijken royaal, maar zijn juist kenmerkend voor lomo saltado."
         }
       ],
-      "chef_tip": "Ají amarillo-alternatief: Geen verse ají amarillo te vinden? Vervang door 1-2 eetlepels ají amarillo-pasta, toegevoegd samen met de knoflook — minder visueel, maar smaakvol een prima alternatief.\n\nAardappelkeuze: Gebruik uitsluitend kruimige aardappelen zoals Agria voor de beste friet-structuur.\n\nTomaten voorbereiden: Verwijder altijd de zaadlijsten uit de tomaten — anders wordt de saus waterig.\n\nZonder alcohol: Zonder pisco: laat de flambeerstap gewoon weg, het gerecht werkt ook prima zonder.\n\nSnijtechniek: Snijd het vlees altijd haaks op de draad voor de malsste structuur.\n\nDirect serveren: Serveer direct — na een paar minuten verliezen de frieten hun krokantheid.",
+      "chef_tip": "Mise-en-place: Zet alles klaar voordat de wok heet wordt: vlees gemarineerd, groenten gesneden, sausmengsel in een kommetje, bosui en koriander klaar, rijst warm en de frieten krokant. De wokfase duurt maar enkele minuten en laat geen tijd om iets te zoeken.\n\nTechniek: Snijd het vlees tegen de draad, dan blijft het mals.\n\nTechniek: Werk in kleine batches. Bak het vlees in twee porties van 250 g, zodat de wok heet blijft en het vlees bruint in plaats van stoomt.\n\nTechniek: Kies stevige rijpe tomaten en verwijder alleen zeer natte zaadlijsten. Hol de tomaat niet volledig uit; hij moet nog sappigheid bijdragen.\n\nTechniek: Gebruik uitsluitend kruimige aardappelen zoals Agria voor de beste frietstructuur.\n\nPresentatie: Serveer direct. Na een paar minuten verliezen de frieten hun krokantheid. Houd een derde van de frieten apart en leg die bij het serveren bovenop.\n\nVariatie: Pisco is optioneel. Pisco geeft een extra aromatische Peruaanse toets, maar het gerecht is ook zonder uitstekend. Flamberen mag, maar hoeft niet.\n\nAlternatief: Geen verse ají amarillo te vinden? Gebruik 1–1½ el ají amarillo-pasta en voeg die samen met de knoflook toe.\n\nAlternatief: Geen wok? Gebruik een brede, zware koekenpan en werk in kleine batches op maximaal vuur.",
+      "wine": {
+        "naam": "Malbec — Mendoza, Argentinië",
+        "druif": "Malbec",
+        "toelichting": "Aroma: Rijpe pruim, braam, zwarte kers, viooltjes en een lichte kruidige toon. Smaak en structuur: Middelvol tot vol, met rijp donker fruit, zachte tannines, voldoende frisheid en een soepele afdronk. Vermijd zwaar houtgerijpte of extreem alcoholrijke stijlen; die worden te log naast soja, azijn en tomaat. Malbec heeft genoeg structuur voor het hard aangebakken rundvlees, maar de tannines zijn doorgaans zacht genoeg om niet hard te botsen met de zoute sojasaus en frisse rodewijnazijn. Het rijpe donkere fruit sluit mooi aan op de gekaramelliseerde korst van het vlees, terwijl de natuurlijke fruitigheid de fruitige hitte van ají amarillo opvangt. De frisse kant van een goede Mendoza-Malbec is belangrijk: lomo saltado bevat naast rund ook tomaat, rode ui en azijn. Een te zware rode wijn zou die frisse wokbalans platdrukken. Serveer op 15–16 °C.",
+        "alternatief": "Carménère Reserva uit Chili, of een Rioja Crianza uit Spanje"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Malbec (Mendoza, Argentinië)",
+          "naam": "Malbec — Mendoza, Argentinië",
           "druif": "Malbec",
-          "smaakprofiel": "Rijp donker fruit — pruim, braam, een vleugje viool — met een zachte, fluwelen tanninestructuur.",
-          "omschrijving": "",
-          "waarom_werkt_dit": "de Zuid-Amerikaanse oorsprong sluit thematisch mooi aan, en de zachte tannines omhullen het rundvlees zonder te botsen met de zurige, sojarijke saus."
+          "smaakprofiel": "Herkomst: Mendoza, Argentinië. Stijl: rijp, sappig en middelvol tot vol.",
+          "omschrijving": "Aroma: Rijpe pruim, braam, zwarte kers, viooltjes en een lichte kruidige toon. Smaak en structuur: Middelvol tot vol, met rijp donker fruit, zachte tannines, voldoende frisheid en een soepele afdronk. Vermijd zwaar houtgerijpte of extreem alcoholrijke stijlen; die worden te log naast soja, azijn en tomaat.",
+          "waarom_werkt_dit": "Malbec heeft genoeg structuur voor het hard aangebakken rundvlees, maar de tannines zijn doorgaans zacht genoeg om niet hard te botsen met de zoute sojasaus en frisse rodewijnazijn. Het rijpe donkere fruit sluit mooi aan op de gekaramelliseerde korst van het vlees, terwijl de natuurlijke fruitigheid de fruitige hitte van ají amarillo opvangt. De frisse kant van een goede Mendoza-Malbec is belangrijk: lomo saltado bevat naast rund ook tomaat, rode ui en azijn. Een te zware rode wijn zou die frisse wokbalans platdrukken.",
+          "serveertemperatuur": "Serveer op 15–16 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Carménère Reserva (Chili)",
+          "naam": "Carménère Reserva — Chili",
           "druif": "Carménère",
-          "smaakprofiel": "Kruidig, met rood en zwart fruit, een subtiele paprika-ondertoon en zachte tannines.",
-          "omschrijving": "",
-          "waarom_werkt_dit": "de kruidigheid sluit mooi aan bij de Aziatisch-Peruaanse smaken van soja en ají amarillo, terwijl de zachte structuur het vlees goed begeleidt zonder te overheersen."
+          "smaakprofiel": "Herkomst: Colchagua of Maipo Valley, Chili. Stijl: kruidig, sappig en middelvol.",
+          "omschrijving": "Aroma: Zwarte bes, pruim, rode en groene paprika, gedroogde kruiden, zwarte peper en lichte specerijen. Smaak en structuur: Middelvol, soepel en kruidig, met zachte tannines, sappig donker fruit en een licht groene, peperige ondertoon.",
+          "waarom_werkt_dit": "De typische paprika- en kruidentonen van Carménère sluiten bijzonder mooi aan op ají amarillo, rode ui en koriander. Tegelijk heeft de wijn genoeg donker fruit om het rundvlees te dragen. De tannines zijn meestal zachter dan bij Cabernet Sauvignon, waardoor de wijn niet stroef wordt naast soja en azijn. Vooral wanneer de wok mooie geroosterde en licht rokerige tonen heeft, is Carménère een zeer sterke combinatie.",
+          "serveertemperatuur": "Serveer op 15–16 °C"
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Rioja Crianza",
+          "naam": "Rioja Crianza — Rioja, Spanje",
           "druif": "Tempranillo",
-          "smaakprofiel": "Elegant, met rood fruit, lichte kruiden en voldoende frisheid.",
-          "omschrijving": "",
-          "waarom_werkt_dit": "de frisheid houdt de tomaat en azijn in de saus mooi in balans, terwijl de zachte structuur toegankelijk en breed inzetbaar blijft."
+          "smaakprofiel": "Herkomst: Rioja, Spanje. Stijl: soepel, fris en medium-bodied.",
+          "omschrijving": "Aroma: Rode kers, pruim, gedroogde kruiden, lichte specerijen en een subtiele houttoon. Smaak en structuur: Middelvol, met frisse zuren, zachte tot gematigde tannines en een soepele, droge afdronk.",
+          "waarom_werkt_dit": "De frisse zuren van Rioja werken goed met tomaat en rodewijnazijn, terwijl het rode fruit genoeg gewicht heeft voor het rundvlees. De tannines zijn bescheidener dan bij veel krachtigere rode wijnen en botsen daardoor minder met soja. Kies bij voorkeur een Rioja Crianza die niet overdreven vanilleachtig of zwaar op hout is. Een frissere stijl houdt het gerecht levendig en is voor een breed gezelschap de makkelijkste keuze.",
+          "serveertemperatuur": "Serveer op 15–16 °C"
         }
       ]
     },
