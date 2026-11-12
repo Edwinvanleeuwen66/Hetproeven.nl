@@ -279,14 +279,11 @@
 
   
   <!-- Recept van de dag -->
-  <div id="recept-van-de-dag" style="max-width:1200px;margin:0 auto;padding:0 44px 32px;">
-    <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-      <span style="font-size:11px;letter-spacing:2px;color:#B85C30;font-family:'Lato',sans-serif;font-weight:700;">RECEPT VAN DE DAG</span>
-      <div style="flex:1;height:0.5px;background:#E0CDB8;"></div>
-    </div>
+  <div id="recept-van-de-dag" style="max-width:1200px;margin:0 auto;padding:28px 44px 32px;">
     <div id="rvdd-card" style="display:grid;grid-template-columns:1fr 1fr;gap:0;border-radius:6px;overflow:hidden;box-shadow:0 2px 16px rgba(0,0,0,0.08);cursor:pointer;" onclick="window.location=document.getElementById('rvdd-link').href">
-      <div style="position:relative;overflow:hidden;height:280px;">
-        <img id="rvdd-img" src="" alt="" style="width:100%;height:100%;object-fit:cover;" loading="eager">
+      <div style="position:relative;overflow:hidden;min-height:280px;">
+        <img id="rvdd-img" src="" alt="" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;" loading="eager">
+        <span style="position:absolute;top:16px;left:16px;padding:7px 14px;background:rgba(43,26,13,0.62);color:#fff;font-size:12px;letter-spacing:3px;font-family:'Lato',sans-serif;font-weight:700;border-radius:3px;white-space:nowrap;">RECEPT VAN DE DAG</span>
       </div>
       <div style="background:#FAFAF8;padding:32px;display:flex;flex-direction:column;justify-content:center;">
         <span id="rvdd-keuken" style="font-size:10px;letter-spacing:2px;color:#B85C30;font-weight:700;margin-bottom:8px;"></span>
@@ -299,8 +296,8 @@
   <style>
     @media(max-width:768px){
       #rvdd-card{grid-template-columns:1fr!important;}
-      #rvdd-card>div:first-child{height:200px!important;}
-      #recept-van-de-dag{padding:0 20px 24px!important;}
+      #rvdd-card>div:first-child{height:200px!important;min-height:0!important;}
+      #recept-van-de-dag{padding:20px 20px 24px!important;}
     }
   </style>
   <script>
