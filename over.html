@@ -208,6 +208,37 @@
       .over-gidsen { padding: 0 20px 36px; grid-template-columns: 1fr; }
       .over-divisor { padding: 0 20px; }
     }
+
+    /* Desktop: foto ongesneden naast de kop, tekstkolom blijft smal */
+    @media (min-width: 901px) {
+      .yoshi-hero {
+        width: min(1100px, calc(100vw - 120px));
+        height: auto;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 56px 0 8px;
+        display: grid;
+        grid-template-columns: 1.15fr 1fr;
+        align-items: center;
+        gap: 56px;
+        overflow: visible;
+        background: transparent;
+      }
+      .yoshi-hero img {
+        height: auto;
+        aspect-ratio: 5 / 4;
+        border-radius: 8px;
+        box-shadow: 0 8px 32px rgba(43,26,13,0.18);
+        transition: none;
+      }
+      .yoshi-hero:hover img { transform: none; }
+      .yoshi-hero-overlay { display: none; }
+      .yoshi-hero-caption { position: static; padding: 0; color: var(--deep); }
+      .yoshi-hero-caption .eyebrow { color: var(--accent); font-size: 11px; margin-bottom: 14px; }
+      .yoshi-hero-caption h1 { font-size: clamp(34px, 3.6vw, 54px); text-shadow: none; }
+      .yoshi-hero-caption h1 em { color: var(--accent); }
+    }
   </style>
 </head>
 <body>
