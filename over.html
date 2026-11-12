@@ -11,10 +11,10 @@
   </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Over — Het Proeven</title>
+  <title>Over ons — Het Proeven</title>
   <meta name="description" content="Ik ben Yoshi. En dit is het kookboek van mijn baasje Edwin. Hij kookt beter dan hij mij uitlaat. En dat zegt wat.">
   <meta property="og:site_name" content="Het Proeven">
-  <meta property="og:title" content="Over — Het Proeven">
+  <meta property="og:title" content="Over ons — Het Proeven">
   <meta property="og:description" content="Ik ben Yoshi. En dit is het kookboek van mijn baasje Edwin.">
   <link rel="canonical" href="https://hetproeven.nl/over">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -209,8 +209,9 @@
       .over-divisor { padding: 0 20px; }
     }
 
-    /* Desktop: foto ongesneden naast de kop, tekstkolom blijft smal */
+    /* Desktop: foto ongesneden naast de kop, brede leeskolom, grotere tekst */
     @media (min-width: 901px) {
+      .over-page { max-width: 1100px; }
       .yoshi-hero {
         width: min(1100px, calc(100vw - 120px));
         height: auto;
@@ -219,7 +220,7 @@
         transform: translateX(-50%);
         margin: 56px 0 8px;
         display: grid;
-        grid-template-columns: 1.15fr 1fr;
+        grid-template-columns: 1.1fr 1fr;
         align-items: center;
         gap: 56px;
         overflow: visible;
@@ -235,9 +236,17 @@
       .yoshi-hero:hover img { transform: none; }
       .yoshi-hero-overlay { display: none; }
       .yoshi-hero-caption { position: static; padding: 0; color: var(--deep); }
-      .yoshi-hero-caption .eyebrow { color: var(--accent); font-size: 11px; margin-bottom: 14px; }
-      .yoshi-hero-caption h1 { font-size: clamp(34px, 3.6vw, 54px); text-shadow: none; }
+      .yoshi-hero-caption .eyebrow { color: var(--accent); font-size: 12px; margin-bottom: 16px; }
+      .yoshi-hero-caption h1 { font-size: clamp(36px, 4vw, 60px); text-shadow: none; }
       .yoshi-hero-caption h1 em { color: var(--accent); }
+      .yoshi-hero-caption h1 em br { display: none; }
+      .over-tekst { max-width: 1000px; margin: 0 auto; padding: 56px 44px 0; font-size: 20px; line-height: 1.85; }
+      .over-tekst .signoff { font-size: 22px; }
+      .over-gerechten { padding: 56px 44px; }
+      .gerecht-foto { height: 220px; }
+      .gerecht-foto-naam { font-size: 13px; }
+      .gids-titel { font-size: 24px; }
+      .gids-beschrijving { font-size: 15px; }
     }
   </style>
 </head>
@@ -249,7 +258,7 @@
       <a href="/">Recepten</a>
       <a href="/wijnspijs-gids.html">Wijn & Spijs</a>
       <a href="/sterrenkok-gids.html">Sterrenkok</a>
-      <a href="/over.html">Over</a>
+      <a href="/over.html">Over ons</a>
     </div>
   </nav>
 
@@ -261,7 +270,7 @@
       <div class="yoshi-hero-overlay"></div>
       <div class="yoshi-hero-caption">
         <div class="eyebrow">Het Proeven — over ons</div>
-        <h1>Ik ben Yoshi.<br><em>En dit is het kookboek<br>van mijn baasje Edwin.</em></h1>
+        <h1>Ik ben Yoshi.<br><em>En dit is het kookboek <br>van mijn baasje Edwin.</em></h1>
       </div>
     </div>
 
