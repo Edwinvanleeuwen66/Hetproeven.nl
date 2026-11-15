@@ -9827,52 +9827,73 @@
       ]
     },
     {
-      "title": "Babi Pangang van krokante speklapjes met gelakte pangangsaus",
+      "title": "Babi Pangang: zoals bij de echte afhaalchinees",
       "slug": "babi-pangang-speklapjes",
-      "location": "Kanton",
-      "time": "45 min + 30 min marineren",
+      "location": "Nederland",
+      "time": "Actief ca. 1 uur 15 (plus 2–2½ uur garen en minimaal 3–4 uur koelen, bij voorkeur een nacht)",
       "servings": "4 personen",
-      "difficulty": "Makkelijk",
+      "difficulty": "Gemiddeld",
       "keuken": "Chinees",
       "categorie": "vlees",
       "image": "/assets/images/babi-pangang-speklapjes.jpg",
-      "short_description": "Krokant geroosterde speklapjes, schuin gesneden en geserveerd op een spiegel van glanzende zoetzure pangangsaus.",
-      "description": "Babi pangang zoals het in een goed Chinees restaurant hoort: speklapjes met een krokante rand, schuin gesneden zodat het marmer zichtbaar is, op een spiegel van zoetzure saus. De saus komt deels onder het vlees, niet erover — zo blijven de randjes krokant.",
+      "short_description": "Mals gegaard varkensvlees, krokant gefrituurd en overgoten met die glanzende, felrood-oranje zoetzure saus van de ouderwetse afhaalchinees.",
+      "description": "Babi pangang is dé klassieker van de Nederlandse Chinees-Indische keuken: krokante plakken varkensvlees, een bescheiden bedje atjar en een warme, glanzende, zoetzure saus die bijna fluorescerend rood-oranje van het bord straalt. Deze thuisversie benadert de smaak van de goede afhaalchinees: procureur als één geheel zacht gegaard in aromatisch kookvocht, een nacht afgekoeld en pas na het snijden krokant gefrituurd. De saus heeft een eigen opbouw met ananas, gember en tomaat: eerst zoet, dan zuur, fruitig en zonder poespas.",
       "ingredient_groups": [
         {
           "group_name": "Vlees",
           "ingredients": [
             {
-              "name": "speklapjes, niet te dun",
-              "amount": "8"
+              "name": "procureur aan één stuk, zonder bot en zonder zwoerd (of varkensnek aan één stuk, ontbeende schouderkarbonade, of goed dooraderde varkensschouder zonder bot; zie de tips voor schouderkarbonade met bot)",
+              "amount": "1 kg"
+            },
+            {
+              "name": "neutrale olie om te frituren",
+              "amount": "1–1,5 l"
+            }
+          ]
+        },
+        {
+          "group_name": "Aromatisch kookvocht",
+          "ingredients": [
+            {
+              "name": "water, afhankelijk van de pan",
+              "amount": "ca. 1,5 l"
+            },
+            {
+              "name": "steranijs, hele sterren",
+              "amount": "2"
             },
             {
               "name": "lichte sojasaus",
+              "amount": "4 el"
+            },
+            {
+              "name": "donkere sojasaus",
               "amount": "1 el"
             },
             {
-              "name": "Shaoxing rijstwijn of droge sherry",
-              "amount": "1 el"
+              "name": "Shaoxing rijstwijn",
+              "amount": "3 el"
+            },
+            {
+              "name": "verse gember, in plakjes",
+              "amount": "30 g"
+            },
+            {
+              "name": "knoflook, gekneusd",
+              "amount": "3 tenen"
+            },
+            {
+              "name": "ve-tsin (MSG)",
+              "amount": "½ tl"
             },
             {
               "name": "suiker",
-              "amount": "1 tl"
+              "amount": "1 el"
             },
             {
-              "name": "vijfkruidenpoeder",
-              "amount": "1 tl"
-            },
-            {
-              "name": "knoflookteen, fijn geraspt",
-              "amount": "1"
-            },
-            {
-              "name": "verse gember, fijn geraspt",
-              "amount": "1 tl"
-            },
-            {
-              "name": "zout en witte peper",
-              "amount": "naar smaak"
+              "name": "zout",
+              "amount": "½ tl"
             }
           ]
         },
@@ -9880,48 +9901,80 @@
           "group_name": "Pangangsaus",
           "ingredients": [
             {
-              "name": "lichte kippenbouillon",
-              "amount": "200 ml"
+              "name": "rode ui",
+              "amount": "½ middelgrote"
             },
             {
-              "name": "ketchup",
-              "amount": "4 el"
+              "name": "knoflook",
+              "amount": "2 tenen"
             },
             {
-              "name": "tomatenpuree",
+              "name": "verse gember, geschild",
+              "amount": "15 g"
+            },
+            {
+              "name": "bleekselderij",
+              "amount": "¼ stengel"
+            },
+            {
+              "name": "ananassap",
+              "amount": "100 ml"
+            },
+            {
+              "name": "stemgember (bolletjes)",
+              "amount": "2"
+            },
+            {
+              "name": "gembersiroop uit de pot",
               "amount": "2 el"
             },
             {
-              "name": "suiker",
-              "amount": "2½ el"
-            },
-            {
-              "name": "rijstazijn",
-              "amount": "2 el"
-            },
-            {
-              "name": "lichte sojasaus",
+              "name": "neutrale olie",
               "amount": "1 el"
             },
             {
-              "name": "verse gember, fijn geraspt",
-              "amount": "1 tl"
+              "name": "tomatenpuree",
+              "amount": "3 el"
             },
             {
-              "name": "knoflookteen, fijn geraspt",
-              "amount": "1"
+              "name": "ketchup",
+              "amount": "3 el"
             },
             {
-              "name": "sambal of chilisaus (optioneel)",
-              "amount": "1 tl"
+              "name": "water",
+              "amount": "200 ml"
             },
             {
-              "name": "maizena, gemengd met 2 el koud water",
-              "amount": "1½ tl"
+              "name": "kristalsuiker",
+              "amount": "3 el"
             },
             {
-              "name": "sesamolie",
-              "amount": "1 tl"
+              "name": "gele natuurazijn",
+              "amount": "3 el"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "sambal oelek",
+              "amount": "½–1 tl"
+            },
+            {
+              "name": "ve-tsin",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "zout, daarna bijstellen",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "maizena",
+              "amount": "1 el"
+            },
+            {
+              "name": "koud water voor de maizena",
+              "amount": "3 el"
             }
           ]
         },
@@ -9929,15 +9982,11 @@
           "group_name": "Afwerking",
           "ingredients": [
             {
-              "name": "lente-ui, fijngesneden",
-              "amount": "2"
+              "name": "atjar tjampoer, goed uitgelekt",
+              "amount": "150 g"
             },
             {
-              "name": "geroosterde sesam",
-              "amount": "1 el"
-            },
-            {
-              "name": "komkommerlinten",
+              "name": "resterende warme pangangsaus, om apart te serveren",
               "amount": "naar smaak"
             }
           ]
@@ -9945,73 +9994,82 @@
       ],
       "steps": [
         {
-          "action": "Marineren",
-          "description": "meng sojasaus, rijstwijn, suiker, vijfkruidenpoeder, knoflook, gember, zout en peper. Marineer de speklapjes minimaal 30 minuten."
+          "action": "Het kookvocht maken",
+          "description": "Kies een pan waarin de 1 kg procureur redelijk nauwsluitend past, zodat je niet onnodig veel water nodig hebt. Doe er ca. 1,5 l water, 2 steranijs, 4 el lichte sojasaus, 1 el donkere sojasaus, 3 el Shaoxing, 30 g gember in plakjes, 3 gekneusde tenen knoflook, ½ tl ve-tsin, 1 el suiker en ½ tl zout in en breng tegen de kook. Er wordt bewust geen marinade en geen vijfkruidenpoeder gebruikt."
         },
         {
-          "action": "Speklapjes garen",
-          "description": "bak de speklapjes rustig op middelhoog vuur zodat het vet kan smelten en het vlees gaar wordt. Verhoog daarna het vuur of rooster kort in een airfryer of oven tot de randjes krokant zijn. Laat 5 minuten rusten en snijd schuin in mooie stukken."
+          "action": "De procureur zacht garen",
+          "description": "Leg de 1 kg procureur als één geheel in het vocht; het vlees moet vrijwel onderstaan. Laat 2–2½ uur zacht garen bij een vloeistoftemperatuur van 85–95 °C. Het vocht mag nauwelijks borrelen. Controleer vanaf ca. 1 uur en 45 minuten de gaarheid: het vlees moet gemakkelijk met een prikker te doorboren zijn, maar stevig genoeg blijven om nette plakken te snijden. De gaartijd is indicatief; de structuur is belangrijker dan exact 2½ uur. Haal het vlees uit het vocht en laat kort uitdampen."
         },
         {
-          "action": "Pangangsaus maken",
-          "description": "verwarm bouillon, ketchup, tomatenpuree, suiker, azijn, sojasaus, sambal, gember en knoflook. Laat enkele minuten zacht koken. Bind met het maizenapapje tot een glanzende saus. Roer de sesamolie erdoor."
+          "action": "Het vlees afkoelen",
+          "description": "Leg het vlees in een ondiepe schaal en koel het snel terug. Zet het binnen 1 uur afgedekt in de koelkast (maximaal 4 °C) en laat het minimaal 3–4 uur, bij voorkeur een nacht, opstijven. Laat het niet uren op kamertemperatuur staan. Gebruik het kookvocht niet voor de saus; die krijgt een eigen smaakopbouw."
         },
         {
-          "action": "Serveren",
-          "description": "maak een spiegel van saus op het bord. Leg de speklapjes dakpansgewijs op de saus. Lak de bovenkant licht met extra saus en werk af met lente-ui, sesam en komkommerlinten."
+          "action": "De aromatische basis van de saus pureren",
+          "description": "Doe ½ middelgrote rode ui, 2 tenen knoflook, 15 g geschilde verse gember, ¼ stengel bleekselderij, 2 bolletjes stemgember en 100 ml ananassap in een blender. Pureer minimaal 1 minuut tot een zo glad mogelijke massa."
+        },
+        {
+          "action": "De rauwe smaken wegbakken",
+          "description": "Verhit 1 el neutrale olie in een steelpan. Voeg de puree toe en bak 8–10 minuten op middellaag vuur, onder regelmatig roeren. De rauwe smaak van ui en knoflook moet verdwijnen, maar het mengsel mag niet donkerbruin worden. Voeg 3 el tomatenpuree toe en bak 2 minuten mee. Roer daarna 3 el ketchup erdoor."
+        },
+        {
+          "action": "Zoetzuur opbouwen en gladmaken",
+          "description": "Voeg 200 ml water, 3 el kristalsuiker, 3 el gele natuurazijn, 2 el gembersiroop, 1 el citroensap, ½ tl sambal oelek, ¼ tl ve-tsin en ¼ tl zout toe. Laat ca. 10 minuten zacht koken. Pureer met een staafmixer en wrijf de saus door een fijne zeef, zodat er geen stukjes ui, gember of bleekselderij achterblijven."
+        },
+        {
+          "action": "De saus binden en op smaak brengen",
+          "description": "Meng 1 el maizena met 3 el koud water. Breng de gezeefde saus opnieuw zacht aan de kook en roer het maizenapapje beetje bij beetje erdoor. Laat 1 minuut zacht doorkoken. De saus moet glanzend en licht stroperig zijn, maar nog gemakkelijk van een lepel lopen. Proef: eerst een duidelijke zoete smaak, direct daarna een aangename zuurheid, een fruitige ondertoon van ananas, subtiele gember en een lichte hartige diepte. Geen dominante tomaat of knoflook. Te zoet: 1 tl azijn of ½ tl citroensap erbij. Te zuur: 1 tl suiker erbij. Te dun: 1 tl maizena in 1 el koud water erdoor en 1 minuut doorkoken. Te dik: 1–2 el water erdoor. Houd de saus warm."
+        },
+        {
+          "action": "Het vlees snijden en krokant frituren",
+          "description": "Snijd het koude vlees dwars op de draad in plakken van 8–10 mm en dep ze zorgvuldig droog. Verhit 1–1,5 l neutrale olie tot 180 °C. Frituur de plakken in kleine porties 1–2 minuten, afhankelijk van dikte en kleur, tot ze goudbruin en krokant zijn. Laat uitlekken op een rooster, niet op een stapel. Het vlees moet sappig en mals blijven, niet droog, niet uit elkaar vallend en niet zo zacht als pulled pork."
+        },
+        {
+          "action": "Opmaken en serveren",
+          "description": "Verwarm een schaal voor. Leg 150 g goed uitgelekte atjar tjampoer in een bescheiden bedje op de schaal. Verdeel de krokante plakken dakpansgewijs erover. Schep een royale hoeveelheid warme pangangsaus deels over het vlees en deels ernaast; laat enkele krokante randjes vrij. Serveer de rest van de saus apart."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Procureur: dooraderd vlees met genoeg vet en bindweefsel blijft tijdens het langzaam garen sappig; mager varkensvlees (zoals fricandeau) wordt droog en korrelig. Eén geheel garen: een heel stuk verliest minder vocht dan losse blokjes en geeft later nette, stevige plakken. Steranijs en sojasaus in het kookvocht: ze geven het vlees van binnen kruidigheid en zout, zonder dat een marinade het vlees nat maakt. Geen vijfkruidenpoeder: de smaak van de afhaalchinees komt uit de saus, niet uit een dominante kruidenmix in het vlees. Afkoelen: koud vlees is stevig, snijdt in nette plakken en neemt bij het frituren minder olie op. Pas na het snijden frituren: elke plak krijgt zo een eigen krokante korst. Ananassap en gembersiroop: ze zorgen voor fruitige zoetheid en een warme gemberende afdronk in de saus. Gepureerde rode ui meebakken: de ui lost op in de saus, geeft zoetheid en diepte en verdwijnt volledig na het zeven. Ve-tsin: het versterkt de hartige umami-diepte, waardoor de saus niet plat zoet smaakt. Suiker, azijn en tomaat: samen vormen ze het klassieke zoetzure karakter. Suiker zorgt voor glans en zoetheid, azijn voor frisheid, en tomaat en ketchup voor kleur en body."
         }
       ],
-      "tips": [
-        "marineer de speklapjes minstens 30 minuten, maar een nacht geeft merkbaar meer smaak — het vijfkruidenpoeder en de gember trekken dan echt in het vlees.",
-        "Techniek: bak de speklapjes eerst rustig op middelhoog vuur zodat het vet kan smelten en het vlees gaar wordt, verhoog dan pas het vuur voor de krokante randjes — omgekeerd werkt nooit.",
-        "Presentatie: giet de saus nooit over de hele lap — een spiegel eronder houdt de krokante randjes zichtbaar en intact. Een lichte laklaag bovenop is genoeg.",
-        "Variatie: voeg een theelepel hoisinsaus toe aan de pangangsaus voor een diepere, complexere zoetheid, of gebruik vijfkruiden in de saus zelf voor meer diepte.",
-        "Alternatief: geen Shaoxing rijstwijn? Gebruik droge sherry of droge sake — beide geven een vergelijkbare gefermenteerde diepte aan de marinade.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
+      "chef_tip": "Mise-en-place: Bereid het vlees een dag eerder. Garen, afkoelen en snijden kunnen de dag ervoor; de saus is ook een dag vooruit te maken. Op de dag zelf hoef je alleen de saus op te warmen, het vlees te frituren en te serveren.\n\nMise-en-place: Bewaren en opnieuw opwarmen. Bewaar gegaard vlees en saus gescheiden in de koelkast. Warm de saus zacht op en voeg zo nodig 1–2 el water toe. Maak overgebleven gefrituurd vlees weer krokant in een hete oven (200 °C, 6–8 minuten) of heteluchtfriteuse (3–4 minuten), nooit in de magnetron of in de saus.\n\nTechniek: Droog het vlees goed voor het frituren. Vocht laat de olie spatten en geeft een slappe korst. Dep de koude plakken met keukenpapier en laat ze eventueel 10 minuten op een rooster staan.\n\nTechniek: Houd de frituurolie op 180 °C en frituur in kleine porties. Bij te lage temperatuur zuigt het vlees vol olie, bij te hoge verbrandt de buitenkant voordat het vlees warm is. Een goudbruine, krokante rand is het teken dat de plak klaar is.\n\nTechniek: Corrigeer de saus op smaak. Te zoet: 1 tl azijn of ½ tl citroensap erbij. Te zuur: 1 tl suiker. Te dun: 1 tl maizena in 1 el koud water, 1 minuut doorkoken. Te dik: 1–2 el water. Voeg maizena altijd opgelost en beetje bij beetje toe, anders ontstaan klontjes.\n\nPresentatie: Serveer klassiek. Leg een bescheiden bedje atjar op een voorverwarmde schaal, dak de plakken erover en schep de warme saus deels over het vlees en deels ernaast, zodat enkele randjes krokant blijven. Serveer de rest van de saus apart.\n\nVariatie: Babi pangang met speklapjes. Neem 8 dikke speklapjes zonder zwoerd (samen 900–1.000 g, ca. 1,5–2 cm dik). Wrijf ze in met 2 el lichte sojasaus, 1 el Shaoxing, 1 tl donkere sojasaus, 1 tl suiker en ½ tl zout, en leg ze met 3 gekneusde tenen knoflook, 4 plakjes gember en 1 steranijs in een ovenschaal met 100 ml water. Dek af en gaar 1½–2 uur in een voorverwarmde oven op 140 °C, tot ze mals zijn en het vet deels is uitgesmolten. Laat kort afkoelen, dep goed droog en frituur ze 2–3 minuten op 180–190 °C tot ze krokant zijn. Snijd ze daarna in plakken en maak ze op met dezelfde saus. Deze versie is vetter en heeft een andere, meer ‘spekkerige’ structuur dan de procureurversie.\n\nAlternatief: Procureur vervangen. Varkensnek aan één stuk is hetzelfde vlees als procureur. Een ontbeende schouderkarbonade (liefst aan één stuk) of een goed dooraderde varkensschouder zonder bot werkt ook. Gebruik geen varkensfricandeau: die is te mager en wordt droog.\n\nAlternatief: Schouderkarbonade met bot kan eveneens. Koop meer, zodat je na het ontbenen ongeveer 1 kg vlees overhoudt. Verwijder het bot na het garen, terwijl het vlees nog warm is, en laat het vlees daarna volledig afkoelen.\n\nAlternatief: Heb je geen atjar tjampoer? Koop hem in de toko of supermarkt en laat hem goed uitlekken, zodat de saus niet verwatert.",
+      "wine": {
+        "naam": "Gewürztraminer — Elzas, Frankrijk",
+        "druif": "Gewürztraminer",
+        "toelichting": "Aroma: Lychee, roos, gember, abrikoos, een vleugje kruidnagel en exotische kruiden. Smaak en structuur: Vol en rond, met een zachte, licht restzoete aanzet, veel aroma en een lage tot middelmatige zuurgraad. De afdronk is lang, kruidig en lichtjes zoet. De aromatische toon van lychee en gember sluit direct aan op de ananas en gember in de saus, terwijl de ronde, licht zoete structuur het zoetzure karakter opvangt zonder zuur te lijken. De volle body past bij het krokante, rijke varkensvlees en de kruidige toets herkent de steranijs uit het kookvocht. Serveer op 8–10 °C.",
+        "alternatief": "Vouvray Demi-Sec uit de Loire, of een fruitige Beaujolais-Villages"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Gewürztraminer",
+          "naam": "Gewürztraminer — Elzas, Frankrijk",
           "druif": "Gewürztraminer",
-          "smaakprofiel": "Aromatisch, lychee, rooswater, gember, specerijachtig, rond",
-          "omschrijving": "De Gewürztraminer uit de Elzas is een van de meest aromatische witte wijnen ter wereld — met uitgesproken tonen van lychee, rozenwater, gember en exotisch fruit.",
-          "waarom_werkt_dit": "Die bloemige zoetheid spiegelt de zoetzure pangangsaus en tempert de zoutheid van het gemarineerde vlees perfect. De lichte rondheid van de wijn — Gewürztraminer heeft zelden hoge zuurgraad — past bij het vette karakter van de speklapjes. Een droge Vendange Tardive versie geeft nog meer diepte bij de karamelisatie in de saus. Serveer ijskoud op 8°C."
+          "smaakprofiel": "Herkomst: Elzas, Frankrijk. Kies een aromatische, bij voorkeur licht restzoete stijl (Gewürztraminer d’Alsace of een vendange tardive-achtige stijl zonder zware zoetheid), die bestand is tegen de uitgesproken zoetzure saus.",
+          "omschrijving": "Aroma: Lychee, roos, gember, abrikoos, een vleugje kruidnagel en exotische kruiden. Smaak en structuur: Vol en rond, met een zachte, licht restzoete aanzet, veel aroma en een lage tot middelmatige zuurgraad. De afdronk is lang, kruidig en lichtjes zoet.",
+          "waarom_werkt_dit": "De aromatische toon van lychee en gember sluit direct aan op de ananas en gember in de saus, terwijl de ronde, licht zoete structuur het zoetzure karakter opvangt zonder zuur te lijken. De volle body past bij het krokante, rijke varkensvlees en de kruidige toets herkent de steranijs uit het kookvocht.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Off-dry Chenin Blanc Kabinett",
+          "naam": "Vouvray Demi-Sec — Loire, Frankrijk",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, goede zuren",
-          "omschrijving": "frisser en lichter, werkt als de pangangsaus erg zoet is",
-          "waarom_werkt_dit": "Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De frisheid houdt de korst krokant in beleving en voorkomt dat vet of beslag log wordt."
+          "smaakprofiel": "Herkomst: Vouvray, Loire, Frankrijk. Chenin Blanc met rijp fruit, voldoende restzoet en levendige zuren.",
+          "omschrijving": "Aroma: Rijpe gele appel, kweepeer, honing, perzik en een licht wollige, minerale toon. Smaak en structuur: Halfdroog tot licht zoet, met levendige zuren, een middelvolle body en een schone, minerale afdronk met een vleugje honing.",
+          "waarom_werkt_dit": "De frisse zuren houden stand tegenover de azijn in de saus en maken het krokante vlees lichter. Het rijpe fruit en de licht zoete toets passen bij de ananas en suiker in de saus, zodat zoet en zuur in balans blijven in plaats van elkaar te bestrijden.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
-          "type": "alternatief",
-          "naam": "Beaujolais-Villages AOC — Beaujolais, Frankrijk",
+          "type": "meest-toegankelijk",
+          "naam": "Beaujolais-Villages — Beaujolais, Frankrijk",
           "druif": "Gamay",
-          "smaakprofiel": "Droog, sappig rood fruit, lage tannine, fris, licht kruidig",
-          "omschrijving": "Een lichte, sappige rode wijn die koelte en fruit geeft zonder het gerecht te verzwaren.",
-          "waarom_werkt_dit": "De frisse zuren en lichte body van Gamay houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen."
+          "smaakprofiel": "Herkomst: Beaujolais, Frankrijk. Een fruitige, lichte Gamay met weinig tannine.",
+          "omschrijving": "Aroma: Rood fruit zoals kers, framboos en aardbei, met een vleugje viooltjes en peper. Smaak en structuur: Soepel en levendig, met frisse zuren, zachte tannine en een lichte tot middelvolle body. De afdronk is sappig en fruitig.",
+          "waarom_werkt_dit": "Het sappige rode fruit past bij de tomaat en zoetheid in de saus, en de lage tannine botst niet met het zoetzure. Een droge rode wijn met veel tannine kan juist lastig combineren met zo’n uitgesproken zoete saus. Schenk de Beaujolais licht gekoeld, zodat de frisheid de krokante korst en de saus opfrist.",
+          "serveertemperatuur": "Serveer op 12–14 °C"
         }
-      ],
-      "wine": {
-        "naam": "Gewürztraminer",
-        "druif": "Gewürztraminer",
-        "toelichting": "De Gewürztraminer uit de Elzas is een van de meest aromatische witte wijnen ter wereld — met uitgesproken tonen van lychee, rozenwater, gember en exotisch fruit. Die bloemige zoetheid spiegelt de zoetzure pangangsaus en tempert de zoutheid van het gemarineerde vlees perfect. De lichte rondheid van de wijn — Gewürztraminer heeft zelden hoge zuurgraad — past bij het vette karakter van de speklapjes. Een droge Vendange Tardive versie geeft nog meer diepte bij de karamelisatie in de saus. Serveer ijskoud op 8°C.",
-        "alternatief": "Off-dry Chenin Blanc Kabinett — frisser en lichter, werkt als de pangangsaus erg zoet is"
-      },
-      "tips_full": [
-        "marineer de speklapjes minstens 30 minuten, maar een nacht geeft merkbaar meer smaak — het vijfkruidenpoeder en de gember trekken dan echt in het vlees.",
-        "Techniek: bak de speklapjes eerst rustig op middelhoog vuur zodat het vet kan smelten en het vlees gaar wordt, verhoog dan pas het vuur voor de krokante randjes — omgekeerd werkt nooit.",
-        "Presentatie: giet de saus nooit over de hele lap — een spiegel eronder houdt de krokante randjes zichtbaar en intact. Een lichte laklaag bovenop is genoeg.",
-        "Variatie: voeg een theelepel hoisinsaus toe aan de pangangsaus voor een diepere, complexere zoetheid, of gebruik vijfkruiden in de saus zelf voor meer diepte.",
-        "Alternatief: geen Shaoxing rijstwijn? Gebruik droge sherry of droge sake — beide geven een vergelijkbare gefermenteerde diepte aan de marinade.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
-      "chef_tip": "marineer de speklapjes minstens 30 minuten, maar een nacht geeft merkbaar meer smaak — het vijfkruidenpoeder en de gember trekken dan echt in het vlees.\n\nTechniek: bak de speklapjes eerst rustig op middelhoog vuur zodat het vet kan smelten en het vlees gaar wordt, verhoog dan pas het vuur voor de krokante randjes — omgekeerd werkt nooit.\n\nPresentatie: giet de saus nooit over de hele lap — een spiegel eronder houdt de krokante randjes zichtbaar en intact. Een lichte laklaag bovenop is genoeg.\n\nVariatie: voeg een theelepel hoisinsaus toe aan de pangangsaus voor een diepere, complexere zoetheid, of gebruik vijfkruiden in de saus zelf voor meer diepte.\n\nAlternatief: geen Shaoxing rijstwijn? Gebruik droge sherry of droge sake — beide geven een vergelijkbare gefermenteerde diepte aan de marinade.\n\nRusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.\n\nBalans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
+      ]
     },
     {
       "title": "Koe Loe Joek van varkenshaas met zoetzure ananassaus",
@@ -10246,23 +10304,23 @@
       ]
     },
     {
-      "title": "Mini kipsaté van platgeslagen kipdij met diepe zoete pindasaus",
+      "title": "Mini kipsaté met romige zoete pindasaus",
       "slug": "mini-kipsate-pindasaus",
       "location": "Singapore",
-      "time": "25 min + 30 min marineren",
-      "servings": "4 personen",
+      "time": "30 min + 30 min marineren",
+      "servings": "4 personen (16 mini-satéetjes)",
       "difficulty": "Makkelijk",
       "keuken": "Chinees",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/mini-kipsate-pindasaus.jpg",
-      "short_description": "Kleine éénhaps-satéetjes van platgeslagen kipdij, gegrild en geserveerd met een romige, diepe pindasaus.",
-      "description": "Kleine satéetjes van kipdij, licht platgeslagen voor meer grilloppervlak en betere karamelisatie. De pindasaus is donker, romig en zoet-hartig — pindakaas, kokosmelk, ketjap, ketchup, gember. Herkenbaar, maar met diepte.",
+      "short_description": "Zestien kleine, sappige kipdijsatéetjes met gekaramelliseerde randjes en een volle, glanzende, romige zoete pindasaus.",
+      "description": "Zestien hapklare satéetjes van platgeslagen kipdij, kort gegrild tot ze sappig zijn en aan de randjes licht karamelliseren door de ketjap. Daarbij hoort een royale, fluweelzachte, romige zoete pindasaus: zoet en hartig, met een subtiele gembertoon, een klein beetje pit en net genoeg azijn om hem fris te houden. Een borrelhapje dat er verzorgd uitziet en dat je thuis zonder gedoe maakt.",
       "ingredient_groups": [
         {
-          "group_name": "Kip",
+          "group_name": "Kip en marinade",
           "ingredients": [
             {
-              "name": "kipdijfilet, in kleine stukken",
+              "name": "kipdijfilet, zonder bot en vel",
               "amount": "400 g"
             },
             {
@@ -10274,53 +10332,37 @@
               "amount": "1 el"
             },
             {
-              "name": "zonnebloemolie",
+              "name": "neutrale olie",
               "amount": "1 el"
             },
             {
-              "name": "sesamolie",
-              "amount": "1 tl"
-            },
-            {
-              "name": "honing of bruine basterdsuiker",
-              "amount": "1 tl"
-            },
-            {
-              "name": "knoflookteen, fijn geraspt",
-              "amount": "1"
+              "name": "knoflook, fijn geraspt",
+              "amount": "1 teen"
             },
             {
               "name": "verse gember, fijn geraspt",
               "amount": "1 tl"
             },
             {
-              "name": "korianderpoeder",
+              "name": "gemalen witte peper",
               "amount": "½ tl"
             },
             {
-              "name": "komijnpoeder",
-              "amount": "½ tl"
-            },
-            {
-              "name": "witte peper en zout",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "kleine houten prikkers",
+              "name": "kleine houten of bamboe satéprikkers",
               "amount": "16"
             }
           ]
         },
         {
-          "group_name": "Diepe pindasaus",
+          "group_name": "Romige zoete pindasaus",
           "ingredients": [
             {
-              "name": "pindakaas naturel",
-              "amount": "3 el"
+              "name": "gladde pindakaas naturel, bij voorkeur zonder toegevoegde suiker",
+              "amount": "5 el"
             },
             {
-              "name": "kokosmelk",
-              "amount": "180 ml"
+              "name": "water",
+              "amount": "125 ml"
             },
             {
               "name": "kippenbouillon",
@@ -10328,39 +10370,51 @@
             },
             {
               "name": "ketjap manis",
-              "amount": "1½ el"
-            },
-            {
-              "name": "lichte sojasaus",
-              "amount": "1 el"
+              "amount": "2 el"
             },
             {
               "name": "ketchup",
+              "amount": "1½ el"
+            },
+            {
+              "name": "gembersiroop",
               "amount": "1 el"
             },
             {
-              "name": "sambal oelek",
-              "amount": "½–1 tl"
+              "name": "bruine basterdsuiker",
+              "amount": "1 el"
+            },
+            {
+              "name": "lichte sojasaus",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflook, fijn geraspt",
+              "amount": "1 teen"
             },
             {
               "name": "sjalot, zeer fijn gesnipperd",
-              "amount": "1"
+              "amount": "½"
             },
             {
-              "name": "knoflookteen, fijn geraspt",
-              "amount": "1"
-            },
-            {
-              "name": "verse gember, fijn geraspt",
-              "amount": "1 tl"
-            },
-            {
-              "name": "rijstazijn of limoensap",
-              "amount": "1 tl"
-            },
-            {
-              "name": "sesamolie",
+              "name": "sambal oelek",
               "amount": "½ tl"
+            },
+            {
+              "name": "ve-tsin (MSG)",
+              "amount": "⅛ tl"
+            },
+            {
+              "name": "natuurazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 tl"
+            },
+            {
+              "name": "warm water, om zo nodig te verdunnen",
+              "amount": "1–2 el"
             }
           ]
         },
@@ -10368,19 +10422,11 @@
           "group_name": "Afwerking",
           "ingredients": [
             {
-              "name": "gebakken uitjes",
+              "name": "krokant gebakken uitjes",
               "amount": "1 el"
             },
             {
-              "name": "geroosterde pinda's, grof gehakt",
-              "amount": "1 el"
-            },
-            {
-              "name": "lente-ui, in ringetjes",
-              "amount": "2"
-            },
-            {
-              "name": "partjes limoen",
+              "name": "lente-ui, alleen het groene deel, in zeer fijne ringetjes (naar keuze)",
               "amount": "1"
             }
           ]
@@ -10388,73 +10434,78 @@
       ],
       "steps": [
         {
-          "action": "Marineren en platslaan",
-          "description": "leg de stukken kipdij tussen bakpapier en sla licht plat. Meng alle marinade-ingrediënten en marineer de kip minstens 30 minuten."
+          "action": "Kip snijden",
+          "description": "Snijd de 400 g kipdijfilet in 16 langwerpige stukjes van ca. 25 g."
         },
         {
-          "action": "Pindasaus maken",
-          "description": "fruit sjalot, knoflook en gember zacht aan. Voeg pindakaas, kokosmelk, bouillon, ketjap, sojasaus, ketchup en sambal toe. Laat rustig warm worden op laag vuur en roer glad. Breng op smaak met rijstazijn en sesamolie."
+          "action": "Kip platslaan",
+          "description": "Leg de stukjes tussen twee vellen bakpapier en sla ze voorzichtig plat met de bodem van een steelpan tot ca. 7–8 mm dik. Sla met gelijkmatige, rustige bewegingen, zodat het vlees niet scheurt."
+        },
+        {
+          "action": "Marineren",
+          "description": "Meng 2 el ketjap manis, 1 el lichte sojasaus, 1 el neutrale olie, 1 teen geraspte knoflook, 1 tl geraspte gember en ½ tl witte peper. Schep de kip erdoor en laat minimaal 30 minuten afgedekt in de koelkast marineren."
+        },
+        {
+          "action": "Pindasaus voorbereiden",
+          "description": "Snipper ½ sjalot zeer fijn en rasp 1 teen knoflook."
+        },
+        {
+          "action": "Pindasaus bereiden",
+          "description": "Fruit de sjalot en knoflook 2 minuten op laag vuur in 1 tl olie, zonder kleur. Voeg 5 el pindakaas, 125 ml water, 75 ml kippenbouillon, 2 el ketjap manis, 1½ el ketchup, 1 el gembersiroop, 1 el bruine basterdsuiker, 1 tl lichte sojasaus, ½ tl sambal oelek en ⅛ tl ve-tsin toe. Verwarm 5–7 minuten op laag vuur en roer tot een gladde, romige saus. Roer als laatste 1 tl natuurazijn erdoor. De saus moet langzaam van een lepel lopen; voeg zo nodig 1–2 el warm water toe."
+        },
+        {
+          "action": "Saté rijgen",
+          "description": "Rijg één plat stukje kip zigzaggend aan elke prikker, zodat 16 kleine, platte satéetjes ontstaan."
         },
         {
           "action": "Grillen",
-          "description": "rijg één of twee stukjes kip per prikker. Grill kort en heet in een grillpan tot ze karamelliseren en sappig blijven."
+          "description": "Verhit een grillpan goed voor op middelhoog tot hoog vuur. Gril de satéetjes 2–3 minuten per kant, tot ze gaar zijn (bij voorkeur 74 °C in de kern) en de ketjap licht gekaramelliseerd is. Zet het vuur lager als de ketjap te snel donker wordt."
         },
         {
           "action": "Serveren",
-          "description": "maak een kleine spiegel pindasaus op elk bord. Stapel de satéetjes kruislings op elkaar. Werk af met gebakken uitjes, pinda's, lente-ui en een partje limoen."
+          "description": "Schep op elk klein bord een royale lepel of korte spiegel warme pindasaus. Leg 4 satéetjes er deels overheen, zodat de gegrilde kip zichtbaar blijft. Werk af met in totaal 1 el krokant gebakken uitjes en eventueel fijne ringetjes groene lente-ui."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Kipdij: dit stuk bevat meer vet en bindweefsel dan kipfilet en blijft daardoor sappig, ook als het snel op hoge temperatuur wordt gegrild. Platslaan: een dunnere, gelijkmatige plak heeft meer grilloppervlak, gaart sneller en gelijkmatig, en krijgt meer gekaramelliseerde randjes. Ketjap manis: de suikers in de ketjap karamelliseren op de hete pan en geven de kip een diepbruine, licht gelakte buitenkant. Eenvoudige marinade: ketjap, soja, knoflook, gember en peper versterken de kip zonder te concurreren met de pindasaus. Pindakaas: de fijn gemalen pinda’s zijn al gebonden met olie, waardoor de saus glad, stabiel en romig wordt zonder gedoe met roosteren en malen. Geen kokosmelk: de saus blijft rijk en zoet-hartig, maar de pindasmaak en de ketjap blijven de hoofdrol houden. Gembersiroop: het geeft de zoetheid diepte en een lichte warme toon in plaats van platte suiker. Ketchup: een kleine hoeveelheid zorgt voor een subtiele zoetzure achtergrond en een diepere kleur. Ve-tsin: een heel klein beetje versterkt de hartige umami, zodat de saus niet alleen zoet smaakt. Azijn: een scheut aan het eind maakt de volle saus minder zwaar en houdt hem fris."
         }
       ],
-      "tips": [
-        "marineer de kip minstens 30 minuten — een nacht geeft merkbaar meer smaak. Sla de kip licht plat voor meer grilloppervlak en betere karamelisatie.",
-        "Techniek: verwarm de pindasaus altijd op laag vuur — te hard koken laat hem schiften. Roer constant en voeg een scheutje kokosmelk toe als hij te dik wordt.",
-        "Presentatie: leg een kleine spiegel pindasaus op elk bord en stapel de satéetjes kruislings erop — dat geeft hoogte en structuur aan een simpel hapje.",
-        "Variatie: voeg een theelepel sambal badjak toe aan de pindasaus voor extra diepte, of gebruik kippendij in plaats van -filet voor een sappiger, rijker resultaat.",
-        "Alternatief: geen kokosmelk voor de pindasaus? Gebruik volle room — geeft een rijkere, minder tropische saus die even goed werkt bij de gegrilde kip.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
+      "chef_tip": "Mise-en-place: Maak de pindasaus een dag eerder. Hij smaakt na een nacht koelen ronder. Bewaar hem afgedekt in de koelkast, verwarm hem rustig op laag vuur en roer er 1–2 el warm water door, omdat hij in de koelkast dikker wordt.\n\nMise-en-place: Gebruik je houten prikkers op de barbecue of onder de grill, week ze dan 30 minuten in water. Zo verbranden ze niet.\n\nTechniek: Kies kipdijfilet in plaats van kipfilet. Kipdij is vetter en blijft ook bij hoge hitte sappig en mals. Haal losse velletjes en vetranden weg.\n\nTechniek: Sla de kip rustig plat tussen twee vellen bakpapier. Begin in het midden en werk naar de randen, met gelijkmatige slagen. Te hard slaan scheurt het vlees.\n\nTechniek: Marineer minimaal 30 minuten. Langer mag, tot een nacht, zolang de kip gekoeld en afgedekt staat. Erg lang marineren in sojasaus maakt het vlees droger en zouter.\n\nTechniek: Gril op middelhoog tot hoog vuur en keer de satéetjes na 2–3 minuten. De ketjap karamelliseert snel en verbrandt als de pan te heet is. Dep overtollige marinade af en zet het vuur zo nodig lager. Controleer de gaarheid: 74 °C in de kern, of een sap dat helder is zonder roze.\n\nTechniek: Kies gladde pindakaas naturel. Heeft de pindakaas toegevoegde suiker, gebruik dan ½ el bruine basterdsuiker in plaats van 1 el en proef voor je meer toevoegt.\n\nTechniek: Pas de dikte aan. Te dik: roer 1–2 el warm water erdoor. Te dun: laat de saus 1–2 minuten zachtjes inkoken terwijl je roert.\n\nTechniek: Corrigeer de balans op smaak. Te zoet: ½ tl natuurazijn of een paar druppels lichte sojasaus. Te zout (kippenbouillon verschilt sterk): 1–2 el warm water en een beetje meer pindakaas. Te mild: ¼ tl extra sambal oelek.\n\nPresentatie: Gebruik per persoon een klein bord met een royale spiegel saus en leg de satéetjes er deels overheen, zodat de grillstrepen zichtbaar blijven. Strooi de krokante uitjes er bij het opdienen over, zodat ze krokant blijven.\n\nVariatie: Bereid de satéetjes op de barbecue of in de oven. Barbecue: direct boven hete kolen of gas (ca. 200–230 °C), 2–3 minuten per kant. Oven: onder de grill op de hoogste stand, 8–10 cm van het element, 3–4 minuten per kant. Heteluchtoven: 230 °C, 8–10 minuten, halverwege keren.\n\nAlternatief: Heb je alleen kipfilet? Snijd hem in plakken van 25 g, sla ze plat en gril 2 minuten per kant, tot ze net gaar zijn. Kipfilet wordt sneller droog, dus controleer de gaarheid eerder.",
+      "wine": {
+        "naam": "Riesling Kabinett halbtrocken — Rheingau of Pfalz, Duitsland",
+        "druif": "Riesling",
+        "toelichting": "Aroma: Abrikoos, rijpe perzik, limoen, witte bloemen en een minerale, steenachtige toon. Smaak en structuur: Halfdroog tot licht zoet, met levendige zuren, een lichte tot middelvolle body en een schone, lange, fruitige afdronk. De lichte restzoetheid en het rijpe steenfruit sluiten aan op de zoete pindasaus en de gekaramelliseerde ketjap, terwijl de levendige zuren de romigheid van de saus doorsnijden. De wijn blijft licht genoeg om de sappige kipdij niet te overheersen, en de gember in de marinade en de saus vindt een echo in de pittige, minerale afdronk. Serveer op 8–10 °C.",
+        "alternatief": "Torrontés uit Salta, of een frisse Chenin Blanc uit Zuid-Afrika"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Viognier",
-          "druif": "Viognier",
-          "smaakprofiel": "Droog, abrikoos, perzik, witte bloesem, zachte zuren, rond",
-          "omschrijving": "Viognier geeft aromatisch volume bij kruidige, kokosrijke of licht pittige gerechten.",
-          "waarom_werkt_dit": "De Viognier heeft genoeg body om de rijkdom van de saus bij te houden zonder haar te overstemmen. De lichte rondheid tempert de sambal terwijl de aromatische complexiteit aansluit op de citroengras en koriander in de marinade. Vermijd houtgerijpte Viognier — die overspoelt de delicate satésmaak. Serveer op 12°C."
+          "naam": "Riesling Kabinett halbtrocken — Rheingau of Pfalz, Duitsland",
+          "druif": "Riesling",
+          "smaakprofiel": "Herkomst: Rheingau of Pfalz, Duitsland. Een halfdroge Kabinett zonder houtrijping, met rijp fruit en een lichte restzoetheid.",
+          "omschrijving": "Aroma: Abrikoos, rijpe perzik, limoen, witte bloemen en een minerale, steenachtige toon. Smaak en structuur: Halfdroog tot licht zoet, met levendige zuren, een lichte tot middelvolle body en een schone, lange, fruitige afdronk.",
+          "waarom_werkt_dit": "De lichte restzoetheid en het rijpe steenfruit sluiten aan op de zoete pindasaus en de gekaramelliseerde ketjap, terwijl de levendige zuren de romigheid van de saus doorsnijden. De wijn blijft licht genoeg om de sappige kipdij niet te overheersen, en de gember in de marinade en de saus vindt een echo in de pittige, minerale afdronk.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Droge Torrontés uit Argentinië",
+          "naam": "Torrontés — Salta, Argentinië",
           "druif": "Torrontés",
-          "smaakprofiel": "Droog tot licht aromatisch, witte bloemen, citrus, druif, lychee, fris",
-          "omschrijving": "even aromatisch als Viognier maar lichter en frisser van karakter",
-          "waarom_werkt_dit": "Biedt meer Torrontés-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
+          "smaakprofiel": "Herkomst: Salta (Cafayate), Argentinië. Een aromatische, frisse Torrontés van grote hoogte.",
+          "omschrijving": "Aroma: Roos, jasmijn, citrus, lychee, perzik en een vleugje gember. Smaak en structuur: Droog tot nauwelijks zoet, met verfrissende zuren, een middelvolle body en een aromatische, licht bittere afdronk.",
+          "waarom_werkt_dit": "Het uitgesproken bloemige en fruitige aroma past bij de gember in marinade en saus, en bij de licht gekaramelliseerde kip. De zuren frissen de romige pindasaus op en de wijn is aromatisch genoeg om de zoet-hartige toon te dragen.",
+          "serveertemperatuur": "Serveer op 7–9 °C"
         },
         {
-          "type": "alternatief",
-          "naam": "Chenin Blanc — Stellenbosch, Zuid-Afrika",
+          "type": "meest-toegankelijk",
+          "naam": "Chenin Blanc — Zuid-Afrika",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Fris, appel, kweepeer, citrus, lichte honingtoon, levendige zuren",
-          "omschrijving": "Chenin Blanc combineert spanning met ronding; droog of licht demi-sec afhankelijk van het gerecht.",
-          "waarom_werkt_dit": "Chenin combineert zuren met een subtiele honing- of kweepeerronding, waardoor zoet, zuur, pittig en romig tegelijk in balans blijven. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "smaakprofiel": "Herkomst: Stellenbosch of Swartland, Zuid-Afrika. Een frisse, fruitige Chenin Blanc zonder dominante houtrijping.",
+          "omschrijving": "Aroma: Gele appel, peer, meloen, honing en een lichte bloesemtoon. Smaak en structuur: Droog en sappig, met levendige zuren, een middelvolle body en een schone, fruitige afdronk.",
+          "waarom_werkt_dit": "De frisse zuren verfrissen de romige pindasaus en maken het gerecht lichter, terwijl het rijpe fruit de zoet-hartige smaak van ketjap en pindakaas ondersteunt. De wijn is zacht en toegankelijk, dus hij past ook bij gasten die niet van uitgesproken aromatische wijnen houden.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         }
-      ],
-      "wine": {
-        "naam": "Viognier",
-        "druif": "Viognier",
-        "toelichting": "De volle, aromatische body van een Rhône Viognier — met tonen van witte perzik, abrikoos, witte bloesem en een vleugje gember — gaat perfect mee met de romige pindasaus en de zoete marinade van de kip. De Viognier heeft genoeg body om de rijkdom van de saus bij te houden zonder haar te overstemmen. De lichte rondheid tempert de sambal terwijl de aromatische complexiteit aansluit op de citroengras en koriander in de marinade. Vermijd houtgerijpte Viognier — die overspoelt de delicate satésmaak. Serveer op 12°C.",
-        "alternatief": "Droge Torrontés uit Argentinië — even aromatisch als Viognier maar lichter en frisser van karakter"
-      },
-      "tips_full": [
-        "marineer de kip minstens 30 minuten — een nacht geeft merkbaar meer smaak. Sla de kip licht plat voor meer grilloppervlak en betere karamelisatie.",
-        "Techniek: verwarm de pindasaus altijd op laag vuur — te hard koken laat hem schiften. Roer constant en voeg een scheutje kokosmelk toe als hij te dik wordt.",
-        "Presentatie: leg een kleine spiegel pindasaus op elk bord en stapel de satéetjes kruislings erop — dat geeft hoogte en structuur aan een simpel hapje.",
-        "Variatie: voeg een theelepel sambal badjak toe aan de pindasaus voor extra diepte, of gebruik kippendij in plaats van -filet voor een sappiger, rijker resultaat.",
-        "Alternatief: geen kokosmelk voor de pindasaus? Gebruik volle room — geeft een rijkere, minder tropische saus die even goed werkt bij de gegrilde kip.",
-        "Snijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.",
-        "Balans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
-      ],
-      "chef_tip": "marineer de kip minstens 30 minuten — een nacht geeft merkbaar meer smaak. Sla de kip licht plat voor meer grilloppervlak en betere karamelisatie.\n\nTechniek: verwarm de pindasaus altijd op laag vuur — te hard koken laat hem schiften. Roer constant en voeg een scheutje kokosmelk toe als hij te dik wordt.\n\nPresentatie: leg een kleine spiegel pindasaus op elk bord en stapel de satéetjes kruislings erop — dat geeft hoogte en structuur aan een simpel hapje.\n\nVariatie: voeg een theelepel sambal badjak toe aan de pindasaus voor extra diepte, of gebruik kippendij in plaats van -filet voor een sappiger, rijker resultaat.\n\nAlternatief: geen kokosmelk voor de pindasaus? Gebruik volle room — geeft een rijkere, minder tropische saus die even goed werkt bij de gegrilde kip.\n\nSnijden: Zet alle garneringen klaar voordat je begint met opbouwen; kleine hapjes verliezen snel kwaliteit als je tijdens het serveren nog moet snijden.\n\nBalans: proef het eindresultaat als complete hap, niet elk onderdeel los. Bij tapas telt vooral wat er in één beet gebeurt."
+      ]
     },
     {
       "title": "Tjap Tjoy Deluxe met kip en fluweelzachte restaurantsaus",
@@ -10655,74 +10706,70 @@
       "title": "Foe Yong Hai Royale met beenham, prei en fluwelen tomatensaus",
       "slug": "foe-yong-hai-royale",
       "location": "Nederland — Chinees-Indische keuken",
-      "time": "30 min",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
+      "time": "40 min (15 min voorbereiding + ca. 25 min bereiding)",
+      "servings": "4 personen (één grote omelet)",
+      "difficulty": "Gemiddeld",
       "keuken": "Chinees",
       "categorie": "vlees",
       "image": "/assets/images/foe-yong-hai-royale.jpg",
-      "short_description": "Luchtige goudbruine omelet met beenham, prei en taugé op een spiegel van echte zoetzure tomatensaus — de Chinees-Indische restaurantklassieker.",
-      "description": "Foe yong hai is gebaseerd op Chinese eiergerechten in de stijl van egg foo young en werd in Nederland bekend via de Chinees-Indische restauranttraditie. Dit is bewust géén droge supermarkt-omelet, maar de royale, zachte restaurantversie: goudbruin van buiten, zacht van binnen, met goede beenham en verse prei. De tomatensaus is herkenbaar zoetzuur en glanzend — gemaakt met bouillon, gember en sesamolie, niet uit een pak.",
+      "short_description": "Eén grote, dikke, goudbruine omelet met beenham, prei en taugé, onder een royale, glanzende, zachtzoete en lichtzure tomatensaus.",
+      "description": "Een grote, goudbruine omelet die bijna uit zijn schaal puilt, gevuld met malse beenham, zachte prei en knapperige taugé. Daaroverheen een royale hoeveelheid warme, glanzende tomatensaus: zachtzoet, een tikje zuur en met een subtiele fruitigheid van ananassap en gembersiroop. Dit is foe yong hai zoals je hem graag bij een goed Chinees-Indisch restaurant eet: geen droge omelet met een voorzichtig lepeltje saus, maar een sappig gerecht waarin ei, groenten en zoetzure saus samenkomen.",
       "ingredient_groups": [
         {
-          "group_name": "Omelet",
+          "group_name": "Voor de grote omelet",
           "ingredients": [
             {
-              "name": "eieren",
+              "name": "grote eieren",
               "amount": "6"
             },
             {
-              "name": "beenham of achterham, in fijne reepjes",
+              "name": "goede beenham of achterham, in fijne reepjes",
               "amount": "150 g"
             },
             {
-              "name": "taugé",
+              "name": "prei, uitsluitend wit en lichtgroen, in dunne halve ringen",
               "amount": "100 g"
             },
             {
-              "name": "kleine prei, alleen het lichte deel, zeer dun gesneden",
-              "amount": "1"
+              "name": "verse taugé",
+              "amount": "125 g"
             },
             {
-              "name": "lente-uitjes, fijn gesneden",
-              "amount": "2"
-            },
-            {
-              "name": "rode paprika, zeer fijn gesneden",
-              "amount": "½"
+              "name": "rode paprika, in zeer kleine blokjes",
+              "amount": "¼"
             },
             {
               "name": "sjalot, fijngesnipperd",
-              "amount": "1"
+              "amount": "½"
             },
             {
               "name": "lichte sojasaus",
               "amount": "1 tl"
             },
             {
-              "name": "sesamolie",
-              "amount": "½ tl"
+              "name": "gemalen witte peper",
+              "amount": "¼ tl"
             },
             {
-              "name": "witte peper",
-              "amount": "½ tl"
+              "name": "koud water",
+              "amount": "2 el"
             },
             {
-              "name": "maizena, losgeroerd met 1 el water",
-              "amount": "1 tl"
-            },
-            {
-              "name": "zonnebloemolie om te bakken",
-              "amount": "royaal"
+              "name": "zonnebloemolie, verdeeld: ½ el voor de groenten, 2 el voor de omelet, ½ el voor de tweede kant",
+              "amount": "3 el"
             }
           ]
         },
         {
-          "group_name": "Fluwelen tomatensaus",
+          "group_name": "Voor de fluwelen zoetzure tomatensaus",
           "ingredients": [
             {
-              "name": "kippenbouillon",
-              "amount": "250 ml"
+              "name": "goede kippenbouillon, bij voorkeur niet te zout",
+              "amount": "200 ml"
+            },
+            {
+              "name": "ananassap, zonder vruchtvlees",
+              "amount": "100 ml"
             },
             {
               "name": "ketchup",
@@ -10733,103 +10780,112 @@
               "amount": "1 el"
             },
             {
-              "name": "suiker",
+              "name": "kristalsuiker",
               "amount": "1½ el"
             },
             {
-              "name": "rijstazijn",
-              "amount": "1½ el"
+              "name": "natuurazijn",
+              "amount": "1 el"
             },
             {
               "name": "lichte sojasaus",
               "amount": "1 tl"
             },
             {
-              "name": "verse gember, fijn geraspt",
-              "amount": "½ tl"
-            },
-            {
-              "name": "knoflookteen, fijn geraspt",
-              "amount": "½"
-            },
-            {
-              "name": "maizena, gemengd met 2 el koud water",
-              "amount": "1½ tl"
-            },
-            {
-              "name": "sesamolie",
+              "name": "gembersiroop",
               "amount": "1 tl"
-            }
-          ]
-        },
-        {
-          "group_name": "Afwerking",
-          "ingredients": [
-            {
-              "name": "flinterdunne hamreepjes, kort krokant gebakken",
-              "amount": "50 g"
             },
             {
-              "name": "lente-ui, in ringetjes",
-              "amount": "2"
+              "name": "verse gember, fijn geraspt",
+              "amount": "¼ tl"
             },
             {
-              "name": "geroosterde sesam",
-              "amount": "1 el"
+              "name": "maizena",
+              "amount": "2 tl"
+            },
+            {
+              "name": "koud water, voor de maizena",
+              "amount": "2 el"
+            },
+            {
+              "name": "warm water, zo nodig om de saus te verdunnen",
+              "amount": "1–2 el"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Groenten kort aanbakken",
-          "description": "bak sjalot, prei en paprika kort aan tot ze net zachter worden. Laat iets afkoelen."
+          "action": "De groenten voorbereiden",
+          "description": "Snijd 100 g prei in dunne halve ringen, ¼ rode paprika in kleine blokjes en ½ sjalot zeer fijn. Snijd 150 g beenham in dunne reepjes. Spoel 125 g taugé kort af en laat goed uitlekken."
         },
         {
-          "action": "Omeletmengsel maken",
-          "description": "klop de eieren los met sojasaus, sesamolie, witte peper en het maizenapapje. Meng ham, taugé, lente-ui en de gebakken groenten erdoor."
+          "action": "De groenten voorbakken",
+          "description": "Verhit ½ el zonnebloemolie in een ruime koekenpan. Fruit de sjalot, prei en paprika 2–3 minuten op middelhoog vuur. Voeg de taugé de laatste 30 seconden toe. Schep de groenten uit de pan, laat overtollig vocht achter en laat enkele minuten afkoelen."
         },
         {
-          "action": "Bakken",
-          "description": "bak twee kleinere omeletten in een royale laag olie op middelhoog vuur — goudbruin van buiten, zacht van binnen. Snijd in mooie punten."
+          "action": "Het eimengsel maken",
+          "description": "Klop 6 eieren los met 2 el koud water, 1 tl lichte sojasaus en ¼ tl witte peper, tot eiwit en dooier volledig gemengd zijn maar niet langdurig schuimig. Schep de afgekoelde groenten en de 150 g beenham erdoor."
         },
         {
-          "action": "Saus maken",
-          "description": "verwarm bouillon, ketchup, tomatenpuree, suiker, azijn, sojasaus, gember en knoflook. Bind licht met maizena. Roer sesamolie erdoor."
+          "action": "De tomatensaus bereiden",
+          "description": "Meng in een steelpan 200 ml kippenbouillon, 100 ml ananassap, 4 el ketchup, 1 el tomatenpuree, 1½ el suiker, 1 el natuurazijn, 1 tl lichte sojasaus, 1 tl gembersiroop en ¼ tl geraspte gember. Breng aan de kook en laat 5–7 minuten zacht pruttelen. Roer 2 tl maizena los met 2 el koud water en voeg dit geleidelijk toe. Laat kort doorkoken tot een gladde, glanzende en licht gebonden saus. Houd warm."
         },
         {
-          "action": "Serveren",
-          "description": "maak een spiegel van tomatensaus op het bord. Leg een punt foe yong hai erop en lepel een beetje saus over het midden — laat de goudbruine rand zichtbaar. Werk af met krokante hamreepjes, lente-ui en sesam."
+          "action": "De grote omelet bakken",
+          "description": "Gebruik een antiaanbakpan van ca. 26 cm met een passend deksel. Verhit 2 el zonnebloemolie op middelhoog vuur en schenk het volledige eimengsel in de pan. Verdeel ham en groenten gelijkmatig. Bak de onderkant ca. 2 minuten zonder deksel, zet het vuur iets lager, leg het deksel erop en laat nog 4–6 minuten garen, tot de bovenkant grotendeels gestold is. Til af en toe voorzichtig een rand op om te controleren of de onderkant niet te donker wordt."
+        },
+        {
+          "action": "De omelet keren en afbakken",
+          "description": "Laat de omelet voorzichtig op een groot, plat bord glijden. Plaats de pan omgekeerd over het bord en keer beide samen om. Voeg indien nodig de resterende ½ el zonnebloemolie toe. Bak de tweede kant nog ca. 3–5 minuten op matig vuur. Controleer of het ei ook in het midden volledig gestold is. De omelet moet goudbruin zijn en binnenin zacht en sappig blijven."
+        },
+        {
+          "action": "De saus afmaken",
+          "description": "Controleer de consistentie: de saus moet soepel van een lepel vloeien en niet zo dik zijn als pudding. Voeg zo nodig 1–2 el warm water toe. Proef: eerst zachtzoet, dan lichtzuur, met een subtiele hartige ondertoon. Te zoet: ½ tl natuurazijn erbij. Te zuur: ½ tl suiker erbij."
+        },
+        {
+          "action": "Royaal serveren",
+          "description": "Laat de omelet in zijn geheel op een voorverwarmde ovale schaal glijden. Schep een royale hoeveelheid hete tomatensaus over het midden en rondom de omelet. Laat enkele goudbruine randen zichtbaar. Serveer de resterende saus apart en verdeel de omelet pas aan tafel in vier porties."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Zes eieren met ham en groenten: de combinatie geeft een dikke, rijkgevulde omelet waarin het ei de hoofdrol houdt. Beenham brengt een zachte, hartige smaak, prei natuurlijke zoetheid en taugé een frisse, lichte beet. Groenten eerst voorbakken: een deel van hun vocht verdampt, zodat het ei gelijkmatiger stolt en de omelet niet waterig wordt. Water in het eimengsel: de 2 el water houden de structuur zacht. Eerst bakken, dan deksel, dan keren: een goudbruine onderkant, een voorzichtig gestolde bovenkant en pas daarna keren zorgen ervoor dat ook een grote, dikke omelet gaar wordt zonder uit te drogen. Saus: tomaat, ananassap, suiker en azijn vormen samen het zoetzure karakter. Ketchup en tomatenpuree geven kleur en volle tomatensmaak, ananassap een ronde fruitigheid en de gembersiroop extra diepte. Kippenbouillon en lichte soja: ze zorgen voor een hartige achtergrond. Maizena: het geeft de saus een gladde, glanzende structuur zonder dat hij zwaar wordt. Contrast: de warme, zachte, hartige omelet en de royale zoetzure saus maken het gerecht zo aantrekkelijk."
         }
       ],
-      "chef_tip": "Mise-en-place: fruit de prei en sjalot van tevoren en laat afkoelen — hete groenten in het eimengsel stollen de eieren gedeeltelijk voor het bakken.\n\nTechniek: bak twee kleinere omeletten in plaats van één grote — makkelijker te draaien, gelijkmatiger gegaard en mooier van presentatie. Gebruik een royale laag olie voor de krokante rand.\n\nPresentatie: laat de goudbruine rand altijd zichtbaar — de saus gaat als spiegel op het bord, de omelet erop, een lepel saus over het midden. Niet alles bedekken.\n\nVariatie: voeg krokante hamreepjes toe als topping — kort gebakken in een droge pan — voor extra textuur en zoutheid die het gerecht direct culinairder maakt.",
+      "chef_tip": "Mise-en-place: Kies goede beenham of achterham die niet te dik gesneden is en snijd in fijne reepjes, zodat de ham goed door het eimengsel wordt verdeeld.\n\nMise-en-place: Laat de taugé goed uitlekken. Overtollig water maakt de omelet slap. Voeg de taugé pas de laatste 30 seconden bij de voorgebakken groenten.\n\nMise-en-place: Maak de saus vooraf. De tomatensaus kun je een dag van tevoren maken en afgedekt in de koelkast bewaren. Verwarm rustig en voeg eventueel 1–2 el water toe om de oorspronkelijke dikte te herstellen.\n\nTechniek: Bak de groenten niet te lang. Prei en paprika moeten iets zachter worden, maar mogen niet volledig gaar en papperig zijn. Ze garen later nog verder in het ei.\n\nTechniek: Klop de eieren niet overdreven schuimig. Meng ze met water, soja en witte peper tot een egaal geheel. Langdurig kloppen is niet nodig.\n\nTechniek: Bak eerst zonder deksel, zodat de onderkant een mooie goudbruine kleur krijgt. Leg daarna het deksel op de pan om de bovenkant voorzichtig te laten stollen.\n\nTechniek: Keer met een groot bord. Gebruik een vlak bord dat groter is dan de pan, laat de omelet erop glijden en keer hem met de pan in één beheerste beweging om. Pas op voor hete olie.\n\nTechniek: Voorkom een droge omelet. Bak op matig vuur en controleer regelmatig. Het ei moet volledig gestold zijn, maar hoeft niet langdurig door te bakken.\n\nTechniek: Bind de saus geleidelijk. Voeg het maizenapapje in kleine porties toe. De saus moet licht gebonden en glanzend zijn, niet dik en gelatineachtig.\n\nTechniek: Corrigeer de zoetzuurbalans. Is de saus te zoet, voeg dan ½ tl natuurazijn toe. Is hij te zuur, voeg dan ½ tl suiker toe. Laat na iedere aanpassing kort doorkoken en proef opnieuw.\n\nPresentatie: Serveer royaal. Schep voldoende saus over de omelet en zet de rest apart op tafel. Juist de combinatie van veel zachte omelet en warme zoetzure saus maakt dit een echt comfortgerecht.\n\nVariatie: Past een pan van 26 cm niet, of vind je keren in één keer spannend? Bak dan twee omeletten in een pan van ca. 20 cm met elk de helft van het eimengsel en 1 el olie, en geef elk ca. 2 minuten minder per kant.\n\nAlternatief: De pan. Een goede antiaanbakpan van ca. 26 cm met een passend deksel is ideaal. Een veel grotere pan geeft een te dunne omelet; een kleinere maakt het keren lastiger. Heb je geen deksel, gebruik dan een groot bord of een bakplaat als deksel.",
+      "wine": {
+        "naam": "Pinot Blanc — Elzas, Frankrijk",
+        "druif": "Pinot Blanc",
+        "toelichting": "Aroma: Frisse appel, rijpe peer, witte bloesem en een lichte citrustoets. Smaak en structuur: Zacht en rond, met milde maar voldoende levendige zuren, een lichte tot middelvolle body en een frisse, zuivere afdronk. Het zachte mondgevoel sluit aan op de romige structuur van de eieren en de milde smaak van de beenham zonder deze te overstemmen. De frisse zuren zorgen voor tegenwicht bij de olie en de zoetzure saus, terwijl het rijpe witte fruit de fruitigheid van het ananassap ondersteunt. Een te strakke of houtgerijpte wijn past minder bij de zachte, zoete elementen van het gerecht. Serveer op 9–10 °C.",
+        "alternatief": "Chenin Blanc uit de Loire, of een lichte Beaujolais-Villages"
+      },
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Pinot Blanc — Elzas, Frankrijk",
           "druif": "Pinot Blanc",
-          "smaakprofiel": "Zachte appel- en perentonen, licht bloemig, rond en fris tegelijk — droog maar nooit scherp.",
-          "omschrijving": "De zachte neutraliteit, lichte frisheid en subtiele appel- en perentonen van een Elzasser Pinot Blanc laten de zoetzure tomatensaus en de romige omelet volledig schitteren zonder er tegenin te gaan.",
-          "waarom_werkt_dit": "De wijn heeft genoeg body voor het ei, maar is nooit zo dominant dat hij de delicate hamreepjes en prei overstemt. De milde zuren botsen niet met het zoetzuur van de saus — precies de bescheiden veelzijdigheid die dit gerecht vraagt.",
-          "serveertemperatuur": "Serveer op 9–10°C."
+          "smaakprofiel": "Herkomst: Elzas, Frankrijk. Een droge, niet-houtgerijpte, fruitige Pinot Blanc: elegant, toegankelijk en subtiel aromatisch.",
+          "omschrijving": "Aroma: Frisse appel, rijpe peer, witte bloesem en een lichte citrustoets. Smaak en structuur: Zacht en rond, met milde maar voldoende levendige zuren, een lichte tot middelvolle body en een frisse, zuivere afdronk.",
+          "waarom_werkt_dit": "Het zachte mondgevoel sluit aan op de romige structuur van de eieren en de milde smaak van de beenham zonder deze te overstemmen. De frisse zuren zorgen voor tegenwicht bij de olie en de zoetzure saus, terwijl het rijpe witte fruit de fruitigheid van het ananassap ondersteunt. Een te strakke of houtgerijpte wijn past minder bij de zachte, zoete elementen van het gerecht.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Riesling feinherb — Pfalz, Duitsland",
-          "druif": "Riesling",
-          "smaakprofiel": "Citrus, perzik, groene appel en een bloemige toets; licht restzoet met rijpe, sappige zuren — levendig maar niet scherp.",
-          "omschrijving": "Kies bewust een feinherb (halfdroge) versie, geen kurkdroge — dat kleine beetje restzoet is hier functioneel.",
-          "waarom_werkt_dit": "Het lichte restzoet spiegelt de zoetzure tomatensaus in plaats van ermee te botsen, terwijl de sappige zuren het ei en de olie fris houden. De aromatiek pakt bovendien de gember- en sojatonen in de saus mooi op — de klassieke combinatie bij Chinees-Indisch.",
-          "serveertemperatuur": "Serveer op 8–10°C."
+          "naam": "Chenin Blanc (Vouvray) — Loire, Frankrijk",
+          "druif": "Chenin Blanc",
+          "smaakprofiel": "Herkomst: Loire, Frankrijk. Een fruitige Chenin Blanc, bijvoorbeeld een licht afgeronde Vouvray met een subtiel restzoetje.",
+          "omschrijving": "Aroma: Rijpe appel, kweepeer, peer, citrus en een zachte, honingachtige nuance. Smaak en structuur: Levendige zuren met een ronde, sappige fruitstructuur, een middelvolle body en een frisse afdronk met soms een lichte minerale toets.",
+          "waarom_werkt_dit": "De natuurlijke zuren verfrissen het mondgevoel na iedere hap ei en ham. Het rijpe fruit en een klein beetje restzoet sluiten aan op de zoete tomatensaus, waardoor de combinatie harmonieus blijft. Vermijd een zeer strakke, kurkdroge uitvoering bij een uitgesproken zoete saus.",
+          "serveertemperatuur": "Serveer op 9–11 °C"
         },
         {
-          "type": "meest toegankelijk",
+          "type": "meest-toegankelijk",
           "naam": "Beaujolais-Villages — Beaujolais, Frankrijk",
           "druif": "Gamay",
-          "smaakprofiel": "Sappig rood fruit — kers, framboos — met een lichte kruidigheid, nauwelijks tannine en een frisse, soepele structuur.",
-          "omschrijving": "De rode optie voor wie geen wit wil: licht gekoeld geserveerd geeft hij koelte en fruit zonder het gerecht te verzwaren.",
-          "waarom_werkt_dit": "Het zachte rode fruit sluit aan bij de tomatensaus en de hartige ham, terwijl de vrijwel afwezige tannine niet wrang wordt naast het zoetzuur en het zachte ei. Juist doordat Gamay licht en soepel is, blijft de omelet de hoofdrol houden.",
-          "serveertemperatuur": "Serveer licht gekoeld op 12–14°C."
+          "smaakprofiel": "Herkomst: Beaujolais, Frankrijk. Een jonge, fruitige, niet nadrukkelijk houtgerijpte Beaujolais-Villages: een lichte rode wijn.",
+          "omschrijving": "Aroma: Sappige kersen, frambozen, rode bessen en soms een subtiele bloemige of kruidige toets. Smaak en structuur: Een lichte tot middelvolle body, frisse zuren, weinig tannine en een soepele, fruitige afdronk.",
+          "waarom_werkt_dit": "Het rode fruit sluit aan op de zoetige tomatensaus, terwijl de frisse zuren de rijkdom van het ei en de beenham in balans houden. De beperkte tannines zijn belangrijk: stevige, tanninerijke rode wijnen kunnen wrang smaken bij ei en zoetzure sauzen. Serveer licht gekoeld, zodat hij levendig en fris blijft bij dit warme, hartige gerecht.",
+          "serveertemperatuur": "Serveer op 12–14 °C"
         }
       ]
     },
@@ -11246,145 +11302,164 @@
       "chef_tip": "snijd het rundvlees altijd dwars op de draad in dunne plakjes en marineer met maizena — dát geeft de typische zachte, fluweelachtige restauranttextuur die thuis zo moeilijk te bereiken lijkt.\n\nTechniek: blancheer de broccoli kort in gezouten water — felgroen en beetgaar. Te lang geblancheerd geeft slappe broccoli die niet de textuur heeft om de dikke oestersaus te dragen.\n\nPresentatie: leg de broccoli als groene basis op een warm bord, dan de rundvleesplakjes dakpansgewijs erop en lepel de donkere saus eroverheen — nooit te veel saus.\n\nVariatie: voeg een theelepel zwarte bonenpaté toe aan de oestersaus voor extra umami-diepte en een authentiekere Kantonese restaurantsmaak.\n\nAlternatief: geen biefstuk of bavette? Gebruik kogelbiefstuk — goedkoper, net zo mals als je dwars op de draad snijdt en even lang marineert.\n\nTiming: vis en zeevruchten pas op het allerlaatste moment garen of opmaken. Liever iets korter dan iets langer — restwarmte doet meer dan je denkt.\n\nBalans: proef vlak voor serveren altijd opnieuw op zuur en zout. Zeevruchten brengen zelf ziltigheid mee, waardoor extra zout vaak niet nodig is."
     },
     {
-      "title": "Lichte Chinese Bami met linguine, ham, ei, prei en sojasaus",
+      "title": "Klassieke Chinees-Indische Bami met platte eiermie, ham, ei en prei",
       "slug": "chinese-bami-licht",
       "location": "Hokkien",
-      "time": "25 min",
+      "time": "30 min (inclusief 10 min uitlekken)",
       "servings": "4 personen",
       "difficulty": "Makkelijk",
       "keuken": "Chinees",
       "categorie": "pasta-rijst",
       "image": "/assets/images/chinese-bami-licht.jpg",
-      "short_description": "Lichte, droge bami zonder ketjap — linguine met beenham, ei, prei, knoflook en lichte sojasaus.",
-      "description": "Chinese bami zoals in het oude Chinees-Indische kookboek: licht van kleur, droog van structuur, geurend naar sesamolie. Geen ketjap, geen oestersaus. De noedels moeten droog en los zijn voor ze de wok ingaan — anders wordt het een papperige massa.",
+      "short_description": "Lichte, losse bami van platte eiermie met ham, dun gebakken ei en zachte prei: de subtiele sojasmaak van de ouderwetse afhaalchinees.",
+      "description": "Bami zoals je hem kent van de ouderwetse Chinees-Indische afhaalchinees: platte, soepele eiernoedels, los en licht vettig, met zachte prei, reepjes ham en dun gebakken omelet. De smaak komt van lichte sojasaus, witte peper en een snuf ve-tsin, zonder donkere of zoete saus. Een bord dat in een half uur klaar is en bijna nostalgisch smaakt.",
       "ingredient_groups": [
         {
-          "group_name": "Bami",
+          "group_name": "Mie",
           "ingredients": [
             {
-              "name": "linguine of Chinese tarwemie",
+              "name": "droge, platte Chinese eiermie (flat egg noodles), ca. 2–4 mm breed; alternatief: linguine, of als noodoplossing spaghetti nr. 5; geen rijstnoedels of brede pad-thainoedels",
               "amount": "300 g"
             },
             {
+              "name": "neutrale olie, om de mie los te maken",
+              "amount": "1 tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Ham, ei en groenten",
+          "ingredients": [
+            {
+              "name": "achterham, in dunne reepjes",
+              "amount": "125 g"
+            },
+            {
               "name": "eieren",
-              "amount": "3"
-            },
-            {
-              "name": "beenham of achterham, in fijne reepjes",
-              "amount": "100 g"
-            },
-            {
-              "name": "kleine prei, in dunne halve ringen",
-              "amount": "1"
-            },
-            {
-              "name": "ui, fijngesnipperd",
-              "amount": "1"
-            },
-            {
-              "name": "knoflookteentjes, fijngehakt",
               "amount": "2"
             },
             {
-              "name": "neutrale olie",
-              "amount": "2½ el"
+              "name": "prei, vooral het witte en lichtgroene deel, in dunne halve ringen",
+              "amount": "1 flinke"
             },
+            {
+              "name": "ui, fijngesnipperd",
+              "amount": "½"
+            },
+            {
+              "name": "knoflook, fijngehakt",
+              "amount": "1 teen"
+            },
+            {
+              "name": "neutrale olie voor de omelet",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie voor ui, prei, knoflook en ham",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Smaakmakers en afwerking",
+          "ingredients": [
             {
               "name": "lichte sojasaus",
-              "amount": "1½ el"
+              "amount": "2 el"
             },
             {
-              "name": "sesamolie",
-              "amount": "1 tl"
+              "name": "ve-tsin (MSG)",
+              "amount": "½ tl"
             },
             {
               "name": "witte peper",
               "amount": "½ tl"
             },
             {
-              "name": "zout",
-              "amount": "naar smaak"
+              "name": "neutrale olie voor het woken van de mie, in twee porties",
+              "amount": "4 tl"
             },
             {
-              "name": "MSG of kippenpoeder (optioneel)",
-              "amount": "¼ tl"
-            },
-            {
-              "name": "lente-uitjes, in ringetjes",
-              "amount": "2"
+              "name": "sesamolie, uitsluitend als afwerking",
+              "amount": "½ tl"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Noedels koken en drogen",
-          "description": "kook de linguine iets zachter dan al dente. Spoel kort koud af, laat zeer goed uitlekken en meng met een beetje olie. De noedels moeten droog en los zijn voordat ze de wok ingaan."
+          "action": "Voorbereiden",
+          "description": "Snijd 125 g achterham in dunne reepjes. Snijd 1 flinke prei (wit en lichtgroen) in dunne halve ringen, snipper ½ ui fijn en hak 1 teen knoflook fijn. Klop 2 eieren los."
         },
         {
-          "action": "Ei bakken",
-          "description": "bak van de eieren zachte roerei-stukjes of een dunne omelet die je in reepjes snijdt. Haal uit de pan en zet apart."
+          "action": "Omelet bakken",
+          "description": "Verhit 1 tl neutrale olie in een koekenpan. Bak de eieren als dunne omelet, ca. 1 minuut per kant. Rol op, laat even rusten en snijd in dunne reepjes."
         },
         {
-          "action": "Wokken",
-          "description": "wok ui, knoflook, prei en ham kort aan tot het geurt. Voeg de linguine toe en bak stevig op hoog vuur zodat de bami droog en licht geroosterd wordt."
+          "action": "Mie koken en afspoelen",
+          "description": "Kook de 300 g mie volgens de verpakking, maar houd hem stevig en voorkom overgaren. Spoel kort koud af om het garen te stoppen en het overtollige zetmeel te verwijderen."
         },
         {
-          "action": "Afmaken en serveren",
-          "description": "breng pas op het einde op smaak met lichte sojasaus, witte peper, zout en eventueel MSG. Voeg ei en lente-ui toe en schep kort om. Serveer als losse, hoge nestjes op een warme schaal."
+          "action": "Uitlekken en losmaken",
+          "description": "Laat de mie minimaal 10 minuten goed uitlekken. Meng met 1 tl neutrale olie en maak de slierten los met je vingers."
+        },
+        {
+          "action": "Ui, prei en ham bakken",
+          "description": "Verhit 1 el neutrale olie in een wok op hoog vuur. Bak de ui en knoflook 30 seconden, voeg de prei toe en bak 2–3 minuten tot hij zacht is. Voeg de ham toe, bak 1 minuut mee en haal alles uit de wok."
+        },
+        {
+          "action": "Mie woken in twee porties",
+          "description": "Verhit de wok op hoog vuur met 2 tl neutrale olie. Wok de helft van de mie 1½–2 minuten, voeg 1 el lichte sojasaus, ¼ tl ve-tsin en ¼ tl witte peper toe en schep om. Haal uit de wok en herhaal met de tweede portie."
+        },
+        {
+          "action": "Alles samenbrengen",
+          "description": "Doe de hele mie terug in de wok, samen met de prei, ui, ham en omeletreepjes. Schep 1 minuut om op hoog vuur, tot alles heet en los is. Proef en pas zo nodig de sojasaus aan."
+        },
+        {
+          "action": "Serveren",
+          "description": "Besprenkel met ½ tl sesamolie, schep nog één keer om en serveer direct op warme borden."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Platte eiermie: de platte vorm geeft een soepele, licht veerkrachtige beet en neemt de lichte sojasaus goed op. Stevig koken en koud afspoelen: zo stopt het garen en verdwijnt het overtollige zetmeel, waardoor de slierten los blijven. Goed uitlekken en inoliën: droge mie roerbakt in plaats van te stomen, en een beetje olie voorkomt dat de slierten aan elkaar plakken. Twee porties in een hete wok: de temperatuur blijft hoog, zodat de mie licht gebakken wordt en niet papperig wordt. Prei: de zachte, zoete ui-achtige smaak past bij de zoute ham en de lichte soja. Lichte sojasaus, ve-tsin en witte peper: het geeft de typische subtiele, hartige afhaalsmaak zonder een donkere of zoete saus. Sesamolie als afwerking: een halve tl aan het eind geeft aroma zonder het gerecht te overheersen."
         }
       ],
-      "tips": [
-        "kook de noedels iets zachter dan al dente, spoel koud af en meng met olie. De noedels moeten volledig droog zijn voor ze de wok ingaan — anders worden ze papperig.",
-        "Techniek: sesamolie pas op het allerlaatste moment toevoegen — zodra hij meewarmt verdampt de geur. Het is een afwerking, geen kookolie.",
-        "Presentatie: serveer de bami als losse, hoge nestjes op een warme schaal — nooit plat uitgespreid. Laat de kleur lichtbeige tot goudgeel blijven.",
-        "Variatie: voeg een kwart theelepel kippenpoeder of MSG toe voor die typische Chinees-Indische restaurantsmaak die bijna onmogelijk thuis te bereiken is zonder dit ingrediënt.",
-        "Alternatief: geen linguine of Chinese tarwemie? Gebruik spaghetti — iets dikker maar geeft met de goede techniek bijna hetzelfde resultaat als authentieke bami-noedels.",
-        "Timing: pasta, rijst en deeggerechten zijn het best als alles klaarstaat vóór de laatste handeling. Dan serveer je warm, glanzend en niet uitgedroogd.",
-        "Afwerking: bewaar altijd wat kookvocht, saus of olie om vlak voor serveren de textuur los en glanzend te maken."
-      ],
+      "chef_tip": "Mise-en-place: Zet alles klaar voordat je de wok aanzet: ham, prei, ui, knoflook, omeletreepjes, sojasaus, ve-tsin en peper. Het woken gaat snel en je hebt geen tijd om te zoeken.\n\nMise-en-place: Kook de mie een dag eerder. Spoel af, laat uitlekken, meng met 1 tl olie en bewaar afgedekt in de koelkast. De volgende dag is hij nog losser.\n\nTechniek: Kook de mie bewust stevig, 1 minuut korter dan op de verpakking als hij erg zacht dreigt te worden. Hij gaart in de wok nog door.\n\nTechniek: Laat de mie minimaal 10 minuten uitlekken in een zeef, en schud hem af en toe. Nat noedelmateriaal stoomt in de wok en wordt papperig.\n\nTechniek: Wok op hoog vuur en bak de mie in twee porties. Een volle wok koelt af, waardoor de mie gaat plakken. Laat de mie even liggen voor je hem omschept, zodat hij een lichte gouden kleur krijgt.\n\nTechniek: Bak de omelet dun, in ca. 1 minuut per kant. Een dikke omelet breekt in de wok en wordt droog.\n\nTechniek: Houd de bami licht. Gebruik de sojasaus voorzichtig en proef: ham en ve-tsin zijn al hartig. Voeg liever een extra scheutje lichte soja toe dan zout.\n\nPresentatie: Schep de bami in een warme schaal of op warme borden en leg de omeletreepjes er los bovenop, zodat het geel zichtbaar blijft. Serveer direct, want de mie wordt koud snel droog.\n\nVariatie: Serveer een schaaltje sambal of atjar apart voor wie het pittiger of zuurder wil. Bak de ham eventueel kort mee tot de randjes licht kleuren.\n\nAlternatief: Platte eiermie is het best, maar linguine is het beste supermarktalternatief vanwege de platte vorm. Kook hem zonder zout, al dente, en behandel hem verder net als de eiermie. Spaghetti nr. 5 kan als noodoplossing. Gebruik geen rijstnoedels of brede pad-thainoedels: die hebben een andere structuur.\n\nAlternatief: Opwarmen. Bak overgebleven bami in een hete wok of pan met 1 tl olie en 1 el water, 2–3 minuten, tot hij weer los en heet is.",
+      "wine": {
+        "naam": "Grüner Veltliner — Wachau, Oostenrijk",
+        "druif": "Grüner Veltliner",
+        "toelichting": "Aroma: Groene appel, citrus, witte peper, een vleugje linzen en kruiden. Smaak en structuur: Droog, met levendige zuren, een lichte tot middelvolle body en een peperige, frisse afdronk. De peperige toon van de wijn spiegelt de witte peper in de bami, en de frisse zuren houden het licht vettige gerecht levendig. De wijn is soepel genoeg om de subtiele soja, de zachte prei en de ham niet te overstemmen. Serveer op 8–10 °C.",
+        "alternatief": "Chablis uit Bourgogne, of een frisse Picpoul de Pinet"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Chablis",
+          "naam": "Grüner Veltliner — Wachau, Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Herkomst: Wachau of Kremstal, Oostenrijk. Een frisse, onbehoute Grüner Veltliner (Federspiel of Klassik).",
+          "omschrijving": "Aroma: Groene appel, citrus, witte peper, een vleugje linzen en kruiden. Smaak en structuur: Droog, met levendige zuren, een lichte tot middelvolle body en een peperige, frisse afdronk.",
+          "waarom_werkt_dit": "De peperige toon van de wijn spiegelt de witte peper in de bami, en de frisse zuren houden het licht vettige gerecht levendig. De wijn is soepel genoeg om de subtiele soja, de zachte prei en de ham niet te overstemmen.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Chablis — Bourgogne, Frankrijk",
           "druif": "Chardonnay",
-          "smaakprofiel": "Droog, strak, mineraal, citrus, groene appel, krijtig",
-          "omschrijving": "De kurkdroge mineraliteit en citroenachtige frisheid van een Chablis — zonder houtinvloed, puur op kalksteenbodem — snijdt door de sesamolie en lichte sojasaus zonder de delicate bami te overstemmen.",
-          "waarom_werkt_dit": "Chablis heeft een strakheid en helderheid die past bij een gerecht dat bewust licht en onopgesmukt is. De lichte kiezelsteentoon van de wijn geeft een subtiele complexiteit die de umami van de soja aanvult. Houtgerijpte Chardonnay zou de bami volledig overstemmen — Chablis nooit. Serveer goed gekoeld op 10°C."
+          "smaakprofiel": "Herkomst: Chablis, Bourgogne, Frankrijk. Een strakke, onbehoute Chardonnay.",
+          "omschrijving": "Aroma: Citroen, groene appel, kalkstenige mineraliteit, een vleugje witte bloemen en een zilte, krijtachtige toon. Smaak en structuur: Droog en strak, met hoge, levendige zuren, een middelvolle body en een lange, minerale afdronk.",
+          "waarom_werkt_dit": "De frisse zuren en de zilte, minerale kant passen bij de lichte sojasaus en de ham, terwijl de zachte rondheid van de Chardonnay het ei en de prei omarmt. Doordat de wijn onbehout is, blijft het bord licht.",
+          "serveertemperatuur": "Serveer op 9–11 °C"
         },
         {
-          "type": "alternatief",
-          "naam": "Droge Picpoul de Pinet",
+          "type": "meest-toegankelijk",
+          "naam": "Picpoul de Pinet — Languedoc, Frankrijk",
           "druif": "Piquepoul Blanc",
-          "smaakprofiel": "Droog, strak, citrus, licht ziltig, fris, mineraal",
-          "omschrijving": "even fris en mineraal, werkt uitstekend bij lichte noedelgerechten",
-          "waarom_werkt_dit": "De strakke citrus en zilte mineraliteit werken als een frisse snede door schaal- en schelpdier, boter of groene jus. De wijn snijdt door romigheid en zout, maar laat de zachte melk- of eitoon intact."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Moscato d’Asti DOCG — Piëmont, Italië",
-          "druif": "Moscato Bianco",
-          "smaakprofiel": "Lichtzoet, laag alcohol, druif, bloesem, perzik, fijne mousse",
-          "omschrijving": "Een aanvullende pairing die gekozen is op balans, frisheid en doordrinkbaarheid.",
-          "waarom_werkt_dit": "De frisse zuren en lichte body van Moscato Bianco houden het gerecht levendig. Past als alternatief bij gerechten met kruiden, zeevruchten of lichte sauzen."
+          "smaakprofiel": "Herkomst: Pinet, Languedoc, Frankrijk. Een droge, frisse, zilte witte wijn.",
+          "omschrijving": "Aroma: Citroen, limoen, groene appel, witte bloemen en een zilte zeelucht. Smaak en structuur: Droog en levendig, met hoge, frisse zuren, een lichte body en een schone, zilte afdronk.",
+          "waarom_werkt_dit": "De frisse citrus en lichte zilte toon vullen de soja en de ham aan, en de lichte body drukt het gerecht niet plat. Een eenvoudige, verfrissende keuze die ook bij een doordeweekse maaltijd past.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         }
-      ],
-      "wine": {
-        "naam": "Chablis",
-        "druif": "Chardonnay",
-        "toelichting": "De kurkdroge mineraliteit en citroenachtige frisheid van een Chablis — zonder houtinvloed, puur op kalksteenbodem — snijdt door de sesamolie en lichte sojasaus zonder de delicate bami te overstemmen. Chablis heeft een strakheid en helderheid die past bij een gerecht dat bewust licht en onopgesmukt is. De lichte kiezelsteentoon van de wijn geeft een subtiele complexiteit die de umami van de soja aanvult. Houtgerijpte Chardonnay zou de bami volledig overstemmen — Chablis nooit. Serveer goed gekoeld op 10°C.",
-        "alternatief": "Droge Picpoul de Pinet — even fris en mineraal, werkt uitstekend bij lichte noedelgerechten"
-      },
-      "tips_full": [
-        "kook de noedels iets zachter dan al dente, spoel koud af en meng met olie. De noedels moeten volledig droog zijn voor ze de wok ingaan — anders worden ze papperig.",
-        "Techniek: sesamolie pas op het allerlaatste moment toevoegen — zodra hij meewarmt verdampt de geur. Het is een afwerking, geen kookolie.",
-        "Presentatie: serveer de bami als losse, hoge nestjes op een warme schaal — nooit plat uitgespreid. Laat de kleur lichtbeige tot goudgeel blijven.",
-        "Variatie: voeg een kwart theelepel kippenpoeder of MSG toe voor die typische Chinees-Indische restaurantsmaak die bijna onmogelijk thuis te bereiken is zonder dit ingrediënt.",
-        "Alternatief: geen linguine of Chinese tarwemie? Gebruik spaghetti — iets dikker maar geeft met de goede techniek bijna hetzelfde resultaat als authentieke bami-noedels.",
-        "Timing: pasta, rijst en deeggerechten zijn het best als alles klaarstaat vóór de laatste handeling. Dan serveer je warm, glanzend en niet uitgedroogd.",
-        "Afwerking: bewaar altijd wat kookvocht, saus of olie om vlak voor serveren de textuur los en glanzend te maken."
-      ],
-      "chef_tip": "kook de noedels iets zachter dan al dente, spoel koud af en meng met olie. De noedels moeten volledig droog zijn voor ze de wok ingaan — anders worden ze papperig.\n\nTechniek: sesamolie pas op het allerlaatste moment toevoegen — zodra hij meewarmt verdampt de geur. Het is een afwerking, geen kookolie.\n\nPresentatie: serveer de bami als losse, hoge nestjes op een warme schaal — nooit plat uitgespreid. Laat de kleur lichtbeige tot goudgeel blijven.\n\nVariatie: voeg een kwart theelepel kippenpoeder of MSG toe voor die typische Chinees-Indische restaurantsmaak die bijna onmogelijk thuis te bereiken is zonder dit ingrediënt.\n\nAlternatief: geen linguine of Chinese tarwemie? Gebruik spaghetti — iets dikker maar geeft met de goede techniek bijna hetzelfde resultaat als authentieke bami-noedels.\n\nTiming: pasta, rijst en deeggerechten zijn het best als alles klaarstaat vóór de laatste handeling. Dan serveer je warm, glanzend en niet uitgedroogd.\n\nAfwerking: bewaar altijd wat kookvocht, saus of olie om vlak voor serveren de textuur los en glanzend te maken."
+      ]
     },
     {
       "title": "Krokante Sesam-toast met varkensgehakt en zoete chilidip",
@@ -21183,34 +21258,33 @@
       "title": "Chinese wontonsoep met varkensgehaktvulling, koolreepjes en ijsbergsla",
       "slug": "chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla",
       "location": "Hong Kong",
-      "time": "40 min",
-      "servings": "4 lichte voorgerechten of 2 lichte maaltijden (4–5 wontons pp)",
-      "difficulty": "Makkelijk",
+      "time": "Ca. 45 min",
+      "servings": "4 personen als voorgerecht (20 wontons)",
+      "difficulty": "Gemiddeld",
       "keuken": "Chinees",
       "categorie": "soep",
       "image": "/assets/images/chinese-wontonsoep-varkensgehakt-koolreepjes-ijsbergsla.jpg",
-      "short_description": "Het meest troostende gerecht van de Chinese keuken — en toch licht. Sappige varkensgehaktwontons in een heldere, aromatische bouillon van gember, knoflook en sesamolie. Flinterdunne reepjes Chinese kool en ijsbergsla die op het allerlaatste moment erin gaan.",
-      "description": "Het meest troostende gerecht van de Chinese keuken — en toch licht. Sappige varkensgehaktwontons in een heldere, aromatische bouillon van gember, knoflook en sesamolie. Flinterdunne reepjes Chinese kool en ijsbergsla die op het allerlaatste moment erin gaan — fris, knapperig en verfijnd. Niet overladen, niet zwaar. Een soepje dat je leeg eet en nog een kom wil.",
-      "full_intro": "Het meest troostende gerecht van de Chinese keuken — en toch licht. Sappige varkensgehaktwontons in een heldere, aromatische bouillon van gember, knoflook en sesamolie. Flinterdunne reepjes Chinese kool en ijsbergsla die op het allerlaatste moment erin gaan — fris, knapperig en verfijnd. Niet overladen, niet zwaar. Een soepje dat je leeg eet en nog een kom wil.",
+      "short_description": "Heldere, goudkleurige kippenbouillon met sappige varkensgehaktwontons, zachte Chinese kool en een handje frisse ijsbergsla.",
+      "description": "Een kom licht, helder en toch uitgesproken hartig: sappige wontons gevuld met gekruid varkensgehakt, in een goudkleurige kippenbouillon die is getrokken met gember en lente-ui. Zachte Chinese kool en een handje rauwe ijsbergsla zorgen voor frisheid, een paar druppels sesamolie voor aroma. Een voorgerecht met de herkenbare smaak van een goed Chinees restaurant, waarvan je de kom helemaal leeg wilt eten.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de wontonvulling (ca. 20 stuks)",
+          "group_name": "Wontonvulling",
           "ingredients": [
             {
-              "name": "varkensgehakt (15–20% vet)",
+              "name": "varkensgehakt met 15–20% vet (of half-om-halfgehakt, zie de tips)",
               "amount": "250 g"
             },
             {
-              "name": "lente-uitjes, zo fijn mogelijk gesneden",
+              "name": "lente-uitjes, zeer fijn gesneden",
               "amount": "2"
             },
             {
-              "name": "verse gember, fijn geraspt",
+              "name": "verse gember, geraspt",
               "amount": "1 tl"
             },
             {
-              "name": "teentjes knoflook, fijn geraspt",
-              "amount": "2"
+              "name": "knoflook, fijn geraspt",
+              "amount": "1 teen"
             },
             {
               "name": "lichte sojasaus",
@@ -21221,7 +21295,7 @@
               "amount": "1 tl"
             },
             {
-              "name": "Shaoxing rijstwijn of droge sherry",
+              "name": "Shaoxing rijstwijn",
               "amount": "1 tl"
             },
             {
@@ -21237,58 +21311,70 @@
               "amount": "½ tl"
             },
             {
-              "name": "fijn zeezout",
-              "amount": "½ tl"
+              "name": "fijn zout",
+              "amount": "¼ tl"
             },
             {
-              "name": "versgemalen witte peper",
+              "name": "gemalen witte peper",
               "amount": "¼ tl"
+            },
+            {
+              "name": "ijskoud water",
+              "amount": "2 el"
             }
           ]
         },
         {
-          "group_name": "Voor de wontons",
+          "group_name": "Wontons vouwen",
           "ingredients": [
             {
-              "name": "kant-en-klare wontonvellen (vierkant, 8x8cm — bij de toko)",
+              "name": "vierkante wontonvellen van ca. 8 × 8 cm",
               "amount": "20"
             },
             {
-              "name": "klein kommetje koud water",
-              "amount": ""
+              "name": "koud water, om de randen te bevochtigen",
+              "amount": "1 klein kommetje"
+            },
+            {
+              "name": "maizena, om de schaal te bestuiven",
+              "amount": "1 tl"
             }
           ]
         },
         {
-          "group_name": "Voor de bouillon",
+          "group_name": "Bouillon",
           "ingredients": [
             {
-              "name": "goede kippenbouillon",
-              "amount": "1 l"
+              "name": "goede kippenbouillon, niet te zout",
+              "amount": "1,3 l"
             },
             {
-              "name": "water",
-              "amount": "300 ml"
+              "name": "verse gember, in dunne plakjes",
+              "amount": "4"
             },
             {
-              "name": "plakken verse gember, gekneusd",
-              "amount": "3"
+              "name": "knoflook, gekneusd",
+              "amount": "1 teen"
             },
             {
-              "name": "teentjes knoflook, gekneusd",
-              "amount": "2"
-            },
-            {
-              "name": "lente-uitjes, in grove stukken (alleen voor de trek — gaan er weer uit)",
+              "name": "lente-uitjes, grof gesneden",
               "amount": "2"
             },
             {
               "name": "lichte sojasaus",
-              "amount": "1½ el"
+              "amount": "1 el"
             },
             {
-              "name": "oestersaus",
-              "amount": "1 tl"
+              "name": "Shaoxing rijstwijn",
+              "amount": "1 el"
+            },
+            {
+              "name": "gemalen witte peper",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "ve-tsin (MSG)",
+              "amount": "¼ tl"
             },
             {
               "name": "geroosterde sesamolie",
@@ -21296,267 +21382,133 @@
             },
             {
               "name": "suiker",
-              "amount": "½ tl"
-            },
-            {
-              "name": "zout en witte peper",
-              "amount": "naar smaak"
+              "amount": "¼ tl"
             }
           ]
         },
         {
-          "group_name": "Voor de groenten (flinterdun gesneden — niet grof)",
+          "group_name": "Groenten en afwerking",
           "ingredients": [
             {
-              "name": "Chinese kool (napa kool) of spitskool, in flinterdunne reepjes van 2–3mm (als tagliatelle)",
-              "amount": "150 g"
-            },
-            {
-              "name": "ijsbergsla, in flinterdunne reepjes (allerlaatst — 20 seconden)",
+              "name": "Chinese kool, in zeer fijne reepjes van 2–3 mm",
               "amount": "100 g"
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            {
-              "name": "lente-uitjes, in schuine dunne ringen",
-              "amount": "3"
             },
             {
-              "name": "druppel geroosterde sesamolie",
-              "amount": ""
+              "name": "ijsbergsla, in zeer fijne reepjes",
+              "amount": "50 g"
             },
             {
-              "name": "eventueel: druppel chiliolie apart",
-              "amount": ""
+              "name": "lente-ui, in zeer dunne, schuine ringetjes",
+              "amount": "1"
             },
             {
-              "name": "versgemalen witte peper",
+              "name": "geroosterde sesamolie, eventueel",
+              "amount": "enkele druppels per kom"
+            },
+            {
+              "name": "witte peper, eventueel",
+              "amount": "1 snufje"
+            },
+            {
+              "name": "chiliolie, optioneel, apart aan tafel",
               "amount": "naar smaak"
             }
-          ]
-        }
-      ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de wontonvulling (ca. 20 stuks)",
-          "ingredients": [
-            "250g varkensgehakt (15–20% vet)",
-            "2 lente-uitjes, zo fijn mogelijk gesneden",
-            "1 tl verse gember, fijn geraspt",
-            "2 teentjes knoflook, fijn geraspt",
-            "1 el lichte sojasaus",
-            "1 tl oestersaus",
-            "1 tl Shaoxing rijstwijn of droge sherry",
-            "1 tl geroosterde sesamolie",
-            "1 tl maizena",
-            "½ tl fijne suiker",
-            "½ tl fijn zeezout",
-            "¼ tl versgemalen witte peper"
-          ]
-        },
-        {
-          "group_name": "Voor de wontons",
-          "ingredients": [
-            "20 kant-en-klare wontonvellen (vierkant, 8x8cm — bij de toko)",
-            "Klein kommetje koud water"
-          ]
-        },
-        {
-          "group_name": "Voor de bouillon",
-          "ingredients": [
-            "1 l goede kippenbouillon",
-            "300 ml water",
-            "3 plakken verse gember, gekneusd",
-            "2 teentjes knoflook, gekneusd",
-            "2 lente-uitjes, in grove stukken (alleen voor de trek — gaan er weer uit)",
-            "1½ el lichte sojasaus",
-            "1 tl oestersaus",
-            "½ tl geroosterde sesamolie",
-            "½ tl suiker",
-            "Zout en witte peper"
-          ]
-        },
-        {
-          "group_name": "Voor de groenten (flinterdun gesneden — niet grof)",
-          "ingredients": [
-            "150g Chinese kool (napa kool) of spitskool, in flinterdunne reepjes van 2–3mm (als tagliatelle)",
-            "100g ijsbergsla, in flinterdunne reepjes (allerlaatst — 20 seconden)"
-          ]
-        },
-        {
-          "group_name": "Voor de afwerking",
-          "ingredients": [
-            "3 lente-uitjes, in schuine dunne ringen",
-            "Druppel geroosterde sesamolie",
-            "Eventueel: druppel chiliolie apart",
-            "Versgemalen witte peper"
           ]
         }
       ],
       "steps": [
         {
-          "number": 1,
-          "action": "De wontonvulling",
-          "description": "Alle vullingingrediënten in een kom. Roer krachtig in één richting 2–3 minuten tot het mengsel plakkerig samenhangt als een pasta. Dit geeft de wonton zijn sappigheid en stevigheid."
+          "action": "Vulling maken",
+          "description": "Meng 250 g varkensgehakt met 2 fijngesneden lente-uitjes, 1 tl gember, 1 teen knoflook, 1 el lichte soja, 1 tl oestersaus, 1 tl Shaoxing, 1 tl sesamolie, 1 tl maizena, ½ tl suiker, ¼ tl zout en ¼ tl witte peper. Roer 2–3 minuten stevig in één richting tot het plakkerig wordt. Roer dan geleidelijk 2 el ijskoud water erdoor, tot het volledig is opgenomen."
         },
         {
-          "number": 2,
-          "action": "De wontons vouwen",
-          "description": "Leg een wontonvel als ruit voor je (punt omhoog). Leg 1 kleine theelepel vulling in het midden — niet meer, anders scheuren ze. Bevochtig de randen met een vinger in koud water. Vouw de onderste punt omhoog tot een driehoek. Randen stevig dichtdrukken — geen lucht erin. Klassieke vouw: Bevochtig één punt van de driehoek. Breng de twee onderste punten naar elkaar toe, overlappend. Stevig aandrukken. Leg op licht bebloemd werkblad onder vochtige doek."
+          "action": "Wontons vouwen",
+          "description": "Leg ca. 14 g vulling (ongeveer 1 afgestreken eetlepel) midden op elk van de 20 wontonvellen. Bevochtig de randen met koud water, vouw tot een driehoek en druk de lucht eruit. Plak de twee onderste punten met een beetje water vast. Leg de wontons op een met 1 tl maizena bestoven schaal en dek af, zodat de vellen niet uitdrogen."
         },
         {
-          "number": 5,
-          "action": "De bouillon",
-          "description": "Bouillon + water in een ruime pan. Gekneusd gember, knoflook en lente-ui toevoegen. 10 minuten zachtjes laten trekken op laag vuur — niet koken. Aromaten eruit vissen of zeven. Sojasaus, oestersaus, sesamolie, suiker, zout en witte peper toevoegen. Proef — warm, diep, licht zout, aromatisch. Warm houden op laagste stand."
+          "action": "Bouillon laten trekken",
+          "description": "Verwarm 1,3 l kippenbouillon met 4 plakjes gember, 1 gekneusde teen knoflook en 2 grof gesneden lente-uitjes. Laat 15–20 minuten zacht trekken, net onder het kookpunt. Zeef de bouillon."
         },
         {
-          "number": 7,
-          "action": "Wontons koken (ALTIJD apart — nooit in de bouillon)",
-          "description": "Ruime pan met water aan de kook. Wontons voorzichtig erin. 4–5 minuten — ze zijn klaar wanneer ze drijven en nog 30 seconden doorstomen. Met een schuimspaan eruit."
+          "action": "Bouillon op smaak brengen",
+          "description": "Roer 1 el lichte soja, 1 el Shaoxing, ¼ tl witte peper, ¼ tl ve-tsin, ½ tl sesamolie en ¼ tl suiker door de gezeefde bouillon. Proef voor je zout toevoegt. De bouillon moet helder, goudkleurig en hartig zijn. Houd hem warm."
         },
         {
-          "number": 8,
-          "action": "Groenten en opbouwen",
-          "description": "Chinese kool in de warme bouillon — 1–2 minuten op laag vuur. De reepjes moeten zacht worden maar nog een bite houden. Allerlaatst — ijsbergsla erbij: 20–30 seconden maximaal. Ze worden warm maar blijven knapperig en fris. Opbouwen: 4–5 wontons per persoon in warme diepe kommen. Bouillon met groenten eroverheen scheppen. Groenten mooi verdelen: koolreepjes rondom, ijsbergsla losjes bovenop. Lente-uiringen erop. Druppel sesamolie. Witte peper. Chiliolie apart."
+          "action": "Wontons apart koken",
+          "description": "Breng een ruime pan water aan de kook en zet het vuur zacht, zodat het water zacht kookt. Kook de wontons in porties 4–6 minuten. Drijven alleen is geen bewijs van gaarheid: snijd een proefwonton door. De vulling moet volledig gaar zijn, met een kerntemperatuur van minimaal 71 °C. Schep ze met een schuimspaan uit het water."
+        },
+        {
+          "action": "Kool verwarmen",
+          "description": "Verwarm 100 g Chinese kool 1–2 minuten in de hete bouillon, tot hij zacht is maar nog wat beet heeft. Snijd 50 g ijsbergsla in zeer fijne reepjes en 1 lente-ui in dunne, schuine ringetjes."
+        },
+        {
+          "action": "Kommen vullen",
+          "description": "Verwarm vier diepe soepkommen voor. Verdeel de 20 wontons, vijf per kom, en leg er de rauwe ijsbergsla bij. Schep de hete bouillon met kool erover."
+        },
+        {
+          "action": "Afwerken en serveren",
+          "description": "Strooi er wat lente-ui over en eventueel enkele druppels sesamolie of een snufje witte peper. Serveer onmiddellijk. Bied chiliolie apart aan."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Gehakt met voldoende vet: 15–20% vet houdt de vulling sappig. Mager gehakt wordt tijdens het koken droog en korrelig. Stevig roeren in één richting: de eiwitten lossen op en vormen een plakkerige, samenhangende massa, zodat de vulling sappig en veerkrachtig wordt. Koud water: het wordt in het gehakt opgenomen en komt bij het koken vrij als sap in de wonton. Half-om-halfgehakt: het geeft een iets stevigere, krachtigere vulling. Puur varkensgehakt blijft zachter en traditioneler. Goede kippenbouillon: de bouillon is de basis, dus een goede, niet te zoute bouillon bepaalt het eindresultaat. Gember en lente-ui: ze parfumeren de bouillon zonder hem zwaar te maken. Een klein beetje ve-tsin: het versterkt de hartige smaak en geeft de bouillon rondheid. Wontons apart koken: het kookwater neemt het zetmeel van de vellen op, zodat de bouillon helder blijft. Kool kort verwarmen, sla pas op het laatst: de kool wordt zacht maar houdt beet, en de rauwe sla wordt door de hete bouillon net verwarmd en blijft fris."
         }
       ],
-      "steps_full": [
-        {
-          "number": null,
-          "section": "De wontonvulling",
-          "description": "Alle vullingingrediënten in een kom. Roer krachtig in één richting 2–3 minuten tot het mengsel plakkerig samenhangt als een pasta. Dit geeft de wonton zijn sappigheid en stevigheid."
-        },
-        {
-          "number": null,
-          "section": "De wontons vouwen",
-          "description": "Leg een wontonvel als ruit voor je (punt omhoog). Leg 1 kleine theelepel vulling in het midden — niet meer, anders scheuren ze."
-        },
-        {
-          "number": null,
-          "section": "De wontons vouwen",
-          "description": "Bevochtig de randen met een vinger in koud water. Vouw de onderste punt omhoog tot een driehoek. Randen stevig dichtdrukken — geen lucht erin."
-        },
-        {
-          "number": null,
-          "section": "De wontons vouwen",
-          "description": "Klassieke vouw: Bevochtig één punt van de driehoek. Breng de twee onderste punten naar elkaar toe, overlappend. Stevig aandrukken. Leg op licht bebloemd werkblad onder vochtige doek."
-        },
-        {
-          "number": null,
-          "section": "De bouillon",
-          "description": "Bouillon + water in een ruime pan. Gekneusd gember, knoflook en lente-ui toevoegen. 10 minuten zachtjes laten trekken op laag vuur — niet koken. Aromaten eruit vissen of zeven."
-        },
-        {
-          "number": null,
-          "section": "De bouillon",
-          "description": "Sojasaus, oestersaus, sesamolie, suiker, zout en witte peper toevoegen. Proef — warm, diep, licht zout, aromatisch. Warm houden op laagste stand."
-        },
-        {
-          "number": null,
-          "section": "Wontons koken (ALTIJD apart — nooit in de bouillon)",
-          "description": "Ruime pan met water aan de kook. Wontons voorzichtig erin. 4–5 minuten — ze zijn klaar wanneer ze drijven en nog 30 seconden doorstomen. Met een schuimspaan eruit."
-        },
-        {
-          "number": null,
-          "section": "Groenten en opbouwen",
-          "description": "Chinese kool in de warme bouillon — 1–2 minuten op laag vuur. De reepjes moeten zacht worden maar nog een bite houden."
-        },
-        {
-          "number": null,
-          "section": "Groenten en opbouwen",
-          "description": "Allerlaatst — ijsbergsla erbij: 20–30 seconden maximaal. Ze worden warm maar blijven knapperig en fris."
-        },
-        {
-          "number": null,
-          "section": "Groenten en opbouwen",
-          "description": "Opbouwen: 4–5 wontons per persoon in warme diepe kommen. Bouillon met groenten eroverheen scheppen. Groenten mooi verdelen: koolreepjes rondom, ijsbergsla losjes bovenop. Lente-uiringen erop. Druppel sesamolie. Witte peper. Chiliolie apart."
-        }
-      ],
-      "tips": [
-        "Wontons: Wontons nooit in de bouillon koken: Zetmeel maakt de bouillon troebel en plakkerig. Altijd apart koken, dan overbrengen.",
-        "De bouillon is alles: Goede kippenbouillon is de basis. Neem een kwaliteitscarton of zelfgemaakt. Tien minuten trekken met gember en knoflook maakt het verschil.",
-        "Groenten flinterdun snijden: Reepjes van 2–3mm snijden de soep elegant en eten verfijnd — grove brokken horen hier niet in.",
-        "IJsbergsla allerlaatst: 20–30 seconden. Niet langer — ze wordt slap en verliest haar karakter.",
-        "Niet: Niet te veel vulling per wonton: Eén kleine theelepel. Te vol = scheuren.",
-        "Variatie — taugé: Voeg een handvol taugé toe tegelijk met de ijsbergsla. Knapperig, typisch Chinees en geeft extra textuur zonder de soep zwaar te maken.",
-        "Variatie: Variatie — garnalen in de vulling: 80g fijngehakte rauwe garnalen door het gehakt voor een rijkere, Hong Kong-stijl wonton.",
-        "Invriezen: Rauwe gevormde wontons direct invriezen op een bakplaat, daarna in een zak. Vanuit de vriezer koken: 5–6 minuten."
-      ],
-      "tips_full": [
-        "Wontons: Wontons nooit in de bouillon koken: Zetmeel maakt de bouillon troebel en plakkerig. Altijd apart koken, dan overbrengen.",
-        "De bouillon is alles: Goede kippenbouillon is de basis. Neem een kwaliteitscarton of zelfgemaakt. Tien minuten trekken met gember en knoflook maakt het verschil.",
-        "Groenten flinterdun snijden: Reepjes van 2–3mm snijden de soep elegant en eten verfijnd — grove brokken horen hier niet in.",
-        "IJsbergsla allerlaatst: 20–30 seconden. Niet langer — ze wordt slap en verliest haar karakter.",
-        "Niet: Niet te veel vulling per wonton: Eén kleine theelepel. Te vol = scheuren.",
-        "Variatie — taugé: Voeg een handvol taugé toe tegelijk met de ijsbergsla. Knapperig, typisch Chinees en geeft extra textuur zonder de soep zwaar te maken.",
-        "Variatie: Variatie — garnalen in de vulling: 80g fijngehakte rauwe garnalen door het gehakt voor een rijkere, Hong Kong-stijl wonton.",
-        "Invriezen: Rauwe gevormde wontons direct invriezen op een bakplaat, daarna in een zak. Vanuit de vriezer koken: 5–6 minuten."
-      ],
-      "opmaak_presentatie": "Diepe warme kommen. De bouillon helder en goudkleurig. Vier à vijf wontons als basis. Flinterdunne koolreepjes als zachte groene massa rondom. IJsbergsla als luchtige lichtgroene finishing bovenop. Lente-ui als scherp groen accent. Druppel sesamolie als glanzende afwerking. Licht, elegant en feestelijk — geen stampvolle kom maar een verfijnde soep.",
+      "chef_tip": "Mise-en-place: Bereid de soep voor en stel hem pas vlak voor het serveren samen. Maak de bouillon en de wontons vooraf. Kook de wontons en verwarm de kool pas op het laatst, zodat de bouillon helder blijft en de kool beet houdt.\n\nMise-en-place: Wontonvellen kopen en bewaren. Je vindt ze vers of diepgevroren in de toko of bij sommige supermarkten. Houd de vellen die je niet gebruikt onder een vochtige doek of in een afgesloten zak, anders drogen ze snel uit en scheuren ze.\n\nTechniek: Kies gehakt met 15–20% vet. Dat is de sleutel tot sappige wontons. Mager gehakt geeft een droge vulling.\n\nTechniek: Roer het gehakt stevig in één richting en voeg het koude water geleidelijk toe. Pas als het water volledig is opgenomen, is de vulling klaar.\n\nTechniek: Sluit de wontons goed af zonder luchtbellen. Druk de lucht uit de wonton voordat je de randen dichtdrukt. Luchtbellen laten de wonton barsten of drijven.\n\nTechniek: Kook de wontons apart, in een ruime pan met zacht kokend water. Zo blijft de bouillon helder. Reken op 4–6 minuten, en controleer een proefwonton: de vulling moet volledig gaar zijn, met een kerntemperatuur van minimaal 71 °C.\n\nTechniek: Kies een goede, niet te zoute kippenbouillon en proef voor je zout toevoegt. Ve-tsin, sojasaus en oestersaus (in de vulling) zijn al hartig.\n\nPresentatie: Verwarm de soepkommen voor, leg de wontons erin, verdeel de rauwe ijsbergsla en schep pas daarna de hete bouillon met kool erover. Zo blijft de sla fris en de bouillon heet.\n\nVariatie: Bied chiliolie apart aan, zodat gasten zelf bepalen hoe pittig ze het willen. Voeg een snufje witte peper toe voor meer warmte.\n\nVariatie: Rauwe wontons invriezen. Leg ze los op een met maizena bestoven schaal en vries ze in, bewaar ze daarna in een afgesloten zak. Kook ze rechtstreeks uit de vriezer, 6–8 minuten, en controleer altijd of de vulling volledig gaar is (minimaal 71 °C in de kern).\n\nAlternatief: Verschil tussen varkensgehakt en half-om-halfgehakt. Puur varkensgehakt geeft een zachtere, meer traditionele wonton. 250 g half-om-halfgehakt (varken/rund) kan ook uitstekend en geeft een iets stevigere, krachtigere vulling.",
+      "wine": {
+        "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
+        "druif": "Grüner Veltliner",
+        "toelichting": "Aroma: Groene appel, citrus, witte peper, een vleugje kruiden en een lichte minerale toon. Smaak en structuur: Droog en fris, met levendige zuren, een lichte tot middelvolle body en een subtiel kruidige, peperige afdronk. De levendige zuren verfrissen na elke hap het sappige varkensgehakt en de hartige bouillon. De subtiel kruidige, peperige toon sluit aan op de gember, de lente-ui en de witte peper in de soep, terwijl de lichte body de heldere bouillon niet overstemt. Serveer op 8–10 °C.",
+        "alternatief": "Soave Classico uit Veneto, of een Mâcon-Villages uit Bourgogne"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Soave Classico DOC — Veneto, Italië",
-          "druif": "Garganega",
-          "smaakprofiel": "Droog, licht, mineraal, amandel, witte bloesem, subtiele citrus",
-          "omschrijving": "Een elegante, lichte Italiaanse witte wijn — clean en verfijnd zonder ooit te overheersen.",
-          "waarom_werkt_dit": "De lichte mineraliteit spiegelt de heldere, pure bouillon. De subtiele amandeltoon sluit aan op de sesamolie. Licht genoeg om de delicate wontonvulling volledig te laten spreken."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Mâcon-Villages AOC — Bourgogne, Frankrijk",
-          "druif": "Chardonnay",
-          "smaakprofiel": "Droog, rond, wit fruit, zacht, toegankelijk",
-          "omschrijving": "Een rondere, toegankelijke witte wijn die de bouillon niet overheerst.",
-          "waarom_werkt_dit": "De zachte Chardonnay-structuur past bij varkensgehakt en wontondeeg. De frisse zuren houden de bouillon licht."
-        },
-        {
-          "type": "alternatief",
           "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
           "druif": "Grüner Veltliner",
-          "smaakprofiel": "Droog, fris, groene appel, witte peper, licht kruidig",
-          "omschrijving": "Een lichte, kruidige witte wijn die mooi werkt bij gember en lente-ui.",
-          "waarom_werkt_dit": "De witte-pepertoon sluit aan op gember en lente-ui. De frisse zuren reinigen het mondgevoel van de vulling en houden de soep elegant."
+          "smaakprofiel": "Herkomst: Wachau, Oostenrijk. Een frisse, droge, onbehoute Grüner Veltliner van de steile terrassen langs de Donau.",
+          "omschrijving": "Aroma: Groene appel, citrus, witte peper, een vleugje kruiden en een lichte minerale toon. Smaak en structuur: Droog en fris, met levendige zuren, een lichte tot middelvolle body en een subtiel kruidige, peperige afdronk.",
+          "waarom_werkt_dit": "De levendige zuren verfrissen na elke hap het sappige varkensgehakt en de hartige bouillon. De subtiel kruidige, peperige toon sluit aan op de gember, de lente-ui en de witte peper in de soep, terwijl de lichte body de heldere bouillon niet overstemt.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Soave Classico DOC — Veneto, Italië",
+          "druif": "Garganega",
+          "smaakprofiel": "Herkomst: Soave Classico, Veneto, Italië. Een elegante, onbehoute witte wijn van de heuvels rond Soave.",
+          "omschrijving": "Aroma: Witte bloesem, citrus, peer, een subtiele amandeltoon en een vleugje kruiden. Smaak en structuur: Droog en zacht, met gematigde zuren, een lichte tot middelvolle body en een elegante, licht amandelachtige afdronk.",
+          "waarom_werkt_dit": "De delicate, bloemige en fruitige toon ondersteunt de heldere bouillon zonder de wontons te overstemmen. De licht amandelachtige afdronk past bij het zachte wontondeeg en de vulling.",
+          "serveertemperatuur": "Serveer op 9–11 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Mâcon-Villages AOC — Bourgogne, Frankrijk",
+          "druif": "Chardonnay",
+          "smaakprofiel": "Herkomst: Mâconnais, Bourgogne, Frankrijk. Een Chardonnay zonder dominante houtrijping.",
+          "omschrijving": "Aroma: Appel, wit steenfruit, citrus, een vleugje bloesem en een lichte boterige toon. Smaak en structuur: Droog en soepel, met een zachte ronding, voldoende frisheid, een middelvolle body en een schone, fruitige afdronk.",
+          "waarom_werkt_dit": "Het zachte, ronde mondgevoel sluit goed aan op het zachte wontondeeg en de sappige vulling, terwijl de frisheid de soep levendig houdt. Een toegankelijke wijn die niet concurreert met de gember en lente-ui.",
+          "serveertemperatuur": "Serveer op 9–11 °C"
         }
-      ],
-      "wine": {
-        "naam": "Soave Classico DOC — Veneto, Italië",
-        "druif": "Garganega",
-        "toelichting": "Droog, licht, mineraal, amandel, witte bloesem, subtiele citrus Een elegante, lichte Italiaanse witte wijn — clean en verfijnd zonder ooit te overheersen. De lichte mineraliteit spiegelt de heldere, pure bouillon. De subtiele amandeltoon sluit aan op de sesamolie. Licht genoeg om de delicate wontonvulling volledig te laten spreken.",
-        "alternatief": "Mâcon-Villages (ronder, toegankelijker) of Grüner Veltliner Federspiel (licht kruidig — mooi bij gember en lente-ui). — ."
-      },
-      "metadata": {
-        "bereidingstijd": "40 min",
-        "porties": "4 lichte voorgerechten of 2 lichte maaltijden (4–5 wontons pp)",
-        "type_gerecht": "Soep / voorgerecht / lichte maaltijd",
-        "niveau": "Makkelijk"
-      },
-      "source_recipe_number": 69,
-      "full_title_docx": "69. CHINESE WONTONSOEP MET VARKENSGEHAKTVULLING, KOOLREEPJES EN IJSBERGSLA",
-      "chef_tip": "Wontons: Wontons nooit in de bouillon koken: Zetmeel maakt de bouillon troebel en plakkerig. Altijd apart koken, dan overbrengen.\n\nDe bouillon is alles: Goede kippenbouillon is de basis. Neem een kwaliteitscarton of zelfgemaakt. Tien minuten trekken met gember en knoflook maakt het verschil.\n\nGroenten flinterdun snijden: Reepjes van 2–3mm snijden de soep elegant en eten verfijnd — grove brokken horen hier niet in.\n\nIJsbergsla allerlaatst: 20–30 seconden. Niet langer — ze wordt slap en verliest haar karakter.\n\nNiet: Niet te veel vulling per wonton: Eén kleine theelepel. Te vol = scheuren.\n\nVariatie — taugé: Voeg een handvol taugé toe tegelijk met de ijsbergsla. Knapperig, typisch Chinees en geeft extra textuur zonder de soep zwaar te maken.\n\nVariatie: Variatie — garnalen in de vulling: 80g fijngehakte rauwe garnalen door het gehakt voor een rijkere, Hong Kong-stijl wonton.\n\nInvriezen: Rauwe gevormde wontons direct invriezen op een bakplaat, daarna in een zak. Vanuit de vriezer koken: 5–6 minuten."
+      ]
     },
     {
-      "title": "Jīng Jiàng Ròu Sī — Beijing varkensreepjes in zoete bonensaus met lentepannenkoekjes",
+      "title": "Jīng Jiàng Ròu Sī: Beijing varkensreepjes in zoete bonensaus met dunne pannenkoekjes",
       "slug": "jing-jiang-rou-si-beijing-varkensreepjes-bonensaus",
       "location": "Beijing",
-      "time": "50 min + 30 min deeg rusten + 15 min marineren",
-      "servings": "4 voorgerechten of 2 hoofdgerechten",
-      "difficulty": "Gemiddeld",
+      "time": "35 min + 15–20 min marineren",
+      "servings": "4 personen als voorgerecht (8–12 kleine rolletjes) of 2 personen als hoofdgerecht",
+      "difficulty": "Makkelijk",
       "keuken": "Chinees",
       "categorie": "vlees",
       "image": "/assets/images/jing-jiang-rou-si-beijing-varkensreepjes-bonensaus.jpg",
-      "short_description": "Het meest iconische gerecht van de Beijing-keuken — de volkse neef van de Pekingeend. Zijdezachte varkenshaasreepjes gevelvet in eiwit en maizena, geflashbakt in hete olie en dan geglaceerd in een glanzende donkere tian mian jiang saus.",
-      "description": "Het meest iconische gerecht van de Beijing-keuken — de volkse neef van de Pekingeend. Zijdezachte varkenshaasreepjes gevelvet in eiwit en maizena, geflashbakt in hete olie en dan geglaceerd in een glanzende donkere tian mian jiang saus. Met flinterdunne zelfgemaakte lentepannenkoekjes, gevouwen tofu skin, fijne lente-ui julienne en komkommerreepjes. Samen oprollen, één hap.",
-      "full_intro": "Het meest iconische gerecht van de Beijing-keuken — de volkse neef van de Pekingeend. Zijdezachte varkenshaasreepjes gevelvet in eiwit en maizena, geflashbakt in hete olie en dan geglaceerd in een glanzende donkere tian mian jiang saus. Met flinterdunne zelfgemaakte lentepannenkoekjes, gevouwen tofu skin, fijne lente-ui julienne en komkommerreepjes. Samen oprollen, één hap.",
+      "short_description": "Zijdezachte varkenshaasreepjes in een diepbruine, glanzende zoet-hartige bonensaus, met frisse komkommer, lente-ui en warme, dunne pannenkoekjes.",
+      "description": "Jīng jiàng ròu sī is Beijing-streetfood op zijn best: zijdezachte reepjes varkenshaas in een diepbruine, glanzende saus van gefermenteerde zoete bonenpasta, opgerold in een warm, dun pannenkoekje met knapperige komkommer en lente-ui. Het gerecht is in één wok klaar en je hebt geen moeilijke ingrediënten nodig: de saus kan met tian mian jiang of met hoisinsaus. Zoet, hartig en fris in één rolletje.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de varkensreepjes (velveting-marinade)",
+          "group_name": "Vlees en marinade",
           "ingredients": [
             {
-              "name": "varkenshaas (tenderloin)",
+              "name": "varkenshaas",
               "amount": "400 g"
             },
             {
@@ -21565,7 +21517,7 @@
             },
             {
               "name": "maizena",
-              "amount": "1½ el"
+              "amount": "1 el"
             },
             {
               "name": "lichte sojasaus",
@@ -21576,15 +21528,7 @@
               "amount": "1 el"
             },
             {
-              "name": "fijne suiker",
-              "amount": "½ tl"
-            },
-            {
-              "name": "water",
-              "amount": "1 el"
-            },
-            {
-              "name": "fijn zeezout",
+              "name": "suiker",
               "amount": "½ tl"
             },
             {
@@ -21592,16 +21536,20 @@
               "amount": "¼ tl"
             },
             {
-              "name": "neutrale olie (allerlaatst door de marinade)",
+              "name": "neutrale olie, als laatste door de marinade",
+              "amount": "1 tl"
+            },
+            {
+              "name": "neutrale olie om te roerbakken, in twee porties",
               "amount": "2 el"
             }
           ]
         },
         {
-          "group_name": "Voor de tian mian jiang saus",
+          "group_name": "Saus",
           "ingredients": [
             {
-              "name": "tian mian jiang (zoete bonensaus, bij de toko)",
+              "name": "tian mian jiang (of hoisinsaus, zie de tips)",
               "amount": "3 el"
             },
             {
@@ -21609,354 +21557,143 @@
               "amount": "1 el"
             },
             {
-              "name": "fijne suiker",
-              "amount": "1½ tl"
+              "name": "lichte sojasaus",
+              "amount": "2 tl"
+            },
+            {
+              "name": "donkere sojasaus",
+              "amount": "½ tl"
             },
             {
               "name": "water",
               "amount": "3 el"
             },
             {
-              "name": "lichte sojasaus",
-              "amount": "1 tl"
-            },
-            {
-              "name": "donkere sojasaus (geeft de diepe glanzende bruine kleur)",
+              "name": "suiker, alleen bij tian mian jiang",
               "amount": "½ tl"
             },
             {
-              "name": "hoisinsaus (optioneel — extra ronding)",
+              "name": "rijstazijn",
               "amount": "1 tl"
             },
             {
-              "name": "maizena + 1 el water (alleen indien saus te dun is)",
-              "amount": "½ tl"
+              "name": "verse gember, geraspt",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflook, fijngehakt",
+              "amount": "1 teen"
+            },
+            {
+              "name": "neutrale olie, indien nodig om de saus te bakken",
+              "amount": "1 tl"
+            },
+            {
+              "name": "extra water, indien nodig",
+              "amount": "1–2 el"
             }
           ]
         },
         {
-          "group_name": "Voor het roerbakken",
+          "group_name": "Pannenkoekjes en groenten",
           "ingredients": [
             {
-              "name": "neutrale olie",
-              "amount": "3 el"
+              "name": "dunne Pekingpannenkoekjes (Peking duck pancakes of Mandarijnpannenkoekjes), kant-en-klaar",
+              "amount": "12"
             },
             {
-              "name": "teentjes knoflook, fijn gehakt",
-              "amount": "2"
-            },
-            {
-              "name": "verse gember, fijn geraspt",
-              "amount": "1 tl"
-            },
-            {
-              "name": "geroosterde sesamolie (allerlaatst door het vlees)",
-              "amount": "1 tl"
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de tofu skin (authentieke Beijing-wrapper)",
-          "ingredients": [
-            {
-              "name": "vellen gedroogde tofu skin (bij de toko)",
-              "amount": "4–6"
-            },
-            {
-              "name": "of: verse tofu skin (yuba)",
-              "amount": ""
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de lentepannenkoekjes (12 stuks — 6 paren)",
-          "ingredients": [
-            {
-              "name": "gewone bloem",
-              "amount": "200 g"
-            },
-            {
-              "name": "kokend water (net van het kookpunt)",
-              "amount": "100 ml"
-            },
-            {
-              "name": "warm water",
-              "amount": "25 ml"
-            },
-            {
-              "name": "fijn zeezout",
-              "amount": "½ tl"
-            },
-            {
-              "name": "neutrale olie (in het deeg)",
-              "amount": "1 tl"
-            },
-            {
-              "name": "extra neutrale olie (voor de scheidingslaag tussen de paren)",
-              "amount": "naar smaak"
-            }
-          ]
-        },
-        {
-          "group_name": "Voor de garnering",
-          "ingredients": [
-            {
-              "name": "lente-uitjes, alleen het witte gedeelte, in flinterdunne julienne van 6–8cm",
+              "name": "lente-uitjes, vooral het witte en lichtgroene deel",
               "amount": "5"
             },
             {
-              "name": "komkommer, zaadjes verwijderd, in flinterdunne julienne van 6–8cm",
+              "name": "komkommer, zonder waterige zaadlijst",
               "amount": "½"
             }
           ]
         }
       ],
-      "ingredient_groups_full": [
-        {
-          "group_name": "Voor de varkensreepjes (velveting-marinade)",
-          "ingredients": [
-            "400g varkenshaas (tenderloin)",
-            "1 eiwit",
-            "1½ el maizena",
-            "1 el lichte sojasaus",
-            "1 el Shaoxing rijstwijn",
-            "½ tl fijne suiker",
-            "1 el water",
-            "½ tl fijn zeezout",
-            "¼ tl witte peper",
-            "2 el neutrale olie (allerlaatst door de marinade)"
-          ]
-        },
-        {
-          "group_name": "Voor de tian mian jiang saus",
-          "ingredients": [
-            "3 el tian mian jiang (— zoete bonensaus, bij de toko)",
-            "1 el Shaoxing rijstwijn",
-            "1½ tl fijne suiker",
-            "3 el water",
-            "1 tl lichte sojasaus",
-            "½ tl donkere sojasaus (geeft de diepe glanzende bruine kleur)",
-            "1 tl hoisinsaus (optioneel — extra ronding)",
-            "½ tl maizena + 1 el water (alleen indien saus te dun is)"
-          ]
-        },
-        {
-          "group_name": "Voor het roerbakken",
-          "ingredients": [
-            "3 el neutrale olie",
-            "2 teentjes knoflook, fijn gehakt",
-            "1 tl verse gember, fijn geraspt",
-            "1 tl geroosterde sesamolie (allerlaatst door het vlees)"
-          ]
-        },
-        {
-          "group_name": "Voor de tofu skin (— authentieke Beijing-wrapper)",
-          "ingredients": [
-            "4–6 vellen gedroogde tofu skin (bij de toko)",
-            "Of: verse tofu skin (yuba)"
-          ]
-        },
-        {
-          "group_name": "Voor de lentepannenkoekjes (12 stuks — 6 paren)",
-          "ingredients": [
-            "200g gewone bloem",
-            "100ml kokend water (net van het kookpunt)",
-            "25ml warm water",
-            "½ tl fijn zeezout",
-            "1 tl neutrale olie (in het deeg)"
-          ]
-        },
-        {
-          "group_name": "Extra neutrale olie (voor de scheidingslaag tussen de paren)",
-          "ingredients": []
-        },
-        {
-          "group_name": "Voor de garnering",
-          "ingredients": [
-            "5 lente-uitjes, alleen het witte gedeelte, in flinterdunne julienne van 6–8cm",
-            "½ komkommer, zaadjes verwijderd, in flinterdunne julienne van 6–8cm"
-          ]
-        }
-      ],
       "steps": [
         {
-          "number": 1,
-          "action": "De lentepannenkoekjes (maak eerst)",
-          "description": "Bloem en zout mengen. Kokend water direct erbij al roerend met eetstokjes. Dan warm water + neutrale olie. Zodra hanteerbaar: 5–8 minuten kneden tot glad en soepel. Afdekken. 30 minuten rusten. Rol tot een worst. Snijd in 12 gelijke stukken. Rol tot bolletjes. Verdeel in 6 paren. Dubbel-rol techniek: Druk één bal plat. Bestrijk licht met neutrale olie. Leg de tweede bal erop, druk samen. Rol elk paar uit tot een schijf van 14–16 cm — zo dun mogelijk. Droge koekenpan op middelhoog vuur. Elk paar 30–45 seconden per kant tot lichte bruine vlekjes verschijnen. Nog warm: trek de twee pannenkoekjes voorzichtig van elkaar — ze lossen moeiteloos doordat de olie als scheidingslaag werkt. Stapelen onder vochtige theedoek."
+          "action": "Groenten voorbereiden",
+          "description": "Snijd de 5 lente-uitjes en ½ komkommer (zonder zaadlijst) in fijne julienne van 5–6 cm. Houd ze rauw en zet ze koel weg."
         },
         {
-          "number": 6,
-          "action": "Tofu skin voorbereiden",
-          "description": "Gedroogde tofu skin: 5–10 min weken in warm water. Afgieten. In rechthoeken van 10×12cm snijden. Vouwen tot elegante driehoekjes op het bord."
+          "action": "Vlees snijden",
+          "description": "Snijd de 400 g varkenshaas dwars op de draad in reepjes van ca. 5 cm lang en 3–4 mm dik. Haal eventueel zilvervlies weg. Dat snijdt makkelijker als het vlees 15–20 minuten in de vriezer heeft gelegen."
         },
         {
-          "number": 7,
-          "action": "Vlees snijden en marineren",
-          "description": "Vriezertip: Leg de varkenshaas 20 minuten in de vriezer — half bevroren vlees is veel makkelijker strak en dun te snijden. Snijd dwars op de vezels in reepjes van 5–6cm lang en 3–4mm dik. Marinade: eiwit, maizena, sojasaus, Shaoxing wijn, suiker, water, zout en witte peper mengen. Vlees toevoegen. Roer tot alle vloeistof opgenomen is en het vlees plakkerig voelt. Dan de neutrale olie erdoor. 15–30 minuten marineren."
+          "action": "Velveting-marinade maken",
+          "description": "Meng 1 eiwit, 1 el maizena, 1 el lichte sojasaus, 1 el Shaoxing, ½ tl suiker en ¼ tl witte peper en schep de reepjes erdoor. Roer als laatste 1 tl neutrale olie door het vlees. Laat 15–20 minuten rusten."
         },
         {
-          "number": 10,
-          "action": "Velveting (guò yóu)",
-          "description": "Verhit 3 el olie in een wok op hoog vuur tot gloeiend heet. Varkensreepjes toevoegen. 30–40 seconden — niet langer — tot het vlees net van kleur verandert maar van binnen nog sappig is. Direct uit de wok. Opzij zetten."
+          "action": "Saus mengen",
+          "description": "Meng in een kommetje 3 el tian mian jiang (of hoisinsaus), 1 el Shaoxing, 2 tl lichte sojasaus, ½ tl donkere sojasaus, 3 el water, ½ tl suiker (alleen bij tian mian jiang), 1 tl rijstazijn, 1 tl geraspte gember en 1 teen fijngehakte knoflook."
         },
         {
-          "number": 11,
-          "action": "Saus eerst bakken (chǎo jiàng)",
-          "description": "Meng alle sausingrediënten in een kommetje. Dezelfde wok, 2 el verse olie op middelhoog vuur. Knoflook en gember 20 seconden tot geurig. Sausmix toevoegen. \"Fry the sauce\": bak 1–2 minuten al roerend tot de saus borelt, indikt en diep geurig is. De saus moet glanzen — dit activeert de gefermenteerde pasta. Vlees terug in de wok. Hoog vuur — 1–2 minuten — tot alle reepjes gelijkmatig gelakt zijn. Te dun? Maizena-water toevoegen. Sesamolie allerlaatst erdoor."
+          "action": "Pannenkoekjes voorbereiden",
+          "description": "Leg de 12 pannenkoekjes klaar om te verwarmen. Als ze diepvries zijn, laat ze dan alvast ontdooien."
         },
         {
-          "number": 14,
-          "action": "Opbouwen",
-          "description": "Glanzend gevlees in het midden van een warm bord. Tofu skin driehoekjes eromheen. Lente-ui julienne als waaier. Komkommer als fris groen. Pannekoekjes warm in theedoek apart. Michelin-presentatie: Vul per persoon 2 pannenkoekjes alvast met vlees, lente-ui en komkommer. Schuin opensnijden — de mooie dwarsdoorsnede toont de vulling. Met een klein kommetje extra saus ernaast."
+          "action": "Vlees roerbakken",
+          "description": "Verhit een wok op hoog vuur en voeg de helft van de 2 el neutrale olie toe. Bak de helft van het vlees 1½–2½ minuut, steeds in beweging, tot de reepjes net niet meer rauw zijn en geen roze meer vertonen. Haal het vlees uit de wok en herhaal met de rest."
+        },
+        {
+          "action": "Saus bakken",
+          "description": "Zet de wok op middelhoog vuur en voeg zo nodig 1 tl olie toe. Giet de saus erin en bak ca. 1 minuut al roerend, tot ze begint te borrelen en geurig wordt."
+        },
+        {
+          "action": "Vlees glaceren",
+          "description": "Doe al het vlees terug in de wok en schep 1–2 minuten om, tot het volledig gaar is en bedekt met een glanzende, licht stroperige saus. Voeg zo nodig 1–2 el water toe. Het vlees is gaar als er in de dikste reepje geen rauw roze meer zit."
+        },
+        {
+          "action": "Pannenkoekjes verwarmen",
+          "description": "Verwarm de pannenkoekjes volgens de verpakking, bij voorkeur kort gestoomd (3–5 minuten), tot ze zacht en soepel zijn. Houd ze warm onder een theedoek."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer het vlees in een mooie schaal met komkommer, lente-ui en de warme pannenkoekjes apart. Vul enkele pannenkoekjes met wat vlees, komkommer en lente-ui, rol ze stevig maar voorzichtig op en snijd ze eventueel schuin doormidden, zodat de vulling zichtbaar is."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Varkenshaas: het is een mager, mals deel dat in een paar minuten gaar is, precies wat je in een wok nodig hebt. Dwars op de draad snijden: de spiervezels worden zo kort, waardoor de reepjes zacht blijven en niet draderig. Eiwit en maizena: ze vormen een dun beschermlaagje om het vlees, dat het sap vasthoudt en de reepjes zijdezacht houdt tijdens het bakken. Twee porties: in een volle wok zakt de temperatuur, gaat het vlees stomen en wordt het grijs en taai. In kleine porties blijft de pan heet. Tian mian jiang: deze gefermenteerde zoete bonenpasta geeft een diepe, hartige zoetheid met een lichte umami die je met gewone sojasaus niet krijgt. Hoisinsaus: het is een goed, makkelijk verkrijgbaar alternatief, maar iets zoeter en aromatischer, dus laat je de suiker weg en voeg je wat meer rijstazijn toe. Saus kort bakken: een minuut in de hete wok haalt de rauwe zoutheid weg, maakt de saus geurig en laat hem licht indikken. Komkommer en lente-ui: ze brengen frisheid en knapperigheid, zodat de rijke saus niet zwaar wordt. Dunne, zachte pannenkoekjes: ze nemen de saus op en blijven soepel. Tortilla's zijn dikker en rijstpapier wordt taai, dus beide geven een andere structuur."
         }
       ],
-      "steps_full": [
-        {
-          "number": null,
-          "section": "De lentepannenkoekjes (maak eerst)",
-          "description": "Bloem en zout mengen. Kokend water direct erbij al roerend met eetstokjes. Dan warm water + neutrale olie. Zodra hanteerbaar: 5–8 minuten kneden tot glad en soepel. Afdekken. 30 minuten rusten."
-        },
-        {
-          "number": null,
-          "section": "De lentepannenkoekjes (maak eerst)",
-          "description": "Rol tot een worst. Snijd in 12 gelijke stukken. Rol tot bolletjes. Verdeel in 6 paren."
-        },
-        {
-          "number": null,
-          "section": "De lentepannenkoekjes (maak eerst)",
-          "description": "Dubbel-rol techniek: Druk één bal plat. Bestrijk licht met neutrale olie. Leg de tweede bal erop, druk samen. Rol elk paar uit tot een schijf van 14–16 cm — zo dun mogelijk."
-        },
-        {
-          "number": null,
-          "section": "De lentepannenkoekjes (maak eerst)",
-          "description": "Droge koekenpan op middelhoog vuur. Elk paar 30–45 seconden per kant tot lichte bruine vlekjes verschijnen."
-        },
-        {
-          "number": null,
-          "section": "De lentepannenkoekjes (maak eerst)",
-          "description": "Nog warm: trek de twee pannenkoekjes voorzichtig van elkaar — ze lossen moeiteloos doordat de olie als scheidingslaag werkt. Stapelen onder vochtige theedoek."
-        },
-        {
-          "number": null,
-          "section": "Tofu skin voorbereiden",
-          "description": "Gedroogde tofu skin: 5–10 min weken in warm water. Afgieten. In rechthoeken van 10×12cm snijden. Vouwen tot elegante driehoekjes op het bord."
-        },
-        {
-          "number": null,
-          "section": "Vlees snijden en marineren",
-          "description": "Vriezertip: Leg de varkenshaas 20 minuten in de vriezer — half bevroren vlees is veel makkelijker strak en dun te snijden."
-        },
-        {
-          "number": null,
-          "section": "Vlees snijden en marineren",
-          "description": "Snijd dwars op de vezels in reepjes van 5–6cm lang en 3–4mm dik."
-        },
-        {
-          "number": null,
-          "section": "Vlees snijden en marineren",
-          "description": "Marinade: eiwit, maizena, sojasaus, Shaoxing wijn, suiker, water, zout en witte peper mengen. Vlees toevoegen. Roer tot alle vloeistof opgenomen is en het vlees plakkerig voelt. Dan de neutrale olie erdoor. 15–30 minuten marineren."
-        },
-        {
-          "number": null,
-          "section": "Velveting (guò yóu)",
-          "description": "Verhit 3 el olie in een wok op hoog vuur tot gloeiend heet. Varkensreepjes toevoegen. 30–40 seconden — niet langer — tot het vlees net van kleur verandert maar van binnen nog sappig is. Direct uit de wok. Opzij zetten."
-        },
-        {
-          "number": null,
-          "section": "Saus eerst bakken (chǎo jiàng)",
-          "description": "Meng alle sausingrediënten in een kommetje."
-        },
-        {
-          "number": null,
-          "section": "Saus eerst bakken (chǎo jiàng)",
-          "description": "Dezelfde wok, 2 el verse olie op middelhoog vuur. Knoflook en gember 20 seconden tot geurig. Sausmix toevoegen. \"Fry the sauce\": bak 1–2 minuten al roerend tot de saus borelt, indikt en diep geurig is. De saus moet glanzen — dit activeert de gefermenteerde pasta."
-        },
-        {
-          "number": null,
-          "section": "Saus eerst bakken (chǎo jiàng)",
-          "description": "Vlees terug in de wok. Hoog vuur — 1–2 minuten — tot alle reepjes gelijkmatig gelakt zijn. Te dun? Maizena-water toevoegen. Sesamolie allerlaatst erdoor."
-        },
-        {
-          "number": null,
-          "section": "Opbouwen",
-          "description": "Glanzend gevlees in het midden van een warm bord. Tofu skin driehoekjes eromheen. Lente-ui julienne als waaier. Komkommer als fris groen. Pannekoekjes warm in theedoek apart."
-        },
-        {
-          "number": null,
-          "section": "Opbouwen",
-          "description": "Michelin-presentatie: Vul per persoon 2 pannenkoekjes alvast met vlees, lente-ui en komkommer. Schuin opensnijden — de mooie dwarsdoorsnede toont de vulling. Met een klein kommetje extra saus ernaast."
-        }
-      ],
-      "tips": [
-        "Alternatief: Tian mian jiang is niet optioneel: Het is de smaakziel van dit gerecht. Bij de toko als of \"sweet bean sauce\". Hoisin saus is het meest toegankelijke alternatief maar iets zoeter en minder complex.",
-        "Velveting is het verschil: De flash-bak van 30–40 seconden in olie — niet langer — geeft de zijdezachte textuur. Te lang = taai vlees.",
-        "Sauce first bakken: Tian mian jiang eerst alleen in de hete wok activeren geeft de saus zijn diepte, glans en karakter.",
-        "Snijden: Altijd against the grain snijden: Dwars op de vezels voor zachte, niet-rubberige reepjes.",
-        "Donkere sojasaus voor kleur: Geeft de saus zijn diepe, glanzende bruine lakkleur die het gerecht zo aantrekkelijk maakt.",
-        "Alternatieven: Alternatieven voor het zelfgemaakte pannenkoekje:",
-        "Inkopen: 1. Kant-en-klare Peking duck pancakes — gekoeld of bevroren bij de toko. Stomen of kort magnetron. Meest praktisch.",
-        "2. tofu: 2. Tofu skin () — de meest authentieke Beijing-wrapper. Lichter dan pannenkoek.",
-        "3. kleine: 3. Kleine bloem tortilla's (10cm) — warm opgebakken in een droge pan.",
-        "4. rijstpapiervellen: 4. Rijstpapiervellen — kort geweekt, licht en glutenvrij.",
-        "5. little: 5. Little gem sla bladeren — knapperig, fris, moderne twist.",
-        "Variatie — kip: Zelfde techniek met kipfilet. Iets minder diepte maar uitstekend."
-      ],
-      "tips_full": [
-        "Alternatief: Tian mian jiang is niet optioneel: Het is de smaakziel van dit gerecht. Bij de toko als of \"sweet bean sauce\". Hoisin saus is het meest toegankelijke alternatief maar iets zoeter en minder complex.",
-        "Velveting is het verschil: De flash-bak van 30–40 seconden in olie — niet langer — geeft de zijdezachte textuur. Te lang = taai vlees.",
-        "Sauce first bakken: Tian mian jiang eerst alleen in de hete wok activeren geeft de saus zijn diepte, glans en karakter.",
-        "Snijden: Altijd against the grain snijden: Dwars op de vezels voor zachte, niet-rubberige reepjes.",
-        "Donkere sojasaus voor kleur: Geeft de saus zijn diepe, glanzende bruine lakkleur die het gerecht zo aantrekkelijk maakt.",
-        "Alternatieven: Alternatieven voor het zelfgemaakte pannenkoekje:",
-        "Inkopen: 1. Kant-en-klare Peking duck pancakes — gekoeld of bevroren bij de toko. Stomen of kort magnetron. Meest praktisch.",
-        "2. tofu: 2. Tofu skin () — de meest authentieke Beijing-wrapper. Lichter dan pannenkoek.",
-        "3. kleine: 3. Kleine bloem tortilla's (10cm) — warm opgebakken in een droge pan.",
-        "4. rijstpapiervellen: 4. Rijstpapiervellen — kort geweekt, licht en glutenvrij.",
-        "5. little: 5. Little gem sla bladeren — knapperig, fris, moderne twist.",
-        "Variatie — kip: Zelfde techniek met kipfilet. Iets minder diepte maar uitstekend."
-      ],
-      "opmaak_presentatie": "Warm groot wit bord. Varkensreepjes glanzend donkerbruin in het midden. Tofu skin driehoekjes als witte elegante accenten. Lente-ui julienne als fijne waaier. Komkommer fris groen. Twee gesneden rolletjes die de vulling tonen. Pannekoekjes warm in een doek apart. Interactief, feestelijk en authentiek.",
+      "chef_tip": "Mise-en-place: Maak vooraf alles klaar. Snijd de groenten, meng de saus en leg de pannenkoekjes klaar voordat je de wok aanzet. Het roerbakken zelf duurt maar een paar minuten, en dan moet je niets meer hoeven zoeken.\n\nMise-en-place: Snij het vlees dun. Leg de varkenshaas 15–20 minuten in de vriezer, dan is het stevig genoeg om heel dun te snijden.\n\nTechniek: Voorkom dat het vlees aan elkaar plakt. Schep de reepjes eerst door de marinade zonder olie, roer de olie als laatste erdoor en leg de reepjes in de wok los naast elkaar. Haal ze met een spatel of stokjes uit elkaar zodra ze de pan raken.\n\nTechniek: Bak in twee porties. Eén portie van 200 g past in een wok zonder dat de temperatuur zakt. Alles tegelijk geeft stomend, grijs vlees. Controleer de gaarheid in plaats van alleen de tijd te volgen: de reepjes zijn gaar als ze geen rauw roze meer hebben.\n\nTechniek: Corrigeer de sausdikte. Is de saus te dik, voeg dan 1–2 el water toe. Is hij te dun, laat hem dan 30–60 seconden zonder deksel inkoken. Voeg geen maizena toe, want de marinade bindt al genoeg.\n\nPresentatie: Zet het glanzende vlees in een mooie schaal, met komkommer, lente-ui en de warme pannenkoekjes apart. Vul enkele pannenkoekjes alvast, rol ze op en snijd ze schuin door, zodat gasten zowel kant-en-klare rolletjes als losse ingrediënten hebben om zelf te rollen.\n\nVariatie: Kipfilet in plaats van varkenshaas. Snijd dezelfde reepjes en gebruik dezelfde marinade. Bak per portie 2–3 minuten, tot er geen roze meer is en het sap helder is.\n\nAlternatief: Hoisinsaus in plaats van tian mian jiang. Hoisin is zoeter en aromatischer. Laat de ½ tl suiker weg, gebruik 2 tl rijstazijn in plaats van 1 tl en proef of er een scheutje lichte sojasaus bij moet.\n\nAlternatief: Waar vind je kant-en-klare pannenkoekjes? In de toko, vaak in de diepvries, onder de naam Peking duck pancakes of Mandarijnpannenkoekjes. Ontdooi ze volgens de verpakking.\n\nAlternatief: Zelfgemaakte Mandarijnpannenkoekjes. Meng 150 g bloem met 100 ml heet water (ca. 90 °C), kneed 5 minuten glad en laat 30 minuten onder een doek rusten. Verdeel in 12 gelijke balletjes, plet ze, bestrijk de helft met 1 tl neutrale olie en leg er een tweede balletje op. Rol deze paren uit tot ronde van 12–14 cm. Bak ze 1–1½ minuut per kant in een droge pan, tot ze licht gevlekt zijn, en trek ze daarna voorzichtig uit elkaar. Houd ze warm onder een theedoek.\n\nAlternatief: Tortilla's. Gebruik kleine, zo dun mogelijke bloemtortilla's. Verwarm ze 15–20 seconden per kant in een droge pan en houd ze warm onder een theedoek. Rijstpapier is niet aan te raden: het wordt taaier en past minder bij dit gerecht.",
+      "wine": {
+        "naam": "Pinot Gris d’Alsace — Elzas, Frankrijk",
+        "druif": "Pinot Gris",
+        "toelichting": "Aroma: Rijpe peer, gele appel, abrikoos, honing en een vleugje rook en gember. Smaak en structuur: Rond en vol, met een zachte, ietwat olieachtige textuur, gematigde zuren en een lichte restzoetheid. De afdronk is lang, kruidig en iets rokerig. De rondheid en lichte restzoetheid sluiten aan op de zoete bonensaus, terwijl het rijpe fruit en de kruidige toon de hartige umami van de saus versterken. De body past bij het zachte varkensvlees, en de lichte zuren houden de combinatie met komkommer en lente-ui fris. Serveer op 9–11 °C.",
+        "alternatief": "Vouvray Demi-Sec uit de Loire, of een soepele Zweigelt uit Oostenrijk"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Pinot Gris d'Alsace AOC — Alsace, Frankrijk",
-          "druif": "Pinot Gris (Grauburgunder)",
-          "smaakprofiel": "Droog tot licht rond, aromatisch, peer, witte perzik, subtiele rokerige ondertoon, volle body",
-          "omschrijving": "Een rijke, aromatische Elzasser wijn met exotische toon — vol zonder zwaar te zijn.",
-          "waarom_werkt_dit": "De lichte rondheid draagt de zoete bonensaus zonder haar te overstemmen. De aromatische tonen sluiten aan op de Shaoxing wijn en gember. De volle body houdt stand naast het rijke geglaceerde varkensvlees."
+          "naam": "Pinot Gris d’Alsace — Elzas, Frankrijk",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Herkomst: Elzas, Frankrijk. Een rijpe, aromatische Pinot Gris met voldoende rondheid om de zoet-hartige saus te begeleiden.",
+          "omschrijving": "Aroma: Rijpe peer, gele appel, abrikoos, honing en een vleugje rook en gember. Smaak en structuur: Rond en vol, met een zachte, ietwat olieachtige textuur, gematigde zuren en een lichte restzoetheid. De afdronk is lang, kruidig en iets rokerig.",
+          "waarom_werkt_dit": "De rondheid en lichte restzoetheid sluiten aan op de zoete bonensaus, terwijl het rijpe fruit en de kruidige toon de hartige umami van de saus versterken. De body past bij het zachte varkensvlees, en de lichte zuren houden de combinatie met komkommer en lente-ui fris.",
+          "serveertemperatuur": "Serveer op 9–11 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Vouvray demi-sec AOC — Loire, Frankrijk",
+          "naam": "Vouvray Demi-Sec — Loire, Frankrijk",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Licht restzoet, frisse zuren, appel, kweepeer, honing, subtiele mineraliteit",
-          "omschrijving": "Een licht zoete Loirewijn met genoeg frisheid en een honingachtige toon.",
-          "waarom_werkt_dit": "De lichte restsuiker spiegelt de tian mian jiang — zoet bij zoet, maar de levendige Chenin-zuren houden alles fris en nooit plakkerig. Prachtige combinatie."
+          "smaakprofiel": "Herkomst: Vouvray, Loire, Frankrijk. Chenin Blanc met levendige zuren, rijp fruit en een lichte restzoetheid.",
+          "omschrijving": "Aroma: Kweepeer, gele appel, honing, perzik en een vleugje bloesem. Smaak en structuur: Halfdroog, met levendige zuren, een middelvolle body en een schone, minerale afdronk met een vleugje honing.",
+          "waarom_werkt_dit": "De frisse zuren snijden door de glanzende saus en houden het gerecht licht, terwijl de lichte zoetheid en het rijpe fruit passen bij de zoet-hartige bonenpasta. Het fruit sluit ook mooi aan op de frisheid van de komkommer.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
-          "type": "alternatief",
-          "naam": "Zweigelt — Wien of Niederösterreich, Oostenrijk",
+          "type": "meest-toegankelijk",
+          "naam": "Zweigelt — Oostenrijk",
           "druif": "Zweigelt",
-          "smaakprofiel": "Licht rood, kersenrood, frisse zuren, lage tannines, lichte kruidigheid",
-          "omschrijving": "Een lichte Oostenrijkse rode wijn — sappig, fris en nooit zwaar.",
-          "waarom_werkt_dit": "Als je rood wilt: de frisse kersenzuren snijden door de rijke bonensaus. De lage tannines botsen niet met het zachte velvet-varkensvlees. Licht gekoeld serveren op 14°C."
+          "smaakprofiel": "Herkomst: Oostenrijk (o.a. Niederösterreich of Burgenland). Een fruitige, soepele rode wijn met weinig tannine.",
+          "omschrijving": "Aroma: Zure kers, framboos, bosbes, een vleugje peper en kruiden. Smaak en structuur: Soepel en sappig, met levendige zuren, zachte tannine en een lichte tot middelvolle body. De afdronk is fruitig en kruidig.",
+          "waarom_werkt_dit": "Het sappige rode fruit past bij de zoete, diepbruine saus, en doordat de wijn nauwelijks tannine heeft, botst hij niet met de zoet-hartige smaak. Licht gekoeld geschonken blijft de wijn fris naast de komkommer en lente-ui.",
+          "serveertemperatuur": "Serveer op 13–14 °C"
         }
-      ],
-      "wine": {
-        "naam": "Pinot Gris d'Alsace AOC — Alsace, Frankrijk",
-        "druif": "Pinot Gris (Grauburgunder)",
-        "toelichting": "Droog tot licht rond, aromatisch, peer, witte perzik, subtiele rokerige ondertoon, volle body Een rijke, aromatische Elzasser wijn met exotische toon — vol zonder zwaar te zijn. De lichte rondheid draagt de zoete bonensaus zonder haar te overstemmen. De aromatische tonen sluiten aan op de Shaoxing wijn en gember. De volle body houdt stand naast het rijke geglaceerde varkensvlees.",
-        "alternatief": "Vouvray demi-sec AOC — Loire, Frankrijk — Chenin Blanc. Licht restzoet, frisse zuren, appel, kweepeer, honing, subtiele mineraliteit Een licht zoete Loirewijn met genoeg frisheid en een honingachtige toon. De lichte restsuiker spiegelt de tian mian jiang — zoet bij zoet, maar de levendige Chenin-zuren houden alles fris en nooit plakkerig. Prachtige combinatie. | Zweigelt — Wien of Niederösterreich, Oostenrijk — Zweigelt. Licht rood, kersenrood, frisse zuren, lage tannines, lichte kruidigheid Een lichte Oostenrijkse rode wijn — sappig, fris en nooit zwaar. Als je rood wilt: de frisse kersenzuren snijden door de rijke bonensaus. De lage tannines botsen niet met het zachte velvet-varkensvlees. Licht gekoeld serveren op 14°C."
-      },
-      "metadata": {
-        "bereidingstijd": "50 min (plus 30 min deeg rusten + 15 min marineren)",
-        "porties": "4 voorgerechten / 2 hoofdgerechten",
-        "type_gerecht": "Voorgerecht / hoofdgerecht / Beijing streetfood",
-        "niveau": "Gemiddeld"
-      },
-      "source_recipe_number": 70,
-      "full_title_docx": "70. JĪNG JIÀNG RÒU SĪ — BEIJING VARKENSREEPJES IN ZOETE BONENSAUS MET LENTEPANNEKOEKJES",
-      "chef_tip": "Alternatief: Tian mian jiang is niet optioneel: Het is de smaakziel van dit gerecht. Bij de toko als of \"sweet bean sauce\". Hoisin saus is het meest toegankelijke alternatief maar iets zoeter en minder complex.\n\nVelveting is het verschil: De flash-bak van 30–40 seconden in olie — niet langer — geeft de zijdezachte textuur. Te lang = taai vlees.\n\nSauce first bakken: Tian mian jiang eerst alleen in de hete wok activeren geeft de saus zijn diepte, glans en karakter.\n\nSnijden: Altijd against the grain snijden: Dwars op de vezels voor zachte, niet-rubberige reepjes.\n\nDonkere sojasaus voor kleur: Geeft de saus zijn diepe, glanzende bruine lakkleur die het gerecht zo aantrekkelijk maakt.\n\nAlternatieven: Alternatieven voor het zelfgemaakte pannenkoekje:\n\nInkopen: 1. Kant-en-klare Peking duck pancakes — gekoeld of bevroren bij de toko. Stomen of kort magnetron. Meest praktisch.\n\n2. tofu: 2. Tofu skin () — de meest authentieke Beijing-wrapper. Lichter dan pannenkoek.\n\n3. kleine: 3. Kleine bloem tortilla's (10cm) — warm opgebakken in een droge pan.\n\n4. rijstpapiervellen: 4. Rijstpapiervellen — kort geweekt, licht en glutenvrij.\n\n5. little: 5. Little gem sla bladeren — knapperig, fris, moderne twist.\n\nVariatie — kip: Zelfde techniek met kipfilet. Iets minder diepte maar uitstekend."
+      ]
     },
     {
       "title": "Shī Zì Tóu — Beijing leeuwenkoppen met Chinese kool en rode braadsaus",
