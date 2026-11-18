@@ -84185,6 +84185,231 @@
           "serveertemperatuur": "Serveer op 8–10 °C"
         }
       ]
+    },
+    {
+      "title": "Snackbarbal in jus, zoals vroeger",
+      "slug": "gehaktbal-in-jus-snackbar",
+      "location": "Nederland",
+      "time": "Ca. 2 uur 15 min (plus 12–24 uur rusten in de jus)",
+      "servings": "4 personen (4 ballen van ca. 170 g)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Nederlands",
+      "categorie": "vlees",
+      "image": "/assets/images/gehaktbal-in-jus-snackbar.jpg",
+      "short_description": "De foute gehaktbal uit de snackbar: compact, glad en een tikje kleffig, gedoopt in bruine jus en een nacht bewaard.",
+      "description": "Plak een bruine jus aan je lepel en leg er een bleke, strakke bal in: de foute gehaktbal uit de jaren 80. Je kent hem van de snackbar, uit de kantine, uit het blik van oma’s voorraadkast. Hij is dicht, glad en een beetje kleffig, met nootmuskaat en koriander op de achtergrond. Je prikt hem niet kapot, je snijdt hem. Een beetje fout, en daarom zo goed.",
+      "ingredient_groups": [
+        {
+          "group_name": "Gehaktballen",
+          "ingredients": [
+            {
+              "name": "half-om-half gehakt, 20–25% vet",
+              "amount": "500 g"
+            },
+            {
+              "name": "fijn paneermeel",
+              "amount": "3 el (ca. 30 g)"
+            },
+            {
+              "name": "ijskoude runderbouillon",
+              "amount": "50 ml"
+            },
+            {
+              "name": "ei, losgeklopt",
+              "amount": "1"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "2 tl"
+            },
+            {
+              "name": "fijn zout, afgestreken",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Zaanse mosterd",
+              "amount": "1 el"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1 el"
+            },
+            {
+              "name": "Maggi vloeibaar",
+              "amount": "1 tl"
+            },
+            {
+              "name": "uienpoeder",
+              "amount": "1 tl"
+            },
+            {
+              "name": "knoflookpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "nootmuskaat",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "korianderpoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zoet paprikapoeder",
+              "amount": "½ tl"
+            },
+            {
+              "name": "gemberpoeder",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Pocheren",
+          "ingredients": [
+            {
+              "name": "runderbouillon, zoutarm",
+              "amount": "700 ml"
+            },
+            {
+              "name": "laurierblad",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "group_name": "Ouderwetse snackbarjus",
+          "ingredients": [
+            {
+              "name": "bak- en braadvet",
+              "amount": "25 g"
+            },
+            {
+              "name": "bloem",
+              "amount": "2 el"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1 el"
+            },
+            {
+              "name": "hete pocheerbouillon, gezeefd",
+              "amount": "500 ml"
+            },
+            {
+              "name": "ketjap manis",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Maggi vloeibaar",
+              "amount": "½ tl"
+            },
+            {
+              "name": "witte peper",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Om te serveren",
+          "ingredients": [
+            {
+              "name": "zachte witte kadetjes",
+              "amount": "4"
+            },
+            {
+              "name": "Zaanse mosterd",
+              "amount": "naar smaak"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Binding voorbereiden",
+          "description": "Meng het paneermeel met 50 ml ijskoude bouillon en laat 5 minuten opzuigen. Zet gehakt, ei en mengkom koud weg."
+        },
+        {
+          "action": "Gehakt tot pasta malen",
+          "description": "Leg de kom en het mes van de keukenmachine 15 tot 30 minuten in de vriezer. Maal het koude gehakt met het zout in korte pulsen van 45 tot 60 seconden. Schraap de wand schoon en maal door tot de gehaktstrengen verdwijnen. Voel tussendoor aan de massa. Boven ca. 12 °C smelt het vet en breekt de emulsie, en dan wordt de bal korrelig en droog. Zet de massa dan eerst terug in de koelkast of vriezer."
+        },
+        {
+          "action": "Mengen",
+          "description": "Voeg het geweekte paneermeel, ei, zetmeel, mosterd, ketjap, Maggi en alle kruiden toe. Maal 60–90 seconden in pulsen tot een gladde, kleverige, worstachtige pasta zonder herkenbare stukjes gehakt."
+        },
+        {
+          "action": "Proefballetje",
+          "description": "Pocheer een theelepel van het mengsel in warme bouillon en proef. Is het te stevig, meng dan 10–15 ml ijskoude bouillon door de rest."
+        },
+        {
+          "action": "Vormen en opstijven",
+          "description": "Verdeel in 4 porties van ca. 170 g. Rol met natte handen strakke, gladde ballen zonder scheuren of luchtkamers. Laat minimaal 1 uur onafgedekt in de koelkast opstijven. Niet door bloem rollen en niet aanbakken."
+        },
+        {
+          "action": "Pocheren",
+          "description": "Verwarm 700 ml bouillon met het laurierblad tot 80–85 °C. Leg de ballen erin zodat ze grotendeels onderstaan. Houd de temperatuur tussen 80 en 85 °C en laat 35–50 minuten garen tot de kern 75 °C is. Keer halverwege. Haal ze eruit en zeef het vocht."
+        },
+        {
+          "action": "Jus maken",
+          "description": "Smelt het bak- en braadvet, roer de bloem erdoor en bak 2–3 minuten licht bruin. Voeg de tomatenpuree toe en bak 1 minuut mee. Schenk geleidelijk 500 ml hete bouillon erbij terwijl je roert. Voeg ketjap, Maggi en peper toe en laat 5 minuten zachtjes doorkoken. De jus moet glanzend zijn en de lepel net bedekken. Proef pas daarna op zout, want de bouillon heeft zout opgenomen uit de ballen."
+        },
+        {
+          "action": "Laten trekken",
+          "description": "Leg de ballen in de jus en laat 15–20 minuten op 75–80 °C trekken zonder koken. Schep regelmatig jus over de ballen."
+        },
+        {
+          "action": "Een nacht rusten",
+          "description": "Laat ze in een ondiepe schaal snel afkoelen, zet ze binnen 2 uur afgedekt in de koelkast en laat 12–24 uur rusten."
+        },
+        {
+          "action": "Opwarmen en dopen",
+          "description": "Verwarm de volgende dag langzaam in de jus tot de kern weer 75 °C is. Serveer gedoopt in de jus."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Zout en malen: het zout lost spiereiwit (myosine) op. Dat vormt tijdens het garen een samenhangend netwerk, net als bij worst. Dat is de gladde, compacte bite. Vet en paneermeel: het varkensvet houdt de massa zacht, het paneermeel bindt vocht en voorkomt dat de bal te hard wordt. Het aardappelzetmeel geeft extra klefheid, zoals in het blik. Koud werken: blijft de massa onder ca. 12 °C, dan blijft de emulsie van vlees en vet intact en wordt de bal glad in plaats van korrelig. Pocheren onder het kookpunt: de eiwitten stollen geleidelijk, zonder korst en zonder droge buitenkant. Rusten in de jus: de bal wordt aan de buitenkant zacht en glanzend en neemt smaak op. De binnenstructuur ontstaat al bij het malen, niet door het rusten."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Weeg alle kruiden en specerijen vooraf af in een bakje en zet de pocheerbouillon klaar voordat je gaat malen. Zodra het gehakt in de keukenmachine zit, wil je zonder onderbreking doorwerken zodat de massa koud blijft.\n\nTechniek: Gebruik geen mager gehakt. Met 20–25% vet krijg je de juiste structuur; mager gehakt geeft een droge, stugge bal.\n\nTechniek: Een keukenmachine met messen is nodig. Een mixer met deeghaken maakt de massa kleverig, maar niet glad.\n\nTechniek: Gebruik geen verse ui, want stukjes verstoren de gladde doorsnede. Daarom zit de ui in de vorm van poeder in het mengsel.\n\nTechniek: Gebruik zoutarme bouillon voor pocheren en jus en doseer de Maggi voorzichtig. De jus wordt aan het einde zouter doordat de ballen zout afgeven.\n\nTechniek: Laat de bouillon nooit hard koken. Alleen af en toe een belletje is genoeg; bij hard koken worden de ballen korrelig en barsten ze.\n\nTechniek: Bewaren kan 3 dagen in de koelkast, steeds in de jus.\n\nPresentatie: Serveer op een wit bord met een royale lepel jus, of op een zacht wit kadetje met Zaanse mosterd. Leg er een vorkje bij, zoals vroeger bij de snackbar. Niet te netjes: de jus mag aan de rand van het bord lopen.\n\nVariatie: Bak de ballen na het pocheren kort aan in boter voor een kantinekorstje. Dat is minder authentiek, maar wel lekker.\n\nAlternatief: Geen keukenmachine? Laat de slager het gehakt twee keer door de fijnste plaat draaien en klop de massa daarna met het zout en een houten lepel in een koude kom tot hij plakkerig is. Het resultaat is iets grover.",
+      "wine": {
+        "naam": "Beaujolais-Villages",
+        "druif": "Gamay",
+        "toelichting": "Aroma: Kers, framboos, rode bes en een subtiele kruidigheid. Smaak en structuur: Sappig en levendig met frisse zuren, zachte tannines, een lichte tot middelvolle body en een schone, fruitige afdronk. De lichte body, levendige zuren en zachte tannines zetten het vette gehakt en de rijke jus op scherp. De wijn overheerst de hartige Maggi- en mosterdtonen niet en houdt het geheel verrassend licht. Het rode fruit past ook bij de zoete ketjap in de jus. Serveer op 14–15 °C.",
+        "alternatief": "Spätburgunder uit Baden, of een jonge Garnacha uit Navarra"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Beaujolais-Villages",
+          "druif": "Gamay",
+          "smaakprofiel": "Herkomst: Beaujolais, Frankrijk. Soepel, sappig en licht van stijl.",
+          "omschrijving": "Aroma: Kers, framboos, rode bes en een subtiele kruidigheid. Smaak en structuur: Sappig en levendig met frisse zuren, zachte tannines, een lichte tot middelvolle body en een schone, fruitige afdronk.",
+          "waarom_werkt_dit": "De lichte body, levendige zuren en zachte tannines zetten het vette gehakt en de rijke jus op scherp. De wijn overheerst de hartige Maggi- en mosterdtonen niet en houdt het geheel verrassend licht. Het rode fruit past ook bij de zoete ketjap in de jus.",
+          "serveertemperatuur": "Serveer op 14–15 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Spätburgunder",
+          "druif": "Pinot Noir",
+          "smaakprofiel": "Herkomst: Baden, Duitsland. Elegant en fruitgedreven, zonder uitgesproken houtlagering.",
+          "omschrijving": "Aroma: Rode kers, aardbei, lichte aardse tonen en een vleugje specerijen. Smaak en structuur: Zacht met weinig tannine, frisse zuren, een middelvolle body en een lange, soepele afdronk.",
+          "waarom_werkt_dit": "De aardse tonen sluiten aan bij het vlees en de bruine jus, en de frisse zuren halen het vet weg. Kies een fruitgedreven exemplaar zonder houtlagering, zodat de wijn de delicate kruiden van de bal niet overstemt.",
+          "serveertemperatuur": "Serveer op 15–16 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Garnacha — Navarra, Spanje",
+          "druif": "Garnacha",
+          "smaakprofiel": "Herkomst: Navarra, Spanje. Fruitig en ongecompliceerd, een jonge, nauwelijks houtgerijpte versie.",
+          "omschrijving": "Aroma: Rijpe aardbei, rode pruim, kers en een hint witte peper. Smaak en structuur: Rond en middelvol, met milde tannines, gematigde zuren en een zachte, fruitige afdronk.",
+          "waarom_werkt_dit": "De ronde, middelvolle smaak en milde tannines maken hem makkelijk drinkbaar. Het rijpe fruit vangt het zoute en lichtzoete karakter van de ketjapjus op, terwijl de peperige toon aansluit bij de nootmuskaat en witte peper in de bal.",
+          "serveertemperatuur": "Serveer op 15–16 °C"
+        }
+      ]
     }
   ]
 }
