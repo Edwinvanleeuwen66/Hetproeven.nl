@@ -5453,69 +5453,73 @@
       "title": "Albóndigas — de allerbeste gehaktballetjes in tomatensaus",
       "slug": "albondigas-tomatensaus",
       "location": "Spanje",
-      "time": "1 uur",
-      "servings": "4 personen",
+      "time": "Ca. 3 uur (waarvan 50 min koelen)",
+      "servings": "4 personen (ca. 16 balletjes)",
       "difficulty": "Gemiddeld",
       "keuken": "Spaans",
       "categorie": "vlees",
       "image": "/assets/images/albondigas-tomatensaus.jpg",
-      "short_description": "Sappige gehaktballetjes van gemengd rund en varken langzaam gestoofd in een rijke tomatensaus met rode wijn.",
-      "description": "De allerbeste albóndigas — sappige gehaktballetjes van gemengd rund en varken met gekarameliseerde ui, langzaam gestoofd in een rijke tomatensaus met rode wijn en kruiden.",
+      "short_description": "Stevig gebruinde, sappige albóndigas van rund en varken in een diepe, geconcentreerde tomatensaus met rode wijn.",
+      "description": "Klassieke Spaanse albóndigas: stevig gebruinde, sappige gehaktballetjes van rund en varken, zacht gegaard in een uitzonderlijk diepe, geconcentreerde tomatensaus. Zonder bloem krijgen ze rondom een diepbruine korst, en de saus van langzaam gebakken ui, tomatenpuree, rode wijn en een scheutje sherryazijn wordt fluweelzacht en vol. Serveer in een warme cazuela met knapperig brood.",
       "ingredient_groups": [
         {
           "group_name": "Gehaktballetjes",
           "ingredients": [
             {
-              "name": "rundergehakt",
+              "name": "rundergehakt, liefst 15–20% vet",
               "amount": "300 g"
             },
             {
-              "name": "varkensgehakt",
+              "name": "varkensgehakt, niet te mager",
               "amount": "200 g"
             },
             {
-              "name": "ui, gekarameliseerd",
-              "amount": "1"
-            },
-            {
-              "name": "knoflookteentjes, fijn gehakt",
-              "amount": "2"
-            },
-            {
-              "name": "paneermeel",
+              "name": "ui, fijngesnipperd",
               "amount": "50 g"
             },
             {
-              "name": "volle melk",
-              "amount": "60 ml"
+              "name": "olijfolie, om de ui te fruiten",
+              "amount": "1 tl"
             },
             {
-              "name": "ei",
+              "name": "knoflook",
+              "amount": "2 tenen"
+            },
+            {
+              "name": "vers witbroodkruim",
+              "amount": "25 g"
+            },
+            {
+              "name": "volle melk",
+              "amount": "40 ml"
+            },
+            {
+              "name": "eidooier",
               "amount": "1"
             },
             {
               "name": "platte peterselie, fijngehakt",
-              "amount": "4 el"
+              "amount": "2 el"
             },
             {
               "name": "pimentón dulce",
-              "amount": "1 tl"
+              "amount": "¾ tl"
             },
             {
               "name": "nootmuskaat",
-              "amount": "1 tl"
+              "amount": "⅛ tl"
             },
             {
-              "name": "zout en peper",
-              "amount": "naar smaak"
+              "name": "fijn zout",
+              "amount": "¾ tl"
             },
             {
-              "name": "bloem om te bestuiven",
-              "amount": "60 g"
+              "name": "zwarte peper",
+              "amount": "½ tl"
             },
             {
-              "name": "olijfolie",
-              "amount": "45 ml"
+              "name": "olijfolie, om aan te braden",
+              "amount": "3 el"
             }
           ]
         },
@@ -5523,20 +5527,40 @@
           "group_name": "Tomatensaus",
           "ingredients": [
             {
-              "name": "ui voor de saus, fijn gesnipperd",
-              "amount": "1"
+              "name": "ui, fijngesnipperd",
+              "amount": "150 g"
             },
             {
-              "name": "knoflookteentjes voor de saus",
-              "amount": "3"
+              "name": "wortel, zeer fijn geraspt",
+              "amount": "50 g"
+            },
+            {
+              "name": "groene puntpaprika, fijngesneden",
+              "amount": "75 g"
+            },
+            {
+              "name": "knoflook",
+              "amount": "3 tenen"
+            },
+            {
+              "name": "tomatenpuree",
+              "amount": "1½ el"
+            },
+            {
+              "name": "pimentón dulce",
+              "amount": "½ tl"
+            },
+            {
+              "name": "droge rode wijn",
+              "amount": "125 ml"
             },
             {
               "name": "gepelde tomaten uit blik",
               "amount": "800 g"
             },
             {
-              "name": "droge rode wijn",
-              "amount": "150 ml"
+              "name": "goede, bij voorkeur zoutarme runderbouillon",
+              "amount": "75 ml"
             },
             {
               "name": "laurierblaadjes",
@@ -5547,89 +5571,99 @@
               "amount": "2"
             },
             {
-              "name": "snufje suiker",
-              "amount": "1"
+              "name": "zout, begin hiermee en proef na het inkoken",
+              "amount": "½ tl"
             },
             {
-              "name": "zout voor de saus",
-              "amount": "1 tl"
+              "name": "suiker, alleen als de tomaten te zuur zijn",
+              "amount": "½ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "sherryazijn",
+              "amount": "½–1 tl"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "platte peterselie, fijngehakt",
+              "amount": "2 el"
+            },
+            {
+              "name": "knapperig brood, om te serveren",
+              "amount": "naar smaak"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Ui karameliseren",
-          "description": "bak de ui langzaam 15 minuten tot volledig gekarameliseerd en goudbruin."
+          "action": "Ui goudbruin bakken",
+          "description": "Fruit 50 g fijngesnipperde ui in 1 tl olijfolie 10–12 minuten op laag vuur, tot hij zacht en goudbruin is. Voeg de laatste minuut 2 tenen knoflook toe. Laat volledig afkoelen."
         },
         {
-          "action": "Panade en gehakt",
-          "description": "week paneermeel in melk 5 minuten. Meng runder- en varkensgehakt met alle overige ingrediënten. Voorzichtig mengen — niet te lang kneden. Zet 20 minuten in de koelkast."
+          "action": "Gehakt voorbereiden",
+          "description": "Week 25 g witbroodkruim 5 minuten in 40 ml volle melk. Meng 300 g rundergehakt en 200 g varkensgehakt 30–45 seconden met ¾ tl zout, tot het vlees licht kleverig wordt. Voeg de panade, 1 eidooier, de afgekoelde ui met knoflook, 2 el peterselie, ¾ tl pimentón dulce, ⅛ tl nootmuskaat en ½ tl zwarte peper toe en meng kort tot alles gelijkmatig verdeeld is. Niet langdurig kneden. Bak een klein proefballetje en controleer de kruiding. Laat het mengsel 20 minuten afgedekt in de koelkast rusten."
         },
         {
-          "action": "Ballen vormen en bakken",
-          "description": "vorm balletjes ter grootte van een walnoot. Wentel door bloem. Bak rondom goudbruin in olijfolie. Schep eruit."
+          "action": "Balletjes vormen en diepbruin bakken",
+          "description": "Vorm ca. 16 gelijkmatige balletjes van ca. 40 g en laat ze 30 minuten opstijven in de koelkast. Verhit 3 el olijfolie in een brede, zware pan en bak de balletjes in twee porties 5–7 minuten per portie, tot ze rondom diep goudbruin zijn. Niet door bloem rollen. Ze hoeven vanbinnen nog niet gaar te zijn. Haal ze uit de pan en bewaar ze gekoeld. Laat de bruine aanbaksels en 1–2 el bakvet in de pan; verwijder eventuele verbrande zwarte resten."
         },
         {
-          "action": "Tomatensaus",
-          "description": "bak ui glazig in dezelfde pan. Blus met rode wijn. Voeg tomaten, laurier, tijm, suiker en zout toe. Laat 20 minuten sudderen. Leg balletjes in de saus en laat 20 minuten op laag vuur sudderen."
+          "action": "De tomatensaus opbouwen",
+          "description": "Fruit in dezelfde pan 150 g ui, 50 g geraspte wortel en 75 g groene puntpaprika 15–20 minuten op matig tot laag vuur, tot ze zacht zijn en licht goudbruin kleuren. Voeg 3 tenen knoflook toe en bak 1 minuut mee. Voeg 1½ el tomatenpuree toe en bak 2 minuten, tot hij donkerder wordt, en daarna ½ tl pimentón dulce, 20 seconden. Blus met 125 ml droge rode wijn, schraap de aanbaksels los en laat de wijn inkoken tot ca. 40 ml. Voeg 800 g gepelde tomaten, 75 ml runderbouillon, 2 laurierblaadjes en 2 takjes tijm toe en laat 30–40 minuten zonder deksel zachtjes pruttelen, tot de saus geconcentreerd en vol is. Verwijder laurier en tijm, pureer met een staafmixer tot een fluweelzachte saus en proef op zout (begin met ½ tl) en peper. Voeg alleen als de tomaten te zuur zijn maximaal ½ tl suiker toe."
         },
         {
-          "action": "Serveer",
-          "description": "verwijder laurier en tijm. Bestrooi met peterselie. Serveer in een aardewerken schaaltje met knapperig brood."
+          "action": "Balletjes afgaren en serveren",
+          "description": "Leg de aangebraden balletjes in de saus en laat 10–15 minuten heel zacht sudderen, tot ze een kerntemperatuur van 71 °C bereiken. Laat niet hard koken. Zet het vuur uit en laat 5 minuten rusten. Roer eerst ½ tl sherryazijn erdoor, proef en verhoog eventueel tot 1 tl. Roer daarna 1 el extra vierge olijfolie door de saus. Werk af met 2 el fijngehakte peterselie en serveer in een warme aardewerken cazuela met knapperig brood."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Rund en varken: rund geeft smaak en structuur, varken zorgt voor vet en zachtheid. Samen worden de balletjes stevig maar sappig. Beperkte panade: weinig broodkruim en melk houden de balletjes stevig in plaats van zacht en broodachtig, terwijl ze sappig blijven. Kort mengen met zout: zout lost eiwitten in het gehakt op, die kleverig worden en de balletjes binden. Door kort te mengen blijft de structuur sappig. Zonder bloem: het vlees komt direct met de hete pan in contact, zodat de Maillardreactie een diepbruine, smaakvolle korst vormt. Langzaam gebakken sofrito: ui, wortel en paprika worden zoet en diep van smaak, zonder de saus te overheersen. Tomatenpuree: kort gebakken geeft ze een geconcentreerde, licht gekarameliseerde tomatensmaak. Ingekookte rode wijn: hij brengt diepte en zuren in de saus, zonder dat de saus waterig wordt. Sherryazijn aan het eind: een druppel zuur maakt de rijke saus levendig en voorkomt dat hij zwaar smaakt."
         }
       ],
-      "tips": [
-        "het geheim van sappige balletjes is paneermeel weken in melk. Karameliseer de ui goed voor je het gehakt toevoegt.",
-        "Techniek: braad de balletjes in porties aan op hoog vuur — een volle pan geeft stoom in plaats van karamelisatie. Hoge hitte, weinig balletjes tegelijk.",
-        "Presentatie: serveer in een warme aardewerken cazuela — het gerecht houdt de warmte langer vast en de rustieke presentatie past perfect bij de eerlijke, hartige smaak.",
-        "Variatie: voeg een handvol erwten en een plak jamon serrano toe aan de saus voor een meer complete maaltijd, of gebruik lamsgehakt voor een rijkere, aardsere smaak.",
-        "Alternatief: geen vers gehakt? Gebruik 50/50 rundergehakt en varkensgehakt — de combinatie geeft precies de juiste vetbalans voor sappige albóndigas.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
+      "chef_tip": "Mise-en-place: Albóndigas smaken de volgende dag nog beter. Bak de balletjes en maak de saus een dag vooraf en bewaar ze samen in de koelkast (maximaal 2 dagen). Verwarm zachtjes op laag vuur met een scheutje water en voeg sherryazijn en extra vierge olijfolie pas bij het opwarmen toe.\n\nTechniek: Vraag de slager om rundergehakt met 15–20% vet en varkensgehakt dat niet te mager is. Gehakt onder de 10% vet geeft droge, stevige balletjes.\n\nTechniek: Laat het proefballetje een minuut rusten voor je proeft. Warm smaakt gehakt zouter dan het na het afgaren in de saus smaakt, dus pas het zout daarop aan.\n\nTechniek: Zijn de aanbaksels zwart in plaats van bruin? Spoel de pan dan uit en begin de saus met verse olijfolie. Verbrande resten maken de saus bitter.\n\nTechniek: Je herkent ingekookte wijn aan de geur: de scherpte van de alcohol is weg en er blijft een zoet-zurige wijngeur over. Een lepel die door de pan trekt laat dan even een spoor achter.\n\nTechniek: Trek een lepel door de saus. Blijft het spoor even open, dan is de dikte goed. Is de saus te dun, laat hem 5–10 minuten zonder deksel inkoken. Is hij te dik, roer dan 2–3 el water of bouillon door.\n\nTechniek: Laat de saus zachtjes sudderen: er mogen om de paar seconden kleine belletjes opstijgen. Hard koken maakt de balletjes rubberachtig.\n\nPresentatie: Verwarm de cazuela vooraf kort in een oven van 100 °C en zet hem op een houten plank in het midden van de tafel, zodat iedereen kan delen.\n\nVariatie: Maak kleinere balletjes van ca. 20 g (ongeveer 32 stuks) als borrelhapje. Bak ze 3–4 minuten per portie en laat ze 8–10 minuten sudderen in de saus.\n\nAlternatief: Geen vers witbroodkruim? Gebruik 25 g zachte witte boterham zonder korst, fijn gemaakt, en week hem op dezelfde manier in de melk.",
+      "wine": {
+        "naam": "Mencía — Bierzo, Spanje",
+        "druif": "Mencía",
+        "toelichting": "Aroma: Rood fruit zoals framboos, kers en rode bes, met viooltjes, wat gedroogde kruiden en een subtiele minerale toon. Smaak en structuur: Sappig en levendig, met frisse zuren, fijne, soepele tannines, een middelvolle body en een lange, fruitige en lichtjes kruidige afdronk. De frisse zuren sluiten aan op de geconcentreerde tomatensaus en de ingekookte rode wijn, terwijl het rode fruit de pimentón en de gebakken ui ondersteunt. De fijne tannines passen bij de diepbruine korst van het gehakt zonder het vlees te overheersen. Door het ontbreken van zware houttonen en vanille blijft de wijn vrij en fris naast de saus. Serveer op 14–16 °C.",
+        "alternatief": "Garnacha uit Campo de Borja, of een jonge Tempranillo uit Rioja"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Rioja Crianza",
-          "druif": "Tempranillo",
-          "smaakprofiel": "Droog, rood fruit, zachte tannines, vanille, kruiden, frisse zuren",
-          "omschrijving": "Albóndigas en Rioja Crianza zijn een klassieke combinatie die al decennia in de Spaanse keuken bestaat — en terecht.",
-          "waarom_werkt_dit": "De rijpe tomatige zuurgraad van de Tempranillo spiegelt de tomatensaus; de zachte tannines van de Crianza-rijping passen perfect bij het malse gehakt. Een vleugje vanille en kruid van de Amerikaanse eik geeft de combinatie extra dimensie. De Crianza is lang genoeg gerijpt om complexity te hebben maar niet zo zwaar dat het het gerecht overstemt. Een eerlijk gerecht verdient een eerlijke, toegankelijke wijn. Serveer op 16°C."
+          "naam": "Mencía — Bierzo, Spanje",
+          "druif": "Mencía",
+          "smaakprofiel": "Herkomst: Bierzo, Castilla y León, Spanje. Een jonge, fruitige Mencía zonder dominante houtrijping, van steile, leisteenrijke wijngaarden.",
+          "omschrijving": "Aroma: Rood fruit zoals framboos, kers en rode bes, met viooltjes, wat gedroogde kruiden en een subtiele minerale toon. Smaak en structuur: Sappig en levendig, met frisse zuren, fijne, soepele tannines, een middelvolle body en een lange, fruitige en lichtjes kruidige afdronk.",
+          "waarom_werkt_dit": "De frisse zuren sluiten aan op de geconcentreerde tomatensaus en de ingekookte rode wijn, terwijl het rode fruit de pimentón en de gebakken ui ondersteunt. De fijne tannines passen bij de diepbruine korst van het gehakt zonder het vlees te overheersen. Door het ontbreken van zware houttonen en vanille blijft de wijn vrij en fris naast de saus.",
+          "serveertemperatuur": "Serveer op 14–16 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Garnacha uit Campo de Borja",
+          "naam": "Garnacha — Campo de Borja, Spanje",
           "druif": "Garnacha",
-          "smaakprofiel": "Droog, sappig rood fruit, zachte tannines, kruidig, fris",
-          "omschrijving": "fruitiger en ronder, werkt als de tomatensaus de hoofdrol heeft",
-          "waarom_werkt_dit": "Garnacha geeft sappig rood fruit en zachte tannines; daardoor blijft het gerecht doordrinkbaar bij paprika, chorizo, tomaat of gegrild vlees. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "smaakprofiel": "Herkomst: Campo de Borja, Aragón, Spanje. Een fruitige Garnacha zonder dominante houtrijping.",
+          "omschrijving": "Aroma: Rijpe aardbei, framboos, kers, een vleugje witte peper en kruiden. Smaak en structuur: Sappig en ruimhartig, met gematigde zuren, zachte tannines, een middelvolle body en een warme, fruitige afdronk.",
+          "waarom_werkt_dit": "Het rijpe rode fruit en de zachte structuur sluiten aan op de zoete, diepe tomaat en de gebakken ui. De gematigde zuren houden de combinatie levendig en de zachte tannines botsen niet met de saus. De witte peper in de wijn versterkt de pimentón in de balletjes.",
+          "serveertemperatuur": "Serveer op 14–16 °C"
         },
         {
-          "type": "alternatief",
-          "naam": "Malbec — Mendoza, Argentinië",
-          "druif": "Malbec",
-          "smaakprofiel": "Droog, donker fruit, pruim, cacao, zachte tannines, sappig",
-          "omschrijving": "Argentijnse rode wijn die rijp fruit combineert met ronde structuur.",
-          "waarom_werkt_dit": "Malbec heeft rijp donker fruit en ronde tannines, waardoor hij stevig vlees en zoet-hartige sauzen draagt zonder stroef te worden. De structuur is stevig genoeg voor vlees en specerijen, maar houdt voldoende zuur om het gerecht niet zwaar te laten worden."
+          "type": "meest-toegankelijk",
+          "naam": "Tempranillo joven — Rioja, Spanje",
+          "druif": "Tempranillo",
+          "smaakprofiel": "Herkomst: Rioja, Spanje. Een jonge Tempranillo met weinig eikenhout, gekozen om zijn fruit.",
+          "omschrijving": "Aroma: Kers, rode pruim, framboos en een lichte kruidige toon, zonder nadrukkelijke vanille. Smaak en structuur: Soepel en fruitig, met frisse zuren, zachte tannines, een lichte tot middelvolle body en een schone, fruitige afdronk.",
+          "waarom_werkt_dit": "Een herkenbare, toegankelijke Spaanse rode wijn die de tomatensaus en het gehakt aanvult zonder ze te overstemmen. De frisse zuren houden de rijke saus levendig, en doordat er weinig hout in zit, blijft de wijn zacht naast het vlees.",
+          "serveertemperatuur": "Serveer op 15–16 °C"
         }
-      ],
-      "wine": {
-        "naam": "Rioja Crianza",
-        "druif": "Tempranillo",
-        "toelichting": "Albóndigas en Rioja Crianza zijn een klassieke combinatie die al decennia in de Spaanse keuken bestaat — en terecht. De rijpe tomatige zuurgraad van de Tempranillo spiegelt de tomatensaus; de zachte tannines van de Crianza-rijping passen perfect bij het malse gehakt. Een vleugje vanille en kruid van de Amerikaanse eik geeft de combinatie extra dimensie. De Crianza is lang genoeg gerijpt om complexity te hebben maar niet zo zwaar dat het het gerecht overstemt. Een eerlijk gerecht verdient een eerlijke, toegankelijke wijn. Serveer op 16°C.",
-        "alternatief": "Garnacha uit Campo de Borja — fruitiger en ronder, werkt als de tomatensaus de hoofdrol heeft"
-      },
-      "tips_full": [
-        "het geheim van sappige balletjes is paneermeel weken in melk. Karameliseer de ui goed voor je het gehakt toevoegt.",
-        "Techniek: braad de balletjes in porties aan op hoog vuur — een volle pan geeft stoom in plaats van karamelisatie. Hoge hitte, weinig balletjes tegelijk.",
-        "Presentatie: serveer in een warme aardewerken cazuela — het gerecht houdt de warmte langer vast en de rustieke presentatie past perfect bij de eerlijke, hartige smaak.",
-        "Variatie: voeg een handvol erwten en een plak jamon serrano toe aan de saus voor een meer complete maaltijd, of gebruik lamsgehakt voor een rijkere, aardsere smaak.",
-        "Alternatief: geen vers gehakt? Gebruik 50/50 rundergehakt en varkensgehakt — de combinatie geeft precies de juiste vetbalans voor sappige albóndigas.",
-        "Rusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.",
-        "Balans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
-      ],
-      "chef_tip": "het geheim van sappige balletjes is paneermeel weken in melk. Karameliseer de ui goed voor je het gehakt toevoegt.\n\nTechniek: braad de balletjes in porties aan op hoog vuur — een volle pan geeft stoom in plaats van karamelisatie. Hoge hitte, weinig balletjes tegelijk.\n\nPresentatie: serveer in een warme aardewerken cazuela — het gerecht houdt de warmte langer vast en de rustieke presentatie past perfect bij de eerlijke, hartige smaak.\n\nVariatie: voeg een handvol erwten en een plak jamon serrano toe aan de saus voor een meer complete maaltijd, of gebruik lamsgehakt voor een rijkere, aardsere smaak.\n\nAlternatief: geen vers gehakt? Gebruik 50/50 rundergehakt en varkensgehakt — de combinatie geeft precies de juiste vetbalans voor sappige albóndigas.\n\nRusttijd: laat gebakken of gestoofd vlees altijd kort rusten voordat je het op brood of bord legt. Zo blijft het sappiger en loopt het vocht niet weg.\n\nBalans: vet vlees heeft zuur of frisheid nodig. Een druppel azijn, citrus, pickles of frisse kruiden maakt het hapje lichter en eleganter."
+      ]
     },
     {
       "title": "Paprika's met knoflook, honing en amandelen",
