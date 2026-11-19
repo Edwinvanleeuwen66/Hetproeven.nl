@@ -12427,21 +12427,21 @@
       "categorie": "soep",
       "image": "/assets/images/vichyssoise-bieslookolie-roomijs.jpg",
       "short_description": "IJskoude prei-aardappelsoep, fluweelzacht gezeefd, met een quenelle gezouten roomijs en felgroene bieslookolie.",
-      "description": "Vichyssoise is de elegantste koude soep die er bestaat — prei, aardappel, room, weinig meer. De kracht zit in de techniek: lang genoeg zeven voor het fluweelzachte gevoel, lang genoeg koelen voor de perfecte temperatuur. Het gezouten roomijs is geen grap — het versterkt de romigheid en geeft een verrassing bij elke lepel.",
+      "description": "Vichyssoise is de elegantste koude soep die er bestaat — prei, aardappel, room, weinig meer. De kracht zit in de techniek: kort pureren, één keer fijn zeven voor het fluweelzachte gevoel, lang genoeg koelen voor de perfecte temperatuur. Het gezouten roomijs is geen grap — het versterkt de romigheid en geeft een verrassing bij elke lepel.",
       "ingredient_groups": [
         {
           "group_name": "Vichyssoise",
           "ingredients": [
             {
-              "name": "preien, alleen het witte en lichtgroene deel, in ringen",
-              "amount": "3"
+              "name": "prei, schoongemaakt, alleen het witte en lichtgroene deel, in ringen",
+              "amount": "ca. 400 g"
             },
             {
               "name": "sjalot, fijngesnipperd",
               "amount": "1"
             },
             {
-              "name": "kruimige aardappels, geschild en in blokken",
+              "name": "kruimige aardappelen, geschild",
               "amount": "300 g"
             },
             {
@@ -12504,7 +12504,7 @@
       "steps": [
         {
           "action": "Roomijs maken",
-          "description": "klop de slagroom met zout en suiker stijf. Doe in een bakje en vries minstens 3 uur in. Haal 10 minuten voor serveren uit de vriezer en schep met twee lepels tot een quenelle."
+          "description": "Klop de slagroom met zout en suiker lobbig. Doe in een ondiep bakje en vries minstens 3 uur in. Haal het bakje 10–20 minuten voor het opscheppen uit de vriezer. Het ijs is klaar om te scheppen zodra een warme lepel er soepel doorheen glijdt. Schep met twee lepels tot een quenelle."
         },
         {
           "action": "Bieslookolie maken",
@@ -12512,68 +12512,57 @@
         },
         {
           "action": "Soep maken",
-          "description": "smelt de boter op laag vuur. Fruit prei en sjalot 10–12 minuten langzaam — ze mogen niet kleuren, alleen verzachten en zoeter worden. Voeg aardappel en bouillon toe. Kook 20 minuten tot de aardappel volledig gaar is."
+          "description": "Smelt de boter op laag vuur. Fruit prei en sjalot 10–12 minuten langzaam; ze mogen niet kleuren, alleen verzachten en zoeter worden. Snijd de geschilde aardappelen in blokjes en voeg ze direct toe aan de prei en bouillon. Spoel de blokjes na het snijden niet af. Laat ze zachtjes koken tot een mesje er zonder weerstand doorheen gaat."
         },
         {
-          "action": "Blenden en zeven",
-          "description": "blend de soep glad. Zeef daarna door een fijne zeef — dit is niet optioneel. Het verschil tussen gezeefd en onzeefd is het verschil tussen fluweelzacht en gewone prei-aardappelsoep. Roer de room erdoor. Breng op smaak met zout en witte peper."
+          "action": "Pureren en zeven",
+          "description": "Pureer de soep kort met een staafmixer, tot ze glad is. Haal haar één keer door een fijne zeef, roer de slagroom erdoor en breng op smaak met zout en witte peper."
         },
         {
-          "action": "Koelen en serveren",
-          "description": "koel de soep minstens 2 uur in de koelkast. Serveer in gekoelde kommen, druppel bieslookolie in een spiraal over de soep en leg een quenelle gezouten roomijs in het midden. Het ijs smelt langzaam in de soep — dat is de bedoeling."
+          "action": "Koelen",
+          "description": "Zet de pan na het pureren en afwerken in een bak met koud water en ijs en roer af en toe. Zet de soep daarna afgedekt in de koelkast tot ze helemaal koud is."
+        },
+        {
+          "action": "Serveren",
+          "description": "Proef de soep vlak voor het serveren opnieuw op zout en witte peper. Serveer in gekoelde kommen, druppel bieslookolie in een spiraal over de soep en leg een quenelle gezouten roomijs in het midden. Het ijs smelt langzaam in de soep; dat is de bedoeling."
         }
       ],
-      "tips": [
-        "serveer in gekoelde kommen — zet ze minstens 30 minuten voor serveren in de vriezer. Warm aardewerk trekt de temperatuur van de soep in 30 seconden omhoog.",
-        "Techniek: zeef de soep altijd tweemaal — één keer grof, één keer fijn. Het verschil tussen gezeefd en onzeefd is het verschil tussen fluweelzacht en gewone preisoep.",
-        "Presentatie: druppel de bieslookolie in een spiraal over de soep en leg de quenelle roomijs precies in het midden — het ijs smelt langzaam in de soep terwijl het gerecht gegeten wordt.",
-        "Variatie: vervang de bieslookolie door peterselie-olie of dragon-olie voor een andere kruidendimensie, of voeg een druppel truffelolie toe als ultieme luxe finishing touch.",
-        "Alternatief: geen tijd voor zelfgemaakt roomijs? Gebruik crème fraîche in een quenelle — koeler dan de soep, romig en zout — geeft hetzelfde contrast zonder het invriezen.",
-        "Textuur: mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.",
-        "Afwerking: voeg frisse olie, kruiden of crunch pas aan tafel toe. Zo blijft de soep levendig en oogt hij direct luxer."
-      ],
+      "chef_tip": "Mise-en-place: Zet de kommen minstens 30 minuten voor het serveren in de vriezer. Warm aardewerk trekt de temperatuur van de soep in 30 seconden omhoog.\n\nTechniek: Pureer kort en niet langer dan nodig. Te lang mixen maakt het zetmeel uit de aardappel kleverig en de soep lijmerig. Eén keer fijn zeven is genoeg voor een fluweelzachte structuur.\n\nPresentatie: Schenk de soep eerst in de kom en leg pas daarna de quenelle erop. Druppel de olie rondom het ijs, niet erover, zodat het wit van het ijs zichtbaar blijft.\n\nVariatie: Vervang de bieslookolie door peterselie-olie of dragon-olie voor een andere kruidendimensie, of voeg een druppel truffelolie toe als luxe finishing touch.\n\nAlternatief met gewoon roomijs: Kies naturel roomijs met een milde melksmaak. Schep vlak voor het serveren 10–15 g per kom en strooi er een paar korrels fijn zeezout op. Zo smelt het ijs langzaam in de soep en blijft de zoetheid subtiel.",
+      "wine": {
+        "naam": "Pouilly-Fumé",
+        "druif": "Sauvignon Blanc",
+        "toelichting": "Aroma: Citrusgras, kruisbes, witte bloesem en een lichte rokerige vuursteentoon. Smaak en structuur: Droog en levendig, met hoge, frisse zuren, een middellichte body en een zuivere, mineraal-zilte afdronk. De frisse zuren houden de koude, romige soep levendig en snijden door de room en het roomijs heen. De kruidige toon en mineraliteit spiegelen de bieslookolie en de zachte preismaak, terwijl de wijn de delicate smaak niet overstemt. Serveer op 8–10 °C.",
+        "alternatief": "Sancerre uit de Loire, of een Grüner Veltliner Federspiel uit de Wachau"
+      },
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Pouilly-Fumé",
           "druif": "Sauvignon Blanc",
-          "smaakprofiel": "Droog, citrus, kruisbes, groene kruiden, strak, mineraal",
-          "omschrijving": "De kiezelsteenachtige mineraliteit en kruidige frisheid van een Pouilly-Fumé uit de Loire — met tonen van citrusgras, witte bloesem en een lichte rokerige flintstone-ondertoon — sluit aan bij de delicate preismaak en snijdt door de romigheid van de vichyssoise.",
-          "waarom_werkt_dit": "De hoge zuurgraad houdt de koude soep levendig op het gehemelte; de mineraliteit spiegelt de bieslookolie. Een Pouilly-Fumé koelt en verfrist — perfect bij een gerecht dat van kou houdt. Serveer op 9°C."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Sancerre of droge Elzasser Pinot Blanc",
-          "druif": "Sauvignon Blanc",
-          "smaakprofiel": "Droog, citrus, kruisbes, groene kruiden, strak, mineraal",
-          "omschrijving": "even fris en mineraal bij romige, gekoelde preisoep",
-          "waarom_werkt_dit": "Biedt meer Sauvignon Blanc-karakter als contrast met de aanbevolen wijn. Werkt bij wie een aromatischer of fruitiger alternatief zoekt bij hetzelfde gerecht."
+          "smaakprofiel": "Herkomst: Pouilly-sur-Loire, Loire, Frankrijk. Een droge, strakke Sauvignon Blanc van kalk- en vuursteenbodems.",
+          "omschrijving": "Aroma: Citrusgras, kruisbes, witte bloesem en een lichte rokerige vuursteentoon. Smaak en structuur: Droog en levendig, met hoge, frisse zuren, een middellichte body en een zuivere, mineraal-zilte afdronk.",
+          "waarom_werkt_dit": "De frisse zuren houden de koude, romige soep levendig en snijden door de room en het roomijs heen. De kruidige toon en mineraliteit spiegelen de bieslookolie en de zachte preismaak, terwijl de wijn de delicate smaak niet overstemt.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
           "type": "alternatief",
           "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
           "druif": "Grüner Veltliner",
-          "smaakprofiel": "Droog, fris, witte peper, groene appel, citrus, mineraal",
-          "omschrijving": "Een Oostenrijkse witte wijn met peperige frisheid en gastronomische spanning.",
-          "waarom_werkt_dit": "De typische witte peper en kruidigheid van Grüner Veltliner past bij groente, kruiden en lichte sauzen. De frisse zuren houden het gerecht levendig zonder te overheersen."
+          "smaakprofiel": "Herkomst: Wachau, Oostenrijk. Federspiel is de lichte, frisse stijl, zonder houtrijping.",
+          "omschrijving": "Aroma: Groene appel, witte peper, limoenschil en verse kruiden. Smaak en structuur: Droog en sappig, met levendige zuren, een lichte tot middelvolle body en een kruidige, licht peperige afdronk.",
+          "waarom_werkt_dit": "De witte peper en groene kruiden sluiten aan bij de prei, de witte peper in de soep en de bieslookolie. De frisse zuren verfrissen na de room en het gezouten roomijs.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Blanc — Elzas, Frankrijk",
+          "druif": "Pinot Blanc",
+          "smaakprofiel": "Herkomst: Elzas, Frankrijk. Een droge, zachte witte wijn zonder houtrijping.",
+          "omschrijving": "Aroma: Groene appel, peer, witte bloesem en een vleugje amandel. Smaak en structuur: Droog en rond, met milde zuren, een middellichte body en een zachte, schone afdronk.",
+          "waarom_werkt_dit": "De zachte, ronde stijl past bij de fluweelzachte soep en het subtiele roomijs zonder te veel zuur toe te voegen. Een makkelijk te drinken wijn die de prei en de room laat spreken.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         }
-      ],
-      "wine": {
-        "naam": "Pouilly-Fumé",
-        "druif": "Sauvignon Blanc",
-        "toelichting": "De kiezelsteenachtige mineraliteit en kruidige frisheid van een Pouilly-Fumé uit de Loire — met tonen van citrusgras, witte bloesem en een lichte rokerige flintstone-ondertoon — sluit aan bij de delicate preismaak en snijdt door de romigheid van de vichyssoise. De hoge zuurgraad houdt de koude soep levendig op het gehemelte; de mineraliteit spiegelt de bieslookolie. Een Pouilly-Fumé koelt en verfrist — perfect bij een gerecht dat van kou houdt. Serveer op 9°C.",
-        "alternatief": "Sancerre of droge Elzasser Pinot Blanc — even fris en mineraal bij romige, gekoelde preisoep"
-      },
-      "tips_full": [
-        "serveer in gekoelde kommen — zet ze minstens 30 minuten voor serveren in de vriezer. Warm aardewerk trekt de temperatuur van de soep in 30 seconden omhoog.",
-        "Techniek: zeef de soep altijd tweemaal — één keer grof, één keer fijn. Het verschil tussen gezeefd en onzeefd is het verschil tussen fluweelzacht en gewone preisoep.",
-        "Presentatie: druppel de bieslookolie in een spiraal over de soep en leg de quenelle roomijs precies in het midden — het ijs smelt langzaam in de soep terwijl het gerecht gegeten wordt.",
-        "Variatie: vervang de bieslookolie door peterselie-olie of dragon-olie voor een andere kruidendimensie, of voeg een druppel truffelolie toe als ultieme luxe finishing touch.",
-        "Alternatief: geen tijd voor zelfgemaakt roomijs? Gebruik crème fraîche in een quenelle — koeler dan de soep, romig en zout — geeft hetzelfde contrast zonder het invriezen.",
-        "Textuur: mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.",
-        "Afwerking: voeg frisse olie, kruiden of crunch pas aan tafel toe. Zo blijft de soep levendig en oogt hij direct luxer."
-      ],
-      "chef_tip": "serveer in gekoelde kommen — zet ze minstens 30 minuten voor serveren in de vriezer. Warm aardewerk trekt de temperatuur van de soep in 30 seconden omhoog.\n\nTechniek: zeef de soep altijd tweemaal — één keer grof, één keer fijn. Het verschil tussen gezeefd en onzeefd is het verschil tussen fluweelzacht en gewone preisoep.\n\nPresentatie: druppel de bieslookolie in een spiraal over de soep en leg de quenelle roomijs precies in het midden — het ijs smelt langzaam in de soep terwijl het gerecht gegeten wordt.\n\nVariatie: vervang de bieslookolie door peterselie-olie of dragon-olie voor een andere kruidendimensie, of voeg een druppel truffelolie toe als ultieme luxe finishing touch.\n\nAlternatief: geen tijd voor zelfgemaakt roomijs? Gebruik crème fraîche in een quenelle — koeler dan de soep, romig en zout — geeft hetzelfde contrast zonder het invriezen.\n\nTextuur: mix de soep minimaal 2 minuten op hoge stand en zeef hem voor een restaurantgladde structuur. Dat maakt meer verschil dan extra room.\n\nAfwerking: voeg frisse olie, kruiden of crunch pas aan tafel toe. Zo blijft de soep levendig en oogt hij direct luxer."
+      ]
     },
     {
       "title": "Krabsalade met mango, kaffir-limoenolie en rijstpapiercrisp",
