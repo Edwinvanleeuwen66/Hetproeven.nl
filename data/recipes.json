@@ -4342,16 +4342,20 @@
               "amount": "1"
             },
             {
-              "name": "geroosterde rode paprika uit blik, in reepjes",
-              "amount": "400 g"
+              "name": "geroosterde rode paprika uit blik of pot, goed uitgelekt, drooggedept en in reepjes",
+              "amount": "160 g"
             },
             {
-              "name": "olijfolie om te grillen",
-              "amount": "45 ml"
+              "name": "olijfolie, om te grillen",
+              "amount": "3 el"
             },
             {
-              "name": "zout en peper",
+              "name": "zout, om de aubergine te zouten",
               "amount": "naar smaak"
+            },
+            {
+              "name": "fijn zeezout, voor de courgette",
+              "amount": "¼ tl"
             }
           ]
         },
@@ -4360,31 +4364,31 @@
           "ingredients": [
             {
               "name": "verse koriander, fijngehakt",
-              "amount": "30 g"
+              "amount": "8 el"
             },
             {
-              "name": "knoflookteentjes, geperst",
-              "amount": "2"
-            },
-            {
-              "name": "olijfolie extra vierge",
-              "amount": "60 ml"
-            },
-            {
-              "name": "sherry-azijn",
-              "amount": "20 ml"
-            },
-            {
-              "name": "komijnpoeder",
+              "name": "knoflook, fijngehakt",
               "amount": "1 tl"
+            },
+            {
+              "name": "extra vierge olijfolie",
+              "amount": "3 el"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "2 tl"
+            },
+            {
+              "name": "gemalen komijn",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "¼ tl"
             },
             {
               "name": "water",
-              "amount": "60 ml"
-            },
-            {
-              "name": "zout",
-              "amount": "1 tl"
+              "amount": "2 tl"
             }
           ]
         },
@@ -4392,7 +4396,7 @@
           "group_name": "Brood",
           "ingredients": [
             {
-              "name": "sneetjes stokbrood, schuin gesneden",
+              "name": "stokbrood, schuine sneetjes van ca. 1½ cm dik",
               "amount": "8"
             }
           ]
@@ -4401,72 +4405,83 @@
       "steps": [
         {
           "action": "Aubergine zouten",
-          "description": "bestrooi de aubergineplakken met zout en laat 15 minuten staan. Dep daarna goed droog."
+          "description": "Zout de aubergineplakken, laat ze 15 minuten staan en dep ze goed droog."
         },
         {
-          "action": "Koriandersaus",
-          "description": "maal koriander, knoflook, zout en komijn fijn. Voeg olijfolie, sherry-azijn en water toe en roer tot een gladde saus."
+          "action": "Koriandersaus maken",
+          "description": "Mix 8 el fijngehakte koriander, 1 tl fijngehakte knoflook, 3 el extra vierge olijfolie, 2 tl sherryazijn, ¼ tl gemalen komijn, ¼ tl fijn zeezout en 2 tl water kort tot een licht gebonden saus."
         },
         {
-          "action": "Grillen",
-          "description": "verhit grillpan op hoog vuur. Bestrijk aubergine en courgette met olijfolie. Grill 2-3 minuten per kant tot gaar met grillstrepen."
+          "action": "Paprika voorbereiden",
+          "description": "Laat de paprika goed uitlekken, dep droog en snijd in reepjes. Gebruik 20 g per tosta."
         },
         {
-          "action": "Beleg en serveer",
-          "description": "rooster brood. Leg afwisselend aubergine, courgette en paprika dakpansgewijs erop. Druppel royaal koriandersaus erover en serveer direct."
+          "action": "Aubergine en courgette grillen",
+          "description": "Bestrijk de aubergineplakken met 2 el olijfolie en gril ze op middelhoog tot hoog vuur 2–3 minuten per kant. Geef ze zo nodig wat langer, tot ze ook in het midden zacht zijn. Bestrijk de courgette met 1 el olijfolie en gril eveneens 2–3 minuten per kant, tot de plakken grillstrepen hebben en nog wat beet houden. Verdeel direct na het grillen ¼ tl fijn zeezout over de warme courgette. Laat beide groenten kort uitdampen op een rooster."
+        },
+        {
+          "action": "Stokbrood roosteren",
+          "description": "Snijd 8 schuine sneetjes stokbrood van circa 1½ cm dik. Rooster ze in een droge grillpan op middelhoog vuur 1–2 minuten per kant, tot ze goudbruin en krokant zijn."
+        },
+        {
+          "action": "Beleggen en serveren",
+          "description": "Leg op elk sneetje 1 plak aubergine, 1 plak courgette en 20 g rode paprika. Lepel vlak voor het serveren 1 tl koriandersaus per tosta over de groenten. Geef de rest van de saus apart."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "De gegrilde aubergine wordt zacht, de courgette houdt wat beet en de geroosterde rode paprika geeft een zoet accent. De sherryazijn houdt de koriandersaus fris en de komijn geeft warmte zonder de koriander te overstemmen. Door de groenten op een rooster te laten uitdampen en de saus pas bij het serveren toe te voegen, blijft het brood krokant."
         }
       ],
       "tips": [
-        "dep de paprika's goed droog voor gebruik — overtollig vocht maakt de tosta zompig. De koriandersaus kan een dag van tevoren worden gemaakt.",
-        "Techniek: grill de groenten op maximale hitte en beweeg ze weinig — de roosterkolen en karamelisatie zijn de smaakdragers van dit gerecht.",
-        "Presentatie: leg de groenten in kleurlagen op de tosta — rood, geel, groen — zodat elk hapje visueel aantrekkelijk is en alle smaken bevat.",
-        "Variatie: voeg geitenkaas toe naast de gegrilde groenten voor extra romige zuurheid, of bestrooi met za'atar voor een Midden-Oosters tintje.",
-        "Alternatief: geen grillpan? Rooster de groenten in de oven op 220°C met de grillstand — geeft minder roostertekens maar dezelfde karamelisatie.",
-        "Balans: geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.",
-        "Timing: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal."
+        "Mise-en-place: Maak de koriandersaus gerust een dag van tevoren en bewaar hem afgedekt in de koelkast. Roer hem vlak voor het serveren even door.",
+        "Techniek: Leg de plakken in één laag in de hete grillpan en laat ze liggen tot ze vanzelf makkelijk loskomen. Zo krijgen ze duidelijke grillstrepen.",
+        "Presentatie: Laat de rode paprika bovenop goed zichtbaar en lepel de groene koriandersaus er vlak voor het serveren over.",
+        "Variatie: Verdeel 20 g Manchego in dunne schaafsels over de acht tosta’s.",
+        "Alternatief: Geen grillpan? Rooster de groenten in de oven op 220 °C met de grillstand. Je krijgt minder grillstrepen, maar wel dezelfde karamelisatie."
       ],
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Verdejo",
+          "naam": "Verdejo — Rueda",
           "druif": "Verdejo",
-          "smaakprofiel": "Droog, citrus, groene kruiden, venkel, lichte bitterheid, fris",
-          "omschrijving": "De kruidige, licht nootachtige Verdejo uit Rueda heeft de frisheid om de gegrilde groenten aan te vullen en de complexiteit om de koriandersaus te matchen.",
-          "waarom_werkt_dit": "De lichte bitterheid in de afdronk van de Verdejo sluit aan op de licht geblakerde groenten, terwijl de citrusnoten de koriander versterken. Verdejo heeft ook voldoende body om niet weggedrukt te worden door de smaakintensiteit van gegrilde paprika en aubergine. Een onderschatte maar uitstekende combinatie. Serveer gekoeld op 9°C."
+          "smaakprofiel": "Herkomst: Rueda, Castilla y León, Spanje. Een droge, frisse witte wijn zonder houtrijping.",
+          "omschrijving": "Aroma: Citrus, groene kruiden, venkel en een lichte nootachtige toon. Smaak en structuur: Droog en fris, met levendige zuren, een middelvolle body en een lichte bitterheid in de afdronk.",
+          "waarom_werkt_dit": "De kruidige frisheid past bij de koriandersaus, en de citrusnoten versterken de koriander. De lichte bitterheid sluit aan op de gegrilde groenten. De wijn heeft genoeg body om niet weggedrukt te worden door de gegrilde aubergine en paprika.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Albariño",
+          "naam": "Albariño — Rías Baixas",
           "druif": "Albariño",
-          "smaakprofiel": "Droog, fris, citrus, witte perzik, zilt-mineraal, levendig",
-          "omschrijving": "frisser en mineralerder, werkt als de tosta ook zeevruchten bevat",
-          "waarom_werkt_dit": "De Atlantische ziltheid en citrusfrisheid versterken vis, schaal- of schelpdier en houden olie, mayo of avocado strak. De zuren en fruittonen sluiten aan op tomaat en paprika, zonder de saus met tannine bitter te maken."
+          "smaakprofiel": "Herkomst: Rías Baixas, Galicië, Spanje. Een droge, levendige witte wijn van de Atlantische kust.",
+          "omschrijving": "Aroma: Citrus, witte perzik en een zilte, minerale toon. Smaak en structuur: Droog en fris, met hoge zuren, een lichte tot middelvolle body en een zilte afdronk.",
+          "waarom_werkt_dit": "De frisse zuren en citrustonen houden de olijfolie en het brood in balans en sluiten aan bij de sherryazijn in de koriandersaus. De zilte toon geeft de gegrilde groenten extra diepte, zonder de koriander te overstemmen.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
-          "type": "alternatief",
+          "type": "meest-toegankelijk",
           "naam": "Grüner Veltliner Federspiel — Wachau, Oostenrijk",
           "druif": "Grüner Veltliner",
-          "smaakprofiel": "Droog, fris, witte peper, groene appel, citrus, mineraal",
-          "omschrijving": "Een Oostenrijkse witte wijn met peperige frisheid en gastronomische spanning.",
-          "waarom_werkt_dit": "De typische witte peper en kruidigheid van Grüner Veltliner past bij groente, kruiden en lichte sauzen. De frisse zuren houden het gerecht levendig zonder te overheersen."
+          "smaakprofiel": "Herkomst: Wachau, Oostenrijk. De lichte, frisse Federspiel-stijl, zonder houtrijping.",
+          "omschrijving": "Aroma: Groene appel, witte peper en citrusschil. Smaak en structuur: Droog en sappig, met frisse zuren, een lichte tot middelvolle body en een peperige afdronk.",
+          "waarom_werkt_dit": "De witte peper en groene kruidigheid sluiten aan bij de koriander en de komijn in de saus. De frisse zuren houden de tosta levendig en een makkelijk te drinken wijn laat de groenten mooi spreken.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         }
       ],
       "wine": {
-        "naam": "Verdejo",
+        "naam": "Verdejo — Rueda",
         "druif": "Verdejo",
-        "toelichting": "De kruidige, licht nootachtige Verdejo uit Rueda heeft de frisheid om de gegrilde groenten aan te vullen en de complexiteit om de koriandersaus te matchen. De lichte bitterheid in de afdronk van de Verdejo sluit aan op de licht geblakerde groenten, terwijl de citrusnoten de koriander versterken. Verdejo heeft ook voldoende body om niet weggedrukt te worden door de smaakintensiteit van gegrilde paprika en aubergine. Een onderschatte maar uitstekende combinatie. Serveer gekoeld op 9°C.",
-        "alternatief": "Albariño — frisser en mineralerder, werkt als de tosta ook zeevruchten bevat"
+        "toelichting": "Aroma: Citrus, groene kruiden, venkel en een lichte nootachtige toon. Smaak en structuur: Droog en fris, met levendige zuren, een middelvolle body en een lichte bitterheid in de afdronk. De kruidige frisheid past bij de koriandersaus, en de citrusnoten versterken de koriander. De lichte bitterheid sluit aan op de gegrilde groenten. De wijn heeft genoeg body om niet weggedrukt te worden door de gegrilde aubergine en paprika. Serveer op 8–10 °C.",
+        "alternatief": "Albariño uit Rías Baixas, of een Grüner Veltliner Federspiel uit de Wachau"
       },
       "tips_full": [
-        "dep de paprika's goed droog voor gebruik — overtollig vocht maakt de tosta zompig. De koriandersaus kan een dag van tevoren worden gemaakt.",
-        "Techniek: grill de groenten op maximale hitte en beweeg ze weinig — de roosterkolen en karamelisatie zijn de smaakdragers van dit gerecht.",
-        "Presentatie: leg de groenten in kleurlagen op de tosta — rood, geel, groen — zodat elk hapje visueel aantrekkelijk is en alle smaken bevat.",
-        "Variatie: voeg geitenkaas toe naast de gegrilde groenten voor extra romige zuurheid, of bestrooi met za'atar voor een Midden-Oosters tintje.",
-        "Alternatief: geen grillpan? Rooster de groenten in de oven op 220°C met de grillstand — geeft minder roostertekens maar dezelfde karamelisatie.",
-        "Balans: geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.",
-        "Timing: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal."
+        "Mise-en-place: Maak de koriandersaus gerust een dag van tevoren en bewaar hem afgedekt in de koelkast. Roer hem vlak voor het serveren even door.",
+        "Techniek: Leg de plakken in één laag in de hete grillpan en laat ze liggen tot ze vanzelf makkelijk loskomen. Zo krijgen ze duidelijke grillstrepen.",
+        "Presentatie: Laat de rode paprika bovenop goed zichtbaar en lepel de groene koriandersaus er vlak voor het serveren over.",
+        "Variatie: Verdeel 20 g Manchego in dunne schaafsels over de acht tosta’s.",
+        "Alternatief: Geen grillpan? Rooster de groenten in de oven op 220 °C met de grillstand. Je krijgt minder grillstrepen, maar wel dezelfde karamelisatie."
       ],
-      "chef_tip": "dep de paprika's goed droog voor gebruik — overtollig vocht maakt de tosta zompig. De koriandersaus kan een dag van tevoren worden gemaakt.\n\nTechniek: grill de groenten op maximale hitte en beweeg ze weinig — de roosterkolen en karamelisatie zijn de smaakdragers van dit gerecht.\n\nPresentatie: leg de groenten in kleurlagen op de tosta — rood, geel, groen — zodat elk hapje visueel aantrekkelijk is en alle smaken bevat.\n\nVariatie: voeg geitenkaas toe naast de gegrilde groenten voor extra romige zuurheid, of bestrooi met za'atar voor een Midden-Oosters tintje.\n\nAlternatief: geen grillpan? Rooster de groenten in de oven op 220°C met de grillstand — geeft minder roostertekens maar dezelfde karamelisatie.\n\nBalans: geef groente altijd een tegenstem — iets zuurs, iets zouts of iets krokants. Zonder contrast wordt een groentegerecht snel vlak.\n\nTiming: voeg kwetsbare kruiden en frisse elementen pas vlak voor serveren toe. Dan blijven kleur, geur en spanning maximaal."
+      "chef_tip": "Mise-en-place: Maak de koriandersaus gerust een dag van tevoren en bewaar hem afgedekt in de koelkast. Roer hem vlak voor het serveren even door.\n\nTechniek: Leg de plakken in één laag in de hete grillpan en laat ze liggen tot ze vanzelf makkelijk loskomen. Zo krijgen ze duidelijke grillstrepen.\n\nPresentatie: Laat de rode paprika bovenop goed zichtbaar en lepel de groene koriandersaus er vlak voor het serveren over.\n\nVariatie: Verdeel 20 g Manchego in dunne schaafsels over de acht tosta’s.\n\nAlternatief: Geen grillpan? Rooster de groenten in de oven op 220 °C met de grillstand. Je krijgt minder grillstrepen, maar wel dezelfde karamelisatie."
     },
     {
       "title": "Tortilla Española — de perfecte Spaanse tortilla",
