@@ -64400,32 +64400,402 @@
     },
     {
       "source_recipe_number": 210,
-      "title": "Steak-wrap met gebakken ei, gepekelde ui & mosterd-mierikswortelsaus",
+      "title": "New York Steak Wrap met mierikswortelcrème, krokante sjalot en gebakken ei",
       "slug": "steak-wrap-gebakken-ei-gepekelde-ui-mosterd-mierikswortelsaus",
       "location": "New York, USA",
-      "time": "20 min voorbereiding (+ 15–20 min voor de milde ui) + 15 min bereiding",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk",
-      "keuken": "Nederlands",
+      "time": "25 min voorbereiding + 25 min bereiding",
+      "servings": "4 personen (4 wraps)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/steak-wrap-gebakken-ei-gepekelde-ui-mosterd-mierikswortelsaus.jpg",
-      "short_description": "Gegrilde biefstuk en een gebakken ei met lopende dooier, gewikkeld met milde ui, augurken en een pittige mosterd-mierikswortelsaus — het wow-moment van een van New Yorks meest besproken wraps.",
-      "description": "Wolfnights in New York bakt zijn deeg vers per bestelling in een eigen 'IronWolf'-oven en noemt zijn wraps expres geen wraps, maar 'Iron-Baked'. Hun op één na best verkochte wrap, de Carnivore's Delight, is precies waarom mensen erover praten: gegrilde biefstuk en een gebakken ei, gewikkeld in een deeg van dadel en pompoenpitten, met sumac-ui, augurken en een pittige mosterd-mierikswortelsaus. Het wow-moment is het ei: een lopende dooier die zich over de warme biefstuk verspreidt zodra je de eerste hap neemt.",
+      "short_description": "Rosé ribeye, mierikswortelcrème, zoetzure komkommer met dille, krokante sjalot en een gebakken ei in een boterzacht flatbread.",
+      "description": "Rosé gebakken ribeye, een krachtige romige mierikswortelcrème, flinterdunne zoetzure komkommer met verse dille, goudbruin gefrituurde sjalotten en een gebakken ei met krokante randjes en een lopende dooier. Alles opgerold in een dun, licht krokant, in boter gebakken flatbread. Geïnspireerd op de smaakwereld van klassieke New Yorkse steak- en roastbeefsandwiches, maar met een eigen combinatie van warmte, frisheid, scherpte en krokante texturen.",
       "ingredient_groups": [
         {
-          "group_name": "Milde ui",
+          "group_name": "Ribeye",
           "ingredients": [
             {
-              "name": "rode ui, dun gesneden",
+              "name": "ribeye",
+              "amount": "500–600 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "roomboter",
+              "amount": "25 g"
+            },
+            {
+              "name": "knoflook, gekneusd",
+              "amount": "2 tenen"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Mierikswortelcrème",
+          "ingredients": [
+            {
+              "name": "crème fraîche",
+              "amount": "60 g"
+            },
+            {
+              "name": "mayonaise",
+              "amount": "30 g"
+            },
+            {
+              "name": "geraspte mierikswortel uit een potje, begin met 25 g",
+              "amount": "25–35 g"
+            },
+            {
+              "name": "Dijonmosterd",
+              "amount": "1 tl"
+            },
+            {
+              "name": "citroensap",
+              "amount": "1 tl"
+            },
+            {
+              "name": "Worcestershiresaus",
+              "amount": "½ tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Zoetzure komkommer met dille",
+          "ingredients": [
+            {
+              "name": "komkommer",
+              "amount": "½"
+            },
+            {
+              "name": "wittewijnazijn",
+              "amount": "2 el"
+            },
+            {
+              "name": "water",
+              "amount": "1 el"
+            },
+            {
+              "name": "suiker",
+              "amount": "2 tl"
+            },
+            {
+              "name": "zout",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "verse dille, fijngehakt",
+              "amount": "1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Krokante sjalotten",
+          "ingredients": [
+            {
+              "name": "grote sjalotten",
+              "amount": "3"
+            },
+            {
+              "name": "neutrale olie, om te frituren",
+              "amount": "250 ml"
+            },
+            {
+              "name": "fijn zeezout",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Gebakken eieren",
+          "ingredients": [
+            {
+              "name": "eieren",
+              "amount": "4"
+            },
+            {
+              "name": "roomboter",
+              "amount": "15 g"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "naar smaak"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "naar smaak"
+            }
+          ]
+        },
+        {
+          "group_name": "Flatbread",
+          "ingredients": [
+            {
+              "name": "grote, dunne, soepele flatbreads of bloemtortilla’s van ca. 25–28 cm",
+              "amount": "4"
+            },
+            {
+              "name": "roomboter",
+              "amount": "20 g"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "action": "Maak de zoetzure komkommer",
+          "description": "Snijd de komkommer met een mandoline of scherp mes in flinterdunne plakjes. Meng wittewijnazijn, water, suiker en zout totdat de suiker is opgelost. Voeg de komkommer en fijngehakte dille toe en laat minimaal 20 minuten marineren. Laat vlak voor gebruik goed uitlekken en dep eventueel voorzichtig droog. De komkommer moet fris, licht zoetzuur en knapperig blijven."
+        },
+        {
+          "action": "Maak de mierikswortelcrème",
+          "description": "Meng de crème fraîche met mayonaise, geraspte mierikswortel, Dijonmosterd, citroensap, Worcestershiresaus, suiker, zout en zwarte peper. Proef zorgvuldig. De mierikswortel moet duidelijk de dominante smaak zijn. De mosterd is uitsluitend ondersteunend. Voeg indien nodig extra mierikswortel toe. Wanneer de gebruikte mierikswortel uit het potje al veel azijn bevat, doseer het citroensap voorzichtig. Laat minimaal 15 minuten afgedekt in de koelkast staan."
+        },
+        {
+          "action": "Frituur de sjalotten",
+          "description": "Snijd de sjalotten in dunne, gelijkmatige ringen van circa 1–2 mm. Verhit de olie tot 150–160 °C. Frituur de sjalotten in kleine porties en roer voorzichtig totdat ze gelijkmatig licht goudbruin zijn. Haal ze uit de olie voordat ze donkerbruin worden. Ze kleuren tijdens het uitlekken nog iets verder. Laat uitlekken op keukenpapier en bestrooi licht met zout. Laat volledig afkoelen zodat ze krokant worden."
+        },
+        {
+          "action": "Bak de ribeye",
+          "description": "Dep het vlees goed droog en kruid royaal met zout en zwarte peper. Verhit een zware gietijzeren koekenpan op hoog vuur. Voeg de olie toe en bak de ribeye aan beide kanten tot een diepbruine korst ontstaat. Voeg aan het einde de boter en knoflook toe en bedruip het vlees met de schuimende boter. Streef voor medium-rare naar een kerntemperatuur van circa 54–56 °C na het rusten. Laat 5–8 minuten rusten en snijd in dunne plakjes tegen de draad."
+        },
+        {
+          "action": "Bereid de flatbreads",
+          "description": "Bestrijk de flatbreads heel dun met gesmolten boter. Verwarm ze kort aan beide kanten in een hete koekenpan totdat ze licht goudbruin kleuren. Ze moeten soepel genoeg blijven om op te rollen. Bak ze niet volledig krokant voordat ze worden gevuld."
+        },
+        {
+          "action": "Bak de eieren",
+          "description": "Verhit de boter en neutrale olie in een koekenpan. Bak de eieren op middelhoog tot hoog vuur totdat de randjes goudbruin en krokant worden. Het eiwit moet volledig gestold zijn, maar de dooier moet vloeibaar blijven. Breng licht op smaak met zout en zwarte peper."
+        },
+        {
+          "action": "Bouw de wraps op",
+          "description": "Bestrijk ieder warm flatbread met een royale eetlepel mierikswortelcrème. Verdeel de goed uitgelekte zoetzure komkommer over de crème. Leg de warme plakjes ribeye erop. Bestrooi royaal met krokante sjalotten. Voeg eventueel nog een klein beetje mierikswortelcrème toe. Leg het gebakken ei als laatste bovenop. Vouw de zijkanten naar binnen en rol voorzichtig op zonder de dooier kapot te drukken."
+        },
+        {
+          "action": "Serveren",
+          "description": "Serveer direct, eventueel gedeeltelijk in bakpapier gewikkeld. Snijd de wrap vlak voor het serveren schuin doormidden, zodat de lopende dooier zich zichtbaar met het rundvlees en de mierikswortelcrème vermengt."
+        },
+        {
+          "action": "Opbouw en presentatie",
+          "description": "Zorg dat de rosé ribeye, flinterdunne komkommer, krokante sjalotten en romige mierikswortelcrème duidelijk zichtbaar zijn. Het gebakken ei met de goudgele lopende dooier vormt het visuele middelpunt. Serveer eventueel met een klein kommetje extra mierikswortelcrème."
+        },
+        {
+          "action": "Waarom dit werkt",
+          "description": "Mierikswortel en rundvlees vormen een klassieke combinatie. In dit gerecht krijgt de mierikswortel een hoofdrol, ondersteund door de rijke crème fraîche en een kleine hoeveelheid Dijonmosterd. De gebakken ribeye levert geroosterde, hartige smaken en voldoende sappigheid. De zoetzure komkommer met dille geeft een verkoelend, fris contrast met het warme vlees en de scherpe mierikswortel. De gefrituurde sjalotten zorgen voor een uitgesproken krokante textuur en een subtiele natuurlijke zoetheid. Het gebakken ei voegt rijkdom toe. De vloeibare dooier vermengt zich met de mierikswortelcrème en vormt zo een warme, romige saus rond het rundvlees. Iedere hap bevat daardoor warm en koud, krokant en zacht, zuur en romig, scherp en hartig."
+        }
+      ],
+      "chef_tip": "Mise-en-place: Maak de mierikswortelcrème en de komkommer enkele uren vooraf en bewaar ze gekoeld. Bewaar de afgekoelde krokante sjalotten apart en droog.\n\nMise-en-place: Gebruik geraspte mierikswortel uit een potje. Controleer wel de scherpte, want die verschilt sterk per merk.\n\nTechniek: Gebruik ribeye. De vetmarmering geeft meer sappigheid en smaak dan magere biefstuk.\n\nTechniek: Zeef de olie na het frituren van de sjalotten en bewaar hem. Hij heeft een zachte sjalotsmaak en is goed te gebruiken voor dressings of om in te bakken.\n\nTechniek: Gebruik bij voorkeur gepasteuriseerde eieren voor kwetsbare personen, of bak de dooier voor hen volledig gaar.\n\nPresentatie: Laat de wrap na het oprollen 1 minuut rusten en snijd hem met een scherp mes in één vloeiende zaagbeweging. De dooier loopt dan mooi over het vlees in plaats van direct weg.\n\nVariatie: Vervang de crème fraîche door Griekse yoghurt voor een lichtere, frissere crème.\n\nAlternatief: Geen tijd om sjalotten te frituren? Goede kant-en-klare krokante uitjes zijn een praktisch alternatief, al geven zelfgefrituurde sjalotten een verfijndere smaak.",
+      "wine": {
+        "naam": "Grüner Veltliner Smaragd — Oostenrijk",
+        "druif": "Grüner Veltliner",
+        "toelichting": "Aroma: Rijpe groene appel, peer, citrus, witte peper, verse kruiden en een minerale ondertoon. Smaak en structuur: Droog, middelvol tot vol, met voldoende body, levendige zuren en een kruidige afdronk. De peperige en kruidige eigenschappen sluiten aan bij de mierikswortel en dille, terwijl de frisse zuren de romigheid van het ei en de crème fraîche doorbreken. De vollere structuur biedt voldoende tegenwicht aan de ribeye. Serveer op 10–12 °C.",
+        "alternatief": "Malbec uit de Uco Valley, of een Pinot Gris uit de Elzas"
+      },
+      "wines": [
+        {
+          "type": "aanbevolen",
+          "naam": "Grüner Veltliner Smaragd — Oostenrijk",
+          "druif": "Grüner Veltliner",
+          "smaakprofiel": "Herkomst: Oostenrijk. Kies een krachtige stijl zoals Smaragd, maar geen overdreven alcoholrijke uitvoering.",
+          "omschrijving": "Aroma: Rijpe groene appel, peer, citrus, witte peper, verse kruiden en een minerale ondertoon. Smaak en structuur: Droog, middelvol tot vol, met voldoende body, levendige zuren en een kruidige afdronk.",
+          "waarom_werkt_dit": "De peperige en kruidige eigenschappen sluiten aan bij de mierikswortel en dille, terwijl de frisse zuren de romigheid van het ei en de crème fraîche doorbreken. De vollere structuur biedt voldoende tegenwicht aan de ribeye.",
+          "serveertemperatuur": "Serveer op 10–12 °C"
+        },
+        {
+          "type": "alternatief",
+          "naam": "Malbec — Uco Valley, Argentinië",
+          "druif": "Malbec",
+          "smaakprofiel": "Herkomst: Uco Valley, Argentinië. Kies een elegante, frisse Malbec zonder zware houtlagering of overdreven hoog alcoholpercentage, zodat de scherpte van de mierikswortel niet wordt versterkt.",
+          "omschrijving": "Aroma: Zwarte kers, pruim, braam, viooltjes en subtiele kruidige tonen. Smaak en structuur: Sappig, middelvol tot vol, met rijpe tannines en een frisse onderliggende structuur.",
+          "waarom_werkt_dit": "Malbec blijft een klassieke combinatie met gebakken ribeye. Het donkere fruit vormt een mooi contrast met de scherpe mierikswortel en zoetzure komkommer.",
+          "serveertemperatuur": "Serveer op 15–16 °C"
+        },
+        {
+          "type": "meest-toegankelijk",
+          "naam": "Pinot Gris — Elzas",
+          "druif": "Pinot Gris",
+          "smaakprofiel": "Herkomst: Elzas, Frankrijk. Kies een droge tot licht halfdroge uitvoering, geen uitgesproken zoete wijn.",
+          "omschrijving": "Aroma: Rijpe peer, gele appel, perzik en subtiele kruidigheid. Smaak en structuur: Middelvol, soepel en licht romig, met voldoende frisheid en eventueel een klein beetje restzoet.",
+          "waarom_werkt_dit": "De ronde fruitigheid verzacht de scherpe mierikswortel, terwijl de wijn voldoende body heeft voor het rundvlees, het gebakken ei en de krokante sjalotten.",
+          "serveertemperatuur": "Serveer op 9–11 °C"
+        }
+      ]
+    },
+    {
+      "source_recipe_number": 211,
+      "title": "Rundvlees-tikka roll met groene chutney, tamarinde en geblakerde rode ui",
+      "slug": "rundvlees-tikka-roll-limoen-korianderchutney-drie-soorten-ui",
+      "location": "Kolkata / New York / Londen",
+      "time": "30 min voorbereiding + minimaal 30 min marineren + ca. 25 min bereiding",
+      "servings": "4 personen (4 rolls)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Overig",
+      "categorie": "hapjes-tapas",
+      "image": "/assets/images/rundvlees-tikka-roll-limoen-korianderchutney-drie-soorten-ui.jpg",
+      "short_description": "Goudbruine, bladerige ei-paratha gevuld met geblakerd rundvlees, groene koriander-muntchutney, zoetzure tamarinde en kort gebakken rode ui.",
+      "description": "Een goudbruine, bladerige ei-paratha gevuld met krachtig gekruid, geblakerd rundvlees, een intense koriander-muntchutney, zoetzure tamarindechutney en kort gebakken rode ui. Geïnspireerd op de kati roll-streetfoodcultuur van Kolkata en New York, maar met een eigen smaakcombinatie.",
+      "ingredient_groups": [
+        {
+          "group_name": "Rundvlees-tikka",
+          "ingredients": [
+            {
+              "name": "ossenhaas of malse biefstuk, in reepjes",
+              "amount": "500 g"
+            },
+            {
+              "name": "volle Griekse yoghurt",
+              "amount": "60 g"
+            },
+            {
+              "name": "knoflook, fijngeraspt",
+              "amount": "3 tenen"
+            },
+            {
+              "name": "verse gember, fijngeraspt",
+              "amount": "2 tl"
+            },
+            {
+              "name": "garam masala",
+              "amount": "2 tl"
+            },
+            {
+              "name": "Kashmiri-chilipoeder",
+              "amount": "1½ tl"
+            },
+            {
+              "name": "gemalen komijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "gemalen koriander",
+              "amount": "1 tl"
+            },
+            {
+              "name": "kurkuma",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "zwarte peper",
+              "amount": "½ tl"
+            },
+            {
+              "name": "zout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "limoensap",
+              "amount": "1 el"
+            },
+            {
+              "name": "neutrale olie",
+              "amount": "1 el"
+            },
+            {
+              "name": "ghee, om te bakken",
+              "amount": "20 g"
+            }
+          ]
+        },
+        {
+          "group_name": "Groene koriander-muntchutney",
+          "ingredients": [
+            {
+              "name": "verse koriander, fijngehakt, inclusief zachte steeltjes",
+              "amount": "10 el"
+            },
+            {
+              "name": "verse muntblaadjes, grof gehakt",
+              "amount": "3 el"
+            },
+            {
+              "name": "groene chilipeper",
               "amount": "1"
             },
             {
-              "name": "appelazijn",
+              "name": "knoflook",
+              "amount": "1 teen"
+            },
+            {
+              "name": "verse gember",
+              "amount": "1 tl"
+            },
+            {
+              "name": "limoensap",
               "amount": "2 el"
+            },
+            {
+              "name": "geroosterde gemalen komijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "chaat masala",
+              "amount": "½ tl"
             },
             {
               "name": "suiker",
               "amount": "1 tl"
+            },
+            {
+              "name": "kala namak of gewoon fijn zeezout",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "ijskoud water, alleen als de blender het nodig heeft",
+              "amount": "maximaal 1 el"
+            }
+          ]
+        },
+        {
+          "group_name": "Zoetzure tamarindechutney",
+          "ingredients": [
+            {
+              "name": "geconcentreerde tamarindepasta",
+              "amount": "1 el"
+            },
+            {
+              "name": "donkere basterdsuiker",
+              "amount": "2 el"
+            },
+            {
+              "name": "water",
+              "amount": "4 el"
+            },
+            {
+              "name": "geroosterde gemalen komijn",
+              "amount": "½ tl"
+            },
+            {
+              "name": "gemberpoeder",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "Kashmiri-chilipoeder",
+              "amount": "¼ tl"
             },
             {
               "name": "zout",
@@ -64434,295 +64804,23 @@
           ]
         },
         {
-          "group_name": "Mosterd-mierikswortelsaus",
+          "group_name": "Geblakerde rode ui",
           "ingredients": [
             {
-              "name": "mayonaise",
-              "amount": "3 el"
-            },
-            {
-              "name": "Griekse yoghurt",
-              "amount": "2 el"
-            },
-            {
-              "name": "grove mosterd of Dijonmosterd",
-              "amount": "1 el"
-            },
-            {
-              "name": "mierikswortel (vers geraspt of uit een potje)",
-              "amount": "1 el"
-            },
-            {
-              "name": "honing",
-              "amount": "½ tl"
-            },
-            {
-              "name": "citroensap",
-              "amount": "paar druppels"
-            },
-            {
-              "name": "zout",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "zwarte peper",
-              "amount": "naar smaak"
-            }
-          ]
-        },
-        {
-          "group_name": "Biefstuk",
-          "ingredients": [
-            {
-              "name": "entrecote of ribeye",
-              "amount": "500 g"
-            },
-            {
-              "name": "zout",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "versgemalen zwarte peper",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "neutrale olie",
-              "amount": "1 el"
-            },
-            {
-              "name": "roomboter",
-              "amount": "20 g"
-            },
-            {
-              "name": "teen knoflook, gekneusd",
-              "amount": "1"
-            }
-          ]
-        },
-        {
-          "group_name": "Ei",
-          "ingredients": [
-            {
-              "name": "eieren",
-              "amount": "4"
-            },
-            {
-              "name": "boter",
-              "amount": "klontje"
-            }
-          ]
-        },
-        {
-          "group_name": "Wrap-basis",
-          "ingredients": [
-            {
-              "name": "grote tortilla's of flatbreads",
-              "amount": "4"
-            },
-            {
-              "name": "dadelstroop",
-              "amount": "1 el"
-            },
-            {
-              "name": "pompoenpitten, licht geroosterd en grof gehakt",
-              "amount": "2 el"
-            }
-          ]
-        },
-        {
-          "group_name": "Afwerking",
-          "ingredients": [
-            {
-              "name": "augurken of cornichons, in dunne repen",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "handje rucola of fijngesneden little gem",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "krokante uitjes, subtiel",
-              "amount": "naar smaak"
-            }
-          ]
-        }
-      ],
-      "steps": [
-        {
-          "action": "Milde ui maken",
-          "description": "Meng de rode ui met appelazijn, suiker en zout. Laat 15–20 minuten staan. Knijp de ui vlak voor gebruik licht uit — hij moet fris zijn, niet zuur overheersen."
-        },
-        {
-          "action": "Mosterd-mierikswortelsaus maken",
-          "description": "Meng mayonaise, yoghurt, mosterd, mierikswortel, honing en citroensap tot een gladde saus. Breng op smaak met zout en peper. Zet koud tot gebruik."
-        },
-        {
-          "action": "Biefstuk bakken",
-          "description": "Kruid de biefstuk rijkelijk met zout en peper. Verhit de olie in een gietijzeren pan tot hij bijna rookt. Bak de biefstuk 2–3 minuten per kant voor medium-rare, voeg op het einde de boter en de gekneusde knoflook toe en bestrijk het vlees ermee terwijl de knoflook meegeurt. Laat 5 minuten rusten voordat je het in dunne reepjes snijdt tegen de draad."
-        },
-        {
-          "action": "Ei bakken",
-          "description": "Verhit een klontje boter in een aparte pan op middelhoog vuur. Bak de eieren tot het wit gestold is maar de dooier nog volledig loopt."
-        },
-        {
-          "action": "Wrap-basis voorbereiden",
-          "description": "Verwarm de tortilla's kort in een droge pan. Bestrijk elke tortilla dun met dadelstroop en bestrooi met de gehakte pompoenpitten."
-        },
-        {
-          "action": "Opbouwen en serveren",
-          "description": "Leg rucola of little gem op de tortilla, verdeel de biefstukreepjes erover, lepel er mosterd-mierikswortelsaus over, leg de milde ui en augurken erop, en leg het gebakken ei er als laatste bovenop. Vouw losjes dicht of serveer open zodat de dooier zichtbaar blijft tot het eerste sneetje."
-        },
-        {
-          "action": "Opbouw en presentatie",
-          "description": "Serveer direct na het bakken van het ei. Snijd de wrap schuin doormidden zodat de lopende dooier zichtbaar wordt over de biefstuk, of serveer half open op het bord. Donkerroze biefstuk, felgeel van de dooier, roze-rode tinten van de milde ui, fris groen van de rucola."
-        },
-        {
-          "action": "Waarom dit werkt",
-          "description": "Een lopend eigeel functioneert als een gratis, warme saus die zich vanzelf door de vulling verspreidt zodra je erin bijt. Combineer dat met de scherpte van mierikswortel en mosterd, de zilte frisheid van augurken en milde ui, de knapperigheid van rucola, en de subtiele zoetheid van dadelstroop, en je krijgt een wrap die rijk, scherp, zuur, zoet en romig combineert in één hap — precies de 'Ideal Bite'-filosofie die Wolfnights zelf hanteert."
-        }
-      ],
-      "chef_tip": "Dadel-pompoenpit-deeg nabouwen: meng zelf een eenvoudig flatbread-deeg met dadelstroop en fijngemalen pompoenpitten. Geen dadelstroop? Vervang door honing of laat het helemaal weg.\n\nAlternatief mierikswortel: geen mierikswortel in huis? Extra grove mosterd plus een scheutje azijn geeft een vergelijkbare scherpte.\n\nVooruitwerken: de milde ui en de saus kunnen beide 2–3 dagen vooraf gemaakt worden.\n\nVariatie luxe-upgrade: een dun plakje blauwe koemelkkaas die smelt op de warme biefstuk vlak voor het ei erbovenop gaat.\n\nRibeye in plaats van entrecote: geeft meer vet en diepte als je de wrap nog sappiger wilt.\n\nEi-timing bij meerdere personen: bak de eieren als laatste, per twee, zodat ze zo vers en loopend mogelijk op tafel komen.",
-      "wines": [
-        {
-          "type": "aanbevolen",
-          "naam": "Argentijnse Malbec (Mendoza)",
-          "druif": "Malbec",
-          "smaakprofiel": "Donker fruit — pruim, braam, een vleugje viool — met zachte, bijna fluwelen tanninestructuur en een subtiele vanille- of cacaotoon van vatlagering. Vol maar niet log, met een sappige, iets kruidige afdronk.",
-          "omschrijving": "In het glas vind je donker fruit — pruim, braam, een vleugje viool — met een zachte, bijna fluwelen tanninestructuur en een subtiele vanille- of cacaotoon van vatlagering. Vol maar niet log, met een sappige, iets kruidige afdronk.",
-          "waarom_werkt_dit": "Malbec is de klassieke metgezel van goed gegrilde biefstuk — de zachte tannines omhullen het vlees zonder te vechten met de scherpte van mierikswortel en mosterd. Het donkere fruit vindt een tegenhanger in de zilte frisheid van de ui en augurken, en de subtiele kruidigheid sluit mooi aan bij de dadelstroop."
-        },
-        {
-          "type": "alternatief",
-          "naam": "Vouvray demi-sec (Chenin Blanc, halfdroog)",
-          "druif": "Chenin Blanc",
-          "smaakprofiel": "Rijpe appel, kweepeer en honing, met een levendige, bijna knisperende zuurgraad die de lichte restsuiker in balans houdt.",
-          "omschrijving": "Ruikt naar rijpe appel, kweepeer en honing, met een levendige, bijna knisperende zuurgraad die de lichte restsuiker in balans houdt.",
-          "waarom_werkt_dit": "De lichte zoetheid vangt de scherpte van mierikswortel en mosterd precies op, terwijl de frisse zuren de romigheid van ei en saus doorsnijden — een ondergewaardeerde pairing bij mosterd-mierikswortel-gerechten."
-        },
-        {
-          "type": "meest-toegankelijk",
-          "naam": "Amerikaanse amber ale",
-          "druif": "n.v.t. (bier)",
-          "smaakprofiel": "Karamel- en biscuittonen, lichte hopbitterheid, matige koolzuurprikkeling.",
-          "omschrijving": "Karamel- en biscuittonen, lichte hopbitterheid, matige koolzuurprikkeling.",
-          "waarom_werkt_dit": "De karameltonen sluiten aan bij de dadelstroop en de gebakken randjes van de biefstuk, terwijl de hopbitterheid de romigheid van ei en saus in balans houdt."
-        }
-      ]
-    },
-    {
-      "source_recipe_number": 211,
-      "title": "Rundvlees-tikka roll met limoen-korianderchutney & drie soorten ui",
-      "slug": "rundvlees-tikka-roll-limoen-korianderchutney-drie-soorten-ui",
-      "location": "Kolkata / New York / Londen",
-      "time": "30 min voorbereiding + minimaal 30 min marineren + 15 min bereiding",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk tot gemiddeld",
-      "keuken": "Indonesisch",
-      "categorie": "hapjes-tapas",
-      "image": "/assets/images/rundvlees-tikka-roll-limoen-korianderchutney-drie-soorten-ui.jpg",
-      "short_description": "Gekruid rundvlees, rijkelijk bedekt met felgroene chutney, gerold in een paratha waarvan de ene kant vastgebakken is aan het ei — de straatlegende die een vrouw uit Kolkata's nostalgie naar New York en Londen bracht.",
-      "description": "In 2002 verhuisde Payal Saha van Kolkata naar New York en miste er onmiddellijk één ding: de kati roll, het straatgerecht van haar geboortestad. Zonder horeca-ervaring opende ze met één assistente een klein zaakje in Greenwich Village — vandaag heeft The Kati Roll Company meerdere vestigingen in New York en Londen. Hun beef tikka roll wordt door recensenten omschreven als 'smothered in chutney' — de saus is hier het wow-element, gecombineerd met de typische Kolkata-truc van het ei dat aan één kant van het brood wordt gebakken zodat brood en ei letterlijk één worden.",
-      "ingredient_groups": [
-        {
-          "group_name": "Rundvlees-tikka",
-          "ingredients": [
-            {
-              "name": "runderhaas of biefstukreepjes, in dunne repen",
-              "amount": "500 g"
-            },
-            {
-              "name": "volle yoghurt",
-              "amount": "150 g"
-            },
-            {
-              "name": "tenen knoflook, fijngeraspt",
+              "name": "middelgrote rode uien, in dunne halve ringen",
               "amount": "2"
             },
             {
-              "name": "verse gember, fijngeraspt",
-              "amount": "1 tl"
+              "name": "ghee",
+              "amount": "10 g"
             },
             {
-              "name": "garam masala",
-              "amount": "1 tl"
+              "name": "limoensap",
+              "amount": "1 el"
             },
             {
-              "name": "kurkumapoeder",
+              "name": "chaat masala",
               "amount": "½ tl"
-            },
-            {
-              "name": "kashmiri-chilipoeder (of milde paprikapoeder plus een snuf cayenne)",
-              "amount": "½–1 tl"
-            },
-            {
-              "name": "citroensap",
-              "amount": "1 el"
-            },
-            {
-              "name": "zout",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "neutrale olie",
-              "amount": "1 el"
-            }
-          ]
-        },
-        {
-          "group_name": "Limoen-korianderchutney",
-          "ingredients": [
-            {
-              "name": "grote bos verse koriander (inclusief steeltjes)",
-              "amount": "1"
-            },
-            {
-              "name": "muntblaadjes",
-              "amount": "10–15"
-            },
-            {
-              "name": "groene chilipepers, naar smaak",
-              "amount": "1–2"
-            },
-            {
-              "name": "verse gember",
-              "amount": "1 cm"
-            },
-            {
-              "name": "sap van limoenen",
-              "amount": "1–2"
-            },
-            {
-              "name": "Griekse yoghurt (voor lichte ronding)",
-              "amount": "1 el"
-            },
-            {
-              "name": "suiker",
-              "amount": "½ tl"
-            },
-            {
-              "name": "zout",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "water, om te blenden",
-              "amount": "2–3 el"
-            }
-          ]
-        },
-        {
-          "group_name": "Drie soorten ui",
-          "ingredients": [
-            {
-              "name": "ui, in halve ringen, zacht gebakken",
-              "amount": "1"
-            },
-            {
-              "name": "rode ui, dun gesneden, gepekeld (2 el appelazijn, 1 tl suiker, snuf zout, 20 min)",
-              "amount": "1"
-            },
-            {
-              "name": "kleine sjalot, flinterdun rauw gesneden",
-              "amount": "1"
             }
           ]
         },
@@ -64730,155 +64828,226 @@
           "group_name": "Ei-paratha",
           "ingredients": [
             {
-              "name": "paratha's of stevige volkoren flatbreads",
+              "name": "Indiase paratha’s",
               "amount": "4"
             },
             {
-              "name": "eieren, losgeklopt",
-              "amount": "2"
+              "name": "eieren",
+              "amount": "4"
             },
             {
-              "name": "chaat masala (of een mespuntje komijn en een druppel citroensap)",
-              "amount": "1 tl"
+              "name": "ghee",
+              "amount": "20 g"
+            },
+            {
+              "name": "zout",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "Kashmiri-chilipoeder",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Afwerking",
+          "ingredients": [
+            {
+              "name": "chaat masala",
+              "amount": "½ tl"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Vlees marineren — minimaal 30 min, liefst 2 uur",
-          "description": "Meng yoghurt, knoflook, gember, garam masala, kurkuma, kashmiri-chilipoeder, citroensap en zout tot een gladde marinade. Meng het rundvlees erdoor, dek af en zet in de koelkast."
+          "action": "Marineer het rundvlees",
+          "description": "Meng de yoghurt, knoflook, gember, garam masala, chilipoeder, komijn, koriander, kurkuma, zwarte peper, zout, limoensap en neutrale olie. Meng het vlees door de marinade en laat afgedekt minimaal 30 minuten, maar bij voorkeur 2 uur in de koelkast marineren."
         },
         {
-          "action": "Chutney blenden",
-          "description": "Blender koriander, munt, chilipeper, gember, limoensap, yoghurt, suiker, zout en het water tot een gladde, felgroene saus. De yoghurt geeft net wat ronding zonder de frisheid te verdoezelen."
+          "action": "Maak de tamarindechutney",
+          "description": "Doe alle ingrediënten in een kleine steelpan. Breng zachtjes aan de kook en laat 5–8 minuten inkoken tot een licht stroperige saus. Proef zorgvuldig: de chutney moet een uitgesproken zoetzure smaak hebben, niet uitsluitend zuur of zoet. Pas indien nodig de suiker of tamarinde aan, afhankelijk van de concentratie van de gebruikte pasta. Laat afkoelen."
         },
         {
-          "action": "Uien voorbereiden",
-          "description": "Voor de pekel: meng de rode ui met appelazijn, suiker en zout, laat 20 minuten staan en knijp licht uit voor gebruik. Fruit de andere ui in een klein scheutje olie tot goudbruin en zacht, 8–10 minuten. Snijd de sjalot flinterdun."
+          "action": "Maak de groene chutney",
+          "description": "Rooster de gemalen komijn kort in een droge pan op middelhoog vuur en laat afkoelen. Blend alle ingrediënten voor de groene chutney tot een dikke, felgroene saus. Voeg uitsluitend water toe als de blender dit nodig heeft. Proef en corrigeer de balans tussen zuur, zout, zoet en pittigheid. De chutney moet op zichzelf al bijzonder lekker smaken."
         },
         {
-          "action": "Vlees bakken",
-          "description": "Verhit de olie in een grote koekenpan tot goed heet. Bak het gemarineerde rundvlees in batches op hoog vuur, 2–3 minuten per kant, tot geblakerd aan de randen en net gaar vanbinnen."
+          "action": "Blaker de rode ui",
+          "description": "Verhit de ghee in een grote koekenpan of wok op hoog vuur. Bak de rode ui 2–3 minuten. Laat de ui plaatselijk donker kleuren, maar zorg dat hij voldoende beet houdt. Haal van het vuur en meng met limoensap en chaat masala. Zet apart."
         },
         {
-          "action": "Ei-paratha maken",
-          "description": "Verwarm een paratha in een droge pan. Giet een dun laagje losgeklopt ei in de pan en druk de paratha erop, zodat het ei aan één kant vastbakt. Bak 1 minuut en draai kort om. Herhaal voor elke paratha — zo krijg je dat typische Kati Roll-gevoel: brood en ei worden één."
+          "action": "Bak het rundvlees",
+          "description": "Haal het vlees uit de marinade en verwijder overtollige marinade. Dit is essentieel: met te veel yoghurt gaat het vlees koken in plaats van bakken. Verhit een zware gietijzeren koekenpan tot goed heet. Voeg de ghee toe en bak het vlees in kleine porties. Bak dunne reepjes ongeveer 60–90 seconden per kant, afhankelijk van de dikte en gewenste gaarheid. Het vlees moet donkere, geroosterde randjes krijgen, maar sappig blijven. Laat het vlees kort rusten."
         },
         {
-          "action": "Opbouwen",
-          "description": "Leg de paratha met de ei-kant naar binnen. Smeer rijkelijk chutney over de ei-kant. Verdeel het rundvlees, de gebakken ui, de gepekelde ui en de rauwe sjalot erover. Bestrooi met chaat masala. Rol strak op."
+          "action": "Maak de ei-paratha’s",
+          "description": "Bak de paratha’s volgens de aanwijzingen op de verpakking goudbruin en bladerig. Klop de eieren los met zout en chilipoeder. Verhit per paratha een beetje ghee in een koekenpan. Giet een kwart van het eimengsel in de pan en leg onmiddellijk de paratha erop. Druk licht aan zodat het ei zich aan het brood hecht. Bak tot het ei volledig gestold is en draai kort om. Herhaal voor alle vier de paratha’s."
+        },
+        {
+          "action": "Bouw de rolls op",
+          "description": "Leg de warme paratha met de eikant naar boven. Verdeel per roll 1–2 el groene koriander-muntchutney, een kwart van het gebakken rundvlees, een kwart van de geblakerde rode ui, 1–2 tl zoetzure tamarindechutney en een klein snufje chaat masala. Rol stevig op. Bak eventueel de naad nog 20–30 seconden in een droge koekenpan. Serveer onmiddellijk."
         },
         {
           "action": "Opbouw en presentatie",
-          "description": "Rol de kati roll strak op en snijd hem schuin doormidden zodat de lagen zichtbaar zijn: de ei-paratha, het gekruide rundvlees, de felgroene chutney, en de drie tinten ui. Serveer in bakpapier of op een smalle schaal, met een kommetje extra chutney ernaast."
+          "description": "Snijd de roll schuin doormidden, zodat het sappige rundvlees, de geblakerde rode ui, de groene chutney en de goudbruine ei-paratha zichtbaar zijn. Serveer op een eenvoudige schaal of gedeeltelijk gewikkeld in bakpapier, met beide chutneys in kleine kommetjes ernaast."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "De kati roll draait om laagjes contrast. Het ei dat aan het brood vastbakt maakt de paratha rijker en steviger — de wrap voelt daardoor als één geheel, niet als brood met vulling erin. Het gemarineerde rundvlees geeft kruidige hartigheid; de chutney brengt frisheid en zuur. De drie uien geven elk iets anders: zoetheid van de gebakken ui, een scherpe zilte tegenhanger van de gepekelde ui, en een directe, scherpe bite van de rauwe sjalot. Geen van de elementen zou alleen voldoende zijn — de combinatie is precies waarom dit gerecht al generaties standhoudt."
+          "description": "De kracht van deze kati roll zit in het contrast tussen geroosterde, kruidige, frisse en zoetzure smaken. Met slechts 60 g yoghurt in de marinade kan het rundvlees daadwerkelijk bakken en krijgt het geroosterde smaak. De ruime hoeveelheid specerijen maakt de tikka krachtig. De groene chutney is geconcentreerd en zonder yoghurt, en vormt daardoor een uitgesproken fris en kruidig contrast met het vlees. De tamarindechutney voegt een donkere, zoetzure smaaklaag toe die het gerecht completer maakt. De kort geblakerde rode ui combineert natuurlijke zoetheid met geroosterde smaak en een frisse, scherpe bite. De in ghee gebakken ei-paratha zorgt voor rijkdom, krokante laagjes en samenhang."
         }
       ],
-      "chef_tip": "Vooruitwerken chutney: chutney kan een dag vooraf — de smaak wordt er feller van.\n\nSneller zonder marineren: bak de aromaten (knoflook, gember, specerijen) eerst kort aan in de pan met een lepel tomatenpuree, voeg dan het vlees toe en roer op het einde een lepel yoghurt erdoor voor zachtheid.\n\nGeen paratha te vinden: een dikke tortilla werkt ook, al mis je dan de kenmerkende laagjes van de echte paratha.\n\nMildere versie: halveer de chilipeper in de chutney en het chilipoeder in de marinade.\n\nVariatie vegetarisch: vervang het rundvlees door stevige paneer.\n\nVooruitwerken uien: alle drie de uien kunnen enkele uren vooraf klaargemaakt worden.\n\nErbij: kruidige gebakken aardappelpartjes en een glas mango lassi voor de volledige ervaring.",
+      "chef_tip": "Mise-en-place: Gebruik echte paratha’s, verkrijgbaar bij veel Aziatische en Indiase supermarkten en vaak in de diepvries. Een gewone tortilla is minder geschikt.\n\nMise-en-place: Maak de groene chutney bij voorkeur vers. Bewaar hem eventueel enkele uren luchtdicht in de koelkast om verkleuring te beperken.\n\nTechniek: Gebruik ghee. Het geeft een karakteristieke boterachtige smaak en is geschikt voor bakken op hoge temperatuur.\n\nTechniek: Doseer de tamarindechutney zorgvuldig. Hij moet een zoetzuur accent geven en niet de smaak van het vlees overnemen.\n\nTechniek: Laat de chaat masala niet weg. Dit specerijenmengsel geeft de typische frisse, hartige Indiase streetfoodsmaak.\n\nPresentatie: Snijd de roll met een scherp mes en een zaagbeweging, zonder te drukken. De vulling blijft dan in de roll en de lagen blijven zichtbaar.\n\nVariatie: Vervang het rundvlees door kipdijfilet in reepjes (2–3 minuten per kant, tot volledig gaar) of door stevige paneer.\n\nAlternatief: Geen kala namak verkrijgbaar? Gebruik gewoon fijn zeezout. Chaat masala bevat vaak al zwart zout.\n\nAlternatief: Geen Kashmiri-chilipoeder verkrijgbaar? Vervang door mild paprikapoeder met een klein snufje cayennepeper.",
+      "wine": {
+        "naam": "Torrontés — Argentinië",
+        "druif": "Torrontés",
+        "toelichting": "Aroma: Jasmijn, rozenblaadjes, witte perzik, limoen en citrusbloesem. Smaak en structuur: Aromatisch en droog, soepel en levendig, met voldoende frisheid. De uitgesproken bloemige aroma’s sluiten aan bij koriander, munt en de Indiase specerijen. De frisse zuren houden de rijke ei-paratha en ghee in balans. Serveer op 8–10 °C.",
+        "alternatief": "Grüner Veltliner uit Oostenrijk, of een Franse Grenache rosé"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Argentijnse Torrontés",
+          "naam": "Torrontés — Argentinië",
           "druif": "Torrontés",
-          "smaakprofiel": "Intens jasmijn, rozenblaadje en perzik, met een frisse citrustoon. Rond maar droog afgewerkt, lichte body, schone iets kruidige afdronk.",
-          "omschrijving": "Ruikt intens naar jasmijn, rozenblaadje en perzik, met een frisse citrustoon. Rond maar droog afgewerkt, met een lichte body en een schone, iets kruidige afdronk.",
-          "waarom_werkt_dit": "De bloemige geur spiegelt de munt en koriander in de chutney, terwijl de frisse citruszuren de kruidige hitte van de marinade en de scherpte van de gepekelde ui in balans houden."
+          "smaakprofiel": "Herkomst: Argentinië. Een aromatische, droge witte wijn; kies een exemplaar met voldoende fruit en zonder overdreven hoog alcoholpercentage.",
+          "omschrijving": "Aroma: Jasmijn, rozenblaadjes, witte perzik, limoen en citrusbloesem. Smaak en structuur: Aromatisch en droog, soepel en levendig, met voldoende frisheid.",
+          "waarom_werkt_dit": "De uitgesproken bloemige aroma’s sluiten aan bij koriander, munt en de Indiase specerijen. De frisse zuren houden de rijke ei-paratha en ghee in balans.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Oostenrijkse Grüner Veltliner",
+          "naam": "Grüner Veltliner — Oostenrijk",
           "druif": "Grüner Veltliner",
-          "smaakprofiel": "Peperig en kruidig, met groene appel, witte peper en een minerale ondertoon. Droog en strak.",
-          "omschrijving": "Peperig en kruidig, met groene appel, witte peper en een minerale ondertoon. Droog en strak.",
-          "waarom_werkt_dit": "De peperige kruidigheid sluit direct aan bij de garam masala en gember, terwijl de strakke zuren de zoetheid van de gebakken ui in balans houden."
+          "smaakprofiel": "Herkomst: Oostenrijk. Een droge, frisse witte wijn met natuurlijke kruidigheid.",
+          "omschrijving": "Aroma: Groene appel, citrus, witte peper en lichte kruidigheid. Smaak en structuur: Droog, levendig en middellicht, met frisse zuren en een peperige afdronk.",
+          "waarom_werkt_dit": "De natuurlijke kruidigheid sluit mooi aan bij komijn, gember en garam masala. De frisse structuur vormt een goed contrast met de boterachtige paratha en de zoetzure tamarindechutney.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Koud lager bier",
-          "druif": "n.v.t. (bier)",
-          "smaakprofiel": "Fris, licht en verkoelend, droge schone afdronk.",
-          "omschrijving": "Fris, licht en verkoelend, met een droge, schone afdronk.",
-          "waarom_werkt_dit": "De koolzuurprikkeling reset je smaakpapillen tussen elke hap door, zodat chutney, kruiden en de drie uien allemaal hun eigen moment krijgen."
+          "naam": "Grenache rosé — Frankrijk",
+          "druif": "Grenache, eventueel aangevuld met Cinsault",
+          "smaakprofiel": "Herkomst: Frankrijk. Een droge, fruitige rosé.",
+          "omschrijving": "Aroma: Aardbei, framboos, rode bes en citrus. Smaak en structuur: Droog, fruitig en soepel, met weinig tannine en een frisse afdronk.",
+          "waarom_werkt_dit": "Het rode fruit vormt een aantrekkelijke combinatie met het geblakerde rundvlees en de zoetzure tamarinde. De soepele structuur voorkomt dat de pittigheid van het gerecht extra wordt benadrukt.",
+          "serveertemperatuur": "Serveer op 8–10 °C"
         }
       ]
     },
     {
       "source_recipe_number": 212,
-      "title": "Entrecote-wrap met jus om te dopen & mierikswortel-mosterdsaus",
+      "title": "French Onion Steak Sandwich met Gruyère en oloroso-jus",
       "slug": "entrecote-wrap-jus-om-te-dopen-mierikswortel-mosterdsaus",
-      "location": "Los Angeles, USA",
-      "time": "20 min voorbereiding + 40–45 min bereiding (grotendeels voor de jus)",
-      "servings": "4 personen",
-      "difficulty": "Makkelijk tot gemiddeld",
-      "keuken": "Nederlands",
+      "location": "Frankrijk / Verenigde Staten",
+      "time": "15 min voorbereiding + 60–75 min bereiding",
+      "servings": "4 personen (4 broodjes)",
+      "difficulty": "Gemiddeld",
+      "keuken": "Frans",
       "categorie": "hapjes-tapas",
       "image": "/assets/images/entrecote-wrap-jus-om-te-dopen-mierikswortel-mosterdsaus.jpg",
-      "short_description": "Mals rundvlees, gesmolten Gruyère en een scherpe mierikswortel-mosterdsaus, gerold in een wrap die je — net als bij het origineel uit 1908 — helemaal onderdompelt in zijn eigen warme, met rode wijn afgeronde jus.",
-      "description": "Philippe The Original opende in 1908 in het oude Frenchtown van Los Angeles. In 1918 liet Mathieu tijdens het klaarmaken van een broodje voor een politieagent het doorgesneden Franse stokbrood per ongeluk in de braadpan vallen, vol hete jus van het gebraden vlees — de agent kwam de volgende dag terug met vrienden, allen vragend om nog meer 'gedipte' broodjes. Zo ontstond de French Dip Sandwich. Honderdachttien jaar later staat het restaurant er nog steeds. Deze versie neemt de kern — mals rundvlees gedrenkt in zijn eigen jus — en draait het idee om: in plaats van een broodje te dippen, dip je hier de hele wrap.",
+      "short_description": "Een kruising tussen Franse uiensoep en French Dip: luchtig stokbroodje met rosé entrecote, gekaramelliseerde ui, gegratineerde Gruyère en een kommetje oloroso-jus.",
+      "description": "Een kruising tussen klassieke Franse uiensoep en de Amerikaanse French Dip Sandwich: een luchtig, krokant geroosterd stokbroodje met sappige rosé gebakken entrecote, langzaam gekaramelliseerde uien en een royale laag gegratineerde Gruyère. Daarbij hoort een dampend kommetje intense runderjus met droge oloroso-sherry, tijm en een vleugje sherryazijn. Een broodje waarbij iedere hap in de warme jus wordt gedoopt.",
       "ingredient_groups": [
         {
-          "group_name": "Jus",
+          "group_name": "Gekaramelliseerde uien",
           "ingredients": [
             {
-              "name": "sjalot, fijngesneden",
+              "name": "gele uien, in dunne halve ringen",
+              "amount": "600 g"
+            },
+            {
+              "name": "roomboter",
+              "amount": "30 g"
+            },
+            {
+              "name": "olijfolie",
+              "amount": "1 el"
+            },
+            {
+              "name": "zout",
+              "amount": "½ tl"
+            },
+            {
+              "name": "verse tijmblaadjes",
+              "amount": "1 tl"
+            },
+            {
+              "name": "droge oloroso-sherry",
+              "amount": "40 ml"
+            },
+            {
+              "name": "sherryazijn",
+              "amount": "1 tl"
+            },
+            {
+              "name": "versgemalen zwarte peper",
+              "amount": "¼ tl"
+            }
+          ]
+        },
+        {
+          "group_name": "Oloroso-runderjus",
+          "ingredients": [
+            {
+              "name": "grote sjalot, fijngesneden",
               "amount": "1"
             },
             {
-              "name": "teen knoflook, gekneusd",
-              "amount": "1"
+              "name": "knoflook, gekneusd",
+              "amount": "1 teen"
+            },
+            {
+              "name": "roomboter",
+              "amount": "15 g"
             },
             {
               "name": "tomatenpuree",
               "amount": "1 tl"
             },
             {
-              "name": "rode wijn",
-              "amount": "150 ml"
+              "name": "droge oloroso-sherry",
+              "amount": "100 ml"
             },
             {
-              "name": "krachtige runderfond (bij voorkeur zelfgetrokken)",
-              "amount": "500 ml"
+              "name": "krachtige, bij voorkeur ongezouten runderfond",
+              "amount": "600 ml"
             },
             {
-              "name": "Worcestershiresauce",
+              "name": "Worcestershiresaus",
               "amount": "1 tl"
             },
             {
-              "name": "klein takje tijm",
-              "amount": "1"
+              "name": "takjes tijm",
+              "amount": "2"
             },
             {
               "name": "laurierblaadje",
               "amount": "1"
             },
             {
-              "name": "versgemalen zwarte peper",
-              "amount": "naar smaak"
+              "name": "sherryazijn",
+              "amount": "1–2 tl"
             },
             {
-              "name": "koude boter",
-              "amount": "klein klontje"
-            }
-          ]
-        },
-        {
-          "group_name": "Vlees",
-          "ingredients": [
+              "name": "versgemalen zwarte peper",
+              "amount": "¼ tl"
+            },
             {
-              "name": "entrecote, in zo dun mogelijke reepjes gesneden tegen de draad",
-              "amount": "500–600 g"
+              "name": "koude roomboter",
+              "amount": "15 g"
             },
             {
               "name": "zout",
               "amount": "naar smaak"
-            },
+            }
+          ]
+        },
+        {
+          "group_name": "Entrecote",
+          "ingredients": [
             {
-              "name": "versgemalen zwarte peper",
-              "amount": "naar smaak"
+              "name": "entrecote, bij voorkeur twee dikke steaks",
+              "amount": "600 g"
             },
             {
               "name": "neutrale olie",
@@ -64886,128 +65055,120 @@
             },
             {
               "name": "roomboter",
-              "amount": "20 g"
+              "amount": "25 g"
             },
             {
-              "name": "teen knoflook, gekneusd",
-              "amount": "1"
-            }
-          ]
-        },
-        {
-          "group_name": "Mierikswortel-mosterdsaus",
-          "ingredients": [
-            {
-              "name": "mayonaise",
-              "amount": "3 el"
+              "name": "knoflook, gekneusd",
+              "amount": "2 tenen"
             },
             {
-              "name": "Griekse yoghurt",
-              "amount": "2 el"
-            },
-            {
-              "name": "Dijonmosterd",
-              "amount": "1 el"
-            },
-            {
-              "name": "mierikswortel (vers geraspt of uit een potje)",
-              "amount": "1–2 el"
-            },
-            {
-              "name": "honing",
-              "amount": "½ tl"
+              "name": "takjes tijm",
+              "amount": "2"
             },
             {
               "name": "zout",
               "amount": "naar smaak"
             },
             {
-              "name": "zwarte peper",
+              "name": "versgemalen zwarte peper",
               "amount": "naar smaak"
             }
           ]
         },
         {
-          "group_name": "Wrap",
+          "group_name": "Broodjes",
           "ingredients": [
             {
-              "name": "grote tortilla's",
+              "name": "Franse demi-baguettes tradition van ca. 18–20 cm (100–125 g per stuk)",
               "amount": "4"
             },
             {
-              "name": "plakken Gruyère of Emmentaler",
-              "amount": "4"
+              "name": "Gruyère, grof geraspt",
+              "amount": "180 g"
             },
             {
-              "name": "augurken of cornichons, in dunne repen",
-              "amount": "naar smaak"
+              "name": "Dijonmosterd",
+              "amount": "4 tl"
             },
             {
-              "name": "klein handje rucola of fijngesneden little gem (bewust weinig)",
-              "amount": "naar smaak"
+              "name": "roomboter",
+              "amount": "20 g"
             }
           ]
         }
       ],
       "steps": [
         {
-          "action": "Jus maken",
-          "description": "Fruit de sjalot en knoflook in een beetje olie of boter. Voeg de tomatenpuree toe en bak 1 minuut mee. Blus af met de rode wijn en laat flink inkoken. Voeg de runderfond, Worcestershiresauce, tijm, laurier en peper toe. Laat 20–25 minuten zachtjes trekken en inkoken. Zeef de jus en monteer 'm vlak voor serveren met het klontje koude boter voor glans. De jus moet diep en rundachtig zijn, maar niet dik als een saus."
+          "action": "Karamelliseer de uien",
+          "description": "Verhit de boter en olijfolie in een ruime koekenpan met dikke bodem. Voeg de uien en het zout toe. Bak de eerste 10 minuten op middelhoog vuur totdat de uien zacht worden. Verlaag het vuur en laat de uien vervolgens 35–45 minuten langzaam karamelliseren. Roer regelmatig. Voeg eventueel een eetlepel water toe wanneer de aanbaksels te donker dreigen te worden. De uien moeten diep goudbruin, zacht, zoet en bijna jamachtig worden. Voeg geen suiker toe: de natuurlijke suikers van de ui zijn voldoende. Voeg de tijm en oloroso toe en laat het vocht vrijwel volledig verdampen. Breng op smaak met sherryazijn en zwarte peper."
         },
         {
-          "action": "Mierikswortel-mosterdsaus maken",
-          "description": "Meng mayonaise, yoghurt, mosterd, mierikswortel en honing tot een gladde saus. Breng op smaak met zout en peper."
+          "action": "Maak de oloroso-jus",
+          "description": "Fruit de sjalot en knoflook in 15 g boter totdat ze licht kleuren. Voeg de tomatenpuree toe en bak 1 minuut mee. Blus af met de oloroso en laat tot ongeveer een derde inkoken. Voeg de runderfond, Worcestershiresaus, tijm, laurier en zwarte peper toe. Laat 25–35 minuten zachtjes inkoken tot circa 350–400 ml krachtige jus. Zeef de jus en zet apart. Voeg de koude boter en sherryazijn pas vlak voor het serveren toe. De jus moet intens naar rundvlees smaken, met de nootachtige diepte van oloroso. Hij moet vloeibaar blijven en mag geen dikke, gebonden saus worden."
         },
         {
-          "action": "Entrecote bakken",
-          "description": "Kruid het vlees met zout en peper. Verhit de olie in een gietijzeren pan tot bijna rokend. Bak kort en fel, voeg op het einde de boter en gekneusde knoflook toe en bestrijk het vlees ermee. Laat 5–8 minuten rusten, snijd dan zo dun mogelijk tegen de draad."
+          "action": "Bak de entrecote",
+          "description": "Dep de entrecote goed droog en kruid met zout en peper. Verhit een gietijzeren koekenpan op hoog vuur. Voeg de neutrale olie toe en bak de steaks aan beide kanten tot een diepe bruine korst ontstaat. Voeg tijdens de laatste minuut de boter, knoflook en tijm toe. Bedruip het vlees met de schuimende boter. Streef voor medium-rare naar een kerntemperatuur van circa 54–56 °C na het rusten. Houd rekening met nagaren. Laat het vlees 5–8 minuten rusten en snijd vervolgens in dunne plakjes tegen de draad."
         },
         {
-          "action": "Vlees opwarmen in de jus",
-          "description": "Schep vlak voor het vullen een paar lepels warme jus over het dungesneden vlees — het moet er warm en sappig van worden, niet nog een keer garen."
+          "action": "Gebruik de aanbaksels",
+          "description": "Giet overtollig bakvet uit de vleespan. Voeg enkele eetlepels van de voorbereide jus toe en schraap de bruine aanbaksels los. Voeg dit samen met het vrijgekomen rustvocht van de entrecote toe aan de overige jus. Verwarm de jus opnieuw, proef en breng in balans met sherryazijn, zout en peper. Klop van het vuur af de koude boter erdoor."
         },
         {
-          "action": "Wrap opbouwen",
-          "description": "Verwarm de tortilla's kort, leg er een plak kaas op en laat kort smelten in de warme pan. Smeer dun in met mierikswortel-mosterdsaus, leg het warme vlees erop, voeg augurk en een klein handje rucola toe. Rol strak op en snijd schuin doormidden."
+          "action": "Bereid de baguettes voor",
+          "description": "Snijd de demi-baguettes in de lengte open. Bestrijk de snijkanten dun met roomboter en rooster ze in een hete koekenpan of kort onder de ovengrill tot goudbruin en krokant. De binnenkant moet krokant worden, terwijl het brood zelf luchtig en voldoende soepel blijft. Bestrijk de onderste helften met een dun laagje Dijonmosterd."
         },
         {
-          "action": "Serveren met dip",
-          "description": "Giet de resterende warme jus in kleine kommetjes, één per persoon. Dip de wrap vlak voor elke hap erin, zoals bij Philippe's beroemde 'wet' French Dip."
+          "action": "Vul de broodjes",
+          "description": "Verdeel de dun gesneden rosé entrecote royaal over de onderste broodhelften. Verdeel de donker gekaramelliseerde uien over het vlees en bestrooi ieder broodje met circa 45 g grof geraspte Gruyère. Plaats kort onder een hete ovengrill totdat de Gruyère gesmolten is en goudbruine plekjes krijgt. Leg de bovenste broodhelften erop zonder de broodjes plat te drukken."
+        },
+        {
+          "action": "Serveren",
+          "description": "Snijd ieder gevuld stokbroodje schuin doormidden en serveer met een klein kommetje hete oloroso-runderjus om in te dopen."
         },
         {
           "action": "Opbouw en presentatie",
-          "description": "Zet de wraphelften rechtop tegen elkaar aan op het bord, met het dampende kommetje jus direct ernaast. Laat zien dat de jus bedoeld is om in te dopen — dat houdt de wrap knapperig tot het moment van de hap."
+          "description": "Serveer twee rijkgevulde, schuin doorgesneden baguettehelften losjes tegen elkaar op een rustiek Frans bistrobord. De luchtige structuur van het brood, de dunne krokante korst, het rosé rundvlees, de donkere gekaramelliseerde uien en de royaal gesmolten Gruyère moeten duidelijk zichtbaar zijn. Plaats een klein kommetje dampende, donkerbruine oloroso-jus naast het broodje."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Geconcentreerde, met rode wijn en boter afgeronde jus tilt alles op wat er al goed aan zit: het rundvlees wordt intenser, de kaas smelt er verder in weg, en de scherpte van mierikswortel en mosterd krijgt een warme tegenhanger. Door het vlees vooraf al even in de jus op te warmen, blijft het sappig zonder na te garen. Door het idee om te draaien — niet het brood dippen, maar de hele wrap — wordt een passieve saus een actief onderdeel van het eten."
+          "description": "De sandwich combineert de smaakwereld van Franse uiensoep met het interactieve dipconcept van de Amerikaanse French Dip. Langzaam gekaramelliseerde uien ontwikkelen een natuurlijke zoetheid en diepe geroosterde smaak. Gruyère voegt een nootachtige, hartige romigheid toe. De droge oloroso versterkt deze smaken met aroma’s van geroosterde noten en gedroogd fruit, zonder de jus zoet te maken. Sherryazijn en Dijonmosterd voorkomen dat het geheel te zwaar wordt. De demi-baguette heeft een dunne, krokante korst en een luchtige kruim. Het brood blijft daardoor goed te eten en neemt de jus pas op het moment van dippen op. Hierdoor ontstaat bij iedere hap een contrast tussen krokante korst, sappig vlees, zachte uien en warme jus."
         }
       ],
-      "chef_tip": "Jus met meer diepte: voeg wat extra rundervleesreepjes toe aan het trekken voor een rijkere smaak.\n\nVooruitwerken: jus en saus kunnen beide 2 dagen vooraf gemaakt worden.\n\nMildere versie: halveer de mierikswortel.\n\nKaaskeuze: Gruyère of Emmentaler is de betrouwbare keuze — ze smelten mooi zonder de jus en mierikswortel te overheersen. Blauwe koemelkkaas kan lekker zijn voor wie dat wil, maar neemt snel de overhand.\n\nGroen bewust minimaal houden: te veel sla maakt het dippen rommelig in plaats van elegant.\n\nAlternatief fond: geen tijd voor zelfgetrokken fond? Goede kant-en-klare runderbouillon met extra Worcestershiresauce en een scheutje sherry-azijn komt al een heel eind.",
+      "chef_tip": "Mise-en-place: Maak de jus en de uien vooraf. Beide kunnen maximaal twee dagen afgedekt in de koelkast worden bewaard.\n\nMise-en-place: Rasp de Gruyère zelf. Grof geraspte kaas smelt gelijkmatiger dan dikke plakken.\n\nTechniek: Gebruik droge oloroso, geen zoete cream sherry of Pedro Ximénez. Die maken de jus te zoet.\n\nTechniek: Gebruik krachtige runderfond. Een goede fond is belangrijker dan extra kruiden. Proef voordat je zout toevoegt.\n\nTechniek: Kies een luchtige baguette met een dunne, krokante korst. De luchtige kruim zuigt de jus op bij het dippen en de dunne korst blijft krokant. Een dikke, harde korst of een compacte kruim werkt minder goed.\n\nTechniek: Gebruik een thermometer en houd de tijd onder de grill zo kort mogelijk. De entrecote moet sappig en rosé blijven en mag niet verder doorgaren.\n\nPresentatie: Verwarm de kommetjes kort met heet water, zodat de jus tijdens het dippen heet blijft. Zet ze direct naast het broodje.\n\nVariatie: Gebruik Comté in plaats van Gruyère voor een iets zachtere, fruitiger kaassmaak.\n\nAlternatief: Geen demi-baguette? Gebruik ciabatta of een langwerpig petit pain tradition.\n\nAlternatief: Geen oloroso verkrijgbaar? Gebruik droge amontillado of een andere droge, oxidatief gerijpte sherry.",
+      "wine": {
+        "naam": "Crozes-Hermitage — Noord-Rhône",
+        "druif": "Syrah",
+        "toelichting": "Aroma: Zwarte bes, braam, viooltjes, zwarte peper, gedroogde kruiden en subtiele rokerige tonen. Smaak en structuur: Middelvol tot vol, sappig, hartig en kruidig, met frisse zuren en rijpe tannines. De peperige en hartige eigenschappen van Syrah sluiten uitstekend aan bij het gebraden rundvlees en de krachtige oloroso-jus. Het donkere fruit vormt een mooi contrast met de natuurlijke zoetheid van de gekaramelliseerde uien. De frisse structuur houdt de combinatie met gesmolten Gruyère in balans. Serveer op 16–17 °C.",
+        "alternatief": "Rioja Reserva, of een Côtes du Rhône Villages"
+      },
       "wines": [
         {
           "type": "aanbevolen",
-          "naam": "Californische Zinfandel",
-          "druif": "Zinfandel",
-          "smaakprofiel": "Rijp, jammig donker fruit — bosbes, pruim, ingekookte kers — met kruidige, bijna peperige ondertoon en soms een vleugje vanille. Vol en warm, zachte tannines, sappige afdronk.",
-          "omschrijving": "Rijp, jammig donker fruit — bosbes, pruim, ingekookte kers — met een kruidige, bijna peperige ondertoon en soms een vleugje vanille. Vol en warm, met zachte tannines en een sappige afdronk.",
-          "waarom_werkt_dit": "Zinfandel komt uit dezelfde Amerikaanse traditie als dit gerecht, en het jammige, kruidige karakter sluit natuurlijk aan bij de rode-wijn-jus en de scherpte van mierikswortel en mosterd."
+          "naam": "Crozes-Hermitage — Noord-Rhône",
+          "druif": "Syrah",
+          "smaakprofiel": "Herkomst: Noord-Rhône, Frankrijk. Een hartige, kruidige Syrah.",
+          "omschrijving": "Aroma: Zwarte bes, braam, viooltjes, zwarte peper, gedroogde kruiden en subtiele rokerige tonen. Smaak en structuur: Middelvol tot vol, sappig, hartig en kruidig, met frisse zuren en rijpe tannines.",
+          "waarom_werkt_dit": "De peperige en hartige eigenschappen van Syrah sluiten uitstekend aan bij het gebraden rundvlees en de krachtige oloroso-jus. Het donkere fruit vormt een mooi contrast met de natuurlijke zoetheid van de gekaramelliseerde uien. De frisse structuur houdt de combinatie met gesmolten Gruyère in balans.",
+          "serveertemperatuur": "Serveer op 16–17 °C"
         },
         {
           "type": "alternatief",
-          "naam": "Droge appelcider",
-          "druif": "n.v.t. (appel)",
-          "smaakprofiel": "Rijpe appel en een vleugje gist, levendige prikkelende zuurgraad, droge afdronk.",
-          "omschrijving": "Ruikt naar rijpe appel en een vleugje gist, met een levendige, prikkelende zuurgraad en een droge afdronk.",
-          "waarom_werkt_dit": "De frisse zuren snijden door de rijkdom van jus en gesmolten kaas, terwijl de lichte appelzoetheid een zachte tegenhanger vormt voor de mierikswortel."
+          "naam": "Rioja Reserva",
+          "druif": "Voornamelijk Tempranillo",
+          "smaakprofiel": "Herkomst: Rioja, Spanje. Kies een elegante, traditioneel gestileerde Rioja zonder overheersende vanilletonen of zware houtlagering.",
+          "omschrijving": "Aroma: Rijpe kers, pruim, gedroogde kruiden, tabak en subtiele houttonen. Smaak en structuur: Middelvol, elegant en soepel, met ontwikkelde tannines en voldoende frisse zuren.",
+          "waarom_werkt_dit": "De rijpere, hartige aroma’s sluiten mooi aan bij de nootachtige Gruyère, oloroso en gekaramelliseerde ui.",
+          "serveertemperatuur": "Serveer op 16–17 °C"
         },
         {
           "type": "meest-toegankelijk",
-          "naam": "Amerikaanse amber lager",
-          "druif": "n.v.t. (bier)",
-          "smaakprofiel": "Lichte karameltonen, subtiele hopbitterheid, droge afdronk.",
-          "omschrijving": "Lichte karameltonen, subtiele hopbitterheid, droge afdronk.",
-          "waarom_werkt_dit": "De karameltonen weerspiegelen de geconcentreerde smaak van de jus, terwijl de hopbitterheid de romigheid van kaas en saus in balans houdt."
+          "naam": "Côtes du Rhône Villages",
+          "druif": "Grenache, Syrah en eventueel Mourvèdre",
+          "smaakprofiel": "Herkomst: Zuidelijke Rhône, Frankrijk. Een rijpe, kruidige rode wijn.",
+          "omschrijving": "Aroma: Rijpe framboos, zwarte kers, pruim, tijm en peper. Smaak en structuur: Rond, sappig en kruidig, met zachte tot middelstevige tannines.",
+          "waarom_werkt_dit": "De rijpe fruitigheid past bij de zoete uien, terwijl de mediterrane kruidigheid aansluit bij tijm, gebakken rundvlees en de intense jus. Een toegankelijke combinatie die voldoende karakter heeft zonder het gerecht te overheersen.",
+          "serveertemperatuur": "Serveer op 16 °C"
         }
       ]
     },
@@ -81599,166 +81760,195 @@
       "title": "Hunkee-stijl kipreepjes met ui, paprika en zwarte peper",
       "slug": "hunkee-kipreepjes-ui-paprika-zwarte-peper",
       "location": "Rotterdam",
-      "time": "15 min voorbereiding + 15 min bereiding",
-      "servings": "2–3 personen",
+      "time": "Ca. 45 minuten (inclusief marineren)",
+      "servings": "3 personen als hoofdgerecht (4 bij een Chinees-Indische maaltijd)",
       "difficulty": "Gemiddeld",
       "keuken": "Chinees",
       "categorie": "vlees",
       "image": "/assets/images/hunkee-kipreepjes-ui-paprika-zwarte-peper.jpg",
-      "short_description": "Krokante kip, hard gewokte ui en paprika, en een peperdosering die niet subtiel wil zijn.",
-      "description": "Bij Hunkee in Rotterdam staat al jarenlang een gerecht op de kaart dat bijna niemand overslaat: kip met veel ui en zwarte peper, droog gewokt, zonder saus, zonder gedoe. Geen chique plating, geen frisse garnering die de randjes afzwakt — alleen krokante kip, scherp gebakken ui en zoveel zwarte peper dat je 'm bij elke hap terugproeft. Deze versie neemt dat gerecht als uitgangspunt en bouwt het thuis op: kipdijreepjes in een dun maïzena-jasje, gefrituurd tot krokant, daarna kort samen met gelijke delen ui en paprika op bijna te hoog vuur gewokt tot de randjes donker en karameliserend zijn, en afgemaakt met een peper-zoutmengsel dat je ruiken kan voordat je het ziet.",
+      "short_description": "Droog gewokte, krokante kipreepjes met hard gebakken ui en groene paprika, veel zwarte peper en verse aromaten. Zonder saus.",
+      "description": "Droog gewokte kip met veel ui en zwarte peper, zoals je die kent uit de Chinees-Indische keuken: krokant, scherp gebakken en zonder saus. Dit is onze eigen interpretatie, geïnspireerd op de Hunkee-klassieker en niet het officiële recept van Hunkee. De kipdijreepjes krijgen een dun jasje van aardappelzetmeel en worden twee keer gefrituurd voor een droge, brosse korst. Daarna gaan ze kort door de gloeiend hete wok met ui, groene paprika, knoflook, gember, rode peper en een mengsel van grof gekneusde zwarte peper.",
       "ingredient_groups": [
         {
-          "group_name": "Voor de kip",
+          "group_name": "Kip en coating (voor 450 g kipdijfilet, in reepjes van 1 × 5 cm)",
           "ingredients": [
             {
-              "name": "kipdijfilet, zonder vel, in dunne reepjes van ca. 1 x 5 cm",
+              "name": "kipdijfilet, zonder vel, in reepjes van 1 × 5 cm",
               "amount": "450 g"
             },
             {
               "name": "eiwit",
-              "amount": "1"
+              "amount": "½ (ca. 15 g)"
             },
             {
               "name": "lichte sojasaus",
               "amount": "1 tl"
             },
             {
-              "name": "maïzena",
-              "amount": "80 g"
+              "name": "Shaoxing rijstwijn",
+              "amount": "1 tl"
             },
             {
-              "name": "arachideolie of zonnebloemolie, om te frituren",
+              "name": "witte peper",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "aardappelzetmeel",
+              "amount": "50 g"
+            },
+            {
+              "name": "maïzena",
+              "amount": "20 g"
+            },
+            {
+              "name": "bakpoeder",
+              "amount": "¼ tl"
+            },
+            {
+              "name": "arachideolie, om te frituren",
               "amount": "1 l"
             }
           ]
         },
         {
-          "group_name": "Voor het zwarte peper-zoutmengsel",
+          "group_name": "Peper-zoutmengsel",
           "ingredients": [
             {
-              "name": "fijn zeezout",
-              "amount": "1 tl"
-            },
-            {
-              "name": "vers grof gekneusde zwarte peper",
+              "name": "grof gekneusde zwarte peper",
               "amount": "2 tl"
             },
             {
-              "name": "Chinees vijfkruidenpoeder",
-              "amount": "¼–½ tl"
+              "name": "fijn zeezout",
+              "amount": "¾ tl"
+            },
+            {
+              "name": "ve-tsin",
+              "amount": "½ tl"
+            },
+            {
+              "name": "suiker",
+              "amount": "¼ tl"
             }
           ]
         },
         {
-          "group_name": "Voor de wok-afwerking",
+          "group_name": "Wokgroenten en aromaten",
           "ingredients": [
+            {
+              "name": "grote ui (ca. 120 g), in halve ringen",
+              "amount": "1"
+            },
+            {
+              "name": "groene paprika (ca. 125 g), in repen",
+              "amount": "1"
+            },
+            {
+              "name": "knoflook, fijngehakt",
+              "amount": "3 tenen"
+            },
+            {
+              "name": "verse gember, fijngesneden",
+              "amount": "2 tl"
+            },
+            {
+              "name": "verse rode Spaanse peper, in ringetjes",
+              "amount": "1"
+            },
+            {
+              "name": "lente-ui, schuin gesneden",
+              "amount": "2"
+            },
             {
               "name": "arachideolie",
               "amount": "1 el"
-            },
-            {
-              "name": "middelgrote ui (ca. 120 g), in dunne halve ringen",
-              "amount": "1"
-            },
-            {
-              "name": "grote groene paprika (ca. 120–130 g), in repen van vergelijkbare dikte als de ui",
-              "amount": "1"
-            },
-            {
-              "name": "teen knoflook, fijngehakt",
-              "amount": "1"
-            },
-            {
-              "name": "sesamolie",
-              "amount": "1 tl"
-            }
-          ]
-        },
-        {
-          "group_name": "Om te serveren",
-          "ingredients": [
-            {
-              "name": "limoenpartjes",
-              "amount": "naar smaak"
-            },
-            {
-              "name": "lente-ui, in fijne ringetjes",
-              "amount": "1"
             }
           ]
         }
       ],
       "steps": [
         {
+          "action": "Marineer de kip",
+          "description": "Marineer de kip 15 minuten met het eiwit, de sojasaus, de Shaoxing en de witte peper."
+        },
+        {
           "action": "Maak het peper-zoutmengsel",
-          "description": "Meng in een klein kommetje het zout, de zwarte peper en het vijfkruidenpoeder. Zet apart. Dit mengsel is het hart van het gerecht, dus proef het zelf even droog — het mag al stevig naar peper smaken voordat het ergens bij komt."
+          "description": "Rooster de zwarte peper eventueel 20–30 seconden kort in een droge pan op middelhoog vuur voor extra aroma. Meng met het zout, de ve-tsin en de suiker en zet apart."
         },
         {
-          "action": "Marineer de kip licht",
-          "description": "Doe de kipreepjes in een kom en meng met het eiwit en de sojasaus. Schep goed om zodat alle reepjes licht bedekt zijn en laat 5 minuten staan. Dit is geen diepe marinade, alleen een dunne basislaag die de maïzena straks helpt hechten."
+          "action": "Coat de kip",
+          "description": "Meng het aardappelzetmeel, de maïzena en het bakpoeder. Wentel de kip erdoor, druk licht aan en schud overtollig zetmeel af."
         },
         {
-          "action": "Paneer de kip",
-          "description": "Doe de maïzena in een ruime kom en haal de kipreepjes erdoor tot ze volledig bedekt zijn. Schud overtollige maïzena goed af. De kip moet een licht, droog, gelijkmatig laagje hebben — geen dikke klonten, anders wordt het jasje bij het frituren bros in plaats van knapperig."
+          "action": "Laat de coating hechten",
+          "description": "Laat de gecoate kip 3–5 minuten liggen, zodat de coating hecht."
         },
         {
-          "action": "Verhit de frituurolie",
-          "description": "Verhit de olie in een wok, diepe pan of frituurpan tot 180°C. Geen thermometer? Dan is de olie goed wanneer een klein snufje maïzena direct bruisend sist."
+          "action": "Frituur de kip een eerste keer",
+          "description": "Verhit de arachideolie tot 170 °C. Frituur de kip in kleine porties circa 3 minuten, afhankelijk van de dikte."
         },
         {
-          "action": "Frituur de kip",
-          "description": "Frituur de kip in 2 porties, zodat de pan niet te vol wordt en de temperatuur niet inzakt. Bak per portie ongeveer 2½–3 minuten, tot de kip goudblond, krokant en net gaar is. Schep uit de olie en laat uitlekken op een rooster of op keukenpapier."
+          "action": "Frituur de kip een tweede keer",
+          "description": "Laat de kip 2 minuten rusten en verhit de olie tot 190 °C. Frituur de kip opnieuw 30–60 seconden, tot krokant en volledig gaar (kerntemperatuur minimaal 74 °C)."
         },
         {
-          "action": "Wok ui en paprika hard aan",
-          "description": "Verhit 1 el arachideolie in een wok of grote koekenpan tot hij gloeiend heet is. Voeg ui en paprika gelijktijdig toe — door ze op vergelijkbare dikte te snijden garen ze in hetzelfde tempo. Bak 1½–2 minuten hard, met weinig bewegen. Dit is het moment waarop het gerecht zijn Hunkee-karakter krijgt: niet zachtjes laten slinken, maar echt laten schroeien tot de randjes donker en licht krokant zijn, terwijl de kern nog beet houdt. Voeg de knoflook toe en bak de laatste 10–15 seconden mee."
+          "action": "Bak ui en paprika hard aan",
+          "description": "Verhit de wok goed en bak de ui en paprika 1½–2 minuten hard aan in 1 el arachideolie. De randen mogen donker kleuren, maar de groenten moeten beet houden."
         },
         {
-          "action": "Maak het gerecht af",
-          "description": "Voeg de gefrituurde kip toe aan de wok en bestrooi direct met het zwarte peper-zoutmengsel. Schep alles 20–30 seconden snel om op hoog vuur. Proef, en voeg zonder aarzelen nog wat extra peper toe als het nog niet scherp genoeg aanvoelt — dit is een gerecht waar te voorzichtig zijn de grootste fout is. Zet het vuur uit en roer de sesamolie erdoor."
+          "action": "Wok de aromaten",
+          "description": "Voeg de knoflook, gember en rode peper toe en wok nog 20–30 seconden, zonder ze te laten verbranden."
         },
         {
-          "action": "Serveren",
-          "description": "Werk af met lente-ui en serveer direct, met limoenpartjes los erbij zodat iedereen zelf kan bepalen of ze frisheid willen toevoegen."
+          "action": "Voeg kip en peper-zout toe",
+          "description": "Voeg de krokante kip en het peper-zoutmengsel toe. Schep 20–30 seconden krachtig om."
         },
         {
-          "action": "Opbouw en presentatie",
-          "description": "Serveer in een warme kom of op een diep bord, direct uit de wok. De kip moet zichtbaar krokant blijven en niet onderin een plas vocht liggen. Laat ui en paprika losjes tussen de kip liggen — geen strakke opbouw, dat oogt juist levendiger en laat de donkere, gekaramelliseerde randjes van de ui goed zien. Dit is een gerecht dat eruit mag zien als wat het is: direct uit een gloeiend hete wok, niet gestileerd."
+          "action": "Voeg de lente-ui toe",
+          "description": "Voeg de lente-ui toe en wok nog 10 seconden."
+        },
+        {
+          "action": "Serveer direct",
+          "description": "Serveer onmiddellijk, zonder saus en zonder vocht onderin de wok. Gebruik een warme kom of een diep bord en laat de ui en paprika losjes tussen de kip liggen, zodat de donkere randjes zichtbaar blijven."
         },
         {
           "action": "Waarom dit werkt",
-          "description": "Het gerecht bij Hunkee werkt omdat het niets overbodigs doet: kip, ui, peper, zout, klaar. Geen zoete saus die de scherpte verdoezelt, geen overdaad aan groenten die het beeld vertroebelt. Deze versie houdt die discipline aan, maar geeft ui en paprika gelijk gewicht in plaats van de paprika een bijrol te laten spelen — zo blijft het gerecht herkenbaar als de Hunkee-klassieker, zonder dat de paprika wordt weggelaten. De techniek maakt het verschil. Door ui en paprika op hoog vuur kort en hard te bakken in plaats van zacht te stoven, ontstaat een zoete, licht verkoolde rand terwijl de groente zelf nog beet houdt — precies het contrast dat slap gestoofde groente mist. De kip wordt apart gefrituurd tot volledig krokant en gaat pas op het eind heel kort de wok in, zodat het korstje niet de kans krijgt vochtig te worden. En de zwarte peper wordt hier bewust niet subtiel gedoseerd: 2 theelepels grof gekneusd is een flinke hoeveelheid, maar dat is precies het punt — het gerecht moet nadrukkelijk naar peper smaken, niet er alleen naar verwijzen. Limoen is uit het gerecht gehaald en wordt los geserveerd, zodat wie dat wil zelf frisheid kan toevoegen zonder dat de directe, pepergedreven smaak wordt verdund voor iedereen aan tafel."
+          "description": "Dubbel frituren: de eerste ronde bij 170 °C maakt de kip gaar, tijdens de rust komt het vocht naar buiten, en de tweede ronde bij 190 °C droogt het korstje tot een brosse, goudbruine laag die ook in de wok krokant blijft. Aardappelzetmeel: met 50 g aardappelzetmeel, 20 g maïzena en een beetje bakpoeder krijgt de kip een dun, bros jasje in plaats van een dikke, taaie beslagkorst. Zwarte peper: 2 tl grof gekneusde peper geeft de kip een nadrukkelijke, aromatische scherpte. Hij wordt pas aan het einde toegevoegd, zodat hij niet verbrandt. Verse aromaten: knoflook, gember en rode peper gaan pas na de groenten de hete wok in en blijven daardoor fris en geurig zonder te verbranden. Hard aanbakken: de ui en groene paprika krijgen donkere, licht verkoolde randjes en blijven toch beet, en er is geen saus die het korstje zacht maakt."
         }
       ],
-      "chef_tip": "Gebruik kipdij, geen kipfilet: kipdij blijft sappiger en heeft meer smaak. Kipfilet droogt sneller uit tijdens het frituren en levert een minder interessant contrast op met het krokante jasje.\n\nSnijd ui en paprika op gelijke dikte: dat zorgt ervoor dat ze in dezelfde tijd garen en de verhouding tussen beide groenten in het eindresultaat consistent blijft.\n\nNiet te veel vijfkruidenpoeder: vijfkruiden is hier ondersteunend, niet dominant. Dit gerecht moet in de eerste plaats naar zwarte peper, zout en gebakken ui en paprika smaken.\n\nFrituur altijd in porties: te veel kip tegelijk in de olie laat de temperatuur te veel dalen, waardoor het jasje slap en vettig wordt in plaats van krokant.\n\nServeer meteen: dit gerecht is op zijn best direct uit de wok. Wachten kost onvermijdelijk krokantheid.\n\nVoor extra crunch: laat de gefrituurde kip 2 minuten rusten en frituur hem daarna nog 30 seconden een tweede keer. Niet noodzakelijk, maar wel een merkbaar verschil in textuur.",
+      "chef_tip": "Mise-en-place: Zet alles in de volgorde van de wok klaar op één plank of bord: eerst ui en paprika, dan knoflook, gember en rode peper, als laatste het peper-zoutmengsel en de lente-ui. De wokfase duurt maar enkele minuten en laat geen tijd om iets te snijden.\n\nTechniek: Wacht tussen de porties tot de olie weer op temperatuur is. Elke portie koelt de olie af, en bij te koude olie wordt de korst vettig in plaats van krokant.\n\nTechniek: Gebruik kipdijfilet, geen kipfilet. Kipdij blijft ook na twee keer frituren sappig, terwijl kipfilet snel droog wordt.\n\nTechniek: Maak de wok echt heet en wok niet te veel tegelijk. Past alles niet in één keer, bak ui en paprika dan in twee rondes; anders stoomt de groente in plaats van te schroeien.\n\nTechniek: Kneus de zwarte peper met de zijkant van een koksmes of in een vijzel en maal hem niet fijn. Grof gekneusde peper geeft de karakteristieke bite.\n\nPresentatie: Leg de kip als laatste bovenop in een warme, brede kom, zodat de korst niet in vocht komt te liggen. Zet de kom direct op tafel.\n\nVariatie: Vervang de groene paprika door rode of gele voor een zoetere, kleurrijkere variant. De aanpak blijft hetzelfde.\n\nAlternatief: Geen thermometer? Een houten eetstokje in de olie laat bij ca. 170 °C een rustige stroom belletjes zien. Bij ca. 190 °C stijgen de belletjes snel en krachtig op.\n\nAlternatief: Geen Shaoxing? Gebruik 1 tl droge sherry. Geen ve-tsin? Laat het weg; de kip smaakt dan iets minder hartig, maar blijft goed.",
+      "wine": {
+        "naam": "Grüner Veltliner — Oostenrijk",
+        "druif": "Grüner Veltliner",
+        "toelichting": "Aroma: Frisse citrus, groene appel, witte peper en lichte kruidigheid. Smaak en structuur: Droog, levendig en strak, met frisse zuren en een licht kruidige, peperige afdronk. De natuurlijke peperigheid van Grüner Veltliner sluit vrijwel naadloos aan op het nadrukkelijke zwarte-peperprofiel van dit gerecht. De frisse zuren snijden mooi door het krokante, gefrituurde karakter en de gekarameliseerde ui heen, en houden het geheel licht ondanks de pittige afwerking. Serveer op 8–9 °C.",
+        "alternatief": "Chenin Blanc uit de Loire of Zuid-Afrika, of een Pinot Gris uit de Elzas"
+      },
       "wines": [
         {
           "type": "aanbevolen",
           "naam": "Grüner Veltliner — Oostenrijk",
           "druif": "Grüner Veltliner",
-          "smaakprofiel": "Frisse citrus, groene appel, witte peper en lichte kruidigheid in de geur. Droog, levendig en strak, met frisse zuren en een licht kruidige, peperige afdronk.",
-          "omschrijving": "Onze eerste keuze — van nature peperig, dus een logische spiegel voor dit gerecht.",
+          "smaakprofiel": "Herkomst: Oostenrijk. Een droge, frisse en peperige witte wijn.",
+          "omschrijving": "Aroma: Frisse citrus, groene appel, witte peper en lichte kruidigheid. Smaak en structuur: Droog, levendig en strak, met frisse zuren en een licht kruidige, peperige afdronk.",
           "waarom_werkt_dit": "De natuurlijke peperigheid van Grüner Veltliner sluit vrijwel naadloos aan op het nadrukkelijke zwarte-peperprofiel van dit gerecht. De frisse zuren snijden mooi door het krokante, gefrituurde karakter en de gekarameliseerde ui heen, en houden het geheel licht ondanks de pittige afwerking.",
-          "serveertemperatuur": "Serveer op 8–9°C."
+          "serveertemperatuur": "Serveer op 8–9 °C"
         },
         {
           "type": "alternatief",
           "naam": "Chenin Blanc — Loire of Zuid-Afrika",
           "druif": "Chenin Blanc",
-          "smaakprofiel": "Gele appel, kweepeer, citrus, bloesem en soms een lichte honingtoon in de geur. Droog tot licht rond, met voldoende fruit, fijne zuren en een mooie spanning.",
-          "omschrijving": "De keuze voor wie iets meer ronding in het glas wil.",
-          "waarom_werkt_dit": "Chenin heeft net iets meer ronding dan Grüner, wat goed werkt bij gefrituurde kip, sesamolie en de zoetige, gekarameliseerde ui. Tegelijk blijft hij fris genoeg om de stevige peper en de paprika in balans te houden.",
-          "serveertemperatuur": "Serveer op 9–10°C."
+          "smaakprofiel": "Herkomst: Loire (Frankrijk) of Zuid-Afrika. De keuze voor wie iets meer ronding in het glas wil.",
+          "omschrijving": "Aroma: Gele appel, kweepeer, citrus, bloesem en soms een lichte honingtoon. Smaak en structuur: Droog tot licht rond, met voldoende fruit, fijne zuren en een mooie spanning.",
+          "waarom_werkt_dit": "Chenin heeft net iets meer ronding dan Grüner, wat goed werkt bij gefrituurde kip en de zoetige, gekarameliseerde ui. Tegelijk blijft hij fris genoeg om de stevige peper en de paprika in balans te houden.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         },
         {
-          "type": "meest toegankelijk",
+          "type": "meest-toegankelijk",
           "naam": "Pinot Gris — Elzas of koeler Nieuwe Wereld-klimaat",
           "druif": "Pinot Gris",
-          "smaakprofiel": "Peer, appel, witte perzik en een zachte kruidigheid in de geur. Middelvol, soepel en vriendelijk, met milde zuren en voldoende body.",
-          "omschrijving": "Breed verkrijgbaar en vriendelijk — de makkelijke keuze bij deze pittige kip.",
-          "waarom_werkt_dit": "Pinot Gris is een toegankelijke keuze als je iets wilt dat zacht genoeg is voor het gefrituurde element en de zoete ui, maar toch genoeg frisheid heeft om de stevige zwarte peper te dragen.",
-          "serveertemperatuur": "Serveer op 9–10°C."
+          "smaakprofiel": "Herkomst: Elzas (Frankrijk) of een koeler klimaat in de Nieuwe Wereld. Breed verkrijgbaar en vriendelijk.",
+          "omschrijving": "Aroma: Peer, appel, witte perzik en een zachte kruidigheid. Smaak en structuur: Middelvol, soepel en vriendelijk, met milde zuren en voldoende body.",
+          "waarom_werkt_dit": "Een toegankelijke keuze die zacht genoeg is voor het gefrituurde element en de zoete ui, maar toch genoeg frisheid heeft om de stevige zwarte peper te dragen.",
+          "serveertemperatuur": "Serveer op 9–10 °C"
         }
       ]
     },
